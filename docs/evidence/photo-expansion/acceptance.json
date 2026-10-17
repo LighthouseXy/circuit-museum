@@ -1,0 +1,47 @@
+{
+  "checkedOn": "2026-10-15",
+  "status": "verified-partial-delivery",
+  "requested": 142,
+  "addedPhotographs": 96,
+  "addedLicensedPhysicalVideoFrames": 2,
+  "addedIllustratedProducts": 98,
+  "existingIllustratedProductsPreserved": 34,
+  "totalIllustratedProducts": 139,
+  "pending": 44,
+  "fullRequestComplete": false,
+  "unitTestsPassed": 21,
+  "lint": "passed",
+  "build": "passed",
+  "broadBrowserRegression": {
+    "file": "docs/evidence/expanded-browser-results.json",
+    "checks": 26,
+    "publicProducts": 400,
+    "illustratedProducts": 139,
+    "note": "139 illustrated products comprise 137 photographs and two licensed physical video frames."
+  },
+  "finalPhotoBrowserRegression": {
+    "file": "docs/evidence/photo-expansion/browser-results.json",
+    "newProducts": 98,
+    "viewports": [
+      390,
+      1440
+    ],
+    "checks": [
+      "98 new images decode, matching captions, authors, work titles, source/license links and reflow at 390px",
+      "98 new images decode, matching captions, authors, work titles, source/license links and reflow at 1440px"
+    ]
+  },
+  "preservation": "Original image override entries remain deeply equal to before-image-overrides.json; original forty product records and twenty-nine chronicle nodes remain covered by passing tests.",
+  "remainingLedger": "docs/evidence/photo-expansion/photo-review-ledger.csv",
+  "copyrightEvidence": "CC BY, CC BY-SA, CC0/public domain, original Unsplash License and two Samsung Korea original-only permissions individually evidenced. Restricted Samsung JPEGs retain original bytes and SHA256. No copyrighted award or manufacturer image permission inferred from public availability.",
+  "researchRounds": {
+    "exactTitleProducts": 142,
+    "brandAndModelProducts": 85,
+    "finalQueriesProducts": 62,
+    "finalQueryErrors": 0,
+    "round2OpenverseProducts": 51,
+    "round2OpenverseErrors": 0,
+    "round3OriginalRemainingProducts": 47
+  },
+  "otherNewAwardImages": 7
+}

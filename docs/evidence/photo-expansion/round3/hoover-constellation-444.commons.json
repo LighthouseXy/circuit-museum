@@ -1,0 +1,3004 @@
+{
+  "slug": "hoover-constellation-444",
+  "query": "Hoover 444",
+  "checkedOn": "2026-10-15",
+  "data": {
+    "batchcomplete": "",
+    "continue": {
+      "gsroffset": 30,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": {
+        "17394323": {
+          "pageid": 17394323,
+          "ns": 6,
+          "title": "File:\"Apache Indians employed as high-scalers on the construction of Hoover Dam.\" - NARA - 293746.jpg",
+          "index": 14,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%22Apache_Indians_employed_as_high-scalers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293746.jpg/960px-%22Apache_Indians_employed_as_high-scalers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1291,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%22Apache_Indians_employed_as_high-scalers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293746.jpg/1920px-%22Apache_Indians_employed_as_high-scalers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%22Apache_Indians_employed_as_high-scalers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293746.jpg/960px-%22Apache_Indians_employed_as_high-scalers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1291,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/%22Apache_Indians_employed_as_high-scalers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293746.jpg/1920px-%22Apache_Indians_employed_as_high-scalers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/%22Apache_Indians_employed_as_high-scalers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22Apache_Indians_employed_as_high-scalers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293746.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17394323",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-11-18 10:46:23",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Apache Indians employed as high-scalers on the construction of Hoover Dam.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|20th-century men of the United States|PD USBR|People of the United States in 1932|Men at work in Nevada|Template Unknown (author)|Black and white photographs of Nevada|US National Archives series: Photograph albums, compiled 1903 - 1972|Black and white photographs of the United States in the 1930s|Construction workers in the United States|Black and white photographs of men at work|October 1932 in Boulder City, Nevada|October 1932 United States photographs|Photographs taken on 1932-10-05|Black and white photographs of 2 men|Black and white photographs of standing men in the United States|2 men in Nevada|Men pointing left|1932 black and white photographs of people|US National Archives location: other|Men at work in the 1930s|Black and white photographs of men wearing hats in the United States|NARA images of Apaches|Construction of the Hoover Dam|People associated with the construction of Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "5 October 1932<div style=\"display: none;\">date QS:P571,+1932-10-05T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "17394004": {
+          "pageid": 17394004,
+          "ns": 6,
+          "title": "File:\"Avenue of poplars on irrigated ranch in the vicinity of Hoover Dam.\" - NARA - 293639.jpg",
+          "index": 12,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%22Avenue_of_poplars_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293639.jpg/960px-%22Avenue_of_poplars_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1297,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%22Avenue_of_poplars_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293639.jpg/1920px-%22Avenue_of_poplars_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%22Avenue_of_poplars_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293639.jpg/960px-%22Avenue_of_poplars_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1297,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%22Avenue_of_poplars_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293639.jpg/1920px-%22Avenue_of_poplars_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/%22Avenue_of_poplars_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22Avenue_of_poplars_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293639.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17394004",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-11-18 10:14:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Avenue of poplars on irrigated ranch in the vicinity of Hoover Dam.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Populus nigra (cultivars)|Roads in Nevada|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|PD USBR|Automobiles in Nevada|Trees in Nevada|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|Black and white photographs of trees in the United States|US National Archives location: other|Construction of the Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1 May 1932<div style=\"display: none;\">date QS:P571,+1932-05-01T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/U.S.%20National%20Archives%20and%20Records%20Administration\" title=\"en:U.S. National Archives and Records Administration\" class=\"extiw\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "17394005": {
+          "pageid": 17394005,
+          "ns": 6,
+          "title": "File:\"Home on irrigated ranch in the vicinity of Hoover Dam.\" - NARA - 293640.jpg",
+          "index": 11,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/%22Home_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293640.jpg/960px-%22Home_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293640.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 627,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/%22Home_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293640.jpg/1920px-%22Home_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293640.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/%22Home_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293640.jpg/960px-%22Home_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293640.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 627,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/%22Home_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293640.jpg/1920px-%22Home_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293640.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/%22Home_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293640.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22Home_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293640.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17394005",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-11-18 10:15:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Home on irrigated ranch in the vicinity of Hoover Dam.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|PD USBR|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|US National Archives location: other|Construction of the Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1 May 1932<div style=\"display: none;\">date QS:P571,+1932-05-01T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "17394319": {
+          "pageid": 17394319,
+          "ns": 6,
+          "title": "File:\"Indians employed on the construction of Hoover Dam as high-scalers. This group includes one Yaqui, one Crow, one... - NARA - 293745.jpg",
+          "index": 25,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%22Indians_employed_on_the_construction_of_Hoover_Dam_as_high-scalers._This_group_includes_one_Yaqui%2C_one_Crow%2C_one..._-_NARA_-_293745.jpg/960px-%22Indians_employed_on_the_construction_of_Hoover_Dam_as_high-scalers._This_group_includes_one_Yaqui%2C_one_Crow%2C_one..._-_NARA_-_293745.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 632,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%22Indians_employed_on_the_construction_of_Hoover_Dam_as_high-scalers._This_group_includes_one_Yaqui%2C_one_Crow%2C_one..._-_NARA_-_293745.jpg/1920px-%22Indians_employed_on_the_construction_of_Hoover_Dam_as_high-scalers._This_group_includes_one_Yaqui%2C_one_Crow%2C_one..._-_NARA_-_293745.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%22Indians_employed_on_the_construction_of_Hoover_Dam_as_high-scalers._This_group_includes_one_Yaqui%2C_one_Crow%2C_one..._-_NARA_-_293745.jpg/960px-%22Indians_employed_on_the_construction_of_Hoover_Dam_as_high-scalers._This_group_includes_one_Yaqui%2C_one_Crow%2C_one..._-_NARA_-_293745.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 632,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%22Indians_employed_on_the_construction_of_Hoover_Dam_as_high-scalers._This_group_includes_one_Yaqui%2C_one_Crow%2C_one..._-_NARA_-_293745.jpg/1920px-%22Indians_employed_on_the_construction_of_Hoover_Dam_as_high-scalers._This_group_includes_one_Yaqui%2C_one_Crow%2C_one..._-_NARA_-_293745.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/%22Indians_employed_on_the_construction_of_Hoover_Dam_as_high-scalers._This_group_includes_one_Yaqui%2C_one_Crow%2C_one..._-_NARA_-_293745.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22Indians_employed_on_the_construction_of_Hoover_Dam_as_high-scalers._This_group_includes_one_Yaqui,_one_Crow,_one..._-_NARA_-_293745.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17394319",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-11-18 10:46:09",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Indians employed on the construction of Hoover Dam as high-scalers. This group includes one Yaqui, one Crow, one Navajo and six Apaches.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|PD USBR|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|Construction workers in the United States|US National Archives location: other|People associated with the construction of Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "5 October 1932<div style=\"display: none;\">date QS:P571,+1932-10-05T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "17394248": {
+          "pageid": 17394248,
+          "ns": 6,
+          "title": "File:\"Looking upstream into Black Canyon toward Hoover Damsite from point on Six Companies Construction road on Nevada side.\" - NARA - 293720.jpg",
+          "index": 28,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%22Looking_upstream_into_Black_Canyon_toward_Hoover_Damsite_from_point_on_Six_Companies_Construction_road_on_Nevada_side.%22_-_NARA_-_293720.jpg/960px-%22Looking_upstream_into_Black_Canyon_toward_Hoover_Damsite_from_point_on_Six_Companies_Construction_road_on_Nevada_side.%22_-_NARA_-_293720.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 629,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%22Looking_upstream_into_Black_Canyon_toward_Hoover_Damsite_from_point_on_Six_Companies_Construction_road_on_Nevada_side.%22_-_NARA_-_293720.jpg/1920px-%22Looking_upstream_into_Black_Canyon_toward_Hoover_Damsite_from_point_on_Six_Companies_Construction_road_on_Nevada_side.%22_-_NARA_-_293720.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%22Looking_upstream_into_Black_Canyon_toward_Hoover_Damsite_from_point_on_Six_Companies_Construction_road_on_Nevada_side.%22_-_NARA_-_293720.jpg/960px-%22Looking_upstream_into_Black_Canyon_toward_Hoover_Damsite_from_point_on_Six_Companies_Construction_road_on_Nevada_side.%22_-_NARA_-_293720.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 629,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/%22Looking_upstream_into_Black_Canyon_toward_Hoover_Damsite_from_point_on_Six_Companies_Construction_road_on_Nevada_side.%22_-_NARA_-_293720.jpg/1920px-%22Looking_upstream_into_Black_Canyon_toward_Hoover_Damsite_from_point_on_Six_Companies_Construction_road_on_Nevada_side.%22_-_NARA_-_293720.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/%22Looking_upstream_into_Black_Canyon_toward_Hoover_Damsite_from_point_on_Six_Companies_Construction_road_on_Nevada_side.%22_-_NARA_-_293720.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22Looking_upstream_into_Black_Canyon_toward_Hoover_Damsite_from_point_on_Six_Companies_Construction_road_on_Nevada_side.%22_-_NARA_-_293720.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17394248",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-11-18 10:38:54",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Looking upstream into Black Canyon toward Hoover Damsite from point on Six Companies Construction road on Nevada side.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Bridges over the Colorado River|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Suspension bridges in Arizona|Artworks without Wikidata item|PD USBR|Template Unknown (author)|Suspension bridges in Nevada|US National Archives series: Photograph albums, compiled 1903 - 1972|Bridges across canyons in Nevada|Bridges across canyons in Arizona|August 1932 United States photographs|US National Archives location: other|Construction of the Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "12 August 1932<div style=\"display: none;\">date QS:P571,+1932-08-12T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "17394326": {
+          "pageid": 17394326,
+          "ns": 6,
+          "title": "File:\"Negroes employed as drillers on the construction of Hoover Dam.\" - NARA - 293747.jpg",
+          "index": 23,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.jpg/960px-%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 633,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.jpg/1920px-%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.jpg/960px-%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 633,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.jpg/1920px-%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17394326",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-11-18 10:46:38",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Negroes employed as drillers on the construction of Hoover Dam.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Drilling|African American men|Artworks without Wikidata item|20th-century men of the United States|PD USBR|People of the United States in 1932|Men at work in Nevada|Template Unknown (author)|Black and white photographs of Nevada|US National Archives series: Photograph albums, compiled 1903 - 1972|Black and white photographs of the United States in the 1930s|Construction workers in the United States|Black and white photographs of men at work|6 men in the United States|October 1932 in Boulder City, Nevada|October 1932 United States photographs|Photographs taken on 1932-10-03|1932 black and white portrait photographs of men|20th-century black and white portrait photographs of standing men at full length|Men with hard hats|US National Archives location: other|Black and white photographs of men looking at viewer|Men at work in the 1930s|20th-century black and white group portrait photographs of men|Men looking at viewer in the United States|People associated with the construction of Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "3 October 1932<div style=\"display: none;\">date QS:P571,+1932-10-03T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "16577285": {
+          "pageid": 16577285,
+          "ns": 6,
+          "title": "File:\"Negroes employed as drillers on the construction of Hoover Dam.\" - NARA - 293747.tif",
+          "index": 30,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.tif/lossy-page1-960px-%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 633,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.tif/lossy-page1-1920px-%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.tif/lossy-page1-960px-%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 633,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.tif/lossy-page1-1920px-%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22Negroes_employed_as_drillers_on_the_construction_of_Hoover_Dam.%22_-_NARA_-_293747.tif",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16577285",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-09-19 17:08:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Negroes employed as drillers on the construction of Hoover Dam.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|NARA TIF images with categorized JPGs|PD USBR|Template Unknown (author)|High-resolution TIFF images from the National Archives and Records Administration|US National Archives series: Photograph albums, compiled 1903 - 1972|US National Archives location: other",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "3 October 1932<div style=\"display: none;\">date QS:P571,+1932-10-03T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/U.S.%20National%20Archives%20and%20Records%20Administration\" title=\"en:U.S. National Archives and Records Administration\" class=\"extiw\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "17394064": {
+          "pageid": 17394064,
+          "ns": 6,
+          "title": "File:\"Portion of the field forces of the Bureau of Reclamation employed on surveys and inspection at Hoover Dam. Field... - NARA - 293657.jpg",
+          "index": 18,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/%22Portion_of_the_field_forces_of_the_Bureau_of_Reclamation_employed_on_surveys_and_inspection_at_Hoover_Dam._Field..._-_NARA_-_293657.jpg/960px-%22Portion_of_the_field_forces_of_the_Bureau_of_Reclamation_employed_on_surveys_and_inspection_at_Hoover_Dam._Field..._-_NARA_-_293657.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 632,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/%22Portion_of_the_field_forces_of_the_Bureau_of_Reclamation_employed_on_surveys_and_inspection_at_Hoover_Dam._Field..._-_NARA_-_293657.jpg/1920px-%22Portion_of_the_field_forces_of_the_Bureau_of_Reclamation_employed_on_surveys_and_inspection_at_Hoover_Dam._Field..._-_NARA_-_293657.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/%22Portion_of_the_field_forces_of_the_Bureau_of_Reclamation_employed_on_surveys_and_inspection_at_Hoover_Dam._Field..._-_NARA_-_293657.jpg/960px-%22Portion_of_the_field_forces_of_the_Bureau_of_Reclamation_employed_on_surveys_and_inspection_at_Hoover_Dam._Field..._-_NARA_-_293657.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 632,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/%22Portion_of_the_field_forces_of_the_Bureau_of_Reclamation_employed_on_surveys_and_inspection_at_Hoover_Dam._Field..._-_NARA_-_293657.jpg/1920px-%22Portion_of_the_field_forces_of_the_Bureau_of_Reclamation_employed_on_surveys_and_inspection_at_Hoover_Dam._Field..._-_NARA_-_293657.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/%22Portion_of_the_field_forces_of_the_Bureau_of_Reclamation_employed_on_surveys_and_inspection_at_Hoover_Dam._Field..._-_NARA_-_293657.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22Portion_of_the_field_forces_of_the_Bureau_of_Reclamation_employed_on_surveys_and_inspection_at_Hoover_Dam._Field..._-_NARA_-_293657.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17394064",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-11-18 10:19:23",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Portion of the field forces of the Bureau of Reclamation employed on surveys and inspection at Hoover Dam. Field Engineer Ralph Lowry is kneeling seventh from the left, front row.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|People of the United States Bureau of Reclamation|PD USBR|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|US National Archives location: other|People associated with the construction of Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Ralph Lowry, Principal Assistant to Construction Engineer Walker R. Young on the Boulder Canyon Project among employees of the Bureau of Reclamation.</p>\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "16 May 1932<div style=\"display: none;\">date QS:P571,+1932-05-16T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/U.S.%20National%20Archives%20and%20Records%20Administration\" title=\"en:U.S. National Archives and Records Administration\" class=\"extiw\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "27328106": {
+          "pageid": 27328106,
+          "ns": 6,
+          "title": "File:\"President Herbert Hoover and official party in Tunnel No. 2 during inspection tour of Boulder Canyon Project. Left... - NARA - 293761.jpg",
+          "index": 13,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%22President_Herbert_Hoover_and_official_party_in_Tunnel_No._2_during_inspection_tour_of_Boulder_Canyon_Project._Left..._-_NARA_-_293761.jpg/960px-%22President_Herbert_Hoover_and_official_party_in_Tunnel_No._2_during_inspection_tour_of_Boulder_Canyon_Project._Left..._-_NARA_-_293761.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 633,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%22President_Herbert_Hoover_and_official_party_in_Tunnel_No._2_during_inspection_tour_of_Boulder_Canyon_Project._Left..._-_NARA_-_293761.jpg/1920px-%22President_Herbert_Hoover_and_official_party_in_Tunnel_No._2_during_inspection_tour_of_Boulder_Canyon_Project._Left..._-_NARA_-_293761.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%22President_Herbert_Hoover_and_official_party_in_Tunnel_No._2_during_inspection_tour_of_Boulder_Canyon_Project._Left..._-_NARA_-_293761.jpg/960px-%22President_Herbert_Hoover_and_official_party_in_Tunnel_No._2_during_inspection_tour_of_Boulder_Canyon_Project._Left..._-_NARA_-_293761.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 633,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/%22President_Herbert_Hoover_and_official_party_in_Tunnel_No._2_during_inspection_tour_of_Boulder_Canyon_Project._Left..._-_NARA_-_293761.jpg/1920px-%22President_Herbert_Hoover_and_official_party_in_Tunnel_No._2_during_inspection_tour_of_Boulder_Canyon_Project._Left..._-_NARA_-_293761.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/%22President_Herbert_Hoover_and_official_party_in_Tunnel_No._2_during_inspection_tour_of_Boulder_Canyon_Project._Left..._-_NARA_-_293761.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22President_Herbert_Hoover_and_official_party_in_Tunnel_No._2_during_inspection_tour_of_Boulder_Canyon_Project._Left..._-_NARA_-_293761.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27328106",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-19 06:47:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"President Herbert Hoover and official party in Tunnel No. 2 during inspection tour of Boulder Canyon Project. Left to right: Construction Engineer Walker R. Young, Bureau of Reclamation; Mr. Ritchey, Secretary to the President; Chief Engineer Raymond F. Walter, Bureau of Reclamation; Mrs. Hoover; President Hoover; Mrs. Wilber; Secretary of the Interior Ray Lyman Wilbur; E.O. Wattis, First Vice-President, Six Companies, Inc.; Frank T. Crowe, General Superintendent, Six Companies, Inc.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Ray Lyman Wilbur|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|Images with extracted images|PD USBR|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|Photographs taken on 1932-11-12|Herbert Hoover in 1932|November 1932 in Arizona|November 1932 in Boulder City, Nevada|US National Archives location: other|People associated with the construction of Hoover Dam|Six Companies Inc.",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "12 November 1932<div style=\"display: none;\">date QS:P571,+1932-11-12T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/U.S.%20National%20Archives%20and%20Records%20Administration\" title=\"en:U.S. National Archives and Records Administration\" class=\"extiw\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "17394003": {
+          "pageid": 17394003,
+          "ns": 6,
+          "title": "File:\"Reservoir on irrigated ranch in the vicinity of Hoover Dam.\" - NARA - 293638.jpg",
+          "index": 10,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%22Reservoir_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293638.jpg/960px-%22Reservoir_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 630,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%22Reservoir_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293638.jpg/1920px-%22Reservoir_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%22Reservoir_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293638.jpg/960px-%22Reservoir_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 630,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/%22Reservoir_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293638.jpg/1920px-%22Reservoir_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/%22Reservoir_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293638.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22Reservoir_on_irrigated_ranch_in_the_vicinity_of_Hoover_Dam.%22_-_NARA_-_293638.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17394003",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-11-18 10:14:38",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Reservoir on irrigated ranch in the vicinity of Hoover Dam.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|PD USBR|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|US National Archives location: other|Construction of the Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1 May 1932<div style=\"display: none;\">date QS:P571,+1932-05-01T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "27329321": {
+          "pageid": 27329321,
+          "ns": 6,
+          "title": "File:\"Tourists viewing workings at Hoover Damsite from observation point on Black Canyon Highway. An average of about... - NARA - 293753.jpg",
+          "index": 17,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/%22Tourists_viewing_workings_at_Hoover_Damsite_from_observation_point_on_Black_Canyon_Highway._An_average_of_about..._-_NARA_-_293753.jpg/960px-%22Tourists_viewing_workings_at_Hoover_Damsite_from_observation_point_on_Black_Canyon_Highway._An_average_of_about..._-_NARA_-_293753.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 632,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/%22Tourists_viewing_workings_at_Hoover_Damsite_from_observation_point_on_Black_Canyon_Highway._An_average_of_about..._-_NARA_-_293753.jpg/1920px-%22Tourists_viewing_workings_at_Hoover_Damsite_from_observation_point_on_Black_Canyon_Highway._An_average_of_about..._-_NARA_-_293753.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/%22Tourists_viewing_workings_at_Hoover_Damsite_from_observation_point_on_Black_Canyon_Highway._An_average_of_about..._-_NARA_-_293753.jpg/960px-%22Tourists_viewing_workings_at_Hoover_Damsite_from_observation_point_on_Black_Canyon_Highway._An_average_of_about..._-_NARA_-_293753.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 632,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/%22Tourists_viewing_workings_at_Hoover_Damsite_from_observation_point_on_Black_Canyon_Highway._An_average_of_about..._-_NARA_-_293753.jpg/1920px-%22Tourists_viewing_workings_at_Hoover_Damsite_from_observation_point_on_Black_Canyon_Highway._An_average_of_about..._-_NARA_-_293753.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/%22Tourists_viewing_workings_at_Hoover_Damsite_from_observation_point_on_Black_Canyon_Highway._An_average_of_about..._-_NARA_-_293753.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%22Tourists_viewing_workings_at_Hoover_Damsite_from_observation_point_on_Black_Canyon_Highway._An_average_of_about..._-_NARA_-_293753.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27329321",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-19 08:11:32",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Tourists viewing workings at Hoover Damsite from observation point on Black Canyon Highway. An average of about 10,000 visitors per month are being checked in at the Reservation gates.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|PD USBR|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|US National Archives location: other|People associated with the construction of Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "26 October 1932<div style=\"display: none;\">date QS:P571,+1932-10-26T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/U.S.%20National%20Archives%20and%20Records%20Administration\" title=\"en:U.S. National Archives and Records Administration\" class=\"extiw\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "92141287": {
+          "pageid": 92141287,
+          "ns": 6,
+          "title": "File:2020-07-11 16 47 18 View north along New Jersey State Route 444 (Garden State Parkway) at Exit 150 (Hoover Avenue) in Bloomfield Township, Essex County, New Jersey.jpg",
+          "index": 29,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/2020-07-11_16_47_18_View_north_along_New_Jersey_State_Route_444_%28Garden_State_Parkway%29_at_Exit_150_%28Hoover_Avenue%29_in_Bloomfield_Township%2C_Essex_County%2C_New_Jersey.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 675,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/2020-07-11_16_47_18_View_north_along_New_Jersey_State_Route_444_%28Garden_State_Parkway%29_at_Exit_150_%28Hoover_Avenue%29_in_Bloomfield_Township%2C_Essex_County%2C_New_Jersey.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/2020-07-11_16_47_18_View_north_along_New_Jersey_State_Route_444_%28Garden_State_Parkway%29_at_Exit_150_%28Hoover_Avenue%29_in_Bloomfield_Township%2C_Essex_County%2C_New_Jersey.jpg/960px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 675,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/2020-07-11_16_47_18_View_north_along_New_Jersey_State_Route_444_%28Garden_State_Parkway%29_at_Exit_150_%28Hoover_Avenue%29_in_Bloomfield_Township%2C_Essex_County%2C_New_Jersey.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/2020-07-11_16_47_18_View_north_along_New_Jersey_State_Route_444_%28Garden_State_Parkway%29_at_Exit_150_%28Hoover_Avenue%29_in_Bloomfield_Township%2C_Essex_County%2C_New_Jersey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:2020-07-11_16_47_18_View_north_along_New_Jersey_State_Route_444_(Garden_State_Parkway)_at_Exit_150_(Hoover_Avenue)_in_Bloomfield_Township,_Essex_County,_New_Jersey.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=92141287",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-07-12 00:28:50",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "2020-07-11 16 47 18 View north along New Jersey State Route 444 (Garden State Parkway) at Exit 150 (Hoover Avenue) in Bloomfield Township, Essex County, New Jersey",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Interchange Advance Guide signs in New Jersey|Files with coordinates missing SDC location of creation|Exits numbered 150|Exits numbered 151|United States photographs taken on 2020-07-11|July 2020 in New Jersey|Rest area signs in New Jersey|Road sign gantries in Essex County, New Jersey|Interchange Exit Direction Signs in New Jersey|Exit 1 1/4 miles Advance Guide Signs|Rest area signs with logos in the United States|Roads in Bloomfield Township, New Jersey|Road signs for Montclair, New Jersey|Road signs for Nutley, New Jersey|Road signs along the Garden State Parkway in Essex County, New Jersey|Famartin's 2020 photos|Famartin's July 2020 photos|Brookdale North Service Area|Road signs for County Route 651 (Essex County, New Jersey) along other roads|Road signs for County Route 655 (Essex County, New Jersey) along other roads",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "40.807381",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-74.182372",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "View north along New Jersey State Route 444 (Garden State Parkway) at Exit 150 (Hoover Avenue) in Bloomfield Township, Essex County, New Jersey",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2020-07-11 16:47:18",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Famartin\" title=\"User:Famartin\">Famartin</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "27332652": {
+          "pageid": 27332652,
+          "ns": 6,
+          "title": "File:Boulder Canyon movable cableway tower operating over Hoover damsite. This photograph shows a typical installation.... - NARA - 293804.jpg",
+          "index": 19,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Boulder_Canyon_movable_cableway_tower_operating_over_Hoover_damsite._This_photograph_shows_a_typical_installation...._-_NARA_-_293804.jpg/960px-Boulder_Canyon_movable_cableway_tower_operating_over_Hoover_damsite._This_photograph_shows_a_typical_installation...._-_NARA_-_293804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1297,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Boulder_Canyon_movable_cableway_tower_operating_over_Hoover_damsite._This_photograph_shows_a_typical_installation...._-_NARA_-_293804.jpg/1920px-Boulder_Canyon_movable_cableway_tower_operating_over_Hoover_damsite._This_photograph_shows_a_typical_installation...._-_NARA_-_293804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Boulder_Canyon_movable_cableway_tower_operating_over_Hoover_damsite._This_photograph_shows_a_typical_installation...._-_NARA_-_293804.jpg/960px-Boulder_Canyon_movable_cableway_tower_operating_over_Hoover_damsite._This_photograph_shows_a_typical_installation...._-_NARA_-_293804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1297,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Boulder_Canyon_movable_cableway_tower_operating_over_Hoover_damsite._This_photograph_shows_a_typical_installation...._-_NARA_-_293804.jpg/1920px-Boulder_Canyon_movable_cableway_tower_operating_over_Hoover_damsite._This_photograph_shows_a_typical_installation...._-_NARA_-_293804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Boulder_Canyon_movable_cableway_tower_operating_over_Hoover_damsite._This_photograph_shows_a_typical_installation...._-_NARA_-_293804.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Boulder_Canyon_movable_cableway_tower_operating_over_Hoover_damsite._This_photograph_shows_a_typical_installation...._-_NARA_-_293804.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27332652",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-19 11:43:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Boulder Canyon movable cableway tower operating over Hoover damsite. This photograph shows a typical installation. Note thrust rail and cable arrangement to provide lateral movement. Concrete counter weight seen at left.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|PD USBR|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|US National Archives location: other|Six Companies Inc. cableways at Hoover Dam construction site",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "25 February 1933<div style=\"display: none;\">date QS:P571,+1933-02-25T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/U.S.%20National%20Archives%20and%20Records%20Administration\" title=\"en:U.S. National Archives and Records Administration\" class=\"extiw\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "27308502": {
+          "pageid": 27308502,
+          "ns": 6,
+          "title": "File:Erecting movable tower for 20-ton cableway to operate over Hoover Damsite. Note inclined rail on canyon side of... - NARA - 293755.jpg",
+          "index": 24,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Erecting_movable_tower_for_20-ton_cableway_to_operate_over_Hoover_Damsite._Note_inclined_rail_on_canyon_side_of..._-_NARA_-_293755.jpg/960px-Erecting_movable_tower_for_20-ton_cableway_to_operate_over_Hoover_Damsite._Note_inclined_rail_on_canyon_side_of..._-_NARA_-_293755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1293,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Erecting_movable_tower_for_20-ton_cableway_to_operate_over_Hoover_Damsite._Note_inclined_rail_on_canyon_side_of..._-_NARA_-_293755.jpg/1920px-Erecting_movable_tower_for_20-ton_cableway_to_operate_over_Hoover_Damsite._Note_inclined_rail_on_canyon_side_of..._-_NARA_-_293755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Erecting_movable_tower_for_20-ton_cableway_to_operate_over_Hoover_Damsite._Note_inclined_rail_on_canyon_side_of..._-_NARA_-_293755.jpg/960px-Erecting_movable_tower_for_20-ton_cableway_to_operate_over_Hoover_Damsite._Note_inclined_rail_on_canyon_side_of..._-_NARA_-_293755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1293,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Erecting_movable_tower_for_20-ton_cableway_to_operate_over_Hoover_Damsite._Note_inclined_rail_on_canyon_side_of..._-_NARA_-_293755.jpg/1920px-Erecting_movable_tower_for_20-ton_cableway_to_operate_over_Hoover_Damsite._Note_inclined_rail_on_canyon_side_of..._-_NARA_-_293755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Erecting_movable_tower_for_20-ton_cableway_to_operate_over_Hoover_Damsite._Note_inclined_rail_on_canyon_side_of..._-_NARA_-_293755.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Erecting_movable_tower_for_20-ton_cableway_to_operate_over_Hoover_Damsite._Note_inclined_rail_on_canyon_side_of..._-_NARA_-_293755.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27308502",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-18 07:20:36",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Erecting movable tower for 20-ton cableway to operate over Hoover Damsite. Note inclined rail on canyon side of structure which is designed to carry thrust.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|Cableway pylons|PD USBR|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|US National Archives location: other|Six Companies Inc. cableways at Hoover Dam construction site",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "28 October 1932<div style=\"display: none;\">date QS:P571,+1932-10-28T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/U.S.%20National%20Archives%20and%20Records%20Administration\" title=\"en:U.S. National Archives and Records Administration\" class=\"extiw\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "17195823": {
+          "pageid": 17195823,
+          "ns": 6,
+          "title": "File:Herbert Hoover - NARA - 532049.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Herbert_Hoover_-_NARA_-_532049.jpg/960px-Herbert_Hoover_-_NARA_-_532049.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1200,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Herbert_Hoover_-_NARA_-_532049.jpg/1920px-Herbert_Hoover_-_NARA_-_532049.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Herbert_Hoover_-_NARA_-_532049.jpg/960px-Herbert_Hoover_-_NARA_-_532049.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1200,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Herbert_Hoover_-_NARA_-_532049.jpg/1920px-Herbert_Hoover_-_NARA_-_532049.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Herbert_Hoover_-_NARA_-_532049.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herbert_Hoover_-_NARA_-_532049.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17195823",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-05-28 23:16:46",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>Herbert Hoover</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US Government|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|Images with extracted images|Template Unknown (author)|CC-PD-Mark|US National Archives series: Photographs of Bureau of Reclamation Personnel and Secretaries of the Interior, compiled 1900 - 1933|Portrait photographs of Herbert Hoover|Portrait photographs from the National Archives and Records Administration|Herbert Hoover in the National Archives and Records Administration",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>General notes:</b>  Use Presidents List Number 15 when ordering a reproduction or requesting information about this image.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between 1902 and 1935<div style=\"display: none;\">date QS:P571,+1950-00-00T00:00:00Z/7,P1319,+1902-00-00T00:00:00Z/9,P1326,+1935-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/U.S.%20National%20Archives%20and%20Records%20Administration\" title=\"en:U.S. National Archives and Records Administration\" class=\"extiw\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "16579257": {
+          "pageid": 16579257,
+          "ns": 6,
+          "title": "File:Herbert Hoover - NARA - 532049.tif",
+          "index": 22,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Herbert_Hoover_-_NARA_-_532049.tif/lossy-page1-960px-Herbert_Hoover_-_NARA_-_532049.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1143,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Herbert_Hoover_-_NARA_-_532049.tif/lossy-page1-1920px-Herbert_Hoover_-_NARA_-_532049.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Herbert_Hoover_-_NARA_-_532049.tif/lossy-page1-960px-Herbert_Hoover_-_NARA_-_532049.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1143,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Herbert_Hoover_-_NARA_-_532049.tif/lossy-page1-1920px-Herbert_Hoover_-_NARA_-_532049.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Herbert_Hoover_-_NARA_-_532049.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herbert_Hoover_-_NARA_-_532049.tif",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16579257",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-09-19 18:04:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>Herbert Hoover</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US Government|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|NARA TIF images with categorized JPGs|Template Unknown (author)|CC-PD-Mark|High-resolution TIFF images from the National Archives and Records Administration|US National Archives series: Photographs of Bureau of Reclamation Personnel and Secretaries of the Interior, compiled 1900 - 1933",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>General notes:</b>  Use Presidents List Number 15 when ordering a reproduction or requesting information about this image.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between 1902 and 1935<div style=\"display: none;\">date QS:P571,+1950-00-00T00:00:00Z/7,P1319,+1902-00-00T00:00:00Z/9,P1326,+1935-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/U.S.%20National%20Archives%20and%20Records%20Administration\" title=\"en:U.S. National Archives and Records Administration\" class=\"extiw\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "72995778": {
+          "pageid": 72995778,
+          "ns": 6,
+          "title": "File:Herbert Hoover - NARA - 532049 (closein crop 3x4).jpg",
+          "index": 7,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Herbert_Hoover_-_NARA_-_532049_%28closein_crop_3x4%29.jpg/960px-Herbert_Hoover_-_NARA_-_532049_%28closein_crop_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1200,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Herbert_Hoover_-_NARA_-_532049_%28closein_crop_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Herbert_Hoover_-_NARA_-_532049_%28closein_crop_3x4%29.jpg/960px-Herbert_Hoover_-_NARA_-_532049_%28closein_crop_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1200,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Herbert_Hoover_-_NARA_-_532049_%28closein_crop_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Herbert_Hoover_-_NARA_-_532049_%28closein_crop_3x4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herbert_Hoover_-_NARA_-_532049_(closein_crop_3x4).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72995778",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-09-24 16:44:54",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>Herbert Hoover</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US Government|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|Extracted images|Template Unknown (author)|CC-PD-Mark|US National Archives series: Photographs of Bureau of Reclamation Personnel and Secretaries of the Interior, compiled 1900 - 1933|Portrait photographs of Herbert Hoover|Portrait photographs from the National Archives and Records Administration|Herbert Hoover in the National Archives and Records Administration",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>General notes:</b>  Use Presidents List Number 15 when ordering a reproduction or requesting information about this image.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between 1902 and 1935<div style=\"display: none;\">date QS:P571,+1950-00-00T00:00:00Z/7,P1319,+1902-00-00T00:00:00Z/9,P1326,+1935-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/U.S.%20National%20Archives%20and%20Records%20Administration\" title=\"en:U.S. National Archives and Records Administration\" class=\"extiw\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "125603766": {
+          "pageid": 125603766,
+          "ns": 6,
+          "title": "File:Herbert Hoover - NARA - 532049 (cropped).jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Herbert_Hoover_-_NARA_-_532049_%28cropped%29.jpg/960px-Herbert_Hoover_-_NARA_-_532049_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1315,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/8/86/Herbert_Hoover_-_NARA_-_532049_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Herbert_Hoover_-_NARA_-_532049_%28cropped%29.jpg/960px-Herbert_Hoover_-_NARA_-_532049_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1315,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/86/Herbert_Hoover_-_NARA_-_532049_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Herbert_Hoover_-_NARA_-_532049_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Herbert_Hoover_-_NARA_-_532049_(cropped).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125603766",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-11-17 04:52:07",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>Herbert Hoover</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US Government|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|Extracted images|Template Unknown (author)|CC-PD-Mark|US National Archives series: Photographs of Bureau of Reclamation Personnel and Secretaries of the Interior, compiled 1900 - 1933|Portrait photographs of Herbert Hoover|Portrait photographs from the National Archives and Records Administration|Herbert Hoover in the National Archives and Records Administration",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>General notes:</b>  Use Presidents List Number 15 when ordering a reproduction or requesting information about this image.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between 1902 and 1935<div style=\"display: none;\">date QS:P571,+1950-00-00T00:00:00Z/7,P1319,+1902-00-00T00:00:00Z/9,P1326,+1935-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/U.S.%20National%20Archives%20and%20Records%20Administration\" title=\"en:U.S. National Archives and Records Administration\" class=\"extiw\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "6797633": {
+          "pageid": 6797633,
+          "ns": 6,
+          "title": "File:Hoover AL Public Library hallway.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Hoover_AL_Public_Library_hallway.jpg/960px-Hoover_AL_Public_Library_hallway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 675,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Hoover_AL_Public_Library_hallway.jpg/1920px-Hoover_AL_Public_Library_hallway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Hoover_AL_Public_Library_hallway.jpg/960px-Hoover_AL_Public_Library_hallway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 675,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Hoover_AL_Public_Library_hallway.jpg/1920px-Hoover_AL_Public_Library_hallway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Hoover_AL_Public_Library_hallway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hoover_AL_Public_Library_hallway.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6797633",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-05-16 20:53:32",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hoover AL Public Library hallway",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Fujifilm FinePix E550|Flickr images reviewed by trusted users|Libraries in the United States photographed in 2007|Interiors of libraries in Alabama|Corridors in the United States|Files with coordinates missing SDC location of creation|United States photographs taken on 2007-11-14|Buildings in Hoover, Alabama",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "33.388010",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-86.804550",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Hoover AL Public Library hallway",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on<span typeof=\"mw:Entity\"> </span>14 November 2007, 11:13<link rel=\"mw:PageProp/Category\" href=\"./Category:United_States_photographs_taken_on_2007-11-14\">",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/92319630@N00/2022740536/\" class=\"external text\">Hallway at Hoover Public Library</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/people/92319630@N00\" class=\"external text\">Elizabeth Swift</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "71442392": {
+          "pageid": 71442392,
+          "ns": 6,
+          "title": "File:Hoover Dam, Mike O’Callaghan-Pat Tillman Memorial Bridge 2010-10-12.jpg",
+          "index": 6,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hoover_Dam%2C_Mike_O%E2%80%99Callaghan-Pat_Tillman_Memorial_Bridge_2010-10-12.jpg/960px-Hoover_Dam%2C_Mike_O%E2%80%99Callaghan-Pat_Tillman_Memorial_Bridge_2010-10-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1125,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hoover_Dam%2C_Mike_O%E2%80%99Callaghan-Pat_Tillman_Memorial_Bridge_2010-10-12.jpg/1920px-Hoover_Dam%2C_Mike_O%E2%80%99Callaghan-Pat_Tillman_Memorial_Bridge_2010-10-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hoover_Dam%2C_Mike_O%E2%80%99Callaghan-Pat_Tillman_Memorial_Bridge_2010-10-12.jpg/960px-Hoover_Dam%2C_Mike_O%E2%80%99Callaghan-Pat_Tillman_Memorial_Bridge_2010-10-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1125,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Hoover_Dam%2C_Mike_O%E2%80%99Callaghan-Pat_Tillman_Memorial_Bridge_2010-10-12.jpg/1920px-Hoover_Dam%2C_Mike_O%E2%80%99Callaghan-Pat_Tillman_Memorial_Bridge_2010-10-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Hoover_Dam%2C_Mike_O%E2%80%99Callaghan-Pat_Tillman_Memorial_Bridge_2010-10-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hoover_Dam,_Mike_O%E2%80%99Callaghan-Pat_Tillman_Memorial_Bridge_2010-10-12.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=71442392",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-08-08 03:03:45",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hoover Dam, Mike O’Callaghan-Pat Tillman Memorial Bridge 2010-10-12",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Aerial photographs of Hoover Dam|Flickr images reviewed by FlickreviewR 2|Water intake towers at Hoover Dam|Construction of the Mike O'Callaghan–Pat Tillman Memorial Bridge",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Aerial photograph of Hoover Dam; Colorado River Bridge (Mike O’Callaghan–Pat Tillman Memorial Bridge) construction, October 2010",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2010-10-12",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/fhwa/7136282281/\" class=\"external text\">C-FHWA-004-444 hi rez</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/people/fhwa/\" class=\"external text\">Federal Highway Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "27327768": {
+          "pageid": 27327768,
+          "ns": 6,
+          "title": "File:Looking upstream at Hoover damsite toward upper cofferdam across excavation for power house location - NARA - 293812.jpg",
+          "index": 15,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Looking_upstream_at_Hoover_damsite_toward_upper_cofferdam_across_excavation_for_power_house_location_-_NARA_-_293812.jpg/960px-Looking_upstream_at_Hoover_damsite_toward_upper_cofferdam_across_excavation_for_power_house_location_-_NARA_-_293812.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 629,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Looking_upstream_at_Hoover_damsite_toward_upper_cofferdam_across_excavation_for_power_house_location_-_NARA_-_293812.jpg/1920px-Looking_upstream_at_Hoover_damsite_toward_upper_cofferdam_across_excavation_for_power_house_location_-_NARA_-_293812.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Looking_upstream_at_Hoover_damsite_toward_upper_cofferdam_across_excavation_for_power_house_location_-_NARA_-_293812.jpg/960px-Looking_upstream_at_Hoover_damsite_toward_upper_cofferdam_across_excavation_for_power_house_location_-_NARA_-_293812.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 629,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Looking_upstream_at_Hoover_damsite_toward_upper_cofferdam_across_excavation_for_power_house_location_-_NARA_-_293812.jpg/1920px-Looking_upstream_at_Hoover_damsite_toward_upper_cofferdam_across_excavation_for_power_house_location_-_NARA_-_293812.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Looking_upstream_at_Hoover_damsite_toward_upper_cofferdam_across_excavation_for_power_house_location_-_NARA_-_293812.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Looking_upstream_at_Hoover_damsite_toward_upper_cofferdam_across_excavation_for_power_house_location_-_NARA_-_293812.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27327768",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-19 06:20:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Looking upstream at Hoover damsite toward upper cofferdam across excavation for power house location.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|PD USBR|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|NARA images of Nevada|US National Archives location: other|Construction of the Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "25 February 1933<div style=\"display: none;\">date QS:P571,+1933-02-25T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "27327774": {
+          "pageid": 27327774,
+          "ns": 6,
+          "title": "File:Looking upstream into Black Canyon toward Hoover Dam site showing outlet portals of four diversion tunnels and... - NARA - 293789.jpg",
+          "index": 27,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Looking_upstream_into_Black_Canyon_toward_Hoover_Dam_site_showing_outlet_portals_of_four_diversion_tunnels_and..._-_NARA_-_293789.jpg/960px-Looking_upstream_into_Black_Canyon_toward_Hoover_Dam_site_showing_outlet_portals_of_four_diversion_tunnels_and..._-_NARA_-_293789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 631,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Looking_upstream_into_Black_Canyon_toward_Hoover_Dam_site_showing_outlet_portals_of_four_diversion_tunnels_and..._-_NARA_-_293789.jpg/1920px-Looking_upstream_into_Black_Canyon_toward_Hoover_Dam_site_showing_outlet_portals_of_four_diversion_tunnels_and..._-_NARA_-_293789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Looking_upstream_into_Black_Canyon_toward_Hoover_Dam_site_showing_outlet_portals_of_four_diversion_tunnels_and..._-_NARA_-_293789.jpg/960px-Looking_upstream_into_Black_Canyon_toward_Hoover_Dam_site_showing_outlet_portals_of_four_diversion_tunnels_and..._-_NARA_-_293789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 631,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Looking_upstream_into_Black_Canyon_toward_Hoover_Dam_site_showing_outlet_portals_of_four_diversion_tunnels_and..._-_NARA_-_293789.jpg/1920px-Looking_upstream_into_Black_Canyon_toward_Hoover_Dam_site_showing_outlet_portals_of_four_diversion_tunnels_and..._-_NARA_-_293789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Looking_upstream_into_Black_Canyon_toward_Hoover_Dam_site_showing_outlet_portals_of_four_diversion_tunnels_and..._-_NARA_-_293789.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Looking_upstream_into_Black_Canyon_toward_Hoover_Dam_site_showing_outlet_portals_of_four_diversion_tunnels_and..._-_NARA_-_293789.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27327774",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-19 06:21:03",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Looking upstream into Black Canyon toward Hoover Dam site showing outlet portals of four diversion tunnels and blasting in outlet valve-house excavations. River is being diverted through tunnels 3 &amp; 4.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Bridges over the Colorado River|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Suspension bridges in Arizona|Artworks without Wikidata item|Diversion tunnels|PD USBR|Template Unknown (author)|Suspension bridges in Nevada|US National Archives series: Photograph albums, compiled 1903 - 1972|Bridges across canyons in Nevada|Bridges across canyons in Arizona|December 1932 United States photographs|US National Archives location: other|Construction of the Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "31 December 1932<div style=\"display: none;\">date QS:P571,+1932-12-31T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "27327780": {
+          "pageid": 27327780,
+          "ns": 6,
+          "title": "File:Looking upstream into Black Canyon toward Hoover damsite showing four diversion tunnel outlets - NARA - 293813.jpg",
+          "index": 20,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Looking_upstream_into_Black_Canyon_toward_Hoover_damsite_showing_four_diversion_tunnel_outlets_-_NARA_-_293813.jpg/960px-Looking_upstream_into_Black_Canyon_toward_Hoover_damsite_showing_four_diversion_tunnel_outlets_-_NARA_-_293813.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 634,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Looking_upstream_into_Black_Canyon_toward_Hoover_damsite_showing_four_diversion_tunnel_outlets_-_NARA_-_293813.jpg/1920px-Looking_upstream_into_Black_Canyon_toward_Hoover_damsite_showing_four_diversion_tunnel_outlets_-_NARA_-_293813.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Looking_upstream_into_Black_Canyon_toward_Hoover_damsite_showing_four_diversion_tunnel_outlets_-_NARA_-_293813.jpg/960px-Looking_upstream_into_Black_Canyon_toward_Hoover_damsite_showing_four_diversion_tunnel_outlets_-_NARA_-_293813.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 634,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Looking_upstream_into_Black_Canyon_toward_Hoover_damsite_showing_four_diversion_tunnel_outlets_-_NARA_-_293813.jpg/1920px-Looking_upstream_into_Black_Canyon_toward_Hoover_damsite_showing_four_diversion_tunnel_outlets_-_NARA_-_293813.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Looking_upstream_into_Black_Canyon_toward_Hoover_damsite_showing_four_diversion_tunnel_outlets_-_NARA_-_293813.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Looking_upstream_into_Black_Canyon_toward_Hoover_damsite_showing_four_diversion_tunnel_outlets_-_NARA_-_293813.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27327780",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-19 06:21:31",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Looking upstream into Black Canyon toward Hoover damsite showing four diversion tunnel outlets.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Bridges over the Colorado River|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Suspension bridges in Arizona|Artworks without Wikidata item|Diversion tunnels|PD USBR|Template Unknown (author)|Suspension bridges in Nevada|US National Archives series: Photograph albums, compiled 1903 - 1972|Bridges across canyons in Nevada|Bridges across canyons in Arizona|February 1933 United States photographs|US National Archives location: other|Construction of the Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "25 February 1933<div style=\"display: none;\">date QS:P571,+1933-02-25T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "27327805": {
+          "pageid": 27327805,
+          "ns": 6,
+          "title": "File:Looking upstream through Black Canyon toward Hoover Damsite. View showing condition of canyon prior to inauguration... - NARA - 293792.jpg",
+          "index": 26,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite._View_showing_condition_of_canyon_prior_to_inauguration..._-_NARA_-_293792.jpg/960px-Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite._View_showing_condition_of_canyon_prior_to_inauguration..._-_NARA_-_293792.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 627,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite._View_showing_condition_of_canyon_prior_to_inauguration..._-_NARA_-_293792.jpg/1920px-Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite._View_showing_condition_of_canyon_prior_to_inauguration..._-_NARA_-_293792.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite._View_showing_condition_of_canyon_prior_to_inauguration..._-_NARA_-_293792.jpg/960px-Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite._View_showing_condition_of_canyon_prior_to_inauguration..._-_NARA_-_293792.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 627,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite._View_showing_condition_of_canyon_prior_to_inauguration..._-_NARA_-_293792.jpg/1920px-Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite._View_showing_condition_of_canyon_prior_to_inauguration..._-_NARA_-_293792.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite._View_showing_condition_of_canyon_prior_to_inauguration..._-_NARA_-_293792.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite._View_showing_condition_of_canyon_prior_to_inauguration..._-_NARA_-_293792.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27327805",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-19 06:24:10",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Looking upstream through Black Canyon toward Hoover Damsite. View showing condition of canyon prior to inauguration of Hoover Dam construction activities. Copy negative of photograph made by Construction Engineer Walker R. Young in 1932.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Nevada in the 1930s|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|PD USBR|Template Unknown (author)|Black and white photographs of Arizona|Black and white photographs of Nevada|US National Archives series: Photograph albums, compiled 1903 - 1972|NARA images of Nevada|February 1933 in Arizona|US National Archives location: other|Construction of the Hoover Dam|NARA images of the Black Canyon (Colorado River)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1 February 1933<div style=\"display: none;\">date QS:P571,+1933-02-01T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "27327794": {
+          "pageid": 27327794,
+          "ns": 6,
+          "title": "File:Looking upstream through Black Canyon toward Hoover Damsite showing condition after diversion of Colorado River.... - NARA - 293793.jpg",
+          "index": 16,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_condition_after_diversion_of_Colorado_River...._-_NARA_-_293793.jpg/960px-Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_condition_after_diversion_of_Colorado_River...._-_NARA_-_293793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1294,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_condition_after_diversion_of_Colorado_River...._-_NARA_-_293793.jpg/1920px-Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_condition_after_diversion_of_Colorado_River...._-_NARA_-_293793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_condition_after_diversion_of_Colorado_River...._-_NARA_-_293793.jpg/960px-Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_condition_after_diversion_of_Colorado_River...._-_NARA_-_293793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1294,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_condition_after_diversion_of_Colorado_River...._-_NARA_-_293793.jpg/1920px-Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_condition_after_diversion_of_Colorado_River...._-_NARA_-_293793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_condition_after_diversion_of_Colorado_River...._-_NARA_-_293793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_condition_after_diversion_of_Colorado_River...._-_NARA_-_293793.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27327794",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-19 06:23:16",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Looking upstream through Black Canyon toward Hoover Damsite showing condition after diversion of Colorado River. Lower levels of canyon choked with material blasted and stripped from canyon walls. Downstream rock barrier seen in foreground.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|PD USBR|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|US National Archives location: other|Construction of the Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "20 January 1933<div style=\"display: none;\">date QS:P571,+1933-01-20T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "27327798": {
+          "pageid": 27327798,
+          "ns": 6,
+          "title": "File:Looking upstream through Black Canyon toward Hoover Damsite showing extent to which lower level of canyon is choked... - NARA - 293781.jpg",
+          "index": 21,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_extent_to_which_lower_level_of_canyon_is_choked..._-_NARA_-_293781.jpg/960px-Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_extent_to_which_lower_level_of_canyon_is_choked..._-_NARA_-_293781.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1296,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_extent_to_which_lower_level_of_canyon_is_choked..._-_NARA_-_293781.jpg/1920px-Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_extent_to_which_lower_level_of_canyon_is_choked..._-_NARA_-_293781.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_extent_to_which_lower_level_of_canyon_is_choked..._-_NARA_-_293781.jpg/960px-Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_extent_to_which_lower_level_of_canyon_is_choked..._-_NARA_-_293781.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1296,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_extent_to_which_lower_level_of_canyon_is_choked..._-_NARA_-_293781.jpg/1920px-Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_extent_to_which_lower_level_of_canyon_is_choked..._-_NARA_-_293781.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_extent_to_which_lower_level_of_canyon_is_choked..._-_NARA_-_293781.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Looking_upstream_through_Black_Canyon_toward_Hoover_Damsite_showing_extent_to_which_lower_level_of_canyon_is_choked..._-_NARA_-_293781.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27327798",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-19 06:23:43",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Looking upstream through Black Canyon toward Hoover Damsite showing extent to which lower level of canyon is choked with debris blasted and stripped from abutments and canyon walls. Outlet portal of diversion tunnel No. 2 and temporary backwash barrier seen in foreground.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|PD USBR|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|US National Archives location: other|Construction of the Hoover Dam",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "26 December 1932<div style=\"display: none;\">date QS:P571,+1932-12-26T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "27410939": {
+          "pageid": 27410939,
+          "ns": 6,
+          "title": "File:Panorama of canyon rim above Hoover damsite on the Nevada side. From left to right are seen, Operating tower for... - NARA - 293808.jpg",
+          "index": 9,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Panorama_of_canyon_rim_above_Hoover_damsite_on_the_Nevada_side._From_left_to_right_are_seen%2C_Operating_tower_for..._-_NARA_-_293808.jpg/960px-Panorama_of_canyon_rim_above_Hoover_damsite_on_the_Nevada_side._From_left_to_right_are_seen%2C_Operating_tower_for..._-_NARA_-_293808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 332,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Panorama_of_canyon_rim_above_Hoover_damsite_on_the_Nevada_side._From_left_to_right_are_seen%2C_Operating_tower_for..._-_NARA_-_293808.jpg/1920px-Panorama_of_canyon_rim_above_Hoover_damsite_on_the_Nevada_side._From_left_to_right_are_seen%2C_Operating_tower_for..._-_NARA_-_293808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Panorama_of_canyon_rim_above_Hoover_damsite_on_the_Nevada_side._From_left_to_right_are_seen%2C_Operating_tower_for..._-_NARA_-_293808.jpg/960px-Panorama_of_canyon_rim_above_Hoover_damsite_on_the_Nevada_side._From_left_to_right_are_seen%2C_Operating_tower_for..._-_NARA_-_293808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 332,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Panorama_of_canyon_rim_above_Hoover_damsite_on_the_Nevada_side._From_left_to_right_are_seen%2C_Operating_tower_for..._-_NARA_-_293808.jpg/1920px-Panorama_of_canyon_rim_above_Hoover_damsite_on_the_Nevada_side._From_left_to_right_are_seen%2C_Operating_tower_for..._-_NARA_-_293808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Panorama_of_canyon_rim_above_Hoover_damsite_on_the_Nevada_side._From_left_to_right_are_seen%2C_Operating_tower_for..._-_NARA_-_293808.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Panorama_of_canyon_rim_above_Hoover_damsite_on_the_Nevada_side._From_left_to_right_are_seen,_Operating_tower_for..._-_NARA_-_293808.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27410939",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-07-24 07:34:06",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<i>\"Panorama of canyon rim above Hoover damsite on the Nevada side. From left to right are seen: Operating tower for 150-ton cableway, Six Companies' high level concrete mixing plant, cableway operating over damsite, cableway operating over intake towers and spillways. In the foreground are seen, left to right: riprap retaining fill over mixing plant gorge, upper abutment excavation, upper intake towers excavation.\"</i></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|PD USBR|Template Unknown (author)|US National Archives series: Photograph albums, compiled 1903 - 1972|US National Archives location: other|Construction of the Hoover Dam|Six Companies Inc. concrete mixing plants at Hoover Dam construction site|Six Companies Inc. cableways at Hoover Dam construction site",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span> or not provided</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  Photograph from Volume Two of a series of photo albums documenting the construction of Hoover Dam, Boulder City, Nevada.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1 March 1933<div style=\"display: none;\">date QS:P571,+1933-03-01T00:00:00Z/11</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "165891569": {
+          "pageid": 165891569,
+          "ns": 6,
+          "title": "File:Public Papers of Herbert Hoover, 1930.pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Public_Papers_of_Herbert_Hoover%2C_1930.pdf/page1-500px-Public_Papers_of_Herbert_Hoover%2C_1930.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1399,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Public_Papers_of_Herbert_Hoover%2C_1930.pdf/page1-500px-Public_Papers_of_Herbert_Hoover%2C_1930.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1399
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Public_Papers_of_Herbert_Hoover%2C_1930.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Public_Papers_of_Herbert_Hoover,_1930.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165891569",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-05-24 06:09:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Public Papers of Herbert Hoover, 1930",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Herbert Hoover|PD US Government|PD US expired|CC-PD-Mark|Scanned English books in PDF|1929 books from the United States",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Public Papers of Herbert Hoover, 1930",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1930",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.google.com/books/edition/Public_Papers_of_the_Presidents_of_the_U/9IjvQDq0v4wC?hl=en&amp;gbpv=0\">https://www.google.com/books/edition/Public_Papers_of_the_Presidents_of_the_U/9IjvQDq0v4wC?hl=en&amp;gbpv=0</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Herbert_Hoover\" class=\"extiw\" title=\"w:en:Herbert Hoover\"><span title=\"president of the United States from 1929 to 1933 (1874–1964)\">Herbert Hoover</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "165890863": {
+          "pageid": 165890863,
+          "ns": 6,
+          "title": "File:Public Papers of Herbert Hoover, 1931.pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Public_Papers_of_Herbert_Hoover%2C_1931.pdf/page1-960px-Public_Papers_of_Herbert_Hoover%2C_1931.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1271,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Public_Papers_of_Herbert_Hoover%2C_1931.pdf/page1-960px-Public_Papers_of_Herbert_Hoover%2C_1931.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1271
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Public_Papers_of_Herbert_Hoover%2C_1931.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Public_Papers_of_Herbert_Hoover,_1931.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=165890863",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-05-24 05:51:48",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Public Papers of Herbert Hoover, 1931",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Herbert Hoover|PD US Government|PD US expired|CC-PD-Mark|Scanned English books in PDF|1931 books from the United States",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Public Papers of Herbert Hoover, 1931",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1931",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/details/publicpapersofth015186mbp/mode/2up\">https://archive.org/details/publicpapersofth015186mbp/mode/2up</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Herbert_Hoover\" class=\"extiw\" title=\"w:en:Herbert Hoover\"><span title=\"president of the United States from 1929 to 1933 (1874–1964)\">Herbert Hoover</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "195923612": {
+          "pageid": 195923612,
+          "ns": 6,
+          "title": "File:Public Papers of Herbert Hoover, 1932 and 1933.pdf",
+          "index": 8,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Public_Papers_of_Herbert_Hoover%2C_1932_and_1933.pdf/page1-960px-Public_Papers_of_Herbert_Hoover%2C_1932_and_1933.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1325,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Public_Papers_of_Herbert_Hoover%2C_1932_and_1933.pdf/page1-960px-Public_Papers_of_Herbert_Hoover%2C_1932_and_1933.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1325
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Public_Papers_of_Herbert_Hoover%2C_1932_and_1933.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Public_Papers_of_Herbert_Hoover,_1932_and_1933.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=195923612",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-07-20 04:26:13",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nPublic Papers of Herbert Hoover</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Herbert Hoover|PD US Government|PD Old|PD-scan (PD-old-70)|Scans from the Internet Archive/unverified|Images with extracted images|CC-PD-Mark|Scans from the Internet Archive|Scanned English books in PDF|1977 books from the United States|Books without Wikidata item|PD-USGov missing SDC copyright status|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:Herbert%20Hoover\" title=\"w:en:Herbert Hoover\" class=\"extiw\"><span title=\"president of the United States from 1929 to 1933 (1874–1964)\">Herbert Hoover</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/publicpapersofpr0000unit_b1r5\" title=\"iarchive:publicpapersofpr0000unit b1r5\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: publicpapersofpr0000unit_b1r5</a> <link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Public%20Papers%20of%20Herbert%20Hoover,%201932%20and%201933.pdf\"> <link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Public%20Papers%20of%20Herbert%20Hoover,%201932%20and%201933.pdf\">",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

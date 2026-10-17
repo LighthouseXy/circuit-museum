@@ -1,0 +1,1539 @@
+{
+  "reviewedOn": "2026-10-04",
+  "exhibitCount": 40,
+  "sections": [
+    "significance",
+    "context",
+    "design",
+    "usage",
+    "limitations"
+  ],
+  "summary": "每件展品先解释代表性，再提供背景、设计、使用和局限；事实逐节引用，代表性为策展解读，当代产品为观察对象。",
+  "characters": [
+    {
+      "slug": "radiola-iii",
+      "beforeCharacters": 145,
+      "characters": 830,
+      "sectionCharacters": {
+        "significance": 226,
+        "context": 174,
+        "design": 171,
+        "usage": 138,
+        "limitations": 121
+      }
+    },
+    {
+      "slug": "regency-tr1",
+      "beforeCharacters": 149,
+      "characters": 825,
+      "sectionCharacters": {
+        "significance": 205,
+        "context": 178,
+        "design": 176,
+        "usage": 138,
+        "limitations": 128
+      }
+    },
+    {
+      "slug": "koss-sp3",
+      "beforeCharacters": 100,
+      "characters": 833,
+      "sectionCharacters": {
+        "significance": 221,
+        "context": 175,
+        "design": 173,
+        "usage": 138,
+        "limitations": 126
+      }
+    },
+    {
+      "slug": "hamilton-pulsar-p1",
+      "beforeCharacters": 96,
+      "characters": 849,
+      "sectionCharacters": {
+        "significance": 222,
+        "context": 169,
+        "design": 177,
+        "usage": 153,
+        "limitations": 128
+      }
+    },
+    {
+      "slug": "hp-35",
+      "beforeCharacters": 122,
+      "characters": 857,
+      "sectionCharacters": {
+        "significance": 235,
+        "context": 172,
+        "design": 181,
+        "usage": 148,
+        "limitations": 121
+      }
+    },
+    {
+      "slug": "magnavox-odyssey",
+      "beforeCharacters": 130,
+      "characters": 865,
+      "sectionCharacters": {
+        "significance": 235,
+        "context": 173,
+        "design": 175,
+        "usage": 161,
+        "limitations": 121
+      }
+    },
+    {
+      "slug": "altair-8800",
+      "beforeCharacters": 147,
+      "characters": 885,
+      "sectionCharacters": {
+        "significance": 248,
+        "context": 183,
+        "design": 180,
+        "usage": 151,
+        "limitations": 123
+      }
+    },
+    {
+      "slug": "apple-1",
+      "beforeCharacters": 149,
+      "characters": 879,
+      "sectionCharacters": {
+        "significance": 240,
+        "context": 183,
+        "design": 179,
+        "usage": 148,
+        "limitations": 129
+      }
+    },
+    {
+      "slug": "atari-vcs",
+      "beforeCharacters": 150,
+      "characters": 898,
+      "sectionCharacters": {
+        "significance": 233,
+        "context": 180,
+        "design": 193,
+        "usage": 170,
+        "limitations": 122
+      }
+    },
+    {
+      "slug": "speak-and-spell",
+      "beforeCharacters": 139,
+      "characters": 852,
+      "sectionCharacters": {
+        "significance": 233,
+        "context": 173,
+        "design": 177,
+        "usage": 150,
+        "limitations": 119
+      }
+    },
+    {
+      "slug": "sony-tps-l2",
+      "beforeCharacters": 129,
+      "characters": 867,
+      "sectionCharacters": {
+        "significance": 243,
+        "context": 165,
+        "design": 177,
+        "usage": 155,
+        "limitations": 127
+      }
+    },
+    {
+      "slug": "ibm-pc-5150",
+      "beforeCharacters": 126,
+      "characters": 876,
+      "sectionCharacters": {
+        "significance": 229,
+        "context": 170,
+        "design": 193,
+        "usage": 155,
+        "limitations": 129
+      }
+    },
+    {
+      "slug": "commodore-64",
+      "beforeCharacters": 121,
+      "characters": 900,
+      "sectionCharacters": {
+        "significance": 250,
+        "context": 169,
+        "design": 179,
+        "usage": 173,
+        "limitations": 129
+      }
+    },
+    {
+      "slug": "motorola-dynatac-8000x",
+      "beforeCharacters": 148,
+      "characters": 825,
+      "sectionCharacters": {
+        "significance": 225,
+        "context": 155,
+        "design": 156,
+        "usage": 158,
+        "limitations": 131
+      }
+    },
+    {
+      "slug": "nintendo-famicom",
+      "beforeCharacters": 132,
+      "characters": 872,
+      "sectionCharacters": {
+        "significance": 242,
+        "context": 158,
+        "design": 173,
+        "usage": 166,
+        "limitations": 133
+      }
+    },
+    {
+      "slug": "macintosh-128k",
+      "beforeCharacters": 146,
+      "characters": 903,
+      "sectionCharacters": {
+        "significance": 240,
+        "context": 172,
+        "design": 162,
+        "usage": 180,
+        "limitations": 149
+      }
+    },
+    {
+      "slug": "game-boy",
+      "beforeCharacters": 126,
+      "characters": 888,
+      "sectionCharacters": {
+        "significance": 259,
+        "context": 152,
+        "design": 171,
+        "usage": 172,
+        "limitations": 134
+      }
+    },
+    {
+      "slug": "sony-playstation",
+      "beforeCharacters": 150,
+      "characters": 934,
+      "sectionCharacters": {
+        "significance": 268,
+        "context": 170,
+        "design": 173,
+        "usage": 179,
+        "limitations": 144
+      }
+    },
+    {
+      "slug": "casio-qv10",
+      "beforeCharacters": 123,
+      "characters": 916,
+      "sectionCharacters": {
+        "significance": 258,
+        "context": 159,
+        "design": 179,
+        "usage": 168,
+        "limitations": 152
+      }
+    },
+    {
+      "slug": "palmpilot-professional",
+      "beforeCharacters": 134,
+      "characters": 899,
+      "sectionCharacters": {
+        "significance": 242,
+        "context": 170,
+        "design": 176,
+        "usage": 172,
+        "limitations": 139
+      }
+    },
+    {
+      "slug": "imac-g3",
+      "beforeCharacters": 149,
+      "characters": 936,
+      "sectionCharacters": {
+        "significance": 251,
+        "context": 173,
+        "design": 182,
+        "usage": 178,
+        "limitations": 152
+      }
+    },
+    {
+      "slug": "ipod-1",
+      "beforeCharacters": 153,
+      "characters": 941,
+      "sectionCharacters": {
+        "significance": 248,
+        "context": 176,
+        "design": 186,
+        "usage": 172,
+        "limitations": 159
+      }
+    },
+    {
+      "slug": "nintendo-ds",
+      "beforeCharacters": 133,
+      "characters": 948,
+      "sectionCharacters": {
+        "significance": 254,
+        "context": 177,
+        "design": 188,
+        "usage": 176,
+        "limitations": 153
+      }
+    },
+    {
+      "slug": "macbook-2006",
+      "beforeCharacters": 192,
+      "characters": 942,
+      "sectionCharacters": {
+        "significance": 249,
+        "context": 180,
+        "design": 198,
+        "usage": 167,
+        "limitations": 148
+      }
+    },
+    {
+      "slug": "nintendo-wii",
+      "beforeCharacters": 125,
+      "characters": 938,
+      "sectionCharacters": {
+        "significance": 255,
+        "context": 165,
+        "design": 201,
+        "usage": 173,
+        "limitations": 144
+      }
+    },
+    {
+      "slug": "amazon-kindle-1",
+      "beforeCharacters": 131,
+      "characters": 941,
+      "sectionCharacters": {
+        "significance": 243,
+        "context": 175,
+        "design": 194,
+        "usage": 173,
+        "limitations": 156
+      }
+    },
+    {
+      "slug": "iphone-1",
+      "beforeCharacters": 134,
+      "characters": 942,
+      "sectionCharacters": {
+        "significance": 257,
+        "context": 178,
+        "design": 176,
+        "usage": 173,
+        "limitations": 158
+      }
+    },
+    {
+      "slug": "ipad-1",
+      "beforeCharacters": 138,
+      "characters": 957,
+      "sectionCharacters": {
+        "significance": 257,
+        "context": 180,
+        "design": 196,
+        "usage": 172,
+        "limitations": 152
+      }
+    },
+    {
+      "slug": "iphone-4",
+      "beforeCharacters": 162,
+      "characters": 941,
+      "sectionCharacters": {
+        "significance": 245,
+        "context": 169,
+        "design": 195,
+        "usage": 180,
+        "limitations": 152
+      }
+    },
+    {
+      "slug": "raspberry-pi-model-b",
+      "beforeCharacters": 132,
+      "characters": 920,
+      "sectionCharacters": {
+        "significance": 233,
+        "context": 160,
+        "design": 193,
+        "usage": 179,
+        "limitations": 155
+      }
+    },
+    {
+      "slug": "fitbit-flex",
+      "beforeCharacters": 90,
+      "characters": 901,
+      "sectionCharacters": {
+        "significance": 233,
+        "context": 167,
+        "design": 190,
+        "usage": 172,
+        "limitations": 139
+      }
+    },
+    {
+      "slug": "xiaomi-mi-band-1",
+      "beforeCharacters": 89,
+      "characters": 908,
+      "sectionCharacters": {
+        "significance": 238,
+        "context": 174,
+        "design": 179,
+        "usage": 175,
+        "limitations": 142
+      }
+    },
+    {
+      "slug": "apple-watch-1",
+      "beforeCharacters": 141,
+      "characters": 944,
+      "sectionCharacters": {
+        "significance": 240,
+        "context": 169,
+        "design": 210,
+        "usage": 174,
+        "limitations": 151
+      }
+    },
+    {
+      "slug": "airpods-1",
+      "beforeCharacters": 107,
+      "characters": 916,
+      "sectionCharacters": {
+        "significance": 228,
+        "context": 171,
+        "design": 193,
+        "usage": 173,
+        "limitations": 151
+      }
+    },
+    {
+      "slug": "steam-deck-lcd",
+      "beforeCharacters": 138,
+      "characters": 924,
+      "sectionCharacters": {
+        "significance": 223,
+        "context": 173,
+        "design": 191,
+        "usage": 173,
+        "limitations": 164
+      }
+    },
+    {
+      "slug": "airpods-5",
+      "beforeCharacters": 71,
+      "characters": 920,
+      "sectionCharacters": {
+        "significance": 256,
+        "context": 159,
+        "design": 189,
+        "usage": 163,
+        "limitations": 153
+      }
+    },
+    {
+      "slug": "apple-watch-series-12",
+      "beforeCharacters": 90,
+      "characters": 926,
+      "sectionCharacters": {
+        "significance": 244,
+        "context": 177,
+        "design": 187,
+        "usage": 156,
+        "limitations": 162
+      }
+    },
+    {
+      "slug": "iphone-18-pro",
+      "beforeCharacters": 85,
+      "characters": 940,
+      "sectionCharacters": {
+        "significance": 247,
+        "context": 165,
+        "design": 211,
+        "usage": 169,
+        "limitations": 148
+      }
+    },
+    {
+      "slug": "macbook-air-m5-2026",
+      "beforeCharacters": 115,
+      "characters": 937,
+      "sectionCharacters": {
+        "significance": 243,
+        "context": 157,
+        "design": 212,
+        "usage": 166,
+        "limitations": 159
+      }
+    },
+    {
+      "slug": "xiaomi-smart-band-11-active",
+      "beforeCharacters": 128,
+      "characters": 899,
+      "sectionCharacters": {
+        "significance": 238,
+        "context": 162,
+        "design": 199,
+        "usage": 154,
+        "limitations": 146
+      }
+    }
+  ],
+  "research": [
+    {
+      "slug": "radiola-iii",
+      "sourceChecks": [
+        {
+          "id": "S01",
+          "url": "https://americanhistory.si.edu/collections/object/nmah_1941972",
+          "mode": "index",
+          "notes": "原机构网页的搜索索引内容已核查；直接正文抓取失败，未通读原页面；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE01",
+          "url": "https://americanhistory.si.edu/collections/object/nmah_1341347",
+          "mode": "index",
+          "notes": "原机构搜索索引记录已读；原网页正文未成功读取；具体实物身份严格区分。"
+        },
+        {
+          "id": "S03",
+          "url": "https://americanhistory.si.edu/collections/object/nmah_713528",
+          "mode": "index",
+          "notes": "原机构网页的搜索索引内容已核查；直接正文抓取失败，未通读原页面；不表示媒体复制授权。"
+        },
+        {
+          "id": "S13",
+          "url": "https://www.sony.com/en/SonyInfo/News/Press/199907/99-059/",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        }
+      ],
+      "notes": "1924 保持为原馆藏实物制造年份。控制和电路来自另一件同型号 Type R1，不等同同一件实物。直接 Smithsonian 页面失败，只能确认原机构索引记录；未获取可核对的整册原厂说明书，供电接线与续航不补写。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "regency-tr1",
+      "sourceChecks": [
+        {
+          "id": "S03",
+          "url": "https://americanhistory.si.edu/collections/object/nmah_713528",
+          "mode": "index",
+          "notes": "原机构网页的搜索索引内容已核查；直接正文抓取失败，未通读原页面；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE02",
+          "url": "https://www.manualslib.com/manual/4144780/Regency-Tr-1.html?page=3",
+          "mode": "manual",
+          "notes": "读取原厂资料的网页 OCR 转录；未完整校验原扫描页与整册，未采用含糊的续航数字。"
+        },
+        {
+          "id": "S01",
+          "url": "https://americanhistory.si.edu/collections/object/nmah_1941972",
+          "mode": "index",
+          "notes": "原机构网页的搜索索引内容已核查；直接正文抓取失败，未通读原页面；不表示媒体复制授权。"
+        },
+        {
+          "id": "S13",
+          "url": "https://www.sony.com/en/SonyInfo/News/Press/199907/99-059/",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        }
+      ],
+      "notes": "原厂 1955 年资料可用于 TR-1 结构和插口说明；OCR 中续航数字未采用。没有将 TR-1 写成全部晶体管消费品的第一款，未给出当前古董的使用表现。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "koss-sp3",
+      "sourceChecks": [
+        {
+          "id": "CH01",
+          "url": "https://koss.com/en-ca/pages/koss-history",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        }
+      ],
+      "notes": "Koss 品牌史为主要可读来源，未找到可核验的原始 SP/3 规格/使用手册；技术描述限于立体声聆听与唱机配套。品牌“世界第一”宣传、主观听感、后继 SP/3X/PRO 型号功能均未采用。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "hamilton-pulsar-p1",
+      "sourceChecks": [
+        {
+          "id": "CH02",
+          "url": "https://www.swatchgroup.com/en/services/archive/2020/hamilton-psr",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        }
+      ],
+      "notes": "明确分开 1970 原型、1972 P1、1973 P2 与 2020 PSR。原型的磁性调校与长按秒显示没有全面套入 P1；没有可读的 P1 独立原始使用手册或电池实测。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "hp-35",
+      "sourceChecks": [
+        {
+          "id": "S07",
+          "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/personalsystems/0023/index.html",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE03",
+          "url": "https://ethw.org/Milestones:Development_of_the_HP-35,_the_First_Handheld_Scientific_Calculator,_1972",
+          "mode": "body",
+          "notes": "网页正文已读；IEEE 里程碑的历史技术说明，不作当前古董实测。"
+        },
+        {
+          "id": "CH02",
+          "url": "https://www.swatchgroup.com/en/services/archive/2020/hamilton-psr",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        }
+      ],
+      "notes": "IEEE 正文补足 RPN/堆栈及按键组织。HP Journal 原始 PDF 抓取没有可核对的正文/可视页，未计为已读手册；新文不借用 HP-65 等后继可编程能力。TD03 为既有图像来源 ID，保留但本批未重新验证。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "magnavox-odyssey",
+      "sourceChecks": [
+        {
+          "id": "S08",
+          "url": "https://americanhistory.si.edu/ne/collections/object-groups/the-father-of-the-video-game-the-ralph-baer-prototypes-and-electronic-games/video-game-history",
+          "mode": "index",
+          "notes": "原机构网页的搜索索引内容已核查；直接正文抓取失败，未通读原页面；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE04",
+          "url": "https://americanhistory.si.edu/explore/stories/magnavox-odyssey-predicted-future-video-games",
+          "mode": "index",
+          "notes": "原机构完整搜索索引文章已读；直接页面读取超时，未声称通读在线正文或实测。"
+        },
+        {
+          "id": "S11",
+          "url": "https://www.computerhistory.org/timeline/1977/",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        }
+      ],
+      "notes": "Smithsonian 页面直接读取失败/超时，以原机构索引文字为证；插卡不是 ROM 软件卡带，覆膜与实体配件承担规则。历史销量说明不一致故舍弃；可选光枪不作基础包装。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "altair-8800",
+      "sourceChecks": [
+        {
+          "id": "S09",
+          "url": "https://www.computerhistory.org/revolution/personal-computers/17/312/1140",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE05",
+          "url": "https://ubuntourist.codeberg.page/Altair-8800/part-3.html",
+          "mode": "manual",
+          "notes": "网页手册转录正文已读；未校验原始整册影印件，不采用基础容量作为所有机器配置。"
+        },
+        {
+          "id": "S10",
+          "url": "https://www.computerhistory.org/timeline/1976/",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE06",
+          "url": "https://d1yx3ys82bpsa0.cloudfront.net/brochures/apple.applei.1976.102646518.pdf",
+          "mode": "manual",
+          "notes": "CHM 目录与原始说明书 PDF 提取正文已读；没有完成全部页面的视觉校验。目录：https://www.computerhistory.org/brochures/doc-43729572afbd3/"
+        }
+      ],
+      "notes": "操作依据 MITS 手册的第三方转录，未校验原整册影印。CHM 的 1K 馆藏实物与手册基础容量区别明确，正文不写全型号统一容量，也不假定终端键盘为基础标配。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "apple-1",
+      "sourceChecks": [
+        {
+          "id": "S10",
+          "url": "https://www.computerhistory.org/timeline/1976/",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE06",
+          "url": "https://d1yx3ys82bpsa0.cloudfront.net/brochures/apple.applei.1976.102646518.pdf",
+          "mode": "manual",
+          "notes": "CHM 目录与原始说明书 PDF 提取正文已读；没有完成全部页面的视觉校验。目录：https://www.computerhistory.org/brochures/doc-43729572afbd3/"
+        },
+        {
+          "id": "S09",
+          "url": "https://www.computerhistory.org/revolution/personal-computers/17/312/1140",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE05",
+          "url": "https://ubuntourist.codeberg.page/Altair-8800/part-3.html",
+          "mode": "manual",
+          "notes": "网页手册转录正文已读；未校验原始整册影印件，不采用基础容量作为所有机器配置。"
+        }
+      ],
+      "notes": "CHM 目录及 Apple 1976 原始说明书提取正文已读。外接键盘、视频和供电条件明确；未逐页视觉校验，未将 Apple II 的整机/图形体验反向迁入 Apple-1。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "atari-vcs",
+      "sourceChecks": [
+        {
+          "id": "S11",
+          "url": "https://www.computerhistory.org/timeline/1977/",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE07",
+          "url": "https://www.ataricompendium.com/archives/manuals/vcs/atari_vcs_77_v1.pdf",
+          "mode": "index",
+          "notes": "原手册搜索索引文字已读；直接 PDF 读取超时，Digital Press 同名 1977 手册目录可核对、PDF 返回 429；未声称已视觉验页。"
+        },
+        {
+          "id": "S08",
+          "url": "https://americanhistory.si.edu/ne/collections/object-groups/the-father-of-the-video-game-the-ralph-baer-prototypes-and-electronic-games/video-game-history",
+          "mode": "index",
+          "notes": "原机构网页的搜索索引内容已核查；直接正文抓取失败，未通读原页面；不表示媒体复制授权。"
+        },
+        {
+          "id": "S15",
+          "url": "https://www.computerhistory.org/timeline/1982/",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE11",
+          "url": "https://www.zimmers.net/anonftp/pub/cbm/c64/manuals/c64-manual.txt",
+          "mode": "manual",
+          "notes": "原厂用户指南的文字转录已读；存档目录明确这是原手册 e-text，未声称扫描图像逐页校验。"
+        }
+      ],
+      "notes": "核对 1977 C010777 手册，未使用后期 2600A/2600+ 操作指南；原 PDF 只取得搜索索引操作文字，直接页面超时，镜像 429，不能称完整原页核验。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "speak-and-spell",
+      "sourceChecks": [
+        {
+          "id": "S12",
+          "url": "https://www.ti.com/about-ti/behind-chip/articles/uncovering-the-legacy-of-DSP-technology-how-a-childrens-toy-sparked-the-edge-AI-revolution.html",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE08",
+          "url": "https://ethw.org/Milestones:Speak_&_Spell,_the_First_Use_of_a_Digital_Signal_Processing_IC_for_Speech_Generation,_1978",
+          "mode": "body",
+          "notes": "网页正文已读；采用语音生成和键盘交互事实，不将其写成语音识别玩具。"
+        },
+        {
+          "id": "TXE09",
+          "url": "https://patents.google.com/patent/US4516260A/en",
+          "mode": "body",
+          "notes": "专利正文已读；专利实施例不是上市型号完整功能清单，未把所有模式与硬件细节等同初代产品。"
+        }
+      ],
+      "notes": "专利为 1978 优先权、1985 公布的学习装置实施例，不当作初代全部功能清单。语音生成与语音识别分开，按键回答；未写后期评分轮次、耳机插口、自动关机或学习效果。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "sony-tps-l2",
+      "sourceChecks": [
+        {
+          "id": "S13",
+          "url": "https://www.sony.com/en/SonyInfo/News/Press/199907/99-059/",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE10",
+          "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-03.html",
+          "mode": "body",
+          "notes": "官方历史网页正文已读；未采用未核实的双耳机口、Hot Line 或后继型号功能。"
+        },
+        {
+          "id": "S03",
+          "url": "https://americanhistory.si.edu/collections/object/nmah_713528",
+          "mode": "index",
+          "notes": "原机构网页的搜索索引内容已核查；直接正文抓取失败，未通读原页面；不表示媒体复制授权。"
+        },
+        {
+          "id": "CH01",
+          "url": "https://koss.com/en-ca/pages/koss-history",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        }
+      ],
+      "notes": "官方来源支持日期、删除录音/外放与轻便耳机系统，不核实当前实物续航/音质。未采用全 Walkman 品牌销量作为 TPS-L2 销量，未写未经型号级核对的双插口/Hot Line。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "ibm-pc-5150",
+      "sourceChecks": [
+        {
+          "id": "S14",
+          "url": "https://www.ibm.com/history/personal-computer",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE12",
+          "url": "https://www.minuszerodegrees.net/manuals/IBM/IBM_5150_Guide_to_Operations_6025000_AUG81.pdf",
+          "mode": "manual",
+          "notes": "原厂 1981 年操作指南 PDF 提取正文及同文 OCR 转录已读；未完成整册图像逐页校验，不借用 XT 资料。"
+        },
+        {
+          "id": "TXE06",
+          "url": "https://d1yx3ys82bpsa0.cloudfront.net/brochures/apple.applei.1976.102646518.pdf",
+          "mode": "manual",
+          "notes": "CHM 目录与原始说明书 PDF 提取正文已读；没有完成全部页面的视觉校验。目录：https://www.computerhistory.org/brochures/doc-43729572afbd3/"
+        },
+        {
+          "id": "S15",
+          "url": "https://www.computerhistory.org/timeline/1982/",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE11",
+          "url": "https://www.zimmers.net/anonftp/pub/cbm/c64/manuals/c64-manual.txt",
+          "mode": "manual",
+          "notes": "原厂用户指南的文字转录已读；存档目录明确这是原手册 e-text，未声称扫描图像逐页校验。"
+        }
+      ],
+      "notes": "1981 原厂操作指南与官方史互补；基础配置、选件和 DOS 购买条件分别叙述，未借用 XT 硬盘或后期 CPU。原厂说明书仅正文读取，非整册视觉验页。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "commodore-64",
+      "sourceChecks": [
+        {
+          "id": "S15",
+          "url": "https://www.computerhistory.org/timeline/1982/",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE11",
+          "url": "https://www.zimmers.net/anonftp/pub/cbm/c64/manuals/c64-manual.txt",
+          "mode": "manual",
+          "notes": "原厂用户指南的文字转录已读；存档目录明确这是原手册 e-text，未声称扫描图像逐页校验。"
+        },
+        {
+          "id": "S11",
+          "url": "https://www.computerhistory.org/timeline/1977/",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "S14",
+          "url": "https://www.ibm.com/history/personal-computer",
+          "mode": "body",
+          "notes": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+        },
+        {
+          "id": "TXE12",
+          "url": "https://www.minuszerodegrees.net/manuals/IBM/IBM_5150_Guide_to_Operations_6025000_AUG81.pdf",
+          "mode": "manual",
+          "notes": "原厂 1981 年操作指南 PDF 提取正文及同文 OCR 转录已读；未完成整册图像逐页校验，不借用 XT 资料。"
+        }
+      ],
+      "notes": "原厂 1982 指南为可信存档文字转录，未逐页核对扫描。64KB 总内存与 38911 BASIC 可用字节区分，外部磁带/磁盘非全部包装标配，未写后来的 GEOS 或改版机功能。 五个长段均附来源；意义及跨型号比较属于原创策展解读，由页面统一标示，来源不作该判断的背书。"
+    },
+    {
+      "slug": "motorola-dynatac-8000x",
+      "sourceChecks": [
+        {
+          "id": "S16",
+          "url": "https://www.motorolasolutions.com/en_xp/about/history/explore-motorola-heritage/cell-phone-development.html",
+          "mode": "body",
+          "notes": "已读取网页正文中DynaTAC开发及获批段落；没有用厂家第一或销量叙述扩展结论。"
+        },
+        {
+          "id": "TXM13A",
+          "url": "https://onlinesammlung.museumsstiftung.de/detail/collection/bbfa7483-f8a1-4431-b90f-514197cc4c56",
+          "mode": "body",
+          "notes": "已读取正文及对象登记字段；藏品制造时间为1984年7月。正文价格与销量有明显排版/数字异常，未采用；重量仅使用约数。"
+        },
+        {
+          "id": "TXM13B",
+          "url": "https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x",
+          "mode": "body",
+          "notes": "已读取网页正文。历史金额保留原当年美元值，未采用通胀换算、文化标签、第一或销量结论。"
+        },
+        {
+          "id": "S25",
+          "url": "https://www.computinghistory.org.uk/det/63131/PalmPilot-Professional/",
+          "mode": "body",
+          "notes": "用于与后来掌上个人资料管理设备的对照；已读取博物馆正文。具体日期沿用展品已有的年份口径，未采用馆方单一精确日期覆盖原数据的资料分歧说明。"
+        }
+      ],
+      "notes": "代表性为基于通话形态与网络条件的策展解读。1983仅FCC批准、1984商业销售；馆藏记录与MPM重量略有差异，正文用约八百克。MSPT价格/销量排版异常均不用。未取得原机逐键用户手册，使用节限定到号码显示、号码存储、手持通话与充电这些已核实动作。"
+    },
+    {
+      "slug": "nintendo-famicom",
+      "sourceChecks": [
+        {
+          "id": "S17",
+          "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+          "mode": "body",
+          "notes": "已读取网页正文1983年记录；共享公司年表仅支持推出背景，不用于推断原机操作。"
+        },
+        {
+          "id": "TXM14A",
+          "url": "https://www.nintendo.com/jp/famicom/hardware/index.html",
+          "mode": "body",
+          "notes": "已读取网页正文。页面明确说操作文字依据当时说明书，采用原机功能，未采用现代复刻控制器资料。"
+        },
+        {
+          "id": "S20",
+          "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy/Game-Boy-627031.html",
+          "mode": "body",
+          "notes": "已读取正文和原Game Boy规格列；页面同时介绍Pocket及后续软件，只使用明确属于原机的字段，未采用页面Pocket年份或音源表述。"
+        }
+      ],
+      "notes": "代表性为策展解读。具体设备操作由Nintendo基于原说明书的硬件页支撑，公司共享年表只用于年份；没有将海外NES或现代迷你复刻功能套到日本Famicom。未宣称所有卡带可存档或麦克风适用于所有游戏。"
+    },
+    {
+      "slug": "macintosh-128k",
+      "sourceChecks": [
+        {
+          "id": "S18",
+          "url": "https://collection.sciencemuseumgroup.org.uk/objects/co459306/apple-macintosh-personal-computer-1984",
+          "mode": "body",
+          "notes": "已读取对象与附件正文；该馆对象为预生产评估机，不把其流转史当成零售机经历，也未采用GUI第一的概括。"
+        },
+        {
+          "id": "TXM15A",
+          "url": "https://support.apple.com/en-ca/112190",
+          "mode": "body",
+          "notes": "已读取官方规格正文。页面显示模式表有泛化字段，采用独立明确的内存、软盘、机内硬盘与日期记录，不据异常模式表推断显示能力。"
+        },
+        {
+          "id": "TXM15B",
+          "url": "https://www.scribd.com/document/808426629/Macintosh-Manual-1984",
+          "mode": "body",
+          "notes": "已读取网页所呈现的原说明书正文转录，包括1984版权页、第1/2/3章；OCR有杂字符，只采用语义清楚的操作段落。未绕过下载或登录限制。"
+        }
+      ],
+      "notes": "代表性为基于整机、指针和文件流程的策展解读。S18实物是预生产评估机，设备资源以Apple原机规格交叉核对。VintageApple及RigPix原手册PDF读取失败，转用可读的1984原手册Scribd转录，不宣称读取那些PDF正文。OCR只用清楚段落；未主张首创GUI或鼠标。"
+    },
+    {
+      "slug": "game-boy",
+      "sourceChecks": [
+        {
+          "id": "S20",
+          "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy/Game-Boy-627031.html",
+          "mode": "body",
+          "notes": "已读取正文和原Game Boy规格列；页面同时介绍Pocket及后续软件，只使用明确属于原机的字段，未采用页面Pocket年份或音源表述。"
+        },
+        {
+          "id": "TXM16A",
+          "url": "https://manualzz.com/doc/22866609/nintendo-game-boy-handheld-game-console-user-manual",
+          "mode": "body",
+          "notes": "已读取原说明书转录正文及1989版权、DMG-01型号；使用Document正文，未引用页面AI生成介绍/FAQ。"
+        }
+      ],
+      "notes": "代表性为策展解读。Nintendo共享历史页不足以证明原机操作，已加1989 DMG-01原用户手册Document正文。官方回顾同时混列Pocket/后续游戏，未采用其Pocket年份、音源表述或将后期游戏当首发。起初找到DMG-CH-USA游戏册PDF但无文字且无法检查，已排除。"
+    },
+    {
+      "slug": "sony-playstation",
+      "sourceChecks": [
+        {
+          "id": "S21",
+          "url": "https://www.playstation.com/en-us/playstation-history/1994-ps-one/",
+          "mode": "index",
+          "notes": "本次美国页正文读取返回错误，只读取搜索索引。日本官方对应页另以TXM17B登记正文，未将本项标为已读正文。"
+        },
+        {
+          "id": "TXM17A",
+          "url": "https://www.sony.com/ja/SonyInfo/CorporateInfo/History/SonyHistory/2-09.html",
+          "mode": "body",
+          "notes": "已读取公司史第1–3节正文。仅采用具体开发、介质和设计事实，不采用销售数字、宣传口号或厂家成功评价。"
+        },
+        {
+          "id": "TXM17B",
+          "url": "https://www.playstation.com/ja-jp/playstation-history/1994-ps-one/",
+          "mode": "body",
+          "notes": "已读取官方日本页正文。记忆卡段把原机卡写作8MB，与原说明书不符，正文不采用该容量；仅用功能和时间线。"
+        },
+        {
+          "id": "TXM17C",
+          "url": "https://www.manualslib.com/manual/4045608/Sony-Playstation-Scph-1001.html",
+          "mode": "body",
+          "notes": "已读首页原手册转录及所呈现第6/8/10/12页摘录；1995版权明确。封面OCR型号字符不清，另读3466089同型号扫描封面交叉核对。单独第8页URL不可读，未声称完整逐页核验；不外推北美版接口到1994日本型号。"
+        }
+      ],
+      "notes": "代表性为策展解读。S21美版页本次只能读索引；日本官方页与Sony史正文可读。日本官方回顾的原机记忆卡8MB表述不用，存档功能由原手册交叉核实。1997双模拟/振动留在局限与演进说明；1995北美手册仅用于共有装盘/控制/存档动作，不用其特定接口解释日本1994首发机。单页第8页不可读，首页摘录已读。"
+    },
+    {
+      "slug": "casio-qv10",
+      "sourceChecks": [
+        {
+          "id": "S22",
+          "url": "https://world.casio.com/corporate/history1/chapter03/",
+          "mode": "body",
+          "notes": "已读取QV-10正文段落；未采用厂家世界第一或销量叙述。"
+        },
+        {
+          "id": "TXM18A",
+          "url": "https://support.casio.com/pdf/001/qv10e.pdf",
+          "mode": "body",
+          "notes": "已读取官方PDF正文：印刷页34–40、49后回看、70–74删除、76–82连接及88规格；未把回看放大功能写成光学变焦或录像功能。"
+        }
+      ],
+      "notes": "代表性为依据拍摄、确认和电脑连接流程的策展解读。操作来自官方原QV-10 PDF，不用QV-10A或后续型号资料。25万为成像部件总像素，正文未写成照片输出分辨率；回看放大不等于光学变焦，视频输出不等于录像功能。"
+    },
+    {
+      "slug": "palmpilot-professional",
+      "sourceChecks": [
+        {
+          "id": "S25",
+          "url": "https://www.computinghistory.org.uk/det/63131/PalmPilot-Professional/",
+          "mode": "body",
+          "notes": "已读取博物馆正文。具体日期沿用展品已有的年份口径，未采用馆方单一精确日期覆盖原数据的资料分歧说明。"
+        },
+        {
+          "id": "TXM19A",
+          "url": "https://www.manualslib.com/manual/303168/3com-Palmpilot-Professional.html",
+          "mode": "body",
+          "notes": "已读取原手册首页转录、1997版权及第1/2/9/10章相关正文摘录，另完整读取网页第146页HotSync操作正文。部分单页URL不可读，所用笔画与控制资料来自首页提供的原手册摘录，不引用平台自动问答。"
+        },
+        {
+          "id": "S16",
+          "url": "https://www.motorolasolutions.com/en_xp/about/history/explore-motorola-heritage/cell-phone-development.html",
+          "mode": "body",
+          "notes": "已读取网页正文中DynaTAC开发及获批段落；没有用厂家第一或销量叙述扩展结论。"
+        }
+      ],
+      "notes": "代表性为基于个人记录、触笔和电脑同步的策展解读。博物馆精确日期仅供交叉参考，不覆盖原有年份口径。原手册可读首页摘录及第146页同步正文，其他若干单页读取失败。同步依赖桌面串口/软件，调制解调器是可选外设，未写为机内无线或随时在线。"
+    },
+    {
+      "slug": "imac-g3",
+      "sourceChecks": [
+        {
+          "id": "S26",
+          "url": "https://www.computerhistory.org/timeline/1998/",
+          "mode": "body",
+          "notes": "已读取1998时间线的iMac正文；仅采用产品形态、年份和硬件事实，没有采用营销排名或公司经营评价。"
+        },
+        {
+          "id": "TXM20A",
+          "url": "https://www.wap.org/events/imacspecs.pdf",
+          "mode": "body",
+          "notes": "已读取两页原始Apple产品PDF正文，版权1998、July 1998、L03115A；网站是原件保存方。未照抄宣传词或长规格表。"
+        },
+        {
+          "id": "TXM20B",
+          "url": "https://support.apple.com/en-ph/112281",
+          "mode": "body",
+          "notes": "已读取Apple技术规格正文；核对为Original型号。不同资料中的重量与内存细节未用于正文。"
+        },
+        {
+          "id": "TXM20C",
+          "url": "https://uwaterloo.ca/computer-museum/exhibits/tiny-computer-gallery",
+          "mode": "body",
+          "notes": "已读取画廊中iMac段落正文。该页展示缩小模型，不能用作项目实物藏品来源；未采用其中审美标签或第一性判断。"
+        }
+      ],
+      "notes": "型号限定1998年初版Bondi Blue iMac；原始Apple产品资料和官方技术规格互相补证。Waterloo页面展示模型，仅支持外形描述，不代表项目实物藏品出处。未采用营销排名、审美标签及不同资料间的重量/内存细节。代表性段落是基于整合、联网和USB迁移的原创策展解读。"
+    },
+    {
+      "slug": "ipod-1",
+      "sourceChecks": [
+        {
+          "id": "S28",
+          "url": "https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/",
+          "mode": "body",
+          "notes": "已读取2001年原始发布公告正文；区分发布日期与公告安排的销售日。未采用第一、性能宣传、销量或绝对曲目数量。"
+        },
+        {
+          "id": "TXM21A",
+          "url": "https://support.apple.com/en-sg/103823",
+          "mode": "body",
+          "notes": "已读取机型识别正文。FireWire以原始发布公告核实；本页可能含异常的FireWire表述，未据此覆盖首发资料。"
+        }
+      ],
+      "notes": "限定2001年10月发布的5GB首代Scroll Wheel；10月23日为发布日，公告销售安排是11月10日。Scroll Wheel为实际转动、独立轮缘键，不使用2002 Touch Wheel、2003 Dock或2004 Click Wheel功能。未取得完整初代逐页用户手册，实际操作限定于原始发布公告及官方识别资料可支持的iTunes、FireWire、列表导航、播放与充电。机型识别页中的异常FireWire表述不覆盖原始发布公告。"
+    },
+    {
+      "slug": "nintendo-ds",
+      "sourceChecks": [
+        {
+          "id": "S29",
+          "url": "https://www.nintendo.com/en-za/Hardware/Nintendo-History/Nintendo-History-625945.html",
+          "mode": "body",
+          "notes": "已读取公司历史正文。历史页用于时间与产品承接，具体输入、卡带和无线操作依据原版DS说明书。"
+        },
+        {
+          "id": "TXM22A",
+          "url": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/ds_english",
+          "mode": "body",
+          "notes": "已读取15页官方PDF的文本正文，版权2004–2005、C/NTR-USA-1。重点核查印刷页4–5、8、10–18；不将DS Lite、DSi或3DS功能回写。"
+        }
+      ],
+      "notes": "对象为原版DS，历史页支持美国/日本2004、欧洲2005和后来DS Lite的承接。关机插卡、轻点滑动、Download Play和PictoChat均据原版说明书；不使用DS Lite、DSi、3DS功能。上屏非触摸、GBA只支持单人、PictoChat近距离非互联网及多人能力由软件决定，均保留为实际取舍。代表性是基于双屏、多种输入和无线联机的原创策展解读。"
+    },
+    {
+      "slug": "macbook-2006",
+      "sourceChecks": [
+        {
+          "id": "S30",
+          "url": "https://www.apple.com/newsroom/2006/05/16Apple-Unveils-New-MacBook-Featuring-Intel-Core-Duo-Processors/",
+          "mode": "body",
+          "notes": "已读取原始发布公告正文；范围为May 2006初代MacBook，区别于MacBook Pro和Late 2006 Core 2 Duo。未采用跑分或性能宣传。"
+        },
+        {
+          "id": "TXM23A",
+          "url": "https://cdsassets.apple.com/live/6GJYWVAV/user/ma156_macbook_13inch_usersguide.pdf",
+          "mode": "body",
+          "notes": "已由官方MacBook（13-inch, 2006）文档页进入并读取138页指南正文，版权2006；重点核查印刷页8–23、32–33。未使用Late 2006或Pro指南。"
+        },
+        {
+          "id": "TXM23B",
+          "url": "https://support.apple.com/en-us/112511",
+          "mode": "body",
+          "notes": "已读取初代Core Duo技术规格正文；核对CPU和光驱配置，未把更高配置刻录DVD能力写成所有首发款共有。"
+        }
+      ],
+      "notes": "严格锁定2006年5月首代13英寸Core Duo消费MacBook，排除Pro与Late 2006 Core 2 Duo。官方文档页https://support.apple.com/en-us/docs/mac/130972指向本指南与规格。没有以跑分、未核实外壳材料或专业机型独立显卡扩展正文；低配Combo和高配SuperDrive分开。实际操作核实到设置、迁移、触控板、摄像头、合盖睡眠与移动前指示灯，Rosetta不保证所有旧应用兼容。"
+    },
+    {
+      "slug": "nintendo-wii",
+      "sourceChecks": [
+        {
+          "id": "S31",
+          "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+          "mode": "body",
+          "notes": "已读取官方公司历史正文。该页仅支持年份；具体操作由原版主机及Wii Sports资料核实。"
+        },
+        {
+          "id": "TXM24A",
+          "url": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/Wii_Wii_Sports",
+          "mode": "manual",
+          "notes": "网页读取工具未能读取该资产；以HTTP 200取得官方18页PDF并在内存解析英文正文，版权2006、61918A；重点核查印刷页4–9。未产生本地文件。"
+        },
+        {
+          "id": "TXM24B",
+          "url": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/WiiOpMn_EN_setup",
+          "mode": "manual",
+          "notes": "网页读取工具超时；以HTTP 200取得官方22页PDF并在内存解析正文。此为2009年修订的RVL-001手册，只采用原主机/首代手柄适用部分，排除后附MotionPlus内容。"
+        },
+        {
+          "id": "TXM24C",
+          "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/2956",
+          "mode": "body",
+          "notes": "已读取官方支持正文；仅用于确认代际边界，后来的内置MotionPlus没有纳入首代描述。"
+        },
+        {
+          "id": "TXM24D",
+          "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/2954",
+          "mode": "body",
+          "notes": "已读取官方支持正文；只采用红外灯结构，不把检查时使用数码相机的说明转写为感应条带摄像头。"
+        }
+      ],
+      "notes": "对象为2006年原Wii及首代RVL-003手柄。Wii Sports使用2006原始手册；System Setup为2009修订的RVL-001手册，只采用仍对应原主机和原手柄的部分，排除MotionPlus章节。官方旧consumer手册链接返回404，没有声称读取；现行澳洲RVL-101/Remote Plus手册不用于原代。网页工具失败的两个官方资产均实际HTTP 200并完成内存PDF正文解析，sourceChecks标manual。未把Wii Remote Plus、内置MotionPlus或后续网络现况写回2006。另核查官方SYNC正文https://en-americas-support.nintendo.com/app/answers/detail/a_id/2815及光源干扰正文https://www.nintendo.com/en-gb/Support/Legacy-system/Cursor-is-off-centre-jerky-erratic-disappears-etc-244285.html。代表性为动作、按键和同场参与关系的原创策展解读。"
+    },
+    {
+      "slug": "amazon-kindle-1",
+      "sourceChecks": [
+        {
+          "id": "S32",
+          "url": "https://www.aboutamazon.com/news/devices/a-look-back-at-10-years-of-the-amazon-kindle",
+          "mode": "body",
+          "notes": "已读取Amazon回顾正文的初代部分；未采用销量、售罄叙述，亦未把后续文字转语音、触屏、前光或应用写回首代。"
+        },
+        {
+          "id": "TXM25A",
+          "url": "https://press.aboutamazon.com/2007/11/introducing-amazon-kindle",
+          "mode": "body",
+          "notes": "已读取2007年原始发布公告正文；蜂窝服务写作当时产品条件，不推断现今仍可用。没有采用销售和第一性营销结论。"
+        },
+        {
+          "id": "TXM25B",
+          "url": "https://digprjsurvey.amazon.com/csad/help/node/GK33S847NN4V6Y83",
+          "mode": "body",
+          "notes": "已读取官方机型识别正文，核对First Generation 2007部分；没有沿用后代方向控制、触屏或前光。"
+        },
+        {
+          "id": "TXM25C",
+          "url": "https://manualzilla.com/doc/7380166/amazon-kindle---1st-generation-user-s-guide",
+          "mode": "body",
+          "notes": "已读取原始About Your Kindle手册的HTML转录正文，版权2007、P/N 3A2200100-G6T-N，并与官方首发公告及识别页交叉核对。此为初代入门手册转录，非完整电子版User's Guide；不引用平台问答。"
+        }
+      ],
+      "notes": "对象限定2007年初代楔形Kindle、游标条和转动/按下选择轮；排除后代五向控制、触屏、前光、文字转语音与应用。官方指南索引https://digprjsurvey.amazon.com/csad/help/node/G7N7RPHV2SW8CKBW虽标First Generation，实际链接指向Fire/日本Fire指南，因此未用该索引冒充首代手册核查。初代About Your Kindle原始入门手册采用第三方HTML转录，并核对2007版权、料号和官方机型特征，不能称取得完整电子版User's Guide。Whispernet仅按2007蜂窝服务条件描述，不保证现今服务。代表性是设备与服务围绕长篇阅读的原创策展解读。"
+    },
+    {
+      "slug": "iphone-1",
+      "sourceChecks": [
+        {
+          "id": "S33",
+          "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+          "mode": "body",
+          "notes": "重核2007-01-09原公告正文：3.5英寸、多点触控、EDGE/Wi-Fi、iTunes同步及三种用途；2008年App Store另有TXL01。未采用全球第一和销量话语。"
+        },
+        {
+          "id": "TXL01",
+          "url": "https://www.apple.com/newsroom/2008/07/10iPhone-3G-on-Sale-Tomorrow/",
+          "mode": "body",
+          "notes": "正文明确2008年7月11日起原iPhone用户可免费取得2.0软件；不把App Store放入2007年上市体验。"
+        }
+      ],
+      "notes": "代表性为界面与任务分工的策展解读。2007年没有原生App Store；原机可用App Store始于2008年2.0升级。"
+    },
+    {
+      "slug": "ipad-1",
+      "sourceChecks": [
+        {
+          "id": "S34",
+          "url": "https://www.apple.com/sg/newsroom/2010/01/27Apple-Launches-iPad/",
+          "mode": "body",
+          "notes": "重核2010-01-27原公告正文：9.7英寸、Wi-Fi/3G版本、iBooks、iWork、屏幕键盘与键盘底座；规格及无摄像头由TXL02、TXL03补证。"
+        },
+        {
+          "id": "TXL02",
+          "url": "https://support.apple.com/en-qa/112438",
+          "mode": "body",
+          "notes": "正文规格已核查，型号为初代iPad；不混用后代摄像头、Apple Pencil或USB-C。"
+        },
+        {
+          "id": "TXL03",
+          "url": "https://www.ifixit.com/Teardown/iPad+Wi-Fi+Teardown/2183",
+          "mode": "body",
+          "notes": "原拆解正文步骤与传感器位置说明已核查；不把评论中的未来摄像头猜测当作设计意图。"
+        },
+        {
+          "id": "S33",
+          "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+          "mode": "body",
+          "notes": "重核2007-01-09原公告正文：3.5英寸、多点触控、EDGE/Wi-Fi、iTunes同步及三种用途；2008年App Store另有TXL01。未采用全球第一和销量话语。"
+        }
+      ],
+      "notes": "无摄像头由原规格与Wi-Fi版拆解交叉核对。文中没有移用后代Pencil、USB-C或视频拍摄能力；手持与输入的意义为策展解读。"
+    },
+    {
+      "slug": "iphone-4",
+      "sourceChecks": [
+        {
+          "id": "S35",
+          "url": "https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
+          "mode": "body",
+          "notes": "重核2010-06-07原公告正文：发布/首批销售安排、960×640屏、前后摄像头、Wi-Fi FaceTime、720p视频与iOS 4；未采用最薄等比较级宣传。"
+        },
+        {
+          "id": "TD01",
+          "url": "https://www.ifixit.com/Teardown/iPhone+4+Teardown/3130",
+          "mode": "body",
+          "notes": "原iPhone 4拆解正文重核，步骤14钢框天线、步骤6电池连接器及结论前玻璃/LCD总成；仅采用实际结构，不采用评论及通信改进猜测。"
+        },
+        {
+          "id": "S33",
+          "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+          "mode": "body",
+          "notes": "重核2007-01-09原公告正文：3.5英寸、多点触控、EDGE/Wi-Fi、iTunes同步及三种用途；2008年App Store另有TXL01。未采用全球第一和销量话语。"
+        }
+      ],
+      "notes": "采用原发布与拆解的结构证据；不引入未重核的天线争议、故障率或长期通信口碑。"
+    },
+    {
+      "slug": "raspberry-pi-model-b",
+      "sourceChecks": [
+        {
+          "id": "S36",
+          "url": "https://www.raspberrypi.com/news/the-raspberry-pi-launch/",
+          "mode": "body",
+          "notes": "原发布正文已读，35美元Model B与首批教育/爱好者目标可确认；当前网页日期为2012-03-01，2012-02-29以官方八周年回顾TXL04交叉核对，未改馆藏时间口径。"
+        },
+        {
+          "id": "TXL04",
+          "url": "https://www.raspberrypi.com/news/raspberry-jams-celebrate-8th-birthday/",
+          "mode": "body",
+          "notes": "官方回顾正文明确2012-02-29；原S36网页目前标2012-03-01，二者日期差异保留在review。"
+        },
+        {
+          "id": "TXL05",
+          "url": "https://www.raspberrypi.com/documentation/computers/raspberry-pi.html",
+          "mode": "body",
+          "notes": "正文型号表逐项核查，区分原Model B和B+/Pi 3等后续板；不套用40针GPIO或板载无线。"
+        }
+      ],
+      "notes": "S36当前标2012-03-01，TXL04官方回顾明确首发2012-02-29，保留既定年份日期。使用动作是由原硬件能力组织的典型实验示例，未宣称附送所有外设。"
+    },
+    {
+      "slug": "fitbit-flex",
+      "sourceChecks": [
+        {
+          "id": "CH03",
+          "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-announces-new-activity-tracker-the-fitbit-flex/",
+          "mode": "body",
+          "notes": "2013-01-07发布正文已读，5灯进度、活动与睡眠、蓝牙同步和春季发货计划可确认；日期只用发布口径，实际操作与感测机制用FB401原厂手册。"
+        },
+        {
+          "id": "TXL06",
+          "url": "https://www.fitbit.com/content/assets/help/manuals/manual_flex_en_US.pdf",
+          "mode": "manual",
+          "notes": "32页原厂手册正文已读。该文件包含后期平台与固件信息，正文仅采用FB401硬件和明示操作，不将自动睡眠或后期系统支持写作2013年首发功能。"
+        }
+      ],
+      "notes": "原厂手册含后期固件/平台资料；不将自动睡眠、Windows 10等写作2013首发。采用手动睡眠和FB401操作，不混Flex 2游泳定位。"
+    },
+    {
+      "slug": "xiaomi-mi-band-1",
+      "sourceChecks": [
+        {
+          "id": "TXL07",
+          "url": "https://pdfs.semanticscholar.org/bae5/ecb517083f199cadefd0794f1682ba06dc40.pdf",
+          "mode": "body",
+          "notes": "同一JMIR原始论文14页PDF正文已核查，表1、表2及研究摘要对照；仅作设备资料，未把小样本可用性测试推广为用户口碑。"
+        },
+        {
+          "id": "TXL08",
+          "url": "https://goughlui.com/2015/06/02/review-mi-band-fitness-monitor-and-sleep-tracker/",
+          "mode": "body",
+          "notes": "原作者2015-06-02亲自开箱和操作正文已读，明确型号XMSH01HM；样机由商家提供，属于单件原始体验，未采用其续航推算、主观好评或故障作为群体结论。"
+        },
+        {
+          "id": "CH03",
+          "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-announces-new-activity-tracker-the-fitbit-flex/",
+          "mode": "body",
+          "notes": "2013-01-07发布正文已读，5灯进度、活动与睡眠、蓝牙同步和春季发货计划可确认；日期只用发布口径，实际操作与感测机制用FB401原厂手册。"
+        },
+        {
+          "id": "CH04",
+          "url": "https://mhealth.jmir.org/2018/11/e11066/",
+          "mode": "body",
+          "notes": "本轮原期刊页初次能返回论文，后续仅返回挑战/极少正文，稳定复核采用同篇原始论文PDF TXL07；该ID链接未替换，未把原页持续可读冒充成功。"
+        },
+        {
+          "id": "CH05",
+          "url": "https://new.c.mi.com/global/post/1095380",
+          "mode": "body",
+          "notes": "本轮该社区回顾链接返回空正文，不能重新确认其内容；保留原URL记录读取失败，当前新增段落不以此页作依据。"
+        }
+      ],
+      "notes": "CH05本轮空正文；采用原始论文与2015 XMSH01HM实物操作。FCC手册的申请索引可读，但PDF读取403、web截图失败，未作为已读手册或正文依据。Gough作者样机由商家提供，只采用确切型号的可观察动作与形态，不推广主观好评、续航推算或个案成败。"
+    },
+    {
+      "slug": "apple-watch-1",
+      "sourceChecks": [
+        {
+          "id": "S38",
+          "url": "https://www.apple.com/newsroom/2015/03/09Apple-Watch-Available-in-Nine-Countries-on-April-24/",
+          "mode": "body",
+          "notes": "重核2015-03-09原公告全文：2015-04-24首批发售、38/42mm、Crown、Force Touch、Taptic Engine、三圈、借用iPhone GPS/Wi-Fi、18小时与iPhone/iOS条件；不套用后代独立GPS、蜂窝、ECG与SpO2。"
+        },
+        {
+          "id": "CH03",
+          "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-announces-new-activity-tracker-the-fitbit-flex/",
+          "mode": "body",
+          "notes": "2013-01-07发布正文已读，5灯进度、活动与睡眠、蓝牙同步和春季发货计划可确认；日期只用发布口径，实际操作与感测机制用FB401原厂手册。"
+        }
+      ],
+      "notes": "第一代与Series 1不同。GPS/Wi-Fi来自配对iPhone，未写独立蜂窝/GPS或后代ECG/SpO2。短交互价值为策展解读，未称用户注意力改善已获验证。"
+    },
+    {
+      "slug": "airpods-1",
+      "sourceChecks": [
+        {
+          "id": "CH06",
+          "url": "https://www.apple.com/newsroom/2016/12/apple-airpods-are-now-available/",
+          "mode": "body",
+          "notes": "2016-12-13原订购公告正文已读，W1、开盒配对、入耳感应与充电盒可确认；操作/测试条件再核初代官方规格TXL16，胶粘电池边界由TXL09拆解补证。"
+        },
+        {
+          "id": "TXL16",
+          "url": "https://support.apple.com/en-us/111855",
+          "mode": "body",
+          "notes": "官方初代规格正文已读，由旧SP750链接跳转至此；Live Listen为后期iOS 12功能，未写作2016首发。通话麦克风背景噪声过滤与听音ANC分开。"
+        },
+        {
+          "id": "TXL09",
+          "url": "https://www.ifixit.com/Teardown/AirPods+Teardown/75578",
+          "mode": "body",
+          "notes": "原拆解步骤5至9及结论已读，使用实物观察而不引用评论猜测或维修评分作可靠性统计。"
+        }
+      ],
+      "notes": "当前初代规格页含后期iOS 12 Live Listen，未移用到2016首发。双击Siri按早期操作描述；无听音ANC，与通话麦克风人声过滤分开。胶粘取舍不推寿命或故障率。"
+    },
+    {
+      "slug": "steam-deck-lcd",
+      "sourceChecks": [
+        {
+          "id": "TXL12",
+          "url": "https://store.steampowered.com/news/app/1675180/view/3117055056380003048",
+          "mode": "body",
+          "notes": "web正文解析只显示图片，直接读取同页HTTP 200 HTML内data-partnereventstore公告正文；原始announcement_body明确订购邮件、72小时窗口与28日起发货，时间戳为2022-01-26。"
+        },
+        {
+          "id": "TXL10",
+          "url": "https://www.steamdeck.com/en/tech/deck",
+          "mode": "body",
+          "notes": "官方LCD规格正文已核查，链接为/deck；不混用OLED版90Hz、50Wh或Wi-Fi 6E。"
+        },
+        {
+          "id": "TXL11",
+          "url": "https://www.steamdeck.com/en/verified",
+          "mode": "body",
+          "notes": "正文四类定义和四项核查标准已读；网页为现行兼容制度说明，不视为2022年所有游戏的实际表现记录。"
+        },
+        {
+          "id": "TD02",
+          "url": "https://www.ifixit.com/News/57101/steam-deck-teardown",
+          "mode": "body",
+          "notes": "原2022 LCD版拆解重核，摇杆、M.2存储、焊接USB-C/microSD、胶粘电池和显示维护取舍；不套用OLED硬件，不以维修评分推断故障率。"
+        },
+        {
+          "id": "S40",
+          "url": "https://steamcommunity.com/app/1675180/eventcomments/3185735591321387802/?l=english",
+          "mode": "body",
+          "notes": "原URL是Steam事件评论区，不用评论页代替原公告正文；实际2022年订购/发货安排另核Steam News原文TXL12，旧URL保持不变。"
+        }
+      ],
+      "notes": "实际原公告正文通过同页内嵌announcement_body复核，S40评论页不作日期依据。全部显示、电池和无线按LCD；现行Verified机制不倒推2022年各游戏评级，典型桌面/手持流程为硬件与制度基础上的解读。"
+    },
+    {
+      "slug": "airpods-5",
+      "sourceChecks": [
+        {
+          "id": "CH08",
+          "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+          "mode": "body",
+          "notes": "2026-09-11官方正文已读，明确三条产品线2026-09-18发售；当代三件主要功能得到对应产品页复核。Siri AI等测试版/地区条件和部分年内未来功能未写作当前通用能力。"
+        },
+        {
+          "id": "CH09",
+          "url": "https://images.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+          "mode": "body",
+          "notes": "web解析间歇Internal Error，直接读取相同URL的HTTP 200 HTML正文，标题和日期为2026-09-18，正文明确iPhone 18 Pro、Series 12与AirPods 5到店；没有仅靠标题或路径推断发售。"
+        },
+        {
+          "id": "TXL13",
+          "url": "https://www.apple.com/airpods-5/",
+          "mode": "body",
+          "notes": "现有官方产品正文已核查。滑动音量、无线充电和Find My盒扬声器仅归无线充电盒版本；普通USB-C盒版本开启ANC最长4小时，无线充电盒版本最长5小时。"
+        },
+        {
+          "id": "CH06",
+          "url": "https://www.apple.com/newsroom/2016/12/apple-airpods-are-now-available/",
+          "mode": "body",
+          "notes": "2016-12-13原订购公告正文已读，W1、开盒配对、入耳感应与充电盒可确认；操作/测试条件再核初代官方规格TXL16，胶粘电池边界由TXL09拆解补证。"
+        }
+      ],
+      "notes": "现有官网及发售报道支持该型号。普通USB-C盒与无线充电盒两版的滑动音量、充电方式和ANC续航区别已保留；语言/地区相关智能功能未写为所有用户当前能力。"
+    },
+    {
+      "slug": "apple-watch-series-12",
+      "sourceChecks": [
+        {
+          "id": "CH08",
+          "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+          "mode": "body",
+          "notes": "2026-09-11官方正文已读，明确三条产品线2026-09-18发售；当代三件主要功能得到对应产品页复核。Siri AI等测试版/地区条件和部分年内未来功能未写作当前通用能力。"
+        },
+        {
+          "id": "CH09",
+          "url": "https://images.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+          "mode": "body",
+          "notes": "web解析间歇Internal Error，直接读取相同URL的HTTP 200 HTML正文，标题和日期为2026-09-18，正文明确iPhone 18 Pro、Series 12与AirPods 5到店；没有仅靠标题或路径推断发售。"
+        },
+        {
+          "id": "TXL14",
+          "url": "https://www.apple.com/apple-watch-series-12/",
+          "mode": "body",
+          "notes": "现有官方正文已读：心率背景读数每5秒、HRV最快每5分钟是厂商口径；Health Age及部分Audio Intelligence/Siri Recap标晚2026，未写入当前用法或诊断功能。"
+        },
+        {
+          "id": "S38",
+          "url": "https://www.apple.com/newsroom/2015/03/09Apple-Watch-Available-in-Nine-Countries-on-April-24/",
+          "mode": "body",
+          "notes": "重核2015-03-09原公告全文：2015-04-24首批发售、38/42mm、Crown、Force Touch、Taptic Engine、三圈、借用iPhone GPS/Wi-Fi、18小时与iPhone/iOS条件；不套用后代独立GPS、蜂窝、ECG与SpO2。"
+        }
+      ],
+      "notes": "频次是厂商心率/HRV口径，不是心电图频次或临床收益证明；readiness score按官网当前描述。Health Age、部分Audio Intelligence与Siri Recap标晚2026，正文没有当作已交付功能。医疗指标未作诊断解释。"
+    },
+    {
+      "slug": "iphone-18-pro",
+      "sourceChecks": [
+        {
+          "id": "CH08",
+          "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+          "mode": "body",
+          "notes": "2026-09-11官方正文已读，明确三条产品线2026-09-18发售；当代三件主要功能得到对应产品页复核。Siri AI等测试版/地区条件和部分年内未来功能未写作当前通用能力。"
+        },
+        {
+          "id": "CH09",
+          "url": "https://images.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+          "mode": "body",
+          "notes": "web解析间歇Internal Error，直接读取相同URL的HTTP 200 HTML正文，标题和日期为2026-09-18，正文明确iPhone 18 Pro、Series 12与AirPods 5到店；没有仅靠标题或路径推断发售。"
+        },
+        {
+          "id": "TXL15",
+          "url": "https://www.apple.com/iphone-18-pro/",
+          "mode": "body",
+          "notes": "现有官方产品正文已读。f/1.48、f/1.8、f/2.8、f/4仅归主摄；不把Pro Max续航、固定光圈辅摄或测试版AI推广为该馆藏共有能力。"
+        },
+        {
+          "id": "S35",
+          "url": "https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
+          "mode": "body",
+          "notes": "重核2010-06-07原公告正文：发布/首批销售安排、960×640屏、前后摄像头、Wi-Fi FaceTime、720p视频与iOS 4；未采用最薄等比较级宣传。"
+        }
+      ],
+      "notes": "官网四档光圈属于主摄；没有套给辅摄，未移用Pro Max的45小时数字或把optical-quality倍率写纯光学变焦。Apple Support 148590打开失败，未新增未读来源；现有产品页和CH08足以支持本文。"
+    },
+    {
+      "slug": "macbook-air-m5-2026",
+      "sourceChecks": [
+        {
+          "id": "CH07",
+          "url": "https://images.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+          "mode": "body",
+          "notes": "2026-03-03官方原公告正文已读，明确3月4日预订/3月11日发售，13/15英寸、M5、GPU神经加速器、无风扇、512GB起、MagSafe/两只TB4/两外屏、N1与12MP相机。仅将13英寸计入此馆藏；性能倍数及长期表现未推广。"
+        }
+      ],
+      "notes": "只计13英寸，不改变既定发布/发售口径。无风扇与加速器采用公告明示；没有推广厂商性能倍数为独立实测或长期口碑。任务示例要通过相容软件与具体配置实现。"
+    },
+    {
+      "slug": "xiaomi-smart-band-11-active",
+      "sourceChecks": [
+        {
+          "id": "CH10",
+          "url": "https://www.mi.com/global/product/xiaomi-smart-band-11-active/specs/",
+          "mode": "body",
+          "notes": "现有规格全文已读，明确1.47英寸TFT、PPG、加速度计、ERM、磁吸、300mAh、50模式及Mi Fitness，健康数据为个人参考的厂商边界已核查。"
+        },
+        {
+          "id": "CH11",
+          "url": "https://www.mi.com/it/event/new-wearable-september-2026/",
+          "mode": "body",
+          "notes": "官方意大利活动页正文列有Xiaomi Band 11 Active及Smart Band 11 Active购买链接；URL带september-2026，正文没有独立日期或全球首发日。年份保持官方活动列售口径，未把同页REDMI Watch的AMOLED/GNSS移给手环。"
+        },
+        {
+          "id": "TXL17",
+          "url": "https://www.mi.com/global/product/xiaomi-smart-band-11-active/",
+          "mode": "body",
+          "notes": "官方产品全文及脚注已核查：21天为轻度模式、常规8天；PPG及加速度计见CH10，SpO2连续检测需主动打开；未混用同活动页REDMI Watch的AMOLED或GNSS。"
+        },
+        {
+          "id": "TXL08",
+          "url": "https://goughlui.com/2015/06/02/review-mi-band-fitness-monitor-and-sleep-tracker/",
+          "mode": "body",
+          "notes": "原作者2015-06-02亲自开箱和操作正文已读，明确型号XMSH01HM；样机由商家提供，属于单件原始体验，未采用其续航推算、主观好评或故障作为群体结论。"
+        }
+      ],
+      "notes": "2026年份仅为官方活动列售，CH11正文缺独立日期，未称全球首发已证实。TFT、PPG、ERM均核型号页；未混同活动页其他REDMI Watch的AMOLED/GNSS。21天轻度与8天常规模式已区分，健康数据按厂家个人参考边界写。"
+    }
+  ],
+  "crossReview": [
+    "AirPods 5摘要避免暗示本代首增ANC；Steam Deck评级按当前厂商定义表述；Series 12背景补型号页引用。",
+    "初代小米手环年代由同篇原始JMIR论文PDF表2支持2014年，未升级零售首日口径；旧空社区页移出本件引用。Steam Deck年代改引用Valve原公告，移出评论页。",
+    "红白机切换TV模式保留得分明确不断电条件；QV-10以原手册显示刷新与暗处拍摄条件解释局限；PlayStation采用原厂史料所述CD生产与小批量供应方式，避免审核方法式描述。"
+  ]
+}

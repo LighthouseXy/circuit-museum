@@ -1,0 +1,136 @@
+{
+  "checkedOn": "2026-10-11",
+  "status": "passed-review-artifacts-only",
+  "counts": {
+    "rawScreeningRecords": 263,
+    "distinctScreeningRecords": 262,
+    "formalSelectedIncludingExisting": 216,
+    "existingImported": 40,
+    "newFormalSelected": 176,
+    "newCompleteTexts": 14,
+    "existingPlusNewCompleteTexts": 54,
+    "newSelectedAwaitingCompleteText": 162,
+    "statusCounts": {
+      "selected": 216,
+      "pending": 34,
+      "rejected": 4,
+      "discovery": 8
+    },
+    "sourceRecords": 571,
+    "distinctSourceURLs": 539
+  },
+  "checks": [
+    {
+      "name": "unique-selection",
+      "passed": true,
+      "details": "263 screening records; one cross-department Steam Frame merge; 216 formal distinct models"
+    },
+    {
+      "name": "base-preservation",
+      "passed": true,
+      "details": "Original collection bytes and 40 slugs unchanged"
+    },
+    {
+      "name": "chronicle-preservation",
+      "passed": true,
+      "details": "Original production chronicles read-only; original29 nodes retained in the earlier proposal"
+    },
+    {
+      "name": "status-boundaries",
+      "passed": true,
+      "details": "40 imported, 14 new complete texts, 162 new formal identity dossiers"
+    },
+    {
+      "name": "unresolved-and-variant-exclusions",
+      "passed": true,
+      "details": "Steam Frame and unresolved identities excluded; excluded variants cannot inflate selected count"
+    },
+    {
+      "name": "global-reference-closure",
+      "passed": true,
+      "details": "Every record/fact/identity/date/opinion reference resolves"
+    },
+    {
+      "name": "batch-reference-closure",
+      "passed": true,
+      "details": "54 batch sources, including EP101 nested-fact source CM150-S013"
+    },
+    {
+      "name": "complete-text-and-media-fallback",
+      "passed": true,
+      "details": "14 unique complete texts; 906–1153 Chinese characters; five paragraph references; explicit text fallback"
+    },
+    {
+      "name": "import-batch-link-safety",
+      "passed": true,
+      "details": "Deferred full-text targets remain model proposals; no broken imported detail link"
+    },
+    {
+      "name": "attributed-media-observations",
+      "passed": true,
+      "details": "9 structured original-media opinions; no consensus or award inferred"
+    },
+    {
+      "name": "specific-date-source-repair",
+      "passed": true,
+      "details": "ERS1000 actual Japanese sales anchored by 2018-05-07 post-launch release; legacy identity/date references narrowed"
+    },
+    {
+      "name": "current-gaming-and-manufacturers",
+      "passed": true,
+      "details": "Gaming spans1972–2026; ASUS/Lenovo/MSI hardware and Valve/Steam ecosystem separate"
+    },
+    {
+      "name": "selected-model-stage-coverage",
+      "passed": true,
+      "details": "12 home rows;16 reading lines;45 stages; each selected model placed exactly once"
+    },
+    {
+      "name": "category-period-form-matrix",
+      "passed": true,
+      "details": "24 fine categories with period and form totals"
+    },
+    {
+      "name": "preview-internal-routes",
+      "passed": true,
+      "details": "All generated detail/type/hash routes resolve; external href schemes restricted to HTTP/S"
+    }
+  ],
+  "browserChecks": [
+    {
+      "scope": "expanded home1440px and390px",
+      "result": "12 home rows; no horizontal overflow; existing photo visible; viewport reset"
+    },
+    {
+      "scope": "display desktop and390px",
+      "result": "13 models/4stages; mobile locator visible; no horizontal overflow"
+    },
+    {
+      "scope": "VR390px",
+      "result": "8 selected models; correct line visible; no horizontal overflow"
+    },
+    {
+      "scope": "catalog search→Switch2detail→back",
+      "result": "one matching model; five main full-text sections plus media/related; current FAQ paragraph; browser back returns catalog"
+    },
+    {
+      "scope": "Switch2detail320px",
+      "result": "initial media-device-name overflow found; overflow-wrap corrected; reloaded page scrollWidth305 within320"
+    }
+  ],
+  "independentReview": {
+    "agent": "expanded_home_comms_medium",
+    "mode": "read-only",
+    "resolved": [
+      "EP101 batch nested-fact source inclusion",
+      "ERS1000 actual-date source",
+      "legacy identity/date source scope narrowing"
+    ],
+    "limits": "No reread of all539 URLs; inherited source verification depths preserved"
+  },
+  "limits": [
+    "Checks cover review artifacts and recorded local UI observations, not formal site implementation.",
+    "No new image/video download, deployment, physical device test or universal performance/quality proof.",
+    "JavaScript-disabled and image-abort tests were performed for the earlier seven-line preview, not repeated for this expanded HTML."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "testedAt": "2026-10-15T06:10:01.542Z",
+  "checks": [
+    "320px: 400 products; three award filters, combined search, reload, return, clearing, seven programme guides, design points and reflow",
+    "390px: 400 products; three award filters, combined search, reload, return, clearing, seven programme guides, design points and reflow",
+    "768px: 400 products; three award filters, combined search, reload, return, clearing, seven programme guides, design points and reflow",
+    "1440px: 400 products; three award filters, combined search, reload, return, clearing, seven programme guides, design points and reflow"
+  ],
+  "errors": [],
+  "browserVersion": "155.0.8059.40"
+}

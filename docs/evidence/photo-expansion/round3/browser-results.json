@@ -1,0 +1,11 @@
+{
+  "testedAt": "2026-10-15T06:09:34.101Z",
+  "base": "http://127.0.0.1:4173",
+  "newImages": 7,
+  "checks": [
+    "7 new images decode, matching captions, authors, work titles, source/license links and reflow at 390px",
+    "7 new images decode, matching captions, authors, work titles, source/license links and reflow at 1440px"
+  ],
+  "errors": [],
+  "browserVersion": "155.0.8059.40"
+}

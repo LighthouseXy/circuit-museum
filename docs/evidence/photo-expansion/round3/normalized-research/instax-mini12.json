@@ -1,0 +1,105 @@
+{
+  "slug": "instax-mini12",
+  "checkedOn": "2026-10-15",
+  "query": "Selected exact licensed physical photograph",
+  "candidates": [
+    {
+      "slug": "instax-mini12",
+      "provider": "commons",
+      "title": "File:Fujifilm Instax Mini 12 - Instant Film Camera (52950271338).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_(52950271338).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg/960px-Fujifilm_Instax_Mini_12_-_Instant_Film_Camera_%2852950271338%29.jpg",
+      "creator": "Tony Webster",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-07-01 07:33:43",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fujifilm Instax Mini 12 - Instant Film Camera (52950271338)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Fujifilm Instax cameras|Flickr images reviewed by FlickreviewR 2|Flickr images missing SDC published in",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A Fujifilm Instax Mini 12 white instant film camera.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-04-10 14:58",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/diversey/52950271338/\" class=\"external text\">Fujifilm Instax Mini 12 - Instant Film Camera</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/people/87296837@N00\" class=\"external text\">Tony Webster</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "A Fujifilm Instax Mini 12 white instant film camera.",
+      "localFile": "docs/evidence/photo-expansion/round3/instax-mini12.jpg",
+      "caption": "白色INSTAX mini 12实物，机身型号字样、闪光灯和镜头结构清晰。",
+      "modelVerification": "原文件描述明确Fujifilm Instax Mini 12 white，机身mini12标记清晰，排除mini11。",
+      "visualReview": "亲自单张查看已下载图片；实物环境、细节及型号/代际特征已核对，无生成替代。",
+      "primaryLicenseVerification": {
+        "checkedOn": "2026-10-15",
+        "sourcePageArchive": "docs/evidence/photo-expansion/round3/instax-mini12-source.html",
+        "finding": "原文件页面许可与Own work已核对。"
+      },
+      "status": "approved-candidate",
+      "artist": "Tony Webster"
+    }
+  ]
+}

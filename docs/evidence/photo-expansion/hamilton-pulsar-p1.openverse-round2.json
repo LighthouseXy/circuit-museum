@@ -1,0 +1,90 @@
+{
+  "query": "Pulsar P1",
+  "checkedOn": "2026-10-15",
+  "result_count": 2,
+  "page_count": 1,
+  "page_size": 20,
+  "page": 1,
+  "results": [
+    {
+      "id": "12822ff9-f81b-4c64-88ee-b10659f838bf",
+      "title": "Vintage Newspaper Advertising For The Bulova Accuquartz And Compu-Chron Men's LED Watches In The San Antonio Texas Express, December 13, 1974",
+      "indexed_on": "2020-03-04T12:46:06.747827Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/51764518@N02/26707867852",
+      "url": "https://live.staticflickr.com/7701/26707867852_27ef16ebf7_b.jpg",
+      "creator": "France1978",
+      "creator_url": "https://www.flickr.com/photos/51764518@N02",
+      "license": "by-sa",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "1970seraelectronicquartzwatch",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "vintagebulovaaccuquartzwatch",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "vintagecompuchronwatch",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "vintageledwatches",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"Vintage Newspaper Advertising For The Bulova Accuquartz And Compu-Chron Men's LED Watches In The San Antonio Texas Express, December 13, 1974\" by France1978 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "fields_matched": [
+        "description"
+      ],
+      "mature": false,
+      "height": 1024,
+      "width": 598,
+      "thumbnail": "https://api.openverse.org/v1/images/12822ff9-f81b-4c64-88ee-b10659f838bf/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/12822ff9-f81b-4c64-88ee-b10659f838bf/",
+      "related_url": "https://api.openverse.org/v1/images/12822ff9-f81b-4c64-88ee-b10659f838bf/related/",
+      "unstable__sensitivity": []
+    },
+    {
+      "id": "76adf73a-cec2-4beb-82a3-44fd4a163e56",
+      "title": "Pulsar-timing-array-schematic",
+      "indexed_on": "2023-07-02T00:05:55.694405Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=133833588",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pulsar-timing-array-schematic.svg",
+      "creator": "Hfst",
+      "creator_url": "https://commons.wikimedia.org/wiki/User:Hfst",
+      "license": "by-sa",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": "illustration",
+      "filesize": 33472,
+      "filetype": "svg",
+      "tags": [],
+      "attribution": "\"Pulsar-timing-array-schematic\" by Hfst is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 744,
+      "width": 1052,
+      "thumbnail": "https://api.openverse.org/v1/images/76adf73a-cec2-4beb-82a3-44fd4a163e56/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/76adf73a-cec2-4beb-82a3-44fd4a163e56/",
+      "related_url": "https://api.openverse.org/v1/images/76adf73a-cec2-4beb-82a3-44fd4a163e56/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

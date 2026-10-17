@@ -1,0 +1,1871 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-11",
+  "status": "explanatory-revision-validated-not-imported",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ]
+  },
+  "exhibits": [
+    {
+      "slug": "lg-stanbyme-go-27lx5qkna",
+      "year": 2023,
+      "name": "LG StanbyME Go 27LX5QKNA",
+      "brand": "LG",
+      "category": "display",
+      "museumCategory": "display",
+      "categoryLabel": "电视与显示",
+      "aliases": [
+        "LG LG StanbyME Go 27LX5QKNA"
+      ],
+      "tags": [
+        "电视与显示",
+        "2023"
+      ],
+      "summary": "一个清楚任务是到临时位置后打开箱体，调整支架，将屏幕摆成适合观看或触控的方向，再从兼容设备分享内容或使用webOS应用。显示面安装在箱内支架上，可以倾斜、旋转、升降，并提供横向、竖向和桌面模式。",
+      "context": "2023年八月十五日，LG美国公布27LX5QKNA StanbyME Go，并给出当月预售与预计交货安排。本稿沿用公布事件，不把预计发货日当实际交付确认。产品将27英寸触屏、可调支架、电池、声音和运输箱合成一件设备，面对的是临时地点仍想使用较大屏幕的任务。与将一台家用电视搬走相比，箱体为运输、收纳与支承提供一个连续结构。它可以先是一只合上的箱子，打开后再成为观看或触控设备；产品的存在方式因而随活动改变，而不是始终占据房间中的一个显示位置。",
+      "design": "显示面安装在箱内支架上，可以倾斜、旋转、升降，并提供横向、竖向和桌面模式。箱体既保护运输中的设备，又作为展开时的基础；提手和附件收纳让“带走”进入整体结构。内置电池减少一段观看对固定插座的即时依赖，但同时把充电和电量管理加入任务。设计的优势不是屏幕变小，而是把原本分开的屏幕、支架与包装整合；代价是使用者搬动的是整套结构，箱体也仍占地方。它与一块裸显示面不同，打开、放稳、展开和合上都是产品所设计的正常动作。",
+      "usage": "一个清楚任务是到临时位置后打开箱体，调整支架，将屏幕摆成适合观看或触控的方向，再从兼容设备分享内容或使用webOS应用。若内容是竖视频，可选择竖向；需要桌面互动时则改变屏幕位置，而不是强迫所有任务采用同一种观看姿势。美国公告列AirPlay、iOS/Android镜像及无线连接，这些入口要按设备兼容与服务条件使用。结束后屏幕和支架回到箱体，运输与使用形成闭环。电池使一次活动可以暂时不围绕插座组织，但用户仍需事先充电并在实际应用和网络负荷下确认够不够用。",
+      "significance": "临时观看未必总能找到合适墙面或固定电视，StanbyME Go把屏幕、声音和支撑放进可携带箱体。用户开箱、调整屏幕高低与方向，再在横向、竖向或桌面位置使用；箱子不仅保护设备，也限定收纳状态。The Freestyle要安排投影面，StanbyME Go带走的是实体显示；The Sero能转竖，但没有同样的携带箱与桌面关系。2023年美国公告支持此型号和订单安排，原厂续航只对应规定条件。它的意义在于将准备观看的几步集中到箱体，仍要接受屏幕尺寸、重量、供电和内容连接的约束。",
+      "limitations": "原厂给出最高三小时观看时间，并注明实际表现受网络连接和应用使用影响，因此不能把这一上限当成所有亮度、内容和电池状态下的承诺。便携箱并不意味着无需准备：还要有可放稳的表面、兼容内容来源和足够电量。触控提供直接操作，也要求手能接近屏幕，远处观看和桌面使用的姿势不同。型号限美国27LX5QKNA，不借StanbyME或StanbyME2的支架与电池参数。工业设计奖资料没有被当成续航或搬运实测；本稿的重点是整合结构怎样解决临时观看任务，以及整套运输带来的体积与准备工作。",
+      "dateLabel": "2023年8月15日美国公布（8月预售与交货为当时计划）",
+      "dateKind": "地区产品公布",
+      "regionVersion": "2023美国27LX5QKNA；其他地区尾码待核，排除StandbyME/StanbyME2",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2023年8月15日美国公布（8月预售与交货为当时计划）",
+          "sourceIds": [
+            "L:AMG01"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "2023美国27LX5QKNA；其他地区尾码待核，排除StandbyME/StanbyME2",
+          "sourceIds": [
+            "L:AMG02"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "L:AMG01",
+        "L:AMG02",
+        "L:AMG03",
+        "I150-S070",
+        "I150-S071",
+        "I150-S060",
+        "I150-S061"
+      ],
+      "paragraphSources": {
+        "context": [
+          "L:AMG01",
+          "L:AMG02",
+          "L:AMG03"
+        ],
+        "design": [
+          "L:AMG01",
+          "L:AMG02",
+          "L:AMG03"
+        ],
+        "usage": [
+          "L:AMG01",
+          "L:AMG02",
+          "L:AMG03"
+        ],
+        "significance": [
+          "L:AMG01",
+          "L:AMG02",
+          "L:AMG03",
+          "I150-S070",
+          "I150-S071",
+          "I150-S060",
+          "I150-S061"
+        ],
+        "limitations": [
+          "L:AMG01",
+          "L:AMG02",
+          "L:AMG03"
+        ]
+      },
+      "relatedSlugs": [
+        "samsung-the-freestyle-2022",
+        "sony-xel-1"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "samsung-the-freestyle-2022",
+        "sony-xel-1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "display-expanded-3"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "display",
+        "stageId": "display-expanded-3",
+        "title": "屏幕与房间重新组合",
+        "need": "在观看之外安排屏幕的存在。",
+        "turn": "画框、旋转、卷收与便携结构呈现不同选择。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 911,
+      "mediaOpinions": [],
+      "readerTakeaway": "看开箱后的支撑怎样展开，再看屏幕方向与高度如何选择。StanbyME Go把携带和观看准备合为一个箱体流程。",
+      "readerTakeawaySources": [
+        "L:AMG01",
+        "L:AMG02",
+        "L:AMG03",
+        "I150-S070",
+        "I150-S071",
+        "I150-S060",
+        "I150-S061"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "samsung-the-freestyle-2022",
+          "sourceIds": [
+            "I150-S070",
+            "I150-S071"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "samsung-the-sero-ls05t",
+          "sourceIds": [
+            "I150-S060",
+            "I150-S061"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "lg-oled-evo-m5-65",
+      "year": 2025,
+      "name": "OLED evo M5 65",
+      "brand": "LG",
+      "category": "display",
+      "museumCategory": "display",
+      "categoryLabel": "电视与显示",
+      "aliases": [
+        "LG OLED evo M5 65"
+      ],
+      "tags": [
+        "电视与显示",
+        "2025"
+      ],
+      "summary": "明确的使用任务是将兼容播放或游戏设备接到连接盒，把显示器安排在适合观看的位置，再确认两者供电和传输正常。M5利用Zero Connect传送音视频，让信号连接盒可以与显示器分开；屏幕和盒子仍然各需电源。",
+      "context": "2025年七月新加坡商业促销明确列出OLED65M5PSA，本稿以观察到商业供应为时间事件，不将它改写成全球首售日。这台65英寸M5把电视画面与内容连接分在显示器和Zero Connect盒两处，面对的是房间中设备、连线和屏幕摆放怎样协调。它仍是一台完整观看系统，不是仅凭无线名称就可以任意放置的显示面。人在屏幕一侧选择观看位置，在连接盒一侧安排内容设备，原来集中在背面的一组任务被拆开。这样的产品值得按日常家庭连接需要理解，而不必先把它写成已经改变电视行业的标志。",
+      "design": "M5利用Zero Connect传送音视频，让信号连接盒可以与显示器分开；屏幕和盒子仍然各需电源。65英寸档厂商列最高4K144Hz，表明这一尺寸版本所宣称的显示能力，但不替任意输入内容规定帧率。结构取舍是减少部分走向屏幕的信号线，同时增加另一个需要安置、供电并维持传输条件的物件。无线传输不是没有部件，而是改变部件之间的关系。设备可以集中在盒子附近，屏幕附近的连接安排相应简化；若盒子位置与传输不合适，便利也必须通过重新布置才能成立。",
+      "usage": "明确的使用任务是将兼容播放或游戏设备接到连接盒，把显示器安排在适合观看的位置，再确认两者供电和传输正常。用户整理的不只是屏幕背面，而是整个房间里输入设备与盒子的位置。换内容来源时，可以在连接盒一侧处理输入，让显示器继续承担画面呈现；这种分工对已有多台设备的人尤其容易理解。若要利用较高刷新率，还需确认源设备、内容和所用连接符合该版本要求，电视列出最高能力不意味着所有影片都会变成相应帧数。观看任务因此由输入准备、传输和显示三段相接，而非只有一块屏幕独立完成。",
+      "significance": "电视周围的信号线影响设备与家具怎样摆放，65英寸M5把信号设备接到Zero Connect Box，再向屏幕传送，让机位与信号接入位置可以分别安排。XEL-1用底座承载薄屏与接口，M5进一步分开屏幕和外部信号关系；R95H则选择另一类背光显示结构。2025年新加坡具体销售促销支持OLED65M5PSA在该地区出现，不能替代全球首售日。它值得记录的是信号连接从屏幕后移到另一盒子的明确动作，屏幕和盒子仍需电源，位置与无线传送条件也不能省略，“无线”并未取消全部线缆。",
+      "limitations": "无线音视频并未取消电源线，显示器与盒子各自需要供电，也要按原厂条件安排位置和传输。分置减少某类连线，却可能增加盒子的占地与布置工作；这两个结果应同时阅读。4K144Hz来自65英寸档，不能套给全部尺寸，也不是本研究测得的无线极限。七月促销证明当时列出了商业产品，不直接证明它在每间店有库存或每位顾客当天收货。本稿限新加坡OLED65M5PSA，并保留地区软件与调谐差异；没有用“唯一真正无线”等宣传措辞作行业判断，让日常连接取舍保持可检验而清楚。",
+      "dateLabel": "2025-07（新加坡商业促销观察）",
+      "dateKind": "observed",
+      "regionVersion": "新加坡OLED65M5PSA，65英寸",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "Zero Connect传输音视频；屏幕和连接盒仍需电源。",
+        "65英寸档厂商列最高4K144Hz。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2025-07（新加坡商业促销观察）",
+          "sourceIds": [
+            "I150-S064"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "新加坡OLED65M5PSA，65英寸",
+          "sourceIds": [
+            "I150-S064",
+            "I150-S065"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "Zero Connect传输音视频；屏幕和连接盒仍需电源。",
+          "sourceIds": [
+            "I150-S065"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "65英寸档厂商列最高4K144Hz。",
+          "sourceIds": [
+            "I150-S065"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S064",
+        "I150-S065",
+        "I150-S016",
+        "I150-S073",
+        "I150-S066",
+        "I150-S067"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S064",
+          "I150-S065"
+        ],
+        "design": [
+          "I150-S064",
+          "I150-S065"
+        ],
+        "usage": [
+          "I150-S064",
+          "I150-S065"
+        ],
+        "significance": [
+          "I150-S064",
+          "I150-S065",
+          "I150-S016",
+          "I150-S073",
+          "I150-S066",
+          "I150-S067"
+        ],
+        "limitations": [
+          "I150-S064",
+          "I150-S065"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-xel-1",
+        "samsung-micro-rgb-r95h-65"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "sony-xel-1",
+        "samsung-micro-rgb-r95h-65"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "display-expanded-4"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "display",
+        "stageId": "display-expanded-4",
+        "title": "当代显示观察",
+        "need": "分清已供货产品与公告方案。",
+        "turn": "近期型号按明确事件和地区范围阅读。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 940,
+      "mediaOpinions": [],
+      "readerTakeaway": "先跟随一条信号线进入Zero Connect Box，再看屏幕还保留哪些连接。M5改变接入位置的选择，不能只凭“无线”理解整套安装。",
+      "readerTakeawaySources": [
+        "I150-S064",
+        "I150-S065",
+        "I150-S016",
+        "I150-S073",
+        "I150-S066",
+        "I150-S067"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "sony-xel-1",
+          "sourceIds": [
+            "I150-S016",
+            "I150-S073"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "samsung-micro-rgb-r95h-65",
+          "sourceIds": [
+            "I150-S066",
+            "I150-S067"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "samsung-micro-rgb-r95h-65",
+      "year": 2026,
+      "name": "Micro RGB R95H 65",
+      "brand": "Samsung",
+      "category": "display",
+      "museumCategory": "display",
+      "categoryLabel": "电视与显示",
+      "aliases": [
+        "Samsung Micro RGB R95H 65"
+      ],
+      "tags": [
+        "电视与显示",
+        "2026"
+      ],
+      "summary": "这台机器的具体任务是接收兼容内容并在65英寸画面上观看，用户仍需根据房间为显示面安排位置，选择内容来源与合适输入。Micro RGB在这里指RGB背光路线，不能写成每个像素自行发光的MicroLED面板。",
+      "context": "2026年四月十四日，Samsung美国公布Micro RGB电视阵容；本稿限定65英寸R95H、美国MRN65R95HAFXZA，并把公告作为日期事件，不声称未经确认的首售日。它进入博物馆当代观察的原因，是一个明确商品如何安排背光与画面，而不是仅凭近期年份获得历史地位。对日常观看者而言，电视仍承担播放节目和显示内容的任务，新的技术名称需要落到结构理解。将具体型号、尺寸与地区标签放在一起，也防止同一系列中的其他尺寸或其他市场配置被混成一台不存在的机器。",
+      "design": "Micro RGB在这里指RGB背光路线，不能写成每个像素自行发光的MicroLED面板。区分背光与显示像素，有助于理解为什么产品命名并不能直接替代发光结构说明。65英寸R95H产品页确认的是这一完整电视身份，画面仍要由输入、处理及显示共同组成。设计取舍围绕照明组织展开：背光的颜色与控制参与最终画面，实际结果又需要经过显示层及内容条件。它和OLED展品并读时，重点在光从哪里产生以及怎样参与成像，而不是把两个名称当成一个技术或以名称推定绝对优劣。",
+      "usage": "这台机器的具体任务是接收兼容内容并在65英寸画面上观看，用户仍需根据房间为显示面安排位置，选择内容来源与合适输入。以电影为例，播放设备提供画面信息，电视的背光与显示系统负责呈现；亮处、暗处与颜色是整套过程的结果，不由一个“RGB”标签独立决定。若内容本身细节或色彩信息有限，换一种背光不能补回未记录的信息。日常使用因此仍包含摆放、输入选择和观看设置，技术路线服务这些动作。本文不补造尚未核读的菜单按键或服务套餐，只用原厂确证的型号及结构解释观看任务。",
+      "significance": "大尺寸液晶显示仍要决定怎样给面板提供光，R95H以RGB光源组织背光，与OLED逐像素自发光的路线不同。用户观看同样的节目，内部颜色与亮度的产生方式却不相同；“Micro RGB”不能被读成每个像素都是自发光MicroLED。65英寸M5用OLED并分开信号接入，R95H的关键问题则在背光结构。2026美国公告明确具体型号和商品计划，尚不提供本条的独立画质、长期采用或实际首售证据。它的当代价值在于留下一个真实公布的显示方案，评价仍需结合具体面板、处理、片源与实测，而不是从名称先判胜负。",
+      "limitations": "公告事件不等于每个市场已经实际到货；美国型号页也不能替其他地区确认销售日。RGB背光与逐像素自发光的区别是本文的重要边界，不能借品牌“Micro”字样忽略。原厂颜色与画质评价没有在本研究独立测量，实际效果还依赖内容、设置及房间条件。65英寸版与其他尺寸不能任意合并，后续软件功能也不反写成公告时已存在。作为2026当代观察，本文保持可核信息的具体程度：型号真实、地区明确、事件清楚，同时把使用任务放在技术名称之前，不预先为未验证的长期效果或市场结果下结论。",
+      "dateLabel": "2026-04-14（美国公告；不声称首售日）",
+      "dateKind": "announcement",
+      "regionVersion": "美国MRN65R95HAFXZA，65英寸",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "RGB背光电视；不是逐像素自发光MicroLED屏幕。",
+        "官方产品页明确65英寸R95H(2026)型号。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2026-04-14（美国公告；不声称首售日）",
+          "sourceIds": [
+            "I150-S066"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "美国MRN65R95HAFXZA，65英寸",
+          "sourceIds": [
+            "I150-S066",
+            "I150-S067"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "RGB背光电视；不是逐像素自发光MicroLED屏幕。",
+          "sourceIds": [
+            "I150-S066"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "官方产品页明确65英寸R95H(2026)型号。",
+          "sourceIds": [
+            "I150-S067"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S066",
+        "I150-S067",
+        "I150-S064",
+        "I150-S065",
+        "I150-S016",
+        "I150-S073"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S066",
+          "I150-S067"
+        ],
+        "design": [
+          "I150-S066",
+          "I150-S067"
+        ],
+        "usage": [
+          "I150-S066",
+          "I150-S067"
+        ],
+        "significance": [
+          "I150-S066",
+          "I150-S067",
+          "I150-S064",
+          "I150-S065",
+          "I150-S016",
+          "I150-S073"
+        ],
+        "limitations": [
+          "I150-S066",
+          "I150-S067"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-xel-1",
+        "lg-oled-evo-m5-65"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "sony-xel-1",
+        "lg-oled-evo-m5-65"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "display-expanded-4"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "display",
+        "stageId": "display-expanded-4",
+        "title": "当代显示观察",
+        "need": "分清已供货产品与公告方案。",
+        "turn": "近期型号按明确事件和地区范围阅读。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 935,
+      "mediaOpinions": [],
+      "readerTakeaway": "先问光从哪里来，再区分RGB背光与OLED自发光。R95H值得选作当代显示方案，当前记录的是具体公告，不是未经核实的首售。",
+      "readerTakeawaySources": [
+        "I150-S066",
+        "I150-S067",
+        "I150-S064",
+        "I150-S065",
+        "I150-S016",
+        "I150-S073"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "lg-oled-evo-m5-65",
+          "sourceIds": [
+            "I150-S064",
+            "I150-S065"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "sony-xel-1",
+          "sourceIds": [
+            "I150-S016",
+            "I150-S073"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "htc-vive-2016",
+      "year": 2016,
+      "name": "VIVE 消费者版",
+      "brand": "HTC / Valve",
+      "category": "immersive",
+      "museumCategory": "immersive",
+      "categoryLabel": "VR与AR",
+      "aliases": [
+        "HTC / Valve VIVE 消费者版"
+      ],
+      "tags": [
+        "VR与AR",
+        "2016"
+      ],
+      "summary": "原版设置资料要求先在电脑安装VIVE与SteamVR软件，安排硬件，再定义活动区域。初代VIVE把显示与佩戴集中在头显，计算交给外部电脑，空间追踪依赖基站和相应部件。",
+      "context": "2016年四月五日，初代消费VIVE开始向预订用户发货。它由HTC与Valve合作，使用外部电脑、头显、控制器和基站组成VR系统，不能与VIVE PRE开发设备或后来的Pro混为一件商品。对游戏者而言，任务不仅是把画面戴在头上，还要让转头和手部动作与内容对应。房间级体验把一部分活动范围纳入设备准备，屏幕不再只有眼前那一面：身边空间也参与使用。正式发货与随后日本实体零售扩展分别有记录，前者是本稿日期锚点，后者说明渠道事件不能替代首批交付。",
+      "design": "初代VIVE把显示与佩戴集中在头显，计算交给外部电脑，空间追踪依赖基站和相应部件。这样的分工使头部不必容纳整套电脑，却需要连接及房间设备；控制器又让手部动作获得独立输入物件。设计并非用一件机壳取消所有配套，而是将任务分配到能各自承担的部位。原版支持目录分别介绍头显、连接盒、基站和活动区域，说明这些都属于正常使用理解。与一体头显相比，外部系统增加布置工作，同时允许计算设备与头戴部件按不同角色安排，便利和负担来自同一种结构选择。",
+      "usage": "原版设置资料要求先在电脑安装VIVE与SteamVR软件，安排硬件，再定义活动区域。一次房间级游戏因此从场地准备开始：选择可使用空间，按原厂引导放置基站与设备，完成区域设置，之后才进入应用。资料明确提醒，若移动基站、改变角度或换房间，需要重新设置；这不是每次拿起头显都能忽略的步骤。人的动作能在内容中产生回应，前提是系统先知道如何理解它们发生的位置。本文只介绍原版正常设置流程，没有把Pro连接盒或后代无线配件当作2016套装默认组件。",
+      "significance": "让身体在虚拟房间中移动，需要设备把现实位置持续转换成画面输入。原VIVE用电脑、头显、控制器和外部基站组成系统，用户先设置空间，再转头、走动或移动双手进行交互。初代PlayStation VR也依赖外部主机和相机，却采用不同追踪布局；第一代Quest随后把运算与观察环境的相机移进头显，减少外部准备。原VIVE支持文档要求安装、设置活动区域，移动基站后重新配置，是明确的操作证据。它让空间成为系统设置的一部分，活动自由仍由房间、线缆和追踪条件共同决定。",
+      "limitations": "活动区域与基站配置影响追踪，移动系统以后重设区域是使用条件，不是可有可无的美观整理。外部电脑还必须满足设备与软件要求，头显独自不能完成这套VR任务。线缆与房间中的实体物件仍存在，虚拟画面不能替人清空场地；本文不把“room-scale”解释为无限范围自由行走。日期限初代消费发货，未把PRE原型手册的参数或后代2.0基站兼容性移植。原厂支持页能核准备流程，不能保证任何电脑和任何房间都得到同样效果；理解这些限制，才能判断这套系统为何需要一次完整布置。",
+      "dateLabel": "2016-04-05（首批预订发货）",
+      "dateKind": "launch",
+      "regionVersion": "2016消费者版；非Vive Pre开发者版",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "HTC与Valve合作开发room-scale系统。",
+        "日本7月由线上延伸至实体零售。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2016-04-05（首批预订发货）",
+          "sourceIds": [
+            "I150-S020"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "2016消费者版；非Vive Pre开发者版",
+          "sourceIds": [
+            "I150-S020",
+            "I150-S021"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "HTC与Valve合作开发room-scale系统。",
+          "sourceIds": [
+            "I150-S021"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "日本7月由线上延伸至实体零售。",
+          "sourceIds": [
+            "I150-S021"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S020",
+        "I150-S021",
+        "CWI-S003",
+        "I150-S072",
+        "I150-S023",
+        "I150-S022"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S020",
+          "I150-S021",
+          "CWI-S003"
+        ],
+        "design": [
+          "I150-S020",
+          "I150-S021",
+          "CWI-S003"
+        ],
+        "usage": [
+          "I150-S020",
+          "I150-S021",
+          "CWI-S003"
+        ],
+        "significance": [
+          "I150-S020",
+          "I150-S021",
+          "CWI-S003",
+          "I150-S072",
+          "I150-S023",
+          "I150-S022"
+        ],
+        "limitations": [
+          "I150-S020",
+          "I150-S021",
+          "CWI-S003"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation-vr-cuh-zvr1",
+        "microsoft-hololens-2"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "sony-playstation-vr-cuh-zvr1",
+        "microsoft-hololens-2"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "immersive-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "immersive",
+        "stageId": "immersive-expanded-1",
+        "title": "外部系统与一体头显",
+        "need": "让头部动作与显示内容对应。",
+        "turn": "外部主机、摄像机或一体结构各有连接条件。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 923,
+      "mediaOpinions": [],
+      "readerTakeaway": "先看基站、电脑和身体之间的关系，再理解为什么移动基站要重新设置。原VIVE值得选，因为真实房间已成为交互装置的一部分。",
+      "readerTakeawaySources": [
+        "I150-S020",
+        "I150-S021",
+        "CWI-S003",
+        "I150-S072",
+        "I150-S023",
+        "I150-S022"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "sony-playstation-vr-cuh-zvr1",
+          "sourceIds": [
+            "I150-S072"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "oculus-quest-2019",
+          "sourceIds": [
+            "I150-S023",
+            "I150-S022"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "microsoft-hololens-2",
+      "year": 2019,
+      "name": "HoloLens 2",
+      "brand": "Microsoft",
+      "category": "immersive",
+      "museumCategory": "immersive",
+      "categoryLabel": "VR与AR",
+      "aliases": [
+        "Microsoft HoloLens 2"
+      ],
+      "tags": [
+        "VR与AR",
+        "2019"
+      ],
+      "summary": "原厂操作指南介绍，近处内容可用食指触碰选择，以拇指和食指捏合抓住、移动或调整窗口；较远目标则用手部射线指向，再以捏合释放选择。HoloLens2将波导光学、追踪传感与Windows Holographic计算装进无线头戴设备。",
+      "context": "Microsoft于2019年十一月七日开始向客户出货HoloLens2。本稿限定标准第二代光学透视设备，不将企业专用认证版本或后续软件功能合并。它不是单纯把房间摄像画面播放在遮住眼睛的屏幕上，而是利用透视光学让实际环境继续可见，并在其中显示数字内容。产品面向的任务可以是把应用窗口放到桌面附近，随后以手势操作，让观看工作不完全围绕固定显示器。这里的“空间”不仅是显示位置，也是输入与追踪的条件，戴上设备只是准备的一部分，用户账号、应用及环境还要配合。",
+      "design": "HoloLens2将波导光学、追踪传感与Windows Holographic计算装进无线头戴设备。真实环境透过镜片进入视野，数字窗口在其中出现，这与用屏幕重新播放环境的路线不同。手和眼追踪提供输入条件，使人能够在没有握持控制器时与内容交互；但空中的按钮没有实体屏幕的触觉边界。整合减少外部电脑连线，也将供电、计算和佩戴负担集中到头部。产品的取舍并非完全取代桌面，而是为需要同时看见房间与数字信息的任务提供另一种界面，窗口尺寸、可见范围和输入准确性都要随场景考虑。",
+      "usage": "原厂操作指南介绍，近处内容可用食指触碰选择，以拇指和食指捏合抓住、移动或调整窗口；较远目标则用手部射线指向，再以捏合释放选择。一个明确任务是打开应用，把窗口放到实际桌子附近，并调整它的位置以便阅读。双手Start手势提供进入菜单的路径，但手要保持在可追踪范围内。这里采用指南中的基本交互，不把后期单手Start或21H1滑动键盘能力写成2019首发。操作的核心不是手随意挥动就完成任务，而是系统先识别目标，再识别触碰、抓取与释放这些不同动作。",
+      "significance": "在真实物体旁使用数字界面，既要保留现场可见性，也要回答手如何选择虚拟目标。HoloLens 2用光学透视与手部追踪，让近处目标可用手指触碰，远处目标通过手射线与捏合选择。VIVE把视野交给虚拟场景并用控制器输入，Vision Pro则通过摄像透视重建现实、以视线和捏合操作窗口，两者不能按“都看见房间”混为一类。微软基本使用文档确认近远操作及Start手势，支持界面确已交付，未证明所有现场工作的效率提高。它把双手和实际空间纳入选择流程，也要求手在感知范围与适当佩戴条件内。",
+      "limitations": "手部必须在设备可识别的范围内，射线和触碰也要求区分目标距离，不能把手追踪说成任何姿势都有效。光学透视让房间继续可见，却不意味着数字图像覆盖整个视野或能代替现实标识；Windows应用和账号仍参与任务。原厂指南含软件更新，因此本文明确剔除不属于首发时期的新增手势和键盘操作。空中界面减少实体按钮，同时失去触觉确认，学习如何捏合、抓取和释放就是这种方案的实际成本。出货记录确认商品存在，操作文档确认交互安排，两者并不证明所有用户都获得同样舒适度或工作效率。",
+      "dateLabel": "2019-11-07（开始客户出货）",
+      "dateKind": "launch",
+      "regionVersion": "原HoloLens2；非工业edition/IVAS",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "光学透视waveguides，无线Windows Holographic计算设备。",
+        "需要用户账号；有手和眼追踪输入。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2019-11-07（开始客户出货）",
+          "sourceIds": [
+            "I150-S030"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "原HoloLens2；非工业edition/IVAS",
+          "sourceIds": [
+            "I150-S030",
+            "I150-S031"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "光学透视waveguides，无线Windows Holographic计算设备。",
+          "sourceIds": [
+            "I150-S031"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "需要用户账号；有手和眼追踪输入。",
+          "sourceIds": [
+            "I150-S031"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S030",
+        "I150-S031",
+        "CWI-S004",
+        "I150-S020",
+        "I150-S021",
+        "CWI-S003",
+        "I150-S032",
+        "I150-S033"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S030",
+          "I150-S031",
+          "CWI-S004"
+        ],
+        "design": [
+          "I150-S030",
+          "I150-S031",
+          "CWI-S004"
+        ],
+        "usage": [
+          "I150-S030",
+          "I150-S031",
+          "CWI-S004"
+        ],
+        "significance": [
+          "I150-S030",
+          "I150-S031",
+          "CWI-S004",
+          "I150-S020",
+          "I150-S021",
+          "CWI-S003",
+          "I150-S032",
+          "I150-S033"
+        ],
+        "limitations": [
+          "I150-S030",
+          "I150-S031",
+          "CWI-S004"
+        ]
+      },
+      "relatedSlugs": [
+        "htc-vive-2016",
+        "sony-playstation-vr-cuh-zvr1"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "htc-vive-2016",
+        "sony-playstation-vr-cuh-zvr1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "immersive-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "immersive",
+        "stageId": "immersive-expanded-1",
+        "title": "外部系统与一体头显",
+        "need": "让头部动作与显示内容对应。",
+        "turn": "外部主机、摄像机或一体结构各有连接条件。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 958,
+      "mediaOpinions": [],
+      "readerTakeaway": "观察同一个选择任务在近处和远处怎样换动作。HoloLens 2的关键是把真实现场保留在视野中，同时建立明确的手部输入。",
+      "readerTakeawaySources": [
+        "I150-S030",
+        "I150-S031",
+        "CWI-S004",
+        "I150-S020",
+        "I150-S021",
+        "CWI-S003",
+        "I150-S032",
+        "I150-S033"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "htc-vive-2016",
+          "sourceIds": [
+            "I150-S020",
+            "I150-S021",
+            "CWI-S003"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "apple-vision-pro-m2",
+          "sourceIds": [
+            "I150-S032",
+            "I150-S033"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "oculus-quest-2019",
+      "year": 2019,
+      "name": "Oculus Quest 第一代",
+      "brand": "Oculus",
+      "category": "immersive",
+      "museumCategory": "immersive",
+      "categoryLabel": "VR与AR",
+      "aliases": [
+        "Oculus Oculus Quest 第一代"
+      ],
+      "tags": [
+        "VR与AR",
+        "2019"
+      ],
+      "summary": "一个具体任务是在独立运行的空间应用里移动身体并操纵虚拟物体。核心设计是把运算和观察环境的相机放进头显，配合控制器及惯性数据组成Insight追踪。",
+      "context": "第一代Quest把戴上头显后的虚拟活动，从接在电脑旁的设备组合变成由头显自身运行的任务。二〇一九年原厂先给出五月发货计划，八月的技术文章确认产品已经可以获得；这里保留这种可核的时间范围。对于想体验空间游戏的人，准备电脑和把追踪器固定在房间内，原本也是开始使用之前的工作。Quest针对的是这段准备过程，而不是宣称现实空间从此不重要。它仍要知道玩家和双手的位置，才能让画面中的移动与身体动作对应。",
+      "design": "核心设计是把运算和观察环境的相机放进头显，配合控制器及惯性数据组成Insight追踪。相机反复观察房间中的特征，惯性测量则补充快速运动的信息；两者共同估计头与手相对空间的位置。由此省去连接电脑的线缆和外部追踪布局，但定位计算、显示和应用也共同占用随身设备的资源。这种整合不是给一块普通屏幕加绑带：头转向时图像需要相应更新，手移动时虚拟工具也需要跟随，持续感知本身就是产品功能的一部分。",
+      "usage": "一个具体任务是在独立运行的空间应用里移动身体并操纵虚拟物体。玩家先选择适合活动的真实位置，戴稳头显，握持控制器，再进入应用；转头观察目标，通过控制器进行选择或游戏动作。这里的“移动”包含头的位置变化，而不仅是站着改变视线方向。头显内部建立的空间参照，使画面能随这些动作调整。对使用者而言，不再为这次体验启动一台配套电脑，是明确的便利；然而应用载入、头显供电以及房间是否适合身体活动，仍需事先考虑。",
+      "significance": "开始空间游戏前，用户原本还要准备电脑、线缆和外部追踪布局。第一代Quest把应用运算与观察环境的相机放进头显，用Insight结合惯性与图像追踪头和控制器，玩家可以在一套独立设备中进入应用。与原VIVE相比，改变的是系统准备与计算的位置，而不是让房间消失；Quest 3后来又以彩色透视增加在实际房间中叠加内容的任务。2019原厂技术文章确认Quest已可获得并说明追踪输入，属于商品与结构证据，没有量化人们使用频率。它的价值在于减少外部准备步骤，仍受供电、环境特征和应用条件限定。",
+      "limitations": "独立运行带来的边界包括有限的随身供电、计算资源和设备负担。Insight依靠环境特征与传感器融合，不能被理解为在任何光线或遮挡下都绝对准确；原厂技术介绍中的精度措辞也属于其测试口径。本文讨论第一代Quest的上市时系统，没有把后来的彩色混合现实、后代处理器或其他型号的镜片写进来。空间应用还需要合适内容以及可活动的场地。去掉电脑线缆解决了一种牵绊，却不会替使用者判断眼前房间、身体状态和每次体验的适宜长度。",
+      "dateLabel": "2019（五月计划发货，八月原厂确认已可获得）",
+      "dateKind": "launch",
+      "regionVersion": "第一代Quest，不混Quest2；容量合并",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "Quest独立运行，无需系到PC。",
+        "Insight用相机和惯性数据追踪头和控制器。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2019（五月计划发货，八月原厂确认已可获得）",
+          "sourceIds": [
+            "I150-S023"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "第一代Quest，不混Quest2；容量合并",
+          "sourceIds": [
+            "I150-S023",
+            "I150-S022"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "Quest独立运行，无需系到PC。",
+          "sourceIds": [
+            "I150-S022"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "Insight用相机和惯性数据追踪头和控制器。",
+          "sourceIds": [
+            "I150-S023"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S023",
+        "I150-S022",
+        "I150-S020",
+        "I150-S021",
+        "CWI-S003",
+        "I150-S024",
+        "I150-S025"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S023",
+          "I150-S022"
+        ],
+        "design": [
+          "I150-S023",
+          "I150-S022"
+        ],
+        "usage": [
+          "I150-S023",
+          "I150-S022"
+        ],
+        "significance": [
+          "I150-S023",
+          "I150-S022",
+          "I150-S020",
+          "I150-S021",
+          "CWI-S003",
+          "I150-S024",
+          "I150-S025"
+        ],
+        "limitations": [
+          "I150-S023",
+          "I150-S022"
+        ]
+      },
+      "relatedSlugs": [
+        "meta-quest-3"
+      ],
+      "deferredRelatedSlugs": [
+        "htc-vive-2016"
+      ],
+      "relatedModelProposals": [
+        "htc-vive-2016",
+        "meta-quest-3"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "immersive-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "immersive",
+        "stageId": "immersive-expanded-1",
+        "title": "外部系统与一体头显",
+        "need": "让头部动作与显示内容对应。",
+        "turn": "外部主机、摄像机或一体结构各有连接条件。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 898,
+      "mediaOpinions": [],
+      "readerTakeaway": "想象开始一次游戏要先摆出哪些设备，再看哪些工作已经进入头显。第一代Quest把独立运行与空间追踪组成一套明确商品。",
+      "readerTakeawaySources": [
+        "I150-S023",
+        "I150-S022",
+        "I150-S020",
+        "I150-S021",
+        "CWI-S003",
+        "I150-S024",
+        "I150-S025"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "htc-vive-2016",
+          "sourceIds": [
+            "I150-S020",
+            "I150-S021",
+            "CWI-S003"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "meta-quest-3",
+          "sourceIds": [
+            "I150-S024",
+            "I150-S025"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "meta-quest-3",
+      "year": 2023,
+      "name": "Meta Quest 3",
+      "brand": "Meta",
+      "category": "immersive",
+      "museumCategory": "immersive",
+      "categoryLabel": "VR与AR",
+      "aliases": [
+        "Meta Meta Quest 3"
+      ],
+      "tags": [
+        "VR与AR",
+        "2023"
+      ],
+      "summary": "原厂举出的任务是在自己的茶几上使用虚拟钢琴：用户选择支持混合现实的应用，在彩色透视中辨认实际桌面，再与叠加的内容互动。原厂介绍的pancake光学堆叠帮助缩短前方光学结构，Snapdragon XR2 Gen 2负责随身运算。",
+      "context": "Quest 3的使用场景不只是在戴上头显后离开现实房间。二〇二三年十月十日的日本销售记录对应原Quest 3，它将独立虚拟现实与彩色透视结合，让一部分应用可以把桌面、墙壁和虚拟内容同时放在视野中。用户仍可能选择完全沉浸的游戏，但也可以在自己的房间中观看或操作叠加的内容。这种双向切换是理解该型号的入口；不同容量属于同一产品记录，价格较低的Quest 3S则是另一型号，不能因为名称接近而混用光学和硬件事实。",
+      "design": "原厂介绍的pancake光学堆叠帮助缩短前方光学结构，Snapdragon XR2 Gen 2负责随身运算。彩色透视把相机捕捉的环境重新显示到眼前，而不是让佩戴者直接透过透明镜片看房间。这个区别决定了真实物体也会经过摄像、处理和显示链路。更薄的结构与可调佩戴方式服务于头上的平衡，但舒适感仍取决于人和佩戴条件。设计要同时处理虚拟画面的清晰度、真实环境的可见性和整机负担，这些要求不能只用一个屏幕分辨率来概括。",
+      "usage": "原厂举出的任务是在自己的茶几上使用虚拟钢琴：用户选择支持混合现实的应用，在彩色透视中辨认实际桌面，再与叠加的内容互动。需要进入完全虚拟的环境时，可以切换显示状态；公告明确给出轻敲头显侧面两次以在沉浸和混合视野之间转换的操作。另一个日常任务是在游戏中查看实际房间，重新判断周围位置。这样的切换把“我现在是在看房间还是看虚拟场景”变成可操作的界面状态，而不是每次都必须先摘下头显才能确认。",
+      "significance": "完全沉浸的应用与现实房间之间需要有可理解的切换。Quest 3通过彩色摄像透视保留周围环境，用户可以在茶几上使用虚拟内容，再轻敲头显侧面两次转回另一种视野。第一代Quest主要体现独立运算与随身追踪，Quest 3在同类独立形态中更明确地加入混合任务；HoloLens 2则直接光学透视，现实进入眼睛的路线不同。2023原厂公告提供切换动作与具体应用示例，日本销售记录确认供应节点，示例不等于所有用户效果。它使环境可见性成为佩戴中的状态选择，依旧受相机显示、应用支持和房间条件影响。",
+      "limitations": "透视仍是通过相机显示的画面，不能据此承诺与直接观看现实完全相同的细节、延迟或距离判断。混合现实内容需要应用实际支持，普通虚拟游戏不会因为设备能看见房间就自动适合桌面互动。薄一些的光学结构也没有消除电池、面部接触和长时间佩戴的取舍。这里采用二〇二三年原款资料，不补入其他Quest的眼动功能或后续软件服务状态。对于购买和使用判断，容量、所需应用与佩戴条件应一起考虑；型号具备一种能力，不等于每次运行都能获得相同体验。",
+      "dateLabel": "2023-10-10（日本销售开始）",
+      "dateKind": "launch",
+      "regionVersion": "2023原Quest3；不混Quest3S；容量合并",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "VR/MR独立头显，容量款合并为同型号。",
+        "日本厂商记录确认当日销售。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2023-10-10（日本销售开始）",
+          "sourceIds": [
+            "I150-S024"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "2023原Quest3；不混Quest3S；容量合并",
+          "sourceIds": [
+            "I150-S024",
+            "I150-S025"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "VR/MR独立头显，容量款合并为同型号。",
+          "sourceIds": [
+            "I150-S025"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "日本厂商记录确认当日销售。",
+          "sourceIds": [
+            "I150-S024"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S024",
+        "I150-S025",
+        "I150-S023",
+        "I150-S022",
+        "I150-S030",
+        "I150-S031",
+        "CWI-S004"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S024",
+          "I150-S025"
+        ],
+        "design": [
+          "I150-S024",
+          "I150-S025"
+        ],
+        "usage": [
+          "I150-S024",
+          "I150-S025"
+        ],
+        "significance": [
+          "I150-S024",
+          "I150-S025",
+          "I150-S023",
+          "I150-S022",
+          "I150-S030",
+          "I150-S031",
+          "CWI-S004"
+        ],
+        "limitations": [
+          "I150-S024",
+          "I150-S025"
+        ]
+      },
+      "relatedSlugs": [
+        "oculus-quest-2019",
+        "apple-vision-pro-m2"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "oculus-quest-2019",
+        "apple-vision-pro-m2"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "immersive-expanded-2"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "immersive",
+        "stageId": "immersive-expanded-2",
+        "title": "当代头显与空间操作",
+        "need": "按具体任务理解头戴计算。",
+        "turn": "追踪、透视、输入和内容依赖明确系统版本。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 895,
+      "mediaOpinions": [],
+      "readerTakeaway": "注意双击侧面的切换，再分辨眼前现实是直接看见还是由相机显示。Quest 3让独立头显在沉浸与房间内任务之间提供可操作入口。",
+      "readerTakeawaySources": [
+        "I150-S024",
+        "I150-S025",
+        "I150-S023",
+        "I150-S022",
+        "I150-S030",
+        "I150-S031",
+        "CWI-S004"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "oculus-quest-2019",
+          "sourceIds": [
+            "I150-S023",
+            "I150-S022"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "microsoft-hololens-2",
+          "sourceIds": [
+            "I150-S030",
+            "I150-S031",
+            "CWI-S004"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "sony-playstation-vr2",
+      "year": 2023,
+      "name": "PlayStation VR2",
+      "brand": "Sony Interactive Entertainment",
+      "category": "immersive",
+      "museumCategory": "immersive",
+      "categoryLabel": "VR与AR",
+      "aliases": [
+        "Sony Interactive Entertainment PlayStation VR2"
+      ],
+      "tags": [
+        "VR与AR",
+        "2023"
+      ],
+      "summary": "开始一次游戏时，用户将头显接到PS5，配对并准备Sense控制器，再借助头显相机扫描活动区域，按实际房间修正边界。头显采用OLED显示、内部眼动相机和用于头及控制器追踪的外部观察相机，配套Sense控制器加入触觉和自适应扳机。",
+      "context": "二〇二三年二月二十二日推出的PlayStation VR2仍以游戏主机提供运算，但重新安排了头显与主机之间的连接。此前主机VR的准备涉及外部相机和更多设备关系；这一代把追踪相机放进头显，并以一根USB-C线接到PS5。它面向已经进入主机游戏生态、希望使用身体动作和立体视野进行游戏的人。记录讨论的是原二〇二三年PS5流程，不将后来电脑适配器的能力倒填到首发系统中；原厂“全球”口径同时附有各地区供应条件。",
+      "design": "头显采用OLED显示、内部眼动相机和用于头及控制器追踪的外部观察相机，配套Sense控制器加入触觉和自适应扳机。眼动可以让支持的游戏依据注视位置安排渲染，控制器则把手的移动和触摸转为输入。显示、感知和反馈因此组成一套游戏界面。设计仍保留主机线缆：运算不必全部堆在头上，但活动范围受连接关系影响。内置追踪减少了外部相机设置，并不表示房间可以忽略，也不表示所有反馈效果都会在每款游戏中以同样方式使用。",
+      "usage": "开始一次游戏时，用户将头显接到PS5，配对并准备Sense控制器，再借助头显相机扫描活动区域，按实际房间修正边界。原厂分别列出坐姿、站姿和房间尺度的空间要求，选择方式应跟随具体游戏。游戏中若要找回现实中的控制器，可以通过头显功能按钮或快捷设置查看周围；这项透视用于观看而非录像。进入支持的VR游戏后，玩家转头观察、移动双手进行操作。旁观者在电视上看到的是相应的二维社交画面，和佩戴者眼前的立体视野不是同一个显示任务。",
+      "significance": "主机VR的准备负担来自设备连接和追踪位置，PS VR2用一根USB-C接PS5，并把头与控制器的追踪相机放进头显。用户扫描活动区、确认边界，再进入游戏；眼动与Sense反馈提供新的输入和响应。初代PSVR使用外部相机与处理单元，原VIVE则要布置基站和电脑，追踪任务的分配明显不同。原厂FAQ确认连接和空间流程，也明确原PSVR游戏不能直接运行，说明硬件进步与内容继承不是同一件事。它的价值在减少一种准备组合并丰富游戏输入，实际效果仍取决于游戏利用、PS5和可活动空间。",
+      "limitations": "原厂FAQ明确指出PS VR游戏不能直接在PS VR2上运行，且原首发系统面向PS5而非PS4。购买头显因此还涉及主机和兼容内容，而不仅是比较面板参数。房间尺度模式需要足够空间，坐姿和站姿也要留出手臂活动范围；线缆和家具仍存在于现实中。透视帮助辨认环境，却不是一项录制功能。不同人的镜片位置、眼镜形状和佩戴适配会影响体验。本文没有把二〇二四年电脑适配器的兼容性或后续游戏更新纳入原首发承诺，也没有用一次硬件升级替用户保证旧内容可用。",
+      "dateLabel": "2023-02-22（原厂全球区域发售口径）",
+      "dateKind": "launch",
+      "regionVersion": "PSVR2原2023款，PS5流程；不转用2024PC适配器兼容性",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "原2023系统以PS5供给运算，眼追踪及Sense控制器。",
+        "当日供应Horizon Call of the Mountain。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2023-02-22（原厂全球区域发售口径）",
+          "sourceIds": [
+            "I150-S028"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "PSVR2原2023款，PS5流程；不转用2024PC适配器兼容性",
+          "sourceIds": [
+            "I150-S028",
+            "I150-S029"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "原2023系统以PS5供给运算，眼追踪及Sense控制器。",
+          "sourceIds": [
+            "I150-S028"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "当日供应Horizon Call of the Mountain。",
+          "sourceIds": [
+            "I150-S029"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S028",
+        "I150-S029",
+        "I150-S072",
+        "I150-S020",
+        "I150-S021",
+        "CWI-S003"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S028",
+          "I150-S029"
+        ],
+        "design": [
+          "I150-S028",
+          "I150-S029"
+        ],
+        "usage": [
+          "I150-S028",
+          "I150-S029"
+        ],
+        "significance": [
+          "I150-S028",
+          "I150-S029",
+          "I150-S072",
+          "I150-S020",
+          "I150-S021",
+          "CWI-S003"
+        ],
+        "limitations": [
+          "I150-S028",
+          "I150-S029"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation-vr-cuh-zvr1",
+        "sony-playstation"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "sony-playstation-vr-cuh-zvr1",
+        "sony-playstation"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "immersive-expanded-2"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "immersive",
+        "stageId": "immersive-expanded-2",
+        "title": "当代头显与空间操作",
+        "need": "按具体任务理解头戴计算。",
+        "turn": "追踪、透视、输入和内容依赖明确系统版本。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 880,
+      "mediaOpinions": [],
+      "readerTakeaway": "看单线连接与扫描活动区，再看游戏怎样用眼动和双手。PS VR2值得选，因为准备流程与交互输入同时改变，旧游戏兼容却有明确断点。",
+      "readerTakeawaySources": [
+        "I150-S028",
+        "I150-S029",
+        "I150-S072",
+        "I150-S020",
+        "I150-S021",
+        "CWI-S003"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "sony-playstation-vr-cuh-zvr1",
+          "sourceIds": [
+            "I150-S072"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "htc-vive-2016",
+          "sourceIds": [
+            "I150-S020",
+            "I150-S021",
+            "CWI-S003"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "apple-vision-pro-m2",
+      "year": 2024,
+      "name": "Apple Vision Pro（M2）",
+      "brand": "Apple",
+      "category": "immersive",
+      "museumCategory": "immersive",
+      "categoryLabel": "VR与AR",
+      "aliases": [
+        "Apple Apple Vision Pro（M2）"
+      ],
+      "tags": [
+        "VR与AR",
+        "2024"
+      ],
+      "summary": "一个具体任务是把浏览器与资料窗口放在面前，观看其中的内容并选择链接。双microOLED显示提供眼前画面，M2承担主要运算，R1处理感知输入。",
+      "context": "二〇二四年二月二日美国门店实际开始销售的第一代Vision Pro，将多个应用窗口放到佩戴者周围，而不是固定在一台桌面显示器上。这里对应M2与R1版本，不沿用后代硬件名称。它的典型入口可以是观看视频、浏览资料或同时排列几个窗口；游戏并非解释这件产品的唯一方式。对惯用触屏和鼠标的人，新的问题是如何在没有实体屏幕边框的空间中选中目标、发出指令，以及让看见的现实房间与数字窗口保持可理解的关系。",
+      "design": "双microOLED显示提供眼前画面，M2承担主要运算，R1处理感知输入。用户通过视线、手势和语音与visionOS交互，外置电池承担随身供电，Digital Crown用于调节虚拟环境的沉浸程度。前方EyeSight显示是面向周围人的交流界面，并不是一块透明玻璃让他人直接看到佩戴者眼睛。把电池移出头部有助于重新分配负担，但也留下连接和携带问题。设计同时服务佩戴者眼前的界面和他人对佩戴状态的理解，因而不能只按内部屏幕评价整机。",
+      "usage": "一个具体任务是把浏览器与资料窗口放在面前，观看其中的内容并选择链接。用户看向界面目标，通过手指捏合进行选择，或用语音输入；窗口的位置与大小可以按任务调整。想专注观看视频时，可以借助Digital Crown调整环境覆盖程度。需要较长时间使用，则要考虑外部电池和接电条件，而不是只看头显是否开机。这样的流程让注视从阅读行为成为输入线索，手部的轻小动作负责确认；两者分工能解释为什么系统需要持续感知眼睛和手，而不只是显示一张很大的屏幕。",
+      "significance": "空间中的应用窗口没有固定屏幕边框，用户需要一套新的选择与确认动作。第一代M2 Vision Pro让视线寻找目标、手指捏合确认，Digital Crown调节环境覆盖，外部电池承担供电。HoloLens 2直接光学透视并区分近远手操作，Vision Pro经摄像显示现实；PS VR2用控制器和PS5服务主机游戏，日常窗口任务又是另一入口。2024美国实际到店与原厂操作说明支持产品及动作，未证明它替代电脑或提升所有工作的效率。它把观察、输入和佩戴供电重新组合，应用适用、设备负担和现实沟通仍需一同判断。",
+      "limitations": "空间窗口不会自动解决所有工作中的输入、文件和应用要求，具体软件能否完成任务仍是关键。透视现实经过电子处理，佩戴者对环境的判断也受到整套系统条件影响。原厂给出的电池使用时间带有测试前提，接电使用与携带电池使用应分开理解，不能把后者描述为全天无约束。本文采用原M2版本及美国开始销售事件，不把其他地区的后续供应日视为同一天，也不把后来版本的配置加入此型号。面部适配、设备负担与周围人的沟通方式，是实际使用中必须与画面能力一起衡量的取舍。",
+      "dateLabel": "2024-02-02（美国实际门店销售）",
+      "dateKind": "launch",
+      "regionVersion": "2024M2/R1原代；容量合并；非后代",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "M2与R1处理运算/感知，双microOLED显示。",
+        "以视线、手势、语音操作visionOS。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2024-02-02（美国实际门店销售）",
+          "sourceIds": [
+            "I150-S032"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "2024M2/R1原代；容量合并；非后代",
+          "sourceIds": [
+            "I150-S032",
+            "I150-S033"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "M2与R1处理运算/感知，双microOLED显示。",
+          "sourceIds": [
+            "I150-S033"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "以视线、手势、语音操作visionOS。",
+          "sourceIds": [
+            "I150-S033"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S032",
+        "I150-S033",
+        "I150-S030",
+        "I150-S031",
+        "CWI-S004",
+        "I150-S028",
+        "I150-S029"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S032",
+          "I150-S033"
+        ],
+        "design": [
+          "I150-S032",
+          "I150-S033"
+        ],
+        "usage": [
+          "I150-S032",
+          "I150-S033"
+        ],
+        "significance": [
+          "I150-S032",
+          "I150-S033",
+          "I150-S030",
+          "I150-S031",
+          "CWI-S004",
+          "I150-S028",
+          "I150-S029"
+        ],
+        "limitations": [
+          "I150-S032",
+          "I150-S033"
+        ]
+      },
+      "relatedSlugs": [
+        "samsung-galaxy-xr"
+      ],
+      "deferredRelatedSlugs": [
+        "microsoft-hololens-2"
+      ],
+      "relatedModelProposals": [
+        "microsoft-hololens-2",
+        "samsung-galaxy-xr"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "immersive-expanded-2"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "immersive",
+        "stageId": "immersive-expanded-2",
+        "title": "当代头显与空间操作",
+        "need": "按具体任务理解头戴计算。",
+        "turn": "追踪、透视、输入和内容依赖明确系统版本。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 893,
+      "mediaOpinions": [],
+      "readerTakeaway": "先看“望向目标—捏合确认”这组分工，再看外置电池与环境旋钮。原Vision Pro值得选，因为它把空间窗口变成实际可操作的个人设备。",
+      "readerTakeawaySources": [
+        "I150-S032",
+        "I150-S033",
+        "I150-S030",
+        "I150-S031",
+        "CWI-S004",
+        "I150-S028",
+        "I150-S029"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "microsoft-hololens-2",
+          "sourceIds": [
+            "I150-S030",
+            "I150-S031",
+            "CWI-S004"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "sony-playstation-vr2",
+          "sourceIds": [
+            "I150-S028",
+            "I150-S029"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    }
+  ],
+  "sources": [
+    {
+      "id": "CWI-S003",
+      "title": "Setting up original VIVE",
+      "publisher": "HTC",
+      "url": "https://www.vive.com/us/support/vive/category_howto/setting-up-for-the-first-time.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "原版VIVE电脑软件、硬件与活动区域设置；移动基站后重设",
+      "verificationMethod": "原厂支持页检索摘录",
+      "limits": "原版VIVE目录；不借VIVE Pro或PRE资料扩展结构。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测"
+    },
+    {
+      "id": "CWI-S004",
+      "title": "Getting around HoloLens 2",
+      "publisher": "Microsoft",
+      "url": "https://learn.microsoft.com/en-us/hololens/hololens2-basic-usage",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "近处触碰/捏合、远处手射线、双手Start；手追踪范围",
+      "verificationMethod": "正文读取至基本交互与手追踪段",
+      "limits": "页面含后期软件更新；不把单手Start/21H1键盘新功能写进2019首发。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测"
+    },
+    {
+      "id": "I150-S016",
+      "title": "Sony Launches OLED TV",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/News/Press/200710/07-1001E/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2007-10-01公告、日本计划12-01；11英寸/最薄3mm/无背光/侧臂与遥控",
+      "verificationMethod": "网页正文：型号、特点、设计概念",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S016",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S020",
+      "title": "Vive consumer shipment begins",
+      "publisher": "HTC",
+      "url": "https://www.htc.com/cn/newsroom/2016-04-06/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2016-04-05消费者版首批预订开始发货，中国大陆付尾款用户",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S020",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S021",
+      "title": "HTC Japan retail partners",
+      "publisher": "HTC",
+      "url": "https://www.htc.com/jp/newsroom/2016-07-07/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2016年4月全球销售，7月日本实体零售；与Valve共同开发360度room-scale",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S021",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S022",
+      "title": "F8 2019 Day1",
+      "publisher": "Facebook",
+      "url": "https://about.fb.com/news/2019/04/f8-2019-day-1/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2019-05-21 Quest计划发货；独立头显不绑PC",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S022",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S023",
+      "title": "Powered by AI Oculus Insight",
+      "publisher": "Meta AI",
+      "url": "https://ai.meta.com/blog/powered-by-ai-oculus-insight/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2019-08-22确认Quest已可获得；Insight头显/控制器6DoF追踪",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S023",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S024",
+      "title": "Meta Quest3 Japan on sale today",
+      "publisher": "Meta",
+      "url": "https://about.fb.com/ja/news/2023/10/meta-quest-3-popup-event-shibuya-shinjuku/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2023-10-10日本实际销售开始",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S024",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S025",
+      "title": "Meet Meta Quest3",
+      "publisher": "Meta",
+      "url": "https://about.fb.com/news/2023/09/meet-meta-quest-3-mixed-reality-headset/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2023-09-27公告，10-10上市，128/512GB合并，mixed reality",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S025",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S028",
+      "title": "PlayStation VR2 ultimate FAQ",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/2023/02/06/playstation-vr2-the-ultimate-faq/?sf264031684=1",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2023-02-22各区域计划销售；PS5、眼追踪、Sense、HDR、原套装",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S028",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S029",
+      "title": "Horizon Call of the Mountain launches today",
+      "publisher": "Guerrilla / Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/2023/02/22/horizon-call-of-the-mountain-launches-today-on-ps-vr2/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2023-02-22PSVR2实际游戏供应，4K HDR/110度视野；属同集团游戏团队",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S029",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S030",
+      "title": "HoloLens2 shipping to customers",
+      "publisher": "Microsoft",
+      "url": "https://news.microsoft.com/source/features/innovation/hololens-2-shipping-to-customers/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2019-11-07开始向客户出货的原厂故事",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S030",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S031",
+      "title": "About HoloLens2 hardware",
+      "publisher": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/hololens/hololens2-hardware?source=recommendations",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-documentation",
+      "verifiedScope": "光学透视波导、Windows Holographic、手/眼与头追踪、需要账号",
+      "verificationMethod": "原机构文档检索摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S031",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S032",
+      "title": "VisionPro arrives in stores US",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2024/02/apple-vision-pro-arrives-in-apple-store-locations-across-the-us/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2024-02-02美国实际门店销售；原M2代",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S032",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S033",
+      "title": "VisionPro available February2",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "M2/R1、microOLED、视线手势语音、外部电池；2024首代",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S033",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S060",
+      "title": "The Sero disponible en France",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/fr/the-sero-disponible-en-france",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2020法国43英寸已售；旋转遥控/Bixby、TapView与待机模式",
+      "verificationMethod": "法国原公告正文",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S060",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S061",
+      "title": "43 The Sero LS05T 2020",
+      "publisher": "Samsung",
+      "url": "https://www.samsung.com/at/lifestyle-tvs/the-sero/ls05t-43-inch-the-sero-4k-smart-tv-navy-blue-qe43ls05tauxzg/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "QE43LS05TAUXZG 2020欧洲43英寸4K型号",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S061",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S064",
+      "title": "LG SG60 product promotion",
+      "publisher": "LG",
+      "url": "https://www.lg.com/content/dam/channel/wcms/sg/promotions/2025/07/03-sg60/LG_SG60_Celebrate_with_Smarter_Living_2PP.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2025-07-11至08-11新加坡OLED65M5PSA商业促销",
+      "verificationMethod": "PDF索引摘录",
+      "limits": "促销观察证明商业供应，不用于推定首售日。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S064",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S065",
+      "title": "OLED evo M5 rollout release archive",
+      "publisher": "LG",
+      "url": "https://www.lgnewsroom.com/page/2/?p=l3jlc291cmnll3bvc3qvnduxmy9mr19hm18xlkpqrw%3D%3D",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2025-07-03 M5型号65英寸、ZeroConnect与4K144Hz",
+      "verificationMethod": "新闻归档索引摘录",
+      "limits": "独立新闻URL502；档案页摘录可读。无线音视频仍需显示器和连接盒供电。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S065",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S066",
+      "title": "Micro RGB TV lineup announcement",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/us/samsung-new-standard-color-micro-rgb-tv-lineup/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2026-04-14美国R95H/R85H公布、RGB背光",
+      "verificationMethod": "正文读取",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S066",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S067",
+      "title": "65 Micro RGB R95H 2026",
+      "publisher": "Samsung",
+      "url": "https://www.samsung.com/us/tvs/micro-rgb/65-inch-micro-rgb-4k-tv-r95h-sku-mrn65r95hafxza/?r=true",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "美国MRN65R95HAFXZA、65英寸R95H(2026)产品身份",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S067",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S070",
+      "title": "Freestyle officially available in stores",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/my/samsung-the-freestyle-is-now-officially-available-at-the-nearest-stores-near-you",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2022-07-07马来西亚已在店销售，初代Freestyle",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S070",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S071",
+      "title": "Freestyle preorder announcement",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/my/pre-order-the-all-new-samsung-freestyle-at-just-rm4999-and-receive-gifts-bundle-worth-up-to-rm1496-from-7-to-31-march-2022",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2022-03首发预订，自动校正与最大100英寸",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S071",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S072",
+      "title": "CUH-ZVR1U instruction manual",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://manuals.playstation.net/document/pdf/CUH-ZVR1U_2.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "北美CUH-ZVR1型号、PS4/Camera、头带/线控/处理盒、使用空间、参数",
+      "verificationMethod": "PDF正文：第2、7、9–14页（零基页）",
+      "limits": "未验实物；手册提示软件版本变化。",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案",
+      "originalId": "I150-S072",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S073",
+      "title": "XEL-1 Manual de instrucciones",
+      "publisher": "Sony",
+      "url": "https://pro.sony/s3/cms-static-content/operation-manual/3282657311.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "XEL1共同屏幕保养、静态图像残留；西语美洲版",
+      "verificationMethod": "PDF正文：第3与31页（零基）",
+      "limits": "地区版本不同，不把ATSC/QAM、MemoryStick或菜单配置直接用于日本2007款。日本原手册3210556041重定向失败；此资料仅核OLED共通保养风险。",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案",
+      "originalId": "I150-S073",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "L:AMG01",
+      "title": "LG takes TV beyond the living room with StanbyME Go",
+      "publisher": "LG USA Newsroom",
+      "url": "https://www.lg.com/us/newsroom/media-entertainment/lg-takes-tv-beyond-the-living-room-with-standbyme-go",
+      "publishedOn": "2023-08-15",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "27英寸触屏、提箱/可调支架/电池、三种放置方式与地区计划",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "2023原公告正文与脚注",
+      "limits": "三小时为厂商上限，脚注取决网络与应用；不把预计发货当实际。",
+      "originalId": "AMG01",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:AMG02",
+      "title": "LG StanbyME Go 27 Inch Briefcase Design Touch Screen",
+      "publisher": "LG USA",
+      "url": "https://www.lg.com/us/tvs/lg-27lx5qkna",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "型号27LX5QKNA、1080p触控、旋转与平放、HDMI/USB及联网内容。电池最高3小时附条件；未称每次3小时。",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMG02",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:AMG03",
+      "title": "LG StanbyME Go",
+      "publisher": "Red Dot",
+      "url": "https://www.red-dot.org/project/lg-stanbyme-go-70394",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原数据库Product Design 2024、普通Red Dot标识、产品与韩国品牌信用字段；未把其他分类重复条目计为多个产品。",
+      "sourceType": "工业设计奖原始数据库",
+      "independence": "评奖机构原记录",
+      "commercialDisclosure": "具体参赛与推广关系未核实",
+      "verificationMethod": "原机构项目字段/标识核查，年/级别/型号与访问限制逐项见verifiedScope",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMG03",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    }
+  ],
+  "validation": {
+    "uniqueSlugs": true,
+    "fiveSectionsAtLeast825Han": true,
+    "allNestedSourcesClosed": true,
+    "comparisonsHaveNamedProductSources": true,
+    "mediaOpinionsPreserved": true,
+    "exactAssigned53AcrossSixPackages": true,
+    "readerTakeawayTwoOrThreeSentences": true,
+    "identityEventVersionAndStagePreserved": true,
+    "original40SourcesPrefixedCAndPreserved": true
+  },
+  "scope": "原medium代理解释性修订；不新增选录，不改代码/共享文件；仅原短8补足正文，其余保留身份与五节范围",
+  "executionDeclaration": "按父任务要求沿用原medium代理；未调用模型切换或创建子代理；不冒称low。",
+  "verificationNotes": [
+    "复用已核型号与操作来源；本轮复读Sony 1999 Walkman回顾、Koss历史、初代iPod/AirPods公告、AirPods5产品页、QV10原手册与Holt/Feldman同期CDP101材料。",
+    "未新增唯一外部来源，因此无ERI-S新ID；既有ID不重复造源。",
+    "Smithsonian Radiola Type R1当前读取返回500，保留原40既有核查记录，不宣称本轮重读成功。",
+    "媒体意见保留作者、日期、确切型号、测试/借测及商业/阅读深度条件；无UP主视频观看或全分页阅读声明。",
+    "未实测产品或量化未核采用影响；厂商推广意图、实际商品节点与使用差异分别理解。"
+  ]
+}

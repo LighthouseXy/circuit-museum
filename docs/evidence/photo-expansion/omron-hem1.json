@@ -1,0 +1,9 @@
+{
+  "slug": "omron-hem1",
+  "name": "HEM-1",
+  "regionVersion": "日本初代电子手动manometer；不是后来的全自动数显HEM77",
+  "query": "Omron HEM-1",
+  "checkedOn": "2026-10-13",
+  "candidates": [],
+  "error": "HTTP Error 429: Too Many Requests"
+}

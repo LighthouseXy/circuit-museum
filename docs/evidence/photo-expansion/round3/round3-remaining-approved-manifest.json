@@ -1,0 +1,37 @@
+{
+  "checkedOn": "2026-10-15",
+  "acceptedCandidateCount": 1,
+  "candidates": [
+    {
+      "slug": "samsung-t7-2020",
+      "provider": "unsplash",
+      "title": "Samsung external ssd connected to a laptop",
+      "photoId": "qqJXQd7EJV4",
+      "creator": "Subhra Jyoti Paul",
+      "artist": "Subhra Jyoti Paul",
+      "creatorAccount": "sjpaul",
+      "creatorUrl": "https://unsplash.com/@sjpaul",
+      "sourcePage": "https://unsplash.com/photos/samsung-external-ssd-connected-to-a-laptop-qqJXQd7EJV4",
+      "original": "https://images.unsplash.com/photo-1756836857608-16c9213c1d3c",
+      "thumbnail": "https://images.unsplash.com/photo-1756836857608-16c9213c1d3c?auto=format&fit=max&w=1600&q=90",
+      "localFile": "docs/evidence/photo-expansion/round3/samsung-t7-2020-unsplash.jpg",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "description": "Samsung T7 Portable ssd product photos",
+      "metadata": {
+        "Artist": {
+          "value": "Subhra Jyoti Paul"
+        }
+      },
+      "caption": "普通Portable SSD T7连接电脑的实物照片；平滑金属外壳，不是带橡胶包覆的T7 Shield或指纹识别的T7 Touch。照片不用于证明首发年份或容量。",
+      "modelVerification": "原作者明确标注Samsung T7 Portable ssd，2025-09-02发布；亲看外壳平滑无Shield纹理和Touch指纹方框，连接线与自然实物摄影可辨。年份是摄影日期，不等于产品上市年份。",
+      "visualReview": "亲自单张查看1600px已下载实拍：前景T7平滑金属外壳、Samsung标识及USB连接清晰，无Touch指纹区、无Shield包覆；非白底渲染。",
+      "primaryLicenseVerification": {
+        "checkedOn": "2026-10-15",
+        "evidenceArchive": "docs/evidence/photo-expansion/round3/samsung-t7-2020-unsplash-evidence.json",
+        "verification": "web读取原Unsplash照片页：作者Subhra Jyoti Paul、描述Samsung T7 Portable ssd product photos、Download free、Free to use under the Unsplash License。原作者资料页账号sjpaul。"
+      },
+      "status": "approved-candidate"
+    }
+  ]
+}

@@ -1,0 +1,711 @@
+{
+  "slug": "hp-laserjet-1984",
+  "name": "LaserJet 原代（1984）",
+  "regionVersion": "原桌面LaserJet；非2680A",
+  "query": "\"LaserJet\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:HP LaserJet P1102w.jpg",
+      "pageid": 197605968,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:HP_LaserJet_P1102w.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/14/HP_LaserJet_P1102w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/HP_LaserJet_P1102w.jpg/960px-HP_LaserJet_P1102w.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-08-16 14:44:32",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "HP LaserJet P1102w",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Self-published work missing SDC copyright license|Hewlett-Packard LaserJet",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "HP LaserJet P1102w",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-03-18 23:50:53",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:MSDN.WhiteKnight\" title=\"User:MSDN.WhiteKnight\">MSDN.WhiteKnight</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "HP LaserJet P1102w",
+      "artist": "MSDN.WhiteKnight",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2026-03-18 23:50:53"
+    },
+    {
+      "title": "File:HP Color LaserJet CM1312nfi Multifunction Printer.jpg",
+      "pageid": 156732509,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:HP_Color_LaserJet_CM1312nfi_Multifunction_Printer.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/HP_Color_LaserJet_CM1312nfi_Multifunction_Printer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/HP_Color_LaserJet_CM1312nfi_Multifunction_Printer.jpg/960px-HP_Color_LaserJet_CM1312nfi_Multifunction_Printer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-12-16 09:17:34",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "HP Color LaserJet CM1312nfi Multifunction Printer",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Toner cartridges|Self-published work|Hewlett-Packard multifunction laser printers",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "HP Color LaserJet CM1312nfi Multifunction Printer with toner cartridge drawer open showing CMYK cartridges",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-11-29 09:16:24",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Sgroey\" title=\"User:Sgroey\">Sgroey</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "HP Color LaserJet CM1312nfi Multifunction Printer with toner cartridge drawer open showing CMYK cartridges",
+      "artist": "Sgroey",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2024-11-29 09:16:24"
+    },
+    {
+      "title": "File:ME FEED MONARCH.jpg",
+      "pageid": 113367855,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ME_FEED_MONARCH.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/61/ME_FEED_MONARCH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/ME_FEED_MONARCH.jpg/960px-ME_FEED_MONARCH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2021-12-14 22:42:03",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "ME FEED MONARCH",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Engrish|Error messages|HP LaserJet 4|Self-published work|Images with extracted images|7x5 arrays|Computer humor|Laser printers with white background|Black, cyan, white|Humor about nobility and royalty",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "\"<a href=\"https://en.wikipedia.org/wiki/en:PC_LOAD_LETTER\" class=\"extiw\" title=\"w:en:PC LOAD LETTER\">ME FEED MONARCH</a>\" error message on a <a href=\"https://en.wikipedia.org/wiki/en:HP_LaserJet_4\" class=\"extiw\" title=\"w:en:HP LaserJet 4\">HP LaserJet 4</a>.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2021-12-14 12:15:40",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Ahecht\" title=\"User:Ahecht\">Ahecht</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "\" ME FEED MONARCH \" error message on a  HP LaserJet 4 .",
+      "artist": "Ahecht",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2021-12-14 12:15:40"
+    },
+    {
+      "title": "File:LaserJetPlus Montage.jpg",
+      "pageid": 16919060,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:LaserJetPlus_Montage.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/61/LaserJetPlus_Montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/LaserJetPlus_Montage.jpg/960px-LaserJetPlus_Montage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2011-10-08 14:08:21",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LaserJetPlus Montage",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|CC-BY-SA-2.5,2.0,1.0|License migration completed|Self-published work|Hewlett-Packard LaserJet",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Six views of the HP LaserJet 500 Plus (model 2686D), the biggest cousin to the original HP LaserJet. The original LaserJet only accepted a 250-sheet paper tray, while the 500 Plus added two 500-sheet trays, permitting two different paper sizes to be automatically fed to the printer.\n<p>NOTE: I am missing the paper output tray which sticks out in front about 12 inches, and the single-sheet feeder tray which hangs about 8 inches out the back. This means that the printer normally consumes an even more ridiculously large amount of desk space than you see here.\n</p><p>Obsolete printer obtained from the SWAP Surplus Store at the <a href=\"https://en.wikipedia.org/wiki/University_of_Wisconsin-Eau_Claire\" class=\"extiw\" title=\"en:University of Wisconsin-Eau Claire\"> University of Wisconsin - Eau Claire</a>, and photographed by me with a Canon Powershot A640, cropped with Corel PhotoPAINT 7.\n</p>\n- Dale Mahalko, Gilman, WI, Aug 12, 2007",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "13 August 2007 (original upload date)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons.</bdi>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/User:DMahalko\" class=\"extiw\" title=\"wikipedia:User:DMahalko\">DMahalko</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/User:DMahalko\" class=\"extiw\" title=\"wikipedia:User:DMahalko\">DMahalko</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Six views of the HP LaserJet 500 Plus (model 2686D), the biggest cousin to the original HP LaserJet. The original LaserJet only accepted a 250-sheet paper tray, while the 500 Plus added two 500-sheet trays, permitting two different paper sizes to be automatically fed to the printer.\n NOTE: I am missing the paper output tray which sticks out in front about 12 inches, and the single-sheet feeder tray which hangs about 8 inches out the back. This means that the printer normally consumes an even more ridiculously large amount of desk space than you see here.\n  Obsolete printer obtained from the SWAP Surplus Store at the   University of Wisconsin - Eau Claire , and photographed by me with a Canon Powershot A640, cropped with Corel PhotoPAINT 7.\n \n- Dale Mahalko, Gilman, WI, Aug 12, 2007",
+      "artist": "DMahalko  at  English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "date": "13 August 2007 (original upload date)"
+    },
+    {
+      "title": "File:LaserJet1012.jpg",
+      "pageid": 1130300,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:LaserJet1012.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/LaserJet1012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/LaserJet1012.jpg/960px-LaserJet1012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2006-09-02 14:35:24",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "LaserJet1012",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Canon EOS 350D|License migration redundant|Self-published work|Hewlett-Packard LaserJet",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Lasera presilo de Hewlett-Packard",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2006-09-02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\">Self-photographed</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Stehfun\" title=\"User:Stehfun\">Stehfun</a> 14:35, 2 September 2006 (UTC)",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "GFDL &amp; CC-BY 2.5",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.5",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.5",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.5",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.5",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Lasera presilo de Hewlett-Packard",
+      "artist": "Stehfun  14:35, 2 September 2006 (UTC)",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "date": "2006-09-02"
+    },
+    {
+      "title": "File:Бойченко Людмила Ивановна.JPG",
+      "pageid": 28886029,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%BE%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%D0%91%D0%BE%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/%D0%91%D0%BE%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0.JPG/960px-%D0%91%D0%BE%D0%B9%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9B%D1%8E%D0%B4%D0%BC%D0%B8%D0%BB%D0%B0_%D0%98%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%BD%D0%B0.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2013-10-07 07:24:49",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Бойченко Людмила Ивановна",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "People of Mariupol Raion|Self-published work|White Bird Dance Theater (Ukraine)|Scanned with HP LaserJet M1120",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "парк имени Красозова",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-10-07 09:17:47",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D0%9C%D0%90%D0%9D%D0%93%D0%A3%D0%A8%D0%90%D0%9D%D0%9E%D0%A7%D0%9A%D0%90&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:МАНГУШАНОЧКА (page does not exist)\">МАНГУШАНОЧКА</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "парк имени Красозова",
+      "artist": "МАНГУШАНОЧКА",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2013-10-07 09:17:47"
+    },
+    {
+      "title": "File:USSR 1945-06-29 cover backside.jpg",
+      "pageid": 48810800,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:USSR_1945-06-29_cover_backside.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/66/USSR_1945-06-29_cover_backside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/USSR_1945-06-29_cover_backside.jpg/960px-USSR_1945-06-29_cover_backside.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2016-05-16 09:17:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "USSR 1945-06-29 cover backside",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Censored covers of the Soviet Union|1945-07-06 postmarks|PD-RU-exempt (postal covers)|Postmarks of Leningrad|Scanned with HP LaserJet CM1410|1945 postal covers of the Soviet Union",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "USSR 1945-06-29 backside of censored cover sent from Leningrad. Postmark date 1945-07-06",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1945-06-29",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Self-scanned",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "USSR post",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "USSR 1945-06-29 backside of censored cover sent from Leningrad. Postmark date 1945-07-06",
+      "artist": "USSR post",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "1945-06-29"
+    },
+    {
+      "title": "File:Numériser 16.jpeg",
+      "pageid": 41357733,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Num%C3%A9riser_16.jpeg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/Num%C3%A9riser_16.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Num%C3%A9riser_16.jpeg/960px-Num%C3%A9riser_16.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2015-07-04 08:23:04",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Numériser 16",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Paintings in the Museu Nacional d'Art de Catalunya|Self-published work|16th-century paintings in Catalonia|16th-century paintings of the Flight into Egypt|Scanned with HP LaserJet Pro M125|16th-century religious paintings in Catalonia|Paintings by Herri met de Bles in the Museu Nacional d'Art de Catalunya",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Fuite en Égypte, huile sur bois, 24,5 x 33 cm",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "16<sup>th</sup> century<div style=\"display: none;\">date QS:P,+1550-00-00T00:00:00Z/7</div>\n<dl><dd>2015-07-04 12:12:35</dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Herri_met_de_Bles\" class=\"extiw\" title=\"w:en:Herri met de Bles\"><span title=\"painter (1500/1510-1555)\">Herri met de Bles</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Fuite en Égypte, huile sur bois, 24,5 x 33 cm",
+      "artist": "Herri met de Bles",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "16 th  century date QS:P,+1550-00-00T00:00:00Z/7 \n  2015-07-04 12:12:35"
+    }
+  ]
+}

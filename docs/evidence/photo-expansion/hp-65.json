@@ -1,0 +1,736 @@
+{
+  "slug": "hp-65",
+  "name": "HP-65",
+  "regionVersion": "原HP65",
+  "query": "HP HP-65",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:HP-65.jpg",
+      "pageid": 38684216,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:HP-65.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/HP-65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/HP-65.jpg/960px-HP-65.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2015-03-02 12:00:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "HP-65",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "HP-65|Self-published work|Images with extracted images",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "valued",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "HP-65 Calculator",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-02-15 04:56:41",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Maxim75\" title=\"User:Maxim75\">Maksym Kozlenko</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "HP-65 Calculator",
+      "artist": "Maksym Kozlenko",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2015-02-15 04:56:41"
+    },
+    {
+      "title": "File:HP-65 Mint in Box.jpg",
+      "pageid": 15802234,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:HP-65_Mint_in_Box.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/HP-65_Mint_in_Box.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HP-65_Mint_in_Box.jpg/960px-HP-65_Mint_in_Box.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2011-07-15 15:38:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "HP-65 Mint in Box",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Fujifilm FinePix S5100|HP-65|Self-published work|Images with extracted images|Software on magnetic storage cards for calculator HP-65",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "valued",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Hewlett-Packard 65 calculator in hard case with all original accessories",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2005-12-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:John_crane_59&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:John crane 59 (page does not exist)\">John crane 59</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Hewlett-Packard 65 calculator in hard case with all original accessories",
+      "artist": "John crane 59",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2005-12-23"
+    },
+    {
+      "title": "File:HP-65 Mint in Box (cropped).jpg",
+      "pageid": 95349479,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:HP-65_Mint_in_Box_(cropped).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f6/HP-65_Mint_in_Box_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/HP-65_Mint_in_Box_%28cropped%29.jpg/960px-HP-65_Mint_in_Box_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-10-23 06:16:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "HP-65 Mint in Box (cropped)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Images with annotations|HP-65|Magnetic storage cards|Self-published work|Extracted images|Hewlett-Packard software for programmable Hewlett-Packard calculators|Software on magnetic storage cards for calculator HP-65",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Hewlett-Packard 65 calculator in hard case with all original accessories",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2005-12-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:John_crane_59&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:John crane 59 (page does not exist)\">John crane 59</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Hewlett-Packard 65 calculator in hard case with all original accessories",
+      "artist": "John crane 59",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2005-12-23"
+    },
+    {
+      "title": "File:HP-65 Programmable Calculator (edited to remove background, optimized colours).jpg",
+      "pageid": 146538304,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:HP-65_Programmable_Calculator_(edited_to_remove_background,_optimized_colours).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2b/HP-65_Programmable_Calculator_%28edited_to_remove_background%2C_optimized_colours%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/HP-65_Programmable_Calculator_%28edited_to_remove_background%2C_optimized_colours%29.jpg/960px-HP-65_Programmable_Calculator_%28edited_to_remove_background%2C_optimized_colours%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-03-18 16:40:02",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "HP-65 Programmable Calculator (edited to remove background, optimized colours)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Retouched pictures|HP-65|Self-published work|Extracted images|Images edited with GIMP and IrfanView",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "HP-65 Calculator",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-02-15 04:56:41",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:HP-65.jpg\" title=\"File:HP-65.jpg\">HP-65.jpg</a>: <a href=\"//commons.wikimedia.org/wiki/User:Maxim75\" title=\"User:Maxim75\">Maksym Kozlenko</a></li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Pittigrilli\" title=\"User:Pittigrilli\">Pittgrilli</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table class=\"layouttemplate\" lang=\"en\" dir=\"ltr\" style=\"margin:.5em auto;width:100%;background:var(--background-color-neutral-subtle,#f8f8f8);border:2px solid var(--border-color-muted,#EEE);color: inherit;padding:5px\">\n\n<tbody><tr>\n<td style=\"padding:5px\"><div class=\"wpImageAnnotatorControl wpImageAnnotatorOff\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Applications-graphics.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/60px-Applications-graphics.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"45\" height=\"45\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Applications-graphics.svg/120px-Applications-graphics.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></a></span></div>\n</td>\n<td style=\"width:100%\">This  is a <i><b><span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Image_editing\" class=\"extiw\" title=\"en:Image editing\"><span lang=\"en\" dir=\"ltr\">retouched picture</span></a></span></b></i>, which means that it has been digitally altered from its original version. Modifications: <i>removed blue background, less color saturation, adjusted exposure, black level, brightness, contrast</i>. The original can be viewed here: <b><a href=\"//commons.wikimedia.org/wiki/File:HP-65.jpg\" title=\"File:HP-65.jpg\">HP-65.jpg</a>: <span class=\"mw-image-border\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HP-65.jpg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/HP-65.jpg/20px-HP-65.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"16\" class=\"mw-file-element\" data-file-width=\"2046\" data-file-height=\"3246\"></a></span></b>. Modifications made by <a href=\"//commons.wikimedia.org/wiki/User:Pittigrilli\" title=\"User:Pittigrilli\">Pittigrilli</a>.\n<p><span class=\"layouttemplateargs\" style=\"display:none;speak:none;\" title=\"template=Retouched+picture 1%3Dremoved+blue+background%2C+less+color+saturation%2C+adjusted+exposure%2C+black+level%2C+brightness%2C+contrast 2%3DHP-65.jpg 3%3DPittigrilli 4%3D 5%3D\"> </span>\n</p>\n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "HP-65 Calculator",
+      "artist": "HP-65.jpg :  Maksym Kozlenko  \n derivative work:  Pittgrilli",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2015-02-15 04:56:41"
+    },
+    {
+      "title": "File:HP-65 card readers both working.png",
+      "pageid": 91135553,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:HP-65_card_readers_both_working.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9f/HP-65_card_readers_both_working.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/HP-65_card_readers_both_working.png/960px-HP-65_card_readers_both_working.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-06-11 17:29:59",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "HP-65 card readers both working",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "HP-65|Magnetic storage cards|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "37.428905",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-122.115031",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The HP-65 was the first Programmable Pocket Calculator in the World in 1974. It had a card reader to store programs on magnetic cards, see one in upper left corner. Steve Wozniak, one of the founders of Apple computer, sold his HP-65 to have the founding capital. The HP-65 was also used in space, e.g. during the US-Soviet Apollo-Sojus test project ASTP in 1975. Thus, it was also the first programmable calculator in space.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-12-19 17:36",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/leighklotz/23748896932/\">HP-65 and HP-67 card readers both working.</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/7417392@N05\">leighklotz</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The HP-65 was the first Programmable Pocket Calculator in the World in 1974. It had a card reader to store programs on magnetic cards, see one in upper left corner. Steve Wozniak, one of the founders of Apple computer, sold his HP-65 to have the founding capital. The HP-65 was also used in space, e.g. during the US-Soviet Apollo-Sojus test project ASTP in 1975. Thus, it was also the first programmable calculator in space.",
+      "artist": "leighklotz",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2015-12-19 17:36"
+    },
+    {
+      "title": "File:HP-65 white background.jpg",
+      "pageid": 9710858,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:HP-65_white_background.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/71/HP-65_white_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/71/HP-65_white_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-06-01 00:24:06",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "HP-65 white background",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Retouched pictures|HP-65|Self-published work|Uploaded with derivativeFX|Photographs by Daniel Sancho",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "First pocket programmable calculator, 1974",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-03-11 15:24",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:HP_65.jpg\" title=\"File:HP 65.jpg\">HP_65.jpg</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:HP_65.jpg\" title=\"File:HP 65.jpg\">HP_65.jpg</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/teclasorg/\">teclasorg on flickr</a></li>\n<li>derivative work: <a href=\"//commons.wikimedia.org/wiki/User:Pittigrilli\" title=\"User:Pittigrilli\">Pittigrilli</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Pittigrilli\" title=\"User talk:Pittigrilli\"><span class=\"signature-talk\">talk</span></a>)</li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "First pocket programmable calculator, 1974",
+      "artist": "HP_65.jpg :  teclasorg on flickr  \n derivative work:  Pittigrilli  (  talk  )",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "date": "2010-03-11 15:24"
+    },
+    {
+      "title": "File:Leather case for HP-65 programmable handheld calculator, circa 1974.jpg",
+      "pageid": 138677604,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Leather_case_for_HP-65_programmable_handheld_calculator,_circa_1974.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Leather_case_for_HP-65_programmable_handheld_calculator%2C_circa_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Leather_case_for_HP-65_programmable_handheld_calculator%2C_circa_1974.jpg/960px-Leather_case_for_HP-65_programmable_handheld_calculator%2C_circa_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-10-10 12:49:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Leather case for HP-65 programmable handheld calculator, circa 1974",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Retouched pictures|HP-65|Extracted images|Collections by Joe Haupt (flat list)|Leather cases|Calculator collection by Joe Haupt (from Flickr stream)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A black (real) leather case delivered with the HP-65, the first magnetic card-programmable handheld calculator (1974). The calculator features nine storage registers and room for 100 keystroke instructions. It also includes a magnetic card reader/writer to save and load programs.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-02-26 06:57",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/51764518@N02/8510806457/\">Vintage HP-65 Programmable Handheld LED Calculator, Original Price - $795, Made in the USA, Circa 1974</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51764518@N02\">Joe Haupt</a> from USA",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "A black (real) leather case delivered with the HP-65, the first magnetic card-programmable handheld calculator (1974). The calculator features nine storage registers and room for 100 keystroke instructions. It also includes a magnetic card reader/writer to save and load programs.",
+      "artist": "Joe Haupt  from USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "date": "2013-02-26 06:57"
+    },
+    {
+      "title": "File:Hewlett-Packard HP-65 calculator.jpg",
+      "pageid": 98510719,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hewlett-Packard_HP-65_calculator.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Hewlett-Packard_HP-65_calculator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Hewlett-Packard_HP-65_calculator.jpg/960px-Hewlett-Packard_HP-65_calculator.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2021-01-04 06:11:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Hewlett-Packard HP-65 calculator",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "HP-65|Self-published work|Files with coordinates missing SDC location of creation (48° N, 11° E)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "48.129133",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "11.583111",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Hewlett-Packard HP-65 calculator",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-08-04 14:29:28",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Maxim75\" title=\"User:Maxim75\">Maksym Kozlenko</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Hewlett-Packard HP-65 calculator",
+      "artist": "Maksym Kozlenko",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2019-08-04 14:29:28"
+    }
+  ]
+}

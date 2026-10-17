@@ -1,0 +1,94 @@
+{
+  "slug": "perkins-smart-brailler",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Perkins brailler lato.jpg",
+      "pageid": 117642368,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Perkins_brailler_lato.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Perkins_brailler_lato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Perkins_brailler_lato.jpg/960px-Perkins_brailler_lato.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2022-05-03 10:46:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Perkins brailler lato",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Polo3 TypeWriter Collection|Perkins braille typewriters",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "macchina da scrivere conservata presso l'istituto Polo3 di Fano",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2011-10-21 21:48:57",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "fotografia",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Polo3 Fano",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "macchina da scrivere conservata presso l'istituto Polo3 di Fano",
+      "artist": "Polo3 Fano",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2011-10-21 21:48:57"
+    }
+  ]
+}

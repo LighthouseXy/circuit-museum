@@ -1,0 +1,301 @@
+{
+  "slug": "opal-c1",
+  "query": "\"C1 Camera\"",
+  "checkedOn": "2026-10-15",
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "176177889": {
+          "pageid": 176177889,
+          "ns": 6,
+          "title": "File:OJ C 202403360 of 2024 - RO Romanian.pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/OJ_C_202403360_of_2024_-_RO_Romanian.pdf/page1-960px-OJ_C_202403360_of_2024_-_RO_Romanian.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1273,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/OJ_C_202403360_of_2024_-_RO_Romanian.pdf/page1-960px-OJ_C_202403360_of_2024_-_RO_Romanian.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1273
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/OJ_C_202403360_of_2024_-_RO_Romanian.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:OJ_C_202403360_of_2024_-_RO_Romanian.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=176177889",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-10-06 06:31:23",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "OJ C 202403360 of 2024 - RO Romanian",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Attribution only license|Uploaded with OpenRefine|PD-EUGov|PD-EdictGov|European Union license|2024 texts|2024-05-24|Romanian-language PDF files|Official Journal of the European Union files uploaded by EUResourcesBot|Official Journal of the European Union 2024, C Series",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Official Journal of the European Union - C_202403360 of 24 May 2024 - Romanian edition<span typeof=\"mw:Entity\"> </span><span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\" data-mw='{\"caption\":\"Edit this at Structured Data on Commons\"}'><a href=\"https://commons.wikimedia.org/wiki/File:OJ_C_202403360_of_2024_-_RO_Romanian.pdf#ooui-php-4\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:OJ_C_202403360_of_2024_-_RO_Romanian.pdf#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img resource=\"https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" alt=\"Edit this at Structured Data on Commons\" data-file-width=\"20\" data-file-height=\"20\" data-file-type=\"drawing\" height=\"10\" width=\"10\" class=\"mw-file-element\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Published on<span typeof=\"mw:Entity\"> </span>24 May 2024<link rel=\"mw:PageProp/Category\" href=\"./Category:2024_texts\"> <link rel=\"mw:PageProp/Category\" href=\"./Category:2024-05-24\">",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:EUR-Lex\" title=\"w:en:EUR-Lex\" class=\"extiw\"><span title=\"service providing legal texts of the European Union\">EUR-Lex</span></a> (<a rel=\"mw:ExtLink nofollow\" href=\"https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=OJ:C_202403360\" class=\"external autonumber\"></a>, <a rel=\"mw:ExtLink nofollow\" href=\"https://eur-lex.europa.eu/legal-content/RO/TXT/PDF/?uri=OJ:C_202403360\" class=\"external autonumber\"></a>)",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:Publications%20Office%20of%20the%20European%20Union\" title=\"w:en:Publications Office of the European Union\" class=\"extiw\"><span title=\"academic publisher\">Publications Office of the European Union</span></a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "177154523": {
+          "pageid": 177154523,
+          "ns": 6,
+          "title": "File:OJ C 202500623 of 2025 - RO Romanian.pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/OJ_C_202500623_of_2025_-_RO_Romanian.pdf/page1-960px-OJ_C_202500623_of_2025_-_RO_Romanian.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1273,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/OJ_C_202500623_of_2025_-_RO_Romanian.pdf/page1-960px-OJ_C_202500623_of_2025_-_RO_Romanian.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1273
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/OJ_C_202500623_of_2025_-_RO_Romanian.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:OJ_C_202500623_of_2025_-_RO_Romanian.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=177154523",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-10-21 16:10:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "OJ C 202500623 of 2025 - RO Romanian",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Attribution only license|Uploaded with OpenRefine|PD-EUGov|PD-EdictGov|European Union license|2025 texts|2025-01-28|Romanian-language PDF files|Official Journal of the European Union files uploaded by EUResourcesBot|Official Journal of the European Union 2025, C Series",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Official Journal of the European Union - C_202500623 of 28 January 2025 - Romanian edition<span typeof=\"mw:Entity\"> </span><span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\" data-mw='{\"caption\":\"Edit this at Structured Data on Commons\"}'><a href=\"https://commons.wikimedia.org/wiki/File:OJ_C_202500623_of_2025_-_RO_Romanian.pdf#ooui-php-4\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:OJ_C_202500623_of_2025_-_RO_Romanian.pdf#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img resource=\"https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" alt=\"Edit this at Structured Data on Commons\" data-file-width=\"20\" data-file-height=\"20\" data-file-type=\"drawing\" height=\"10\" width=\"10\" class=\"mw-file-element\"></a></span>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Published on<span typeof=\"mw:Entity\"> </span>28 January 2025<link rel=\"mw:PageProp/Category\" href=\"./Category:2025_texts\"> <link rel=\"mw:PageProp/Category\" href=\"./Category:2025-01-28\">",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:EUR-Lex\" title=\"w:en:EUR-Lex\" class=\"extiw\"><span title=\"service providing legal texts of the European Union\">EUR-Lex</span></a> (<a rel=\"mw:ExtLink nofollow\" href=\"https://eur-lex.europa.eu/legal-content/RO/TXT/?uri=OJ:C_202500623\" class=\"external autonumber\"></a>, <a rel=\"mw:ExtLink nofollow\" href=\"https://eur-lex.europa.eu/legal-content/RO/TXT/PDF/?uri=OJ:C_202500623\" class=\"external autonumber\"></a>)",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:Publications%20Office%20of%20the%20European%20Union\" title=\"w:en:Publications Office of the European Union\" class=\"extiw\"><span title=\"academic publisher\">Publications Office of the European Union</span></a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "147569974": {
+          "pageid": 147569974,
+          "ns": 6,
+          "title": "File:The southwesternmost record of late Silurian (Pridolian) early land plants of Gondwana.pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/The_southwesternmost_record_of_late_Silurian_%28Pridolian%29_early_land_plants_of_Gondwana.pdf/page1-960px-The_southwesternmost_record_of_late_Silurian_%28Pridolian%29_early_land_plants_of_Gondwana.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1165,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/The_southwesternmost_record_of_late_Silurian_%28Pridolian%29_early_land_plants_of_Gondwana.pdf/page1-960px-The_southwesternmost_record_of_late_Silurian_%28Pridolian%29_early_land_plants_of_Gondwana.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1165
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_southwesternmost_record_of_late_Silurian_%28Pridolian%29_early_land_plants_of_Gondwana.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_southwesternmost_record_of_late_Silurian_(Pridolian)_early_land_plants_of_Gondwana.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=147569974",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-04-20 21:17:30",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "The southwesternmost record of late Silurian (Pridolian) early land plants of Gondwana",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images with extracted images|Scientific articles",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Preprint of a research article on early land plants, including 7 composite figures",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-03-14",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.researchsquare.com/article/rs-3983197/v1\">https://www.researchsquare.com/article/rs-3983197/v1</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Juan M. Drovandi, Osvaldo A. Conde, Fernando E. Lopez, Eliana P. Coturel, Carlos M. Alarcón Gómez, Jonatan A. Arnol, Cintia Kaufmann, Fernando A. Pedernera, Ulises Abarca, Alejandro Braeckman",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

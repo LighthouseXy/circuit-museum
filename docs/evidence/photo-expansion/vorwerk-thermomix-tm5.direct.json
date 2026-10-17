@@ -1,0 +1,94 @@
+{
+  "slug": "vorwerk-thermomix-tm5",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Thermomix 2014.jpg",
+      "pageid": 42798629,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Thermomix_2014.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/78/Thermomix_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Thermomix_2014.jpg/960px-Thermomix_2014.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2021-07-11 14:10:10",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Thermomix 2014",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Photographs with aspect ratio of 4:5|Self-published work|Uploaded with Commons Reloaded|Thermomix TM5",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Thermomix 2014",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "31 August 2015 (upload date)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jan_Hagelskamp1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jan Hagelskamp1 (page does not exist)\">Jan Hagelskamp1</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Thermomix 2014",
+      "artist": "Jan Hagelskamp1",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "date": "31 August 2015 (upload date)"
+    }
+  ]
+}

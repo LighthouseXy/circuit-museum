@@ -1,0 +1,67 @@
+{
+  "testedAt": "2026-10-03T19:11:54.348Z",
+  "base": "http://127.0.0.1:4173",
+  "checks": [
+    "No horizontal overflow and primary images render at 320px on all page types",
+    "No horizontal overflow and primary images render at 390px on all page types",
+    "No horizontal overflow and primary images render at 768px on all page types",
+    "No horizontal overflow and primary images render at 1440px on all page types",
+    "Homepage has the ordered four-item navigation and a usable collection entry; homepage and chronicles remain independent destinations",
+    "All five chronicles: ordered sourced nodes, dates, media and usable first screens at 390px",
+    "All five chronicles: ordered sourced nodes, dates, media and usable first screens at 1440px",
+    "Type links, keyboard, share URL, reload and browser history retain the selected chronicle",
+    "Each chronicle detail returns to its type and node; direct detail does not inherit stale chronicle context",
+    "A shared chronicle-detail URL restores context in a fresh browser session; plain detail has a safe default",
+    "Unknown type has a recoverable empty state; legacy timeline opens product chronicles",
+    "Search model normalization, combined empty state and reset",
+    "Filter share URL, reload, detail and return retain combined filters",
+    "Descending sort and Chinese brand aliases",
+    "All 40 direct detail URLs, content and citations; 33 photographs decode; absent photographs explicitly labeled",
+    "All 40 exhibits have sourced substantive narratives; the reading navigation reaches the usage section",
+    "3 optional internal-observation sections render only for their matched exhibits",
+    "Failed media shows named fallback and source in both detail and chronicle; text and dates remain usable",
+    "Unknown exhibit and 10 withdrawn detail URLs respond with useful 404",
+    "Skip link, no automatic video requests, reduced motion and 640px reflow"
+  ],
+  "errors": [],
+  "exhibitCount": 40,
+  "photographCount": 33,
+  "missingPhotographSlugs": [
+    "koss-sp3",
+    "hamilton-pulsar-p1",
+    "motorola-dynatac-8000x",
+    "amazon-kindle-1",
+    "ipad-1",
+    "macbook-air-m5-2026",
+    "xiaomi-smart-band-11-active"
+  ],
+  "videoCount": 5,
+  "teardownCount": 3,
+  "chronicles": [
+    {
+      "id": "phones",
+      "nodeCount": 5,
+      "exhibitNodeCount": 4
+    },
+    {
+      "id": "computers",
+      "nodeCount": 8,
+      "exhibitNodeCount": 7
+    },
+    {
+      "id": "watches",
+      "nodeCount": 6,
+      "exhibitNodeCount": 3
+    },
+    {
+      "id": "bands",
+      "nodeCount": 4,
+      "exhibitNodeCount": 3
+    },
+    {
+      "id": "headphones",
+      "nodeCount": 6,
+      "exhibitNodeCount": 3
+    }
+  ]
+}

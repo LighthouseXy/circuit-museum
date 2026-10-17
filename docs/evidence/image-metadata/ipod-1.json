@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:IPod1stWIKIPEDIA.png",
+  "creator": "Miguelon756-5303",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "alt": "第一代 iPod，单色屏幕和机械转轮",
+  "path": "/images/ipod-1.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/IPod1stWIKIPEDIA.png",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 1856,
+  "originalHeight": 2568,
+  "output": {
+    "format": "webp",
+    "width": 795,
+    "height": 1100,
+    "channels": 4,
+    "premultiplied": true,
+    "hasAlpha": true,
+    "size": 24676
+  }
+}

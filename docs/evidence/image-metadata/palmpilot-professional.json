@@ -1,0 +1,23 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Palm_Pilot_Professional_01.JPG",
+  "creator": "Miguel Durán (Museo8bits)",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "alt": "PalmPilot Professional 掌上电脑的屏幕与实体按钮",
+  "path": "/images/palmpilot-professional.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "creatorUrl": "https://www.museo8bits.com",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Palm_Pilot_Professional_01.JPG",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 1986,
+  "originalHeight": 2882,
+  "output": {
+    "format": "webp",
+    "width": 758,
+    "height": 1100,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 48396
+  }
+}

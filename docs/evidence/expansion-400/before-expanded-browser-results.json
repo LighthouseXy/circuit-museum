@@ -1,0 +1,192 @@
+{
+  "testedAt": "2026-10-13T04:05:26.079Z",
+  "base": "http://127.0.0.1:4173",
+  "resumedFrom": null,
+  "checks": [
+    "No horizontal overflow and primary images render at 320px on all page types",
+    "No horizontal overflow and primary images render at 390px on all page types",
+    "No horizontal overflow and primary images render at 768px on all page types",
+    "No horizontal overflow and primary images render at 1440px on all page types",
+    "Homepage has the ordered four-item navigation and a usable collection entry; homepage and chronicles remain independent destinations",
+    "All current chronicles: ordered sourced nodes, dates, media and usable first screens at 390px",
+    "All current chronicles: ordered sourced nodes, dates, media and usable first screens at 1440px",
+    "Type links, keyboard, share URL, reload and browser history retain the selected chronicle",
+    "Each chronicle detail returns to its type and node; direct detail does not inherit stale chronicle context",
+    "A shared chronicle-detail URL restores context in a fresh browser session; plain detail has a safe default",
+    "Unknown type has a recoverable empty state; legacy timeline opens product chronicles",
+    "Search model normalization, combined empty state and reset",
+    "Filter share URL, reload, detail and return retain combined filters",
+    "Descending sort and Chinese brand aliases",
+    "All 176 direct detail URLs, content and citations; 116 photographs decode; absent photographs explicitly labeled",
+    "All public exhibits have sourced substantive narratives; the reading navigation reaches the usage section",
+    "3 optional internal-observation sections render only for their matched exhibits",
+    "Failed media shows named fallback and source in both detail and chronicle; text and dates remain usable",
+    "Unknown exhibit and 7 withdrawn detail URLs respond with useful 404",
+    "Skip link, no automatic video requests, reduced motion and 640px reflow",
+    "Every reading line and all 45 stage anchors survive direct sharing and reload",
+    "Every reading-line URL and legacy category URL filters the current public collection",
+    "JavaScript disabled retains every reading line, stage, node, detail narrative and sources",
+    "Unavailable sessionStorage preserves URL context, chronicle selection and catalog search",
+    "Every homepage stage entry reaches the selected reading line and visible stage",
+    "New significance preview and full narrative anchors work for old and new details at all four viewports"
+  ],
+  "errors": [],
+  "exhibitCount": 176,
+  "photographCount": 116,
+  "missingPhotographSlugs": [
+    "koss-sp3",
+    "hamilton-pulsar-p1",
+    "xiaomi-smart-band-11-active",
+    "logitech-mx-master-3",
+    "toshiba-er4",
+    "teac-portastudio144",
+    "hp-laserjet-1984",
+    "pfu-scansnap-fi4110eox",
+    "samsung-t7-2020",
+    "kitchenaid-h5",
+    "toastmaster-1a1",
+    "national-ec36",
+    "sharp-r10",
+    "hoover-constellation-444",
+    "braun-hl1",
+    "braun-sixtant-sm31",
+    "motorola-pageboy-i",
+    "omron-hem1",
+    "magellan-nav1000",
+    "garmin-gps155-tso",
+    "husqvarna-solar-mower-1995",
+    "sony-aibo-ers110",
+    "avm-fritzbox-2004",
+    "tomtom-go-2004",
+    "philips-airfryer-hd9220",
+    "sony-kv-1310",
+    "sharp-aquos-lc20c1",
+    "samsung-the-frame-ls003",
+    "samsung-the-sero-ls05t",
+    "lg-signature-oled-r-rx",
+    "epson-vpj-700",
+    "samsung-the-freestyle-2022",
+    "lg-stanbyme-go-27lx5qkna",
+    "lg-oled-evo-m5-65",
+    "samsung-micro-rgb-r95h-65",
+    "microsoft-hololens-2",
+    "samsung-galaxy-xr",
+    "sony-betamax-sl-6300",
+    "sony-ccd-v8",
+    "sony-ccd-tr55",
+    "nikon-coolscan-ls-10",
+    "nintendo-virtual-boy-jp",
+    "sega-dreamcast-jp",
+    "sony-access-controller",
+    "nest-learning-thermostat-1",
+    "perkins-smart-brailler",
+    "philips-hue-2012",
+    "nest-protect-1",
+    "amazon-echo-1",
+    "sourcenext-pocketalk-w",
+    "roborock-s7",
+    "ikea-dirigera",
+    "aqara-presence-fp2",
+    "humanware-victor-reader-stream-3",
+    "switchbot-s10",
+    "aqara-spatial-fp400",
+    "asus-rog-xbox-ally-x",
+    "valve-steam-machine-2026",
+    "dji-phantom-2013",
+    "panasonic-lumix-dc-tz300"
+  ],
+  "videoCount": 5,
+  "teardownCount": 3,
+  "milestone": "All 176 complete public products, including 136 editorial manifest products",
+  "editorialProductCount": 136,
+  "stageCount": 45,
+  "viewports": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "browserVersion": "154.0.8037.99",
+  "chronicles": [
+    {
+      "id": "phones",
+      "nodeCount": 6,
+      "exhibitNodeCount": 5
+    },
+    {
+      "id": "computers",
+      "nodeCount": 17,
+      "exhibitNodeCount": 16
+    },
+    {
+      "id": "reading",
+      "nodeCount": 4,
+      "exhibitNodeCount": 4
+    },
+    {
+      "id": "players",
+      "nodeCount": 5,
+      "exhibitNodeCount": 5
+    },
+    {
+      "id": "headphones",
+      "nodeCount": 6,
+      "exhibitNodeCount": 3
+    },
+    {
+      "id": "gaming",
+      "nodeCount": 40,
+      "exhibitNodeCount": 40
+    },
+    {
+      "id": "watches",
+      "nodeCount": 7,
+      "exhibitNodeCount": 4
+    },
+    {
+      "id": "bands",
+      "nodeCount": 4,
+      "exhibitNodeCount": 3
+    },
+    {
+      "id": "imaging",
+      "nodeCount": 24,
+      "exhibitNodeCount": 24
+    },
+    {
+      "id": "display",
+      "nodeCount": 13,
+      "exhibitNodeCount": 13
+    },
+    {
+      "id": "immersive",
+      "nodeCount": 8,
+      "exhibitNodeCount": 8
+    },
+    {
+      "id": "input-printing",
+      "nodeCount": 7,
+      "exhibitNodeCount": 7
+    },
+    {
+      "id": "music",
+      "nodeCount": 4,
+      "exhibitNodeCount": 4
+    },
+    {
+      "id": "home",
+      "nodeCount": 30,
+      "exhibitNodeCount": 30
+    },
+    {
+      "id": "communications",
+      "nodeCount": 7,
+      "exhibitNodeCount": 7
+    },
+    {
+      "id": "navigation",
+      "nodeCount": 3,
+      "exhibitNodeCount": 3
+    }
+  ]
+}

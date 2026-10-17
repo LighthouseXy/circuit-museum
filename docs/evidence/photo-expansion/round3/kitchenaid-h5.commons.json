@@ -1,0 +1,2769 @@
+{
+  "slug": "kitchenaid-h5",
+  "query": "KitchenAid H5",
+  "checkedOn": "2026-10-15",
+  "data": {
+    "batchcomplete": "",
+    "continue": {
+      "gsroffset": 30,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": {
+        "95336589": {
+          "pageid": 95336589,
+          "ns": 6,
+          "title": "File:Annual report of the Adjutant-General of the state of North Carolina for the year ... (serial) (IA annualreportofad1914nort).pdf",
+          "index": 23,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Annual_report_of_the_Adjutant-General_of_the_state_of_North_Carolina_for_the_year_..._%28serial%29_%28IA_annualreportofad1914nort%29.pdf/page1-500px-Annual_report_of_the_Adjutant-General_of_the_state_of_North_Carolina_for_the_year_..._%28serial%29_%28IA_annualreportofad1914nort%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1505,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Annual_report_of_the_Adjutant-General_of_the_state_of_North_Carolina_for_the_year_..._%28serial%29_%28IA_annualreportofad1914nort%29.pdf/page1-500px-Annual_report_of_the_Adjutant-General_of_the_state_of_North_Carolina_for_the_year_..._%28serial%29_%28IA_annualreportofad1914nort%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1505
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Annual_report_of_the_Adjutant-General_of_the_state_of_North_Carolina_for_the_year_..._%28serial%29_%28IA_annualreportofad1914nort%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Annual_report_of_the_Adjutant-General_of_the_state_of_North_Carolina_for_the_year_..._(serial)_(IA_annualreportofad1914nort).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95336589",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-22 20:05:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nAnnual report of the Adjutant-General of the state of North Carolina for the year ... [serial]</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from the University of North Carolina at Chapel Hill",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nNorth Carolina. Adjutant General's Dept</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Description based on: 1877</dd>\n<dd>State printers and binders vary</dd>\n<dd>Describes the activities of the militia including muster rolls, ordanance stores and financial statistics</dd></dl>\n<br>Subjects: North Carolina. Militia; North Carolina. Adjutant General's Dept; North Carolina. Militia; North Carolina. Militia; North Carolina. Militia</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/annualreportofad1914nort\" title=\"iarchive:annualreportofad1914nort\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: annualreportofad1914nort</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Annual%20report%20of%20the%20Adjutant-General%20of%20the%20state%20of%20North%20Carolina%20for%20the%20year%20...%20(serial)%20(IA%20annualreportofad1914nort).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Annual%20report%20of%20the%20Adjutant-General%20of%20the%20state%20of%20North%20Carolina%20for%20the%20year%20...%20(serial)%20(IA%20annualreportofad1914nort).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/annualreportofad1914nort/annualreportofad1914nort.pdf\" class=\"external free\">https://archive.org/download/annualreportofad1914nort/annualreportofad1914nort.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "91651989": {
+          "pageid": 91651989,
+          "ns": 6,
+          "title": "File:Annual report of the Board of Regents of the Smithsonian Institution (IA annualreportofbo1890smith).pdf",
+          "index": 8,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Annual_report_of_the_Board_of_Regents_of_the_Smithsonian_Institution_%28IA_annualreportofbo1890smith%29.pdf/page1-500px-Annual_report_of_the_Board_of_Regents_of_the_Smithsonian_Institution_%28IA_annualreportofbo1890smith%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1486,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Annual_report_of_the_Board_of_Regents_of_the_Smithsonian_Institution_%28IA_annualreportofbo1890smith%29.pdf/page1-500px-Annual_report_of_the_Board_of_Regents_of_the_Smithsonian_Institution_%28IA_annualreportofbo1890smith%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1486
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Annual_report_of_the_Board_of_Regents_of_the_Smithsonian_Institution_%28IA_annualreportofbo1890smith%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Annual_report_of_the_Board_of_Regents_of_the_Smithsonian_Institution_(IA_annualreportofbo1890smith).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91651989",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-06-28 06:55:43",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nAnnual report of the Board of Regents of the Smithsonian Institution</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Annual Reports of the Board of Regents of the Smithsonian Institution|Scans from the Internet Archive/unverified|PD US expired|Files from the Biodiversity Heritage Library|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books from the Biodiversity Heritage Library|IA books harmonization|Books from the United States PDF files|PD-US missing SDC copyright status|Annual report of the Board of Regents of the Smithsonian Institution (1890)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Smithsonian Institution. Board of Regents</dd>\n<dd>United States National Museum. Report of the U.S. National Museum</dd>\n<dd>Smithsonian Institution. Report of the Secretary</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Report year for 1885-1964 ends June 30</dd>\n<dd>Reports for 1848-1855 called 3d-10th</dd>\n<dd>Reports for 1884-1886/87 issued in 2 pts., pt. 2 being the Report of the National Museum</dd>\n<dd>Author-subject: 1849-1961. 1 v</dd>\n<dd>Merged with: Smithsonian Institution. Report of the Secretary and financial report of the Executive Committee of the Board of Regents, and: United States National Museum. Annual report for the year ended June 30 ..., to form: Smithsonian Institution. Smithsonian year (1965)</dd>\n<dd>extracted</dd>\n<dd>extracted</dd>\n<dd>ANTH 1958/59 vol. has bookplate: From the library of T. Dale Stewart</dd></dl>\n<br>Subjects: Smithsonian Institution; Smithsonian Institution. Archives; Discoveries in science</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/annualreportofbo1890smith\" title=\"iarchive:annualreportofbo1890smith\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: annualreportofbo1890smith</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Annual%20report%20of%20the%20Board%20of%20Regents%20of%20the%20Smithsonian%20Institution%20(IA%20annualreportofbo1890smith).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Annual%20report%20of%20the%20Board%20of%20Regents%20of%20the%20Smithsonian%20Institution%20(IA%20annualreportofbo1890smith).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/annualreportofbo1890smith/annualreportofbo1890smith.pdf\" class=\"external free\">https://archive.org/download/annualreportofbo1890smith/annualreportofbo1890smith.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "93630494": {
+          "pageid": 93630494,
+          "ns": 6,
+          "title": "File:Automatic data processing and naval hospitals. (IA automaticdatapro00heat).pdf",
+          "index": 27,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Automatic_data_processing_and_naval_hospitals._%28IA_automaticdatapro00heat%29.pdf/page1-960px-Automatic_data_processing_and_naval_hospitals._%28IA_automaticdatapro00heat%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1190,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Automatic_data_processing_and_naval_hospitals._%28IA_automaticdatapro00heat%29.pdf/page1-960px-Automatic_data_processing_and_naval_hospitals._%28IA_automaticdatapro00heat%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1190
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Automatic_data_processing_and_naval_hospitals._%28IA_automaticdatapro00heat%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Automatic_data_processing_and_naval_hospitals._(IA_automaticdatapro00heat).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93630494",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-08-28 18:50:50",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nAutomatic data processing and naval hospitals.</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US Government|FEDLINK - United States Federal Collection|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nHeaton, Harley L.</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Research paper (Requirement for B.A. 294: Research Seminar)--George Washington University, 1964</dd>\n<dd>Bibliography: p. [65]-69</dd></dl>\n<br>Subjects: Management</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/automaticdatapro00heat\" class=\"extiw\" title=\"iarchive:automaticdatapro00heat\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: automaticdatapro00heat</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/automaticdatapro00heat/automaticdatapro00heat.pdf\">https://archive.org/download/automaticdatapro00heat/automaticdatapro00heat.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "97682294": {
+          "pageid": 97682294,
+          "ns": 6,
+          "title": "File:Best Things From Best Authors Volume VII (IA bestthingsfrombe003307mbp).pdf",
+          "index": 26,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Best_Things_From_Best_Authors_Volume_VII_%28IA_bestthingsfrombe003307mbp%29.pdf/page1-500px-Best_Things_From_Best_Authors_Volume_VII_%28IA_bestthingsfrombe003307mbp%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1416,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Best_Things_From_Best_Authors_Volume_VII_%28IA_bestthingsfrombe003307mbp%29.pdf/page1-500px-Best_Things_From_Best_Authors_Volume_VII_%28IA_bestthingsfrombe003307mbp%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1416
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Best_Things_From_Best_Authors_Volume_VII_%28IA_bestthingsfrombe003307mbp%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Best_Things_From_Best_Authors_Volume_VII_(IA_bestthingsfrombe003307mbp).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97682294",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-17 04:12:45",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nBest Things From Best Authors Volume VII</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Universal Library Project|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/bestthingsfrombe003307mbp\" title=\"iarchive:bestthingsfrombe003307mbp\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: bestthingsfrombe003307mbp</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Best%20Things%20From%20Best%20Authors%20Volume%20VII%20(IA%20bestthingsfrombe003307mbp).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Best%20Things%20From%20Best%20Authors%20Volume%20VII%20(IA%20bestthingsfrombe003307mbp).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/bestthingsfrombe003307mbp/bestthingsfrombe003307mbp.pdf\" class=\"external free\">https://archive.org/download/bestthingsfrombe003307mbp/bestthingsfrombe003307mbp.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "98402596": {
+          "pageid": 98402596,
+          "ns": 6,
+          "title": "File:Bridgeport Chronicle-Union 1881-04-23 (IA cammlsmh 000240).pdf",
+          "index": 19,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bridgeport_Chronicle-Union_1881-04-23_%28IA_cammlsmh_000240%29.pdf/page1-960px-Bridgeport_Chronicle-Union_1881-04-23_%28IA_cammlsmh_000240%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1274,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bridgeport_Chronicle-Union_1881-04-23_%28IA_cammlsmh_000240%29.pdf/page1-1920px-Bridgeport_Chronicle-Union_1881-04-23_%28IA_cammlsmh_000240%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bridgeport_Chronicle-Union_1881-04-23_%28IA_cammlsmh_000240%29.pdf/page1-960px-Bridgeport_Chronicle-Union_1881-04-23_%28IA_cammlsmh_000240%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1274,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Bridgeport_Chronicle-Union_1881-04-23_%28IA_cammlsmh_000240%29.pdf/page1-1920px-Bridgeport_Chronicle-Union_1881-04-23_%28IA_cammlsmh_000240%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bridgeport_Chronicle-Union_1881-04-23_%28IA_cammlsmh_000240%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bridgeport_Chronicle-Union_1881-04-23_(IA_cammlsmh_000240).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98402596",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-01-02 05:16:00",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nBridgeport Chronicle-Union 1881-04-23</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|Template Unknown (author)|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|1881-04-23|Bridgeport Chronicle-Union",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<span style=\"display: none;\">Unknown author</span></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd><b>Note</b>: Blurs, skew, and tears inherent to microfilm</dd>\n<dd>The Bridgeport Chronicle-Union newspaper and its predecessors served the town of Bridgeport, CA from approximately 1880s-1950s.</dd>\n<dd>Microfilm provided by the California State Library, in partnership with the California Newspaper Microfilm Archive.</dd>\n<dd>For additional information see <a rel=\"nofollow\" class=\"external text\" href=\"https://californiarevealed.org/islandora/object/cavpp%3A117553\">California Revealed</a>.</dd></dl>\n<br>Subjects: californiarevealed; California--Newspapers; Newspapers; Newspaper publishing--California--History--19th Century; Newspapers--Local editions</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cammlsmh_000240\" class=\"extiw\" title=\"iarchive:cammlsmh 000240\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cammlsmh_000240</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cammlsmh_000240/history/files/cammlsmh_000240_access.pdf.%7E1%7E\">https://archive.org/download/cammlsmh_000240/history/files/cammlsmh_000240_access.pdf.%7E1%7E</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "Public Domain. No restrictions on use.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "97809361": {
+          "pageid": 97809361,
+          "ns": 6,
+          "title": "File:Camp, march and battle-field, or, Three years and a half with the Army of the Potomac (IA 01473816.3429.emory.edu).pdf",
+          "index": 30,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Camp%2C_march_and_battle-field%2C_or%2C_Three_years_and_a_half_with_the_Army_of_the_Potomac_%28IA_01473816.3429.emory.edu%29.pdf/page1-500px-Camp%2C_march_and_battle-field%2C_or%2C_Three_years_and_a_half_with_the_Army_of_the_Potomac_%28IA_01473816.3429.emory.edu%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1250,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Camp%2C_march_and_battle-field%2C_or%2C_Three_years_and_a_half_with_the_Army_of_the_Potomac_%28IA_01473816.3429.emory.edu%29.pdf/page1-500px-Camp%2C_march_and_battle-field%2C_or%2C_Three_years_and_a_half_with_the_Army_of_the_Potomac_%28IA_01473816.3429.emory.edu%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1250
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Camp%2C_march_and_battle-field%2C_or%2C_Three_years_and_a_half_with_the_Army_of_the_Potomac_%28IA_01473816.3429.emory.edu%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Camp,_march_and_battle-field,_or,_Three_years_and_a_half_with_the_Army_of_the_Potomac_(IA_01473816.3429.emory.edu).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97809361",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-26 22:33:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nCamp, march and battle-field, or, Three years and a half with the Army of the Potomac</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Internet Archive (blank cover page removed)|Books in the Emory University Libraries|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nStewart, A. M. (Alexander Morrison), 1814-1875</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Includes index</dd>\n<dd>Electronic reproduction</dd>\n<dd>digitized</dd>\n<dd>The online edition of this book in the public domain, i.e., not protected by copyright, has been produced by the Emory University Digital Library Publications Program</dd></dl>\n<br>Subjects: Stewart, A. M. (Alexander Morrison), 1814-1875; United States. Army. Pennsylvania Infantry Regiment, 102nd (1861-1865)</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/01473816.3429.emory.edu\" title=\"iarchive:01473816.3429.emory.edu\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: 01473816.3429.emory.edu</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Camp,%20march%20and%20battle-field,%20or,%20Three%20years%20and%20a%20half%20with%20the%20Army%20of%20the%20Potomac%20(IA%2001473816.3429.emory.edu).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Camp,%20march%20and%20battle-field,%20or,%20Three%20years%20and%20a%20half%20with%20the%20Army%20of%20the%20Potomac%20(IA%2001473816.3429.emory.edu).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/01473816.3429.emory.edu/01473816_3429.pdf\" class=\"external free\">https://archive.org/download/01473816.3429.emory.edu/01473816_3429.pdf</a></dd></dl>\n<ul><li>IA contributor: Emory University, Robert W. Woodruff Library</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "99078975": {
+          "pageid": 99078975,
+          "ns": 6,
+          "title": "File:Catalogue of American coins, medals, colonial, presidential, political, miscellaneous & Washington pieces and store cards, the property of J. P. Leavitt. (09-15-17-1863) (IA catalogueofameri00coga 2).pdf",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Catalogue_of_American_coins%2C_medals%2C_colonial%2C_presidential%2C_political%2C_miscellaneous_%26_Washington_pieces_and_store_cards%2C_the_property_of_J._P._Leavitt._%2809-15-17-1863%29_%28IA_catalogueofameri00coga_2%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1542,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Catalogue_of_American_coins%2C_medals%2C_colonial%2C_presidential%2C_political%2C_miscellaneous_%26_Washington_pieces_and_store_cards%2C_the_property_of_J._P._Leavitt._%2809-15-17-1863%29_%28IA_catalogueofameri00coga_2%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1542
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Catalogue_of_American_coins%2C_medals%2C_colonial%2C_presidential%2C_political%2C_miscellaneous_%26_Washington_pieces_and_store_cards%2C_the_property_of_J._P._Leavitt._%2809-15-17-1863%29_%28IA_catalogueofameri00coga_2%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Catalogue_of_American_coins,_medals,_colonial,_presidential,_political,_miscellaneous_%26_Washington_pieces_and_store_cards,_the_property_of_J._P._Leavitt._(09-15-17-1863)_(IA_catalogueofameri00coga_2).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99078975",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-01-21 06:50:03",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nCatalogue of American coins, medals, colonial, presidential, political, miscellaneous &amp; Washington pieces and store cards, the property of J. P. Leavitt. [09/15-17/1863]</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Newman Numismatic Portal|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nCogan, Edward</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Cataloged\n</p>\n<br>Subjects: Leavitt, J. P</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/catalogueofameri00coga_2\" class=\"extiw\" title=\"iarchive:catalogueofameri00coga 2\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: catalogueofameri00coga_2</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/catalogueofameri00coga_2/catalogueofameri00coga_2.pdf\">https://archive.org/download/catalogueofameri00coga_2/catalogueofameri00coga_2.pdf</a></dd></dl>\n<ul><li>IA digitizing sponsor: Eric P. Newman Numismatic Education Society</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "102993323": {
+          "pageid": 102993323,
+          "ns": 6,
+          "title": "File:Cawnpore (IA cawnpore00gotr).pdf",
+          "index": 28,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Cawnpore_%28IA_cawnpore00gotr%29.pdf/page1-960px-Cawnpore_%28IA_cawnpore00gotr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1407,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Cawnpore_%28IA_cawnpore00gotr%29.pdf/page1-960px-Cawnpore_%28IA_cawnpore00gotr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1407
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cawnpore_%28IA_cawnpore00gotr%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cawnpore_(IA_cawnpore00gotr).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102993323",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-04-03 15:29:15",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nCawnpore</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "2006 books|PD-old-100-expired|Scans from the Internet Archive/unverified|Images with extracted images|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Bharat Ek Khoj|Cawnpore by G.O. Trevelyan",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nG.O. Trevelyan</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects:  History;  Asian Educational Services</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/cawnpore00gotr\" class=\"extiw\" title=\"iarchive:cawnpore00gotr\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cawnpore00gotr</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cawnpore00gotr/cawnpore00gotr.pdf\">https://archive.org/download/cawnpore00gotr/cawnpore00gotr.pdf</a></dd></dl>\n<ul><li>IA contributor: Public Resource</li>\n<li>IA digitizing sponsor: Public.Resource.Org</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "170528899": {
+          "pageid": 170528899,
+          "ns": 6,
+          "title": "File:Documents about Martin Luther King, Jr., Executive Order 14176, 44-jk-769 739798 01-04-part 2 of 8.pdf",
+          "index": 25,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_44-jk-769_739798_01-04-part_2_of_8.pdf/page1-960px-Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_44-jk-769_739798_01-04-part_2_of_8.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1160,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_44-jk-769_739798_01-04-part_2_of_8.pdf/page1-1280px-Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_44-jk-769_739798_01-04-part_2_of_8.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_44-jk-769_739798_01-04-part_2_of_8.pdf/page1-960px-Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_44-jk-769_739798_01-04-part_2_of_8.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1160,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_44-jk-769_739798_01-04-part_2_of_8.pdf/page1-1280px-Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_44-jk-769_739798_01-04-part_2_of_8.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Documents_about_Martin_Luther_King%2C_Jr.%2C_Executive_Order_14176%2C_44-jk-769_739798_01-04-part_2_of_8.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Documents_about_Martin_Luther_King,_Jr.,_Executive_Order_14176,_44-jk-769_739798_01-04-part_2_of_8.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=170528899",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2025-07-22 19:43:16",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Documents about Martin Luther King, Jr., Executive Order 14176, 44-jk-769 739798 01-04-part 2 of 8",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US Government|Uploaded with OpenRefine|CC-PD-Mark|Documents about Martin Luther King, Jr. released under Executive Order 14176",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "President Donald J. Trump signed Executive Order 14176, <a rel=\"mw:ExtLink nofollow\" href=\"https://www.whitehouse.gov/presidential-actions/2025/01/declassification-of-records-concerning-the-assassinations-of-president-john-f-kennedy/\" class=\"external text\">Declassification of Records Concerning the Assassinations of President John F. Kennedy, Senator Robert F. Kennedy, and the Reverend Dr. Martin Luther King, Jr.</a>, on January 23, 2025.<br><br>Released: July 21, 2025 - 3:30 PM ET Release: 243,496 pages (6,301 PDF files and 1 MP3 audio file)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.archives.gov/research/mlk\" class=\"external free\">https://www.archives.gov/research/mlk</a> <a rel=\"mw:ExtLink nofollow\" href=\"https://www.archives.gov/files/research/mlk/releases/2025/0721/44-jk-769_739798_01-04-part_2_of_8.pdf\" class=\"external autonumber\"></a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink/Interwiki\" href=\"https://www.wikidata.org/wiki/Q48525\" title=\"d:Q48525\" class=\"extiw\"><span title=\"national government of the United States\">Federal Government of the United States <small>(Q48525)</small></span></a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "95081803": {
+          "pageid": 95081803,
+          "ns": 6,
+          "title": "File:Domestic architecture of the American colonies and of the early republic (IA domesticarchitec00kimb).pdf",
+          "index": 21,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Domestic_architecture_of_the_American_colonies_and_of_the_early_republic_%28IA_domesticarchitec00kimb%29.pdf/page1-960px-Domestic_architecture_of_the_American_colonies_and_of_the_early_republic_%28IA_domesticarchitec00kimb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1247,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Domestic_architecture_of_the_American_colonies_and_of_the_early_republic_%28IA_domesticarchitec00kimb%29.pdf/page1-960px-Domestic_architecture_of_the_American_colonies_and_of_the_early_republic_%28IA_domesticarchitec00kimb%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1247
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Domestic_architecture_of_the_American_colonies_and_of_the_early_republic_%28IA_domesticarchitec00kimb%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Domestic_architecture_of_the_American_colonies_and_of_the_early_republic_(IA_domesticarchitec00kimb).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95081803",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-15 08:50:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nDomestic architecture of the American colonies and of the early republic</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books with Wikidata item|Domestic architecture of the American colonies and of the early republic (1922)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|California Digital Library|Books from the United States PDF files|Artworks digital representation of unclassified work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Kimball, Fiske, 1888-1955</dd>\n<dd>Metropolitan Museum of Art (New York, N.Y.). Committee on Education</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>\"... Embodies the substance of a course of lectures delivered ... at the Metropolitan Museum of Art in 1920, and is published under the auspices of its Committee on educational work.\"</dd>\n<dd>Bibliographical foot-notes</dd></dl>\n<br>Subjects: Architecture, Domestic; Architecture, Colonial; Historic buildings</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/domesticarchitec00kimb\" class=\"extiw\" title=\"iarchive:domesticarchitec00kimb\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: domesticarchitec00kimb</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/domesticarchitec00kimb/domesticarchitec00kimb.pdf\">https://archive.org/download/domesticarchitec00kimb/domesticarchitec00kimb.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "98347196": {
+          "pageid": 98347196,
+          "ns": 6,
+          "title": "File:Federal Register 1956-07-19- Vol 21 Iss 139 (IA sim federal-register-find 1956-07-19 21 139).pdf",
+          "index": 18,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Federal_Register_1956-07-19-_Vol_21_Iss_139_%28IA_sim_federal-register-find_1956-07-19_21_139%29.pdf/page1-960px-Federal_Register_1956-07-19-_Vol_21_Iss_139_%28IA_sim_federal-register-find_1956-07-19_21_139%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1239,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Federal_Register_1956-07-19-_Vol_21_Iss_139_%28IA_sim_federal-register-find_1956-07-19_21_139%29.pdf/page1-1280px-Federal_Register_1956-07-19-_Vol_21_Iss_139_%28IA_sim_federal-register-find_1956-07-19_21_139%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Federal_Register_1956-07-19-_Vol_21_Iss_139_%28IA_sim_federal-register-find_1956-07-19_21_139%29.pdf/page1-960px-Federal_Register_1956-07-19-_Vol_21_Iss_139_%28IA_sim_federal-register-find_1956-07-19_21_139%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1239,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Federal_Register_1956-07-19-_Vol_21_Iss_139_%28IA_sim_federal-register-find_1956-07-19_21_139%29.pdf/page1-1280px-Federal_Register_1956-07-19-_Vol_21_Iss_139_%28IA_sim_federal-register-find_1956-07-19_21_139%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Federal_Register_1956-07-19-_Vol_21_Iss_139_%28IA_sim_federal-register-find_1956-07-19_21_139%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Federal_Register_1956-07-19-_Vol_21_Iss_139_(IA_sim_federal-register-find_1956-07-19_21_139).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98347196",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-01-01 03:18:46",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nFederal Register 1956-07-19: Vol 21 Iss 139</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US Government|Files with no machine-readable author|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Federal Register, Volume 21 (1956)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Federal Register 1956-07-19: <a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/search.php?query=sim_pubid%3A2575%20AND%20volume%3A21\" class=\"external text\">Volume 21</a>, Issue 139.<br>Digitized from <a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/details/sim_raw_scan_IA1532610-06/page/n2617\" class=\"external text\">IA1532610-06</a>.<br>Previous issue: <a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/details/sim_federal-register-find_1956-07-18_21_138\" class=\"external text\">sim_federal-register-find_1956-07-18_21_138</a>.<br>Next issue: <a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/details/sim_federal-register-find_1956-07-20_21_140\" class=\"external text\">sim_federal-register-find_1956-07-20_21_140</a>.</p>\n<br>Subjects: Public Administration; Government Documents; microfilm</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/sim_federal-register-find_1956-07-19_21_139\" title=\"iarchive:sim federal-register-find 1956-07-19 21 139\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: sim_federal-register-find_1956-07-19_21_139</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Federal%20Register%201956-07-19-%20Vol%2021%20Iss%20139%20(IA%20sim%20federal-register-find%201956-07-19%2021%20139).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Federal%20Register%201956-07-19-%20Vol%2021%20Iss%20139%20(IA%20sim%20federal-register-find%201956-07-19%2021%20139).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/sim_federal-register-find_1956-07-19_21_139/sim_federal-register-find_1956-07-19_21_139.pdf\" class=\"external free\">https://archive.org/download/sim_federal-register-find_1956-07-19_21_139/sim_federal-register-find_1956-07-19_21_139.pdf</a></dd></dl>\n<ul><li>IA contributor: Internet Archive</li>\n<li>IA digitizing sponsor: Kahle/Austin Foundation</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "91672509": {
+          "pageid": 91672509,
+          "ns": 6,
+          "title": "File:Food problems and prospects in Sub-Saharan Africa - the decade of the 1980's (IA CAT81762396).pdf",
+          "index": 22,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Food_problems_and_prospects_in_Sub-Saharan_Africa_-_the_decade_of_the_1980%27s_%28IA_CAT81762396%29.pdf/page1-960px-Food_problems_and_prospects_in_Sub-Saharan_Africa_-_the_decade_of_the_1980%27s_%28IA_CAT81762396%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1304,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Food_problems_and_prospects_in_Sub-Saharan_Africa_-_the_decade_of_the_1980%27s_%28IA_CAT81762396%29.pdf/page1-960px-Food_problems_and_prospects_in_Sub-Saharan_Africa_-_the_decade_of_the_1980%27s_%28IA_CAT81762396%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1304
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Food_problems_and_prospects_in_Sub-Saharan_Africa_-_the_decade_of_the_1980%27s_%28IA_CAT81762396%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Food_problems_and_prospects_in_Sub-Saharan_Africa_-_the_decade_of_the_1980%27s_(IA_CAT81762396).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91672509",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-06-28 18:36:54",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nFood problems and prospects in Sub-Saharan Africa : the decade of the 1980's</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US Government|FEDLINK - United States Federal Collection|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nChristensen, Cheryl</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Bibliography: p. 261-269\n</p>\n<br>Subjects: Food supply Africa, Sub-Saharan; Agriculture Africa, Sub-Saharan</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/CAT81762396\" class=\"extiw\" title=\"iarchive:CAT81762396\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: CAT81762396</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/CAT81762396/CAT81762396.pdf\">https://archive.org/download/CAT81762396/CAT81762396.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "The contributing institution believes that this item is not in copyright",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "95588474": {
+          "pageid": 95588474,
+          "ns": 6,
+          "title": "File:Justus von Liebig, his life and work (1803-1873) (IA justusvonliebigh00shenrich).pdf",
+          "index": 10,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Justus_von_Liebig%2C_his_life_and_work_%281803-1873%29_%28IA_justusvonliebigh00shenrich%29.pdf/page1-500px-Justus_von_Liebig%2C_his_life_and_work_%281803-1873%29_%28IA_justusvonliebigh00shenrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1454,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Justus_von_Liebig%2C_his_life_and_work_%281803-1873%29_%28IA_justusvonliebigh00shenrich%29.pdf/page1-500px-Justus_von_Liebig%2C_his_life_and_work_%281803-1873%29_%28IA_justusvonliebigh00shenrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1454
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Justus_von_Liebig%2C_his_life_and_work_%281803-1873%29_%28IA_justusvonliebigh00shenrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Justus_von_Liebig,_his_life_and_work_(1803-1873)_(IA_justusvonliebigh00shenrich).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95588474",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-29 04:13:10",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nJustus von Liebig, his life and work (1803-1873)</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|Books from the United States PDF files|PD-US missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nShenstone, W. A. (William Ashwell), 1850-1908</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Liebig, Justus, Freiherr von, 1803-1873; Chemistry -- History</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/justusvonliebigh00shenrich\" title=\"iarchive:justusvonliebigh00shenrich\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: justusvonliebigh00shenrich</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Justus%20von%20Liebig,%20his%20life%20and%20work%20(1803-1873)%20(IA%20justusvonliebigh00shenrich).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Justus%20von%20Liebig,%20his%20life%20and%20work%20(1803-1873)%20(IA%20justusvonliebigh00shenrich).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/justusvonliebigh00shenrich/justusvonliebigh00shenrich.pdf\" class=\"external free\">https://archive.org/download/justusvonliebigh00shenrich/justusvonliebigh00shenrich.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "97634530": {
+          "pageid": 97634530,
+          "ns": 6,
+          "title": "File:List of recent references on the income tax (IA cu31924014515245).pdf",
+          "index": 13,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/List_of_recent_references_on_the_income_tax_%28IA_cu31924014515245%29.pdf/page1-960px-List_of_recent_references_on_the_income_tax_%28IA_cu31924014515245%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1243,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/List_of_recent_references_on_the_income_tax_%28IA_cu31924014515245%29.pdf/page1-960px-List_of_recent_references_on_the_income_tax_%28IA_cu31924014515245%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1243
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/List_of_recent_references_on_the_income_tax_%28IA_cu31924014515245%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:List_of_recent_references_on_the_income_tax_(IA_cu31924014515245).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97634530",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-16 05:32:03",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nList of recent references on the income tax</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Herman H. B. Meyer|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Library of Congress. Division of Bibliography</dd>\n<dd>Meyer, Herman H. B. (Herman Henry Bernard), 1864-1937</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/about/faqs.php#140\" class=\"external text\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>\"Supplements th list issued in 1907 ... 'Select list of works relating to taxation of inheritances and of incomes' ... and the list issued in 1911 ... 'Additional references relating to the taxation of incomes' ... A considerable body of literature on excess profits taxation is included.\"--Pref</dd></dl>\n<br>Subjects: Income tax; Excess profits tax</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/cu31924014515245\" title=\"iarchive:cu31924014515245\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924014515245</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#List%20of%20recent%20references%20on%20the%20income%20tax%20(IA%20cu31924014515245).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#List%20of%20recent%20references%20on%20the%20income%20tax%20(IA%20cu31924014515245).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/cu31924014515245/cu31924014515245.pdf\" class=\"external free\">https://archive.org/download/cu31924014515245/cu31924014515245.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "93419595": {
+          "pageid": 93419595,
+          "ns": 6,
+          "title": "File:Official ...tour book of Louisville automobile club. (IA officialtourbook00loui).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Official_...tour_book_of_Louisville_automobile_club._%28IA_officialtourbook00loui%29.pdf/page1-500px-Official_...tour_book_of_Louisville_automobile_club._%28IA_officialtourbook00loui%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1637,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Official_...tour_book_of_Louisville_automobile_club._%28IA_officialtourbook00loui%29.pdf/page1-500px-Official_...tour_book_of_Louisville_automobile_club._%28IA_officialtourbook00loui%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1637
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Official_...tour_book_of_Louisville_automobile_club._%28IA_officialtourbook00loui%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Official_...tour_book_of_Louisville_automobile_club._(IA_officialtourbook00loui).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93419595",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-08-22 22:54:15",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nOfficial ...tour book of Louisville automobile club.</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books about Kentucky|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nLouisville automobile club. [from old catalog]</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>v. 23 x 20 cm</p>\n<br>Subjects: Automobile travel -- Kentucky -- Guidebooks; Kentucky -- Guidebooks</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/officialtourbook00loui\" title=\"iarchive:officialtourbook00loui\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: officialtourbook00loui</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Official%20...tour%20book%20of%20Louisville%20automobile%20club.%20(IA%20officialtourbook00loui).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Official%20...tour%20book%20of%20Louisville%20automobile%20club.%20(IA%20officialtourbook00loui).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/officialtourbook00loui/officialtourbook00loui.pdf\" class=\"external free\">https://archive.org/download/officialtourbook00loui/officialtourbook00loui.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "96036370": {
+          "pageid": 96036370,
+          "ns": 6,
+          "title": "File:Outlines and references for European history in the nineteenth century (IA outlinesreferenc00westrich).pdf",
+          "index": 6,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Outlines_and_references_for_European_history_in_the_nineteenth_century_%28IA_outlinesreferenc00westrich%29.pdf/page1-500px-Outlines_and_references_for_European_history_in_the_nineteenth_century_%28IA_outlinesreferenc00westrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1379,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Outlines_and_references_for_European_history_in_the_nineteenth_century_%28IA_outlinesreferenc00westrich%29.pdf/page1-500px-Outlines_and_references_for_European_history_in_the_nineteenth_century_%28IA_outlinesreferenc00westrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1379
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Outlines_and_references_for_European_history_in_the_nineteenth_century_%28IA_outlinesreferenc00westrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Outlines_and_references_for_European_history_in_the_nineteenth_century_(IA_outlinesreferenc00westrich).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96036370",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-12 06:56:16",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nOutlines and references for European history in the nineteenth century</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|PD-US missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nWest, Willis M. (Willis Mason), b. 1857</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Europe -- History Outlines, syllabi, etc; Europe -- History Bibliography</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/outlinesreferenc00westrich\" title=\"iarchive:outlinesreferenc00westrich\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: outlinesreferenc00westrich</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Outlines%20and%20references%20for%20European%20history%20in%20the%20nineteenth%20century%20(IA%20outlinesreferenc00westrich).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Outlines%20and%20references%20for%20European%20history%20in%20the%20nineteenth%20century%20(IA%20outlinesreferenc00westrich).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/outlinesreferenc00westrich/outlinesreferenc00westrich.pdf\" class=\"external free\">https://archive.org/download/outlinesreferenc00westrich/outlinesreferenc00westrich.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "91549913": {
+          "pageid": 91549913,
+          "ns": 6,
+          "title": "File:Outlines of chemical analysis - prepared for the chemical laboratory at Giessen (IA outlinesofchemic00hein).pdf",
+          "index": 7,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Outlines_of_chemical_analysis_-_prepared_for_the_chemical_laboratory_at_Giessen_%28IA_outlinesofchemic00hein%29.pdf/page1-960px-Outlines_of_chemical_analysis_-_prepared_for_the_chemical_laboratory_at_Giessen_%28IA_outlinesofchemic00hein%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1565,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Outlines_of_chemical_analysis_-_prepared_for_the_chemical_laboratory_at_Giessen_%28IA_outlinesofchemic00hein%29.pdf/page1-1280px-Outlines_of_chemical_analysis_-_prepared_for_the_chemical_laboratory_at_Giessen_%28IA_outlinesofchemic00hein%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Outlines_of_chemical_analysis_-_prepared_for_the_chemical_laboratory_at_Giessen_%28IA_outlinesofchemic00hein%29.pdf/page1-960px-Outlines_of_chemical_analysis_-_prepared_for_the_chemical_laboratory_at_Giessen_%28IA_outlinesofchemic00hein%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1565,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Outlines_of_chemical_analysis_-_prepared_for_the_chemical_laboratory_at_Giessen_%28IA_outlinesofchemic00hein%29.pdf/page1-1280px-Outlines_of_chemical_analysis_-_prepared_for_the_chemical_laboratory_at_Giessen_%28IA_outlinesofchemic00hein%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Outlines_of_chemical_analysis_-_prepared_for_the_chemical_laboratory_at_Giessen_%28IA_outlinesofchemic00hein%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Outlines_of_chemical_analysis_-_prepared_for_the_chemical_laboratory_at_Giessen_(IA_outlinesofchemic00hein).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91549913",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-06-25 08:19:03",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nOutlines of chemical analysis : prepared for the chemical laboratory at Giessen</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "License review needed|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|PD-old missing SDC copyright status|Historical textbooks or works in the US National Library of Education",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nHeinrich Will</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Chemistry, Analytic</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/outlinesofchemic00hein\" class=\"extiw\" title=\"iarchive:outlinesofchemic00hein\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: outlinesofchemic00hein</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/outlinesofchemic00hein/outlinesofchemic00hein.pdf\">https://archive.org/download/outlinesofchemic00hein/outlinesofchemic00hein.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "95909681": {
+          "pageid": 95909681,
+          "ns": 6,
+          "title": "File:Personal reminiscences of thirty years' residence in the model settlement Shanghai, 1870-1900 (IA personalreminisc01dyce 0).pdf",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Personal_reminiscences_of_thirty_years%27_residence_in_the_model_settlement_Shanghai%2C_1870-1900_%28IA_personalreminisc01dyce_0%29.pdf/page1-500px-Personal_reminiscences_of_thirty_years%27_residence_in_the_model_settlement_Shanghai%2C_1870-1900_%28IA_personalreminisc01dyce_0%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1457,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Personal_reminiscences_of_thirty_years%27_residence_in_the_model_settlement_Shanghai%2C_1870-1900_%28IA_personalreminisc01dyce_0%29.pdf/page1-500px-Personal_reminiscences_of_thirty_years%27_residence_in_the_model_settlement_Shanghai%2C_1870-1900_%28IA_personalreminisc01dyce_0%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1457
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Personal_reminiscences_of_thirty_years%27_residence_in_the_model_settlement_Shanghai%2C_1870-1900_%28IA_personalreminisc01dyce_0%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Personal_reminiscences_of_thirty_years%27_residence_in_the_model_settlement_Shanghai,_1870-1900_(IA_personalreminisc01dyce_0).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=95909681",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-08 04:34:14",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nPersonal reminiscences of thirty years' residence in the model settlement Shanghai, 1870-1900</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|Scans from Duke University Libraries",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nDyce, Charles M</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/personalreminisc01dyce_0\" class=\"extiw\" title=\"iarchive:personalreminisc01dyce 0\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: personalreminisc01dyce_0</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/personalreminisc01dyce_0/personalreminisc01dyce_0.pdf\">https://archive.org/download/personalreminisc01dyce_0/personalreminisc01dyce_0.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "194629103": {
+          "pageid": 194629103,
+          "ns": 6,
+          "title": "File:Report 1893 (IA b29440233).pdf",
+          "index": 11,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Report_1893_%28IA_b29440233%29.pdf/page1-960px-Report_1893_%28IA_b29440233%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1457,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Report_1893_%28IA_b29440233%29.pdf/page1-1280px-Report_1893_%28IA_b29440233%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Report_1893_%28IA_b29440233%29.pdf/page1-960px-Report_1893_%28IA_b29440233%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1457,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Report_1893_%28IA_b29440233%29.pdf/page1-1280px-Report_1893_%28IA_b29440233%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Report_1893_%28IA_b29440233%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Report_1893_(IA_b29440233).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=194629103",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-06-27 01:22:07",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n[Report 1893]</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Medical Heritage Library|IA uploads needing categories|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nHuddersfield (England). County Borough Council</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Disease Outbreaks; Public Health; Sanitation; Water Supply; Huddersfield (England)</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/b29440233\" title=\"iarchive:b29440233\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: b29440233</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Report%201893%20(IA%20b29440233).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Report%201893%20(IA%20b29440233).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/b29440233/b29440233.pdf\" class=\"external free\">https://archive.org/download/b29440233/b29440233.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://creativecommons.org/publicdomain/mark/1.0/\" class=\"external text\">This work is available under the Creative Commons, Public Domain Mark</a>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "93529037": {
+          "pageid": 93529037,
+          "ns": 6,
+          "title": "File:Report of South Carolina State council of defense .. (IA reportofsouthcar00sout).pdf",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Report_of_South_Carolina_State_council_of_defense_.._%28IA_reportofsouthcar00sout%29.pdf/page1-960px-Report_of_South_Carolina_State_council_of_defense_.._%28IA_reportofsouthcar00sout%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1402,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Report_of_South_Carolina_State_council_of_defense_.._%28IA_reportofsouthcar00sout%29.pdf/page1-960px-Report_of_South_Carolina_State_council_of_defense_.._%28IA_reportofsouthcar00sout%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1402
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Report_of_South_Carolina_State_council_of_defense_.._%28IA_reportofsouthcar00sout%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Report_of_South_Carolina_State_council_of_defense_.._(IA_reportofsouthcar00sout).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93529037",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-08-25 21:40:45",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nReport of South Carolina State council of defense ..</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nSouth Carolina. State council of defense. [from old catalog]</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: South Carolina. State council of defence. [from old catalog]; World War, 1914-1918</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/reportofsouthcar00sout\" title=\"iarchive:reportofsouthcar00sout\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: reportofsouthcar00sout</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Report%20of%20South%20Carolina%20State%20council%20of%20defense%20..%20(IA%20reportofsouthcar00sout).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Report%20of%20South%20Carolina%20State%20council%20of%20defense%20..%20(IA%20reportofsouthcar00sout).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/reportofsouthcar00sout/reportofsouthcar00sout.pdf\" class=\"external free\">https://archive.org/download/reportofsouthcar00sout/reportofsouthcar00sout.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "94291058": {
+          "pageid": 94291058,
+          "ns": 6,
+          "title": "File:Return of the Twelfth General Election for the House of Commons, 1911. (IA 1912v46i11p18 0838).pdf",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Return_of_the_Twelfth_General_Election_for_the_House_of_Commons%2C_1911._%28IA_1912v46i11p18_0838%29.pdf/page1-500px-Return_of_the_Twelfth_General_Election_for_the_House_of_Commons%2C_1911._%28IA_1912v46i11p18_0838%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1381,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Return_of_the_Twelfth_General_Election_for_the_House_of_Commons%2C_1911._%28IA_1912v46i11p18_0838%29.pdf/page1-500px-Return_of_the_Twelfth_General_Election_for_the_House_of_Commons%2C_1911._%28IA_1912v46i11p18_0838%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1381
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Return_of_the_Twelfth_General_Election_for_the_House_of_Commons%2C_1911._%28IA_1912v46i11p18_0838%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Return_of_the_Twelfth_General_Election_for_the_House_of_Commons,_1911._(IA_1912v46i11p18_0838).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94291058",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-09-21 11:42:58",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nReturn of the Twelfth General Election for the House of Commons, 1911.</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|PD Canada|Scans from the Internet Archive/unverified|Government of Canada publications|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA books of at least 500 pages",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Prior to 1920, this report was issued by the Clerk of the Crown in Chancery. After 1920, it was issued by the Chief Electoral Office. Included in the \"Report of the Chief Electoral Officer\" from 1925-</p>\n<br>Subjects: General Elections</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/1912v46i11p18_0838\" title=\"iarchive:1912v46i11p18 0838\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: 1912v46i11p18_0838</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Return%20of%20the%20Twelfth%20General%20Election%20for%20the%20House%20of%20Commons,%201911.%20(IA%201912v46i11p18%200838).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Return%20of%20the%20Twelfth%20General%20Election%20for%20the%20House%20of%20Commons,%201911.%20(IA%201912v46i11p18%200838).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/1912v46i11p18_0838/1912v46i11p18_0838.pdf\" class=\"external free\">https://archive.org/download/1912v46i11p18_0838/1912v46i11p18_0838.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "96408736": {
+          "pageid": 96408736,
+          "ns": 6,
+          "title": "File:Sketches from life in town and country, and some verses (IA sketchesfromlife00carprich).pdf",
+          "index": 24,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Sketches_from_life_in_town_and_country%2C_and_some_verses_%28IA_sketchesfromlife00carprich%29.pdf/page1-500px-Sketches_from_life_in_town_and_country%2C_and_some_verses_%28IA_sketchesfromlife00carprich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1300,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Sketches_from_life_in_town_and_country%2C_and_some_verses_%28IA_sketchesfromlife00carprich%29.pdf/page1-500px-Sketches_from_life_in_town_and_country%2C_and_some_verses_%28IA_sketchesfromlife00carprich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1300
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Sketches_from_life_in_town_and_country%2C_and_some_verses_%28IA_sketchesfromlife00carprich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sketches_from_life_in_town_and_country,_and_some_verses_(IA_sketchesfromlife00carprich).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96408736",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-21 05:25:17",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nSketches from life in town and country, and some verses</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|Books from the United States PDF files|PD-US missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nCarpenter, Edward, 1844-1929</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/sketchesfromlife00carprich\" title=\"iarchive:sketchesfromlife00carprich\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: sketchesfromlife00carprich</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Sketches%20from%20life%20in%20town%20and%20country,%20and%20some%20verses%20(IA%20sketchesfromlife00carprich).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Sketches%20from%20life%20in%20town%20and%20country,%20and%20some%20verses%20(IA%20sketchesfromlife00carprich).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/sketchesfromlife00carprich/sketchesfromlife00carprich.pdf\" class=\"external free\">https://archive.org/download/sketchesfromlife00carprich/sketchesfromlife00carprich.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "98326483": {
+          "pageid": 98326483,
+          "ns": 6,
+          "title": "File:Statistical Reporter 1979-07- Vol 79 Iss 10 (IA sim statistical-reporter 1979-07 79 10).pdf",
+          "index": 12,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Statistical_Reporter_1979-07-_Vol_79_Iss_10_%28IA_sim_statistical-reporter_1979-07_79_10%29.pdf/page1-960px-Statistical_Reporter_1979-07-_Vol_79_Iss_10_%28IA_sim_statistical-reporter_1979-07_79_10%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1234,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Statistical_Reporter_1979-07-_Vol_79_Iss_10_%28IA_sim_statistical-reporter_1979-07_79_10%29.pdf/page1-960px-Statistical_Reporter_1979-07-_Vol_79_Iss_10_%28IA_sim_statistical-reporter_1979-07_79_10%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1234
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Statistical_Reporter_1979-07-_Vol_79_Iss_10_%28IA_sim_statistical-reporter_1979-07_79_10%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Statistical_Reporter_1979-07-_Vol_79_Iss_10_(IA_sim_statistical-reporter_1979-07_79_10).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=98326483",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-31 16:44:56",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nStatistical Reporter 1979-07: Vol 79 Iss 10</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US Government|Files with no machine-readable author|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Statistical Reporter",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Statistical Reporter 1979-07: <a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/search.php?query=sim_pubid%3A7905%20AND%20volume%3A79\" class=\"external text\">Volume 79</a>, Issue 10.<br>Digitized from <a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/details/sim_raw_scan_IA1628512-07/page/n303\" class=\"external text\">IA1628512-07</a>.<br>Previous issue: <a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/details/sim_statistical-reporter_1979-06_79_9\" class=\"external text\">sim_statistical-reporter_1979-06_79_9</a>.<br>Next issue: <a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/details/sim_statistical-reporter_1979-08_79_11\" class=\"external text\">sim_statistical-reporter_1979-08_79_11</a>.</p>\n<br>Subjects: Government Documents; Government Documents; microfilm</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/sim_statistical-reporter_1979-07_79_10\" title=\"iarchive:sim statistical-reporter 1979-07 79 10\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: sim_statistical-reporter_1979-07_79_10</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Statistical%20Reporter%201979-07-%20Vol%2079%20Iss%2010%20(IA%20sim%20statistical-reporter%201979-07%2079%2010).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Statistical%20Reporter%201979-07-%20Vol%2079%20Iss%2010%20(IA%20sim%20statistical-reporter%201979-07%2079%2010).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/sim_statistical-reporter_1979-07_79_10/sim_statistical-reporter_1979-07_79_10.pdf\" class=\"external free\">https://archive.org/download/sim_statistical-reporter_1979-07_79_10/sim_statistical-reporter_1979-07_79_10.pdf</a></dd></dl>\n<ul><li>IA contributor: Internet Archive</li>\n<li>IA digitizing sponsor: Kahle/Austin Foundation</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "103023861": {
+          "pageid": 103023861,
+          "ns": 6,
+          "title": "File:The Brooks primer (IA brooksprimer00carr).pdf",
+          "index": 20,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/The_Brooks_primer_%28IA_brooksprimer00carr%29.pdf/page1-960px-The_Brooks_primer_%28IA_brooksprimer00carr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1133,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/The_Brooks_primer_%28IA_brooksprimer00carr%29.pdf/page1-960px-The_Brooks_primer_%28IA_brooksprimer00carr%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1133
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/The_Brooks_primer_%28IA_brooksprimer00carr%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_Brooks_primer_(IA_brooksprimer00carr).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=103023861",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-04-04 01:36:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe Brooks primer</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA books harmonization|Books from the United States PDF files|The Brooks primer (1906)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Carroll, Clarence F. (Clarence Franklin), b. 1851</dd>\n<dd>Brooks, Sarah C. (Sarah Catherine), b. 1856, joint author</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Readers (Primary); Textbooks</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/brooksprimer00carr\" title=\"iarchive:brooksprimer00carr\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: brooksprimer00carr</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#The%20Brooks%20primer%20(IA%20brooksprimer00carr).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#The%20Brooks%20primer%20(IA%20brooksprimer00carr).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/brooksprimer00carr/brooksprimer00carr.pdf\" class=\"external free\">https://archive.org/download/brooksprimer00carr/brooksprimer00carr.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "93241773": {
+          "pageid": 93241773,
+          "ns": 6,
+          "title": "File:The history of U.S. Army Base Hospital No. 6 and its part in the American Expeditionary Forces, 1917-1918; (IA historyofusarmyb00clym).pdf",
+          "index": 29,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_history_of_U.S._Army_Base_Hospital_No._6_and_its_part_in_the_American_Expeditionary_Forces%2C_1917-1918%3B_%28IA_historyofusarmyb00clym%29.pdf/page1-960px-The_history_of_U.S._Army_Base_Hospital_No._6_and_its_part_in_the_American_Expeditionary_Forces%2C_1917-1918%3B_%28IA_historyofusarmyb00clym%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1455,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_history_of_U.S._Army_Base_Hospital_No._6_and_its_part_in_the_American_Expeditionary_Forces%2C_1917-1918%3B_%28IA_historyofusarmyb00clym%29.pdf/page1-1280px-The_history_of_U.S._Army_Base_Hospital_No._6_and_its_part_in_the_American_Expeditionary_Forces%2C_1917-1918%3B_%28IA_historyofusarmyb00clym%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_history_of_U.S._Army_Base_Hospital_No._6_and_its_part_in_the_American_Expeditionary_Forces%2C_1917-1918%3B_%28IA_historyofusarmyb00clym%29.pdf/page1-960px-The_history_of_U.S._Army_Base_Hospital_No._6_and_its_part_in_the_American_Expeditionary_Forces%2C_1917-1918%3B_%28IA_historyofusarmyb00clym%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1455,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_history_of_U.S._Army_Base_Hospital_No._6_and_its_part_in_the_American_Expeditionary_Forces%2C_1917-1918%3B_%28IA_historyofusarmyb00clym%29.pdf/page1-1280px-The_history_of_U.S._Army_Base_Hospital_No._6_and_its_part_in_the_American_Expeditionary_Forces%2C_1917-1918%3B_%28IA_historyofusarmyb00clym%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/The_history_of_U.S._Army_Base_Hospital_No._6_and_its_part_in_the_American_Expeditionary_Forces%2C_1917-1918%3B_%28IA_historyofusarmyb00clym%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:The_history_of_U.S._Army_Base_Hospital_No._6_and_its_part_in_the_American_Expeditionary_Forces,_1917-1918;_(IA_historyofusarmyb00clym).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93241773",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-08-17 22:07:13",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nThe history of U.S. Army Base Hospital No. 6 and its part in the American Expeditionary Forces, 1917-1918;</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress|Books published in Boston|U.S. Army Base Hospital No. 6",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nClymer, George, 1883- ed</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>viii, 263 p., 1 l. 24 cm</dd>\n<dd>The Massachusetts general hospital unit</dd>\n<dd>\"George Clymer, Ralph P. Heard, George A. Leland, James H. Means, Paul D. White, editorial committee.\"</dd></dl>\n<br>Subjects: United States. Army. Base Hospital No. 6; World War, 1914-1918 -- Hospitals -- France -- Talence</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/historyofusarmyb00clym\" class=\"extiw\" title=\"iarchive:historyofusarmyb00clym\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: historyofusarmyb00clym</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/historyofusarmyb00clym/historyofusarmyb00clym.pdf\">https://archive.org/download/historyofusarmyb00clym/historyofusarmyb00clym.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "99756671": {
+          "pageid": 99756671,
+          "ns": 6,
+          "title": "File:Victoria Daily Times (1896-05-09) (IA victoriadailytimes18960509).pdf",
+          "index": 17,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Victoria_Daily_Times_%281896-05-09%29_%28IA_victoriadailytimes18960509%29.pdf/page1-960px-Victoria_Daily_Times_%281896-05-09%29_%28IA_victoriadailytimes18960509%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1223,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Victoria_Daily_Times_%281896-05-09%29_%28IA_victoriadailytimes18960509%29.pdf/page1-1280px-Victoria_Daily_Times_%281896-05-09%29_%28IA_victoriadailytimes18960509%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Victoria_Daily_Times_%281896-05-09%29_%28IA_victoriadailytimes18960509%29.pdf/page1-960px-Victoria_Daily_Times_%281896-05-09%29_%28IA_victoriadailytimes18960509%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1223,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Victoria_Daily_Times_%281896-05-09%29_%28IA_victoriadailytimes18960509%29.pdf/page1-1280px-Victoria_Daily_Times_%281896-05-09%29_%28IA_victoriadailytimes18960509%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Victoria_Daily_Times_%281896-05-09%29_%28IA_victoriadailytimes18960509%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victoria_Daily_Times_(1896-05-09)_(IA_victoriadailytimes18960509).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99756671",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-02-11 12:30:04",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVictoria Daily Times (1896-05-09)</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|PD Canada|Scans from the Internet Archive/unverified|Scans from the Internet Archive|Books uploaded by Fæ|May 1896 in Canada|Books without Wikidata item|PD-old missing SDC copyright status|1896 Victoria Daily Times",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Historic newspaper from British Columbia - Canada\n</p>\n<br>Subjects: British Columbia; Newspapers</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/victoriadailytimes18960509\" class=\"extiw\" title=\"iarchive:victoriadailytimes18960509\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: victoriadailytimes18960509</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/victoriadailytimes18960509/1896_05_09.pdf\">https://archive.org/download/victoriadailytimes18960509/1896_05_09.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "99759719": {
+          "pageid": 99759719,
+          "ns": 6,
+          "title": "File:Victoria Daily Times (1897-04-09) (IA victoriadailytimes18970409).pdf",
+          "index": 14,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Victoria_Daily_Times_%281897-04-09%29_%28IA_victoriadailytimes18970409%29.pdf/page1-960px-Victoria_Daily_Times_%281897-04-09%29_%28IA_victoriadailytimes18970409%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1258,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Victoria_Daily_Times_%281897-04-09%29_%28IA_victoriadailytimes18970409%29.pdf/page1-1280px-Victoria_Daily_Times_%281897-04-09%29_%28IA_victoriadailytimes18970409%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Victoria_Daily_Times_%281897-04-09%29_%28IA_victoriadailytimes18970409%29.pdf/page1-960px-Victoria_Daily_Times_%281897-04-09%29_%28IA_victoriadailytimes18970409%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1258,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Victoria_Daily_Times_%281897-04-09%29_%28IA_victoriadailytimes18970409%29.pdf/page1-1280px-Victoria_Daily_Times_%281897-04-09%29_%28IA_victoriadailytimes18970409%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Victoria_Daily_Times_%281897-04-09%29_%28IA_victoriadailytimes18970409%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victoria_Daily_Times_(1897-04-09)_(IA_victoriadailytimes18970409).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99759719",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-02-11 14:25:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVictoria Daily Times (1897-04-09)</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|PD Canada|Scans from the Internet Archive/unverified|Scans from the Internet Archive|Books uploaded by Fæ|April 1897 in Canada|Books without Wikidata item|PD-old missing SDC copyright status|1897 Victoria Daily Times",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Historic newspaper from British Columbia - Canada\n</p>\n<br>Subjects: British Columbia; Newspapers</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/victoriadailytimes18970409\" class=\"extiw\" title=\"iarchive:victoriadailytimes18970409\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: victoriadailytimes18970409</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/victoriadailytimes18970409/1897_04_09.pdf\">https://archive.org/download/victoriadailytimes18970409/1897_04_09.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "99766784": {
+          "pageid": 99766784,
+          "ns": 6,
+          "title": "File:Victoria Daily Times (1899-09-25) (IA victoriadailytimes18990925).pdf",
+          "index": 15,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Victoria_Daily_Times_%281899-09-25%29_%28IA_victoriadailytimes18990925%29.pdf/page1-960px-Victoria_Daily_Times_%281899-09-25%29_%28IA_victoriadailytimes18990925%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1062,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Victoria_Daily_Times_%281899-09-25%29_%28IA_victoriadailytimes18990925%29.pdf/page1-1920px-Victoria_Daily_Times_%281899-09-25%29_%28IA_victoriadailytimes18990925%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Victoria_Daily_Times_%281899-09-25%29_%28IA_victoriadailytimes18990925%29.pdf/page1-960px-Victoria_Daily_Times_%281899-09-25%29_%28IA_victoriadailytimes18990925%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1062,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Victoria_Daily_Times_%281899-09-25%29_%28IA_victoriadailytimes18990925%29.pdf/page1-1920px-Victoria_Daily_Times_%281899-09-25%29_%28IA_victoriadailytimes18990925%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Victoria_Daily_Times_%281899-09-25%29_%28IA_victoriadailytimes18990925%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victoria_Daily_Times_(1899-09-25)_(IA_victoriadailytimes18990925).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99766784",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-02-11 18:30:58",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVictoria Daily Times (1899-09-25)</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|PD Canada|Scans from the Internet Archive/unverified|Scans from the Internet Archive|September 1899 in Canada|Books uploaded by Fæ|Books without Wikidata item|PD-old missing SDC copyright status|1899 Victoria Daily Times",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Historic newspaper from British Columbia - Canada</p>\n<br>Subjects: British Columbia; Newspapers</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/victoriadailytimes18990925\" title=\"iarchive:victoriadailytimes18990925\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: victoriadailytimes18990925</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Victoria%20Daily%20Times%20(1899-09-25)%20(IA%20victoriadailytimes18990925).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Victoria%20Daily%20Times%20(1899-09-25)%20(IA%20victoriadailytimes18990925).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/victoriadailytimes18990925/1899_09_25.pdf\" class=\"external free\">https://archive.org/download/victoriadailytimes18990925/1899_09_25.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "99775753": {
+          "pageid": 99775753,
+          "ns": 6,
+          "title": "File:Victoria Daily Times (1901-09-23) (IA victoriadailytimes19010923).pdf",
+          "index": 9,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Victoria_Daily_Times_%281901-09-23%29_%28IA_victoriadailytimes19010923%29.pdf/page1-960px-Victoria_Daily_Times_%281901-09-23%29_%28IA_victoriadailytimes19010923%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1121,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Victoria_Daily_Times_%281901-09-23%29_%28IA_victoriadailytimes19010923%29.pdf/page1-1920px-Victoria_Daily_Times_%281901-09-23%29_%28IA_victoriadailytimes19010923%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Victoria_Daily_Times_%281901-09-23%29_%28IA_victoriadailytimes19010923%29.pdf/page1-960px-Victoria_Daily_Times_%281901-09-23%29_%28IA_victoriadailytimes19010923%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1121,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Victoria_Daily_Times_%281901-09-23%29_%28IA_victoriadailytimes19010923%29.pdf/page1-1920px-Victoria_Daily_Times_%281901-09-23%29_%28IA_victoriadailytimes19010923%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Victoria_Daily_Times_%281901-09-23%29_%28IA_victoriadailytimes19010923%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victoria_Daily_Times_(1901-09-23)_(IA_victoriadailytimes19010923).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99775753",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-02-12 00:40:18",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVictoria Daily Times (1901-09-23)</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|PD Canada|Scans from the Internet Archive/unverified|Scans from the Internet Archive|September 1901 in Canada|Books uploaded by Fæ|Books without Wikidata item|PD-old missing SDC copyright status|1901 Victoria Daily Times",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Historic newspaper from British Columbia - Canada\n</p>\n<br>Subjects: British Columbia; Newspapers</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/victoriadailytimes19010923\" class=\"extiw\" title=\"iarchive:victoriadailytimes19010923\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: victoriadailytimes19010923</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/victoriadailytimes19010923/1901_09_23.pdf\">https://archive.org/download/victoriadailytimes19010923/1901_09_23.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "99783144": {
+          "pageid": 99783144,
+          "ns": 6,
+          "title": "File:Victoria Daily Times (1904-04-12) (IA victoriadailytimes19040412).pdf",
+          "index": 16,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Victoria_Daily_Times_%281904-04-12%29_%28IA_victoriadailytimes19040412%29.pdf/page1-960px-Victoria_Daily_Times_%281904-04-12%29_%28IA_victoriadailytimes19040412%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1122,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Victoria_Daily_Times_%281904-04-12%29_%28IA_victoriadailytimes19040412%29.pdf/page1-1920px-Victoria_Daily_Times_%281904-04-12%29_%28IA_victoriadailytimes19040412%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Victoria_Daily_Times_%281904-04-12%29_%28IA_victoriadailytimes19040412%29.pdf/page1-960px-Victoria_Daily_Times_%281904-04-12%29_%28IA_victoriadailytimes19040412%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1122,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Victoria_Daily_Times_%281904-04-12%29_%28IA_victoriadailytimes19040412%29.pdf/page1-1920px-Victoria_Daily_Times_%281904-04-12%29_%28IA_victoriadailytimes19040412%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Victoria_Daily_Times_%281904-04-12%29_%28IA_victoriadailytimes19040412%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Victoria_Daily_Times_(1904-04-12)_(IA_victoriadailytimes19040412).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99783144",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-02-12 08:06:28",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nVictoria Daily Times (1904-04-12)</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Files with no machine-readable author|PD Canada|Scans from the Internet Archive/unverified|Scans from the Internet Archive|April 1904 in Canada|Books uploaded by Fæ|Books without Wikidata item|PD-old missing SDC copyright status|1904 Victoria Daily Times",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Historic newspaper from British Columbia - Canada\n</p>\n<br>Subjects: British Columbia; Newspapers</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a href=\"//archive.org/details/victoriadailytimes19040412\" class=\"extiw\" title=\"iarchive:victoriadailytimes19040412\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: victoriadailytimes19040412</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/victoriadailytimes19040412/1904_04_12.pdf\">https://archive.org/download/victoriadailytimes19040412/1904_04_12.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

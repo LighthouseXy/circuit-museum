@@ -1,0 +1,97 @@
+{
+  "checkedOn": "2026-10-15",
+  "acceptedPressPhotographs": 0,
+  "reviews": [
+    {
+      "manufacturer": "Samsung",
+      "library": "https://news.samsung.com/medialibrary/global",
+      "termsUrl": "https://news.samsung.com/global/terms",
+      "models": [
+        "samsung-the-freestyle-2022",
+        "samsung-the-sero-ls05t",
+        "samsung-the-frame-ls003",
+        "samsung-galaxy-xr",
+        "samsung-micro-rgb-r95h-65"
+      ],
+      "finding": "Library explicitly restricts assets to media publishing. Linked general terms allow personal informational non-commercial access and prohibit mirroring without written consent. No clear express grant covering this public museum website established.",
+      "status": "pending-purpose-authorization",
+      "candidatePages": [
+        "https://news.samsung.com/medialibrary/global/photo/51576",
+        "https://news.samsung.com/medialibrary/global/photo/51800?page=25"
+      ],
+      "photoReview": "No photos downloaded or approved because use-purpose authorization not established."
+    },
+    {
+      "manufacturer": "Samsung Korea Newsroom",
+      "termsUrl": "https://news.samsung.com/kr/삼성전자-뉴스룸-콘텐츠-이용에-대한-안내",
+      "finding": "Korean reuse guide allows anyone to use directly produced articles/photos, but excludes watermarked external or restricted photos and separately bylined articles; prohibits arbitrary alteration/distribution after modification. Must verify each specific image and compatibility with original no-ND requirement plus conversion pipeline.",
+      "status": "pending-image-specific-verification-and-terms-compatibility",
+      "candidatePages": [
+        "https://news.samsung.com/kr/핫-플레이스에서-만나는-삼성전자-라이프스타일-tv"
+      ],
+      "photoReview": "No individual image accepted; 2020 lifestyle scenes alone do not prove exact LS05T/LS003 model."
+    },
+    {
+      "manufacturer": "Microsoft",
+      "termsUrl": "https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/permissions",
+      "models": [
+        "microsoft-hololens-2"
+      ],
+      "finding": "News Center photos allowed for editorial use only by press and/or industry analysts. No evidence this portfolio museum qualifies. General article context alone insufficient.",
+      "status": "pending-eligible-user-authorization"
+    },
+    {
+      "manufacturer": "ASUS",
+      "library": "https://press.asus.com/media/photos/33/albums/466/",
+      "termsUrl": "https://www.asus.com/terms_of_use_notice_privacy_policy/official-site/",
+      "finding": "Pressroom links general Terms. Section1.4 grants no right to use images absent a written agreement. No image-specific public reuse grant established.",
+      "status": "pending-written-authorization"
+    },
+    {
+      "manufacturer": "MSI",
+      "termsUrl": "https://id.msi.com/page/website-terms-of-use",
+      "finding": "General materials limited to personal non-commercial information; downloadable documents cannot be posted to network computers/broadcast, no modifications. Public museum redistribution not expressly allowed.",
+      "status": "pending-written-authorization"
+    },
+    {
+      "manufacturer": "Lenovo",
+      "library": "https://news.lenovo.com/",
+      "termsUrl": "https://www.lenovo.com/us/en/legal/",
+      "finding": "StoryHub links general legal terms: reproducing, posting, transmitting and redistribution require prior written permission. Press kits availability alone does not grant a licence.",
+      "status": "pending-written-authorization"
+    },
+    {
+      "manufacturer": "Panasonic",
+      "library": "https://news.panasonic.com/global/presskits/",
+      "termsUrl": "https://holdings.panasonic/global/terms-of-use.html",
+      "models": [
+        "panasonic-lumix-dc-tz300"
+      ],
+      "finding": "Copyright terms request company permission before reproduction/public transmission, aside from personal storage or statutory uses. No separate express public press-photo grant identified.",
+      "status": "pending-written-authorization"
+    }
+  ],
+  "method": "Read original manufacturer legal pages and press-library links via web. No contact with authors or rights holders. No official photos downloaded absent clear permission.",
+  "unsplashSearches": [
+    {
+      "query": "site:unsplash.com/photos \"T7\" \"Samsung\"",
+      "result": "Exact ordinary T7 photographs found, downloaded and personally viewed; selected candidate separately normalized."
+    },
+    {
+      "query": "site:unsplash.com/photos \"HoloLens\"",
+      "result": "No exact reusable HoloLens2 candidate surfaced."
+    },
+    {
+      "query": "site:unsplash.com/photos \"DIRIGERA\"",
+      "result": "No exact candidate surfaced."
+    },
+    {
+      "query": "site:unsplash.com/photos \"Aqara\"",
+      "result": "No exact FP2/FP400 candidate surfaced."
+    },
+    {
+      "query": "site:unsplash.com \"Roborock\" \"S7\"",
+      "result": "No exact candidate surfaced."
+    }
+  ]
+}

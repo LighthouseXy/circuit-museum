@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:RaspberryPi.jpg",
+  "creator": "Jwrodgers",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "alt": "2012 年 Raspberry Pi Model B 电路板与接口",
+  "path": "/images/raspberry-pi-model-b.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/RaspberryPi.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 4217,
+  "originalHeight": 2811,
+  "output": {
+    "format": "webp",
+    "width": 1100,
+    "height": 733,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 79546
+  }
+}

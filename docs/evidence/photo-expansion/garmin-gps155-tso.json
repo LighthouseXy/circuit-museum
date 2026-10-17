@@ -1,0 +1,9 @@
+{
+  "slug": "garmin-gps155-tso",
+  "name": "GPS 155 TSO",
+  "regionVersion": "美国FAA批准飞机面板155；排除不同安装宽度165",
+  "query": "Garmin GPS 155 TSO",
+  "checkedOn": "2026-10-13",
+  "candidates": [],
+  "error": "HTTP Error 429: Too Many Requests"
+}

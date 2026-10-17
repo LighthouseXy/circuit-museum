@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Commodore-64-Computer-FL.png",
+  "creator": "Evan-Amos",
+  "license": "公有领域（作者释出）",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/File:Commodore-64-Computer-FL.png#Licensing",
+  "alt": "Commodore 64 米色一体键盘式主机，完整键盘与侧面接口",
+  "path": "/images/commodore-64.webp",
+  "changes": "等比例缩小、WebP 转码",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Commodore-64-Computer-FL.png",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 4600,
+  "originalHeight": 2600,
+  "output": {
+    "format": "webp",
+    "width": 1100,
+    "height": 622,
+    "channels": 4,
+    "premultiplied": true,
+    "hasAlpha": true,
+    "size": 58320
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "slug": "samsung-t7-2020",
+  "query": "Samsung T7 -Shield",
+  "checkedOn": "2026-10-15",
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "112853143": {
+          "pageid": 112853143,
+          "ns": 6,
+          "title": "File:Library of Congress Classification Class Q.pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Library_of_Congress_Classification_Class_Q.pdf/page1-960px-Library_of_Congress_Classification_Class_Q.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1165,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Library_of_Congress_Classification_Class_Q.pdf/page1-960px-Library_of_Congress_Classification_Class_Q.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1165
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Library_of_Congress_Classification_Class_Q.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Library_of_Congress_Classification_Class_Q.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=112853143",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-11-27 07:03:49",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Library of Congress Classification Class Q",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US Government|Library of Congress Classification|CC-PD-Mark|English Books uploaded by User Hrishikes",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Library of Congress Classification Class Q",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2021",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.loc.gov/aba/publications/FreeLCC/freelcc.html\">https://www.loc.gov/aba/publications/FreeLCC/freelcc.html</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Library of Congress",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

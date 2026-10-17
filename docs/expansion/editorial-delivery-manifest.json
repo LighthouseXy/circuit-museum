@@ -1,0 +1,330 @@
+{
+  "status": "research revisions; production unchanged",
+  "actualProductionCount": 54,
+  "expectedRevisionCoverage": 176,
+  "revisionCoverage": 176,
+  "minimumFiveSectionHanCharacters": 825,
+  "original40ImportPolicy": "Do not overwrite production originals without explicit implementation authorization. Preview revisions remain separate.",
+  "navigation": [
+    "首页",
+    "馆藏",
+    "产品编年史",
+    "关于"
+  ],
+  "packets": [
+    {
+      "file": "editorial-compute-01.json",
+      "count": 7,
+      "slugs": [
+        "hp-35",
+        "altair-8800",
+        "apple-1",
+        "ibm-pc-5150",
+        "commodore-64",
+        "macintosh-128k",
+        "imac-g3"
+      ]
+    },
+    {
+      "file": "editorial-compute-02.json",
+      "count": 7,
+      "slugs": [
+        "macbook-2006",
+        "ipad-1",
+        "raspberry-pi-model-b",
+        "macbook-air-m5-2026",
+        "hp-65",
+        "roland-tr808",
+        "roland-tb303"
+      ]
+    },
+    {
+      "file": "editorial-compute-03.json",
+      "count": 7,
+      "slugs": [
+        "yamaha-dx7",
+        "teac-portastudio144",
+        "hp-laserjet-1984",
+        "apple-newton-messagepad-1993",
+        "iomega-zip100",
+        "pfu-scansnap-fi4110eox",
+        "logitech-k380-2015"
+      ]
+    },
+    {
+      "file": "editorial-compute-04.json",
+      "count": 7,
+      "slugs": [
+        "kobo-touch-2011",
+        "samsung-t7-2020",
+        "ibm-thinkpad-701c",
+        "framework-laptop-13-2021",
+        "logitech-mx-master-3",
+        "osborne-1",
+        "epson-ep101"
+      ]
+    },
+    {
+      "file": "editorial-gaming-01.json",
+      "count": 8,
+      "slugs": [
+        "magnavox-odyssey",
+        "atari-vcs",
+        "nintendo-famicom",
+        "game-boy",
+        "sony-playstation",
+        "nintendo-ds",
+        "nintendo-wii",
+        "steam-deck-lcd"
+      ]
+    },
+    {
+      "file": "editorial-gaming-02.json",
+      "count": 10,
+      "slugs": [
+        "sony-playstation-2",
+        "sony-psp-1000",
+        "sony-playstation-3",
+        "sony-playstation-vita",
+        "sony-playstation-4",
+        "sony-playstation-4-pro",
+        "sony-playstation-5",
+        "nintendo-switch-2017",
+        "nintendo-switch-2",
+        "sony-playstation-5-pro"
+      ]
+    },
+    {
+      "file": "editorial-gaming-03.json",
+      "count": 8,
+      "slugs": [
+        "nintendo-super-famicom",
+        "nintendo-64",
+        "nintendo-game-boy-color",
+        "nintendo-game-boy-advance",
+        "nintendo-gamecube",
+        "nintendo-3ds",
+        "nintendo-wii-u",
+        "nintendo-switch-lite"
+      ]
+    },
+    {
+      "file": "editorial-gaming-04.json",
+      "count": 7,
+      "slugs": [
+        "nintendo-color-tv-game-15",
+        "nintendo-game-watch-ball-1980",
+        "nintendo-virtual-boy-jp",
+        "sega-dreamcast-jp",
+        "xbox-adaptive-controller",
+        "valve-steam-controller-2015",
+        "sony-access-controller"
+      ]
+    },
+    {
+      "file": "editorial-gaming-05.json",
+      "count": 7,
+      "slugs": [
+        "sony-playstation-portal",
+        "asus-rog-ally-2023",
+        "lenovo-legion-go-2023",
+        "msi-claw-a1m",
+        "asus-rog-xbox-ally-x",
+        "valve-steam-controller-2026",
+        "valve-steam-machine-2026"
+      ]
+    },
+    {
+      "file": "editorial-home-01.json",
+      "count": 7,
+      "slugs": [
+        "hamilton-pulsar-p1",
+        "speak-and-spell",
+        "motorola-dynatac-8000x",
+        "palmpilot-professional",
+        "amazon-kindle-1",
+        "iphone-1",
+        "iphone-4"
+      ]
+    },
+    {
+      "file": "editorial-home-02.json",
+      "count": 6,
+      "slugs": [
+        "fitbit-flex",
+        "xiaomi-mi-band-1",
+        "apple-watch-1",
+        "apple-watch-series-12",
+        "iphone-18-pro",
+        "xiaomi-smart-band-11-active"
+      ]
+    },
+    {
+      "file": "editorial-home-03.json",
+      "count": 7,
+      "slugs": [
+        "kitchenaid-h5",
+        "toastmaster-1a1",
+        "kenwood-chef-a700",
+        "national-ec36",
+        "sharp-r10",
+        "dyson-dc01",
+        "western-electric-500"
+      ]
+    },
+    {
+      "file": "editorial-home-04.json",
+      "count": 8,
+      "slugs": [
+        "hoover-constellation-444",
+        "braun-hl1",
+        "braun-sixtant-sm31",
+        "motorola-pageboy-i",
+        "western-electric-picturephone-mod-ii",
+        "omron-hem1",
+        "magellan-nav1000",
+        "garmin-gps155-tso"
+      ]
+    },
+    {
+      "file": "editorial-home-05.json",
+      "count": 8,
+      "slugs": [
+        "husqvarna-solar-mower-1995",
+        "apple-airport-1999",
+        "sony-aibo-ers110",
+        "irobot-roomba-2002",
+        "avm-fritzbox-2004",
+        "tomtom-go-2004",
+        "violet-nabaztag-v1",
+        "philips-airfryer-hd9220"
+      ]
+    },
+    {
+      "file": "editorial-home-06.json",
+      "count": 8,
+      "slugs": [
+        "nest-learning-thermostat-1",
+        "perkins-smart-brailler",
+        "philips-hue-2012",
+        "nest-protect-1",
+        "amazon-echo-1",
+        "vorwerk-thermomix-tm5",
+        "google-home-2016",
+        "sony-aibo-ers-1000"
+      ]
+    },
+    {
+      "file": "editorial-home-07.json",
+      "count": 7,
+      "slugs": [
+        "sourcenext-pocketalk-w",
+        "roborock-s7",
+        "ikea-dirigera",
+        "aqara-presence-fp2",
+        "humanware-victor-reader-stream-3",
+        "switchbot-s10",
+        "aqara-spatial-fp400"
+      ]
+    },
+    {
+      "file": "editorial-home-08.json",
+      "count": 4,
+      "slugs": [
+        "casio-f91w",
+        "nokia-3310-2000",
+        "ericsson-ericofon",
+        "toshiba-er4"
+      ]
+    },
+    {
+      "file": "editorial-imaging-01.json",
+      "count": 8,
+      "slugs": [
+        "radiola-iii",
+        "regency-tr1",
+        "koss-sp3",
+        "sony-tps-l2",
+        "casio-qv10",
+        "ipod-1",
+        "airpods-1",
+        "airpods-5"
+      ]
+    },
+    {
+      "file": "editorial-imaging-02.json",
+      "count": 9,
+      "slugs": [
+        "rca-630ts",
+        "sony-tv8-301",
+        "sony-kv-1310",
+        "sharp-aquos-lc20c1",
+        "samsung-the-frame-ls003",
+        "samsung-the-sero-ls05t",
+        "lg-signature-oled-r-rx",
+        "epson-vpj-700",
+        "samsung-the-freestyle-2022"
+      ]
+    },
+    {
+      "file": "editorial-imaging-03.json",
+      "count": 9,
+      "slugs": [
+        "lg-stanbyme-go-27lx5qkna",
+        "lg-oled-evo-m5-65",
+        "samsung-micro-rgb-r95h-65",
+        "htc-vive-2016",
+        "microsoft-hololens-2",
+        "oculus-quest-2019",
+        "meta-quest-3",
+        "sony-playstation-vr2",
+        "apple-vision-pro-m2"
+      ]
+    },
+    {
+      "file": "editorial-imaging-04.json",
+      "count": 9,
+      "slugs": [
+        "samsung-galaxy-xr",
+        "sony-betamax-sl-6300",
+        "canon-ae-1",
+        "nikon-f3",
+        "sony-ccd-v8",
+        "canon-rc-701",
+        "canon-eos-650",
+        "sony-ccd-tr55",
+        "kodak-dcs-1991"
+      ]
+    },
+    {
+      "file": "editorial-imaging-05.json",
+      "count": 9,
+      "slugs": [
+        "nikon-coolscan-ls-10",
+        "sony-dcr-vx1000",
+        "canon-powershot-600",
+        "nikon-coolpix-300",
+        "canon-xl1",
+        "nikon-coolpix-900",
+        "nikon-d1",
+        "canon-eos-5d-mark-ii",
+        "panasonic-lumix-dmc-g1"
+      ]
+    },
+    {
+      "file": "editorial-imaging-06.json",
+      "count": 9,
+      "slugs": [
+        "olympus-pen-e-p1",
+        "fujifilm-finepix-x100",
+        "dji-phantom-2013",
+        "ricoh-gr-iii",
+        "insta360-x5",
+        "panasonic-lumix-dc-tz300",
+        "sony-cdp-101",
+        "sony-xel-1",
+        "sony-playstation-vr-cuh-zvr1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,663 @@
+{
+  "slug": "nest-learning-thermostat-1",
+  "name": "Nest Learning Thermostat（初代）",
+  "regionVersion": "北美2011初代；排除2012二代与后续Farsight",
+  "query": "\"Nest\" AND \"Thermostat\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Nest 3rd gen baseplate.jpg",
+      "pageid": 55933653,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nest_3rd_gen_baseplate.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Nest_3rd_gen_baseplate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Nest_3rd_gen_baseplate.jpg/960px-Nest_3rd_gen_baseplate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2017-02-06 03:17:58",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nest 3rd gen baseplate",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Thermostats|Self-published work|Uploaded with en.wp upload wizard",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Photo of Nest 3rd gen NLT",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2017-02-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Anthonyramos1&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Anthonyramos1 (page does not exist)\">Anthonyramos1</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Photo of Nest 3rd gen NLT",
+      "artist": "Anthonyramos1",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "date": "2017-02-05"
+    },
+    {
+      "title": "File:Nest E backplate.jpg",
+      "pageid": 65329267,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nest_E_backplate.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nest_E_backplate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nest_E_backplate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2018-01-06 16:50:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nest E backplate",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Thermostats|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Nest E backplate",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-01-06",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Saulinpa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Saulinpa (page does not exist)\">Saulinpa</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Nest E backplate",
+      "artist": "Saulinpa",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2018-01-06"
+    },
+    {
+      "title": "File:The industrious hen (IA CAT31037118040).pdf",
+      "pageid": 93184363,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_industrious_hen_(IA_CAT31037118040).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/The_industrious_hen_%28IA_CAT31037118040%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/The_industrious_hen_%28IA_CAT31037118040%29.pdf/page1-960px-The_industrious_hen_%28IA_CAT31037118040%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-09-30 12:43:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nThe industrious hen</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD US Government|Files with no machine-readable author|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Internet Archive (redundant cover page removed)|The Industrious Hen 1907",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>Description based on: Vol. 2, no. 1 (June 1905); title from cover</dd>\n<dd>Latest issue consulted: Vol. 14, no. 10 (Apr. 1918)</dd>\n<dd>\"An illustrated monthly for poultry, live stock and farm.\"</dd>\n<dd>\"Devoted to every interest of the poultryman, live stock breeder and small farmer.\"</dd></dl>\n<br>Subjects: Poultry Periodicals; Poultry industry Periodicals</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/CAT31037118040\" class=\"extiw\" title=\"iarchive:CAT31037118040\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: CAT31037118040</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/CAT31037118040/CAT31037118040.pdf\">https://archive.org/download/CAT31037118040/CAT31037118040.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "The contributing institution believes that this item is not in copyright.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Description based on: Vol. 2, no. 1 (June 1905); title from cover \n Latest issue consulted: Vol. 14, no. 10 (Apr. 1918) \n \"An illustrated monthly for poultry, live stock and farm.\" \n \"Devoted to every interest of the poultryman, live stock breeder and small farmer.\"  \n Subjects: Poultry Periodicals; Poultry industry Periodicals",
+      "artist": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:The Cornell book on artificial incubation and brooding (IA cornellbookonart00huff).pdf",
+      "pageid": 93097530,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Cornell_book_on_artificial_incubation_and_brooding_(IA_cornellbookonart00huff).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f5/The_Cornell_book_on_artificial_incubation_and_brooding_%28IA_cornellbookonart00huff%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/The_Cornell_book_on_artificial_incubation_and_brooding_%28IA_cornellbookonart00huff%29.pdf/page1-500px-The_Cornell_book_on_artificial_incubation_and_brooding_%28IA_cornellbookonart00huff%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-08-13 05:28:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nThe Cornell book on artificial incubation and brooding</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Books with Wikidata item|Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books in the Library of Congress|PD-US missing SDC copyright status|Books with Wikidata item missing accession number|Artworks digital representation of unclassified work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\n<dl><dd>Huffaker, E. C. [from old catalog]</dd>\n<dd>Blackman, Harvey H. [from old catalog]</dd>\n<dd>Hodgson, Ernest Franklin, 1871- [from old catalog]</dd></dl></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nSubjects: Incubators. [from old catalog]</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/cornellbookonart00huff\" class=\"extiw\" title=\"iarchive:cornellbookonart00huff\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cornellbookonart00huff</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cornellbookonart00huff/cornellbookonart00huff.pdf\">https://archive.org/download/cornellbookonart00huff/cornellbookonart00huff.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Subjects: Incubators. [from old catalog]",
+      "artist": "Huffaker, E. C. [from old catalog] \n Blackman, Harvey H. [from old catalog] \n Hodgson, Ernest Franklin, 1871- [from old catalog]",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:The farmer as conservationist (IA CAT31289599).pdf",
+      "pageid": 93212953,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_farmer_as_conservationist_(IA_CAT31289599).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/The_farmer_as_conservationist_%28IA_CAT31289599%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/The_farmer_as_conservationist_%28IA_CAT31289599%29.pdf/page1-960px-The_farmer_as_conservationist_%28IA_CAT31289599%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-10-24 06:06:54",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nThe farmer as conservationist</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD US Government|FEDLINK - United States Federal Collection|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Internet Archive (redundant cover page removed)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\n<dl><dd>Leopold, Aldo, 1886-1948</dd>\n<dd>Calkins, Hugh G</dd>\n<dd>United States. Soil Conservation Service. Region 8</dd></dl></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>\"November 1, 1939.\"</dd>\n<dd>\"From American Forest, June, 1939, Volume 45, no.6.\"</dd></dl>\n<br>Subjects: Farmers; Farm management; Agricultural conservation</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/CAT31289599\" class=\"extiw\" title=\"iarchive:CAT31289599\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: CAT31289599</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/CAT31289599/CAT31289599.pdf\">https://archive.org/download/CAT31289599/CAT31289599.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "The contributing institution believes that this item is not in copyright.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "\"November 1, 1939.\" \n \"From American Forest, June, 1939, Volume 45, no.6.\"  \n Subjects: Farmers; Farm management; Agricultural conservation",
+      "artist": "Leopold, Aldo, 1886-1948 \n Calkins, Hugh G \n United States. Soil Conservation Service. Region 8",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:The development of certain instincts and habits in chicks (IA cu31924002908410).pdf",
+      "pageid": 97490137,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_development_of_certain_instincts_and_habits_in_chicks_(IA_cu31924002908410).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/36/The_development_of_certain_instincts_and_habits_in_chicks_%28IA_cu31924002908410%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/The_development_of_certain_instincts_and_habits_in_chicks_%28IA_cu31924002908410%29.pdf/page1-500px-The_development_of_certain_instincts_and_habits_in_chicks_%28IA_cu31924002908410%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-12-12 09:34:11",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nThe development of certain instincts and habits in chicks</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Books with Wikidata item|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Scans from Cornell University Library|Books with Wikidata item missing accession number|Artworks digital representation of unclassified work|Behavior monographs",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nBreed, Frederick Stephen, 1876-</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/about/faqs.php#140\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>\"From the Harvard Psychological Laboratory.\"</dd></dl>\n<br>Subjects: Instinct</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/cu31924002908410\" class=\"extiw\" title=\"iarchive:cu31924002908410\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924002908410</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/cu31924002908410/cu31924002908410.pdf\">https://archive.org/download/cu31924002908410/cu31924002908410.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the  What is the directory structure for the texts?  FAQ for information about file content and naming conventions. \n \"From the Harvard Psychological Laboratory.\"  \n Subjects: Instinct",
+      "artist": "Breed, Frederick Stephen, 1876-",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:The Engineering and Mining Journal January - June 1891- Vol 51 Index (IA sim engineering-and-mining-journal january-june-1891 51 index).pdf",
+      "pageid": 98351264,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Engineering_and_Mining_Journal_January_-_June_1891-_Vol_51_Index_(IA_sim_engineering-and-mining-journal_january-june-1891_51_index).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Engineering_and_Mining_Journal_January_-_June_1891-_Vol_51_Index_%28IA_sim_engineering-and-mining-journal_january-june-1891_51_index%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Engineering_and_Mining_Journal_January_-_June_1891-_Vol_51_Index_%28IA_sim_engineering-and-mining-journal_january-june-1891_51_index%29.pdf/page1-960px-The_Engineering_and_Mining_Journal_January_-_June_1891-_Vol_51_Index_%28IA_sim_engineering-and-mining-journal_january-june-1891_51_index%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2021-01-01 06:01:26",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nThe Engineering and Mining Journal January - June 1891: Vol 51 Index</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Files with no machine-readable author|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|The engineering and mining journal, 1891",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<p>The Engineering and Mining Journal January - June 1891: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/search.php?query=sim_pubid%3A25%20AND%20volume%3A51\">Volume 51</a>, Issue Index.<br>Digitized from <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/sim_raw_scan_IA1532315-02/page/n177\">IA1532315-02</a>.<br>Previous issue: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/sim_engineering-and-mining-journal_1890-12-27_50_26\">sim_engineering-and-mining-journal_1890-12-27_50_26</a>.<br>Next issue: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/sim_engineering-and-mining-journal_1891-01-03_51_1\">sim_engineering-and-mining-journal_1891-01-03_51_1</a>.\n</p>\n<br>Subjects: Engineering; Mines And Mining Industry; Scholarly Journals; microfilm</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/sim_engineering-and-mining-journal_january-june-1891_51_index\" class=\"extiw\" title=\"iarchive:sim engineering-and-mining-journal january-june-1891 51 index\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: sim_engineering-and-mining-journal_january-june-1891_51_index</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/sim_engineering-and-mining-journal_january-june-1891_51_index/sim_engineering-and-mining-journal_january-june-1891_51_index.pdf\">https://archive.org/download/sim_engineering-and-mining-journal_january-june-1891_51_index/sim_engineering-and-mining-journal_january-june-1891_51_index.pdf</a></dd></dl>\n<ul><li>IA contributor: Internet Archive</li>\n<li>IA digitizing sponsor: Kahle/Austin Foundation</li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The Engineering and Mining Journal January - June 1891:  Volume 51 , Issue Index. Digitized from  IA1532315-02 . Previous issue:  sim_engineering-and-mining-journal_1890-12-27_50_26 . Next issue:  sim_engineering-and-mining-journal_1891-01-03_51_1 .\n \n Subjects: Engineering; Mines And Mining Industry; Scholarly Journals; microfilm",
+      "artist": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:Solar Decathlon 007A0148 (37007771133).jpg",
+      "pageid": 78210490,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Solar_Decathlon_007A0148_(37007771133).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/Solar_Decathlon_007A0148_%2837007771133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Solar_Decathlon_007A0148_%2837007771133%29.jpg/960px-Solar_Decathlon_007A0148_%2837007771133%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2019-04-21 09:19:17",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Solar Decathlon 007A0148 (37007771133)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD US DOE|Flickr images reviewed by FlickreviewR 2|Solar Decathlon 2017",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A visitor to the U.S. Department of Energy Solar Decathlon 2017 gets direct experience with a NEST thermostat at the 61st &amp; Peña Station in Denver, Colorado on October 13, 2017. (Credit: John De La Rosa/U.S. Department of Energy Solar Decathlon)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2017-10-13 14:43",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/solar_decathlon/37007771133/\">007A0148</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/38890715@N08\">Dept of Energy Solar Decathlon</a> from Denver, CO",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "A visitor to the U.S. Department of Energy Solar Decathlon 2017 gets direct experience with a NEST thermostat at the 61st & Peña Station in Denver, Colorado on October 13, 2017. (Credit: John De La Rosa/U.S. Department of Energy Solar Decathlon)",
+      "artist": "Dept of Energy Solar Decathlon  from Denver, CO",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "2017-10-13 14:43"
+    }
+  ]
+}

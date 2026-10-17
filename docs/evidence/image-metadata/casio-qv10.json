@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:QV-10.jpg",
+  "creator": "Noische",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "alt": "Casio QV-10 数码相机，旋转镜头结构与背部液晶显示屏",
+  "path": "/images/casio-qv10.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/a/a8/QV-10.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 800,
+  "originalHeight": 600,
+  "output": {
+    "format": "webp",
+    "width": 800,
+    "height": 600,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 174274
+  }
+}

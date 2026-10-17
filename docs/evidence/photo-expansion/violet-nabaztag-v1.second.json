@@ -1,0 +1,472 @@
+{
+  "slug": "violet-nabaztag-v1",
+  "name": "Nabaztag v1",
+  "regionVersion": "法国初代无麦克风肚脐；排除Nabaztag:tag/Karotz",
+  "query": "intitle:\"Nabaztag\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Nabaztag on desk.jpg",
+      "pageid": 146184885,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nabaztag_on_desk.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/65/Nabaztag_on_desk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Nabaztag_on_desk.jpg/960px-Nabaztag_on_desk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-03-08 16:29:19",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nabaztag on desk",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Nabaztag|Flickr images reviewed by FlickreviewR 2|Files with coordinates missing SDC location of creation (52° N, 4° E)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "52.371369",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "4.900510",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ambient information device.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2006-08-25 08:57:45",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/kaeru/224286735/\">https://www.flickr.com/photos/kaeru/224286735/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Kars Alfrink",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Ambient information device.",
+      "artist": "Kars Alfrink",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2006-08-25 08:57:45"
+    },
+    {
+      "title": "File:Nabaztag-IMG 7036.jpg",
+      "pageid": 37010428,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nabaztag-IMG_7036.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Nabaztag-IMG_7036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Nabaztag-IMG_7036.jpg/960px-Nabaztag-IMG_7036.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2014-11-27 11:15:07",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nabaztag-IMG 7036",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 5D Mark II|CeCILL|Nabaztag|Musée Bolo|Self-published work|All media supported by Wikimedia CH|Switzerland photographs taken on 2013-02-09|Musée Bolo (2013) - Supported by Wikimedia CH",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p><a href=\"https://en.wikipedia.org/wiki/Nabaztag\" class=\"extiw\" title=\"en:Nabaztag\">Nabaztag</a>\n</p>\nOn display at the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bolo.ch\">Musée Bolo</a>, <a href=\"https://en.wikipedia.org/wiki/EPFL\" class=\"extiw\" title=\"en:EPFL\">EPFL</a>, Lausanne.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Taken on 9 February 2013, 11:47 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rama\" title=\"User:Rama\">Rama</a> &amp; Musée Bolo",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "You may select the license of your choice.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0 fr",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0 fr",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0-fr",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Nabaztag \n \nOn display at the  Musée Bolo ,  EPFL , Lausanne.",
+      "artist": "Rama  & Musée Bolo",
+      "license": "CC BY-SA 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+      "date": "Taken on 9 February 2013, 11:47 (according to   Exif   data)"
+    },
+    {
+      "title": "File:Nabaztag bat.jpg",
+      "pageid": 151546210,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nabaztag_bat.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nabaztag_bat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Nabaztag_bat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-08-17 09:26:12",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nabaztag bat",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Google logos|Nabaztag|Flickr images reviewed by FlickreviewR 2|Flickr images missing SDC published in",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Wifi \"gaitasunak\" dituen untxia (nabaztag = untxia armenieraz), hau nonbait Google News-era konektatua (zer esan nahi duen horrek, ez dakit).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-07-26 12:55:10",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/luistxo/1183135435/\">https://www.flickr.com/photos/luistxo/1183135435/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Luistxo",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Wifi \"gaitasunak\" dituen untxia (nabaztag = untxia armenieraz), hau nonbait Google News-era konektatua (zer esan nahi duen horrek, ez dakit).",
+      "artist": "Luistxo",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "date": "2007-07-26 12:55:10"
+    },
+    {
+      "title": "File:Nabaztag.jpg",
+      "pageid": 9432766,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nabaztag.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Nabaztag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Nabaztag.jpg/960px-Nabaztag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2010-02-08 22:18:10",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nabaztag",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Sony DSC-L1|Nabaztag|Flickr images reviewed by FlickreviewR|Flickr images missing SDC creator|Flickr images missing SDC source of file|Flickr images missing SDC Flickr photo ID|Flickr images missing SDC published in",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/2.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/2.0/deed.en\">Attribution-Share Alike 2.0 Generic</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/2.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 2.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 2.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>\nThis image, \"Nabaztag.JPG\" by \"docraven\" was originally found <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/docraven/106892788/\">here</a>.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1 October 2006 (original upload date)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons.</bdi>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "The original uploader was <a href=\"https://en.wikipedia.org/wiki/User:Edjackiel\" class=\"extiw\" title=\"wikipedia:User:Edjackiel\">Edjackiel</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>.",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "This file is licensed under the  Creative Commons   Attribution-Share Alike 2.0 Generic  license.  \n  You are free:\n   to share  – to copy, distribute and transmit the work \n  to remix  – to adapt the work   \n Under the following conditions:\n   attribution  – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. \n  share alike  – If you remix, transform, or build upon the material, you must distribute your contributions under the  same or compatible license  as the original.      https://creativecommons.org/licenses/by-sa/2.0  CC BY-SA 2.0   Creative Commons Attribution-Share Alike 2.0   true  true   \nThis image, \"Nabaztag.JPG\" by \"docraven\" was originally found  here .",
+      "artist": "The original uploader was  Edjackiel  at  English Wikipedia .",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "date": "1 October 2006 (original upload date)"
+    },
+    {
+      "title": "File:Nabaztag-IMG 1666.jpg",
+      "pageid": 17820343,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nabaztag-IMG_1666.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/Nabaztag-IMG_1666.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Nabaztag-IMG_1666.jpg/960px-Nabaztag-IMG_1666.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2011-12-27 20:40:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nabaztag-IMG 1666",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 5D Mark II|CeCILL|Nabaztag|Musée Bolo|Self-published work|Supported by Wikimedia CH|Unassessed QI candidates|All media supported by Wikimedia CH|Switzerland photographs taken on 2011-12-20",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p><a href=\"https://en.wikipedia.org/wiki/Nabaztag\" class=\"extiw\" title=\"en:Nabaztag\">Nabaztag</a>\nOn display at the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.bolo.ch\">Musée Bolo</a>, <a href=\"https://en.wikipedia.org/wiki/EPFL\" class=\"extiw\" title=\"en:EPFL\">EPFL</a>, Lausanne.\n</p><p><br>\n</p>\n<table lang=\"en\" dir=\"ltr\" cellspacing=\"8\" cellpadding=\"0\" style=\"width:100%; clear:both; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); color:inherit; border:2px solid #66A7CC\">\n<tbody><tr>\n<td style=\"width:60px\"><span typeof=\"mw:File\"><span title=\"Wikimédia CH\"><img alt=\"Wikimédia CH\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/WikimediaCHLogo.svg/60px-WikimediaCHLogo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"60\" height=\"66\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/WikimediaCHLogo.svg/120px-WikimediaCHLogo.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"491\" data-file-height=\"539\"></span></span>\n</td>\n<td style=\"text-align:center;\">The making of this document was supported by <b><a href=\"https://meta.wikimedia.org/wiki/Wikimedia_CH\" class=\"extiw\" title=\"m:Wikimedia CH\">Wikimedia CH</a></b>. <b><small>(<a rel=\"nofollow\" class=\"external text\" href=\"https://www.wikimedia.ch/\">Submit your project!</a>)</small></b><br>\n<p>For all the files concerned, please see the category <a href=\"//commons.wikimedia.org/wiki/Category:Supported_by_Wikimedia_CH\" title=\"Category:Supported by Wikimedia CH\">Supported by Wikimedia CH</a>.\n</p>\n<hr>\n<div lang=\"\"><span style=\"font-size:small;line-height:1.4\" class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/ar\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/ar\"><bdi class=\"language lang-ar\" lang=\"ar\">العربية</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/bn\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/bn\"><bdi class=\"language lang-bn\" lang=\"bn\">বাংলা</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/cs\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/cs\"><bdi class=\"language lang-cs\" lang=\"cs\">čeština</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/de\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/de\"><bdi class=\"language lang-de\" lang=\"de\">Deutsch</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/en\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/en\"><bdi class=\"language lang-en\" lang=\"en\">English</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/eo\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/eo\"><bdi class=\"language lang-eo\" lang=\"eo\">Esperanto</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/es\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/es\"><bdi class=\"language lang-es\" lang=\"es\">español</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/fr\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/fr\"><bdi class=\"language lang-fr\" lang=\"fr\">français</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/gl\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/gl\"><bdi class=\"language lang-gl\" lang=\"gl\">galego</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/hi\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/hi\"><bdi class=\"language lang-hi\" lang=\"hi\">हिन्दी</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/hu\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/hu\"><bdi class=\"language lang-hu\" lang=\"hu\">magyar</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/it\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/it\"><bdi class=\"language lang-it\" lang=\"it\">italiano</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/ja\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/ja\"><bdi class=\"language lang-ja\" lang=\"ja\">日本語</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/mk\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/mk\"><bdi class=\"language lang-mk\" lang=\"mk\">македонски</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/nl\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/nl\"><bdi class=\"language lang-nl\" lang=\"nl\">Nederlands</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/pt-br\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/pt-br\"><bdi class=\"language lang-pt-br\" lang=\"pt-br\">português do Brasil</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/rm\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/rm\"><bdi class=\"language lang-rm\" lang=\"rm\">rumantsch</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/ru\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/ru\"><bdi class=\"language lang-ru\" lang=\"ru\">русский</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/scn\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/scn\"><bdi class=\"language lang-scn\" lang=\"scn\">sicilianu</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/sl\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/sl\"><bdi class=\"language lang-sl\" lang=\"sl\">slovenščina</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/ta\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/ta\"><bdi class=\"language lang-ta\" lang=\"ta\">தமிழ்</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/uk\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/uk\"><bdi class=\"language lang-uk\" lang=\"uk\">українська</bdi></a> <b>∙</b> <a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/zh\" href=\"https://commons.wikimedia.org/wiki/Template:Supported_by_Wikimedia_CH/zh\"><bdi class=\"language lang-zh\" lang=\"zh\">中文</bdi></a> <b>∙</b> <small class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/w/index.php?title=Template:Supported_by_Wikimedia_CH/lang&amp;action=edit\" href=\"https://commons.wikimedia.org/w/index.php?title=Template:Supported_by_Wikimedia_CH/lang&amp;action=edit\">+/−</a></small></span></div>\n</td></tr></tbody></table>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Taken on 20 December 2011, 12:19 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rama\" title=\"User:Rama\">Rama</a> &amp; Musée Bolo",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "You may select the license of your choice.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0 fr",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0 fr",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Rama\" title=\"User:Rama\">Rama</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0-fr",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Nabaztag \nOn display at the  Musée Bolo ,  EPFL , Lausanne.\n   \n \n \n  \n      \n \n The making of this document was supported by   Wikimedia CH  .   ( Submit your project! )   \n For all the files concerned, please see the category  Supported by Wikimedia CH .\n \n \n    العربية    ∙    বাংলা    ∙    čeština    ∙    Deutsch    ∙    English    ∙    Esperanto    ∙    español    ∙    français    ∙    galego    ∙    हिन्दी    ∙    magyar    ∙    italiano    ∙    日本語    ∙    македонски    ∙    Nederlands    ∙    português do Brasil    ∙    rumantsch    ∙    русский    ∙    sicilianu    ∙    slovenščina    ∙    தமிழ்    ∙    українська    ∙    中文    ∙    +/−",
+      "artist": "Rama  & Musée Bolo",
+      "license": "CC BY-SA 2.0 fr",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+      "date": "Taken on 20 December 2011, 12:19 (according to   Exif   data)"
+    }
+  ]
+}

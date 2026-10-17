@@ -1,0 +1,24 @@
+{
+  "backgrounds": [
+    {
+      "year": "1904",
+      "title": "电子管：控制电流的一种新方法",
+      "text": "John Fleming 为一种单向导电的振荡阀申请专利。它将无线电信号整流，成为早期电子技术的一条重要线索。",
+      "url": "https://www.computerhistory.org/siliconengine/semiconductor-point-contact-rectifier-effect-is-discovered/"
+    },
+    {
+      "year": "1922",
+      "title": "广播：声音进入日常生活",
+      "text": "英国广播公司于 11 月 14 日开始从伦敦 2LO 电台进行每日广播。接收广播逐渐成为家庭电子设备的一种重要用途。",
+      "url": "https://downloads.bbc.co.uk/historyofthebbc/1920s.pdf"
+    },
+    {
+      "year": "1947",
+      "title": "晶体管：走向更小的电子设备",
+      "text": "John Bardeen 与 Walter Brattain 在贝尔实验室实现点接触晶体管的放大作用。后来的小型电子产品，将沿着固态器件的发展继续演变。",
+      "url": "https://www.computerhistory.org/siliconengine/invention-of-the-point-contact-transistor/"
+    }
+  ],
+  "videos": [],
+  "teardowns": {}
+}

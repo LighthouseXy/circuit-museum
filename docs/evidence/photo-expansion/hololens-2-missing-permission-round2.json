@@ -1,0 +1,17 @@
+{
+  "checkedOn": "2026-10-15",
+  "requestUrl": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AMicrosoft+HoloLens+2.webp&prop=imageinfo&iiprop=url%7Cextmetadata",
+  "response": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "-1": {
+          "ns": 6,
+          "title": "File:Microsoft HoloLens 2.webp",
+          "missing": "",
+          "imagerepository": ""
+        }
+      }
+    }
+  }
+}

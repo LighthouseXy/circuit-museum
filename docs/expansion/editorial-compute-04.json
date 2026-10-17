@@ -1,0 +1,2115 @@
+{
+  "status": "editorial-revision-for-review",
+  "note": "Existing slugs are revisions, not new exhibit count. Production original40 remains unchanged. No new firsthand validation claimed.",
+  "exhibits": [
+    {
+      "slug": "kobo-touch-2011",
+      "context": "Kobo于二〇一一年五月二十三日公布eReader Touch Edition并开放北美预订，六月商店供货在原公告中仍是计划。本条保留这一区别，不把它写成已经核实的全球统一上市日，也不混入后来的Touch 2。原代结合六英寸Pearl电子纸和红外触控，让专门阅读设备可以用手指选择与翻页。与第一代Kindle并读，可以观察阅读任务如何围绕屏幕与控制组织；与通用计算机或手机比较，它的介绍重点则是找书、调整文本和连续阅读，不需要把所有屏幕设备都放进相同的功能竞争里。",
+      "design": "红外触控把翻页和选择带到屏幕表面，正面保留一个Home按钮作为返回入口。原公告还介绍可调整字体与字号，说明阅读界面不只是固定的一页图像，使用者能够选择文字呈现方式。设备同时具备Wi-Fi和USB两种连接入口，用于无线服务与有线内容组织；这些结构不自动证明所有当代服务仍然可用。背部纹理和机身外形属于握持设计的一部分，厂商还提到与IDEO合作，但握持舒适与阅读体验没有在该公告中经过独立测量。展览把结构说明与体验评价分别保存，避免把品牌形容词当成测试结果。",
+      "usage": "一次阅读可以从选择书目开始，打开后点击或滑动翻页，按需要调整字号；遇到要保留的句子，可以用长按进入标记或词典相关任务。需要查找内容时，屏幕键盘提供文字输入，Home按钮则把使用者带回主要入口。原公告支持EPUB与PDF，并介绍PDF放大和横向阅读，这些是不同内容格式的使用路径。可重排文字改变字号后会重新组织页面，固定版面文件则需要缩放与查看区域，所以同一个放大动作不一定带来相同的阅读节奏。找到文件、打开文件和舒适读完仍是分别需要判断的任务。",
+      "significance": "Kobo Touch把翻页、选词等阅读动作放在文本所在的位置，又用实体Home键提供返回路径。与初代iPad可承载多种应用的触控平面相比，这里的界面围绕书目和持续阅读组织，触控服务于更集中的任务。原公告与操作资料支持这种动作安排，不足以独自证明整体阅读习惯被改变。它的代表性是专用阅读器怎样在看书与管理书目之间保留清晰入口；选书、调字和翻页更直接，文件来源与设备范围仍要满足对应条件。",
+      "limitations": "支持某种文件格式不等于所有文件都具有相同版面或操作体验，尤其固定版面PDF仍要结合屏幕尺寸、缩放和页面内容理解。连接入口也不保证今天所有商店、图书馆或服务可继续用在二〇一一年原机上，这需要具体软件与地区证据。原厂关于电子纸舒适的宣传不能扩展为眼部健康结论，读者的偏好也不由屏幕种类单独决定。公告中的北美预订和后续供货计划分别登记，未核实际销售日期的地区透明留空。本条没有原代停止制造、停售或停止服务的可靠节点，不以新型号或网站改版替代产品结束事实。",
+      "id": "65",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "name": "Kobo eReader Touch Edition",
+      "brand": "Kobo",
+      "year": 2011,
+      "dateLabel": "2011-05-23（公告/预订；6月供货仅计划）",
+      "dateKind": "announcement",
+      "regionVersion": "北美公告及预订；非Touch2",
+      "category": "reading",
+      "categoryLabel": "PDA与电子阅读",
+      "museumCategory": "reading",
+      "aliases": [
+        "Kobo Kobo eReader Touch Edition"
+      ],
+      "tags": [
+        "PDA与电子阅读",
+        "手持终端",
+        "2011年"
+      ],
+      "summary": "Kobo于二〇一一年五月二十三日公布eReader Touch Edition并开放北美预订，六月商店供货在原公告中仍是计划。",
+      "features": [
+        "6英寸Pearl电子纸与红外触控",
+        "EPUB/PDF、WiFi及USB"
+      ],
+      "facts": [
+        {
+          "label": "版本与年份",
+          "value": "2011-05-23（公告/预订；6月供货仅计划）；北美公告及预订；非Touch2",
+          "sourceIds": [
+            "CM150-S068"
+          ]
+        },
+        {
+          "label": "明确结构与任务",
+          "value": "6英寸Pearl电子纸与红外触控；EPUB/PDF、WiFi及USB",
+          "sourceIds": [
+            "CWC-S011"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S068",
+        "CWC-S011",
+        "C:S34",
+        "C:TXL02",
+        "C:TXL03",
+        "C:S33",
+        "C:S30",
+        "C:TXM23B",
+        "C:TXM23A",
+        "C:S26",
+        "C:TXM20A",
+        "C:TXM20C",
+        "C:TXM20B",
+        "C:S18",
+        "C:TXM15A",
+        "C:TXM15B",
+        "C:S14",
+        "C:TXE12",
+        "C:TXE06",
+        "C:S15",
+        "C:TXE11",
+        "C:S11"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S068",
+          "CWC-S011"
+        ],
+        "design": [
+          "CM150-S068",
+          "CWC-S011"
+        ],
+        "usage": [
+          "CM150-S068",
+          "CWC-S011"
+        ],
+        "significance": [
+          "CM150-S068",
+          "CWC-S011",
+          "C:S34",
+          "C:TXL02",
+          "C:TXL03",
+          "C:S33",
+          "C:S30",
+          "C:TXM23B",
+          "C:TXM23A",
+          "C:S26",
+          "C:TXM20A",
+          "C:TXM20C",
+          "C:TXM20B",
+          "C:S18",
+          "C:TXM15A",
+          "C:TXM15B",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ],
+        "limitations": [
+          "CM150-S068",
+          "CWC-S011"
+        ],
+        "readerTakeaway": [
+          "CM150-S068",
+          "CWC-S011",
+          "C:S34",
+          "C:TXL02",
+          "C:TXL03",
+          "C:S33",
+          "C:S30",
+          "C:TXM23B",
+          "C:TXM23A",
+          "C:S26",
+          "C:TXM20A",
+          "C:TXM20C",
+          "C:TXM20B",
+          "C:S18",
+          "C:TXM15A",
+          "C:TXM15B",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ]
+      },
+      "relatedSlugs": [
+        "macintosh-128k",
+        "amazon-kindle-1"
+      ],
+      "relatedModelProposals": [
+        "macintosh-128k",
+        "amazon-kindle-1"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "reading",
+        "stageId": "reading-expanded-2",
+        "stageTitle": "阅读与手写的专用界面",
+        "status": "既有冻结页面方案的策展位置"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "原型号身份和明确结构可追溯；独立评价缺口见mediaOpinions，不强造媒体共识。",
+        "结束制造/停售/停止支持只采用明确事件，其余未核；配色容量不重复计数。"
+      ],
+      "publicImpactBoundary": "使用比较为策展解读；品牌宣传不等于独立测量、普遍体验或社会效果。",
+      "chineseCharactersInFiveSections": 952,
+      "deliveryPacket": "complete-wave-compute-03.json",
+      "readerTakeaway": "Kobo Touch把翻页、选词等阅读动作放在文本所在的位置，又用实体Home键提供返回路径。与初代iPad可承载多种应用的触控平面相比，这里的界面围绕书目和持续阅读组织，触控服务于更集中的任务。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "ipad-1",
+        "original40": false,
+        "sourceBase": "complete-batch-150-ready.json"
+      }
+    },
+    {
+      "slug": "samsung-t7-2020",
+      "context": "Samsung的二〇二〇年五月十九日美国公告明确原T7便携SSD已可购买。本条讲不带指纹Touch功能的T7，和此前T7 Touch及后来的Shield分别处理，容量与配色不重复建立同一型号。它把存储机构和接口集中在随身机身中，经USB连接计算机等设备，用途包括带走文件和在不同地点取用资料。与Zip 100比较，使用者带走的从可移除盘片变成包含存储的整个设备，目的地不再需要相同的专用盘片驱动器。这个区别仍有接口、文件系统和软件条件，不能直接等同于任何机器都能读取。",
+      "design": "原代采用紧凑的随身机身及USB 3.2 Gen 2连接，原美国公告列出USB-C到C和C到A两种随附线缆，让接口安排参与携带组合。资料同时列出密码保护与AES 256位硬件加密，这是数据访问的功能，和机身耐环境能力属于不同问题。速度标称又要求兼容主机、相应线缆及UASP，接口名称不会独立决定所有文件的传输结果。容量档位提供不同存储空间，却不是三件用途完全不同的产品。展览把物理携带、连接与访问条件分开呈现，让观众能看到小机身之外仍要准备什么。",
+      "usage": "接入对应设备后，选择要保存或读取的内容，传输结束再核对文件，并按照主机流程结束连接。若使用密码保护，需要管理访问凭据及相应软件条件；把设备交给别人并不自动让对方获得受保护内容。大文件持续写入与零散文件读取是不同负载，Tom’s Hardware的原评测第一页介绍写入缓存以及缓存耗尽后的变化，不能只用最高标称速度概括两者。本条没有把未读的性能分页写成已经核实的测试平台或实测数字。对使用者而言，带走资料、确认传输和确保目的地能访问内容是一条连续的任务链。",
+      "significance": "T7把存储介质和连接接口收进一个可带走的机身。与Zip 100需要目的地具备对应驱动器的方式相比，携带物件和准备链路改变，主机端仍要满足接口与文件环境。Sean Webster的原代评测肯定便携性能和加密，并记录持续写入缓存与缺少IP等级等限制；评价应保留测试版本和容量条件。它的代表性是文件移动从更换介质走向带走整个读取单元。标称速度不是所有文件、所有主机和连续写入场景的承诺，便利仍与连接和实际负载配合。",
+      "limitations": "原厂的最高读写标称需要满足主机和连接条件，文件类型与写入负载又会影响表现，不能承诺每次复制都达到同一数值。原T7没有因此继承T7 Shield的耐环境特性，也不能因为具备加密就推定所有文件管理风险已经解决。媒体指出的缓存后降速属于该文的原代评测判断，本轮只核第一页，没有补造性能测试分页结果或所有容量的一致表现。美国实际可购日期是明确地区节点，不是全球同时首售证明。原代停止制造、停售和停止支持节点在本条未核定，后续新品出现也不能代替这些不同事实。",
+      "id": "66",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "name": "Portable SSD T7",
+      "brand": "Samsung",
+      "year": 2020,
+      "dateLabel": "2020-05-19（美国可购公告）",
+      "dateKind": "launch",
+      "regionVersion": "美国非Touch原T7；容量配色合并",
+      "category": "storage",
+      "categoryLabel": "数据存储",
+      "museumCategory": "storage",
+      "aliases": [
+        "Samsung Portable SSD T7"
+      ],
+      "tags": [
+        "数据存储",
+        "数据存储",
+        "2020年"
+      ],
+      "summary": "Samsung的二〇二〇年五月十九日美国公告明确原T7便携SSD已可购买。",
+      "features": [
+        "USB3.2Gen2便携SSD",
+        "密码与AES256硬件加密"
+      ],
+      "facts": [
+        {
+          "label": "版本与年份",
+          "value": "2020-05-19（美国可购公告）；美国非Touch原T7；容量配色合并",
+          "sourceIds": [
+            "CM150-S062"
+          ]
+        },
+        {
+          "label": "明确结构与任务",
+          "value": "USB3.2Gen2便携SSD；密码与AES256硬件加密",
+          "sourceIds": [
+            "CWC-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S062",
+        "CM150-S066",
+        "CWC-S012",
+        "CM150-S025",
+        "CM150-S026",
+        "CWC-S008"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S062",
+          "CM150-S066",
+          "CWC-S012"
+        ],
+        "design": [
+          "CM150-S062",
+          "CM150-S066",
+          "CWC-S012"
+        ],
+        "usage": [
+          "CM150-S062",
+          "CM150-S066",
+          "CWC-S012"
+        ],
+        "significance": [
+          "CM150-S062",
+          "CM150-S066",
+          "CWC-S012",
+          "CM150-S025",
+          "CM150-S026",
+          "CWC-S008"
+        ],
+        "limitations": [
+          "CM150-S062",
+          "CM150-S066",
+          "CWC-S012"
+        ],
+        "readerTakeaway": [
+          "CM150-S062",
+          "CM150-S066",
+          "CWC-S012",
+          "CM150-S025",
+          "CM150-S026",
+          "CWC-S008"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-tps-l2"
+      ],
+      "relatedModelProposals": [
+        "sony-tps-l2"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "computers",
+        "stageId": "computers-expanded-3",
+        "stageTitle": "存储、部件与当代计算",
+        "status": "既有冻结页面方案的策展位置"
+      },
+      "mediaOpinions": [
+        {
+          "media": "Tom's Hardware",
+          "author": "Sean Webster",
+          "articleDate": "2020-08-17",
+          "modelVersion": "T7非Touch；1TB性能页链接，本轮未读性能页",
+          "url": "https://www.tomshardware.com/reviews/samsung-t7-portable-ssd-review",
+          "praise": "作者认为移动存储速度与硬件加密有价值",
+          "shortcomings": "超过写缓存的大传输降速；无IP等级；作者批评三年保修",
+          "evaluationConditions": "第一页功能/规格与结论概述；标列500GB/1TB/2TB当时价格；测试平台未核",
+          "commercialDisclosure": "联盟佣金明示；样机来源未核",
+          "verificationDepth": "正文第一页，非全分页实测",
+          "sourceId": "CM150-S066",
+          "exactModelVersion": "T7非Touch；1TB性能页链接，本轮未读性能页",
+          "originalURL": "https://www.tomshardware.com/reviews/samsung-t7-portable-ssd-review"
+        }
+      ],
+      "awards": [],
+      "evidenceLimits": [
+        "原型号身份和明确结构可追溯；独立评价缺口见mediaOpinions，不强造媒体共识。",
+        "结束制造/停售/停止支持只采用明确事件，其余未核；配色容量不重复计数。"
+      ],
+      "publicImpactBoundary": "使用比较为策展解读；品牌宣传不等于独立测量、普遍体验或社会效果。",
+      "chineseCharactersInFiveSections": 941,
+      "deliveryPacket": "complete-wave-compute-03.json",
+      "readerTakeaway": "T7把存储介质和连接接口收进一个可带走的机身。与Zip 100需要目的地具备对应驱动器的方式相比，携带物件和准备链路改变，主机端仍要满足接口与文件环境。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "iomega-zip100",
+        "original40": false,
+        "sourceBase": "complete-batch-150-ready.json"
+      }
+    },
+    {
+      "slug": "ibm-thinkpad-701c",
+      "year": 1995,
+      "name": "ThinkPad 701C",
+      "brand": "IBM",
+      "category": "computing",
+      "categoryLabel": "个人计算",
+      "aliases": [
+        "IBM ThinkPad 701C",
+        "ThinkPad Butterfly",
+        "2630-UT5"
+      ],
+      "tags": [
+        "笔记本",
+        "可变形键盘",
+        "TrackPoint",
+        "美国",
+        "1990年代"
+      ],
+      "summary": "开盖时，两片键盘伸到机身两侧；合盖时，它们退回小机身。701C让携带尺寸与打字面积分开，也记录了机械巧思与更大屏幕路线之间的取舍。",
+      "context": "1995年，IBM把701C的键盘做成会移动的部件。美国UT5配置在三月可售，机身配10.4英寸屏幕；厂商回顾把它的问题说得很具体：小型笔记本要容纳足够大的键盘，而屏幕又限定了箱体轮廓。这里选取有原始配置记录的75MHz版本，避免将同系列不同屏幕和处理器拼成一台机器。与馆中的IBM PC及2006年MacBook并列，可以把观察焦点从软件与运算转向手、屏幕和行李空间之间的关系。便携并不只有减少重量一条路径，也可以重新分配设备在收纳和工作时占用的面积。",
+      "design": "701C的键盘分成两片，开盖时随机构运动向两侧展开，合盖时收回。IBM将这一结构归于John Karidis；原参考文件另列85键全尺寸键盘与TrackPoint III。设计把携带状态和打字状态分开：盖住屏幕时追求紧凑，开始工作时再取得手指需要的横向距离。指点杆位于键盘之中，使输入文字与移动指针保持在同一片操作区域。由此可见，机构、按键与指针设备共同组织了人的动作；展览应同时呈现展开和收起的状态，单看合上的黑色盒子会漏掉设计要解决的核心问题。",
+      "significance": "701C用开盖时伸展、合盖时收回的两片键盘，把携带宽度和打字面积分开处理。与MacBook 2006固定在机身内的键盘相比，前者让机械机构承担收纳任务，后者让键盘面积受机身轮廓约束。原维护与产品资料支持蝴蝶键盘动作，MoMA收藏记录支持该系列设计受到机构关注。收藏本身不证明某一配置的性能或所有人的使用体验；机械结构也增加部件与维护关系。它的代表性是一项清楚可见的取舍：保留熟悉的输入面积，改变把它装进行李的方法。",
+      "usage": "操作者掀开屏幕后，展开的键盘用于打字，TrackPoint用于指针操作。原参考文件还列出外置软驱与MultiPort II，后者为外接显示器、键盘及串并行设备提供连接；因此移动时的机身和桌面工作时的配套设备需要一起理解。一次办公过程既可以围绕笔记本本身展开，也可能在固定位置接入较大的输入与显示工具。待机、挂起和休眠是原文件区分的状态，说明合上盖、暂离机器和结束工作不是同一种动作。展品讲解可沿着开盖、输入、接入桌面设备和收纳的顺序，解释便携如何与原有办公习惯协商，而非只展示开合机构的表演。",
+      "limitations": "IBM回顾提到生产延迟，以及产品推出时笔记本屏幕已经变大；原始参考文件记载701C在1995年十二月撤售。大屏幕为机身带来更宽的边界，也会改变展开键盘是否必要这一前提。短暂的销售周期因此应与这种需求变化一起阅读，不能仅凭撤售推断键盘故障、使用失败或消费者拒绝。维护今天的旧机还需要另查实物机构和维修材料，本轮没有运行或耐久测试。它展示了精巧方案依赖具体约束：当约束改变，增加活动部件所换来的空间收益也可能减少；这是一项策展判断，不是对所有变形设备可靠性的结论。",
+      "dateLabel": "1995-03（美国2630-UT5可售）；1995-12撤售",
+      "features": [
+        "两片键盘随屏幕开合展开与收纳。",
+        "美国2630-UT5为75MHz、540MB配置；701C使用主动矩阵TFT。",
+        "TrackPoint III与MultiPort II连接移动机身和桌面设备。"
+      ],
+      "facts": [
+        {
+          "label": "美国配置",
+          "value": "ThinkPad 701C Type 2630-UT5，75MHz，540MB；1995年3月可售",
+          "sourceIds": [
+            "B:H15C"
+          ]
+        },
+        {
+          "label": "屏幕",
+          "value": "10.4英寸主动矩阵TFT，640×480；701CS的屏幕规格不混入",
+          "sourceIds": [
+            "B:H15C"
+          ]
+        },
+        {
+          "label": "键盘与指针",
+          "value": "85键全尺寸可展开键盘、TrackPoint III",
+          "sourceIds": [
+            "B:H15A",
+            "B:H15C"
+          ]
+        },
+        {
+          "label": "设计馆藏",
+          "value": "MoMA ThinkPad 701 Portable Computer，1995，馆藏112.1996；系列记录",
+          "sourceIds": [
+            "B:H15B"
+          ]
+        },
+        {
+          "label": "撤售",
+          "value": "1995年12月（原IBM参考文档）",
+          "sourceIds": [
+            "B:H15C"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "B:H15A",
+        "B:H15B",
+        "B:H15C",
+        "C:S30",
+        "C:TXM23B",
+        "C:TXM23A",
+        "C:S26",
+        "C:TXM20A",
+        "C:TXM20C",
+        "C:TXM20B",
+        "C:S18",
+        "C:TXM15A",
+        "C:TXM15B",
+        "C:S14",
+        "C:TXE12",
+        "C:TXE06",
+        "C:S15",
+        "C:TXE11",
+        "C:S11"
+      ],
+      "paragraphSources": {
+        "context": [
+          "B:H15A",
+          "B:H15C"
+        ],
+        "design": [
+          "B:H15A",
+          "B:H15C"
+        ],
+        "significance": [
+          "B:H15B",
+          "B:H15C",
+          "C:S30",
+          "C:TXM23B",
+          "C:TXM23A",
+          "C:S26",
+          "C:TXM20A",
+          "C:TXM20C",
+          "C:TXM20B",
+          "C:S18",
+          "C:TXM15A",
+          "C:TXM15B",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ],
+        "usage": [
+          "B:H15C"
+        ],
+        "limitations": [
+          "B:H15A",
+          "B:H15C"
+        ],
+        "readerTakeaway": [
+          "B:H15B",
+          "B:H15C",
+          "C:S30",
+          "C:TXM23B",
+          "C:TXM23A",
+          "C:S26",
+          "C:TXM20A",
+          "C:TXM20C",
+          "C:TXM20B",
+          "C:S18",
+          "C:TXM15A",
+          "C:TXM15B",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ]
+      },
+      "relatedSlugs": [
+        "ibm-pc-5150",
+        "macintosh-128k",
+        "macbook-2006"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-ready-photo-pending",
+      "id": "43",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [
+        "computers"
+      ],
+      "dateKind": "launch",
+      "regionVersion": "美国75MHz、540MB UT5；不混701CS被动矩阵屏或50MHz UT2",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "relatedModelProposals": [
+        "ibm-pc-5150",
+        "macintosh-128k",
+        "macbook-2006"
+      ],
+      "deferredRelatedSlugs": [],
+      "museumCategory": "computers",
+      "chineseCharactersInFiveSections": 934,
+      "deliveryPacket": "complete-batch-14.json",
+      "evidenceLimits": [],
+      "readerTakeaway": "701C用开盖时伸展、合盖时收回的两片键盘，把携带宽度和打字面积分开处理。与MacBook 2006固定在机身内的键盘相比，前者让机械机构承担收纳任务，后者让键盘面积受机身轮廓约束。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "macbook-2006",
+        "original40": false,
+        "sourceBase": "complete-batch-150-ready.json"
+      }
+    },
+    {
+      "id": "46",
+      "slug": "framework-laptop-13-2021",
+      "year": 2021,
+      "name": "Framework Laptop（首代13.5英寸／后称Laptop 13）",
+      "brand": "Framework",
+      "category": "computing",
+      "categoryLabel": "个人计算",
+      "aliases": [
+        "Framework Laptop",
+        "Framework Laptop 13",
+        "第十一代Intel首代"
+      ],
+      "tags": [
+        "可维修",
+        "模块化接口",
+        "便携计算"
+      ],
+      "summary": "可更换接口与内部部件，将维护和后续升级纳入一台便携电脑的使用过程。",
+      "context": "首代Framework Laptop于2021年公布并在7月开始交付，采用第十一代Intel处理器。它进入馆藏的理由，是把维修与升级放进日常笔记本的产品安排：购买一台电脑之后，使用者仍能更换部件、选择接口，并继续利用原有机身。TIME将其列入当年发明选品，说明这种安排得到编辑关注；本馆则把它放在便携计算的长期使用问题中理解。观众可以从同一台设备需要如何保养与更新出发，观察购买、操作和维护怎样成为连续的使用过程，而非只比较上市时的计算性能。",
+      "design": "铝制机身内，内存、存储和无线模块采用可拆换结构，四个Expansion Card槽让接口配置可以改变。屏幕边框以磁力固定，厂商还提供部件识别与操作指南。这些安排把通常藏在外壳内的维护入口组织成可寻找的部位。2022年iFixit实际将首代机的第十一代主板换成第十二代主板，提供了兼容升级的一手例子。这里要观察的结构关系，是新部件如何接回已有屏幕、输入盖与机身；展示首代时仍需保留其原有处理器和屏幕信息，避免把成功升级后的配置当作首发规格。",
+      "significance": "首代Framework把接口选择和内部部件更换组织成笔记本使用中的明确动作。与MacBook 2006通过既定端口连接外设的结构相比，可换扩展卡让用户按用途安排接口；维修指引与部件供给又决定这个入口能否长期发挥作用。原指南支持拆装路线，已发生的升级记录与设计奖分别支持后续行动和机构认可。它的代表性是将维护准备放进成品结构，而不是让可拆三个字自动代表寿命更长。用户仍要准备合适部件、遵守操作步骤，并承担更换与软件兼容条件。",
+      "usage": "预装版可以作为普通笔记本使用，DIY版则让购买者参与内存、存储和无线模块的安装，再完成系统与驱动配置。官方指南要求先阅读步骤和图片，输入盖翻开后仍连着触控板排线，细小天线接头也需要对准。这些细节说明可维修不等于所有操作都可凭直觉完成。接口卡用于连接所需外设，拆装则发生在故障或更新需求出现时。本馆用这些动作说明用户怎样从操作屏幕扩展到照管内部部件，强调指南和部件标识对参与维护的作用；本段并不是替代厂商手册的现场维修指令。",
+      "limitations": "维修入口需要与兼容零件、文档和供货同时成立，能够打开外壳并不保证任意第三方部件都能接入。指南特别提示排线和连接件的脆弱性，说明维护仍存在操作代价。iFixit的主板更换记录证明一次后续升级可行，不能替代多年故障率或每位用户的经验；本馆没有完成实机耐久及环境影响测试。Ars Technica的同期评测还把其一般计算用途与游戏性能分开。它应被理解为持续使用的一种设计路线，购买成本、零件可得性与个人技能仍需在具体地区和配置下评估。",
+      "dateLabel": "2021年7月首批出货（2月25日公布）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "可替换接口卡与插槽式部件形成维护入口。",
+        "2022年第三方实际将首代机升级到下一代主板。"
+      ],
+      "facts": [
+        {
+          "label": "首批交付",
+          "value": "2021年7月；品牌7月22日报道首批送达",
+          "sourceIds": [
+            "B:AMF02"
+          ]
+        },
+        {
+          "label": "首代结构",
+          "value": "13.5英寸3:2屏，第11代Intel，四个Expansion Card槽",
+          "sourceIds": [
+            "B:AMF01"
+          ]
+        },
+        {
+          "label": "后续升级记录",
+          "value": "2022年iFixit实际更换为第12代主板",
+          "sourceIds": [
+            "B:AMF04"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "可维修便携计算设备",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "B:AMF01",
+        "B:AMF02",
+        "B:AMF06",
+        "B:AMF03",
+        "B:AMF04",
+        "B:AMF05",
+        "B:AMF07",
+        "C:S30",
+        "C:TXM23B",
+        "C:TXM23A",
+        "C:S26",
+        "C:TXM20A",
+        "C:TXM20C",
+        "C:TXM20B",
+        "C:S18",
+        "C:TXM15A",
+        "C:TXM15B",
+        "C:S14",
+        "C:TXE12",
+        "C:TXE06",
+        "C:S15",
+        "C:TXE11",
+        "C:S11"
+      ],
+      "paragraphSources": {
+        "context": [
+          "B:AMF01",
+          "B:AMF02",
+          "B:AMF06"
+        ],
+        "design": [
+          "B:AMF01",
+          "B:AMF03",
+          "B:AMF04"
+        ],
+        "significance": [
+          "B:AMF04",
+          "B:AMF05",
+          "C:S30",
+          "C:TXM23B",
+          "C:TXM23A",
+          "C:S26",
+          "C:TXM20A",
+          "C:TXM20C",
+          "C:TXM20B",
+          "C:S18",
+          "C:TXM15A",
+          "C:TXM15B",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ],
+        "usage": [
+          "B:AMF03"
+        ],
+        "limitations": [
+          "B:AMF03",
+          "B:AMF04",
+          "B:AMF07"
+        ],
+        "readerTakeaway": [
+          "B:AMF04",
+          "B:AMF05",
+          "C:S30",
+          "C:TXM23B",
+          "C:TXM23A",
+          "C:S26",
+          "C:TXM20A",
+          "C:TXM20C",
+          "C:TXM20B",
+          "C:S18",
+          "C:TXM15A",
+          "C:TXM15B",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ]
+      },
+      "heroMediaId": null,
+      "videoIds": [],
+      "relatedSlugs": [
+        "macbook-2006",
+        "raspberry-pi-model-b"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-rights-pending",
+      "chronicleIds": [
+        "computers"
+      ],
+      "dateKind": "首批出货",
+      "regionVersion": "2021年第11代Intel Core；美国5月、加拿大6月开放预售，地区实际收货另核；DIY与预装版分列说明",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "relatedModelProposals": [
+        "macbook-2006",
+        "raspberry-pi-model-b"
+      ],
+      "deferredRelatedSlugs": [],
+      "museumCategory": "computers",
+      "chineseCharactersInFiveSections": 906,
+      "deliveryPacket": "complete-batch-14.json",
+      "evidenceLimits": [],
+      "readerTakeaway": "首代Framework把接口选择和内部部件更换组织成笔记本使用中的明确动作。与MacBook 2006通过既定端口连接外设的结构相比，可换扩展卡让用户按用途安排接口；维修指引与部件供给又决定这个入口能否长期发挥作用。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "macbook-2006",
+        "original40": false,
+        "sourceBase": "complete-batch-150-ready.json"
+      }
+    },
+    {
+      "id": "45",
+      "slug": "logitech-mx-master-3",
+      "year": 2019,
+      "name": "MX Master 3",
+      "brand": "Logitech",
+      "category": "computing",
+      "categoryLabel": "个人计算",
+      "aliases": [
+        "Logitech MX Master 3",
+        "罗技MX Master 3"
+      ],
+      "tags": [
+        "输入设备",
+        "办公动作",
+        "多设备"
+      ],
+      "summary": "纵横滚轮、软件设置与多机切换，把常见桌面动作组织在右手可触及的位置。",
+      "context": "Logitech在2019年9月公布MX Master 3，面向需要较多桌面操作的使用者，产品本身是无线鼠标。本馆选它，是为了让计算设备的故事包含手如何指向、滚动与切换工作对象。现有馆藏中，IBM PC与Macintosh分别提供理解桌面计算和图形界面的入口；这件输入设备继续追问，人们面对更复杂的软件与多台电脑时，哪些动作被安排在手边。这里不把高功能数量视为自然进步，而观察功能是否围绕明确任务组织，使主机以外的外围设备也能成为解释工作习惯变化的展品。",
+      "design": "电磁滚轮是厂商公布资料中的关键结构，主滚轮可以在有段落的滚动与自由滚动之间切换。拇指侧另有横向滚轮、按键与手势操作入口，机身轮廓面向右手握持。Red Dot的2020原始记录展示同一型号及普通产品设计奖，评委意见体现设计评价，不能当作缓解手腕问题的医学证据。策展时可以让观众从一项动作对应一个控制部位开始读懂外形：不同滚动方向与切换动作被放在不同手指可触及的位置。这种安排也让外形与软件设置紧密相关，脱离具体任务就难以判断每个按钮的价值。",
+      "significance": "MX Master 3把纵向滚动、横向移动和可设置的快捷动作放到右手附近。与Macintosh 128K以单键鼠标组织指针与菜单的方式相比，它为更复杂的桌面任务增加专门控制，减少某些反复移动，也带来设置与记忆成本。原指南支持控制位置和多机操作，设计奖记录支持当时的机构关注。它的代表性是主机之外的输入部件怎样参与工作流程：更多按钮只有与具体应用和习惯配合，才可能成为便利；配置、兼容与握持方式仍会影响结果。",
+      "usage": "用户可通过随附Unifying接收器或蓝牙建立无线连接，Easy-Switch用于在已配对的设备间选择。软件允许为应用安排按钮和滚轮用途；Flow跨电脑功能需要两台电脑各自安装相应软件，不能仅靠鼠标硬件实现。USB-C接口用于充电，不能据它推断有线传输指针数据。日常使用因此包括连接、选机、配置与滚动几个环节。本馆以这些动作说明多设备桌面如何被一个输入工具串起，同时保留软件的参与条件。当前系统与软件兼容情况需要再次查询支持资料，本段采用的是原型号功能边界，不承诺旧系统仍获得支持。",
+      "limitations": "较大的右手机身与较高功能密度都有适用范围。RTINGS对该型号的一手评测指出，手型影响握持，较大较重的办公取向也需要与快速游戏动作分别评价。可配置按钮的便利依赖使用者愿意设置和记住用途；多设备功能还需要匹配的连接与软件环境。无线设备仍要充电，充电口存在也没有提供有线数据连接。本馆没有进行人体工学或长时间使用试验，因此不宣称它能预防劳损或适合每个人。它的局限帮助观众看到输入设计的不同目标：精细工作、移动速度、握持舒适与功能数量之间需要作具体选择。",
+      "dateLabel": "2019年9月4日公布（销售月份为当时计划）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "电磁主滚轮、拇指横向滚轮与软件配置形成动作分工。",
+        "接收器或蓝牙进行无线连接，USB-C仅用于充电。"
+      ],
+      "facts": [
+        {
+          "label": "公布",
+          "value": "2019年9月4日；当时计划9月网络与10月门店销售",
+          "sourceIds": [
+            "B:AMM01"
+          ]
+        },
+        {
+          "label": "连接",
+          "value": "Unifying或蓝牙；最多配对三设备；USB-C充电",
+          "sourceIds": [
+            "B:AMM02"
+          ]
+        },
+        {
+          "label": "原始设计奖",
+          "value": "Red Dot Product Design 2020普通奖",
+          "sourceIds": [
+            "B:AMM03"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "办公输入设备",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "B:AMM01",
+        "B:AMM02",
+        "B:AMM03",
+        "B:AMM04",
+        "C:S18",
+        "C:TXM15A",
+        "C:TXM15B",
+        "C:S14",
+        "C:TXE12",
+        "C:TXE06",
+        "C:S15",
+        "C:TXE11",
+        "C:S11"
+      ],
+      "paragraphSources": {
+        "context": [
+          "B:AMM01"
+        ],
+        "design": [
+          "B:AMM01",
+          "B:AMM02",
+          "B:AMM03"
+        ],
+        "significance": [
+          "B:AMM02",
+          "B:AMM03",
+          "C:S18",
+          "C:TXM15A",
+          "C:TXM15B",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ],
+        "usage": [
+          "B:AMM02"
+        ],
+        "limitations": [
+          "B:AMM02",
+          "B:AMM04"
+        ],
+        "readerTakeaway": [
+          "B:AMM02",
+          "B:AMM03",
+          "C:S18",
+          "C:TXM15A",
+          "C:TXM15B",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ]
+      },
+      "heroMediaId": null,
+      "videoIds": [],
+      "relatedSlugs": [
+        "macintosh-128k",
+        "ibm-pc-5150"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-rights-pending",
+      "chronicleIds": [],
+      "dateKind": "产品公布",
+      "regionVersion": "2019原版右手办公鼠标；Unifying，不是2022 MX Master 3S或Mac专版",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "relatedModelProposals": [
+        "macintosh-128k",
+        "ibm-pc-5150"
+      ],
+      "deferredRelatedSlugs": [],
+      "museumCategory": "input-printing",
+      "chineseCharactersInFiveSections": 969,
+      "deliveryPacket": "complete-batch-14.json",
+      "evidenceLimits": [],
+      "readerTakeaway": "MX Master 3把纵向滚动、横向移动和可设置的快捷动作放到右手附近。与Macintosh 128K以单键鼠标组织指针与菜单的方式相比，它为更复杂的桌面任务增加专门控制，减少某些反复移动，也带来设置与记忆成本。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "macintosh-128k",
+        "original40": false,
+        "sourceBase": "complete-batch-150-ready.json"
+      }
+    },
+    {
+      "id": "47",
+      "slug": "osborne-1",
+      "year": 1981,
+      "name": "Osborne 1",
+      "brand": "Osborne",
+      "category": "computing",
+      "categoryLabel": "计算设备",
+      "aliases": [
+        "Osborne 1"
+      ],
+      "tags": [
+        "可携计算机",
+        "1981"
+      ],
+      "summary": "把键盘、存储和显示一起带走的整套电脑。Osborne 1使便携成为具体的搬运任务，也暴露重量、空间和原操作资料的边界。",
+      "context": "Osborne 1在一九八一年进入市场。科学博物馆集团把发布月份记为四月，计算机历史博物馆的对象记录确认推出年份。这里选的是原代机器，而不是随后同品牌的另一款产品。两家机构的材料也让“便携”有了具体尺度：这是一台可以搬动的整套电脑。策展时，可把它放在固定桌面和后来的电池电脑之间，追问使用者希望把哪些工作带到另一个地点。迁移办公任务，需要考虑的并不只有主机大小，还包括输入、看见结果、读取文件以及可用的软件。这个问题有助于理解不同年代为何给便携赋予不同条件；它不是一条体积越来越小就必然越来越适合所有工作的直线。",
+      "design": "整机把全尺寸键盘、两台软盘驱动器和显示装置组合起来。科学博物馆的藏品重十点七公斤；另一家博物馆写为二十三点五磅，两者量级相符，但展览仍应注明实物与测量口径。策展解读是，设计面对的是把一个工作环境打包的问题：使用者携带机器，也携带了输入和存储的位置。它不像只带走数据介质那样仍要寻找兼容主机。与此同时，集中在一件物体中，并不会让重量和工作空间消失。让观众观察机身和键盘如何容纳这些任务，比把某个数字称为轻巧更有解释力。这里不从档案照片推断内部零件的拆装顺序，也不把收藏样机外观当所有生产修订的统一样子。",
+      "usage": "博物馆记录说明机器配有字处理与会计软件。这让代表性任务可以具体到输入文档、处理账目，再将文件随机器带到另一处。展览可以请观众设想同一份文本如何从办公室延续到家里：是否需要搬主机、显示器和存储装置，到了目的地又需要多少摆放空间。这样的设问是在资料支持的配置基础上的使用情境解读，不是当年所有使用者的调查结论。本轮没有取得原操作手册正文，因此不写开机、插盘、保存文件或供电的逐步指令，避免把熟悉的后来电脑习惯倒灌到旧机器。要提供复原操作演示，仍需要针对指定硬件与软件版本核对手册，并在可用样机上另行验证。",
+      "significance": "Osborne 1把键盘、显示与存储组织成可以一起搬走的整套电脑。与IBM 5150按桌面配置连接独立设备的方式相比，它减少转移工作地点时逐件准备的需要，却把重量和小屏幕带进搬运任务。博物馆资料支持整合形态、配置与年代；软件随机器取得说明准备条件，不直接证明工作效率。它的代表性是便携最初可以指搬到另一处再工作：供电、放置和阅读条件仍须满足。把整套设备带走，与在路上持续操作，是对产品提出不同要求的两件事。",
+      "limitations": "本轮可核的是原代型号、年份与基本配置，不能代表所有地区电源、键盘布局或后来的主板修订。公司层面的资料还记录一九八三年破产，这可以作为后续商业背景线索，却不应被写成每台机器在那一年停止工作，也不证明用户文件当即不可使用。展览的局限段保留这种区分：组织存续、软件可得和具体设备状态是不同的问题。本轮没有进行通电、修复、兼容测试或长期使用调查，没有下载图片。两家博物馆图片有各自版权与授权条件，网页可读不等于已经获得本站转载许可。因此内容以文字回退交付，未来补图须针对明确的图片和授权核对，不用外观相近的后代机器替代。",
+      "dateLabel": "1981-04（SMG发布月；CHM核年份）",
+      "dateKind": "launch",
+      "regionVersion": "美国原代；博物馆A08887辅助",
+      "features": [
+        "原代整套便携电脑",
+        "双软盘与全尺寸键盘",
+        "1981发布"
+      ],
+      "facts": [
+        {
+          "label": "核准事实",
+          "value": "1981年推出；键盘、双软盘及64K内存",
+          "sourceIds": [
+            "CM150-S009",
+            "CM150-S010",
+            "CM150-S011"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S009",
+        "CM150-S010",
+        "CM150-S011",
+        "C:S14",
+        "C:TXE12",
+        "C:TXE06",
+        "C:S15",
+        "C:TXE11",
+        "C:S11"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S009",
+          "CM150-S010",
+          "CM150-S011"
+        ],
+        "design": [
+          "CM150-S009",
+          "CM150-S010",
+          "CM150-S011"
+        ],
+        "usage": [
+          "CM150-S009",
+          "CM150-S010",
+          "CM150-S011"
+        ],
+        "significance": [
+          "CM150-S009",
+          "CM150-S010",
+          "CM150-S011",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ],
+        "limitations": [
+          "CM150-S009",
+          "CM150-S010",
+          "CM150-S011"
+        ],
+        "readerTakeaway": [
+          "CM150-S009",
+          "CM150-S010",
+          "CM150-S011",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ]
+      },
+      "relatedSlugs": [
+        "ibm-pc-5150",
+        "macbook-2006"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-ready-no-media-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "proposedCategory": "计算设备",
+        "proposedStage": "输出或移动计算的实际使用条件",
+        "status": "协调统一编年映射，尚未写网站编年史"
+      },
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "relatedModelProposals": [
+        "ibm-pc-5150",
+        "macbook-2006"
+      ],
+      "deferredRelatedSlugs": [],
+      "museumCategory": "computers",
+      "chineseCharactersInFiveSections": 1153,
+      "deliveryPacket": "complete-batch-14.json",
+      "evidenceLimits": [],
+      "readerTakeaway": "Osborne 1把键盘、显示与存储组织成可以一起搬走的整套电脑。与IBM 5150按桌面配置连接独立设备的方式相比，它减少转移工作地点时逐件准备的需要，却把重量和小屏幕带进搬运任务。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "ibm-pc-5150",
+        "original40": false,
+        "sourceBase": "complete-batch-150-ready.json"
+      }
+    },
+    {
+      "id": "48",
+      "slug": "epson-ep101",
+      "year": 1968,
+      "name": "EP-101",
+      "brand": "Shinshu Seiki / Suwa Seikosha",
+      "category": "computing",
+      "categoryLabel": "输入打印与创作",
+      "aliases": [
+        "EP-101"
+      ],
+      "tags": [
+        "计算器打印组件",
+        "1968"
+      ],
+      "summary": "为电子计算器提供纸面数字与符号的小型打印组件。EP-101让馆藏从终端成品走向组成工作方式的电气部件。",
+      "context": "EP-101在一九六八年九月开始生产销售。原厂的历史页和日本机械学会的独立条目在这项事件上相互对应。它的对象身份是一种小型打印组件，面向电子桌面计算器制造商供应，而不是后来常见的完整个人电脑打印机。这样的选品可以把计算器和输出设备之间的联系带入馆藏：当结果离开显示位置，计算就可能留下可携带的纸面记录。策展关注的是信息如何成为另一种物件，避免把后来的办公打印观念直接套到当时。电子设备也并不总以面向消费者的成品进入生活，有时一件部件先进入别的机器，使用者接触的是组合后的工作方式。",
+      "design": "机械学会把它的打印方式描述为飞鼓式，数字与符号的字模在纸上留下痕迹。原厂规格列出二十一列行式打印、黑红色带和直流供电。这里保留有限而明确的功能信息，不把它写成能自由排版照片的现代打印设备。策展解读是，结构要围绕所需输出内容安排：计算结果通常由数字、符号和行序构成，组件可以围绕这一任务做得紧凑。它与后来的点阵机形成有意义的对照，前者围绕已有字模与有限字符，后者通过点组合字符和图形。这个对照说明任务与发声、运动、材料之间的关系，并不把小体积自动等同于每一种环境中的高可靠性。",
+      "usage": "学会条目明确说产品以OEM方式供给国内外计算器厂家。使用场景因此有两层：制造商要把打印组件纳入自己的电子设备，而终端使用者则在计算或测量流程中得到纸面输出。展览可以让观众从一串结果出发，思考显示后抄写与直接打印分别把核对工作留在哪里。这里的任务设想是策展解释，没有引入未经调查的差错减少百分比，也不宣称所有装有组件的机器采用相同按键。组件如何接收控制信号、色带怎样装入以及纸张如何维护，需要相应整机和组件手册才能确定。本轮读取的是历史与机构条目，因而不提供接线、修理或复原操作指令。",
+      "significance": "EP-101让电子计算结果获得可保存的纸面数字与符号记录，它作为小型打印组件进入设备，而不是单独承担完整桌面文档任务。与初代LaserJet将文字、图形和页面安排输出到纸上的方式相比，打印对象、整机配合和供应形态都有区别。厂商历史和机械学会记录支持原组件结构与技术位置。它的代表性是最终体验也由较小部件形成：结果离开瞬时显示后，可以被留存与交接；配套计算器怎样送入数据、怎样组织纸带，仍要由确切整机资料说明。",
+      "limitations": "“数字打印”在此指针对数字与符号的打印任务，不能借现代词义将其扩大为通用图像输出。厂商历史页中有关耐久和领先性的宣传没有被转换为独立实测结论；学会条目的生产数量也未用来推断每个国家的使用普及程度。本轮两份资料支持身份、日期与基本用途，全球销售分布、使用者口碑和维修寿命仍未研究。原始品牌组织名称与后来的Epson品牌需分开表达，避免把一九六八年的产品贴上后来才启用的品牌身份。没有下载原厂或机构照片，也未导入视频。文字回退保留明确型号和事件，后续补图须检查实物是否为EP-101，并逐张记录作者、许可及允许的使用方式。",
+      "dateLabel": "1968-09（生产并销售）",
+      "dateKind": "launch",
+      "regionVersion": "OEM打印组件；Epson后来的品牌名",
+      "features": [
+        "OEM计算器打印组件",
+        "飞鼓式数字符号输出",
+        "1968年9月生产销售"
+      ],
+      "facts": [
+        {
+          "label": "核准事实",
+          "value": "1968年9月生产销售，飞鼓式数字符号打印，OEM供计算器厂",
+          "sourceIds": [
+            "CM150-S043",
+            "CM150-S044",
+            "CM150-S013"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S043",
+        "CM150-S044",
+        "CM150-S047",
+        "CM150-S048",
+        "CWC-S006"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S043",
+          "CM150-S044"
+        ],
+        "design": [
+          "CM150-S043",
+          "CM150-S044"
+        ],
+        "usage": [
+          "CM150-S043",
+          "CM150-S044"
+        ],
+        "significance": [
+          "CM150-S043",
+          "CM150-S044",
+          "CM150-S047",
+          "CM150-S048",
+          "CWC-S006"
+        ],
+        "limitations": [
+          "CM150-S043",
+          "CM150-S044"
+        ],
+        "readerTakeaway": [
+          "CM150-S043",
+          "CM150-S044",
+          "CM150-S047",
+          "CM150-S048",
+          "CWC-S006"
+        ]
+      },
+      "relatedSlugs": [
+        "hp-35",
+        "ibm-pc-5150"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-ready-no-media-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "proposedCategory": "输入打印与创作",
+        "proposedStage": "输出或移动计算的实际使用条件",
+        "status": "协调统一编年映射，尚未写网站编年史"
+      },
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "relatedModelProposals": [
+        "hp-35",
+        "ibm-pc-5150"
+      ],
+      "deferredRelatedSlugs": [],
+      "museumCategory": "input-printing",
+      "chineseCharactersInFiveSections": 1118,
+      "deliveryPacket": "complete-batch-14.json",
+      "evidenceLimits": [],
+      "readerTakeaway": "EP-101让电子计算结果获得可保存的纸面数字与符号记录，它作为小型打印组件进入设备，而不是单独承担完整桌面文档任务。与初代LaserJet将文字、图形和页面安排输出到纸上的方式相比，打印对象、整机配合和供应形态都有区别。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "hp-laserjet-1984",
+        "original40": false,
+        "sourceBase": "complete-batch-150-ready.json"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "B:AMF01",
+      "title": "Introducing the Framework Laptop",
+      "publisher": "Framework",
+      "url": "https://frame.work/blog/introducing-the-framework-laptop",
+      "publishedOn": "2021-02-25",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "2021年原始公布；第11代Intel、13.5英寸3:2屏、四个扩展卡槽、可替换部件及DIY版本。网页导航现含后续产品，未将其规格归给本件。 原公告正文另核铝制壳体、磁吸边框与部件QR码通向指南/零件商店；这些是结构与文档安排，不证明实际寿命或减排效果。",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "原2021-02-25公告正文；主整合重读材料/磁吸边框/QR标识段落，排除当前导航的后代规格",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "2021年原始公布；第11代Intel、13.5英寸3:2屏、四个扩展卡槽、可替换部件及DIY版本。网页导航现含后续产品，未将其规格归给本件。 原公告正文另核铝制壳体、磁吸边框与部件QR码通向指南/零件商店；这些是结构与文档安排，不证明实际寿命或减排效果。",
+      "verification": "原2021-02-25公告正文；主整合重读材料/磁吸边框/QR标识段落，排除当前导航的后代规格；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMF01",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2021年原始公布；第11代Intel、13.5英寸3:2屏、四个扩展卡槽、可替换部件及DIY版本。网页导航现含后续产品，未将其规格归给本件。 原公告正文另核铝制壳体、磁吸边框与部件QR码通向指南/零件商店；这些是结构与文档安排，不证明实际寿命或减排效果。",
+          "verificationMethod": "原2021-02-25公告正文；主整合重读材料/磁吸边框/QR标识段落，排除当前导航的后代规格",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:AMF02",
+      "title": "The Framework Laptop is now shipping, and press reviews are up!",
+      "publisher": "Framework",
+      "url": "https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews",
+      "publishedOn": "2021-07-22",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "正文称首批订单当日送达、7月批次正在出货；所引媒体好评为品牌筛选，未作为独立来源。",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "原厂2021-07-22交付公告正文所述首批送达和批次，不将品牌筛选评测当独立意见",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "正文称首批订单当日送达、7月批次正在出货；所引媒体好评为品牌筛选，未作为独立来源。",
+      "verification": "原厂2021-07-22交付公告正文所述首批送达和批次，不将品牌筛选评测当独立意见；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMF02",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "正文称首批订单当日送达、7月批次正在出货；所引媒体好评为品牌筛选，未作为独立来源。",
+          "verificationMethod": "原厂2021-07-22交付公告正文所述首批送达和批次，不将品牌筛选评测当独立意见",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:AMF03",
+      "title": "Framework Laptop 13 (11th Gen and 12th Gen Intel Core) DIY Edition Quick Start Guide",
+      "publisher": "Framework Guides",
+      "url": "https://guides.frame.work/Guide/Framework+Laptop+13+(11th+Gen+and+12th+Gen+Intel+Core)+DIY+Edition+Quick+Start+Guide/57",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "适用第11与12代Intel；组装内存、SSD、无线网卡、输入盖排线及驱动提示。可见2023-11-02修订及未发布Release提示，不能称2021年原版说明书。",
+      "sourceType": "厂商操作指南",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "官方维修/DIY指南指定步骤和版本说明；现版本覆盖第11/12代，不称2021原版手册",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "适用第11与12代Intel；组装内存、SSD、无线网卡、输入盖排线及驱动提示。可见2023-11-02修订及未发布Release提示，不能称2021年原版说明书。",
+      "verification": "官方维修/DIY指南指定步骤和版本说明；现版本覆盖第11/12代，不称2021原版手册；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMF03",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "适用第11与12代Intel；组装内存、SSD、无线网卡、输入盖排线及驱动提示。可见2023-11-02修订及未发布Release提示，不能称2021年原版说明书。",
+          "verificationMethod": "官方维修/DIY指南指定步骤和版本说明；现版本覆盖第11/12代，不称2021原版手册",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:AMF04",
+      "title": "Framework Laptop—A Framework For A Repairable Future",
+      "publisher": "iFixit",
+      "url": "https://www.ifixit.com/News/63257/framework-laptop-a-framework-for-a-repairable-future",
+      "publishedOn": "2022-08-04",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "作者实际将11代i7主板换为12代i5-1240P，并更换上盖；核实后续兼容升级已发生，不能据此将2022处理器写进2021本件。",
+      "sourceType": "独立机构实操及观点",
+      "independence": "非Framework作者；iFixit从事维修工具与零件销售，持维修倡议立场",
+      "commercialDisclosure": "页面有自营工具零件商城；该篇是否收取品牌报酬未核实",
+      "verificationMethod": "第三方实际升级记录的正文；仅此样机及替换过程",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "作者实际将11代i7主板换为12代i5-1240P，并更换上盖；核实后续兼容升级已发生，不能据此将2022处理器写进2021本件。",
+      "verification": "第三方实际升级记录的正文；仅此样机及替换过程；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMF04",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "作者实际将11代i7主板换为12代i5-1240P，并更换上盖；核实后续兼容升级已发生，不能据此将2022处理器写进2021本件。",
+          "verificationMethod": "第三方实际升级记录的正文；仅此样机及替换过程",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "非Framework作者；iFixit从事维修工具与零件销售，持维修倡议立场",
+          "commercialDisclosure": "页面有自营工具零件商城；该篇是否收取品牌报酬未核实",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:AMF05",
+      "title": "Framework Laptop",
+      "publisher": "Red Dot",
+      "url": "https://www.red-dot.org/project/framework-laptop-55668",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原数据库Product Design 2022；型号Framework Laptop；标识Red Dot: Best of the Best。评委赞语属于设计评价。",
+      "sourceType": "工业设计奖原始数据库",
+      "independence": "评奖机构原始记录；不是独立性能试验",
+      "commercialDisclosure": "评奖体系存在参赛和推广商业关系；本页面未核实具体费用",
+      "verificationMethod": "Red Dot具体项目原页面型号、2022产品设计及Best of the Best标识；只读复核再次打开确认",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "原数据库Product Design 2022；型号Framework Laptop；标识Red Dot: Best of the Best。评委赞语属于设计评价。",
+      "verification": "Red Dot具体项目原页面型号、2022产品设计及Best of the Best标识；只读复核再次打开确认；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMF05",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "原数据库Product Design 2022；型号Framework Laptop；标识Red Dot: Best of the Best。评委赞语属于设计评价。",
+          "verificationMethod": "Red Dot具体项目原页面型号、2022产品设计及Best of the Best标识；只读复核再次打开确认",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "评奖机构原始记录；不是独立性能试验",
+          "commercialDisclosure": "评奖体系存在参赛和推广商业关系；本页面未核实具体费用",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:AMF06",
+      "title": "A Notebook You Can Repair: Framework Laptop — Best Inventions 2021",
+      "publisher": "TIME",
+      "url": "https://time.com/collections/best-inventions-2021/6112625/framework-laptop/",
+      "publishedOn": "2021-11-10",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "TIME Best Inventions 2021的Framework Laptop独立年度条目已读；结尾Don Steinberg署名，页面抬头TIME Staff；含当时价格与佣金披露。未复现年度目录类别，不以“消费者电子”为已核TIME类别；不是技术测试或设计奖等级。",
+      "sourceType": "媒体年度编辑评选",
+      "independence": "独立媒体编辑条目；不是品牌新闻稿",
+      "commercialDisclosure": "含Buy Now及站级可能获得商品链接佣金披露；单篇付费合作未见，未核实",
+      "verificationMethod": "研究者及只读复核已读原年度条目、署名和佣金披露；主整合当前再次访问跳至tollbit，不声称本次刷新通读",
+      "limits": "年度编辑选择的观点范围；本包不采用当时价格数值或当前售价；主整合再次访问返回tollbit，由原研究和只读复核的指定正文核查支持。",
+      "supports": "TIME Best Inventions 2021的Framework Laptop独立年度条目已读；结尾Don Steinberg署名，页面抬头TIME Staff；含当时价格与佣金披露。未复现年度目录类别，不以“消费者电子”为已核TIME类别；不是技术测试或设计奖等级。",
+      "verification": "研究者及只读复核已读原年度条目、署名和佣金披露；主整合当前再次访问跳至tollbit，不声称本次刷新通读；年度编辑选择的观点范围；本包不采用当时价格数值或当前售价；主整合再次访问返回tollbit，由原研究和只读复核的指定正文核查支持。",
+      "originalId": "AMF06",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "TIME Best Inventions 2021的Framework Laptop独立年度条目已读；结尾Don Steinberg署名，页面抬头TIME Staff；含当时价格与佣金披露。未复现年度目录类别，不以“消费者电子”为已核TIME类别；不是技术测试或设计奖等级。",
+          "verificationMethod": "研究者及只读复核已读原年度条目、署名和佣金披露；主整合当前再次访问跳至tollbit，不声称本次刷新通读",
+          "limits": "年度编辑选择的观点范围；本包不采用当时价格数值或当前售价；主整合再次访问返回tollbit，由原研究和只读复核的指定正文核查支持。",
+          "independence": "独立媒体编辑条目；不是品牌新闻稿",
+          "commercialDisclosure": "含Buy Now及站级可能获得商品链接佣金披露；单篇付费合作未见，未核实",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:AMF07",
+      "title": "Framework’s new lightweight modular laptop delivers on its promises",
+      "publisher": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2021/07/frameworks-new-lightweight-modular-laptop-delivers-on-its-promises/",
+      "publishedOn": "2021-07-27",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "Jim Salter于2021-07-27对i7-1185G7、32GiB、1TB SSD首代样机作第一手评测；Performance (gaming)单列集成Iris Xe与独显游戏笔记本的比较，普通计算与游戏用途不能合并判断。只采用这一用途边界，不外推性能数值、所有配置或长期可靠性。",
+      "sourceType": "媒体单件评测",
+      "independence": "媒体作者Jim Salter的一手评测",
+      "commercialDisclosure": "该篇赞助、联盟链接及样机关系未完整核实",
+      "verificationMethod": "2021 Jim Salter原始样机评测正文；主整合重读测试配置与Performance (gaming)章节",
+      "limits": "单件首代i7样机及当时系统/测试条件；样机关系和该篇赞助/联盟披露未完整核实；本文不是年度奖或群体寿命证据。",
+      "supports": "Jim Salter于2021-07-27对i7-1185G7、32GiB、1TB SSD首代样机作第一手评测；Performance (gaming)单列集成Iris Xe与独显游戏笔记本的比较，普通计算与游戏用途不能合并判断。只采用这一用途边界，不外推性能数值、所有配置或长期可靠性。",
+      "verification": "2021 Jim Salter原始样机评测正文；主整合重读测试配置与Performance (gaming)章节；单件首代i7样机及当时系统/测试条件；样机关系和该篇赞助/联盟披露未完整核实；本文不是年度奖或群体寿命证据。",
+      "originalId": "AMF07",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "Jim Salter于2021-07-27对i7-1185G7、32GiB、1TB SSD首代样机作第一手评测；Performance (gaming)单列集成Iris Xe与独显游戏笔记本的比较，普通计算与游戏用途不能合并判断。只采用这一用途边界，不外推性能数值、所有配置或长期可靠性。",
+          "verificationMethod": "2021 Jim Salter原始样机评测正文；主整合重读测试配置与Performance (gaming)章节",
+          "limits": "单件首代i7样机及当时系统/测试条件；样机关系和该篇赞助/联盟披露未完整核实；本文不是年度奖或群体寿命证据。",
+          "independence": "媒体作者Jim Salter的一手评测",
+          "commercialDisclosure": "该篇赞助、联盟链接及样机关系未完整核实",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:AMM01",
+      "title": "Logitech Enables Advanced Users to Achieve Peak Performance with MX Master 3 and MX Keys",
+      "publisher": "Logitech",
+      "url": "https://news.logitech.com/press-releases/news-details/2019/Logitech-Enables-Advanced-Users-to-Achieve-Peak-Performance-with-MX-Master-3-and-MX-Keys/default.aspx",
+      "publishedOn": "2019-09-04",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "2019-09-04公告原版MX Master 3；电磁滚轮、4000 DPI、USB-C充电；9月网络销售、10月门店为当时计划，未用计划代替实际零售证据。",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "2019原始品牌公布稿指定型号、日期和销售计划字段",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "2019-09-04公告原版MX Master 3；电磁滚轮、4000 DPI、USB-C充电；9月网络销售、10月门店为当时计划，未用计划代替实际零售证据。",
+      "verification": "2019原始品牌公布稿指定型号、日期和销售计划字段；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMM01",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2019-09-04公告原版MX Master 3；电磁滚轮、4000 DPI、USB-C充电；9月网络销售、10月门店为当时计划，未用计划代替实际零售证据。",
+          "verificationMethod": "2019原始品牌公布稿指定型号、日期和销售计划字段",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:AMM02",
+      "title": "Getting Started — MX Master 3",
+      "publisher": "Logitech Support",
+      "url": "https://support.logi.com/hc/en-gb/articles/360035271133-Getting-Started-MX-Master-3",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原版MX Master 3：Unifying接收器/蓝牙无线连接、三设备Easy-Switch、棘轮/自由滚动、拇指轮、软件设置、Flow须两机安装软件；USB-C为充电。历史软件说明不能保证当前OS兼容性。",
+      "sourceType": "厂商操作指南",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "官方原型号入门支持页中的连接、切换、滚轮、Flow与充电条件；不承诺2026系统支持",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "原版MX Master 3：Unifying接收器/蓝牙无线连接、三设备Easy-Switch、棘轮/自由滚动、拇指轮、软件设置、Flow须两机安装软件；USB-C为充电。历史软件说明不能保证当前OS兼容性。",
+      "verification": "官方原型号入门支持页中的连接、切换、滚轮、Flow与充电条件；不承诺2026系统支持；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMM02",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "原版MX Master 3：Unifying接收器/蓝牙无线连接、三设备Easy-Switch、棘轮/自由滚动、拇指轮、软件设置、Flow须两机安装软件；USB-C为充电。历史软件说明不能保证当前OS兼容性。",
+          "verificationMethod": "官方原型号入门支持页中的连接、切换、滚轮、Flow与充电条件；不承诺2026系统支持",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:AMM03",
+      "title": "Logitech MX Master 3",
+      "publisher": "Red Dot",
+      "url": "https://www.red-dot.org/project/logitech-mx-master-3-46382",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "Product Design 2020；普通Red Dot标识；产品不是3S，不把鼠标包装或家族其他型号奖项转给本件。",
+      "sourceType": "工业设计奖原始数据库",
+      "independence": "评奖机构记录；评委舒适性意见不是医学证明",
+      "commercialDisclosure": "评奖商业关系存在；具体参赛或授权费用未核实",
+      "verificationMethod": "Red Dot具体项目原页面型号、2020产品设计及普通奖标识；只读复核再次打开确认",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "Product Design 2020；普通Red Dot标识；产品不是3S，不把鼠标包装或家族其他型号奖项转给本件。",
+      "verification": "Red Dot具体项目原页面型号、2020产品设计及普通奖标识；只读复核再次打开确认；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMM03",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "Product Design 2020；普通Red Dot标识；产品不是3S，不把鼠标包装或家族其他型号奖项转给本件。",
+          "verificationMethod": "Red Dot具体项目原页面型号、2020产品设计及普通奖标识；只读复核再次打开确认",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "评奖机构记录；评委舒适性意见不是医学证明",
+          "commercialDisclosure": "评奖商业关系存在；具体参赛或授权费用未核实",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:AMM04",
+      "title": "Logitech MX Master 3 Review",
+      "publisher": "RTINGS",
+      "url": "https://www.rtings.com/mouse/reviews/logitech/mx-master-3",
+      "publishedOn": "2019-12-11",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原始评测2019-12-11，现页面方法2026-03-10更新。较大、较重、右手取向，手型影响握持；办公配置与游戏评价分开；未引用当前隐藏或归零分数。",
+      "sourceType": "媒体单件实测",
+      "independence": "媒体自有评测；2019发布与2026方法更新分开",
+      "commercialDisclosure": "站点说明会员资助与联盟购物佣金；该单篇付费合作未见，未核实",
+      "verificationMethod": "RTINGS原型号实测页的握持/重量/用途论述；记录原评测与后来方法更新，不引用隐藏评分",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "原始评测2019-12-11，现页面方法2026-03-10更新。较大、较重、右手取向，手型影响握持；办公配置与游戏评价分开；未引用当前隐藏或归零分数。",
+      "verification": "RTINGS原型号实测页的握持/重量/用途论述；记录原评测与后来方法更新，不引用隐藏评分；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMM04",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "原始评测2019-12-11，现页面方法2026-03-10更新。较大、较重、右手取向，手型影响握持；办公配置与游戏评价分开；未引用当前隐藏或归零分数。",
+          "verificationMethod": "RTINGS原型号实测页的握持/重量/用途论述；记录原评测与后来方法更新，不引用隐藏评分",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "媒体自有评测；2019发布与2026方法更新分开",
+          "commercialDisclosure": "站点说明会员资助与联盟购物佣金；该单篇付费合作未见，未核实",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:H15A",
+      "title": "ThinkPad — The butterfly takes flight",
+      "publisher": "IBM History",
+      "url": "https://www.ibm.com/history/thinkpad",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "1995年701C、John Karidis两片键盘随开合伸出、10.4英寸屏幕背景、生产延迟和屏幕增长、同年推出并撤售。",
+      "sourceType": "厂家历史档案",
+      "independence": "厂家第一方回顾，不是独立市场评价",
+      "commercialDisclosure": "企业品牌史宣传；MoMA收藏独立核对，未采用销量或奖项。",
+      "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+      "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "supports": "1995年701C、John Karidis两片键盘随开合伸出、10.4英寸屏幕背景、生产延迟和屏幕增长、同年推出并撤售。",
+      "verification": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题；仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "originalId": "H15A",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1995年701C、John Karidis两片键盘随开合伸出、10.4英寸屏幕背景、生产延迟和屏幕增长、同年推出并撤售。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "independence": "厂家第一方回顾，不是独立市场评价",
+          "commercialDisclosure": "企业品牌史宣传；MoMA收藏独立核对，未采用销量或奖项。",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:H15B",
+      "title": "ThinkPad 701 Portable Computer, 1995",
+      "publisher": "The Museum of Modern Art",
+      "url": "https://www.moma.org/collection/works/2168",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "701系列设计、1995、Sam Lucente、John Karidis、Robert P. Tennant、Richard Sapper、IBM与厂家捐赠馆藏112.1996；没有确认UT5具体配置。",
+      "sourceType": "馆藏实物记录",
+      "independence": "独立机构；实物记录为第一手编目",
+      "commercialDisclosure": "厂家捐赠；图像权利列设计者／IBM，未取得复制许可。",
+      "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+      "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "supports": "701系列设计、1995、Sam Lucente、John Karidis、Robert P. Tennant、Richard Sapper、IBM与厂家捐赠馆藏112.1996；没有确认UT5具体配置。",
+      "verification": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题；仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "originalId": "H15B",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "701系列设计、1995、Sam Lucente、John Karidis、Robert P. Tennant、Richard Sapper、IBM与厂家捐赠馆藏112.1996；没有确认UT5具体配置。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "independence": "独立机构；实物记录为第一手编目",
+          "commercialDisclosure": "厂家捐赠；图像权利列设计者／IBM，未取得复制许可。",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "B:H15C",
+      "title": "IBM ThinkPad online reference — 701C/701CS, compiled June 1996",
+      "publisher": "IBM / Roger Dodson；IBMfiles镜像",
+      "url": "https://www.ibmfiles.com/ibmfiles/powerpc/thinkpad_online_reference.pdf",
+      "publishedOn": "1996-06",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "PDF零基页32（第33页）：UT5 75MHz/540MB、美国美元价格、可售Mar95、701C主动矩阵TFT10.4英寸640×480、85键全尺寸键盘、TrackPointIII、外置软驱与MultiPortII、待机／挂起／休眠、Dec95 withdrawn；手册覆盖多配置，UT5字段单独取值。",
+      "sourceType": "厂家原始产品参考文件／档案镜像",
+      "independence": "IBM原稿，第三方保管；与厂家历史不是独立评价来源",
+      "commercialDisclosure": "原参考文档含商业产品配置和价格，第三方镜像没有改变原稿性质。",
+      "verificationMethod": "读取第三方镜像中的原厂／原刊正文或OCR，并区分原作者与保管站",
+      "verificationLimits": "镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。",
+      "limits": "镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。",
+      "supports": "PDF零基页32（第33页）：UT5 75MHz/540MB、美国美元价格、可售Mar95、701C主动矩阵TFT10.4英寸640×480、85键全尺寸键盘、TrackPointIII、外置软驱与MultiPortII、待机／挂起／休眠、Dec95 withdrawn；手册覆盖多配置，UT5字段单独取值。",
+      "verification": "读取第三方镜像中的原厂／原刊正文或OCR，并区分原作者与保管站；镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。",
+      "originalId": "H15C",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "PDF零基页32（第33页）：UT5 75MHz/540MB、美国美元价格、可售Mar95、701C主动矩阵TFT10.4英寸640×480、85键全尺寸键盘、TrackPointIII、外置软驱与MultiPortII、待机／挂起／休眠、Dec95 withdrawn；手册覆盖多配置，UT5字段单独取值。",
+          "verificationMethod": "读取第三方镜像中的原厂／原刊正文或OCR，并区分原作者与保管站",
+          "limits": "镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。",
+          "independence": "IBM原稿，第三方保管；与厂家历史不是独立评价来源",
+          "commercialDisclosure": "原参考文档含商业产品配置和价格，第三方镜像没有改变原稿性质。",
+          "packet": "complete-batch-14.json"
+        }
+      ]
+    },
+    {
+      "id": "C:S11",
+      "title": "1977 Timeline: Atari VCS — CHM",
+      "publisher": "CHM",
+      "url": "https://www.computerhistory.org/timeline/1977/",
+      "supports": "1977 年 Atari VCS、后来 Atari 2600 名称与工厂写入 ROM 的可换游戏卡带。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:S14",
+      "title": "The IBM PC — IBM History",
+      "publisher": "IBM History",
+      "url": "https://www.ibm.com/history/personal-computer",
+      "supports": "1981-08-12 IBM 5150、8088 与现成部件、公开技术资料及第三方生态、基础配置与选件区别。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:S15",
+      "title": "1982 Timeline: Commodore 64 — CHM",
+      "publisher": "CHM",
+      "url": "https://www.computerhistory.org/timeline/1982/",
+      "supports": "1982 年 Commodore 64、64 KB 内存与图形能力；不使用争议性累计销量作为选品依据。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:S18",
+      "title": "Apple Macintosh personal computer, 1984 — SMG",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co459306/apple-macintosh-personal-computer-1984",
+      "supports": "1984年Macintosh及键盘、鼠标、软盘附件的对象记录；图标和视觉指示的图形交互背景。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取对象与附件正文；该馆对象为预生产评估机，不把其流转史当成零售机经历，也未采用GUI第一的概括。"
+    },
+    {
+      "id": "C:S26",
+      "title": "Timeline of Computer History — 1998: iMac",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1998/",
+      "supports": "1998年初版Bondi Blue iMac、G3处理器、CD-ROM与15英寸显示器，以及乔布斯回归后Apple产品路线的历史位置。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取1998时间线的iMac正文；仅采用产品形态、年份和硬件事实，没有采用营销排名或公司经营评价。"
+    },
+    {
+      "id": "C:S30",
+      "title": "Apple Unveils New MacBook Featuring Intel Core Duo Processors",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2006/05/16Apple-Unveils-New-MacBook-Featuring-Intel-Core-Duo-Processors/",
+      "supports": "2006年5月16日初代消费MacBook、Core Duo、白黑两色、iBook及12英寸PowerBook承接、Intel迁移、iSight、Photo Booth、MagSafe、遥控及Rosetta软件过渡。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取原始发布公告正文；范围为May 2006初代MacBook，区别于MacBook Pro和Late 2006 Core 2 Duo。未采用跑分或性能宣传。"
+    },
+    {
+      "id": "C:S33",
+      "title": "Apple Reinvents the Phone with iPhone — Apple",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "supports": "重核2007-01-09原公告正文：3.5英寸、多点触控、EDGE/Wi-Fi、iTunes同步及三种用途；2008年App Store另有TXL01。未采用全球第一和销量话语。",
+      "checkedOn": "2026-10-04",
+      "verification": "重核2007-01-09原公告正文：3.5英寸、多点触控、EDGE/Wi-Fi、iTunes同步及三种用途；2008年App Store另有TXL01。未采用全球第一和销量话语。"
+    },
+    {
+      "id": "C:S34",
+      "title": "Apple Launches iPad — Apple",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/sg/newsroom/2010/01/27Apple-Launches-iPad/",
+      "supports": "重核2010-01-27原公告正文：9.7英寸、Wi-Fi/3G版本、iBooks、iWork、屏幕键盘与键盘底座；规格及无摄像头由TXL02、TXL03补证。",
+      "checkedOn": "2026-10-04",
+      "verification": "重核2010-01-27原公告正文：9.7英寸、Wi-Fi/3G版本、iBooks、iWork、屏幕键盘与键盘底座；规格及无摄像头由TXL02、TXL03补证。"
+    },
+    {
+      "id": "C:TXE06",
+      "title": "Apple-1 Operation Manual（1976）",
+      "publisher": "Apple Computer Company（Computer History Museum 藏）",
+      "url": "https://d1yx3ys82bpsa0.cloudfront.net/brochures/apple.applei.1976.102646518.pdf",
+      "supports": "已组装主板、6502、键盘/视频与电源外接条件、40×24 文字显示、驻留监控程序及输入/检查/运行练习。",
+      "checkedOn": "2026-10-04",
+      "verification": "CHM 目录与原始说明书 PDF 提取正文已读；没有完成全部页面的视觉校验。目录：https://www.computerhistory.org/brochures/doc-43729572afbd3/"
+    },
+    {
+      "id": "C:TXE11",
+      "title": "Commodore 64 User’s Guide（1982）— Project 64 转录",
+      "publisher": "Commodore Business Machines（Zimmers / Project 64 存档）",
+      "url": "https://www.zimmers.net/anonftp/pub/cbm/c64/manuals/c64-manual.txt",
+      "supports": "电视/显示与外部存储连接、BASIC 启动画面及 38911 可用字节、LOAD/RUN、磁带物理播放步骤、POKE 控制颜色/图形。",
+      "checkedOn": "2026-10-04",
+      "verification": "原厂用户指南的文字转录已读；存档目录明确这是原手册 e-text，未声称扫描图像逐页校验。"
+    },
+    {
+      "id": "C:TXE12",
+      "title": "IBM Personal Computer Guide to Operations — First Edition, August 1981",
+      "publisher": "IBM（Minus Zero Degrees 存档）",
+      "url": "https://www.minuszerodegrees.net/manuals/IBM/IBM_5150_Guide_to_Operations_6025000_AUG81.pdf",
+      "supports": "5150 的扩展槽、83 键布局、显示/存储/打印选件、设置、DOS/BASIC 操作与配置条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "原厂 1981 年操作指南 PDF 提取正文及同文 OCR 转录已读；未完成整册图像逐页校验，不借用 XT 资料。"
+    },
+    {
+      "id": "C:TXL02",
+      "title": "iPad - Technical Specifications",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-qa/112438",
+      "supports": "初代iPad的9.7英寸IPS屏、重量、A4、30针接口、Wi-Fi和3G版本差异。",
+      "checkedOn": "2026-10-04",
+      "verification": "正文规格已核查，型号为初代iPad；不混用后代摄像头、Apple Pencil或USB-C。"
+    },
+    {
+      "id": "C:TXL03",
+      "title": "iPad Wi-Fi Teardown",
+      "publisher": "iFixit",
+      "url": "https://www.ifixit.com/Teardown/iPad+Wi-Fi+Teardown/2183",
+      "supports": "初代Wi-Fi iPad内部结构及无内置摄像头的实物边界。",
+      "checkedOn": "2026-10-04",
+      "verification": "原拆解正文步骤与传感器位置说明已核查；不把评论中的未来摄像头猜测当作设计意图。"
+    },
+    {
+      "id": "C:TXM15A",
+      "title": "Macintosh 128K: Technical Specifications",
+      "publisher": "Apple",
+      "url": "https://support.apple.com/en-ca/112190",
+      "supports": "1984年1月24日推出，128KB内存无内置扩展槽，400KB软盘与无内置硬盘等原机资源边界。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取官方规格正文。页面显示模式表有泛化字段，采用独立明确的内存、软盘、机内硬盘与日期记录，不据异常模式表推断显示能力。"
+    },
+    {
+      "id": "C:TXM15B",
+      "title": "Macintosh (1984) Owner's Manual — online scan transcript",
+      "publisher": "Apple Computer (original manual; Scribd mirror)",
+      "url": "https://www.scribd.com/document/808426629/Macintosh-Manual-1984",
+      "supports": "1984原说明书中主机/键盘/鼠标分工，点击/双击/拖动、Finder文件夹、MacWrite/MacPaint、主动保存以及单软驱换盘安排。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页所呈现的原说明书正文转录，包括1984版权页、第1/2/3章；OCR有杂字符，只采用语义清楚的操作段落。未绕过下载或登录限制。"
+    },
+    {
+      "id": "C:TXM20A",
+      "title": "Apple iMac 产品资料（July 1998，L03115A）",
+      "publisher": "Apple Computer（Washington Apple Pi 保存）",
+      "url": "https://www.wap.org/events/imacspecs.pdf",
+      "supports": "1998年初版M6709LL/A的显示器、扬声器、调制解调器、USB键鼠、机身提手、以太网、电话线连接、随附软件，以及互联网服务账户条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取两页原始Apple产品PDF正文，版权1998、July 1998、L03115A；网站是原件保存方。未照抄宣传词或长规格表。"
+    },
+    {
+      "id": "C:TXM20B",
+      "title": "iMac (Original) — Technical Specifications",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-ph/112281",
+      "supports": "初版iMac的上市时间、USB键鼠与网络接口，以及不配软驱、ADB和SCSI的连接取舍。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取Apple技术规格正文；核对为Original型号。不同资料中的重量与内存细节未用于正文。"
+    },
+    {
+      "id": "C:TXM20C",
+      "title": "Tiny Computer Gallery: iMac G3 (1998)",
+      "publisher": "University of Waterloo Computer Museum",
+      "url": "https://uwaterloo.ca/computer-museum/exhibits/tiny-computer-gallery",
+      "supports": "1998年Bondi Blue半透明外壳和15英寸CRT形态。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取画廊中iMac段落正文。该页展示缩小模型，不能用作项目实物藏品来源；未采用其中审美标签或第一性判断。"
+    },
+    {
+      "id": "C:TXM23A",
+      "title": "MacBook (13-inch, 2006) User's Guide",
+      "publisher": "Apple",
+      "url": "https://cdsassets.apple.com/live/6GJYWVAV/user/ma156_macbook_13inch_usersguide.pdf",
+      "supports": "初代MacBook初次设置、MagSafe、网络与迁移助理、触控板单指移动与双指滚动、独立按键、摄像头、遥控器及合盖睡眠与移动前指示灯确认。",
+      "checkedOn": "2026-10-04",
+      "verification": "已由官方MacBook（13-inch, 2006）文档页进入并读取138页指南正文，版权2006；重点核查印刷页8–23、32–33。未使用Late 2006或Pro指南。"
+    },
+    {
+      "id": "C:TXM23B",
+      "title": "MacBook (13-inch) — Technical Specifications",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/112511",
+      "supports": "初代1.83/2.0GHz Core Duo、13.3英寸屏幕、GMA 950共享内存、不同配置光驱的读写能力、外接显示器适配器和接口。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取初代Core Duo技术规格正文；核对CPU和光驱配置，未把更高配置刻录DVD能力写成所有首发款共有。"
+    },
+    {
+      "id": "CM150-S009",
+      "title": "Osborne 1",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/mobile-computing/18/316/1759",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "1981 introduced；厂商身份，设计者、价格及23.5磅。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "独立博物馆馆藏研究",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S009",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1981 introduced；厂商身份，设计者、价格及23.5磅。",
+          "verificationMethod": "正文",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "独立博物馆馆藏研究",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-batch-14.json"
+        }
+      ],
+      "supports": "1981 introduced；厂商身份，设计者、价格及23.5磅。",
+      "verification": "正文；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S010",
+      "title": "Osborne 1 luggable microcomputer, 1981",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co63294/osborne-1-luggable-microcomputer-1981",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "实物A08887，1981制造；1981年4月发布、10.7公斤、64K、键盘双驱动器及字处理/会计软件。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "独立于厂商和CHM的馆藏记录",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S010",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "实物A08887，1981制造；1981年4月发布、10.7公斤、64K、键盘双驱动器及字处理/会计软件。",
+          "verificationMethod": "正文",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "独立于厂商和CHM的馆藏记录",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-batch-14.json"
+        }
+      ],
+      "supports": "实物A08887，1981制造；1981年4月发布、10.7公斤、64K、键盘双驱动器及字处理/会计软件。",
+      "verification": "正文；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S011",
+      "title": "Osborne Computer Corporation / Selling the Computer Revolution",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/brochures/osborne-computer-corporation/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-brochure-index",
+      "verifiedScope": "1981产品；5英寸屏、64KB、双软盘；1983公司破产。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "与CHM Osborne实物页同机构；非独立交叉源",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S011",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1981产品；5英寸屏、64KB、双软盘；1983公司破产。",
+          "verificationMethod": "正文",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "与CHM Osborne实物页同机构；非独立交叉源",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-batch-14.json"
+        }
+      ],
+      "supports": "1981产品；5英寸屏、64KB、双软盘；1983公司破产。",
+      "verification": "正文；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S025",
+      "title": "Zip 100 drive",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/cycle-of-computers/9/101/1082",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "指定Zip100驱动器、1994。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "博物馆对象逐型档案",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S025",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "指定Zip100驱动器、1994。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "博物馆对象逐型档案",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-02.json"
+        }
+      ],
+      "supports": "指定Zip100驱动器、1994。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S026",
+      "title": "Timeline 1994 / Zip Disk",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1994/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-history",
+      "verifiedScope": "1994 Zip存储路线。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "与Zip对象页同机构，非独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S026",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1994 Zip存储路线。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "与Zip对象页同机构，非独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-02.json"
+        }
+      ],
+      "supports": "1994 Zip存储路线。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S043",
+      "title": "EP-101 milestone product",
+      "publisher": "Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/1968-9-ep-101.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1968年9月，行式21列、黑红色带、17V直流，向计算器厂供货；163.5×135×102毫米。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S043",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1968年9月，行式21列、黑红色带、17V直流，向计算器厂供货；163.5×135×102毫米。",
+          "verificationMethod": "正文",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "厂商自身材料；与同厂其他页面不独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-batch-14.json"
+        }
+      ],
+      "supports": "1968年9月，行式21列、黑红色带、17V直流，向计算器厂供货；163.5×135×102毫米。",
+      "verification": "正文；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S044",
+      "title": "MEH No131 EP-101",
+      "publisher": "Japan Society of Mechanical Engineers",
+      "url": "https://www.jsme.or.jp/kikaiisan/heritage_131_en.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "professional-institution-object-record",
+      "verifiedScope": "EP101于1968年9月生产销售；flying drum、OEM供应给计算器制造商。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "日本机械学会独立条目；实物展出在Epson馆，未核其资料来源独立性",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S044",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "EP101于1968年9月生产销售；flying drum、OEM供应给计算器制造商。",
+          "verificationMethod": "正文",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "日本机械学会独立条目；实物展出在Epson馆，未核其资料来源独立性",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-batch-14.json"
+        }
+      ],
+      "supports": "EP101于1968年9月生产销售；flying drum、OEM供应给计算器制造商。",
+      "verification": "正文；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S047",
+      "title": "HP LaserJet printer 1984",
+      "publisher": "HP",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/imagingprinting/0018/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1984原始HP LaserJet身份。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S047",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1984原始HP LaserJet身份。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "厂商自身材料；与同厂其他页面不独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-02.json"
+        }
+      ],
+      "supports": "1984原始HP LaserJet身份。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S048",
+      "title": "Growth and Innovation",
+      "publisher": "HPE",
+      "url": "https://www.hpe.com/us/en/about/history/timeline/timeline-growth-innovations.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "HP65 1974；首台LaserJet 1984。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "同源历史品牌分拆后档案；不当独立测评",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S048",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "HP65 1974；首台LaserJet 1984。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "同源历史品牌分拆后档案；不当独立测评",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-02.json"
+        }
+      ],
+      "supports": "HP65 1974；首台LaserJet 1984。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S062",
+      "title": "T7 SSD Available for Purchase",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/us/samsungs-t7-portable-ssd-now-available/?na=s",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "美国2020年5月19日非Touch T7可购；USB3.2Gen2速度依主机。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S062",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "美国2020年5月19日非Touch T7可购；USB3.2Gen2速度依主机。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "厂商自身材料；与同厂其他页面不独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-03.json"
+        }
+      ],
+      "supports": "美国2020年5月19日非Touch T7可购；USB3.2Gen2速度依主机。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S066",
+      "title": "Samsung T7 Portable SSD Review: Colorful and Secure Storage",
+      "publisher": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/reviews/samsung-t7-portable-ssd-review",
+      "checkedOn": "2026-10-11",
+      "sourceType": "original-review",
+      "verifiedScope": "Sean Webster 2020-08-17；非Touch T7，赞速度/加密，指出写缓存后降速和无IP等级。",
+      "verificationMethod": "正文第一页；未打开性能测试分页",
+      "limits": "样机为评测页指向的1TB；本文第1页，未核测试平台和性能页；不推广到所有容量或后修订。",
+      "independence": "原媒体署名评测，独立于Samsung",
+      "commercialDisclosure": "网页明示通过链接购买可能赚取联盟佣金；样机来源未核到。",
+      "originalId": "CM150-S066",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "Sean Webster 2020-08-17；非Touch T7，赞速度/加密，指出写缓存后降速和无IP等级。",
+          "verificationMethod": "正文第一页；未打开性能测试分页",
+          "limits": "样机为评测页指向的1TB；本文第1页，未核测试平台和性能页；不推广到所有容量或后修订。",
+          "independence": "原媒体署名评测，独立于Samsung",
+          "commercialDisclosure": "网页明示通过链接购买可能赚取联盟佣金；样机来源未核到。",
+          "packet": "complete-wave-compute-03.json"
+        }
+      ],
+      "supports": "Sean Webster 2020-08-17；非Touch T7，赞速度/加密，指出写缓存后降速和无IP等级。",
+      "verification": "正文第一页；未打开性能测试分页；样机为评测页指向的1TB；本文第1页，未核测试平台和性能页；不推广到所有容量或后修订。"
+    },
+    {
+      "id": "CM150-S068",
+      "title": "Kobo Launches eReader Touch Edition",
+      "publisher": "Kobo",
+      "url": "https://www.kobo.com/news/kobo-launches-the-all-new-kobo-ereader-touch-edition",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "2011年5月23日公告和北美预订；计划6月初商店销售、7月全球供货；红外触控和Pearl电子纸。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S068",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2011年5月23日公告和北美预订；计划6月初商店销售、7月全球供货；红外触控和Pearl电子纸。",
+          "verificationMethod": "正文",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "厂商自身材料；与同厂其他页面不独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-03.json"
+        }
+      ],
+      "supports": "2011年5月23日公告和北美预订；计划6月初商店销售、7月全球供货；红外触控和Pearl电子纸。",
+      "verification": "正文；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CWC-S006",
+      "title": "Original LaserJet museum entry",
+      "publisher": "HP",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/imagingprinting/0018/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-primary",
+      "verifiedScope": "1984年3月介绍原桌面LaserJet；字体、横纵页面、图形、可换打印盒与小办公室用途。",
+      "verificationMethod": "原厂历史正文；不移植家族后期能力，不采用静音及销量",
+      "independence": "品牌原始或回顾材料；非独立口碑",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "1984年3月介绍原桌面LaserJet；字体、横纵页面、图形、可换打印盒与小办公室用途。",
+      "verification": "原厂历史正文；不移植家族后期能力，不采用静音及销量；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1984年3月介绍原桌面LaserJet；字体、横纵页面、图形、可换打印盒与小办公室用途。",
+          "verificationMethod": "原厂历史正文；不移植家族后期能力，不采用静音及销量",
+          "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+          "independence": "品牌原始或回顾材料；非独立口碑",
+          "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+          "packet": "complete-wave-compute-02.json"
+        }
+      ]
+    },
+    {
+      "id": "CWC-S008",
+      "title": "1994 / Iomega Zip Disk",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1994/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "collection-history",
+      "verifiedScope": "1994初代Zip、100MB可移除磁性盘、非接触读写头；可靠性问题/光盘竞争为博物馆后期回顾。",
+      "verificationMethod": "时间线Zip原段落；不采用后代容量，不推断原代故障率或结束日",
+      "independence": "博物馆史料记录；非独立性能实测",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "1994初代Zip、100MB可移除磁性盘、非接触读写头；可靠性问题/光盘竞争为博物馆后期回顾。",
+      "verification": "时间线Zip原段落；不采用后代容量，不推断原代故障率或结束日；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1994初代Zip、100MB可移除磁性盘、非接触读写头；可靠性问题/光盘竞争为博物馆后期回顾。",
+          "verificationMethod": "时间线Zip原段落；不采用后代容量，不推断原代故障率或结束日",
+          "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+          "independence": "博物馆史料记录；非独立性能实测",
+          "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+          "packet": "complete-wave-compute-02.json"
+        }
+      ]
+    },
+    {
+      "id": "CWC-S011",
+      "title": "Kobo launches eReader Touch Edition",
+      "publisher": "Kobo",
+      "url": "https://www.kobo.com/news/kobo-launches-the-all-new-kobo-ereader-touch-edition",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-primary",
+      "verifiedScope": "2011-05-23公告与北美预订；六月商店供货计划；6英寸Pearl电子纸/红外触控/Home/字体字号/长按词典标记/WiFiUSB/EPUBPDF。",
+      "verificationMethod": "原公告正文；不采用健康、首创及普遍舒适宣传，不推断计划实际执行",
+      "independence": "品牌原始或回顾材料；非独立口碑",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "2011-05-23公告与北美预订；六月商店供货计划；6英寸Pearl电子纸/红外触控/Home/字体字号/长按词典标记/WiFiUSB/EPUBPDF。",
+      "verification": "原公告正文；不采用健康、首创及普遍舒适宣传，不推断计划实际执行；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2011-05-23公告与北美预订；六月商店供货计划；6英寸Pearl电子纸/红外触控/Home/字体字号/长按词典标记/WiFiUSB/EPUBPDF。",
+          "verificationMethod": "原公告正文；不采用健康、首创及普遍舒适宣传，不推断计划实际执行",
+          "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+          "independence": "品牌原始或回顾材料；非独立口碑",
+          "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+          "packet": "complete-wave-compute-03.json"
+        }
+      ]
+    },
+    {
+      "id": "CWC-S012",
+      "title": "Samsung T7 Portable SSD now available",
+      "publisher": "Samsung US",
+      "url": "https://news.samsung.com/us/samsungs-t7-portable-ssd-now-available/?na=s",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-primary",
+      "verifiedScope": "2020-05-19美国非Touch T7可购；USB3.2Gen2、C-C/C-A线缆、密码与AES256硬件加密；标称速度依主机/UASP等条件。",
+      "verificationMethod": "美国原公告正文；不采用跌落宣传，不移植Touch/Shield",
+      "independence": "品牌原始或回顾材料；非独立口碑",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "2020-05-19美国非Touch T7可购；USB3.2Gen2、C-C/C-A线缆、密码与AES256硬件加密；标称速度依主机/UASP等条件。",
+      "verification": "美国原公告正文；不采用跌落宣传，不移植Touch/Shield；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2020-05-19美国非Touch T7可购；USB3.2Gen2、C-C/C-A线缆、密码与AES256硬件加密；标称速度依主机/UASP等条件。",
+          "verificationMethod": "美国原公告正文；不采用跌落宣传，不移植Touch/Shield",
+          "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+          "independence": "品牌原始或回顾材料；非独立口碑",
+          "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+          "packet": "complete-wave-compute-03.json"
+        }
+      ]
+    },
+    {
+      "id": "CM150-S013",
+      "title": "Timeline",
+      "publisher": "Epson",
+      "url": "https://corporate.epson/en/about/history/timeline/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "EP-101 1968年9月；MX-80 1980年10月；HX-20 1982年7月。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S013",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "EP-101 1968年9月；MX-80 1980年10月；HX-20 1982年7月。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "厂商自身材料；与同厂其他页面不独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-batch-14.json"
+        }
+      ],
+      "supports": "EP-101 1968年9月；MX-80 1980年10月；HX-20 1982年7月。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    }
+  ]
+}

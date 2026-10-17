@@ -1,0 +1,736 @@
+{
+  "slug": "iomega-zip100",
+  "name": "Zip 100 drive",
+  "regionVersion": "原100MB驱动器；容量升级不另计",
+  "query": "intitle:\"Zip 100\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Zip 100 disk.jpg",
+      "pageid": 89114893,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Zip_100_disk.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Zip_100_disk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Zip_100_disk.jpg/960px-Zip_100_disk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-04-13 20:31:50",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Zip 100 disk",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS R|Taken with Canon RF 50mm F1.2L USM|With trademark|Self-published work|Iomega Zip drive discs",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "An Iomega <a href=\"https://en.wikipedia.org/wiki/Zip_drive\" class=\"extiw\" title=\"en:Zip drive\">Zip disk</a> with 100<a href=\"https://en.wikipedia.org/wiki/megabyte\" class=\"extiw\" title=\"en:megabyte\">MB</a> capacity. The label has \"DISK 2\" written on it in <a href=\"https://en.wikipedia.org/wiki/Ballpoint_pen\" class=\"extiw\" title=\"en:Ballpoint pen\">ballpoint pen</a> by the user.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2020-04-13 14:05:02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Bobulous\" title=\"User:Bobulous\">Bobulous</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "trademarked",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "An Iomega  Zip disk  with 100 MB  capacity. The label has \"DISK 2\" written on it in  ballpoint pen  by the user.",
+      "artist": "Bobulous",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2020-04-13 14:05:02"
+    },
+    {
+      "title": "File:Zip 100 drive and Zip 100 disk, lomega, US, 1994.jpg",
+      "pageid": 142438387,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Zip_100_drive_and_Zip_100_disk,_lomega,_US,_1994.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/54/Zip_100_drive_and_Zip_100_disk%2C_lomega%2C_US%2C_1994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Zip_100_drive_and_Zip_100_disk%2C_lomega%2C_US%2C_1994.jpg/960px-Zip_100_drive_and_Zip_100_disk%2C_lomega%2C_US%2C_1994.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-12-19 02:38:09",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Zip 100 drive and Zip 100 disk, lomega, US, 1994",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Files with coordinates missing SDC location of creation|Zip drive discs",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "37.413822",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-122.077567",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Zip 100 drive, lomega, US, 1994\n<p>Like hard disks, but unlike other floppies, ZIP drives used a non-contact read/write head that\n\"flew\" above the surface. Reliability problems and low-cost CDs eventually made ZIP disks obsolete.\n</p><p>ZIP disk, lomega, US, 1994\nVarious companies made proprietary higher capacity floppy disks with packages similar to —but incompatible with—the 3½\" standard. Iomega's 100 MB\n</p>\nZIP disk was the most popular.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-12-17",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%D0%A5%D0%BE%D0%B4%D1%83%D1%81_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ходус Владимир (page does not exist)\">Ходус Владимир</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Zip 100 drive, lomega, US, 1994\n Like hard disks, but unlike other floppies, ZIP drives used a non-contact read/write head that\n\"flew\" above the surface. Reliability problems and low-cost CDs eventually made ZIP disks obsolete.\n  ZIP disk, lomega, US, 1994\nVarious companies made proprietary higher capacity floppy disks with packages similar to —but incompatible with—the 3½\" standard. Iomega's 100 MB\n \nZIP disk was the most popular.",
+      "artist": "Ходус Владимир",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-12-17"
+    },
+    {
+      "title": "File:Parte posterior del Cartucho Iomega Zip 100.jpg",
+      "pageid": 148851159,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Parte_posterior_del_Cartucho_Iomega_Zip_100.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/62/Parte_posterior_del_Cartucho_Iomega_Zip_100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Parte_posterior_del_Cartucho_Iomega_Zip_100.jpg/960px-Parte_posterior_del_Cartucho_Iomega_Zip_100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-05-29 15:23:32",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Parte posterior del Cartucho Iomega Zip 100",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Zip drive discs",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Cartucho Iomega Zip 100",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-05-24 12:08:25",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Koffermejia\" title=\"User:Koffermejia\">Koffermejia</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Cartucho Iomega Zip 100",
+      "artist": "Koffermejia",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2024-05-24 12:08:25"
+    },
+    {
+      "title": "File:Caja del Cartucho Iomega Zip 100.jpg",
+      "pageid": 148851161,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Caja_del_Cartucho_Iomega_Zip_100.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Caja_del_Cartucho_Iomega_Zip_100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Caja_del_Cartucho_Iomega_Zip_100.jpg/960px-Caja_del_Cartucho_Iomega_Zip_100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-05-29 15:23:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Caja del Cartucho Iomega Zip 100",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Zip drive discs",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Cartucho Iomega Zip 100",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-05-24 12:12:42",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Koffermejia\" title=\"User:Koffermejia\">Koffermejia</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Cartucho Iomega Zip 100",
+      "artist": "Koffermejia",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2024-05-24 12:12:42"
+    },
+    {
+      "title": "File:Iomega-zip-100-extended-cart.png",
+      "pageid": 193345902,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Iomega-zip-100-extended-cart.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Iomega-zip-100-extended-cart.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Iomega-zip-100-extended-cart.png/960px-Iomega-zip-100-extended-cart.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-06-04 04:38:04",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Iomega-zip-100-extended-cart",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Zip drive|Self-published work|Self-published work missing SDC copyright license",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Iomega Zip 100 Drive with zip Floppy.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-06-03",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Nicolasfoster\" title=\"User:Nicolasfoster\">Nicolasfoster</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Iomega Zip 100 Drive with zip Floppy.",
+      "artist": "Nicolasfoster",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2026-06-03"
+    },
+    {
+      "title": "File:Iomega ZIP-100, parallel port printer pass-through-4491.jpg",
+      "pageid": 49555811,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Iomega_ZIP-100,_parallel_port_printer_pass-through-4491.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Iomega_ZIP-100%2C_parallel_port_printer_pass-through-4491.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Iomega_ZIP-100%2C_parallel_port_printer_pass-through-4491.jpg/960px-Iomega_ZIP-100%2C_parallel_port_printer_pass-through-4491.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2016-06-18 20:05:06",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Iomega ZIP-100, parallel port printer pass-through-4491",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Files by User:Raymond from de.wikipedia/Objects|Information field template with formatting|Uploaded with LrMediaWiki|Fotosession im Lokal K (2016)|Fotosession im Lokal K (IuK-Technik)|Zip drive 100, parallel port",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Iomega ZIP-100, parallel port printer pass-through",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-06-16 17:10:34",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q108103612\" class=\"extiw\" title=\"d:Q108103612\"><span title=\"Wikipedian and OpenStreetMap mapper from Cologne, Open Data activist\">Raimond Spekking</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "Attribution": {
+          "value": "© Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Iomega ZIP-100, parallel port printer pass-through",
+      "artist": "Raimond Spekking",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2016-06-16 17:10:34"
+    },
+    {
+      "title": "File:Cartucho Iomega Zip 100 2.jpg",
+      "pageid": 148851157,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cartucho_Iomega_Zip_100_2.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/13/Cartucho_Iomega_Zip_100_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Cartucho_Iomega_Zip_100_2.jpg/960px-Cartucho_Iomega_Zip_100_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-05-29 15:23:32",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Cartucho Iomega Zip 100 2",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Zip drive discs",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Cartucho Iomega Zip 100",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-05-24 12:09:10",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Koffermejia\" title=\"User:Koffermejia\">Koffermejia</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Cartucho Iomega Zip 100",
+      "artist": "Koffermejia",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2024-05-24 12:09:10"
+    },
+    {
+      "title": "File:Disquette Iomega Zip 100.jpg",
+      "pageid": 131239870,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Disquette_Iomega_Zip_100.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Disquette_Iomega_Zip_100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Disquette_Iomega_Zip_100.jpg/960px-Disquette_Iomega_Zip_100.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-04-27 16:27:55",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Disquette Iomega Zip 100",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Orange storage media|Files from Frédéric Bisson Flickr stream|Flickr images reviewed by FlickreviewR 2|Files with coordinates missing SDC location of creation (49° N, 1° E)|Iomega Zip drive discs",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "49.443400",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "1.099250",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Disquette Iomega Zip 100",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-02-27 19:04:56",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/38712296@N07/16663956742/\">https://www.flickr.com/photos/38712296@N07/16663956742/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "zigazou76",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Disquette Iomega Zip 100",
+      "artist": "zigazou76",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2015-02-27 19:04:56"
+    }
+  ]
+}

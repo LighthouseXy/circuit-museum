@@ -1,0 +1,38 @@
+{
+  "slug": "logitech-mx-mechanical",
+  "checkedOn": "2026-10-15",
+  "query": "Selected exact licensed physical photograph",
+  "candidates": [
+    {
+      "slug": "logitech-mx-mechanical",
+      "provider": "unsplash",
+      "title": "a keyboard on a desk",
+      "photoId": "O_uKaE9lqq4",
+      "creator": "Tobias Röder",
+      "creatorAccount": "tobiasroeder",
+      "creatorUrl": "https://unsplash.com/@tobiasroeder",
+      "sourcePage": "https://unsplash.com/photos/a-keyboard-on-a-desk-O_uKaE9lqq4",
+      "original": "https://images.unsplash.com/photo-1669534323404-e0874377cdab",
+      "thumbnail": "https://images.unsplash.com/photo-1669534323404-e0874377cdab?auto=format&fit=max&w=1600&q=90",
+      "localFile": "/Users/xyu/Program/circuit-museum/docs/evidence/photo-expansion/round3/mx-mechanical-unsplash.jpg",
+      "license": "Unsplash License",
+      "licenseUrl": "https://unsplash.com/license",
+      "caption": "作者标注MX Mechanical的桌面实物侧视照片，低矮键帽与机身侧面可见；角度不展示完整布局。",
+      "modelVerification": "原摄影师描述明确MX Mechanical keyboard on desk，2022-11-27发布；侧面机身和低矮双色键帽相符。型号依据作者标注，照片角度不能独立核验完整键区。",
+      "visualReview": "亲自查看1600px照片：桌面侧视实拍，键盘前景清晰、环境自然景深；非渲染。",
+      "primaryLicenseVerification": {
+        "checkedOn": "2026-10-15",
+        "verification": "web读取原照片页明确Free to use under the Unsplash License，Download free，作者与描述；主线程已独立读取许可。shell原页抓取401，未伪称HTML存档成功。",
+        "evidenceArchive": "/Users/xyu/Program/circuit-museum/docs/evidence/photo-expansion/round3/mx-mechanical-unsplash-page-evidence.json"
+      },
+      "status": "approved-candidate-with-caption-limit",
+      "description": "原摄影师描述明确MX Mechanical keyboard on desk，2022-11-27发布；侧面机身和低矮双色键帽相符。型号依据作者标注，照片角度不能独立核验完整键区。",
+      "artist": "Tobias Röder",
+      "metadata": {
+        "Artist": {
+          "value": "Tobias Röder"
+        }
+      }
+    }
+  ]
+}

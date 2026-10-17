@@ -1,0 +1,8 @@
+{
+  "testedAt": "2026-10-03T01:37:42.138Z",
+  "checks": [
+    "Without JavaScript, all 29 nodes remain readable and a type link jumps to its chapter below sticky navigation",
+    "Command-click on gallery and chronicle category links opens a new tab and preserves the current page"
+  ],
+  "errors": []
+}

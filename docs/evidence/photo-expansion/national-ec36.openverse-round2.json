@@ -1,0 +1,97 @@
+{
+  "query": "National rice cooker",
+  "checkedOn": "2026-10-15",
+  "result_count": 2,
+  "page_count": 1,
+  "page_size": 20,
+  "page": 1,
+  "results": [
+    {
+      "id": "6de137e9-639b-4357-bc9f-b75532839f7a",
+      "title": "File:Rice Cooker exhibit at the National Museum of Natural Science.JPG",
+      "indexed_on": "2020-09-20T20:52:43.734768Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=12891036",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Rice_Cooker_exhibit_at_the_National_Museum_of_Natural_Science.JPG",
+      "creator": "Mk2010",
+      "creator_url": "https://commons.wikimedia.org/wiki/User:Mk2010",
+      "license": "by-sa",
+      "license_version": "3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [],
+      "attribution": "\"File:Rice Cooker exhibit at the National Museum of Natural Science.JPG\" by Mk2010 is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 2000,
+      "width": 1500,
+      "thumbnail": "https://api.openverse.org/v1/images/6de137e9-639b-4357-bc9f-b75532839f7a/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/6de137e9-639b-4357-bc9f-b75532839f7a/",
+      "related_url": "https://api.openverse.org/v1/images/6de137e9-639b-4357-bc9f-b75532839f7a/related/",
+      "unstable__sensitivity": []
+    },
+    {
+      "id": "a6b71cf7-6aae-427f-9dbd-0b678cf6b2bc",
+      "title": "0144 National Panasonic",
+      "indexed_on": "2020-03-25T16:08:46.992370Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/23807199@N00/29199793401",
+      "url": "https://live.staticflickr.com/8347/29199793401_876f74150e_b.jpg",
+      "creator": "mliu92",
+      "creator_url": "https://www.flickr.com/photos/23807199@N00",
+      "license": "by-sa",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "museumofamericanhistory",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "national",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "ricecooker",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "smithsonian",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "washingtondc",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"0144 National Panasonic\" by mliu92 is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 1024,
+      "width": 681,
+      "thumbnail": "https://api.openverse.org/v1/images/a6b71cf7-6aae-427f-9dbd-0b678cf6b2bc/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/a6b71cf7-6aae-427f-9dbd-0b678cf6b2bc/",
+      "related_url": "https://api.openverse.org/v1/images/a6b71cf7-6aae-427f-9dbd-0b678cf6b2bc/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

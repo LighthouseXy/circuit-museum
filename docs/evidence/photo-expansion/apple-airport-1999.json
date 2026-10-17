@@ -1,0 +1,9 @@
+{
+  "slug": "apple-airport-1999",
+  "name": "AirPort Base Station（首代）",
+  "regionVersion": "北美首代AirPort；日本后称AirMac，不把日本计划日期当销售",
+  "query": "AirPort graphite",
+  "checkedOn": "2026-10-13",
+  "candidates": [],
+  "error": "HTTP Error 429: Too Many Requests"
+}

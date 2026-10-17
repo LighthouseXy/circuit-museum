@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:IBM_PC_5150.jpg",
+  "creator": "Boffy b；后续图像调整见来源历史",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "alt": "IBM PC 5150 主机、键盘与 5151 单色显示器；照片运行后来的 MS-DOS 5.0",
+  "path": "/images/ibm-pc-5150.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/6/69/IBM_PC_5150.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 962,
+  "originalHeight": 708,
+  "output": {
+    "format": "webp",
+    "width": 962,
+    "height": 708,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 57722
+  }
+}

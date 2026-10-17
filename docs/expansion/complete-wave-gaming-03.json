@@ -1,0 +1,1286 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-11",
+  "status": "complete-text-validated-not-imported",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ],
+    "snapshotPath": "docs/expansion/base-40-preserved.json",
+    "readyBaselinePath": "docs/expansion/complete-batch-14.json"
+  },
+  "exhibits": [
+    {
+      "slug": "nintendo-color-tv-game-15",
+      "name": "Color TV-Game 15",
+      "brand": "Nintendo",
+      "year": 1977,
+      "dateLabel": "1977日本产品史",
+      "dateKind": "launch",
+      "regionVersion": "日本电视游戏15；不混6型",
+      "context": "Color TV-Game 15是任天堂在一九七七年日本电视游戏路线中的一件具体产品。它出现于可换卡带机器成为家庭常用品之前，玩法随着机身一起买回家。科学博物馆的对象记录同时列出任天堂与三菱电机，提醒我们这段产品史包含玩具企业和电子制造能力的合作。十五型与六型应各自辨认，不能只凭外壳同属橙色就合并。这里观察的是一台让已有电视临时变成游戏场所的专用电子设备：显示器属于家庭，机器提供规则和输入，两个人围绕同一画面协调动作。它的价值在于把早期电子游戏的日常使用尺度保留下来。",
+      "design": "机器的输入要点是可以从本体旁拿开的有线旋钮控制器。个人收藏者D.Lo所观察的是偏红橙色的后期外壳，本文仅借用其明确展示的结构，不把颜色当作新型号。旋钮让手的转动对应屏幕球拍的位置，动作不依赖后来常见的十字键。十五这个数字也不能直接理解成十五套彼此独立的软件世界；该实物观察描述的是球拍游戏及球拍数量、尺寸、速度等设置变化。外壳上的选项把游戏规则做成可触摸的控制面板。使用者在开始前决定条件，运行中再靠转动旋钮完成动作，配置与操作都留在实体上。",
+      "usage": "准备一场游戏的顺序可以从实体界面理解：先使主机与适配的电视显示链路和供电条件匹配，再选择玩法与难度，把两只控制器交给参与者。旋钮的连续运动有利于追随球的位置，但有线连接限制了座位与本体的距离；D.Lo特别记录了较短的线材。开始后，两人需要盯住共同画面，理解球的反弹，再决定向哪个方向移动球拍。规则改变时，回到本体设置，而不是下载另一份程序。这种循环把游戏时长、电视占用和轮流操作紧密联系起来。此处讲的是交互路径，未核的电视插接细节与电源替代办法不作为展厅操作教程。",
+      "significance": "把十五型放在卡带主机之前，可以看见游戏机器如何先通过有限的规则组合建立家庭娱乐的用途。旋钮不是落后的方向键，而是针对连续球拍位置的明确输入选择；外壳选项也让设备的可玩范围一眼可见。馆藏记录中的合作制造信息，则使参观者能把企业品牌与实际电子工程联系起来。它适合与后来的可编程手柄并读：两者都需要把人的动作映射成机器可处理的命令，但这一台把映射和规则封在商品之中。策展重点是具体产品如何安排两个人、一个屏幕和几个设置的关系，无需赋予它改变所有家庭生活的宏大结论。",
+      "limitations": "专用结构的清晰也带来限制：玩法边界由机器确定，设置变化不能替代真正的新游戏软件。有线旋钮要求共同坐在电视附近，连续转动的熟悉程度因人而异，不能根据收藏者觉得舒适就宣布普遍易用。D.Lo的供电观察与后期颜色属于其样机条件，不能据此给原始所有销售版本下规格结论。本文没有核准首售具体日、销量或十五种游戏的逐项名称，也不推导三菱与任天堂的设计责任比例。现存实物的接点、电源和显示兼容情况需要逐台确认；文字展示因此优先呈现规则与输入关系，而不承诺旧机接上现代电视即可复原当年体验。",
+      "id": "待协调分配",
+      "idStatus": "coordinator-assignment-pending",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Nintendo（博物馆同时记录Mitsubishi Electric为maker）",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Nintendo Color TV-Game 15"
+      ],
+      "tags": [
+        "游戏与互动",
+        "家用游戏设备",
+        "1977年"
+      ],
+      "summary": "Color TV-Game 15是任天堂在一九七七年日本电视游戏路线中的一件具体产品。它出现于可换卡带机器成为家庭常用品之前，玩法随着机身一起买回家。科学博物馆的对象记录同时列出任天堂与三菱电机，提醒……",
+      "features": [
+        "专用球拍游戏及实体设置",
+        "有线可分离旋钮"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "1977日本产品史；日本电视游戏15；不混6型",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "原厂列为1977家庭电视游戏机。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012",
+        "CWG-S019",
+        "CWG-S020"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S012",
+          "CWG-S019",
+          "CWG-S020"
+        ],
+        "design": [
+          "G150-S012",
+          "CWG-S019",
+          "CWG-S020"
+        ],
+        "usage": [
+          "G150-S012",
+          "CWG-S019",
+          "CWG-S020"
+        ],
+        "significance": [
+          "G150-S012",
+          "CWG-S019",
+          "CWG-S020"
+        ],
+        "limitations": [
+          "G150-S012",
+          "CWG-S019",
+          "CWG-S020"
+        ]
+      },
+      "relatedSlugs": [
+        "nintendo-game-watch-ball-1980",
+        "nintendo-famicom"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-1",
+        "stageTitle": "电视前的游戏设备",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1054,
+      "specifications": [
+        {
+          "label": "实物输入结构",
+          "value": "可分离有线旋钮控制器",
+          "sourceIds": [
+            "CWG-S020"
+          ],
+          "versionScope": "D.Lo所观察偏红橙色后期15型；不混6型"
+        }
+      ],
+      "lifecycleStatus": "已核身份节点；结束节点未单独核准",
+      "lifecycleEvents": [
+        {
+          "eventType": "launch",
+          "date": "1977",
+          "datePrecision": "year",
+          "regionVersion": "日本电视游戏15；不混6型",
+          "sourceIds": [
+            "G150-S012"
+          ],
+          "description": "1977日本产品史",
+          "temporalPerspective": "冻结入选记录已核日期；原具体事件保留在description，未把排序年细化为未核日期"
+        }
+      ]
+    },
+    {
+      "slug": "nintendo-game-watch-ball-1980",
+      "name": "Game & Watch: Ball（原版）",
+      "brand": "Nintendo",
+      "year": 1980,
+      "dateLabel": "1980-04原版；不猜28日",
+      "dateKind": "launch",
+      "regionVersion": "原1980银色系列；不混2010复刻/DSi软件",
+      "context": "一九八零年四月的Ball把一套接球游戏与数字时钟装进独立的小型产品。任天堂创作者访谈把它确认为Game & Watch系列第一作，也明确说到使用电卓芯片的技术路线。它不是后来可换卡带的掌机，买到的屏幕、角色和规则本来就是一件整体。展厅保留原版银色系列身份，避免将二零一零年纪念复刻或DSi软件的便利功能投射回原机。它适合回答一个朴素问题：当硬件能显示的图形位置很少，如何让短暂的空闲变成可以重复尝试的游戏？答案存在于接住下一只球的节奏，而不需要宏大的虚拟场景。",
+      "design": "屏幕上的人物和球来自预先安排的液晶段，不是可以在任意像素上自由绘制的通用画面。访谈解释了电卓的显示资源如何被重新分配，数字计数仍用于得分与时刻，其余段落则成为人物与球。这里的动画可以理解为在多个固定位置之间切换可见图形，让眼睛读出连续运动。硬件资源同时塑造了规则：角色只需在接球位置上做出及时反应，复杂动作被压缩成几种清楚的状态。小屏幕也把注意力集中在球的路径与下一次落点，外观上的简洁因此与底层显示机制相互对应，并非仅仅是一个复古的视觉风格。",
+      "usage": "玩Ball时，需要观察球的上升与下降，让中央角色在落点到来前作出接球动作。手上的输入与画面的有限位置相配，失误会直接打断正在维持的节奏。熟悉规则后，关注的重点从识别每只球转为预判连续变化，在短时间里反复建立自己的动作顺序。时钟与游戏共用同一小屏幕，读时间和挑战得分成为一件随身物品上的两种用途。这样的使用路径适合解释专用LCD的特点：玩家无需管理文件或安装程序，代价是设备的规则无法更换。本文不把后来的复刻版按键细节当作原机说明，也不借用DSi触控来描述原版的操作。",
+      "significance": "Ball让成熟电子部件进入新的日常用途。电卓芯片本来擅长切换固定显示段，设计者没有等待更强的图形硬件，而是把这种能力重新组织成角色、球和节奏。展厅可以让参观者先想象一组只能亮灭的图形，再理解为何接球适合在这种条件下成立。时钟提供了游戏之外的用途，使同一商品可以在玩耍和读时间之间转换；这也展示了早期便携电子产品如何寻找随身携带的理由。其意义是一个清晰、具体的设计选择：玩法依照资源形成，而资源又因玩法变得可读。这里不将整个系列后来的商业成绩视为原版Ball单件产品的成绩。",
+      "limitations": "固定段显示没有通用屏幕的扩展空间，一套接球规则也不能替代多种软件内容。游戏的节奏训练可能吸引一些人，另一些人则会很快失去兴趣，这种取舍不应被“经典”标签盖住。原版只有此处核准的时刻与接球用途；后续Gold系列的闹钟、其他机型的支架以及再发行功能都另有版本边界。创作者回忆能解释显示与构思，但其中对灵感来源的叙述有明确的转述和记忆条件，不能编成唯一发生经过。年代只采用访谈脚注的一九八零年四月，未补猜某日；旧液晶、接点和电源的现状亦需要具体实物检查，文字展品不代表运行恢复验收。",
+      "id": "待协调分配",
+      "idStatus": "coordinator-assignment-pending",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Nintendo Game & Watch: Ball（原版）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "手持/混合主机",
+        "1980年"
+      ],
+      "summary": "一九八零年四月的Ball把一套接球游戏与数字时钟装进独立的小型产品。任天堂创作者访谈把它确认为Game & Watch系列第一作，也明确说到使用电卓芯片的技术路线。它不是后来可换卡带的掌机，买到的屏幕……",
+      "features": [
+        "专用LCD接球游戏",
+        "得分与数字时钟共享显示"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "1980-04原版；不猜28日；原1980银色系列；不混2010复刻/DSi软件",
+          "sourceIds": [
+            "G150-S014"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "创作者访谈脚注明确1980年4月及接球玩法。",
+          "sourceIds": [
+            "G150-S014"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S014"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S014"
+        ],
+        "design": [
+          "G150-S014"
+        ],
+        "usage": [
+          "G150-S014"
+        ],
+        "significance": [
+          "G150-S014"
+        ],
+        "limitations": [
+          "G150-S014"
+        ]
+      },
+      "relatedSlugs": [
+        "nintendo-color-tv-game-15",
+        "game-boy"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-1",
+        "stageTitle": "电视前的游戏设备",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1044,
+      "lifecycleStatus": "已核身份节点；结束节点未单独核准",
+      "lifecycleEvents": [
+        {
+          "eventType": "launch",
+          "date": "1980",
+          "datePrecision": "year",
+          "regionVersion": "原1980银色系列；不混2010复刻/DSi软件",
+          "sourceIds": [
+            "G150-S014"
+          ],
+          "description": "1980-04原版；不猜28日",
+          "temporalPerspective": "冻结入选记录已核日期；原具体事件保留在description，未把排序年细化为未核日期"
+        }
+      ]
+    },
+    {
+      "slug": "nintendo-virtual-boy-jp",
+      "name": "Virtual Boy（原日本版）",
+      "brand": "Nintendo",
+      "year": 1995,
+      "dateLabel": "1995年（日本原机推出年份；具体日待原网页编码复核）",
+      "dateKind": "launch",
+      "regionVersion": "1995年日本原机；不混入2026年Switch外设/软件再现",
+      "context": "Virtual Boy是一九九五年的任天堂原机，本展项保留日本版本及已核准的年份，不把后来的Switch再现配件并入同一硬件。任天堂在3DS开发访谈中回顾这台机器时，讨论了早期立体显示的尝试和商品定位的困境。它把画面送到双眼各自观看的观察结构中，玩家的视觉体验不再依赖客厅电视。这个方向值得放进游戏编年史，因为它揭示了立体效果、专用内容与身体观看方式之间的关系。它不是凭借更大的公共屏幕取胜，而是让一位使用者进入自己面前的显示空间；由此出现的吸引力和隔离性需要同时阅读。",
+      "design": "产品的关键设计问题是让左右眼所见的画面产生深度差异。任天堂回顾访谈谈到曾考虑线框式表达，也谈到实际内容常通过二维图像分层来展示距离；这两者分别属于构思与实现，不能混写成所有软件都采用完整三维场景。观察式显示强调单人视线的位置，和普通电视前自由改变坐姿的使用方式不同。美国原版说明书的可读检索索引要求每次开始调整瞳距与焦点，说明光学匹配属于游戏之前的步骤。这里采用的是共通光学动作，不套用美国地区规定，更不把二零二六年再现装置的调节菜单当成原机的部件。",
+      "usage": "理解它的使用，应从双眼对准观察口开始，再让瞳距和焦点适合当前观看者，之后才判断游戏中的远近关系。深度是否容易辨认，必须由正在使用的人观察，不能靠旁观者看一张平面截图完成确认。面对分层图像时，玩家需要将位置判断与操作时机联系起来，屏幕前后关系可以成为规则的一部分。演示也应给每位参与者重新调整的机会，不沿用前一人的光学设置。由于本轮日本手册镜像正文读取失败，本文没有给出未经逐页确认的支架安装或逐键指令。展厅文字呈现的是已经核准的观看过程及其取舍，而不是旧机开箱恢复教程。",
+      "significance": "Virtual Boy提供了一条没有被简单成功叙事覆盖的设计路线。立体显示不是加在任何游戏上都会等量增益的装饰，它要求内容表达和观看身体共同配合。任天堂回顾中的商品定位讨论尤其有用：一个有趣的专用电子玩具，与需要持续软件供给的平台，对购买者意味着不同期待。将这两个层面分开，能避免只把产品归为性能不够或理念超前。它与3DS适合并读的是同一企业如何在不同时期安排立体观看的入口，而不是声称后者直接继承全部设计。本文把回顾者的判断保留为来源中的立场，策展意义则落在可观察的视觉与用途关系上。",
+      "limitations": "专用观看结构使共同观看与轮流体验都需要额外安排，也使平面照片难以表达产品最在意的深度。调节并不能保证每个人获得相同感受，本文不作健康效果或普遍舒适性判断。原厂回顾讨论了商业结果与定位，但不提供本展项可以直接采用的逐地区销量、停产日期和所有失败原因，因此不编造完整因果故事。日本原网页的具体日期还存在编码复核边界，本项只按一九九五年排序。原机与当代再现装置在屏幕、输入、软件和配件上必须分开辨识；后者的会员条件与兼容主机也不能写成这件一九九五年商品的原始规格。",
+      "id": "待协调分配",
+      "idStatus": "coordinator-assignment-pending",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "平台软件与相应游戏",
+      "aliases": [
+        "Nintendo Virtual Boy（原日本版）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "手持/混合主机",
+        "1995年"
+      ],
+      "summary": "Virtual Boy是一九九五年的任天堂原机，本展项保留日本版本及已核准的年份，不把后来的Switch再现配件并入同一硬件。任天堂在3DS开发访谈中回顾这台机器时，讨论了早期立体显示的尝试和商品定位……",
+      "features": [
+        "双眼观察式立体显示",
+        "观看前光学调整"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "1995年（日本原机推出年份；具体日待原网页编码复核）；1995年日本原机；不混入2026年Switch外设/软件再现",
+          "sourceIds": [
+            "L:EA05-V01"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "1995年（日本原机推出年份；具体日待原网页编码复核）",
+          "sourceIds": [
+            "L:EA05-V01"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "L:EA05-V01",
+        "L:EA05-V02",
+        "CWG-S024"
+      ],
+      "paragraphSources": {
+        "context": [
+          "L:EA05-V01",
+          "L:EA05-V02",
+          "CWG-S024"
+        ],
+        "design": [
+          "L:EA05-V01",
+          "L:EA05-V02",
+          "CWG-S024"
+        ],
+        "usage": [
+          "L:EA05-V01",
+          "L:EA05-V02",
+          "CWG-S024"
+        ],
+        "significance": [
+          "L:EA05-V01",
+          "L:EA05-V02",
+          "CWG-S024"
+        ],
+        "limitations": [
+          "L:EA05-V01",
+          "L:EA05-V02",
+          "CWG-S024"
+        ]
+      },
+      "relatedSlugs": [],
+      "relatedModelProposals": [],
+      "deferredRelatedSlugs": [
+        "nintendo-3ds"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-2",
+        "stageTitle": "掌机与光盘的不同路线",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "日本1995-07-21具体日需纠正原页编码或找到原发布记录后升级。",
+        "生产/退市日期及与北美版本关系未核；不把一般“商业失败”当立即取消证据。",
+        "美国手册镜像仅找到未读图页，不能移植其健康提示为日本型号事实。",
+        "日本VUE-S-RA-JPN-2手册目录可读但PDF500及页图cache miss；美国原册PDF正文/截图不可读，仅索引明确IPD/FOCUS调整。故不提供逐键或支架装配指令。"
+      ],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1065,
+      "lifecycleStatus": "已核身份节点；结束节点未单独核准",
+      "lifecycleEvents": [
+        {
+          "eventType": "launch",
+          "date": "1995",
+          "datePrecision": "year",
+          "regionVersion": "1995年日本原机；不混入2026年Switch外设/软件再现",
+          "sourceIds": [
+            "L:EA05-V01"
+          ],
+          "description": "1995年（日本原机推出年份；具体日待原网页编码复核）",
+          "temporalPerspective": "冻结入选记录已核日期；原具体事件保留在description，未把排序年细化为未核日期"
+        }
+      ]
+    },
+    {
+      "slug": "sega-dreamcast-jp",
+      "name": "Dreamcast（日本初售版）",
+      "brand": "SEGA",
+      "year": 1998,
+      "dateLabel": "1998年11月27日（日本推出；品牌硬件档案）",
+      "dateKind": "launch",
+      "regionVersion": "日本1998年版；33.6kbps调制解调器，不混入北美1999年56kbps配置",
+      "context": "一九九八年十一月二十七日在日本推出的Dreamcast，把光盘游戏、模拟输入和电话线通信放进同一台家庭设备。这里的初售版本配置是三十三点六kbps调制解调器，不能把北美后来的五十六kbps规格套进日本条目。SEGA硬件档案与品牌回顾共同描述了它把网络入口放进标准机器的路线，两页属于同厂资料，不代表独立历史结论。它出现于家庭游戏逐步接触网络的阶段，但玩家仍需要电视、控制器、软件和外部连接条件。展厅关注这套完整使用关系，而不仅把内置通信芯片当作一项孤立的先进参数。",
+      "design": "标准控制器把数字按钮、模拟摇杆和背面的左右扳机放在一个握持结构中。其上部窗口又为Visual Memory提供了可见位置：这件小附件负责保存资料，也能在支持的软件中显示简化信息，部分内容还能形成单独的小型游戏。因而记录进度的物件同时具有自己的显示与输入。主机则把调制解调器作为标准部件，让通信从“以后也许添购”的能力进入出厂构成。这里强调的是结构选择：输入装置、存储附件和通信接口都给软件留下用途，但具体游戏是否采用它们，仍要看各自实现。不能把某个附件能做的事说成所有游戏默认都会发生。",
+      "usage": "开始普通游戏时，玩家让主机连接适配的电视链路，插好控制器并使用对应游戏光盘，再按照软件规则操作摇杆、按钮与扳机。需要保存时，Visual Memory在控制器中的位置使存储动作与手边设备相联系；支持显示的游戏还可以在其小屏幕上给出信息。上网则是另一套准备：日本版通过电话通信条件和服务接入，Dream Passport把浏览与邮件入口带到游戏机器。内置调制解调器不等于线路和账号已经存在，联网游戏也需要各自的服务。把这些动作分开，参观者才能理解买回一台有网络硬件的主机，与实际完成通信体验之间还有多少外部环节。",
+      "significance": "Dreamcast适合说明游戏平台如何试着把更多活动带进同一个家庭入口。控制器上的小屏幕让存档从不可见数据变成手边的附件，标准通信又让机器面对超出本地光盘的内容与联系。与一般升级参数相比，这些安排更容易通过操作顺序来理解：先接入、再配置、再等待软件与服务响应。SEGA在二零零一年宣布退出家庭硬件业务，随后生产结束的节点也让本品形成有边界的产品历程。这个边界不否认机器与软件后来的使用，更不等于所有网络服务同时终止。策展不需要借厂商回顾中“改变未来”的措辞，具体结构已经足以展示这条路线的野心与代价。",
+      "limitations": "网络能力受到电话线路、接入服务和游戏服务器的共同限制，通信速度也不能单独代表实际延迟或体验。Visual Memory的小屏幕用途与独立游戏依赖支持内容，不应当作免费增加一台完整掌机。品牌回顾给出了自己的开发与商业解释，但展厅不据此把某一种原因写成市场结果的唯一答案。二零零一年生产结束属于制造节点，本文没有将其误写成当日停售、软件支持终止或全球服务关闭。今日恢复运行还涉及老化光驱、附件电源、存档介质和显示兼容，未逐台检查就不能保证完整体验。日本与海外版本的调制解调器差异，也要求在展示具体机身时继续保留地区标签。",
+      "id": "待协调分配",
+      "idStatus": "coordinator-assignment-pending",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "SEGA",
+      "softwareEcosystem": "平台软件与相应游戏",
+      "aliases": [
+        "SEGA Dreamcast（日本初售版）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "家用游戏设备",
+        "1998年"
+      ],
+      "summary": "一九九八年十一月二十七日在日本推出的Dreamcast，把光盘游戏、模拟输入和电话线通信放进同一台家庭设备。这里的初售版本配置是三十三点六kbps调制解调器，不能把北美后来的五十六kbps规格套进日本……",
+      "features": [
+        "模拟摇杆与LR扳机",
+        "Visual Memory存储与显示",
+        "日本初版33.6kbps通信"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "1998年11月27日（日本推出；品牌硬件档案）；日本1998年版；33.6kbps调制解调器，不混入北美1999年56kbps配置",
+          "sourceIds": [
+            "L:EA04-D01"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "1998年11月27日（日本推出；品牌硬件档案）",
+          "sourceIds": [
+            "L:EA04-D01"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "L:EA04-D01",
+        "L:EA04-D02",
+        "CWG-S021"
+      ],
+      "paragraphSources": {
+        "context": [
+          "L:EA04-D01",
+          "L:EA04-D02",
+          "CWG-S021"
+        ],
+        "design": [
+          "L:EA04-D01",
+          "L:EA04-D02",
+          "CWG-S021"
+        ],
+        "usage": [
+          "L:EA04-D01",
+          "L:EA04-D02",
+          "CWG-S021"
+        ],
+        "significance": [
+          "L:EA04-D01",
+          "L:EA04-D02",
+          "CWG-S021"
+        ],
+        "limitations": [
+          "L:EA04-D01",
+          "L:EA04-D02",
+          "CWG-S021"
+        ]
+      },
+      "relatedSlugs": [
+        "valve-steam-controller-2015"
+      ],
+      "relatedModelProposals": [],
+      "deferredRelatedSlugs": [
+        "sony-playstation-2"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-2",
+        "stageTitle": "掌机与光盘的不同路线",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "具体主机背标HKT版本需原日本手册/标签复核，不在本轮硬填编号。",
+        "失败原因需独立当时行业研究；仅使用已证实的硬件退出事实。",
+        "官方宣传广告获奖不等于主机工业设计获奖；不记入产品awards。"
+      ],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1072,
+      "lifecycleStatus": "已核生产结束；后续软件/服务结束不合并推断",
+      "lifecycleEvents": [
+        {
+          "eventType": "launch",
+          "date": "1998-11-27",
+          "datePrecision": "day",
+          "regionVersion": "日本1998年版；33.6kbps调制解调器，不混入北美1999年56kbps配置",
+          "sourceIds": [
+            "L:EA04-D01",
+            "CWG-S021"
+          ],
+          "description": "日本推出",
+          "temporalPerspective": "原厂事后硬件档案"
+        },
+        {
+          "eventType": "production-end",
+          "date": "2001-03",
+          "datePrecision": "month",
+          "regionVersion": "Dreamcast硬件生产；不推导逐地区停售或网络结束",
+          "sourceIds": [
+            "L:EA04-D01"
+          ],
+          "description": "品牌档案记录2001年3月生产结束",
+          "temporalPerspective": "原厂事后回顾"
+        }
+      ]
+    },
+    {
+      "slug": "xbox-adaptive-controller",
+      "name": "Xbox Adaptive Controller",
+      "brand": "Microsoft / Xbox",
+      "year": 2018,
+      "dateLabel": "2018年9月4日上市",
+      "dateKind": "实际上市",
+      "regionVersion": "2018 Xbox One / Windows 10版辅助控制器；不混后续第三方适配开关",
+      "context": "Xbox Adaptive Controller在二零一八年九月四日上市时，面对的是Xbox One和Windows 10游戏中的输入需要。它将辅助操作的入口做成一个可以接入不同开关与摇杆的中心，而不是要求所有人握住同一种传统手柄。展厅以原始上市版本作为年代身份，当前产品页提供的后续平台兼容则另作范围说明。对这件产品的理解应从一个具体问题出发：玩家能够稳定完成哪些动作，怎样把这些动作对应到游戏要求的按键？设备的价值是提供可配置的连接与映射空间，但最终方案仍与个人、附件和游戏共同形成。",
+      "design": "产品表面的两个大按钮并非全部设计，围绕机身的外部输入接口才是其组织方式的核心。当前官方规格区分十九个三点五毫米输入端口、两个USB输入端口以及另外一个音频口，避免把所有同形插孔混成一类。外接开关、按钮或摇杆可以放在不同位置，再由Xbox Accessories应用调整映射。机内的配置切换让不同安排有机会在使用过程中调出。这里的布局把手柄从固定握持轮廓转成连接中心：物理触发位置与游戏命令可以分离，使用者与协助者因此能围绕可执行动作布置控制，而不是只能适应一个预定姿势。",
+      "usage": "建立方案时，先确认玩家能可靠触发的动作及其摆放位置，再选相应的外接输入，把线接到所需端口。之后在应用中核对命令映射，进入实际游戏测试：一个动作是否足以触发菜单、移动或持续操作，是否会误触，是否与其他命令冲突。配置应按这些反馈调整，并保存成适合当前任务的安排。官方页面描述机上可在三份配置之间切换；选择配置仍须知道各个外接输入当前对应什么。配件大多另购，连接方式与操作系统也有条件。先讨论动作，再决定器件，比仅根据大按钮外观选择更能说明这台中心设备在完整系统中承担的角色。",
+      "significance": "这件控制器把可访问性的工作落实到接口、映射和配置，而不是只在普通手柄旁加上一个宣传标签。常见手柄假定按钮位置、握持方式和输入动作比较统一，Adaptive Controller允许其中一部分关系重新组织。馆藏可以用它与Sony Access并读，两者都让输入可调整，却分别强调外接设备中心与可换布局，不必宣布谁代表全部需求。它也提醒参观者，游戏体验包含软件之外的身体动作和辅助安排；把玩家已能做的动作转换为游戏能识别的信号，是设计问题的一部分。这里的意义属于结构解读，不能将可配置空间直接换算成人人都已获得同样的独立游戏能力。",
+      "limitations": "中心设备不能自动生成合适的辅助方案，外接开关、安装方式、预算、人员协助与游戏规则都会影响结果。某些游戏需要同时或持续输入，映射之后仍可能需要反复调整；有接口也不保证任意附件直接兼容。当前官网列出了Xbox Series和Windows 11等后续条件，这些不能倒写成二零一八年的首发支持，其他平台的蓝牙连接亦不能解释为完整功能承诺。本文不采用本轮未充分核读的奖项页来增加荣誉结论，也不将一个使用者的体验推广给所有身体条件。实际验收应由当事人在具体游戏中完成，展厅能展示的是连接与配置的方法，而不是替个人需求给出通用处方。",
+      "id": "待协调分配",
+      "idStatus": "coordinator-assignment-pending",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Microsoft",
+      "softwareEcosystem": "平台软件与相应游戏",
+      "aliases": [
+        "Microsoft / Xbox Xbox Adaptive Controller"
+      ],
+      "tags": [
+        "游戏与互动",
+        "控制器或配套",
+        "2018年"
+      ],
+      "summary": "Xbox Adaptive Controller在二零一八年九月四日上市时，面对的是Xbox One和Windows 10游戏中的输入需要。它将辅助操作的入口做成一个可以接入不同开关与摇杆的中心，而不……",
+      "features": [
+        "外部辅助输入中心",
+        "应用映射与配置切换"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2018年9月4日上市；2018 Xbox One / Windows 10版辅助控制器；不混后续第三方适配开关",
+          "sourceIds": [
+            "L:AMX01"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "2018年9月4日上市",
+          "sourceIds": [
+            "L:AMX01"
+          ]
+        },
+        {
+          "label": "外部输入端口",
+          "value": "十九个3.5mm输入与两个USB2.0；另有3.5mm音频口",
+          "sourceIds": [
+            "CWG-S022"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "L:AMX01",
+        "L:AMX02",
+        "L:AMX03",
+        "L:AMX04",
+        "L:AMX05",
+        "CWG-S022"
+      ],
+      "paragraphSources": {
+        "context": [
+          "L:AMX01",
+          "L:AMX02",
+          "L:AMX03",
+          "L:AMX04",
+          "L:AMX05",
+          "CWG-S022"
+        ],
+        "design": [
+          "L:AMX01",
+          "L:AMX02",
+          "L:AMX03",
+          "L:AMX04",
+          "L:AMX05",
+          "CWG-S022"
+        ],
+        "usage": [
+          "L:AMX01",
+          "L:AMX02",
+          "L:AMX03",
+          "L:AMX04",
+          "L:AMX05",
+          "CWG-S022"
+        ],
+        "significance": [
+          "L:AMX01",
+          "L:AMX02",
+          "L:AMX03",
+          "L:AMX04",
+          "L:AMX05",
+          "CWG-S022"
+        ],
+        "limitations": [
+          "L:AMX01",
+          "L:AMX02",
+          "L:AMX03",
+          "L:AMX04",
+          "L:AMX05",
+          "CWG-S022"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-access-controller"
+      ],
+      "relatedModelProposals": [],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-4",
+        "stageTitle": "混合使用与PC游戏生态",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "补原版输入端口说明和可配置范围；不把底座与外接配件作为同一件产品。",
+        "IDEA及D&AD需要可读原数据库字段才能进入最终奖项标签。"
+      ],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1049,
+      "specifications": [
+        {
+          "label": "外部输入",
+          "value": "19个3.5mm输入端口；2个USB2.0",
+          "sourceIds": [
+            "CWG-S022"
+          ],
+          "versionScope": "2026-10-11当前原厂产品页；音频口另计"
+        }
+      ],
+      "lifecycleStatus": "已核身份节点；结束节点未单独核准",
+      "lifecycleEvents": [
+        {
+          "eventType": "实际上市",
+          "date": "2018",
+          "datePrecision": "year",
+          "regionVersion": "2018 Xbox One / Windows 10版辅助控制器；不混后续第三方适配开关",
+          "sourceIds": [
+            "L:AMX01"
+          ],
+          "description": "2018年9月4日上市",
+          "temporalPerspective": "冻结入选记录已核日期；原具体事件保留在description，未把排序年细化为未核日期"
+        }
+      ]
+    },
+    {
+      "slug": "valve-steam-controller-2015",
+      "name": "Steam Controller（2015）",
+      "brand": "Valve",
+      "year": 2015,
+      "dateLabel": "2015-11-10原商店上市记录",
+      "dateKind": "launch",
+      "regionVersion": "原2015硬件；非2026同名款",
+      "context": "二零一五年的Steam Controller是Valve制造的独立控制器，原商店登记十一月十日发布。它与二零二六年的同名产品属于不同硬件实体，不能只按商品名称相似就合并。Valve试图让需要键鼠式输入的电脑游戏在电视前也能被手持设备操作，这是一项具体的用途目标，不是已经证明所有游戏都一样好用的事实。展厅因此把它放在电脑软件与客厅控制之间阅读。设备本身没有运行游戏的处理器平台，使用者仍要有电脑及相应软件；它提供的是如何把手指动作转换为鼠标、按键或控制器输入的另一种结构。",
+      "design": "最醒目的结构是左右两块触摸板，另有一个模拟摇杆、背面握持按钮与两段扳机。触摸板不像固定行程的摇杆，需要靠表面滑动与触觉反馈建立位置感；软件可将其组织为不同的虚拟输入。扳机既有连续行程，也在末端提供数字触发，所以同一根手指的动作可以分配不同命令。原厂商店同时列出陀螺仪与加速度计，但它们能用于什么仍取决于映射。整个设计没有把所有操作固定死在外壳上，而是将结构和软件配置共同当成控制方案。本文描述其可配置能力，不采用原厂关于精度提升的宣传语作为独立测量结论。",
+      "usage": "实际使用先将控制器通过原套装的无线接收器或Micro USB有线方式连接电脑，再进入Steam的映射环境。原商店明确要求能运行Big Picture模式的电脑来查看、编辑、保存与分享配置。玩家可以选择已有社区安排，也可以自己将触摸板、按钮与扳机对应到游戏命令。开始游戏后，需要逐项检查移动、视角、菜单和动作是否符合习惯；一种适合指针操作的设置未必适合另一个需要连续转向的游戏。触摸板提供了不同于摇杆的输入范围，也带来重新学习的过程。保存配置以后，仍应理解每个区域的当前作用，不能把“支持映射”理解成插上即适配全部游戏。",
+      "significance": "Steam Controller展示了手柄外壳如何成为软件界面的延伸。它的不同之处不只是多几个按钮，而是允许同一触摸表面在不同游戏里承担不同角色，让原先属于桌面键鼠的动作被重新安排到双手之间。社区配置又使操作方案成为能够分享的内容，玩家接触游戏时也接触别人设计的控制逻辑。与封闭规则的早期电视游戏旋钮并读，可以看见输入映射从产品内固定关系转向用户可以编辑的关系。这个比较无需宣布后来产品都被它改变；单件硬件已经清楚呈现了灵活性与学习成本如何同时产生，也提供了Valve在电脑游戏输入上的一段具体探索。",
+      "limitations": "自由映射并不抹去游戏本身的输入假设。某些操作组合、界面文字或指针任务可能仍以桌面使用为前提，触摸板与背面按钮也不是所有人的熟悉动作。使用者需要设置、试用和修改，因此配置质量与个人学习时间会成为体验的一部分。原厂所写的无线距离与电池续航带有估算或初步测试条件，本文不把它们当保证值；也不根据当前商店的用户评价比例推导二零一五年普遍口碑。原版采用Micro USB与AA电池等既有配置，不能借用二零二六年款的连接器或新功能。停产、停售与软件支持终止没有在本项单独核准，因此不填一个想当然的结束日期。",
+      "id": "待协调分配",
+      "idStatus": "coordinator-assignment-pending",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Valve",
+      "softwareEcosystem": "Steam / SteamOS",
+      "aliases": [
+        "Valve Steam Controller（2015）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "控制器或配套",
+        "2015年"
+      ],
+      "summary": "二零一五年的Steam Controller是Valve制造的独立控制器，原商店登记十一月十日发布。它与二零二六年的同名产品属于不同硬件实体，不能只按商品名称相似就合并。Valve试图让需要键鼠式输入……",
+      "features": [
+        "双触摸板与触觉反馈",
+        "两段扳机与可编辑映射"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2015-11-10原商店上市记录；原2015硬件；非2026同名款",
+          "sourceIds": [
+            "G150-S020"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "双触摸板、两段扳机；需要Steam映射软件条件。",
+          "sourceIds": [
+            "G150-S020"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S020"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S020"
+        ],
+        "design": [
+          "G150-S020"
+        ],
+        "usage": [
+          "G150-S020"
+        ],
+        "significance": [
+          "G150-S020"
+        ],
+        "limitations": [
+          "G150-S020"
+        ]
+      },
+      "relatedSlugs": [
+        "nintendo-color-tv-game-15"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "deferredRelatedSlugs": [
+        "valve-steam-controller-2026"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-4",
+        "stageTitle": "混合使用与PC游戏生态",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1063,
+      "lifecycleStatus": "已核身份节点；结束节点未单独核准",
+      "lifecycleEvents": [
+        {
+          "eventType": "launch",
+          "date": "2015",
+          "datePrecision": "year",
+          "regionVersion": "原2015硬件；非2026同名款",
+          "sourceIds": [
+            "G150-S020"
+          ],
+          "description": "2015-11-10原商店上市记录",
+          "temporalPerspective": "冻结入选记录已核日期；原具体事件保留在description，未把排序年细化为未核日期"
+        }
+      ]
+    },
+    {
+      "slug": "sony-access-controller",
+      "name": "Access controller for PS5",
+      "brand": "Sony",
+      "year": 2023,
+      "dateLabel": "2023-12-06上市",
+      "dateKind": "launch",
+      "regionVersion": "原PS5 Access套装",
+      "context": "Access controller for PS5在二零二三年十二月六日上市。它以一套可以更换按钮帽与摇杆帽的输入装置，回应不同动作能力与摆放方式的需求。此处的年代属于原始PS5套装，操作说明则采用当前官方支持页并明确版本范围。与常规双手握持手柄相比，它让按钮的触感、空间朝向和软件命令具有更多安排余地。展厅关注的是玩家怎样把能够完成的动作变成游戏可识别的输入，不把商品的可访问性名称当作人人都适用的证明。产品还需要与PS5及具体游戏形成完整控制方案，物理改动和软件设置必须一起阅读。",
+      "design": "套装包含十九个可换按钮帽与三个摇杆帽，替换表面给触发方式提供选择，软件配置则决定每个位置发出什么命令。当前官方指南把控制器方向作为配置的一部分，说明用户在设置左右上下朝向之后，也要实际摆到相应方向。它不是单靠圆形外观就自动理解人的姿势。主机配置库最多可存三十份方案，控制器快捷切换的是三个已分配槽位，这两个数字应严格区分。按钮还可设置持续保持或同时触发另一个按键，摇杆灵敏度与死区则允许调整输入响应。结构与参数共同决定一次动作会如何进入游戏。",
+      "usage": "配置从PS5的配件设置进入Access配置库，创建方案后先核对方向，再把需要的功能分配到具体按钮。接着选择一个控制器槽位保存快捷配置，并用游戏中的动作测试其效果。如果摇杆的轻微动作总被忽略，或不经意动作就触发移动，可在死区与灵敏度设置中观察输入，再调到更合适的范围。切换键让三个已分配方案轮换，长按还能查看当前按键关系。配置菜单本身也需要交叉键、圆圈键和方向输入等必要命令，不能为游戏自定义后忘记保留主机操作途径。帽子的外形选择、物理摆放和菜单测试因此形成一个循环，而不是替换配件一次就结束。",
+      "significance": "Access把辅助输入的设计放在可触摸的组件与可以理解的配置流程中。按钮帽的差异处理手与表面的关系，映射处理动作与游戏命令的关系，方向设置处理设备与身体所在位置的关系。三个层次不必同时采用一种标准答案，因而更适合围绕使用者调整。与Xbox Adaptive Controller并读时，观众能看到同类目标有不同产品组织：一件以外接输入中心为重心，一件以自身布局与帽子替换为显著入口。策展意义不是排名，而是让“怎样操作”成为可讨论的工程内容；即使游戏画面不变，输入路径也可以经过认真设计。",
+      "limitations": "更换部件与软件参数仍不能保证适合所有人，实际方案可能需要第二只控制器、额外器件或协助者参与。官方指南明确提示，不分配主机所需输入时要用其他控制器或基础配置补足，说明自由映射也有操作边界。当前菜单能提供的持续保持与同时按键功能，不应无证据追溯为首发每个系统版本的相同实现；本项把指南作为现时操作说明。三十份主机配置也不代表控制器能离线快捷存三十份。设备的用途取决于游戏是否需要无法通过现有方案完成的组合动作，最终舒适程度与可靠性应由具体使用者测试，不能借原厂宣传给出普遍结果。",
+      "id": "待协调分配",
+      "idStatus": "coordinator-assignment-pending",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Sony Access controller for PS5"
+      ],
+      "tags": [
+        "游戏与互动",
+        "控制器或配套",
+        "2023年"
+      ],
+      "summary": "Access controller for PS5在二零二三年十二月六日上市。它以一套可以更换按钮帽与摇杆帽的输入装置，回应不同动作能力与摆放方式的需求。此处的年代属于原始PS5套装，操作说明则采用当……",
+      "features": [
+        "可替换按钮帽与摇杆帽",
+        "PS5配置映射与方向设置"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2023-12-06上市；原PS5 Access套装",
+          "sourceIds": [
+            "G150-S011"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "19可换按钮帽与3摇杆帽；不保证适合所有身体条件。",
+          "sourceIds": [
+            "G150-S011"
+          ]
+        },
+        {
+          "label": "配置存储范围",
+          "value": "PS5配置库最多30份；控制器3个快捷槽位",
+          "sourceIds": [
+            "CWG-S023"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S011",
+        "CWG-S023"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S011",
+          "CWG-S023"
+        ],
+        "design": [
+          "G150-S011",
+          "CWG-S023"
+        ],
+        "usage": [
+          "G150-S011",
+          "CWG-S023"
+        ],
+        "significance": [
+          "G150-S011",
+          "CWG-S023"
+        ],
+        "limitations": [
+          "G150-S011",
+          "CWG-S023"
+        ]
+      },
+      "relatedSlugs": [
+        "xbox-adaptive-controller"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "deferredRelatedSlugs": [
+        "sony-playstation-5"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-5",
+        "stageTitle": "当代型号与服务条件",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1048,
+      "specifications": [
+        {
+          "label": "可替换表面",
+          "value": "19按钮帽与3摇杆帽",
+          "sourceIds": [
+            "G150-S011"
+          ],
+          "versionScope": "2023原PS5套装"
+        },
+        {
+          "label": "配置",
+          "value": "主机最多30份；控制器快捷3槽",
+          "sourceIds": [
+            "CWG-S023"
+          ],
+          "versionScope": "2026-10-11当前原厂支持说明"
+        }
+      ],
+      "lifecycleStatus": "已核身份节点；结束节点未单独核准",
+      "lifecycleEvents": [
+        {
+          "eventType": "launch",
+          "date": "2023",
+          "datePrecision": "year",
+          "regionVersion": "原PS5 Access套装",
+          "sourceIds": [
+            "G150-S011"
+          ],
+          "description": "2023-12-06上市",
+          "temporalPerspective": "冻结入选记录已核日期；原具体事件保留在description，未把排序年细化为未核日期"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "CWG-S019",
+      "title": "Nintendo Color TV-Game 15 console, 1977 — 馆藏对象档案",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8086582/nintendo-color-tv-game-15-console-1977",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型对象档案",
+      "verifiedScope": "对象身份、1977日本制造、Nintendo与Mitsubishi Electric共同maker字段",
+      "verificationMethod": "馆藏对象正文与maker字段阅读",
+      "limits": "馆藏单对象记录；不推导所有颜色版本，也不证明销量。",
+      "independence": "独立馆藏机构自己的实物目录",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S020",
+      "title": "Nintendo Color TV-Game 15 — D.Lo实物观察",
+      "publisher": "Nintendo Sega Japan / D.Lo",
+      "url": "https://nintendosegajapan.com/2016/08/20/nintendo-color-tv-game-15-%E3%82%AB%E3%83%A9%E3%83%BC-%E3%83%86%E3%83%AC%E3%83%93%E3%82%B2%E3%83%BC%E3%83%A015/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "个人原始实物观察",
+      "verifiedScope": "有线可分离旋钮、球拍游戏设置；作者样机为偏红橙色第二版",
+      "verificationMethod": "原始署名正文阅读，2016-08-20，更新2016-09-24",
+      "limits": "个人收藏实物观察；不是原厂年月证据，不把样机颜色或评价推广至全部版本。",
+      "independence": "个人收藏者独立叙述，非厂商宣传；编辑审查与利益关系未核",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S021",
+      "title": "セガハードストーリー：Dreamcast",
+      "publisher": "SEGA",
+      "url": "https://www.sega.jp/history/hard/column/column_06.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "控制器模拟摇杆/LR扳机、VMU窗口与小型游戏、日版33.6kbps、1998日本推出及2001生产结束",
+      "verificationMethod": "2018-11-05品牌回顾正文阅读，重点133—182及家庭硬件撤退段",
+      "limits": "品牌回顾自己的产品；不引用夸大影响、销量或软件获奖；生产结束不等于服务结束。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S022",
+      "title": "Xbox Adaptive Controller 产品与规格",
+      "publisher": "Microsoft Xbox",
+      "url": "https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "外部输入hub、19个3.5mm输入/2USB/独立音频口、映射与3配置切换；当前平台兼容条件",
+      "verificationMethod": "当前产品正文/规格/脚注阅读",
+      "limits": "当前资料包括后来的Series与Windows11，不能反推2018首发兼容；外部辅助配件另购。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S023",
+      "title": "How to set Access controller profiles",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/en-us/support/hardware/access-profiles/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "PS5配置库30份与控制器3槽；物理方向/映射/开关保持/死区测试",
+      "verificationMethod": "原厂支持正文26—138阅读",
+      "limits": "当前系统菜单；不声明所有功能均在2023首发相同版本具备。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S024",
+      "title": "Virtual Boy 美国原版 Instruction Booklet（镜像）",
+      "publisher": "Nintendo of America；Gamepare保存",
+      "url": "https://www.gamepare.it/files/Virtual%20Boy%20Instruction%20Booklet%20%28USA%29.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册镜像（索引可读）",
+      "verifiedScope": "仅搜索索引明确原机每次开始需调整IPD与FOCUS",
+      "verificationMethod": "PDF确认25页；正文文本不可提取，截图返回空；仅检索索引句实际可读",
+      "limits": "非日本地区说明书；只能支持共通光学调整，不声称完整手册阅读，不采用地区年龄规定或逐键操作。",
+      "independence": "内容属于Nintendo，镜像不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "G150-S011",
+      "title": "Access controller launches today",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/?p=387113",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2023-12-06",
+      "verifiedScope": "2023-12-06实际上市；19按钮帽和3摇杆帽、自定义控制安排。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S011",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S012",
+      "title": "Nintendo corporate history",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/corporate/history/index.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "日本电视游戏15/6(1977)、SFC(1990)、N64(1996)、GBA/GC(2001)、3DS(2011)、WiiU(2012)、Switch(2017)、Switch2(2025)逐型年份和家用/掌上分类。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S012",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S014",
+      "title": "Iwata Asks Game & Watch",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/n10/interview/game_and_watch/vol1/index2.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "创作者访谈脚注Ball原版1980-04；接球游戏与计算器芯片路径。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S014",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S020",
+      "title": "Steam Controller (2015) official store record",
+      "publisher": "Valve",
+      "url": "https://store.steampowered.com/app/353370/Steam_Controller_2015/?l=english",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "制造商Valve、2015-11-10上市；双触摸板、两段扳机、Steam映射条件。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S020",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "L:AMX01",
+      "title": "Gaming Gets More Inclusive With The Launch Of The Xbox Adaptive Controller",
+      "publisher": "Xbox Wire",
+      "url": "https://news.xbox.com/en-us/2018/09/04/gaming-gets-more-inclusive-with-the-launch-of-the-xbox-adaptive-controller/",
+      "publishedOn": "2018-09-04",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "品牌发布明确2018-09-04起可购买，兼容当时Xbox One及Windows10；合作开发与包装分列，不称所有人都可直接使用。",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMX01",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:AMX02",
+      "title": "Xbox Adaptive Controller — IDEA Gallery",
+      "publisher": "IDSA",
+      "url": "https://www.idsa.org/awards-recognition/idea/idea-gallery/xbox-adaptive-controller/",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原始索引年份为2021及微软设计团队，直接正文403。",
+      "sourceType": "设计奖原数据库索引",
+      "independence": "评奖机构原索引",
+      "commercialDisclosure": "具体参赛及推广关系未核实",
+      "verificationMethod": "搜索索引/可读摘要核查；已取得正文的部分另见verifiedScope，不声称全文已读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMX02",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:AMX03",
+      "title": "2021 International Design Excellence Awards honor world’s best designs",
+      "publisher": "IDSA",
+      "url": "https://www.idsa.org/2021-international-design-excellence-awards-idea-honor-worlds-best-designs/",
+      "publishedOn": "2021-09-21",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "主办方原始索引明确2021 Consumer Technology Gold和Best in Show；正文403，页面全部字段未读。",
+      "sourceType": "设计奖主办方结果公告索引",
+      "independence": "评奖机构原索引",
+      "commercialDisclosure": "具体参赛及推广关系未核实",
+      "verificationMethod": "搜索索引/可读摘要核查；已取得正文的部分另见verifiedScope，不声称全文已读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMX03",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:AMX04",
+      "title": "Xbox Adaptive Controls: Which Switch Is Best?",
+      "publisher": "PL Tech Reviews / Phoebs Lyle",
+      "url": "https://pltechreviews.co.uk/2019/07/19/xbox-adaptive-controls-which-switch-is-best/",
+      "publishedOn": "2019-07-19",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "残障用户博主讲述自购外接开关与个人操作；一手个人体验，不是年度奖，也不能代表所有障碍类型。",
+      "sourceType": "博主个人使用与评论",
+      "independence": "用户第一人称；文章2023-01-21有更新",
+      "commercialDisclosure": "可见自购表述；未找到完整赞助或联盟披露，未核实",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMX04",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:AMX05",
+      "title": "Xbox Adaptive Controller wins top design prize at D&AD Festival",
+      "publisher": "Microsoft UK",
+      "url": "https://ukstories.microsoft.com/features/xbox-adaptive-controller-wins-top-design-prize-at-dad-festival/",
+      "publishedOn": "2019-05-24",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "品牌报告2019 D&AD Black Pencil；对应D&AD原数据库尚未补。",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "原机构项目字段/标识核查，年/级别/型号与访问限制逐项见verifiedScope",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMX05",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:EA04-D01",
+      "title": "セガハード大百科 — ドリームキャスト",
+      "publisher": "SEGA",
+      "url": "https://www.sega.jp/history/hard/dreamcast/",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读官方硬件档案：1998-11-27日本推出、调制解调器/Dream Passport/Visual Memory；2001-01-31宣布退出家用硬件，2001年3月停止生产。生产终点不等于软件/网络同时全部终止。",
+      "sourceType": "品牌硬件档案及当时资料",
+      "independence": "规格/经营退出事实一手；非独立口碑与失败因果研究",
+      "commercialDisclosure": "品牌回顾页，保留官方价值判断与实证区别。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA04-D01",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:EA04-D02",
+      "title": "セガ・アーケードゲームヒストリー（1999〜2002年）",
+      "publisher": "SEGA",
+      "url": "https://www.sega.jp/history/arcade/topics/6526/index.html",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读档案检索正文：NAOMI与Dreamcast相近架构的移植关系；不据此认定全部街机游戏原样移植。",
+      "sourceType": "品牌技术历史",
+      "independence": "一手技术路线回顾；同品牌非独立市场研究",
+      "commercialDisclosure": "品牌历史资料。",
+      "verificationMethod": "搜索索引/可读摘要核查；已取得正文的部分另见verifiedScope，不声称全文已读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA04-D02",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:EA05-V01",
+      "title": "社長が訊く「ニンテンドー3DS」— バーチャルボーイにかけた想い",
+      "publisher": "Nintendo / Iwata Asks",
+      "url": "https://www.nintendo.co.jp/3ds/interview/hardware/vol1/index2.html",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读岩田/宫本原始访谈及脚注：Virtual Boy为1995年原装置；立体构想、分层二维与资源取舍；岩田明确称商业失败。不提供可靠的最后生产日或全面伤害统计。",
+      "sourceType": "开发者原始访谈",
+      "independence": "开发者一手回忆；受雇品牌、商业失败评价需按发言者归属",
+      "commercialDisclosure": "品牌访谈页。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA05-V01",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:EA05-V02",
+      "title": "Virtual Boy（1995年官方产品页）",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/n09/vue/index.html",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "页面可访问并留1995历史标记，但工具返回日文乱码；1995-07-21条目待正确编码全文复核，当前不承担具体日或正文限制事实。",
+      "sourceType": "原官方产品页（编码待复核）",
+      "independence": "第一方，但本轮只核页面/年代线索",
+      "commercialDisclosure": "品牌产品页。",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA05-V02",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    }
+  ],
+  "validation": {
+    "exhibitCount": 7,
+    "minimumChineseCharacters": 1044,
+    "sourceClosure": true,
+    "relatedSlugClosure": true,
+    "noDuplicationWithComplete14": true
+  },
+  "importInstructions": [
+    "由主线程统一核验并分配ID；此包保存不等于已导入。",
+    "图片与视频均为合法文字回退；未下载媒体。",
+    "阶段沿expanded-page-plan，日期按具体事件保留。"
+  ]
+}

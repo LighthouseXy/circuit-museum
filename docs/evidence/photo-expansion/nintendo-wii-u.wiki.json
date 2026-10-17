@@ -1,0 +1,94 @@
+{
+  "slug": "nintendo-wii-u",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Wii U Console and Gamepad.png",
+      "pageid": 23214469,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wii_U_Console_and_Gamepad.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Wii_U_Console_and_Gamepad.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Wii_U_Console_and_Gamepad.png/960px-Wii_U_Console_and_Gamepad.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2017-02-25 17:11:55",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Wii U Console and Gamepad",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Wii U|Wii U GamePad",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Wii U Console and Gamepad transparent background",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-12-16 14:58:52",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<ul class=\"gallery mw-gallery-traditional\">\n\t\t<li class=\"gallerybox\" style=\"width: 155px\">\n\t\t\t<div class=\"thumb\" style=\"width: 150px; height: 150px;\"><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Wii_U_Console_and_Gamepad.jpg\" class=\"mw-file-description\" title=\"File:Wii U Console and Gamepad.jpg\"><img alt=\"File:Wii U Console and Gamepad.jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Wii_U_Console_and_Gamepad.jpg/120px-Wii_U_Console_and_Gamepad.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"120\" height=\"80\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Wii_U_Console_and_Gamepad.jpg/250px-Wii_U_Console_and_Gamepad.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"3213\" data-file-height=\"2142\"></a></span></div>\n\t\t\t<div class=\"gallerytext\"><a href=\"//commons.wikimedia.org/wiki/File:Wii_U_Console_and_Gamepad.jpg\" title=\"File:Wii U Console and Gamepad.jpg\">File:Wii U Console and Gamepad.jpg</a></div>\n\t\t</li>\n</ul>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Takimata\" title=\"User:Takimata\">Takimata</a>　(edited by:<a href=\"//commons.wikimedia.org/wiki/User:Tokyoship\" title=\"User:Tokyoship\">Tokyoship</a>)",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Wii U Console and Gamepad transparent background",
+      "artist": "Takimata 　(edited by: Tokyoship )",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2012-12-16 14:58:52"
+    }
+  ]
+}

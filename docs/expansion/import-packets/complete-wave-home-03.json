@@ -1,0 +1,1389 @@
+{
+  "schemaVersion": 2,
+  "checkedOn": "2026-10-11",
+  "status": "reviewed-staged-import-packet",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ],
+    "snapshotPath": "docs/expansion/base-40-preserved.json"
+  },
+  "exhibits": [
+    {
+      "id": "98",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "husqvarna-solar-mower-1995",
+      "name": "Solar Mower",
+      "brand": "Husqvarna",
+      "year": 1995,
+      "dateLabel": "1995年销售（原厂历史）",
+      "dateKind": "launch",
+      "regionVersion": "1995首代太阳能割草机器人；不混1998 Automower",
+      "category": "robotics",
+      "categoryLabel": "机器人与陪伴",
+      "museumCategory": "robotics",
+      "aliases": [
+        "Husqvarna Solar Mower"
+      ],
+      "tags": [
+        "机器人与陪伴",
+        "1995首代太阳能割草机器人；不混1998 Automower"
+      ],
+      "summary": "在预先划定的草坪内自动移动并修剪，太阳能参与供电。1995 Solar Mower把推动机器的工作交给机器人，同时要求人先把可工作的环境准备好。",
+      "context": "Husqvarna的原厂历史将Solar Mower的销售放在1995年，另一次纪念公告也回指这个具体节点。太阳能与自动割草在这里共同进入家庭户外任务，但后代机器人割草机的产量、效率与联网能力不归给初代。补读的2000年原厂维修手册专门区分1995与1998之后的机型，提供早期边界线系统的证据。它适合与室内清扫机器人并看：两者都让机器自己移动，却面对完全不同的材料、场地与准备工作。草坪并不是任意开放空间，割草任务要先被安排成机器能够处理的范围。",
+      "design": "1995 Solar Mower以边界线与相应发生器界定工作区域，后期维修资料说明它会在到达线前转向；同一手册又明确1998后的机型与发生器不能随意混用。这种安排把部分环境信息放在地面设施里，而不只放在机器人内部。机身承担移动和修剪，太阳能系统参与供电，边界设施告诉它任务在哪里结束。本文没有把现代无边界线定位、手机地图或联网天气功能移植初代。讨论它的设计，关键是机器人与经过布置的草坪共同形成工作系统，单看机器外形不能理解全部自动化条件。",
+      "usage": "人在机器工作前先规划可修剪区域，安排边界线与匹配设备，并留意场地中不应进入的部分。随后机器在所划范围内移动并执行割草，人从持续推动转为准备场地与照看工作状态。完成并不意味着草坪无需其他管理，边缘、障碍变化、部件清理与季节收纳仍会形成任务。本文只概括已核系统关系，不给出布线距离、坡度、刀片处理和维修步骤；后期手册面向维修人员，不能把所有参数当1995消费者操作指南。太阳能也使设备与户外光照相关，不能由名称推出任意天气下相同工作表现。",
+      "significance": "Solar Mower的日常价值来自把移动工作转移给机器，但它同时使环境准备更重要。人不再跟在每一条割草路径旁推动，却要先表达可工作范围，并维护这个表达。与Roomba的碰撞转向比较，边界线是一种提前写在场地里的规则；两种形式都说明机器人并不是凭空知道人的全部意图。太阳能路线又让能源供给成为外观与场地条件的一部分。本文不以绿色称号代替生命周期测量，也不推断具体节省时间；它展示的是自动任务如何由机器、设施、能源和人共同成立。",
+      "limitations": "1995销售节点来自原厂历史，未核全球地区首售日。2000维修手册属于后期同系列资料，本轮只采用明确点名1995的兼容与边界段，不把Auto Mower、1998后机型的充电站、面积和程序转给它。太阳能身份不证明任何地点都足够供电，也不构成环保量化结论。我们没有实测草坪覆盖、修剪质量或噪声，存世机器的电池、刀盘和控制器还可能经历改装。展览能说明早期自动割草系统的分工，今日运行和场地适用性仍需对应说明与实物检查，不把历史功能写成当代安全承诺。",
+      "features": [
+        "1995销售节点；太阳能机器人割草路线。",
+        "后期原厂手册明确1995边界线及版本兼容区别。",
+        "不并入现代无边界线导航与联网功能。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "原厂记Solar Mower1995售出，自动、机器人、太阳能；后代效率数不归给初代。",
+          "sourceIds": [
+            "HC150-S033",
+            "HC150-S034"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S033"
+      ],
+      "dateSourceIds": [
+        "HC150-S033"
+      ],
+      "sourceIds": [
+        "HC150-S033",
+        "HC150-S034",
+        "CWH-S004"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S033",
+          "HC150-S034"
+        ],
+        "design": [
+          "HC150-S033",
+          "HC150-S034",
+          "CWH-S004"
+        ],
+        "usage": [
+          "HC150-S033",
+          "HC150-S034",
+          "CWH-S004"
+        ],
+        "significance": [
+          "HC150-S033",
+          "HC150-S034",
+          "CWH-S004"
+        ],
+        "limitations": [
+          "HC150-S033",
+          "HC150-S034",
+          "CWH-S004"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "irobot-roomba-2002"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "irobot-roomba-2002"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-2",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "chineseCharactersInFiveSections": 920,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-03.json"
+    },
+    {
+      "id": "99",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "apple-airport-1999",
+      "name": "AirPort Base Station（首代）",
+      "brand": "Apple",
+      "year": 1999,
+      "dateLabel": "1999-07-21公布；公告预计9月供货",
+      "dateKind": "announcement",
+      "regionVersion": "北美首代AirPort；日本后称AirMac，不把日本计划日期当销售",
+      "category": "telephony",
+      "categoryLabel": "电话、寻呼与接入",
+      "museumCategory": "telephony",
+      "aliases": [
+        "Apple AirPort Base Station（首代）"
+      ],
+      "tags": [
+        "电话、寻呼与接入",
+        "北美首代AirPort；日本后称AirMac，不把日本计划日期当销售"
+      ],
+      "summary": "将有线网络入口转换为计算机可以无线接入的局域网络。首代AirPort基站减少桌边的一段连线，也让设置、适配卡和互联网入口成为共同条件。",
+      "context": "Apple于1999年7月21日公布AirPort无线网络方案，公告预计同年九月供货。本件选取首代基站，保留公布事件，不把预期供货写成每个地区已经实际销售。日本后来的命名与上市公告又说明品牌名称和地区节奏需要分开。基站的普通任务是让计算机在一定空间内接入网络，原有有线入口仍要在另一端存在。与初代FRITZ!Box比较，一件把无线链路安排在计算机与基站之间，另一件先把DSL与有线局域网连接起来。两条接入路线都不是一台外壳独自完成互联网。",
+      "design": "原公告列出11Mbps无线网络、调制解调器和以太网连接。基站位于两种连接之间：一端接到外部线路，另一端让装有相应能力的计算机以无线方式联系。这里的11Mbps是公告技术规格，不是任意房间里的实际下载速度。适配端、无线环境和外部网络的条件都会参与最终体验。它的设计意义可以从连接关系解释，而不只描述圆形外壳；拿走桌边一段网线之后，设置和兼容并没有一起消失。本文也不加入后来AirPort的高速标准、存储或流媒体功能。",
+      "usage": "建立连接时，使用者需要准备相应网络入口和计算机端能力，把基站接入，并通过设置让计算机找到可用无线网络。随后人可以在覆盖的空间内移动计算机，仍要留意连接状态以及是否存在能够访问外网的线路。无线接入与互联网通畅不是同一个判断：计算机联系到基站后，外部线路和服务也要工作。这个分工帮助理解联网问题为何可能发生在不同位置。本文概括同期公告支持的接入关系，不给出今天系统的配置教程，也不承诺现代计算机和安全设置能够直接兼容首代设备。",
+      "significance": "AirPort的日常价值在于改变计算机摆放与连线之间的关系。一段无线链路使桌面位置不再完全由那段线的长度决定，但基站、电源和网络入口仍固定在某处。与便携电脑并看，移动设备与移动连接是两项需要配合的能力，不能只看笔记本本身的重量。与有线路由器对照时，观众可以看到便利从哪里获得，又有哪些任务留给人：选择网络、设置接入和辨认状态。本文不把品牌公告对无线生活的愿景写成所有家庭的现实，也不从标称速率推断日常使用一定流畅。",
+      "limitations": "本件以1999年公告为年代锚，九月供货是公告计划，日本名称和上市另有记录。技术规格来自厂商，不是独立测得的房间覆盖或吞吐表现；本文未做当前运行与兼容性测试。首代无线机制已不同于后来网络设备，不能从今天AirPort或其他路由器的说明反推其功能。电源、调制解调器与地区线路也要对应具体版本。本件不推断当代安全性或支持状态，产品历史能够说明无线接入怎样组织连接，但实际使用需要另核软硬件和网络环境。缺少图片许可不会影响这一文字说明。",
+      "features": [
+        "1999-07-21公布；九月供货保留为计划。",
+        "公告规格11Mbps无线、调制解调器与以太网。",
+        "日本命名及地区上市单列，不合并全球日期。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "1999-07-21公布，11Mbps网络、调制解调器和以太网连接；日本名称另有商标约束。",
+          "sourceIds": [
+            "HC150-S027",
+            "HC150-S028"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S027"
+      ],
+      "dateSourceIds": [
+        "HC150-S027"
+      ],
+      "sourceIds": [
+        "HC150-S027",
+        "HC150-S028"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S027",
+          "HC150-S028"
+        ],
+        "design": [
+          "HC150-S027",
+          "HC150-S028"
+        ],
+        "usage": [
+          "HC150-S027",
+          "HC150-S028"
+        ],
+        "significance": [
+          "HC150-S027",
+          "HC150-S028"
+        ],
+        "limitations": [
+          "HC150-S027",
+          "HC150-S028"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "imac-g3",
+        "avm-fritzbox-2004"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "imac-g3",
+        "avm-fritzbox-2004"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "communications-expanded-2",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "chineseCharactersInFiveSections": 922,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-03.json"
+    },
+    {
+      "id": "100",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "sony-aibo-ers110",
+      "name": "AIBO ERS-110",
+      "brand": "Sony",
+      "year": 1999,
+      "dateLabel": "1999-05-11公布；6月已完成5000件销售",
+      "dateKind": "announcement",
+      "regionVersion": "日本3000／美国2000限量；排除ERS111与ERS1000",
+      "category": "robotics",
+      "categoryLabel": "机器人与陪伴",
+      "museumCategory": "robotics",
+      "aliases": [
+        "Sony AIBO ERS-110"
+      ],
+      "tags": [
+        "机器人与陪伴",
+        "日本3000／美国2000限量；排除ERS111与ERS1000"
+      ],
+      "summary": "用四足动作和音调指令形成互动的娱乐机器人。ERS-110的价值在于人观察、回应和照看的过程，并不承担真实动物的全部关系，也不是家务执行器。",
+      "context": "Sony于1999年5月11日公布AIBO ERS-110，十月后续公告又确认六月已有五千件销售。公告和销售各自作为事件保留，不把后续ERS-111的数量和功能并入。本件是面向互动娱乐的四足机器人，与割草或清扫机器人不同，它的任务不是把某块表面处理干净。使用者观察它怎样移动、对信号作出反应，并通过互动赋予这件机器日常位置。娱乐可以是一种普通产品价值，不需要先证明它改变整个家庭市场，也不能把机器的表现直接理解为真实动物拥有的感受。",
+      "design": "同期公告列出十八个自由度与音调遥控方式，让四足外形、关节运动和输入之间有了具体联系。多个活动关节使姿态能够变化，声音指令则提供人与机器交换意图的入口。观看时可以将躯体动作与控制信号一起阅读：机器的表现来自机构、传感和程序的配合，人根据姿态与反馈解释发生了什么。本文不把2018年ERS-1000的联网服务、摄像识别和充电台行为移植到ERS-110。动物外观是一种可亲近的表达方式，但其运动与响应仍要按照对应硬件理解。",
+      "usage": "互动过程包括为机器准备活动空间、开始运行、观察动作，再用原系统能够识别的音调方式给予指令。人会根据响应决定下一步，或者仅观看它在程序组织下的表现。机器自行运动并不意味着空间中的物品完全不需要人安排；它的关节、电源与活动范围都属于使用条件。结束之后，收纳和照看也由人负责。本文概括公告明确的动作与输入关系，不列未经原说明书核准的喂养式玩法、维护拆装或控制音调序列，也不以拟动物词语代替实际功能。",
+      "significance": "ERS-110展示电子产品可以把价值放在互动本身。与播放器把内容交给人不同，这件机器通过身体动作持续给人回应；人的观察又让这些响应被理解为行为。它适合与清扫机器人并列，让观众区分机器人能做什么工作，以及为何有人愿意与它相处。四足造型并不自动构成陪伴效果研究，娱乐体验也不必被写成治疗或情感替代。它的普通意义是将程序、机械动作与人的期待连接起来，说明一件可移动的物件如何在家庭中获得使用方式，而不是只靠参数获得身份。",
+      "limitations": "五月公告与六月已售记录相互补充，但数量只属于对应限量销售，不推广为全年或所有地区总量。同期厂商描述具有宣传立场，本文没有独立长期用户评测与实机观察，不能确认互动一定自然，也不推断儿童、老人或其他群体效果。关节自由度不等于任意运动都可安全执行，音调控制也不证明所有环境中都可靠。存世ERS-110的电池与机构可能老化，原软件和配件的完整性需另核。展览讲述原产品怎样组织动作与互动，不承诺今天仍可获得与首发相同的服务或运行状态。",
+      "features": [
+        "1999-05-11公布；六月已售另由同期后续公告确认。",
+        "四足、十八自由度与音调遥控。",
+        "ERS-110与ERS-111、ERS-1000分别保留。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "1999公告列ERS110、18自由度与音调遥控；10月回顾证实6月5000件销售。",
+          "sourceIds": [
+            "HC150-S035",
+            "HC150-S036"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S035"
+      ],
+      "dateSourceIds": [
+        "HC150-S035"
+      ],
+      "sourceIds": [
+        "HC150-S035",
+        "HC150-S036"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S035",
+          "HC150-S036"
+        ],
+        "design": [
+          "HC150-S035",
+          "HC150-S036"
+        ],
+        "usage": [
+          "HC150-S035",
+          "HC150-S036"
+        ],
+        "significance": [
+          "HC150-S035",
+          "HC150-S036"
+        ],
+        "limitations": [
+          "HC150-S035",
+          "HC150-S036"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "husqvarna-solar-mower-1995",
+        "irobot-roomba-2002"
+      ],
+      "deferredRelatedSlugs": [
+        "sony-aibo-ers-1000"
+      ],
+      "relatedModelProposals": [
+        "husqvarna-solar-mower-1995",
+        "irobot-roomba-2002",
+        "sony-aibo-ers-1000"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-2",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "chineseCharactersInFiveSections": 908,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-03.json"
+    },
+    {
+      "id": "101",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "irobot-roomba-2002",
+      "name": "Roomba Intelligent FloorVac 第一代",
+      "brand": "iRobot",
+      "year": 2002,
+      "dateLabel": "2002年（Smithsonian馆藏记录的上市年份）",
+      "dateKind": "博物馆记录上市年",
+      "regionVersion": "2002初代；Smithsonian第一代藏品为结构锚点，不混500系列及后代建图",
+      "category": "cleaning",
+      "categoryLabel": "家务与清洁",
+      "museumCategory": "cleaning",
+      "aliases": [
+        "iRobot Roomba Intelligent FloorVac 第一代"
+      ],
+      "tags": [
+        "家务与清洁",
+        "2002初代；Smithsonian第一代藏品为结构锚点，不混500系列及后代建图"
+      ],
+      "summary": "让圆盘机身沿地面移动，碰到障碍后改变方向，并用虚拟墙限制活动范围。初代Roomba替人推动一段清扫路径，也需要人准备房间和处理收集结果。",
+      "context": "Smithsonian明确这件馆藏为第一代Roomba，并把进入市场放在2002年；iRobot公司史也回指同年推出。藏品后来入藏的2013编号不替代产品年代。本件讨论早期Intelligent FloorVac，不能因为后代机器人也叫Roomba，就加入激光地图、摄像识物和手机分区功能。它使室内清扫出现另一种分工：人先准备地面，让机器移动并清理，再回来处理结果。与直立吸尘器相比，改变的不是有没有电机，而是谁持续引导工具经过房间，以及机器怎样理解能工作的范围。",
+      "design": "博物馆记录说明碰撞与红外感知参与路径，Virtual Wall则提供限制区域的方式。圆盘机身把清洁与移动放在靠近地面的同一个物件中，碰到边界或障碍后改变方向，使工作由一连串局部响应组成。虚拟墙把人的意图转成机器能够感知的限制，房间里的家具和可移动物品也继续影响它的路线。本文不从这些能力推断初代拥有完整房间地图，也不把后代自动回充、自动集尘或避开细小物品的能力并入。自动移动是一项具体能力，不是完整理解家庭环境的同义词。",
+      "usage": "使用者需要先决定哪些地面适合交给机器处理，整理可能妨碍移动的物品，并安排不希望进入的区域。机器开始后自行移动，人不必一直握着长管推动，但仍可能需要照看受阻和边缘情况。结束之后，收集的灰尘要移走，接触地面的清扫部分要清理，电源状态也要为下次准备。这样的流程让清扫前后仍有人的工作，所谓自主主要发生在移动清扫期间。本文依据馆藏说明概括任务，不给出初代未经原手册核出的按键时间、充电间隔或部件拆卸步骤。",
+      "significance": "初代Roomba的普通价值，是把持续引导清扫头的动作交给机器。它与Solar Mower可以形成室内外对照：一个借助房间里的局部响应与虚拟限制，另一个依赖提前布置的草坪边界。二者都显示自动化需要环境准备，而不仅是更聪明的控制程序。与DC01比较，又能将移动方式与灰尘收集方式分开，避免把不同改进压成同一种进步。本文不宣称每次都覆盖全部房间，也不以家族销量证明单款体验。便利来自具体任务的转移，取舍则在准备、监督和收尾中出现。",
+      "limitations": "Smithsonian记录提供清楚身份与感知路线，但不是所有地区零售版的完整说明书。厂商史在本轮主要由原机构索引支持，不能据此补写原文未读的性能参数。本文没有实测路径覆盖、清洁程度和噪声，地毯、家具及房间形状也会改变使用条件。初代功能不随系列名称自动升级，后来地图和集尘站均排除。馆藏图片标有使用条件，元数据开放不意味着照片可转载，因此保留文字回退。今天旧机的电池和机械状态另需检查，历史自主移动能力不构成当代持续可用的保证。",
+      "features": [
+        "第一代2002进入市场，排除入藏年份。",
+        "碰撞、红外与Virtual Wall限制路线。",
+        "不并入后代地图、联网与自动集尘。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "2002年（Smithsonian馆藏记录的上市年份）",
+          "sourceIds": [
+            "L:ER09",
+            "L:ER10"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "L:AMQ01",
+        "L:ER09"
+      ],
+      "dateSourceIds": [
+        "L:ER09",
+        "L:ER10"
+      ],
+      "sourceIds": [
+        "L:AMQ01",
+        "L:ER09",
+        "L:ER10"
+      ],
+      "paragraphSources": {
+        "context": [
+          "L:AMQ01",
+          "L:ER09",
+          "L:ER10"
+        ],
+        "design": [
+          "L:AMQ01",
+          "L:ER09",
+          "L:ER10"
+        ],
+        "usage": [
+          "L:AMQ01",
+          "L:ER09",
+          "L:ER10"
+        ],
+        "significance": [
+          "L:AMQ01",
+          "L:ER09",
+          "L:ER10"
+        ],
+        "limitations": [
+          "L:AMQ01",
+          "L:ER09",
+          "L:ER10"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "husqvarna-solar-mower-1995",
+        "sony-aibo-ers110",
+        "dyson-dc01"
+      ],
+      "deferredRelatedSlugs": [
+        "roborock-s7"
+      ],
+      "relatedModelProposals": [
+        "husqvarna-solar-mower-1995",
+        "sony-aibo-ers110",
+        "dyson-dc01",
+        "roborock-s7"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-2",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "补2002原版厂商说明书、精确型号编号及同期评测。",
+        "同馆藏在americanhistory.si.edu的镜像不算第二个独立来源。",
+        "补2002原使用手册，完成集尘、充电、虚拟墙和使用限制长文。",
+        "机构照片受限制，默认无图可实施；权利明确前不下载。",
+        "补独立家用观察若要写实际家务变化；不把品牌家族销量移给初代。"
+      ],
+      "chineseCharactersInFiveSections": 891,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-03.json"
+    },
+    {
+      "id": "102",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "avm-fritzbox-2004",
+      "name": "FRITZ!Box（初代无WLAN）",
+      "brand": "AVM",
+      "year": 2004,
+      "dateLabel": "2004-03-18 CeBIT公布",
+      "dateKind": "announcement",
+      "regionVersion": "德国初代两LAN口DSL路由器；不混秋季WLAN/Fon版",
+      "category": "telephony",
+      "categoryLabel": "电话、寻呼与接入",
+      "museumCategory": "telephony",
+      "aliases": [
+        "AVM FRITZ!Box（初代无WLAN）"
+      ],
+      "tags": [
+        "电话、寻呼与接入",
+        "德国初代两LAN口DSL路由器；不混秋季WLAN/Fon版"
+      ],
+      "summary": "将DSL调制解调器与路由功能放在一台家庭设备中，用两个有线局域网接口接入计算机。初代FRITZ!Box的故事从有线连接开始，Wi-Fi是后续另一节点。",
+      "context": "AVM的二十周年回顾记录初代FRITZ!Box于2004年3月18日在CeBIT公布，型号演进史又说明初代为DSL调制解调器与路由器，两只LAN接口，秋季才有带无线网络的后续产品。本件因此保留公布事件和无WLAN初代身份，不以系列后来的家庭网络功能倒推。它的普通任务是把外部接入与家内计算机的连接放在同一台物件中。与AirPort比较，一件先组织有线入口和路由，一件强调计算机与基站之间的无线链路，连接便利可以有不同组合。",
+      "design": "DSL调制解调器处理接入线路，路由功能安排局域网与外部网络的联系，两只LAN口让计算机以线缆连接。这些能力合在一个机身里，使桌面不必仅凭分别命名的盒子理解整个接入过程，但线路、供电和客户端依然存在。界面少于计算机，不意味着没有设置任务；使用者仍要让设备与服务及计算机状态相互匹配。本文不为无WLAN初代添加无线覆盖、DECT电话或后来的智能家居接口。两个有线接口的身份很具体，也避免以FRITZ!Box系列名泛化为全部家庭功能。",
+      "usage": "建立家庭连接时，人需要准备对应DSL服务，把接入线路与设备连接，再通过LAN线把计算机接到家内一端，并完成必要设置。之后可以从计算机检查局域网联系与外部访问是否分别成立。网络故障可能在接入服务、盒子配置、线缆或计算机端出现，因此一个盒子整合多项能力，也需要人区分状态。本文解释2004初代连接关系，不提供现代FRITZ!OS的菜单教程，也不假定今天的接入协议和线路仍与初代相容。机器承接长期数据转发，第一次准备和后续维护仍由人负责。",
+      "significance": "FRITZ!Box的日常价值在于把家庭联网的一组功能组织成容易定位的设备。人可以把外部线路和计算机端连接集中到同一物件周围，接入不再只是操作系统里一个抽象状态。与AirPort并看，观众能区分整合与无线两个设计选择：合并设备减少部件关系，无线改变计算机位置，但任何一种都保留外部服务依赖。初代有线版本也提醒产品历程不必只从最全面的后代讲起，功能增加发生在具体节点。本文不推断家庭普及率和连接稳定性，只展示这件设备承接什么任务。",
+      "limitations": "两项原厂历史出自同一品牌，不能称独立验证；它们支持型号、公布节点与有线初代边界，没有给出本轮完整核查的原配置手册。本文不列DSL速率、电源与地区协议，也不以当代产品页判断当前库存。秋季无线版本明确作为后续，不因外观相近另混入本件。网络服务和软件支持会改变，历史能力不证明今天仍适合部署；本轮未开展安全、兼容或运行测试。展览用有线连接过程解释家庭网络接入，若要恢复实机仍需对应版本文档与具体线路，而不是借用系列当前说明。",
+      "features": [
+        "2004-03-18 CeBIT公布。",
+        "初代DSL modem/router，两只LAN口，无WLAN。",
+        "无线后续版本另列，不移植现代系列功能。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "原厂记3月18日公布；初代DSL modem/router两LAN口，WiFi为秋季后续。",
+          "sourceIds": [
+            "HC150-S029",
+            "HC150-S030"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S029"
+      ],
+      "dateSourceIds": [
+        "HC150-S029"
+      ],
+      "sourceIds": [
+        "HC150-S029",
+        "HC150-S030"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S029",
+          "HC150-S030"
+        ],
+        "design": [
+          "HC150-S029",
+          "HC150-S030"
+        ],
+        "usage": [
+          "HC150-S029",
+          "HC150-S030"
+        ],
+        "significance": [
+          "HC150-S029",
+          "HC150-S030"
+        ],
+        "limitations": [
+          "HC150-S029",
+          "HC150-S030"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "ibm-pc-5150",
+        "imac-g3",
+        "apple-airport-1999"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "ibm-pc-5150",
+        "imac-g3",
+        "apple-airport-1999"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "communications-expanded-2",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "chineseCharactersInFiveSections": 892,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-03.json"
+    },
+    {
+      "id": "103",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "tomtom-go-2004",
+      "name": "GO（2004原版）",
+      "brand": "TomTom",
+      "year": 2004,
+      "dateLabel": "2004年3月推出（2005年报）",
+      "dateKind": "launch",
+      "regionVersion": "欧洲初代GO；不混GO300/GO系列现款",
+      "category": "navigation",
+      "categoryLabel": "导航与定位",
+      "museumCategory": "navigation",
+      "aliases": [
+        "TomTom GO（2004原版）"
+      ],
+      "tags": [
+        "导航与定位",
+        "欧洲初代GO；不混GO300/GO系列现款"
+      ],
+      "summary": "把GPS、地图、软件与触摸屏合进一台个人道路导航设备。2004 GO让位置与路线在同一工具里相接，驾驶者仍要准备目的地并判断现实道路。",
+      "context": "TomTom的2005年年报明确初代GO于2004年三月推出，后来的厂商回顾描述GPS、地图、软件与触摸屏的整合。本件选取2004原版，排除同名GO后续型号和当代手机应用。它与早期手持GPS之间的区别，不只是显示更丰富，而是位置取得与地图内容被安排到同一工具中。驾驶者需要知道去哪里，再让设备把当前位置与所选目标联系起来。产品在这里承担路线信息的组织，现实道路上的选择仍在人的动作中；推出节点也不代表每个市场同时拥有相同地图资料。",
+      "design": "触摸屏提供选择与查看的入口，GPS取得位置，地图与软件把位置放进道路关系。把几项能力放在同一机身，使使用者可以围绕一个工具准备导航，而不必先把坐标抄给另一件设备。但信息组合也增加资料条件：地图描绘什么、何时更新以及目标怎样输入，都影响结果。本文没有用后代GO手册的蓝牙、联网交通和语音控制来补充初代。原厂回顾所说整合可以支持结构解释，不能直接证明任意地点路线正确。显示的便利依赖位置与内容之间的对应，而不是只有屏幕本身。",
+      "usage": "人在出行前选择目的地并查看设备给出的路线关系，准备设备在使用场景中的位置，再在行程中把提示与实际道路联系起来。位置信息变化后，显示内容也参与理解当前进度，但道路上的标识、临时变化和现场条件仍需要人判断。本文没有读取2004原版完整手册，因此不列菜单按键、地图安装和车辆固定步骤，也不写具体驾驶操作指南。展示可以从选目标、取得位置、组织路线和现场判断四项任务解释这台工具，让自动导航与人对环境的持续注意分别保持清楚。",
+      "significance": "GO的普通价值是让多项导航资料围绕一个目的地形成使用过程。与NAV 1000的坐标读取比较，观众可以观察从知道所在位置到理解道路路线之间增加了什么；地图和软件使信息更接近人的出行任务，但也带来资料更新与选择入口。它不是万能路线判断器，也不需要靠销量冠军才值得入选。与后来手机地图并看，专用机与通用机只是功能如何放置的不同安排。本文把便利解释为减少在多件工具之间转换信息的工作，而不是推断实际节省里程、时间或驾驶风险。",
+      "limitations": "年报提供2004年三月推出，不能从公司全年总销售推出GO单款数量，也不把CEO后来获奖写成该产品获奖。原厂回顾有品牌宣传立场，本轮没有原版完整操作手册和同期独立道路测试，参数与体验不能被补齐。地图内容、地区版本及服务寿命在这里不猜，当前更新状态未核。后代同名GO和应用与本件分开，联网实时信息不随名称自动成立。历史产品能力不证明旧机今天的路线仍适用；展览只说明定位、地图与软件如何组合，不给出现实驾驶中的适用性或安全结论。",
+      "features": [
+        "2004年三月推出，依据2005原年报。",
+        "GPS、触屏、地图与软件整合。",
+        "不把后代GO、实时联网与CEO奖转给原版。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "2005年报明确2004年3月推出；厂商回顾列触屏、GPS、地图和软件组合。",
+          "sourceIds": [
+            "HC150-S023",
+            "HC150-S024"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S023"
+      ],
+      "dateSourceIds": [
+        "HC150-S023"
+      ],
+      "sourceIds": [
+        "HC150-S023",
+        "HC150-S024"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S023",
+          "HC150-S024"
+        ],
+        "design": [
+          "HC150-S023",
+          "HC150-S024"
+        ],
+        "usage": [
+          "HC150-S023",
+          "HC150-S024"
+        ],
+        "significance": [
+          "HC150-S023",
+          "HC150-S024"
+        ],
+        "limitations": [
+          "HC150-S023",
+          "HC150-S024"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "magellan-nav1000"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "magellan-nav1000"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "navigation-expanded-2",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "chineseCharactersInFiveSections": 921,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-03.json"
+    },
+    {
+      "id": "104",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "violet-nabaztag-v1",
+      "name": "Nabaztag v1",
+      "brand": "Violet",
+      "year": 2005,
+      "dateLabel": "2005年（V&A）；6月日期来自原厂文案存档",
+      "dateKind": "launch",
+      "regionVersion": "法国初代无麦克风肚脐；排除Nabaztag:tag/Karotz",
+      "category": "smart-home",
+      "categoryLabel": "智能家居与感知",
+      "museumCategory": "smart-home",
+      "aliases": [
+        "Violet Nabaztag v1"
+      ],
+      "tags": [
+        "智能家居与感知",
+        "法国初代无麦克风肚脐；排除Nabaztag:tag/Karotz"
+      ],
+      "summary": "用兔耳、灯光和声音把网络信息带到家中。Nabaztag v1把网页上的服务化作一个有动作的桌面物件，也让连接、内容设置与远端服务成为功能条件。",
+      "context": "V&A的实物研究记录Violet在2005年推出Nabaztag，馆藏编号CD.3-2022；原厂文案存档给出巴黎六月节点，并区分2006年Nabaztag/tag后代。本件讨论v1，不把后代麦克风与语音输入混入。它将天气、新闻等网络内容以桌面兔子的方式呈现，让信息不必始终靠人盯着计算机屏幕。外形的趣味是使用入口的一部分，但网络连接与内容服务同样参与。2005实物身份能够定位这条路线，不意味着当时它已具有今天智能音箱的全部问答和控制能力。",
+      "design": "V&A说明机身有可动兔耳、面部、灯光与扬声器，信息通过声音和动作进入房间。耳朵把机械运动做成可辨认的姿态，灯光提供另一种状态表达，声音则能承接文本或内容。Wi-Fi将物件与远端服务连接，网站让使用者选择需要的信息。这是一套分布在物件、网络和页面之间的界面：兔子看起来简单，设置工作却发生在别处。本文不把当代社区改装和本地服务器能力当原版配置，也不凭动物外形推断它能理解人的意图。输入与输出方式仍要按v1分开。",
+      "usage": "使用者需要先安排网络连接，在相应网站设置希望接收的内容，再把设备放到能听见或看见提示的位置。运行后，兔耳、灯光与声音让人注意到来自网络的信息；是否继续关注和如何理解，仍由人决定。某项内容若需要远端服务，物件保持供电也未必足够。这个过程让桌面提示的便利与后台依赖一起出现。本文概括原版已有消息与输出路线，不提供今天恢复旧服务的教程，也不将2006后代能够接收语音的描述写进v1。软件和服务改变属于产品历程的另一部分。",
+      "significance": "Nabaztag v1的日常价值在于让网络通知获得一种身体形式。兔耳移动与灯光亮起，给人的不是整张网页，而是一种需要辨认和回应的提示；声音又让内容可以离开屏幕。与寻呼器比较，它把通知带进家庭空间并接上更多内容，仍依赖人设置和理解。与智能音箱相比，它的拟动物表达更突出动作和外形，不必因此判断优劣。展览可以用这一件物件说明联网产品既是可触及的硬件，也是由远端内容支撑的关系；服务变动会改变日常用途，外壳却可能继续留在桌上。",
+      "limitations": "V&A是独立博物馆的实物研究，原厂文案存档则带宣传语境且当前维护方身份未完全核准，两者的角色保持区别。本文不采用世界第一只通信兔子的宣传称号，也不把服务关闭日期扩成无争议全球结论。v1与2006后代分开，后来社区恢复和改装不计原功能。没有本轮实机或当前联网验证，不能承诺新闻、天气和日历今天仍以原方式工作。灯光、耳朵与声音的存在也不证明通知可靠或用户喜欢；文字展示保留硬件表达与服务依赖，让可爱外形不遮住使用条件。",
+      "features": [
+        "2005 v1；V&A具体实物与原厂文案存档。",
+        "Wi-Fi消息、耳朵、灯光与声音输出。",
+        "网站设置内容；排除2006后代语音输入。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "V&A实物CD.3-2022列2005；WiFi消息、耳朵和灯光，后代语音不能归初代。",
+          "sourceIds": [
+            "HC150-S053",
+            "HC150-S054"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S053"
+      ],
+      "dateSourceIds": [
+        "HC150-S053"
+      ],
+      "sourceIds": [
+        "HC150-S053",
+        "HC150-S054"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S053",
+          "HC150-S054"
+        ],
+        "design": [
+          "HC150-S053",
+          "HC150-S054"
+        ],
+        "usage": [
+          "HC150-S053",
+          "HC150-S054"
+        ],
+        "significance": [
+          "HC150-S053",
+          "HC150-S054"
+        ],
+        "limitations": [
+          "HC150-S053",
+          "HC150-S054"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "speak-and-spell"
+      ],
+      "deferredRelatedSlugs": [
+        "amazon-echo-1",
+        "google-home-2016"
+      ],
+      "relatedModelProposals": [
+        "speak-and-spell",
+        "amazon-echo-1",
+        "google-home-2016"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-2",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "chineseCharactersInFiveSections": 888,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-03.json"
+    },
+    {
+      "id": "105",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "philips-airfryer-hd9220",
+      "name": "Airfryer HD9220/40",
+      "brand": "Philips",
+      "year": 2010,
+      "dateLabel": "2010-12-10规格书发行锚；未代替全球首售",
+      "dateKind": "observed",
+      "regionVersion": "德国规格书HD9220/40 230V；其它后缀不另计",
+      "category": "kitchen",
+      "categoryLabel": "厨房电器",
+      "museumCategory": "kitchen",
+      "aliases": [
+        "Philips Airfryer HD9220/40"
+      ],
+      "tags": [
+        "厨房电器",
+        "德国规格书HD9220/40 230V；其它后缀不另计"
+      ],
+      "summary": "用热空气在抽屉篮内处理食物，旋钮设置温度与计时。HD9220/40把一种台面烹饪方式做成日常器具，配料、装篮、检查与清洗仍需要人完成。",
+      "context": "Philips的HD9220/40规格书发行日期为2010年12月10日，本件用这份同期文档证明型号存在，不把文档日期写成全球首售。相同后缀的产品档案说明热空气、抽屉篮和旋钮操作，并标记停产状态。它补入一件普通厨房器具：食物放入篮中，由受控热空气处理，使用者选择条件并等待。这种价值无需被写成健康革命，烹饪方式与饮食结果并不是同一种结论。与电饭锅比较，Airfryer并不围绕米水过程组织，材料和期望结果的选择范围更广，也保留更多人的判断。",
+      "design": "抽屉承接取放，篮子容纳食材，热空气在内部参与加热，可调温度与三十分钟计时提供两个不同的设定。温度决定加工条件，计时将过程放进一段可等待的时长；旋钮让选择留在机身上，而不需要手机菜单。取出抽屉后，材料与机器内部空间之间的关系变得可见，也方便人在加工前后接手。本文没有把后来联网、双抽屉或自动食物识别移植给HD9220/40。230V属于这份明确地区规格的边界，不拿它概括所有名为HD9220的市场版本。",
+      "usage": "一次使用从准备食材和分量开始，将材料安排在篮内，再按所需任务选择温度与时间。设备供热期间，人继续管理其他厨房工作，之后取出并检查结果，必要时依对应食谱与说明处理下一步。篮与抽屉在加工后还要清理，热空气烹饪并不取消接触食物的油脂和残留。本文描述机器、人和材料的分工，不列针对任何食品的温度与时长，也不由广告食谱推出普遍结果。抽屉让取放清楚，分量和摆放却仍影响材料面对热空气的方式，便利需要与准备一起理解。",
+      "significance": "HD9220/40的普通价值，是把加热条件和时间放到一台可在台面操作的工具中。人可以借旋钮表达计划，再从抽屉取回食物；这套往返动作比笼统的少油宣传更适合解释设计。与R-10比较，热空气和微波是不同的加工关系，不能只按外形同为盒子就合并。与EC-36比较，又能看到针对固定食物任务与较多食材选择之间的取舍。本文不宣称它一定替代烤箱或油炸，也不把厂家关于脂肪减少的宣传直接转换为健康效果。它是一种具体器具，适合怎样的饭菜仍取决于人的选择。",
+      "limitations": "2010年规格书是同期身份锚，不是确认每个地区供货的销售记录；后缀/40保持，其他容量与配色不新增展品。产品档案的停产标记只说明所查页面状态，没有独立停售日和支持终止日，不虚构结束事件。现有材料出自同厂商，不是独立烹饪试验，本文不量化口感、能耗和烹饪效果。热空气路线也不能直接证明更健康，食材与整体饮食另有条件。我们没有实际运行旧机，电气、抽屉与表面状态需另核；展览可以说明旋钮、篮和加热的关系，今天是否适用仍需对应版本资料。",
+      "features": [
+        "HD9220/40，2010-12-10规格书发行锚。",
+        "热空气、抽屉篮、可调温度与30分钟计时。",
+        "停产档案标记不虚构具体停售和支持终止日。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "可调温度与30分钟计时、抽屉与篮；2010规格书明确HD9220/40。",
+          "sourceIds": [
+            "HC150-S067",
+            "HC150-S068"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S067"
+      ],
+      "dateSourceIds": [
+        "HC150-S067"
+      ],
+      "sourceIds": [
+        "HC150-S067",
+        "HC150-S068"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S067",
+          "HC150-S068"
+        ],
+        "design": [
+          "HC150-S067",
+          "HC150-S068"
+        ],
+        "usage": [
+          "HC150-S067",
+          "HC150-S068"
+        ],
+        "significance": [
+          "HC150-S067",
+          "HC150-S068"
+        ],
+        "limitations": [
+          "HC150-S067",
+          "HC150-S068"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "national-ec36",
+        "sharp-r10"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "national-ec36",
+        "sharp-r10"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "仅陈述来源支持的该版本；不把计划、后续固件或地区版互套。"
+      ],
+      "chineseCharactersInFiveSections": 895,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-03.json"
+    }
+  ],
+  "sources": [
+    {
+      "id": "CWH-S004",
+      "title": "Workshop Manual Auto Mower / Solar Mower, 2000-06",
+      "publisher": "Husqvarna（原厂手册，LS Engineers镜像）",
+      "url": "https://www.lsengineers.co.uk/media/advice_centre/Husqvarna/Automower/operators-manual-solarmower.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-workshop-manual-mirror",
+      "verifiedScope": "原厂维修手册6.3明确1995 Solar Mower边界线频率不同于1998后版本；仅用于1995确有边界线定位机制。",
+      "verificationMethod": "web.open取得39页PDF文本，核目录、6.3与1995兼容段；未将整份通用及后期配置移植初代。",
+      "limits": "2000后期维修资料，不将1998及Auto Mower功能移植1995；镜像发布者非厂家。",
+      "independence": "内容来自同厂家，不是独立效果评价。",
+      "commercialDisclosure": "镜像为零件商资料，有商业销售环境。",
+      "verificationRecords": [
+        {
+          "verifiedScope": "原厂维修手册6.3明确1995 Solar Mower边界线频率不同于1998后版本；仅用于1995确有边界线定位机制。",
+          "verificationMethod": "web.open取得39页PDF文本，核目录、6.3与1995兼容段；未将整份通用及后期配置移植初代。",
+          "limits": "2000后期维修资料，不将1998及Auto Mower功能移植1995；镜像发布者非厂家。",
+          "independence": "内容来自同厂家，不是独立效果评价。",
+          "commercialDisclosure": "镜像为零件商资料，有商业销售环境。",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "原厂维修手册6.3明确1995 Solar Mower边界线频率不同于1998后版本；仅用于1995确有边界线定位机制。",
+      "verification": "web.open取得39页PDF文本，核目录、6.3与1995兼容段；未将整份通用及后期配置移植初代。；2000后期维修资料，不将1998及Auto Mower功能移植1995；镜像发布者非厂家。"
+    },
+    {
+      "id": "HC150-S023",
+      "title": "2005 Annual Report p10",
+      "publisher": "TomTom",
+      "url": "https://corporate.tomtom.com/static-files/17232660-32c7-4fde-9fdb-791b82902f51",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期年报",
+      "verifiedScope": "2004年3月初代GO；不把全产品销量算GO单款",
+      "verificationMethod": "PDF原文相关页",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "上市公司投资者披露",
+      "originalId": "HC150-S023",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2004年3月初代GO；不把全产品销量算GO单款",
+          "verificationMethod": "PDF原文相关页",
+          "limits": "核正文相关段落；未做实物和社会效果测试。",
+          "independence": "同厂商",
+          "commercialDisclosure": "上市公司投资者披露",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "2004年3月初代GO；不把全产品销量算GO单款",
+      "verification": "PDF原文相关页；核正文相关段落；未做实物和社会效果测试。"
+    },
+    {
+      "id": "HC150-S024",
+      "title": "Goddijn Hall of Fame story",
+      "publisher": "TomTom",
+      "url": "https://www.tomtom.com/newsroom/life-at-tomtom/automotive-hall-of-fame-awards-tomtom-ceo/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂回顾",
+      "verifiedScope": "2004 GO整合结构；CEO奖不能给产品",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传",
+      "originalId": "HC150-S024",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2004 GO整合结构；CEO奖不能给产品",
+          "verificationMethod": "正文",
+          "limits": "核正文相关段落；未做实物和社会效果测试。",
+          "independence": "同厂商",
+          "commercialDisclosure": "品牌宣传",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "2004 GO整合结构；CEO奖不能给产品",
+      "verification": "正文；核正文相关段落；未做实物和社会效果测试。"
+    },
+    {
+      "id": "HC150-S027",
+      "title": "Apple lance AirPort",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/ca/fr/press/1999/07/airport.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "首代基站身份、公布日期、11Mbps与接口、供货计划",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "原厂商业公告",
+      "originalId": "HC150-S027",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "首代基站身份、公布日期、11Mbps与接口、供货计划",
+          "verificationMethod": "正文",
+          "limits": "核正文相关段落；未做实物和社会效果测试。",
+          "independence": "同厂商",
+          "commercialDisclosure": "原厂商业公告",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "首代基站身份、公布日期、11Mbps与接口、供货计划",
+      "verification": "正文；核正文相关段落；未做实物和社会效果测试。"
+    },
+    {
+      "id": "HC150-S028",
+      "title": "Japanese wireless name change",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/jp/newsroom/2000/01/17Apple-to-change-the-name-of-wireless-networking-products/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂地区公告",
+      "verifiedScope": "日本商标与2000上市计划，非全球首发",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "原厂商业公告",
+      "originalId": "HC150-S028",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "日本商标与2000上市计划，非全球首发",
+          "verificationMethod": "正文",
+          "limits": "核正文相关段落；未做实物和社会效果测试。",
+          "independence": "同厂商",
+          "commercialDisclosure": "原厂商业公告",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "日本商标与2000上市计划，非全球首发",
+      "verification": "正文；核正文相关段落；未做实物和社会效果测试。"
+    },
+    {
+      "id": "HC150-S029",
+      "title": "20 Years FRITZ!Box",
+      "publisher": "FRITZ!／AVM",
+      "url": "https://about.fritz.com/en/press/press-releases/2024/03/20-years-of-fritzbox-the-heart-of-the-digital-home-is-celebrating-its-birthday",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史公告",
+      "verifiedScope": "2004-03-18 CeBIT公布及DSL起点",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌纪念宣传",
+      "originalId": "HC150-S029",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2004-03-18 CeBIT公布及DSL起点",
+          "verificationMethod": "正文",
+          "limits": "核正文相关段落；未做实物和社会效果测试。",
+          "independence": "同厂商",
+          "commercialDisclosure": "品牌纪念宣传",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "2004-03-18 CeBIT公布及DSL起点",
+      "verification": "正文；核正文相关段落；未做实物和社会效果测试。"
+    },
+    {
+      "id": "HC150-S030",
+      "title": "About us milestones",
+      "publisher": "FRITZ!／AVM",
+      "url": "https://about.fritz.com/en/about-us",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂型号演进史",
+      "verifiedScope": "初代modem/router、两LAN口、秋季WiFi分界",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传",
+      "originalId": "HC150-S030",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "初代modem/router、两LAN口、秋季WiFi分界",
+          "verificationMethod": "正文",
+          "limits": "核正文相关段落；未做实物和社会效果测试。",
+          "independence": "同厂商",
+          "commercialDisclosure": "品牌宣传",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "初代modem/router、两LAN口、秋季WiFi分界",
+      "verification": "正文；核正文相关段落；未做实物和社会效果测试。"
+    },
+    {
+      "id": "HC150-S033",
+      "title": "History timeline",
+      "publisher": "Husqvarna Group",
+      "url": "https://www.husqvarnagroup.com/en/history-timeline",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "Solar Mower1995销售及太阳能",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传",
+      "originalId": "HC150-S033",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "Solar Mower1995销售及太阳能",
+          "verificationMethod": "正文",
+          "limits": "核正文相关段落；未做实物和社会效果测试。",
+          "independence": "同厂商",
+          "commercialDisclosure": "品牌宣传",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "Solar Mower1995销售及太阳能",
+      "verification": "正文；核正文相关段落；未做实物和社会效果测试。"
+    },
+    {
+      "id": "HC150-S034",
+      "title": "Robotic mower production heights 2015",
+      "publisher": "Husqvarna Group",
+      "url": "https://www.husqvarnagroup.com/sites/husqvarna/files/pr/201505046730-1.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂公告",
+      "verifiedScope": "初代1995；后代总体生产与能耗不移植单款",
+      "verificationMethod": "PDF原文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌及投资者公告",
+      "originalId": "HC150-S034",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "初代1995；后代总体生产与能耗不移植单款",
+          "verificationMethod": "PDF原文",
+          "limits": "核正文相关段落；未做实物和社会效果测试。",
+          "independence": "同厂商",
+          "commercialDisclosure": "品牌及投资者公告",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "初代1995；后代总体生产与能耗不移植单款",
+      "verification": "PDF原文；核正文相关段落；未做实物和社会效果测试。"
+    },
+    {
+      "id": "HC150-S035",
+      "title": "Sony launches four-legged robot",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/News/Press/199905/99-046/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "ERS110身份、公布日期、功能与地区计划",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "原厂商业公告",
+      "originalId": "HC150-S035",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "ERS110身份、公布日期、功能与地区计划",
+          "verificationMethod": "正文",
+          "limits": "核正文相关段落；未做实物和社会效果测试。",
+          "independence": "同厂商",
+          "commercialDisclosure": "原厂商业公告",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "ERS110身份、公布日期、功能与地区计划",
+      "verification": "正文；核正文相关段落；未做实物和社会效果测试。"
+    },
+    {
+      "id": "HC150-S036",
+      "title": "Special Edition AIBO October1999",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/News/Press/199910/99-076/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂后续同期公告",
+      "verifiedScope": "ERS110 6月实际销售5000，与ERS111分界",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "原厂商业公告",
+      "originalId": "HC150-S036",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "ERS110 6月实际销售5000，与ERS111分界",
+          "verificationMethod": "正文",
+          "limits": "核正文相关段落；未做实物和社会效果测试。",
+          "independence": "同厂商",
+          "commercialDisclosure": "原厂商业公告",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "ERS110 6月实际销售5000，与ERS111分界",
+      "verification": "正文；核正文相关段落；未做实物和社会效果测试。"
+    },
+    {
+      "id": "HC150-S053",
+      "title": "Revisiting Nabaztag",
+      "publisher": "Victoria and Albert Museum",
+      "url": "https://www.vam.ac.uk/blog/museum-life/going-down-the-rabbit-hole-revisiting-the-nabaztag",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆原实物研究",
+      "verifiedScope": "2005实物、功能及研究观察；不将文中服务关闭日期作无争议全球结论",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "独立博物馆",
+      "commercialDisclosure": "未核到商业披露",
+      "originalId": "HC150-S053",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2005实物、功能及研究观察；不将文中服务关闭日期作无争议全球结论",
+          "verificationMethod": "正文相关段落",
+          "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+          "independence": "独立博物馆",
+          "commercialDisclosure": "未核到商业披露",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "2005实物、功能及研究观察；不将文中服务关闭日期作无争议全球结论",
+      "verification": "正文相关段落；没有实机、服务持续可用性、群体效果或图权验证。"
+    },
+    {
+      "id": "HC150-S054",
+      "title": "Nabaztag André archive",
+      "publisher": "Nabaztag社区原厂文案存档",
+      "url": "https://nabaztag.com/archive/andre",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂文案存档",
+      "verifiedScope": "2005年6月v1与2006后代区别",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "存档非现原厂；文案原来源",
+      "commercialDisclosure": "原厂推广文案；当前维护方身份未完全核",
+      "originalId": "HC150-S054",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2005年6月v1与2006后代区别",
+          "verificationMethod": "正文相关段落",
+          "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+          "independence": "存档非现原厂；文案原来源",
+          "commercialDisclosure": "原厂推广文案；当前维护方身份未完全核",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "2005年6月v1与2006后代区别",
+      "verification": "正文相关段落；没有实机、服务持续可用性、群体效果或图权验证。"
+    },
+    {
+      "id": "HC150-S067",
+      "title": "Airfryer HD9220/40 Germany datasheet",
+      "publisher": "Philips",
+      "url": "https://www.philips.com/consumerfiles/newscenter/main/shared/assets/at/Downloadablefile/presse/22042011viva/20110413_Datenblatt_Airfryer%20HD9220.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "同期原厂规格书",
+      "verifiedScope": "HD9220/40，文档发行2010-12-10；抽屉篮、30分钟定时、230V",
+      "verificationMethod": "PDF正文3页",
+      "limits": "发行日仅证明该型号同期存在；非全球首售或饮食健康验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S067",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "HD9220/40，文档发行2010-12-10；抽屉篮、30分钟定时、230V",
+          "verificationMethod": "PDF正文3页",
+          "limits": "发行日仅证明该型号同期存在；非全球首售或饮食健康验证。",
+          "independence": "同厂商",
+          "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "HD9220/40，文档发行2010-12-10；抽屉篮、30分钟定时、230V",
+      "verification": "PDF正文3页；发行日仅证明该型号同期存在；非全球首售或饮食健康验证。"
+    },
+    {
+      "id": "HC150-S068",
+      "title": "HD9220/40 product archive",
+      "publisher": "Philips",
+      "url": "https://www.philips.com.ph/c-p/HD9220_40/viva-collection-airfryer-with-rapid-air-technology",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "相同/40型号已停产档案；抽屉篮、热空气烹饪和旋钮操作",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S068",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "相同/40型号已停产档案；抽屉篮、热空气烹饪和旋钮操作",
+          "verificationMethod": "读取原站正文",
+          "limits": "未做实机或当前服务验证。",
+          "independence": "同厂商",
+          "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "相同/40型号已停产档案；抽屉篮、热空气烹饪和旋钮操作",
+      "verification": "读取原站正文；未做实机或当前服务验证。"
+    },
+    {
+      "id": "L:AMQ01",
+      "title": "Roomba Robotic Vacuum Cleaner",
+      "publisher": "Smithsonian National Museum of American History",
+      "url": "https://www.si.edu/object/nmah_1448432",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "第一代Roomba、2002进入市场、碰撞/红外及Virtual Wall描述可读；该馆藏记录不是地区型号完整说明书。",
+      "sourceType": "博物馆实物记录",
+      "independence": "第三方博物馆馆藏说明",
+      "commercialDisclosure": "馆藏为赠与；记录元数据CC0，照片明确Usage Conditions Apply，不能推导照片CC0",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMQ01",
+      "sourceFile": "docs/expansion/candidate-pool.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "第一代Roomba、2002进入市场、碰撞/红外及Virtual Wall描述可读；该馆藏记录不是地区型号完整说明书。",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "第三方博物馆馆藏说明",
+          "commercialDisclosure": "馆藏为赠与；记录元数据CC0，照片明确Usage Conditions Apply，不能推导照片CC0",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "第一代Roomba、2002进入市场、碰撞/红外及Virtual Wall描述可读；该馆藏记录不是地区型号完整说明书。",
+      "verification": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "id": "L:ER09",
+      "title": "Roomba Robot Vacuum Cleaner, nmah_1448432",
+      "publisher": "Smithsonian National Museum of American History",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1448432",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "档案明确第一代Roomba、2002年上市，传感器/碰撞转向和虚拟墙的操作；藏品入藏编号2013.0158不作发布年。",
+      "sourceType": "museum-object",
+      "independence": "Smithsonian National Museum of American History",
+      "commercialDisclosure": "机构藏品档案；不据此假定所有图片开放",
+      "verificationMethod": "原网页正文",
+      "limits": "图片标Usage Conditions Apply；元数据开放不等于图片开放。",
+      "originalId": "ER09",
+      "sourceFile": "docs/expansion/candidate-pool.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "档案明确第一代Roomba、2002年上市，传感器/碰撞转向和虚拟墙的操作；藏品入藏编号2013.0158不作发布年。",
+          "verificationMethod": "原网页正文",
+          "limits": "图片标Usage Conditions Apply；元数据开放不等于图片开放。",
+          "independence": "Smithsonian National Museum of American History",
+          "commercialDisclosure": "机构藏品档案；不据此假定所有图片开放",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "档案明确第一代Roomba、2002年上市，传感器/碰撞转向和虚拟墙的操作；藏品入藏编号2013.0158不作发布年。",
+      "verification": "原网页正文；图片标Usage Conditions Apply；元数据开放不等于图片开放。"
+    },
+    {
+      "id": "L:ER10",
+      "title": "iRobot History",
+      "publisher": "iRobot",
+      "url": "https://about.irobot.com/history",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "公司历史表列2002推出Roomba；不把家族后来功能归给初代。",
+      "sourceType": "manufacturer-history",
+      "independence": "iRobot",
+      "commercialDisclosure": "厂商来源，存在产品宣传利益",
+      "verificationMethod": "原机构搜索索引；当前正文返回空白",
+      "limits": "不是图片转载许可，也不是独立用户效果研究。",
+      "originalId": "ER10",
+      "sourceFile": "docs/expansion/candidate-pool.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "公司历史表列2002推出Roomba；不把家族后来功能归给初代。",
+          "verificationMethod": "原机构搜索索引；当前正文返回空白",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。",
+          "independence": "iRobot",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "packet": "complete-wave-home-03.json"
+        }
+      ],
+      "supports": "公司历史表列2002推出Roomba；不把家族后来功能归给初代。",
+      "verification": "原机构搜索索引；当前正文返回空白；不是图片转载许可，也不是独立用户效果研究。"
+    }
+  ],
+  "importInstructions": [
+    "按import-manifest.json顺序导入，先校验实际slug和ID，已导入旧14不重复。",
+    "本包关联仅指之前分包和本包；后续完成后可用累计总包补回关联。",
+    "正文保留来源与版本范围，空媒体文字回退；后续规划字段不作当前必填。"
+  ]
+}

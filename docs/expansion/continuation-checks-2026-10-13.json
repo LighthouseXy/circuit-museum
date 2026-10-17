@@ -1,0 +1,20 @@
+{
+  "checkedOn": "2026-10-13",
+  "status": "research-delivery-verified-production-unchanged",
+  "actualProduction": 54,
+  "additionalReady": 122,
+  "potentialCoverage": 176,
+  "editorialPackets": 23,
+  "revisedImportPackets": 19,
+  "sourceValidation": "Nested sourceId/sourceIds/paragraphSources checked",
+  "browserObservation": "Steam Deck research preview displays credited positives/limitations, conditions, commercial disclosure and reading scope; 4 navigation labels correct",
+  "videoReadingScope": "Official release page and complete zh-CN transcript read; no full audiovisual viewing or repeated testing",
+  "previewURL": "http://127.0.0.1:4174/expanded-layout-preview.html?view=detail&slug=steam-deck-lcd",
+  "previewImage": "steam-deck-video-observation-2026-10-13.png",
+  "limitations": [
+    "Production import and build/page acceptance remain original implementation responsibility",
+    "Photo preview uses original implementation server4173; absent server shows tested text fallback",
+    "Original40 production prose remains preserved",
+    "40 additional selection dossiers and future data-model planning do not block current stage"
+  ]
+}

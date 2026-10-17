@@ -1,0 +1,183 @@
+{
+  "checkedOn": "2026-10-15",
+  "mode": "read-only independent semantic review; no research or collection records modified",
+  "scope": {
+    "aCountAtCheck": 118,
+    "bCountAtCheck": 118,
+    "overlayFiles": [
+      "awards-400-narratives-b-tail.json",
+      "awards-400-narratives-d.json",
+      "awards-400-narratives-c.json"
+    ],
+    "method": "逐条比较名称、品牌、奖项对象和功能身份，读取C/D/B-tail覆盖；对获奖等级与可疑版本参数抽查官方页面。不是全部236条逐参数重新爬官网。",
+    "originalExpectedCount": "115 + 118 - 7 excluded - 2 cross-batch duplicate pairs = 224",
+    "currentCountWarning": "A现有118条；若118全选并保持原排除与合并方案则为227。末3条Zenbook17 Fold/PowerShotV10/OCT-R1须由主线程作为替补处理或明确新增排除。"
+  },
+  "confirmedCrossBatchDuplicates": [
+    {
+      "a": "anker-solix-f3800",
+      "b": "anker-solix-f3800-portable-power-station",
+      "identity": "Anker SOLIX F3800",
+      "action": "合并一件，保留双奖证据，以B准确型号及正文为底。"
+    },
+    {
+      "a": "eufy-x10-omni",
+      "b": "eufy-x10-pro-omni",
+      "identity": "eufy X10 Pro Omni",
+      "action": "合并一件；A标题X10 Omni属于获奖页缩写，制造商名用X10 Pro Omni；修正抬升参数。"
+    }
+  ],
+  "plannedExclusions": [
+    "pegiant-power-station",
+    "bosch-accent-line-coffee",
+    "philips-e7000",
+    "philips-air-purifier-600",
+    "philips-homerun-3000-aqua",
+    "hp-pavilion-all-in-one-desktop",
+    "asko-elements-wine-climate-cabinet"
+  ],
+  "findings": [
+    {
+      "severity": "must-fix",
+      "slug": "coffeeb-globe",
+      "field": "award.level",
+      "issue": "研究记录标 Winner，红点官方页奖标为 Red Dot: Best of the Best。",
+      "action": "集成副本改为 Best of the Best；2023与Globe型号保留。",
+      "evidence": [
+        "https://www.red-dot.org/project/coffeeb-62006"
+      ]
+    },
+    {
+      "severity": "must-fix",
+      "slug": "eufy-x10-omni",
+      "field": "functionDetails",
+      "issue": "A写拖布抬升15 mm；制造商X10 Pro Omni产品与支持页给12 mm。",
+      "action": "与B合并后使用X10 Pro Omni准确名称，去除15 mm；若需要数字采用制造商12 mm。",
+      "evidence": [
+        "https://www.eufy.com/uk/products/t2351v21?variant=48979606995137",
+        "https://service.eufy.com/de/article-description/Unterst%C3%BCtzt-der-X10-Pro-Omni-die-Teppichreinigung"
+      ]
+    },
+    {
+      "severity": "must-fix-version-boundary",
+      "slug": "soundblade",
+      "field": "name/designDetails/functionDetails/commercialStatus/narratives",
+      "issue": "获奖页2023 MSB60写60 W、HDMI透传及手机无线充电；现售BlueAnt Soundblade官方页写120 W peak及USB-C、Bluetooth5.3、AUX。两个官方版本不能直接混用。现售页也未证明显示器可以压在音箱上。",
+      "action": "建议采用现售Soundblade型号与制造商接口、低矮布局、内置低音事实，删除HDMI、无线充电及支撑显示器承重说法；将获奖原案版本差异写进来源说明。若保留MSB60则明确展示2023获奖方案并标明量产版对应关系待核。",
+      "evidence": [
+        "https://good-design.org/projects/soundblade/",
+        "https://blueant.com.au/products/soundblade",
+        "https://soundblade.com/"
+      ]
+    }
+  ],
+  "checkedNonDuplicates": [
+    {
+      "items": [
+        "Galaxy Watch6",
+        "Galaxy Watch6 Classic"
+      ],
+      "reason": "标准款与Classic为不同实体机型，不因同代同品牌合并。"
+    },
+    {
+      "items": [
+        "Blackmagic Studio Camera 4K",
+        "Blackmagic Studio Camera 6K Pro"
+      ],
+      "reason": "分辨率及型号代际不同；不是同机异名。"
+    },
+    {
+      "items": [
+        "Logitech MX Mechanical",
+        "Logitech MX Keys Mini"
+      ],
+      "reason": "机械键盘和低矮剪刀脚键盘属于不同结构产品。"
+    },
+    {
+      "items": [
+        "Logitech G PRO X TKL",
+        "Logitech G PRO Racing Wheel and Pedals"
+      ],
+      "reason": "键盘与赛车控制器不同类别。"
+    },
+    {
+      "items": [
+        "INSTAX mini 12",
+        "INSTAX mini EVO Brown"
+      ],
+      "reason": "前者即时成像相机，后者混合式相机颜色版本；本候选及原176未再计另一mini EVO颜色，不构成本次重复。"
+    }
+  ],
+  "awardObjectScopeNotes": [
+    {
+      "slug": "coway-airmega350",
+      "note": "官方获奖对象350/450，选350一件可保留；不能把450面积或性能挪给350。"
+    },
+    {
+      "slug": "soundcore-boom2",
+      "note": "官方页合并Boom2与2SE；展品只选Boom2，正文不可混入2SE配置。"
+    },
+    {
+      "slug": "roland-aira-t8",
+      "note": "获奖页包含T-8/J-6/E-4，当前只选T-8；不能将另两机的和弦/人声处理功能写入。"
+    },
+    {
+      "slug": "gravastar-mercury-mouse",
+      "note": "官方奖页Mercury Gaming Mouse未明确M1/M2；保留官方奖项对象名，不擅自锁某一零售SKU或加入其专属参数。"
+    },
+    {
+      "slug": "anker-solix-x1-energy-storage-system",
+      "note": "本身是模块化储能系列/系统而非某块单电池，计一个系统可接受；容量功率应按配置解释。"
+    },
+    {
+      "slug": "sunmi-mix",
+      "note": "当前已将官方系列获奖对象限定P3 MIX；保留制造商具体设备证据，不扩为多个系列型号。"
+    }
+  ],
+  "paragraphMinimumCheck": {
+    "rule": "五段各至少60中文字符；只统计汉字，不把拉丁型号和标点计入",
+    "belowMinimum": [
+      {
+        "slug": "eufy-x10-omni",
+        "field": "context",
+        "chineseCharacters": 0
+      },
+      {
+        "slug": "eufy-x10-omni",
+        "field": "design",
+        "chineseCharacters": 0
+      },
+      {
+        "slug": "eufy-x10-omni",
+        "field": "usage",
+        "chineseCharacters": 0
+      },
+      {
+        "slug": "eufy-x10-omni",
+        "field": "significance",
+        "chineseCharacters": 0
+      },
+      {
+        "slug": "eufy-x10-omni",
+        "field": "limitationsNarrative",
+        "chineseCharacters": 0
+      },
+      {
+        "slug": "jbl-live-flex3",
+        "field": "usage",
+        "chineseCharacters": 59
+      },
+      {
+        "slug": "aqara-smart-lock-u300",
+        "field": "usage",
+        "chineseCharacters": 58
+      }
+    ],
+    "interpretation": "A X10无正文因将被合并，不必单独补；JBL Live Flex3 usage59和Aqara U300 usage58属于极小缺口，不是事实错误。"
+  },
+  "limits": [
+    "未对所有官方参数作二次独立验证，未实测性能。",
+    "B-tail已纳入结构与内容读取；Soundblade版本冲突需同步修订tail相关段落。",
+    "未检索Commons图片，未更改其他代理文件或正式目录。"
+  ]
+}

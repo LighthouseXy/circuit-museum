@@ -1,0 +1,72 @@
+[
+  {
+    "slug": "samsung-galaxy-watch6-classic",
+    "title": "File:Samsung Galaxy Watch 6 Classic.jpg",
+    "caption": "Galaxy Watch6 Classic店内实物，旋转外圈与圆形屏幕可见；不用于证明所有尺寸配置。",
+    "modelVerification": "Commons文件名明确Classic；画面展签Galaxy Watch6 Classic和金属旋转表圈相符。",
+    "visualReview": "亲自单张查看下载的960px实物摄影，现场展台、反光、配件和背景可辨；未生成或改画。",
+    "researchFile": "docs/evidence/photo-expansion/round3/normalized-research/samsung-galaxy-watch6-classic.json",
+    "status": "visually-reviewed",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "samsung-galaxy-watch6",
+    "title": "File:Samsung Galaxy Watch 6.jpg",
+    "caption": "Galaxy Watch6店内充电展示实物；非Classic旋转外圈款。",
+    "modelVerification": "原描述Samsung Galaxy Watch 6，照片展签Watch6和无实体刻度外圈的普通款结构相符。",
+    "visualReview": "亲自单张查看下载的960px实物摄影，现场展台、反光、配件和背景可辨；未生成或改画。",
+    "researchFile": "docs/evidence/photo-expansion/round3/normalized-research/samsung-galaxy-watch6.json",
+    "status": "visually-reviewed",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "blackmagic-ursa-cine-12k",
+    "title": "File:Blackmagic URSA Cine 12K LF 20250726122053.jpg",
+    "caption": "URSA Cine 12K LF展示实物，搭配电池、取景器和镜头附件；附件不代表首发标准配置。",
+    "modelVerification": "原Commons标题与描述明确URSA Cine 12K LF；可见双M.2介质门、Blackmagic机身与URSA Cine标识，非Immersive双镜头型号。",
+    "visualReview": "亲自单张查看下载的960px实物摄影，现场展台、反光、配件和背景可辨；未生成或改画。",
+    "researchFile": "docs/evidence/photo-expansion/round3/normalized-research/blackmagic-ursa-cine-12k.json",
+    "status": "visually-reviewed",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "logitech-mx-mechanical",
+    "title": "a keyboard on a desk",
+    "caption": "作者标注MX Mechanical的桌面实物侧视照片，低矮键帽与机身侧面可见；角度不展示完整布局。",
+    "modelVerification": "原摄影师描述明确MX Mechanical keyboard on desk，2022-11-27发布；侧面机身和低矮双色键帽相符。型号依据作者标注，照片角度不能独立核验完整键区。",
+    "visualReview": "亲自查看1600px照片：桌面侧视实拍，键盘前景清晰、环境自然景深；非渲染。",
+    "researchFile": "docs/evidence/photo-expansion/round3/normalized-research/logitech-mx-mechanical.json",
+    "status": "visually-reviewed",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "instax-mini12",
+    "title": "File:Fujifilm Instax Mini 12 - Instant Film Camera (52950271338).jpg",
+    "caption": "白色INSTAX mini 12实物，机身型号字样、闪光灯和镜头结构清晰。",
+    "modelVerification": "原文件描述明确Fujifilm Instax Mini 12 white，机身mini12标记清晰，排除mini11。",
+    "visualReview": "亲自单张查看已下载图片；实物环境、细节及型号/代际特征已核对，无生成替代。",
+    "researchFile": "docs/evidence/photo-expansion/round3/normalized-research/instax-mini12.json",
+    "status": "visually-reviewed",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "nothing-ear-a",
+    "title": "File:Nothing-Tokyo-2024-04-18 148.jpg",
+    "caption": "黄色Nothing Ear(a)与透明充电盒的现场展示实拍；图中防盗线不是产品配置。",
+    "modelVerification": "原作者描述明确2024-04-18东京发布会Ear(a)黄色实机；黄色半透明充电盒及耳机结构相符，排除Ear和Ear(2)。",
+    "visualReview": "亲自单张查看已下载图片；实物环境、细节及型号/代际特征已核对，无生成替代。",
+    "researchFile": "docs/evidence/photo-expansion/round3/normalized-research/nothing-ear-a.json",
+    "status": "visually-reviewed",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "apple-airpodspro2",
+    "title": "File:AirPods Pro (2nd generation).jpg",
+    "caption": "第二代AirPods Pro耳机与充电盒实物；此照片2023年5月拍摄，不用于证明后来的USB-C更新。",
+    "modelVerification": "原作者描述明确第二代，2023-05-09拍摄；耳机与充电盒正面实物相符。正面角度看不到挂绳孔及底部接口，代际依据原作者明确标注，不宣称照片独立证明USB-C版。",
+    "visualReview": "亲自单张查看已下载图片；实物环境、细节及型号/代际特征已核对，无生成替代。",
+    "researchFile": "docs/evidence/photo-expansion/round3/normalized-research/apple-airpodspro2.json",
+    "status": "visually-reviewed",
+    "checkedOn": "2026-10-15"
+  }
+]

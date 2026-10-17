@@ -1,0 +1,647 @@
+{
+  "slug": "omron-hem1",
+  "name": "HEM-1",
+  "regionVersion": "日本初代电子手动manometer；不是后来的全自动数显HEM77",
+  "query": "intitle:\"HEM-1\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Cimetière militaire de la ferme de Hem 1.jpg",
+      "pageid": 77565234,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cimeti%C3%A8re_militaire_de_la_ferme_de_Hem_1.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/Cimeti%C3%A8re_militaire_de_la_ferme_de_Hem_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Cimeti%C3%A8re_militaire_de_la_ferme_de_Hem_1.jpg/960px-Cimeti%C3%A8re_militaire_de_la_ferme_de_Hem_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2019-03-25 18:37:42",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Cimetière militaire de la ferme de Hem 1",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Cimetière militaire de la ferme de Hem|Self-published work|Files with coordinates missing SDC location of creation (49° N, 2° E)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "49.953526",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "2.832082",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Cimetière militaire de la ferme de Hem 1",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-03-25 14:48:29",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ybroc&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ybroc (page does not exist)\">Ybroc</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Cimetière militaire de la ferme de Hem 1",
+      "artist": "Ybroc",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2019-03-25 14:48:29"
+    },
+    {
+      "title": "File:Carl Larsson - Ett hem 1 - 1899.jpg",
+      "pageid": 15628736,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Carl_Larsson_-_Ett_hem_1_-_1899.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Carl_Larsson_-_Ett_hem_1_-_1899.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Carl_Larsson_-_Ett_hem_1_-_1899.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2011-06-26 22:34:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>Bridge</i></div></div><div style=\"display: none;\">label QS:Len,\"Bridge\"</div><div style=\"display: none;\">label QS:Lsv,\"Bron\"</div></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Ett hem|Artworks without Wikidata item|PD-old-100-expired|PD-Art (PD-old-auto-expired)|CC-PD-Mark",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Carl_Larsson\" class=\"extiw\" title=\"w:en:Carl Larsson\"><span title=\"Swedish painter (1853-1919)\">Carl Larsson</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "Ett hem",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1899<div style=\"display: none;\">date QS:P571,+1899-00-00T00:00:00Z/9</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.rare-posters.com/d242.html\">http://www.rare-posters.com/d242.html</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Ett hem",
+      "artist": "Carl Larsson",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "1899 date QS:P571,+1899-00-00T00:00:00Z/9"
+    },
+    {
+      "title": "File:Spring-Summer 1951 Jacques Griffe cocktail dress with trumpet hem 1.jpg",
+      "pageid": 117926850,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Spring-Summer_1951_Jacques_Griffe_cocktail_dress_with_trumpet_hem_1.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Spring-Summer_1951_Jacques_Griffe_cocktail_dress_with_trumpet_hem_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/Spring-Summer_1951_Jacques_Griffe_cocktail_dress_with_trumpet_hem_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2022-05-12 10:31:31",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Spring-Summer 1951 Jacques Griffe cocktail dress with trumpet hem 1",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Cocktail dresses|Jacques Griffe|Fashion in the Rhode Island School of Design - Museum of Art",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Spring-Summer 1951 Jacques Griffe cocktail dress with trumpet hem",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-11-28",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://risdmuseum.org/art-design/collection/black-tiered-dress-trumpet-hem-20018310\">https://risdmuseum.org/art-design/collection/black-tiered-dress-trumpet-hem-20018310</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Staff photographer, Rhode Island School of Design Museum of Art",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Spring-Summer 1951 Jacques Griffe cocktail dress with trumpet hem",
+      "artist": "Staff photographer, Rhode Island School of Design Museum of Art",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2018-11-28"
+    },
+    {
+      "title": "File:Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv004.ogv",
+      "pageid": 22686742,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv004.ogv",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv004.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv004.ogv/330px--Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv004.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "metadata": {
+        "DateTime": {
+          "value": "2012-11-14 13:00:26",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv004",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Protein binding|Myosins|Rac GTP-binding proteins|Cell lines|Media from PLOS Biology|Cell polarity|Reactive oxygen species|Uploaded with Open Access Media Importer|Ogv videos|Uploaded with Open Access Media Importer and needing category review|Videos of cell biology|Video display resolution 480 x 330|Videos of Neutrophils|Videos from open-access scholarly articles|Videos of systems biology|Molecular sequence data|Actin video|Videos of membrane proteins|Enzyme activation|Wiskott-Aldrich syndrome protein family|Protein subunits|Phosphatidylinositol phosphates",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Hem-1 Knockdown HL-60 Cells Exhibit Unstable Polarity in Response to Uniform Stimulation Time-lapse Nomarski images of Hem-1 knockdown HL-60 cells sandwiched between two coverslips and exposed to uniform 20 nM fMLP. This is an additional example of the unstable leading and trailing edges of Hem-1 knockdown cells and does not correspond to a figure in the text.\n(1.7 MB WMV).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2006-02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Video S4 from <cite style=\"font-style:normal\">Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M (2006). \"<a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1334198\">Hem-1 Complexes Are Essential for Rac Activation, Actin Polymerization, and Myosin Regulation during Neutrophil Chemotaxis</a>\". <i>PLOS Biology</i>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Digital_object_identifier\" class=\"extiw\" title=\"en:Digital object identifier\">DOI</a></span>:<a rel=\"nofollow\" class=\"external text\" href=\"https://doi.org/10.1371/journal.pbio.0040038\">10.1371/journal.pbio.0040038</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed\" class=\"extiw\" title=\"en:PubMed\"><span lang=\"en\" dir=\"ltr\">PMID</span></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/16417406\">16417406</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed_Central\" class=\"extiw\" title=\"en:PubMed Central\"><span lang=\"en\" dir=\"ltr\">PMC</span></a></span>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1334198\">1334198</a>.</cite>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<i>This file was published in a <b><a href=\"https://en.wikipedia.org/wiki/Public_Library_of_Science\" class=\"extiw\" title=\"en:Public Library of Science\">Public Library of Science</a></b> journal. <a rel=\"nofollow\" class=\"external text\" href=\"http://www.plos.org\">Their website</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.plos.org/terms-of-use\">states</a> that the content of all PLOS journals is published under the Creative Commons Attribution 4.0 license (or its previous version depending on the publication date), unless indicated otherwise.</i><br>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.5",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.5",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.5",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.5",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Hem-1 Knockdown HL-60 Cells Exhibit Unstable Polarity in Response to Uniform Stimulation Time-lapse Nomarski images of Hem-1 knockdown HL-60 cells sandwiched between two coverslips and exposed to uniform 20 nM fMLP. This is an additional example of the unstable leading and trailing edges of Hem-1 knockdown cells and does not correspond to a figure in the text.\n(1.7 MB WMV).",
+      "artist": "Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "date": "2006-02"
+    },
+    {
+      "title": "File:Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv003.ogv",
+      "pageid": 22686739,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv003.ogv",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/44/Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv003.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv003.ogv/330px--Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv003.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "metadata": {
+        "DateTime": {
+          "value": "2012-11-14 13:00:09",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv003",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Protein binding|Myosins|Rac GTP-binding proteins|Cell lines|Media from PLOS Biology|Cell polarity|Reactive oxygen species|Uploaded with Open Access Media Importer|Ogv videos|Uploaded with Open Access Media Importer and needing category review|Videos of cell biology|Videos of Neutrophils|Videos from open-access scholarly articles|Videos of systems biology|Molecular sequence data|Actin video|Videos of membrane proteins|Enzyme activation|Wiskott-Aldrich syndrome protein family|Protein subunits|Phosphatidylinositol phosphates|Video display resolution 382 x 360",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Hem-1 Knockdown HL-60 Cells Exhibit Unstable Polarity in Response to Uniform Stimulation Time-lapse Nomarski images of Hem-1 knockdown cells sandwiched between two coverslips and exposed to uniform 20 nM fMLP. This video corresponds to Figure 7C.\n(1.8 MB WMV).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2006-02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Video S3 from <cite style=\"font-style:normal\">Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M (2006). \"<a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1334198\">Hem-1 Complexes Are Essential for Rac Activation, Actin Polymerization, and Myosin Regulation during Neutrophil Chemotaxis</a>\". <i>PLOS Biology</i>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Digital_object_identifier\" class=\"extiw\" title=\"en:Digital object identifier\">DOI</a></span>:<a rel=\"nofollow\" class=\"external text\" href=\"https://doi.org/10.1371/journal.pbio.0040038\">10.1371/journal.pbio.0040038</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed\" class=\"extiw\" title=\"en:PubMed\"><span lang=\"en\" dir=\"ltr\">PMID</span></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/16417406\">16417406</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed_Central\" class=\"extiw\" title=\"en:PubMed Central\"><span lang=\"en\" dir=\"ltr\">PMC</span></a></span>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1334198\">1334198</a>.</cite>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<i>This file was published in a <b><a href=\"https://en.wikipedia.org/wiki/Public_Library_of_Science\" class=\"extiw\" title=\"en:Public Library of Science\">Public Library of Science</a></b> journal. <a rel=\"nofollow\" class=\"external text\" href=\"http://www.plos.org\">Their website</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.plos.org/terms-of-use\">states</a> that the content of all PLOS journals is published under the Creative Commons Attribution 4.0 license (or its previous version depending on the publication date), unless indicated otherwise.</i><br>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.5",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.5",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.5",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.5",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Hem-1 Knockdown HL-60 Cells Exhibit Unstable Polarity in Response to Uniform Stimulation Time-lapse Nomarski images of Hem-1 knockdown cells sandwiched between two coverslips and exposed to uniform 20 nM fMLP. This video corresponds to Figure 7C.\n(1.8 MB WMV).",
+      "artist": "Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "date": "2006-02"
+    },
+    {
+      "title": "File:Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv001.ogv",
+      "pageid": 22686731,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv001.ogv",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv001.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv001.ogv/330px--Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv001.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "metadata": {
+        "DateTime": {
+          "value": "2012-11-14 12:59:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv001",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Protein binding|Myosins|Rac GTP-binding proteins|Cell lines|Media from PLOS Biology|Cell polarity|Reactive oxygen species|Uploaded with Open Access Media Importer|Ogv videos|Uploaded with Open Access Media Importer and needing category review|Videos of cell biology|Videos of Neutrophils|Videos from open-access scholarly articles|Videos of systems biology|Molecular sequence data|Actin video|Videos of membrane proteins|Enzyme activation|Wiskott-Aldrich syndrome protein family|Protein subunits|Phosphatidylinositol phosphates|Video display resolution 336 x 256",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Hem-1 Strongly Polarizes following Uniform Stimulation of HL-60 Cells Differentiated HL-60 cells expressing GFP-tagged Hem-1 were exposed to uniform 20 nM fMLP (at t = 0 s) and imaged with a spinning disk confocal microscope at 5-s intervals at 37 °C. This video corresponds to Figure 1A.\n(1.8 MB AVI).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2006-02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Video S1 from <cite style=\"font-style:normal\">Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M (2006). \"<a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1334198\">Hem-1 Complexes Are Essential for Rac Activation, Actin Polymerization, and Myosin Regulation during Neutrophil Chemotaxis</a>\". <i>PLOS Biology</i>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Digital_object_identifier\" class=\"extiw\" title=\"en:Digital object identifier\">DOI</a></span>:<a rel=\"nofollow\" class=\"external text\" href=\"https://doi.org/10.1371/journal.pbio.0040038\">10.1371/journal.pbio.0040038</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed\" class=\"extiw\" title=\"en:PubMed\"><span lang=\"en\" dir=\"ltr\">PMID</span></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/16417406\">16417406</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed_Central\" class=\"extiw\" title=\"en:PubMed Central\"><span lang=\"en\" dir=\"ltr\">PMC</span></a></span>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1334198\">1334198</a>.</cite>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<i>This file was published in a <b><a href=\"https://en.wikipedia.org/wiki/Public_Library_of_Science\" class=\"extiw\" title=\"en:Public Library of Science\">Public Library of Science</a></b> journal. <a rel=\"nofollow\" class=\"external text\" href=\"http://www.plos.org\">Their website</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.plos.org/terms-of-use\">states</a> that the content of all PLOS journals is published under the Creative Commons Attribution 4.0 license (or its previous version depending on the publication date), unless indicated otherwise.</i><br>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.5",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.5",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.5",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.5",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Hem-1 Strongly Polarizes following Uniform Stimulation of HL-60 Cells Differentiated HL-60 cells expressing GFP-tagged Hem-1 were exposed to uniform 20 nM fMLP (at t = 0 s) and imaged with a spinning disk confocal microscope at 5-s intervals at 37 °C. This video corresponds to Figure 1A.\n(1.8 MB AVI).",
+      "artist": "Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "date": "2006-02"
+    },
+    {
+      "title": "File:Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv002.ogv",
+      "pageid": 22686735,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv002.ogv",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/81/Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv002.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv002.ogv/330px--Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv002.ogv.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "metadata": {
+        "DateTime": {
+          "value": "2012-11-14 12:59:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv002",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Protein binding|Myosins|Rac GTP-binding proteins|Cell lines|Media from PLOS Biology|Cell polarity|Reactive oxygen species|Uploaded with Open Access Media Importer|Ogv videos|Uploaded with Open Access Media Importer and needing category review|Videos of cell biology|Video display resolution 368 x 360|Videos of Neutrophils|Videos from open-access scholarly articles|Videos of systems biology|Molecular sequence data|Actin video|Videos of membrane proteins|Enzyme activation|Wiskott-Aldrich syndrome protein family|Protein subunits|Phosphatidylinositol phosphates",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Control HL-60 Cells Persistently Polarize in Response to Uniform Stimulation Time-lapse Nomarski images of control HL-60 cells sandwiched between two coverslips and exposed to uniform 20 nM fMLP. This video corresponds to Figure 7B.\n(1.6 MB WMV).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2006-02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Video S2 from <cite style=\"font-style:normal\">Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M (2006). \"<a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1334198\">Hem-1 Complexes Are Essential for Rac Activation, Actin Polymerization, and Myosin Regulation during Neutrophil Chemotaxis</a>\". <i>PLOS Biology</i>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Digital_object_identifier\" class=\"extiw\" title=\"en:Digital object identifier\">DOI</a></span>:<a rel=\"nofollow\" class=\"external text\" href=\"https://doi.org/10.1371/journal.pbio.0040038\">10.1371/journal.pbio.0040038</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed\" class=\"extiw\" title=\"en:PubMed\"><span lang=\"en\" dir=\"ltr\">PMID</span></a></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pubmed/16417406\">16417406</a>. <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/PubMed_Central\" class=\"extiw\" title=\"en:PubMed Central\"><span lang=\"en\" dir=\"ltr\">PMC</span></a></span>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1334198\">1334198</a>.</cite>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<i>This file was published in a <b><a href=\"https://en.wikipedia.org/wiki/Public_Library_of_Science\" class=\"extiw\" title=\"en:Public Library of Science\">Public Library of Science</a></b> journal. <a rel=\"nofollow\" class=\"external text\" href=\"http://www.plos.org\">Their website</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.plos.org/terms-of-use\">states</a> that the content of all PLOS journals is published under the Creative Commons Attribution 4.0 license (or its previous version depending on the publication date), unless indicated otherwise.</i><br>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.5",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.5",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.5",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.5",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Control HL-60 Cells Persistently Polarize in Response to Uniform Stimulation Time-lapse Nomarski images of control HL-60 cells sandwiched between two coverslips and exposed to uniform 20 nM fMLP. This video corresponds to Figure 7B.\n(1.6 MB WMV).",
+      "artist": "Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "date": "2006-02"
+    }
+  ]
+}

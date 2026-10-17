@@ -1,0 +1,309 @@
+{
+  "checkedOn": "2026-10-11",
+  "readyBatch": {
+    "file": "complete-batch-14.json",
+    "count": 14,
+    "status": "validated-not-imported"
+  },
+  "remainingSelectedCount": 162,
+  "batches": [
+    {
+      "id": "T01",
+      "readingLine": "display",
+      "label": "电视、显示与投影",
+      "slugs": [
+        "rca-630ts",
+        "sony-tv8-301",
+        "sony-kv-1310",
+        "epson-vpj-700",
+        "sharp-aquos-lc20c1",
+        "samsung-the-frame-ls003",
+        "lg-signature-oled-r-rx",
+        "samsung-the-sero-ls05t",
+        "samsung-the-freestyle-2022",
+        "lg-stanbyme-go-27lx5qkna",
+        "lg-oled-evo-m5-65",
+        "samsung-micro-rgb-r95h-65"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T02",
+      "readingLine": "immersive",
+      "label": "VR与AR",
+      "slugs": [
+        "htc-vive-2016",
+        "microsoft-hololens-2",
+        "oculus-quest-2019",
+        "meta-quest-3",
+        "sony-playstation-vr2",
+        "apple-vision-pro-m2",
+        "samsung-galaxy-xr"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T03",
+      "readingLine": "gaming",
+      "label": "游戏机与互动",
+      "slugs": [
+        "nintendo-color-tv-game-15",
+        "nintendo-game-watch-ball-1980",
+        "nintendo-super-famicom",
+        "nintendo-virtual-boy-jp",
+        "nintendo-64",
+        "nintendo-game-boy-color",
+        "sega-dreamcast-jp",
+        "sony-playstation-2",
+        "nintendo-game-boy-advance",
+        "nintendo-gamecube",
+        "sony-psp-1000",
+        "sony-playstation-3",
+        "nintendo-3ds",
+        "sony-playstation-vita",
+        "nintendo-wii-u",
+        "sony-playstation-4",
+        "valve-steam-controller-2015",
+        "sony-playstation-4-pro",
+        "nintendo-switch-2017",
+        "xbox-adaptive-controller"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T04",
+      "readingLine": "gaming",
+      "label": "游戏机与互动",
+      "slugs": [
+        "nintendo-switch-lite",
+        "sony-playstation-5",
+        "asus-rog-ally-2023",
+        "lenovo-legion-go-2023",
+        "sony-access-controller",
+        "sony-playstation-portal",
+        "msi-claw-a1m",
+        "asus-rog-xbox-ally-x",
+        "valve-steam-controller-2026",
+        "valve-steam-machine-2026"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T05",
+      "readingLine": "home",
+      "label": "家居与日常电器",
+      "slugs": [
+        "kitchenaid-h5",
+        "toastmaster-1a1",
+        "kenwood-chef-a700",
+        "hoover-constellation-444",
+        "national-ec36",
+        "braun-hl1",
+        "braun-sixtant-sm31",
+        "sharp-r10",
+        "omron-hem1",
+        "dyson-dc01",
+        "husqvarna-solar-mower-1995",
+        "sony-aibo-ers110",
+        "irobot-roomba-2002",
+        "violet-nabaztag-v1",
+        "philips-airfryer-hd9220",
+        "nest-learning-thermostat-1",
+        "perkins-smart-brailler",
+        "philips-hue-2012",
+        "nest-protect-1",
+        "amazon-echo-1"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T06",
+      "readingLine": "home",
+      "label": "家居与日常电器",
+      "slugs": [
+        "vorwerk-thermomix-tm5",
+        "google-home-2016",
+        "sony-aibo-ers-1000",
+        "roborock-s7",
+        "ikea-dirigera",
+        "aqara-presence-fp2",
+        "humanware-victor-reader-stream-3",
+        "switchbot-s10",
+        "aqara-spatial-fp400"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T07",
+      "readingLine": "imaging",
+      "label": "摄影与视频",
+      "slugs": [
+        "sony-betamax-sl-6300",
+        "canon-ae-1",
+        "nikon-f3",
+        "sony-ccd-v8",
+        "canon-rc-701",
+        "canon-eos-650",
+        "sony-ccd-tr55",
+        "kodak-dcs-1991",
+        "nikon-coolscan-ls-10",
+        "sony-dcr-vx1000",
+        "canon-powershot-600",
+        "nikon-coolpix-300",
+        "canon-xl1",
+        "nikon-coolpix-900",
+        "nikon-d1",
+        "canon-eos-5d-mark-ii",
+        "panasonic-lumix-dmc-g1",
+        "olympus-pen-e-p1",
+        "fujifilm-finepix-x100",
+        "dji-phantom-2013"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T08",
+      "readingLine": "imaging",
+      "label": "摄影与视频",
+      "slugs": [
+        "ricoh-gr-iii",
+        "insta360-x5",
+        "panasonic-lumix-dc-tz300"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T09",
+      "readingLine": "input-printing",
+      "label": "输入、打印与制作",
+      "slugs": [
+        "ibm-selectric-721",
+        "epson-mx80",
+        "hp-laserjet-1984",
+        "apple-imagewriter-ii",
+        "microsoft-intellimouse-1996",
+        "pfu-hhkb-kb01",
+        "pfu-scansnap-fi4110eox",
+        "epson-perfection-v600-photo",
+        "pfu-scansnap-ix500",
+        "logitech-k380-2015",
+        "cricut-maker-2017",
+        "elgato-streamdeck-2017",
+        "nintendo-labo-toy-con-01"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T10",
+      "readingLine": "music",
+      "label": "音乐制作与录音",
+      "slugs": [
+        "teac-portastudio144",
+        "roland-tr808",
+        "roland-tb303",
+        "yamaha-dx7",
+        "roland-d50",
+        "korg-m1",
+        "roland-sp404-original",
+        "zoom-h4-original",
+        "teenage-engineering-op-1"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T11",
+      "readingLine": "computers",
+      "label": "计算机与计算器",
+      "slugs": [
+        "casio-14-a",
+        "casio-mini-1972",
+        "hp-65",
+        "bbc-micro-model-b",
+        "sharp-pc1500-jp",
+        "ti99-4a",
+        "xerox-8010-star",
+        "epson-hx20",
+        "sinclair-zx-spectrum-48k",
+        "casio-sl800",
+        "trs80-model100",
+        "amstrad-cpc464-uk",
+        "casio-fx7000g",
+        "commodore-amiga1000",
+        "iomega-zip100",
+        "lenovo-yoga13-2012",
+        "samsung-t7-2020"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T12",
+      "readingLine": "reading",
+      "label": "PDA与电子阅读",
+      "slugs": [
+        "apple-newton-messagepad-1993",
+        "psion-series5-1997",
+        "sony-librie-ebr1000ep",
+        "kobo-touch-2011",
+        "remarkable-2"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T13",
+      "readingLine": "communications",
+      "label": "电话与网络接入",
+      "slugs": [
+        "western-electric-500",
+        "motorola-pageboy-i",
+        "western-electric-picturephone-mod-ii",
+        "apple-airport-1999",
+        "avm-fritzbox-2004",
+        "sourcenext-pocketalk-w"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T14",
+      "readingLine": "navigation",
+      "label": "导航与定位",
+      "slugs": [
+        "magellan-nav1000",
+        "garmin-gps155-tso",
+        "tomtom-go-2004"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T15",
+      "readingLine": "players",
+      "label": "收听与播放",
+      "slugs": [
+        "braun-sk4",
+        "braun-t3",
+        "philips-el3300",
+        "sony-d50-jp",
+        "sony-mz1",
+        "microsoft-zune30"
+      ],
+      "status": "selected-awaiting-complete-text"
+    },
+    {
+      "id": "T16",
+      "readingLine": "phones",
+      "label": "手机",
+      "slugs": [
+        "microsoft-kin-one",
+        "fairphone-2-2015"
+      ],
+      "status": "selected-awaiting-complete-text"
+    }
+  ],
+  "sizePolicy": "20为正文复核的工作拆分，不是发现池或正式选择上限。",
+  "acceptance": [
+    "五节中文总计至少825字，具体使用/条件/取舍清楚。",
+    "逐节来源、事实表、具体版本及正确日期事件可追溯。",
+    "媒体意见署名、日期、型号、优缺点、条件、商业披露及读取深度齐全；不必强加历史影响。",
+    "关联目标有已完成正文或明确暂缓文本；图片依法使用或文字回退。",
+    "协调核验后交原代码线程分批导入，公开数量以实际导入为准。"
+  ]
+}

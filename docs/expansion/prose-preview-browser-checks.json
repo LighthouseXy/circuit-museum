@@ -1,0 +1,23 @@
+{
+  "checkedOn": "2026-10-11",
+  "scope": "current expansion review preview, not production site acceptance",
+  "observations": [
+    {
+      "page": "K380 detail after current-scope rebuild",
+      "result": "五节/来源/署名评价可读；后续规格/历程部件未显示；日本日期正确为计划。"
+    },
+    {
+      "page": "updated home",
+      "result": "216实体、原40+新136完整稿及40事实档案状态可见；12首页行与既有照片保留。"
+    },
+    {
+      "page": "browser lifecycle",
+      "result": "已返回首页、显示预览并标记保留；本地4173/4174监听确认。"
+    }
+  ],
+  "earlierResponsiveChecks": "既有expanded-validation包含1440/390首页、电视/VR及320媒体断行观察；这次只复核内容累计变化，不把旧观察冒成生产回归。",
+  "limits": [
+    "没有以176预览宣称实际站点达到150。",
+    "正式布局、脚本关闭/图片失败及截图验收由原实现重新执行。"
+  ]
+}

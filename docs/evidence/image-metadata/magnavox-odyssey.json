@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Magnavox_Odyssey,_Top_Side_View.jpg",
+  "creator": "The History of How We Play",
+  "license": "CC0 1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "alt": "Magnavox Odyssey 主机俯视实物照片",
+  "path": "/images/magnavox-odyssey.webp",
+  "changes": "等比例缩小、WebP 转码",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Magnavox_Odyssey%2C_Top_Side_View.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 4736,
+  "originalHeight": 2664,
+  "output": {
+    "format": "webp",
+    "width": 1100,
+    "height": 619,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 38506
+  }
+}

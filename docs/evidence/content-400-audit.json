@@ -1,0 +1,2876 @@
+{
+  "checkedOn": "2026-10-15",
+  "scope": "src/collection.json的176件原有产品；只读结构与文本核查，未核查图片像素和外站事实",
+  "exhibitCount": 176,
+  "summary": {
+    "missingImages": 47,
+    "missingCaption": 25,
+    "truncatedSummaries": 30,
+    "shortSectionItems": 0,
+    "itemsWithIssues": 153
+  },
+  "editorialFindings": [
+    {
+      "priority": 1,
+      "issue": "部分近年条目将证据核验过程放入设计、使用和局限正文，读者难以快速理解产品",
+      "examples": [
+        "msi-claw-a1m",
+        "lenovo-legion-go-2023",
+        "ricoh-gr-iii",
+        "insta360-x5",
+        "panasonic-lumix-dc-tz300"
+      ],
+      "action": "将未核实、索引、佣金、冻结记录等说明保留在来源或媒体证据字段；正文改写为具体结构、动作和情境取舍。"
+    },
+    {
+      "priority": 1,
+      "issue": "部分摘要直接截断长段落或采用“一个实际任务是”开头",
+      "examples": [
+        "lenovo-legion-go-2023",
+        "msi-claw-a1m",
+        "ricoh-gr-iii",
+        "insta360-x5",
+        "panasonic-lumix-dc-tz300"
+      ],
+      "action": "每件写成能独立读懂的完整短句：核心结构+用途改变；不要保留省略号截断。"
+    },
+    {
+      "priority": 2,
+      "issue": "部分图注包含作者许可和排除型号等证据文本，挤占可见结构描述",
+      "examples": [
+        "msi-claw-a1m",
+        "insta360-x5"
+      ],
+      "action": "图注优先描述主体可见部件与场景；许可、代际核验依据放作者/许可/modelVerification字段。"
+    }
+  ],
+  "items": [
+    {
+      "slug": "radiola-iii",
+      "name": "Radiola III",
+      "sectionLengths": {
+        "context": 174,
+        "design": 171,
+        "usage": 138,
+        "significance": 226,
+        "limitations": 121
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "regency-tr1",
+      "name": "Regency TR-1",
+      "sectionLengths": {
+        "context": 178,
+        "design": 176,
+        "usage": 138,
+        "significance": 205,
+        "limitations": 128
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "koss-sp3",
+      "name": "SP/3",
+      "sectionLengths": {
+        "context": 175,
+        "design": 173,
+        "usage": 138,
+        "significance": 221,
+        "limitations": 126
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "hamilton-pulsar-p1",
+      "name": "Pulsar P1",
+      "sectionLengths": {
+        "context": 169,
+        "design": 177,
+        "usage": 153,
+        "significance": 222,
+        "limitations": 128
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "hp-35",
+      "name": "HP-35",
+      "sectionLengths": {
+        "context": 172,
+        "design": 181,
+        "usage": 148,
+        "significance": 235,
+        "limitations": 121
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "magnavox-odyssey",
+      "name": "Odyssey",
+      "sectionLengths": {
+        "context": 173,
+        "design": 175,
+        "usage": 161,
+        "significance": 235,
+        "limitations": 121
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "altair-8800",
+      "name": "Altair 8800",
+      "sectionLengths": {
+        "context": 183,
+        "design": 180,
+        "usage": 151,
+        "significance": 248,
+        "limitations": 123
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "apple-1",
+      "name": "Apple-1",
+      "sectionLengths": {
+        "context": 183,
+        "design": 179,
+        "usage": 148,
+        "significance": 240,
+        "limitations": 129
+      },
+      "imageCaption": "照片中的木壳属于此件实物；Apple-1 原厂销售的是装配好的电路板。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "atari-vcs",
+      "name": "Atari Video Computer System",
+      "sectionLengths": {
+        "context": 180,
+        "design": 193,
+        "usage": 170,
+        "significance": 233,
+        "limitations": 122
+      },
+      "imageCaption": "早期六开关版本实物。1977 年指 VCS 产品推出年份。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "speak-and-spell",
+      "name": "Speak & Spell",
+      "sectionLengths": {
+        "context": 173,
+        "design": 177,
+        "usage": 150,
+        "significance": 233,
+        "limitations": 119
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-tps-l2",
+      "name": "Walkman TPS-L2",
+      "sectionLengths": {
+        "context": 165,
+        "design": 177,
+        "usage": 155,
+        "significance": 243,
+        "limitations": 127
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "ibm-pc-5150",
+      "name": "IBM PC 5150",
+      "sectionLengths": {
+        "context": 170,
+        "design": 193,
+        "usage": 155,
+        "significance": 229,
+        "limitations": 129
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "commodore-64",
+      "name": "Commodore 64",
+      "sectionLengths": {
+        "context": 169,
+        "design": 179,
+        "usage": 173,
+        "significance": 250,
+        "limitations": 129
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "motorola-dynatac-8000x",
+      "name": "DynaTAC 8000X",
+      "sectionLengths": {
+        "context": 155,
+        "design": 156,
+        "usage": 158,
+        "significance": 225,
+        "limitations": 131
+      },
+      "imageCaption": "DynaTAC 8000X的长天线、实体数字键与显示窗。该实物带运营商标识；照片不用于证明1983年首售或所有市场配置。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "nintendo-famicom",
+      "name": "Family Computer",
+      "sectionLengths": {
+        "context": 158,
+        "design": 173,
+        "usage": 166,
+        "significance": 242,
+        "limitations": 133
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "macintosh-128k",
+      "name": "Macintosh 128K",
+      "sectionLengths": {
+        "context": 172,
+        "design": 162,
+        "usage": 180,
+        "significance": 240,
+        "limitations": 149
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "game-boy",
+      "name": "Game Boy DMG-01",
+      "sectionLengths": {
+        "context": 152,
+        "design": 171,
+        "usage": 172,
+        "significance": 259,
+        "limitations": 134
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-playstation",
+      "name": "PlayStation",
+      "sectionLengths": {
+        "context": 170,
+        "design": 173,
+        "usage": 179,
+        "significance": 268,
+        "limitations": 144
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "casio-qv10",
+      "name": "QV-10",
+      "sectionLengths": {
+        "context": 159,
+        "design": 179,
+        "usage": 168,
+        "significance": 258,
+        "limitations": 152
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "palmpilot-professional",
+      "name": "PalmPilot Professional",
+      "sectionLengths": {
+        "context": 170,
+        "design": 176,
+        "usage": 172,
+        "significance": 242,
+        "limitations": 139
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "imac-g3",
+      "name": "iMac G3",
+      "sectionLengths": {
+        "context": 173,
+        "design": 182,
+        "usage": 178,
+        "significance": 251,
+        "limitations": 152
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "ipod-1",
+      "name": "iPod 第一代",
+      "sectionLengths": {
+        "context": 176,
+        "design": 186,
+        "usage": 172,
+        "significance": 248,
+        "limitations": 159
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-ds",
+      "name": "Nintendo DS",
+      "sectionLengths": {
+        "context": 177,
+        "design": 188,
+        "usage": 176,
+        "significance": 254,
+        "limitations": 153
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "macbook-2006",
+      "name": "MacBook 第一代",
+      "sectionLengths": {
+        "context": 180,
+        "design": 198,
+        "usage": 167,
+        "significance": 249,
+        "limitations": 148
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-wii",
+      "name": "Wii",
+      "sectionLengths": {
+        "context": 165,
+        "design": 201,
+        "usage": 173,
+        "significance": 255,
+        "limitations": 144
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "amazon-kindle-1",
+      "name": "Kindle 第一代",
+      "sectionLengths": {
+        "context": 175,
+        "design": 194,
+        "usage": 173,
+        "significance": 243,
+        "limitations": 156
+      },
+      "imageCaption": "第一代Kindle的侧边翻页键与实体键盘；图中手持方式可与正文的移动阅读操作对照。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "iphone-1",
+      "name": "iPhone 第一代",
+      "sectionLengths": {
+        "context": 178,
+        "design": 176,
+        "usage": 173,
+        "significance": 257,
+        "limitations": 158
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：significance"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "ipad-1",
+      "name": "iPad 第一代",
+      "sectionLengths": {
+        "context": 180,
+        "design": 196,
+        "usage": 172,
+        "significance": 257,
+        "limitations": 152
+      },
+      "imageCaption": "第一代iPad的触摸屏与圆形主屏幕按钮。照片为32GB Wi-Fi实物，不代表所有容量与网络版本。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "iphone-4",
+      "name": "iPhone 4",
+      "sectionLengths": {
+        "context": 169,
+        "design": 195,
+        "usage": 180,
+        "significance": 245,
+        "limitations": 152
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "raspberry-pi-model-b",
+      "name": "Raspberry Pi Model B",
+      "sectionLengths": {
+        "context": 160,
+        "design": 193,
+        "usage": 179,
+        "significance": 233,
+        "limitations": 155
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "fitbit-flex",
+      "name": "Flex",
+      "sectionLengths": {
+        "context": 167,
+        "design": 190,
+        "usage": 172,
+        "significance": 233,
+        "limitations": 139
+      },
+      "imageCaption": "2014 年拍摄的第一代 Flex 与配套腕带。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "xiaomi-mi-band-1",
+      "name": "小米手环 第一代",
+      "sectionLengths": {
+        "context": 174,
+        "design": 179,
+        "usage": 175,
+        "significance": 238,
+        "limitations": 142
+      },
+      "imageCaption": "2015 年 1 月拍摄的第一代 Mi Band；原始图像分辨率为 640×640。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "apple-watch-1",
+      "name": "Apple Watch 第一代",
+      "sectionLengths": {
+        "context": 169,
+        "design": 210,
+        "usage": 174,
+        "significance": 240,
+        "limitations": 151
+      },
+      "imageCaption": "第一代 Apple Watch 的 Sport 版本，2015 年 4 月在店内展台拍摄。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "airpods-1",
+      "name": "AirPods 第一代",
+      "sectionLengths": {
+        "context": 171,
+        "design": 193,
+        "usage": 173,
+        "significance": 228,
+        "limitations": 151
+      },
+      "imageCaption": "2017 年拍摄的第一代 AirPods。文件名中的“(2)”用于区分文件，不表示第二代产品。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "steam-deck-lcd",
+      "name": "Steam Deck LCD",
+      "sectionLengths": {
+        "context": 173,
+        "design": 191,
+        "usage": 173,
+        "significance": 223,
+        "limitations": 164
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "airpods-5",
+      "name": "AirPods 5",
+      "sectionLengths": {
+        "context": 159,
+        "design": 189,
+        "usage": 163,
+        "significance": 256,
+        "limitations": 153
+      },
+      "imageCaption": "2026 年 9 月拍摄的第五代 AirPods 与充电盒。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "apple-watch-series-12",
+      "name": "Apple Watch Series 12",
+      "sectionLengths": {
+        "context": 177,
+        "design": 187,
+        "usage": 156,
+        "significance": 244,
+        "limitations": 162
+      },
+      "imageCaption": "浅金色铝金属 Series 12 与洋红色 Sport 表带，2026 年 9 月拍摄。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "iphone-18-pro",
+      "name": "iPhone 18 Pro",
+      "sectionLengths": {
+        "context": 165,
+        "design": 211,
+        "usage": 169,
+        "significance": 247,
+        "limitations": 148
+      },
+      "imageCaption": "2026 年 9 月拍摄的 iPhone 18 Pro。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "macbook-air-m5-2026",
+      "name": "MacBook Air 13英寸（M5）",
+      "sectionLengths": {
+        "context": 157,
+        "design": 212,
+        "usage": 166,
+        "significance": 243,
+        "limitations": 159
+      },
+      "imageCaption": "原文件标注为13英寸M5、天蓝色的店内实物，可对照键盘与触控板布局；照片不能独立验证芯片或性能。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "xiaomi-smart-band-11-active",
+      "name": "Xiaomi Smart Band 11 Active",
+      "sectionLengths": {
+        "context": 162,
+        "design": 199,
+        "usage": 154,
+        "significance": 238,
+        "limitations": 146
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-cdp-101",
+      "name": "CDP-101",
+      "sectionLengths": {
+        "context": 208,
+        "design": 202,
+        "usage": 200,
+        "significance": 237,
+        "limitations": 205
+      },
+      "imageCaption": "CDP-101实物与遥控器，前面板可见抽屉、曲号显示及播放控制；具体地区电源规格以正文引用手册为准。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "casio-f91w",
+      "name": "F-91W（593模块，标准黑色款）",
+      "sectionLengths": {
+        "context": 233,
+        "design": 206,
+        "usage": 224,
+        "significance": 360,
+        "limitations": 223
+      },
+      "imageCaption": "标准黑色F-91W的显示窗与三按钮布局。这是2023年购入的现行实物，不能视为1989年制造的首批样品。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "ibm-thinkpad-701c",
+      "name": "ThinkPad 701C",
+      "sectionLengths": {
+        "context": 227,
+        "design": 224,
+        "usage": 246,
+        "significance": 207,
+        "limitations": 230
+      },
+      "imageCaption": "701C的键盘处于展开过程中，可看见两部分的交错结构；图示不证明UT5的处理器、存储或屏幕配置。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nokia-3310-2000",
+      "name": "Nokia 3310（2000年原版）",
+      "sectionLengths": {
+        "context": 223,
+        "design": 218,
+        "usage": 211,
+        "significance": 338,
+        "limitations": 212
+      },
+      "imageCaption": "原版3310的实体按键与小屏幕，可对照正文的按键操作。照片未显示SIM或铭牌，不将它认作正文引用的O2实物或2017复刻。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "logitech-mx-master-3",
+      "name": "MX Master 3",
+      "sectionLengths": {
+        "context": 227,
+        "design": 219,
+        "usage": 241,
+        "significance": 203,
+        "limitations": 224
+      },
+      "imageCaption": "原作者标注为MX Master 3的鼠标位于照片右侧，金属滚轮、侧滚轮及拇指托可与正文对照；左侧键盘和腕托为拍摄者的桌面搭配，不属于鼠标套装。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "framework-laptop-13-2021",
+      "name": "Framework Laptop（首代13.5英寸／后称Laptop 13）",
+      "sectionLengths": {
+        "context": 221,
+        "design": 219,
+        "usage": 211,
+        "significance": 211,
+        "limitations": 214
+      },
+      "imageCaption": "2022年1月展览中的Framework机身与拆分部件，用于对照正文的模块化结构。图中未展示处理器铭牌，不作为具体芯片或存储配置的证据。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "osborne-1",
+      "name": "Osborne 1",
+      "sectionLengths": {
+        "context": 256,
+        "design": 250,
+        "usage": 250,
+        "significance": 203,
+        "limitations": 256
+      },
+      "imageCaption": "打开后的Osborne 1，键盘、内置小屏幕与两侧驱动器可同时看到；可对照正文中携带与展开工作的过程。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "epson-ep101",
+      "name": "EP-101",
+      "sectionLengths": {
+        "context": 240,
+        "design": 237,
+        "usage": 241,
+        "significance": 204,
+        "limitations": 259
+      },
+      "imageCaption": "EP-101打印组件的滚筒、机构与机架，可对照正文关于部件而非独立打印机的说明。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "toshiba-er4",
+      "name": "ER-4",
+      "sectionLengths": {
+        "context": 217,
+        "design": 229,
+        "usage": 227,
+        "significance": 337,
+        "limitations": 231
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：usage"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "ericsson-ericofon",
+      "name": "Ericofon",
+      "sectionLengths": {
+        "context": 213,
+        "design": 234,
+        "usage": 231,
+        "significance": 333,
+        "limitations": 215
+      },
+      "imageCaption": "档案标注1956型的Ericofon，话筒、听筒与机身融为一体；照片用于观察早期外壳形态，不将其当作后来的DBJ700。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "sony-xel-1",
+      "name": "XEL-1",
+      "sectionLengths": {
+        "context": 198,
+        "design": 195,
+        "usage": 210,
+        "significance": 228,
+        "limitations": 202
+      },
+      "imageCaption": "XEL-1侧面的薄面板、支撑臂与底座。2007年11月展台照片未显示电源铭牌，不据此确认地区电气参数。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-playstation-vr-cuh-zvr1",
+      "name": "PlayStation VR（CUH-ZVR1）",
+      "sectionLengths": {
+        "context": 205,
+        "design": 204,
+        "usage": 209,
+        "significance": 231,
+        "limitations": 202
+      },
+      "imageCaption": "2016年12月展台上的第一代PlayStation VR实物，展示环形头带和前部头显；不以此图确认零售包装或固件。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "nintendo-switch-2",
+      "name": "Nintendo Switch 2",
+      "sectionLengths": {
+        "context": 288,
+        "design": 245,
+        "usage": 280,
+        "significance": 424,
+        "limitations": 283
+      },
+      "imageCaption": "Switch 2掌机状态的实物，可对照屏幕、两侧Joy-Con 2与控制布局；不用于证明运行帧率或续航。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-playstation-5-pro",
+      "name": "PlayStation 5 Pro",
+      "sectionLengths": {
+        "context": 259,
+        "design": 247,
+        "usage": 255,
+        "significance": 380,
+        "limitations": 292
+      },
+      "imageCaption": "BeatEmUps原视频中的PS5 Pro实物画面，三条黑色机身装饰带可见；本图未装光驱。原发布页的知识共享再利用许可已另行核对。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "hp-65",
+      "name": "HP-65",
+      "sectionLengths": {
+        "context": 220,
+        "design": 205,
+        "usage": 221,
+        "significance": 207,
+        "limitations": 214
+      },
+      "imageCaption": "HP-65的按键、显示窗与磁卡读取区域，用于对照程序保存和运行操作；照片不代表这件机器仍可运行。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "roland-tr808",
+      "name": "TR-808 Rhythm Composer",
+      "sectionLengths": {
+        "context": 228,
+        "design": 226,
+        "usage": 213,
+        "significance": 215,
+        "limitations": 215
+      },
+      "imageCaption": "TR-808的音色控制旋钮与十六步按键同处面板，便于对照正文中“调整声音”和“排列节奏”的两组操作。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "roland-tb303",
+      "name": "TB-303 Bass Line",
+      "sectionLengths": {
+        "context": 224,
+        "design": 214,
+        "usage": 222,
+        "significance": 202,
+        "limitations": 221
+      },
+      "imageCaption": "TB-303的音色旋钮、步进按键与演奏键布局；图中面板可与正文的音色调整和序列编写对照。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "yamaha-dx7",
+      "name": "DX7",
+      "sectionLengths": {
+        "context": 222,
+        "design": 226,
+        "usage": 226,
+        "significance": 208,
+        "limitations": 230
+      },
+      "imageCaption": "原代DX7的两个实物视角，可对照键盘、显示区与参数按钮。Commons原作者已合成两幅照片，原摄影与合成署名一并保留。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "teac-portastudio144",
+      "name": "144 Portastudio",
+      "sectionLengths": {
+        "context": 222,
+        "design": 214,
+        "usage": 215,
+        "significance": 221,
+        "limitations": 217
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "hp-laserjet-1984",
+      "name": "LaserJet 原代（1984）",
+      "sectionLengths": {
+        "context": 219,
+        "design": 219,
+        "usage": 222,
+        "significance": 205,
+        "limitations": 210
+      },
+      "imageCaption": "中央展品为原代HP LaserJet，机身铭牌和上方1984年展签可见；前部按键、进出纸结构与桌面机身可对照正文。左右其他设备仅为展览背景。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "apple-newton-messagepad-1993",
+      "name": "MessagePad 原代",
+      "sectionLengths": {
+        "context": 246,
+        "design": 222,
+        "usage": 224,
+        "significance": 210,
+        "limitations": 226
+      },
+      "imageCaption": "Smithsonian藏品H1000的原代MessagePad与保护套；采用档案明确的1993年型号，排除后来的MessagePad 100和2000。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "iomega-zip100",
+      "name": "Zip 100 drive",
+      "sectionLengths": {
+        "context": 224,
+        "design": 221,
+        "usage": 220,
+        "significance": 201,
+        "limitations": 222
+      },
+      "imageCaption": "外置Zip 100驱动器与100MB介质，图中的Fujifilm磁盘用于说明兼容介质，不认作Iomega品牌原装包装。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "pfu-scansnap-fi4110eox",
+      "name": "ScanSnap fi-4110EOX",
+      "sectionLengths": {
+        "context": 216,
+        "design": 212,
+        "usage": 238,
+        "significance": 204,
+        "limitations": 226
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "logitech-k380-2015",
+      "name": "K380 Multi-Device Bluetooth Keyboard",
+      "sectionLengths": {
+        "context": 235,
+        "design": 223,
+        "usage": 221,
+        "significance": 228,
+        "limitations": 220
+      },
+      "imageCaption": "K380的圆形键帽与三个设备切换按钮；本图为中日韩字符布局，不把地区印字当作其他市场键位的证明。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "kobo-touch-2011",
+      "name": "Kobo eReader Touch Edition",
+      "sectionLengths": {
+        "context": 232,
+        "design": 227,
+        "usage": 222,
+        "significance": 192,
+        "limitations": 224
+      },
+      "imageCaption": "Kobo Touch的阅读屏幕与下方实体按键，可与正文的触摸阅读界面对照；不是Touch 2或后来的Kobo款式。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "samsung-t7-2020",
+      "name": "Portable SSD T7",
+      "sectionLengths": {
+        "context": 234,
+        "design": 222,
+        "usage": 227,
+        "significance": 204,
+        "limitations": 224
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-playstation-2",
+      "name": "PlayStation 2（原版）",
+      "sectionLengths": {
+        "context": 243,
+        "design": 241,
+        "usage": 237,
+        "significance": 393,
+        "limitations": 239
+      },
+      "imageCaption": "原版厚机身PlayStation 2，照片为北美SCPH-30001型号；展示原代机身与扩展结构，不替代日本首发型号的配置说明。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-psp-1000",
+      "name": "PSP-1000",
+      "sectionLengths": {
+        "context": 243,
+        "design": 245,
+        "usage": 241,
+        "significance": 401,
+        "limitations": 248
+      },
+      "imageCaption": "原PSP-1000系列的显示屏、按键与机身，可对照UMD时代的掌机结构；照片未显示地区铭牌，不用于判断日本电源或地区代码。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-playstation-3",
+      "name": "PlayStation 3（原版）",
+      "sectionLengths": {
+        "context": 243,
+        "design": 242,
+        "usage": 239,
+        "significance": 388,
+        "limitations": 257
+      },
+      "imageCaption": "原版厚机身PlayStation 3，照片为北美CECHA01 60GB型号，配DualShock 3；用于展示原代外形，不代表日本首发包装与手柄配置。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-playstation-vita",
+      "name": "PlayStation Vita（初代OLED）",
+      "sectionLengths": {
+        "context": 251,
+        "design": 238,
+        "usage": 251,
+        "significance": 389,
+        "limitations": 251
+      },
+      "imageCaption": "首代OLED Vita的PCH-1101实物，用于说明首代机身与双摇杆。该照片为北美版本，正文的日本首发日期独立引用史料。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-playstation-4",
+      "name": "PlayStation 4（原版）",
+      "sectionLengths": {
+        "context": 260,
+        "design": 236,
+        "usage": 242,
+        "significance": 366,
+        "limitations": 237
+      },
+      "imageCaption": "2013年原版PS4的两层机身与斜切形态；不是圆角Slim或三层Pro。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-playstation-4-pro",
+      "name": "PlayStation 4 Pro",
+      "sectionLengths": {
+        "context": 254,
+        "design": 246,
+        "usage": 257,
+        "significance": 357,
+        "limitations": 250
+      },
+      "imageCaption": "2016年台北资讯月展出的PS4 Pro与PS4 Slim样机；左侧三层机身为Pro，右侧两层机身为Slim，用于比较外形。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-playstation-5",
+      "name": "PlayStation 5（原光盘版）",
+      "sectionLengths": {
+        "context": 259,
+        "design": 245,
+        "usage": 250,
+        "significance": 365,
+        "limitations": 251
+      },
+      "imageCaption": "2020年原光盘版PS5与DualSense，右侧光盘插口可见；不是两片外壳的Slim或三条黑色装饰带的Pro。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-switch-2017",
+      "name": "Nintendo Switch（2017原版）",
+      "sectionLengths": {
+        "context": 255,
+        "design": 226,
+        "usage": 246,
+        "significance": 395,
+        "limitations": 243
+      },
+      "imageCaption": "2017年原版Switch与底座及Joy-Con的实物组合；照片早于OLED款和Switch 2，不用后代替换首代外观。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-super-famicom",
+      "name": "Super Famicom",
+      "sectionLengths": {
+        "context": 239,
+        "design": 221,
+        "usage": 244,
+        "significance": 372,
+        "limitations": 248
+      },
+      "imageCaption": "日本Super Famicom的机身与彩色标志；不是外壳形态不同的北美SNES。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-64",
+      "name": "Nintendo 64",
+      "sectionLengths": {
+        "context": 237,
+        "design": 250,
+        "usage": 247,
+        "significance": 419,
+        "limitations": 249
+      },
+      "imageCaption": "原代Nintendo 64与三握把控制器，展示主机、卡带位置和控制布局；地区电源与视频制式不能从这张正面照片确认。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-game-boy-color",
+      "name": "Game Boy Color",
+      "sectionLengths": {
+        "context": 252,
+        "design": 229,
+        "usage": 249,
+        "significance": 373,
+        "limitations": 230
+      },
+      "imageCaption": "Game Boy Color的彩色款机身、屏幕与按键布局；透明配色属于同一型号，不把配色计作另一代产品。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-game-boy-advance",
+      "name": "Game Boy Advance（原版）",
+      "sectionLengths": {
+        "context": 249,
+        "design": 237,
+        "usage": 234,
+        "significance": 378,
+        "limitations": 235
+      },
+      "imageCaption": "原版横向Game Boy Advance的机身与两侧控制区；不是折叠SP或缩小的Micro。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-gamecube",
+      "name": "Nintendo GameCube（原版）",
+      "sectionLengths": {
+        "context": 265,
+        "design": 231,
+        "usage": 229,
+        "significance": 388,
+        "limitations": 228
+      },
+      "imageCaption": "原代GameCube主机与控制器，展示光盘盖、前部接口和提手；照片不单独证明地区代码或容量。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-3ds",
+      "name": "Nintendo 3DS（原版）",
+      "sectionLengths": {
+        "context": 251,
+        "design": 232,
+        "usage": 250,
+        "significance": 387,
+        "limitations": 249
+      },
+      "imageCaption": "2011年纽约首发活动中的初代3DS，展示双屏、摇杆与按键；正文年代采用日本首发，不以此图证明日本零售包装。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-wii-u",
+      "name": "Wii U（原版）",
+      "sectionLengths": {
+        "context": 234,
+        "design": 236,
+        "usage": 262,
+        "significance": 372,
+        "limitations": 249
+      },
+      "imageCaption": "原版Wii U主机与GamePad的实物合图，可对照独立主机和带屏控制器的分工；原Commons作者已处理背景。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-switch-lite",
+      "name": "Nintendo Switch Lite",
+      "sectionLengths": {
+        "context": 248,
+        "design": 240,
+        "usage": 252,
+        "significance": 404,
+        "limitations": 250
+      },
+      "imageCaption": "Switch Lite的一体式机身和固定两侧控制区，可对照正文中与可拆卸Joy-Con结构的区别。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "kitchenaid-h5",
+      "name": "H-5",
+      "sectionLengths": {
+        "context": 238,
+        "design": 225,
+        "usage": 216,
+        "significance": 305,
+        "limitations": 220
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "toastmaster-1a1",
+      "name": "Toastmaster 1A1",
+      "sectionLengths": {
+        "context": 237,
+        "design": 214,
+        "usage": 227,
+        "significance": 307,
+        "limitations": 223
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "kenwood-chef-a700",
+      "name": "Chef A700",
+      "sectionLengths": {
+        "context": 251,
+        "design": 218,
+        "usage": 219,
+        "significance": 321,
+        "limitations": 223
+      },
+      "imageCaption": "早期Chef Model 700的搅拌碗、机头和控制旋钮；图中老化表面不代表出厂状态。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "national-ec36",
+      "name": "EC-36",
+      "sectionLengths": {
+        "context": 227,
+        "design": 217,
+        "usage": 213,
+        "significance": 313,
+        "limitations": 215
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sharp-r10",
+      "name": "R-10",
+      "sectionLengths": {
+        "context": 224,
+        "design": 217,
+        "usage": 223,
+        "significance": 328,
+        "limitations": 220
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "dyson-dc01",
+      "name": "DC01",
+      "sectionLengths": {
+        "context": 233,
+        "design": 211,
+        "usage": 214,
+        "significance": 305,
+        "limitations": 223
+      },
+      "imageCaption": "DC01的直立机身、透明集尘部分与地面清洁头，可与正文的集尘和推行任务对照。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "western-electric-500",
+      "name": "Model 500",
+      "sectionLengths": {
+        "context": 229,
+        "design": 213,
+        "usage": 208,
+        "significance": 311,
+        "limitations": 243
+      },
+      "imageCaption": "档案标注1951年的Model 500实物，显示旋转拨号盘、听筒与卷线；照片不是1949年首批样品。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "hoover-constellation-444",
+      "name": "Constellation model 444",
+      "sectionLengths": {
+        "context": 251,
+        "design": 216,
+        "usage": 207,
+        "significance": 328,
+        "limitations": 215
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,significance,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "braun-hl1",
+      "name": "HL1",
+      "sectionLengths": {
+        "context": 230,
+        "design": 210,
+        "usage": 207,
+        "significance": 323,
+        "limitations": 213
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "braun-sixtant-sm31",
+      "name": "Sixtant SM 31",
+      "sectionLengths": {
+        "context": 241,
+        "design": 210,
+        "usage": 206,
+        "significance": 315,
+        "limitations": 218
+      },
+      "imageCaption": "Braun Sixtant SM31实物与收纳盒，黑色机身与银色剃须头形成鲜明分区；1962年为设计型号年份，不是照片中这台实物的生产日期证明。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,significance,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "motorola-pageboy-i",
+      "name": "PageBoy I",
+      "sectionLengths": {
+        "context": 256,
+        "design": 210,
+        "usage": 212,
+        "significance": 332,
+        "limitations": 217
+      },
+      "imageCaption": "PageBoy I家族的H03BNC1102D0实物，可见顶部旋钮、按键与正面扬声器格栅；不从照片推定生产年份或具体接收功能。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "western-electric-picturephone-mod-ii",
+      "name": "Picturephone Mod II",
+      "sectionLengths": {
+        "context": 248,
+        "design": 200,
+        "usage": 206,
+        "significance": 319,
+        "limitations": 213
+      },
+      "imageCaption": "1972—1973年的Picturephone Mod II，画面可见屏幕、机身顶部摄像区域及底部控制区；不是早期Mod I。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "omron-hem1",
+      "name": "HEM-1",
+      "sectionLengths": {
+        "context": 221,
+        "design": 207,
+        "usage": 202,
+        "significance": 320,
+        "limitations": 216
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,significance,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "magellan-nav1000",
+      "name": "NAV 1000",
+      "sectionLengths": {
+        "context": 230,
+        "design": 201,
+        "usage": 211,
+        "significance": 334,
+        "limitations": 217
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "garmin-gps155-tso",
+      "name": "GPS 155 TSO",
+      "sectionLengths": {
+        "context": 228,
+        "design": 223,
+        "usage": 222,
+        "significance": 349,
+        "limitations": 214
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "husqvarna-solar-mower-1995",
+      "name": "Solar Mower",
+      "sectionLengths": {
+        "context": 224,
+        "design": 220,
+        "usage": 217,
+        "significance": 333,
+        "limitations": 222
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "apple-airport-1999",
+      "name": "AirPort Base Station（首代）",
+      "sectionLengths": {
+        "context": 219,
+        "design": 207,
+        "usage": 211,
+        "significance": 345,
+        "limitations": 214
+      },
+      "imageCaption": "前景左下的石墨色设备是首代AirPort；后方两台白色设备是后续版本，仅作为对照，不把它们认作1999年首代。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-aibo-ers110",
+      "name": "AIBO ERS-110",
+      "sectionLengths": {
+        "context": 216,
+        "design": 208,
+        "usage": 196,
+        "significance": 333,
+        "limitations": 212
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "irobot-roomba-2002",
+      "name": "Roomba Intelligent FloorVac 第一代",
+      "sectionLengths": {
+        "context": 232,
+        "design": 210,
+        "usage": 198,
+        "significance": 322,
+        "limitations": 213
+      },
+      "imageCaption": "第一代Roomba的圆形机身与顶部尺寸选择按钮，可与正文中的早期清扫任务对照；不套用后代建图功能。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "avm-fritzbox-2004",
+      "name": "FRITZ!Box（初代无WLAN）",
+      "sectionLengths": {
+        "context": 211,
+        "design": 214,
+        "usage": 216,
+        "significance": 345,
+        "limitations": 209
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "tomtom-go-2004",
+      "name": "GO（2004原版）",
+      "sectionLengths": {
+        "context": 215,
+        "design": 210,
+        "usage": 207,
+        "significance": 336,
+        "limitations": 211
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,significance,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "violet-nabaztag-v1",
+      "name": "Nabaztag v1",
+      "sectionLengths": {
+        "context": 221,
+        "design": 204,
+        "usage": 207,
+        "significance": 331,
+        "limitations": 207
+      },
+      "imageCaption": "2006年8月拍摄的第一代Nabaztag，机身腹部没有后来Nabaztag:tag的麦克风孔；不以照片暗示原服务器仍在运行。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "philips-airfryer-hd9220",
+      "name": "Airfryer HD9220/40",
+      "sectionLengths": {
+        "context": 220,
+        "design": 200,
+        "usage": 201,
+        "significance": 322,
+        "limitations": 213
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "rca-630ts",
+      "name": "630TS 桌面电视",
+      "sectionLengths": {
+        "context": 232,
+        "design": 224,
+        "usage": 219,
+        "significance": 244,
+        "limitations": 217
+      },
+      "imageCaption": "MoMI展示的RCA 630TS，屏幕、扬声器格栅和调谐控制位于同一桌面机箱，可对照正文的家庭接收任务。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-tv8-301",
+      "name": "TV8-301",
+      "sectionLengths": {
+        "context": 220,
+        "design": 209,
+        "usage": 212,
+        "significance": 229,
+        "limitations": 218
+      },
+      "imageCaption": null,
+      "issues": [
+        "缺图注"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-kv-1310",
+      "name": "KV-1310",
+      "sectionLengths": {
+        "context": 238,
+        "design": 220,
+        "usage": 215,
+        "significance": 252,
+        "limitations": 229
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sharp-aquos-lc20c1",
+      "name": "AQUOS LC-20C1",
+      "sectionLengths": {
+        "context": 218,
+        "design": 207,
+        "usage": 218,
+        "significance": 238,
+        "limitations": 232
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "samsung-the-frame-ls003",
+      "name": "The Frame 55 LS003",
+      "sectionLengths": {
+        "context": 226,
+        "design": 221,
+        "usage": 239,
+        "significance": 244,
+        "limitations": 227
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "samsung-the-sero-ls05t",
+      "name": "The Sero 43 LS05T",
+      "sectionLengths": {
+        "context": 208,
+        "design": 206,
+        "usage": 230,
+        "significance": 238,
+        "limitations": 224
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "lg-signature-oled-r-rx",
+      "name": "SIGNATURE OLED R (RX)",
+      "sectionLengths": {
+        "context": 207,
+        "design": 238,
+        "usage": 241,
+        "significance": 245,
+        "limitations": 222
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "epson-vpj-700",
+      "name": "VPJ-700",
+      "sectionLengths": {
+        "context": 226,
+        "design": 223,
+        "usage": 217,
+        "significance": 242,
+        "limitations": 219
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "samsung-the-freestyle-2022",
+      "name": "The Freestyle (2022)",
+      "sectionLengths": {
+        "context": 230,
+        "design": 220,
+        "usage": 217,
+        "significance": 242,
+        "limitations": 226
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "lg-stanbyme-go-27lx5qkna",
+      "name": "LG StanbyME Go 27LX5QKNA",
+      "sectionLengths": {
+        "context": 222,
+        "design": 204,
+        "usage": 228,
+        "significance": 237,
+        "limitations": 233
+      },
+      "imageCaption": "LG原厂发布的StanbyME Go场景实拍：屏幕在提箱内平放，显示唱机界面，图中并非实体黑胶唱盘；人物和布景属于宣传拍摄。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "lg-oled-evo-m5-65",
+      "name": "OLED evo M5 65",
+      "sectionLengths": {
+        "context": 233,
+        "design": 218,
+        "usage": 229,
+        "significance": 233,
+        "limitations": 223
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "samsung-micro-rgb-r95h-65",
+      "name": "Micro RGB R95H 65",
+      "sectionLengths": {
+        "context": 228,
+        "design": 224,
+        "usage": 225,
+        "significance": 245,
+        "limitations": 228
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "htc-vive-2016",
+      "name": "VIVE 消费者版",
+      "sectionLengths": {
+        "context": 220,
+        "design": 214,
+        "usage": 218,
+        "significance": 226,
+        "limitations": 225
+      },
+      "imageCaption": "2016年12月拍摄的首代VIVE消费者版头显及控制器，可见前置摄像头与机身定位传感器；不混用Vive Pre或Vive Pro。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "microsoft-hololens-2",
+      "name": "HoloLens 2",
+      "sectionLengths": {
+        "context": 226,
+        "design": 232,
+        "usage": 221,
+        "significance": 237,
+        "limitations": 226
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "oculus-quest-2019",
+      "name": "Oculus Quest 第一代",
+      "sectionLengths": {
+        "context": 197,
+        "design": 192,
+        "usage": 198,
+        "significance": 241,
+        "limitations": 203
+      },
+      "imageCaption": "2019年6月拍摄的黑色首代Quest，显示面罩、追踪摄像头与头带；不使用白色Quest 2照片替代。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "meta-quest-3",
+      "name": "Meta Quest 3",
+      "sectionLengths": {
+        "context": 203,
+        "design": 204,
+        "usage": 192,
+        "significance": 241,
+        "limitations": 207
+      },
+      "imageCaption": "Quest 3展台实物，正面可见三组竖向传感器区域及控制器；不是传感器排列不同的Quest 3S。",
+      "issues": [],
+      "recommendation": "结构基本完整；人工复核是否还有概念重复及细节超出来源。"
+    },
+    {
+      "slug": "sony-playstation-vr2",
+      "name": "PlayStation VR2",
+      "sectionLengths": {
+        "context": 202,
+        "design": 198,
+        "usage": 208,
+        "significance": 235,
+        "limitations": 216
+      },
+      "imageCaption": "PSVR2头显与Sense控制器的实物照片；可对照头带、遮光部分与线缆，运行与兼容性仍依据正文资料。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "apple-vision-pro-m2",
+      "name": "Apple Vision Pro（M2）",
+      "sectionLengths": {
+        "context": 195,
+        "design": 215,
+        "usage": 216,
+        "significance": 252,
+        "limitations": 216
+      },
+      "imageCaption": "2024年原代Vision Pro展台实物与Solo Knit头带。图示不用于验证M2芯片、存储容量或实际空间追踪效果。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "samsung-galaxy-xr",
+      "name": "Galaxy XR",
+      "sectionLengths": {
+        "context": 211,
+        "design": 234,
+        "usage": 215,
+        "significance": 261,
+        "limitations": 208
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-betamax-sl-6300",
+      "name": "Betamax SL-6300",
+      "sectionLengths": {
+        "context": 203,
+        "design": 200,
+        "usage": 204,
+        "significance": 238,
+        "limitations": 231
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "canon-ae-1",
+      "name": "AE-1",
+      "sectionLengths": {
+        "context": 191,
+        "design": 186,
+        "usage": 187,
+        "significance": 242,
+        "limitations": 211
+      },
+      "imageCaption": "原AE-1与示例FD镜头，快门旋钮和机身字样可见；不是AE-1 Program，示例镜头不作为所有出厂套装的证明。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nikon-f3",
+      "name": "F3",
+      "sectionLengths": {
+        "context": 190,
+        "design": 192,
+        "usage": 201,
+        "significance": 232,
+        "limitations": 202
+      },
+      "imageCaption": "Nikon F3标准取景器机身与50mm f/1.8镜头实物，可见F3铭牌和红色握柄线；镜头为照片中的配件，不作为机身首发配置。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-ccd-v8",
+      "name": "CCD-V8",
+      "sectionLengths": {
+        "context": 201,
+        "design": 184,
+        "usage": 203,
+        "significance": 237,
+        "limitations": 201
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "canon-rc-701",
+      "name": "RC-701",
+      "sectionLengths": {
+        "context": 213,
+        "design": 197,
+        "usage": 199,
+        "significance": 240,
+        "limitations": 214
+      },
+      "imageCaption": "RC-701展品的机身、镜头接口和上部控制区，可对照正文中的静态视频相机任务；不把它认作数字文件相机。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "canon-eos-650",
+      "name": "EOS 650",
+      "sectionLengths": {
+        "context": 205,
+        "design": 199,
+        "usage": 204,
+        "significance": 247,
+        "limitations": 218
+      },
+      "imageCaption": "EOS 650与示例EF变焦镜头，机身上650字样与控制布局可见；镜头搭配不改变相机型号。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-ccd-tr55",
+      "name": "CCD-TR55",
+      "sectionLengths": {
+        "context": 202,
+        "design": 185,
+        "usage": 205,
+        "significance": 221,
+        "limitations": 211
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "kodak-dcs-1991",
+      "name": "Professional Digital Camera System (DCS; later DCS 100)",
+      "sectionLengths": {
+        "context": 222,
+        "design": 213,
+        "usage": 204,
+        "significance": 256,
+        "limitations": 211
+      },
+      "imageCaption": "DCS 100馆藏实物，画面同时包含Nikon F3机身和外置数字存储部分，可与正文的系统组合对照。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nikon-coolscan-ls-10",
+      "name": "COOLSCAN LS-10",
+      "sectionLengths": {
+        "context": 207,
+        "design": 209,
+        "usage": 208,
+        "significance": 237,
+        "limitations": 216
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-color-tv-game-15",
+      "name": "Color TV-Game 15",
+      "sectionLengths": {
+        "context": 236,
+        "design": 221,
+        "usage": 232,
+        "significance": 397,
+        "limitations": 236
+      },
+      "imageCaption": "Color TV-Game 15的独立有线控制器与机身选项区，照片中的15标记可见；不是控制器固定在机身上的6型。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-game-watch-ball-1980",
+      "name": "Game & Watch: Ball（原版）",
+      "sectionLengths": {
+        "context": 230,
+        "design": 222,
+        "usage": 233,
+        "significance": 383,
+        "limitations": 238
+      },
+      "imageCaption": "原版Ball实物与AC-01说明书，可核对1980年型号；不采用RGW-001周年复刻照片。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：usage"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nintendo-virtual-boy-jp",
+      "name": "Virtual Boy（原日本版）",
+      "sectionLengths": {
+        "context": 235,
+        "design": 225,
+        "usage": 235,
+        "significance": 406,
+        "limitations": 229
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,significance,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sega-dreamcast-jp",
+      "name": "Dreamcast（日本初售版）",
+      "sectionLengths": {
+        "context": 232,
+        "design": 243,
+        "usage": 255,
+        "significance": 416,
+        "limitations": 258
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "xbox-adaptive-controller",
+      "name": "Xbox Adaptive Controller",
+      "sectionLengths": {
+        "context": 244,
+        "design": 235,
+        "usage": 235,
+        "significance": 395,
+        "limitations": 260
+      },
+      "imageCaption": "Xbox Adaptive Controller的两块大按键与方向控制区；照片中的基础控制器不代表所有外接辅助设备组合。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "valve-steam-controller-2015",
+      "name": "Steam Controller（2015）",
+      "sectionLengths": {
+        "context": 236,
+        "design": 227,
+        "usage": 259,
+        "significance": 381,
+        "limitations": 247
+      },
+      "imageCaption": "首代Steam Controller实物俯视照片，双触控板与摇杆布局可见；拍摄于2016年，不表示这件实物生产于首发年。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-access-controller",
+      "name": "Access controller for PS5",
+      "sectionLengths": {
+        "context": 242,
+        "design": 221,
+        "usage": 246,
+        "significance": 369,
+        "limitations": 237
+      },
+      "imageCaption": "Sony Access控制器实物与外接按钮、扳机的辅助操作搭配；外接设备为照片中的示例配置，不属于原控制器标配。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nest-learning-thermostat-1",
+      "name": "Nest Learning Thermostat（初代）",
+      "sectionLengths": {
+        "context": 222,
+        "design": 202,
+        "usage": 202,
+        "significance": 337,
+        "limitations": 224
+      },
+      "imageCaption": "2011年12月拍摄的初代Nest Learning Thermostat安装实物，可见圆形显示屏与外圈；早于2012年第二代公布，不混用后代外形。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "perkins-smart-brailler",
+      "name": "SMART Brailler",
+      "sectionLengths": {
+        "context": 231,
+        "design": 204,
+        "usage": 205,
+        "significance": 345,
+        "limitations": 227
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "philips-hue-2012",
+      "name": "Hue Starter Pack（首代）",
+      "sectionLengths": {
+        "context": 210,
+        "design": 204,
+        "usage": 197,
+        "significance": 327,
+        "limitations": 207
+      },
+      "imageCaption": "首代Hue圆形Bridge与两只彩色灯泡的实物照片；首发Starter Pack包含三只灯泡，本图只展示两只，不代表完整开箱配置。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nest-protect-1",
+      "name": "Nest Protect（首代）",
+      "sectionLengths": {
+        "context": 223,
+        "design": 202,
+        "usage": 205,
+        "significance": 351,
+        "limitations": 220
+      },
+      "imageCaption": "2014年卖场演示台上的首代Nest Protect，可见中央蓝色光环、方形机身与“PUSH TO DEMO”标识；用于展示外形，不证明传感器或当前服务可用。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "amazon-echo-1",
+      "name": "Echo（初代）",
+      "sectionLengths": {
+        "context": 221,
+        "design": 202,
+        "usage": 205,
+        "significance": 337,
+        "limitations": 212
+      },
+      "imageCaption": "2015年1月用户开箱拍摄的初代Amazon Echo，黑色高筒机身、遥控器与电源附件可见；拍摄时间不等同于产品首次发布日。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "vorwerk-thermomix-tm5",
+      "name": "Thermomix TM5",
+      "sectionLengths": {
+        "context": 217,
+        "design": 209,
+        "usage": 196,
+        "significance": 323,
+        "limitations": 214
+      },
+      "imageCaption": "Thermomix TM5实物，触控屏、右侧旋钮与上方料理杯共同呈现加热、称重和搅拌一体化结构；原照片已有背景处理与裁切。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "google-home-2016",
+      "name": "Google Home（初代）",
+      "sectionLengths": {
+        "context": 223,
+        "design": 214,
+        "usage": 199,
+        "significance": 357,
+        "limitations": 214
+      },
+      "imageCaption": "原代Google Home的斜切上部与织物底座，可与正文的房间内语音入口对照；不是Home Mini、Hub或Nest Audio。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-aibo-ers-1000",
+      "name": "aibo ERS-1000",
+      "sectionLengths": {
+        "context": 221,
+        "design": 203,
+        "usage": 204,
+        "significance": 346,
+        "limitations": 230
+      },
+      "imageCaption": "ERS-1000展台实物，可见塑料机身、耳部和关节结构；不是银色外壳的ERS-110，照片不证明现行云服务状态。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-dcr-vx1000",
+      "name": "DCR-VX1000",
+      "sectionLengths": {
+        "context": 211,
+        "design": 206,
+        "usage": 216,
+        "significance": 231,
+        "limitations": 206
+      },
+      "imageCaption": "DCR-VX1000的机身、镜头与取景器，用于对照手持摄像操作；不是VX2000或后代型号。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "canon-powershot-600",
+      "name": "PowerShot 600",
+      "sectionLengths": {
+        "context": 199,
+        "design": 195,
+        "usage": 203,
+        "significance": 253,
+        "limitations": 200
+      },
+      "imageCaption": "PowerShot 600展品正面，可见镜头、取景区域与闪光灯；不是后续PowerShot 600系列近名机型。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nikon-coolpix-300",
+      "name": "COOLPIX 300",
+      "sectionLengths": {
+        "context": 204,
+        "design": 197,
+        "usage": 203,
+        "significance": 238,
+        "limitations": 212
+      },
+      "imageCaption": "COOLPIX 300的前后视角，可对照镜头与触摸显示区域；两面来自同一型号，不将拼接视图理解为两代产品。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：usage"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "canon-xl1",
+      "name": "XL1",
+      "sectionLengths": {
+        "context": 195,
+        "design": 196,
+        "usage": 204,
+        "significance": 243,
+        "limitations": 213
+      },
+      "imageCaption": "Canon XL1的PAL制式实物，白色机身、可换镜头与肩托结构可见；图中镜头和附件为拍摄配置，不混用XL1s或XL2。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nikon-coolpix-900",
+      "name": "COOLPIX 900",
+      "sectionLengths": {
+        "context": 196,
+        "design": 190,
+        "usage": 199,
+        "significance": 247,
+        "limitations": 212
+      },
+      "imageCaption": "COOLPIX 900的旋转镜头部分和显示机身，可与正文的取景动作对照；不是后代900系近名型号。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "nikon-d1",
+      "name": "D1",
+      "sectionLengths": {
+        "context": 190,
+        "design": 213,
+        "usage": 196,
+        "significance": 219,
+        "limitations": 210
+      },
+      "imageCaption": "原Nikon D1的机身、快门区与内置竖握结构，正面型号字样可见；不是D1H或D1X。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "canon-eos-5d-mark-ii",
+      "name": "EOS 5D Mark II",
+      "sectionLengths": {
+        "context": 207,
+        "design": 207,
+        "usage": 209,
+        "significance": 248,
+        "limitations": 210
+      },
+      "imageCaption": "EOS 5D Mark II与示例EF 50mm镜头，机身Mark II字样可见；照片不用于证明视频或对焦测试结果。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sourcenext-pocketalk-w",
+      "name": "POCKETALK W",
+      "sectionLengths": {
+        "context": 220,
+        "design": 206,
+        "usage": 200,
+        "significance": 347,
+        "limitations": 219
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "roborock-s7",
+      "name": "Roborock S7",
+      "sectionLengths": {
+        "context": 229,
+        "design": 190,
+        "usage": 206,
+        "significance": 325,
+        "limitations": 229
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "ikea-dirigera",
+      "name": "DIRIGERA Hub",
+      "sectionLengths": {
+        "context": 217,
+        "design": 210,
+        "usage": 214,
+        "significance": 353,
+        "limitations": 223
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "aqara-presence-fp2",
+      "name": "Presence Sensor FP2",
+      "sectionLengths": {
+        "context": 211,
+        "design": 205,
+        "usage": 204,
+        "significance": 337,
+        "limitations": 211
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "humanware-victor-reader-stream-3",
+      "name": "Victor Reader Stream 3",
+      "sectionLengths": {
+        "context": 236,
+        "design": 206,
+        "usage": 202,
+        "significance": 355,
+        "limitations": 217
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "switchbot-s10",
+      "name": "Floor Cleaning Robot S10",
+      "sectionLengths": {
+        "context": 229,
+        "design": 189,
+        "usage": 195,
+        "significance": 338,
+        "limitations": 204
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "aqara-spatial-fp400",
+      "name": "Spatial Multi-Sensor FP400",
+      "sectionLengths": {
+        "context": 240,
+        "design": 243,
+        "usage": 213,
+        "significance": 375,
+        "limitations": 230
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,usage,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "sony-playstation-portal",
+      "name": "PlayStation Portal（原版）",
+      "sectionLengths": {
+        "context": 247,
+        "design": 249,
+        "usage": 270,
+        "significance": 403,
+        "limitations": 270
+      },
+      "imageCaption": "PlayStation Portal原版白色机身实物，屏幕与左右控制器的一体式结构可见；屏幕内容为拍摄时的状态。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "asus-rog-ally-2023",
+      "name": "ROG Ally（Z1 Extreme）",
+      "sectionLengths": {
+        "context": 262,
+        "design": 259,
+        "usage": 240,
+        "significance": 424,
+        "limitations": 260
+      },
+      "imageCaption": "2023年6月店内展示的原版ROG Ally，机身白色外壳、摇杆与控制布局可见。照片不单独证明Z1 Extreme芯片或游戏测试结果。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "lenovo-legion-go-2023",
+      "name": "Legion Go（原版）",
+      "sectionLengths": {
+        "context": 246,
+        "design": 240,
+        "usage": 247,
+        "significance": 381,
+        "limitations": 246
+      },
+      "imageCaption": "原代Legion Go的屏幕与两侧可拆控制器，照片用于外观与握持布局说明；不是Legion Go S或后续代。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "msi-claw-a1m",
+      "name": "Claw A1M",
+      "sectionLengths": {
+        "context": 262,
+        "design": 268,
+        "usage": 264,
+        "significance": 433,
+        "limitations": 264
+      },
+      "imageCaption": "Booredatwork.com评测原视频中的首代Claw A1M实物画面；Commons记录已核准CC BY 3.0，原图已有背景模糊处理，不用于性能测试结论。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "asus-rog-xbox-ally-x",
+      "name": "ROG Xbox Ally X",
+      "sectionLengths": {
+        "context": 284,
+        "design": 256,
+        "usage": 273,
+        "significance": 427,
+        "limitations": 277
+      },
+      "imageCaption": "2025年日本卖场拍摄的ROG Xbox Ally与ROG Xbox Ally X；右侧黑灰色款为Xbox Ally X，左侧白色款为Xbox Ally，图中展签可交叉核对型号。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "valve-steam-controller-2026",
+      "name": "Steam Controller（2026）",
+      "sectionLengths": {
+        "context": 268,
+        "design": 250,
+        "usage": 266,
+        "significance": 394,
+        "limitations": 268
+      },
+      "imageCaption": "2026款Steam Controller实物照片；与2015款分别记录，具体批次不由拍摄日期推断。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：design,significance,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "valve-steam-machine-2026",
+      "name": "Steam Machine（Valve 2026款）",
+      "sectionLengths": {
+        "context": 264,
+        "design": 254,
+        "usage": 260,
+        "significance": 412,
+        "limitations": 274
+      },
+      "imageCaption": "2026年7月拍摄的Valve Steam Machine新版正面实物；立方体机身与正面接口布局可见，不混用2015年的多厂商Steam Machine设备。",
+      "issues": [
+        "摘要以省略号截断，应改成完整短句",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "panasonic-lumix-dmc-g1",
+      "name": "LUMIX DMC-G1",
+      "sectionLengths": {
+        "context": 202,
+        "design": 210,
+        "usage": 200,
+        "significance": 227,
+        "limitations": 206
+      },
+      "imageCaption": "LUMIX G1机身与示例镜头，G1型号字样可见；用来对照机身控制布局，不当作所有镜头套装的证明。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "olympus-pen-e-p1",
+      "name": "PEN E-P1",
+      "sectionLengths": {
+        "context": 201,
+        "design": 211,
+        "usage": 221,
+        "significance": 256,
+        "limitations": 206
+      },
+      "imageCaption": "Olympus PEN E-P1与示例镜头及外接取景器；外接附件不作为机身内置取景器的证明。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "fujifilm-finepix-x100",
+      "name": "FinePix X100",
+      "sectionLengths": {
+        "context": 203,
+        "design": 208,
+        "usage": 197,
+        "significance": 226,
+        "limitations": 215
+      },
+      "imageCaption": "初代FinePix X100的固定镜头、前部控制与取景区域；不是后缀不同的X100S、T或V。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "dji-phantom-2013",
+      "name": "Phantom 第一代",
+      "sectionLengths": {
+        "context": 212,
+        "design": 205,
+        "usage": 207,
+        "significance": 227,
+        "limitations": 215
+      },
+      "imageCaption": "2013年4月拍摄的第一代DJI Phantom飞行实物，机身下方加装GoPro；外置相机为拍摄者的搭配，不属于原机内置配置。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "ricoh-gr-iii",
+      "name": "GR III",
+      "sectionLengths": {
+        "context": 210,
+        "design": 204,
+        "usage": 203,
+        "significance": 249,
+        "limitations": 213
+      },
+      "imageCaption": "东京GR Space展示的Ricoh GR III实物，旁边有GR III展签，机身与固定镜头结构清晰；不混用GR IIIx。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,design,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "insta360-x5",
+      "name": "X5",
+      "sectionLengths": {
+        "context": 201,
+        "design": 196,
+        "usage": 218,
+        "significance": 237,
+        "limitations": 213
+      },
+      "imageCaption": "作者标注为Insta360 X5的实物照片，机身装有保护套，可见双镜头全景相机的正面结构；保护套不是首发配置说明。",
+      "issues": [
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    },
+    {
+      "slug": "panasonic-lumix-dc-tz300",
+      "name": "LUMIX DC-TZ300",
+      "sectionLengths": {
+        "context": 202,
+        "design": 198,
+        "usage": 215,
+        "significance": 238,
+        "limitations": 221
+      },
+      "imageCaption": null,
+      "issues": [
+        "无实物主图",
+        "正文含证据流程或编辑状态，应将边界移到来源说明，保留具体产品取舍：context,limitations"
+      ],
+      "recommendation": "围绕外形/控制器/介质或连接方式，明确用户动作与结果；图注说明可见结构、具体代际与拍摄/展示场景。避免把来源审核流程当作主要产品介绍。"
+    }
+  ]
+}

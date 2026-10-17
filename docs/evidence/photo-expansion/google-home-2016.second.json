@@ -1,0 +1,701 @@
+{
+  "slug": "google-home-2016",
+  "name": "Google Home（初代）",
+  "regionVersion": "美国首代；排除HomeMini/NestAudio",
+  "query": "intitle:\"Google Home\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Google Home (39745056905).jpg",
+      "pageid": 131324548,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Google_Home_(39745056905).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Google_Home_%2839745056905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Google_Home_%2839745056905%29.jpg/960px-Google_Home_%2839745056905%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-04-29 15:46:42",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Google Home (39745056905)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Google Home|Flickr images reviewed by FlickreviewR 2",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p>Google Home by Best AI Assistant\n</p><p>Credit &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://www.bestaiassistant.com/google-home/google-home-chromecast-work-together-can/\">https://www.bestaiassistant.com/google-home/google-home-chromecast-work-together-can/</a>\" rel=\"noreferrer nofollow\"&gt;www.bestaiassistant.com/google-home/google-home-chromecas...&lt;/a&gt; with an active link required.\n</p>\nImage is free for usage on websites (even websites with ads) if you credit &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://www.bestaiassistant.com/google-home/google-home-chromecast-work-together-can/\">https://www.bestaiassistant.com/google-home/google-home-chromecast-work-together-can/</a>\" rel=\"noreferrer nofollow\"&gt;www.bestaiassistant.com/google-home/google-home-chromecas...&lt;/a&gt; with an active link.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-03-04 12:55",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/the-unwinder/39745056905/\">Google Home</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/159657296@N06\">The Unwinder</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Google Home by Best AI Assistant\n  Credit <a href=\" https://www.bestaiassistant.com/google-home/google-home-chromecast-work-together-can/ \" rel=\"noreferrer nofollow\">www.bestaiassistant.com/google-home/google-home-chromecas...</a> with an active link required.\n \nImage is free for usage on websites (even websites with ads) if you credit <a href=\" https://www.bestaiassistant.com/google-home/google-home-chromecast-work-together-can/ \" rel=\"noreferrer nofollow\">www.bestaiassistant.com/google-home/google-home-chromecas...</a> with an active link.",
+      "artist": "The Unwinder",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "date": "2018-03-04 12:55"
+    },
+    {
+      "title": "File:Google Home.webm",
+      "pageid": 52859566,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Google_Home.webm",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Google_Home.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Google_Home.webm/960px--Google_Home.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "metadata": {
+        "DateTime": {
+          "value": "2016-11-06 02:18:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Google Home",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Google Home|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "I ask Google Home device how old it is.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-11-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Daniel.Cardenas&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Daniel.Cardenas (page does not exist)\">Daniel.Cardenas</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "I ask Google Home device how old it is.",
+      "artist": "Daniel.Cardenas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2016-11-05"
+    },
+    {
+      "title": "File:Google home mini pink (39570171115).jpg",
+      "pageid": 125103698,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Google_home_mini_pink_(39570171115).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Google_home_mini_pink_%2839570171115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Google_home_mini_pink_%2839570171115%29.jpg/960px-Google_home_mini_pink_%2839570171115%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2022-11-07 00:40:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Google home mini pink (39570171115)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Google Home Mini|Flickr images reviewed by FlickreviewR 2",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p>Google home mini pink by Best AI Assistant\n</p><p>Credit &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://www.bestaiassistant.com/google-home/google-home-chromecast-work-together-can/\">https://www.bestaiassistant.com/google-home/google-home-chromecast-work-together-can/</a>\" rel=\"noreferrer nofollow\"&gt;www.bestaiassistant.com/google-home/google-home-chromecas...&lt;/a&gt; with an active link required.\n</p>\nImage is free for usage on websites (even websites with ads) if you credit &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://www.bestaiassistant.com/google-home/google-home-chromecast-work-together-can/\">https://www.bestaiassistant.com/google-home/google-home-chromecast-work-together-can/</a>\" rel=\"noreferrer nofollow\"&gt;www.bestaiassistant.com/google-home/google-home-chromecas...&lt;/a&gt; with an active link.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-02-21 07:56",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/the-unwinder/39570171115/\">Google home mini pink</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/159657296@N06\">The Unwinder</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Google home mini pink by Best AI Assistant\n  Credit <a href=\" https://www.bestaiassistant.com/google-home/google-home-chromecast-work-together-can/ \" rel=\"noreferrer nofollow\">www.bestaiassistant.com/google-home/google-home-chromecas...</a> with an active link required.\n \nImage is free for usage on websites (even websites with ads) if you credit <a href=\" https://www.bestaiassistant.com/google-home/google-home-chromecast-work-together-can/ \" rel=\"noreferrer nofollow\">www.bestaiassistant.com/google-home/google-home-chromecas...</a> with an active link.",
+      "artist": "The Unwinder",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "date": "2018-02-21 07:56"
+    },
+    {
+      "title": "File:Google Home Logo (2025).svg",
+      "pageid": 176494302,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Google_Home_Logo_(2025).svg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_Home_Logo_%282025%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Google_Home_Logo_%282025%29.svg/960px-Google_Home_Logo_%282025%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-10-12 16:02:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Google Home Logo (2025)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Google Home|With trademark|PD shape|Graphic Lab-Commons|Valid SVG created with Adobe Illustrator:Logos|TOO-United States|Vectorizations|PD-shape missing SDC copyright status|SVG logos of Google",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<bdi lang=\"en\">The logo of <bdi lang=\"\"><a href=\"https://en.wikipedia.org/wiki/en:Google_Home_(platform)\" class=\"extiw\" title=\"w:en:Google Home (platform)\"><span title=\"mobile app\">Google Home</span></a> – mobile app</bdi></bdi>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-10-10",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Own work based on: <a href=\"//commons.wikimedia.org/wiki/File:Google_Home_icon_2025.png\" title=\"File:Google Home icon 2025.png\">Google Home icon 2025.png</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Original:</div> <div style=\"display:inline-block;padding:3px 0;\"><a href=\"https://en.wikipedia.org/wiki/en:Google\" class=\"extiw\" title=\"w:en:Google\"><span title=\"American multinational technology company, a subsidiary of Alphabet Inc.\">Google</span></a></div> <div style=\"display:inline-block;padding:0 3px;background-color:#CCF\">Vector: </div> <div style=\"display:inline-block;\"><a href=\"//commons.wikimedia.org/wiki/User:%E7%97%9B\" title=\"User:痛\">Designism</a></div>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "trademarked",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The logo of    Google Home   – mobile app",
+      "artist": "Original:     Google     Vector:     Designism",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "2025-10-10"
+    },
+    {
+      "title": "File:Google Home Mini Verpackung.jpg",
+      "pageid": 146952876,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Google_Home_Mini_Verpackung.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Google_Home_Mini_Verpackung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Google_Home_Mini_Verpackung.jpg/960px-Google_Home_Mini_Verpackung.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-03-31 15:36:45",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Google Home Mini Verpackung",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Google Home Mini|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Google Home Mini mit Verpackung",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2020-12-04",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Fabian.aichwald&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Fabian.aichwald (page does not exist)\">Fabian.aichwald</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Google Home Mini mit Verpackung",
+      "artist": "Fabian.aichwald",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2020-12-04"
+    },
+    {
+      "title": "File:Google Home Hub on table.jpg",
+      "pageid": 84394533,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Google_Home_Hub_on_table.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Home_Hub_on_table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Home_Hub_on_table.jpg/960px-Google_Home_Hub_on_table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2019-11-26 23:15:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Google Home Hub on table",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Google Home|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Google's smart display, the Google Home Hub (now the Google Nest Hub)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-11-26",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Y2kcrazyjoker4&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Y2kcrazyjoker4 (page does not exist)\">Y2kcrazyjoker4</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Google's smart display, the Google Home Hub (now the Google Nest Hub)",
+      "artist": "Y2kcrazyjoker4",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2019-11-26"
+    },
+    {
+      "title": "File:Google Home sitting on table.jpg",
+      "pageid": 63669821,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Google_Home_sitting_on_table.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Google_Home_sitting_on_table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Google_Home_sitting_on_table.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2017-10-28 03:44:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Google Home sitting on table",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Google Home|Flickr images reviewed by FlickreviewR",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Google's smart speaker, the Google Home",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2017-03-16 06:58",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/142305740@N05/33433114246/\">Google Home tech</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/142305740@N05\">NDB Photos</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Google's smart speaker, the Google Home",
+      "artist": "NDB Photos",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "date": "2017-03-16 06:58"
+    },
+    {
+      "title": "File:Google Home Mini - grey.jpg",
+      "pageid": 67904312,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Google_Home_Mini_-_grey.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Google_Home_Mini_-_grey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Google_Home_Mini_-_grey.jpg/960px-Google_Home_Mini_-_grey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2018-04-01 11:08:47",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Google Home Mini - grey",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Asus ZenFone 4 Max|Google Home Mini|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Google Home Mini - grey",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-04-01 13:05:28",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Marchitelli\" title=\"User:Marchitelli\">Andrea Marchitelli</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Google Home Mini - grey",
+      "artist": "Andrea Marchitelli",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2018-04-01 13:05:28"
+    }
+  ]
+}

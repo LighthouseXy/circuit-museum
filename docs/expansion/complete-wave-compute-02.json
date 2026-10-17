@@ -1,0 +1,838 @@
+{
+  "schemaVersion": 2,
+  "checkedOn": "2026-10-11",
+  "status": "complete-text-validated-not-imported",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ],
+    "snapshotPath": "docs/expansion/base-40-preserved.json"
+  },
+  "exhibits": [
+    {
+      "slug": "teac-portastudio144",
+      "context": "TEAC旗下Tascam历史把初代144 Portastudio列在一九七九年。本条聚焦144，不把后来的244或数字录音系列合并。原144目录是一份当年的品牌资料，说明调音与四轨盒式磁带记录结合在同一设备中：使用者可以先留下一个声部，再听着已有内容加录另一个声部。这样，记录不只是保存同时发生的整场演奏，也成为逐步组织音乐的过程。产品年份沿用原厂历史记录，操作结构则由原目录核实；本轮历史网页刷新失败，不能据此声称刚重新通读了整部品牌发展史。",
+      "design": "面板把调音通道、录音轨道、监听选择和电平表放在一起，但四个名词不能互相替代。输入通道整理来自话筒、线路或磁带的信号，总线把信号送到选定轨道，监听又决定耳机听见的组合。原目录明确，左右总线分别连接相应轨道，录制时可选择单轨或左右各一轨的组合，所以四轨保存能力不是四个独立声部可以任意同时录入的保证。通道上的电平、均衡和声像控制用于不同调整。观察这些分组，能够把一台桌面设备理解为信号路线，而不是只把它当作多了几个按钮的普通磁带机。",
+      "usage": "一次叠录先把话筒或线路信号送进通道，调整电平并选择要写入的轨道，录下第一个声部。之后回放已有轨道作为监听，再在空轨录入新声部，让演奏者能依据先前内容安排进入时刻。轨道用满时，可以把几轨混到剩余轨道以空出位置；这种转录会固定此前的混合选择，后续调整不再拥有原来各轨的同等自由。完成后，还要用调音与声像把各轨组织成最终混音。原目录区分录制、监听和混出，说明听到的临时组合与最后交付的组合并非必然相同，使用者需要持续判断自己的信号路线。",
+      "significance": "144适合说明创作如何进入记录流程。一个人或一组人不必把所有声部都在同一时刻完成，可以把作品拆成录入、聆听、叠加和混合几个步骤。与Walkman比较，同样外观熟悉的盒式磁带在这里承接制作任务，在播放器里承接聆听任务；载体相似，轨道和速度安排却不能直接等同。与DX7或鼓机一起看，又能把声音生成和录音整理分开。策展意义来自这些可描述的工作关系，不据目录的宣传语推定它普及了所有家庭录音，也不把品牌关于接近专业设备的评价冒作独立音质测试。",
+      "limitations": "原144目录写明磁带以普通盒式播放速度的两倍运行，使用特定磁带与四轨安排，因此不能把它的工作带当成任意随身播放器里的标准双面录音。四轨限制推动叠录与合轨，也让使用者在保留各声部和空出新位置之间做选择；已经混在一起的内容不能像独立原轨那样逐一调整。目录介绍的降噪及转录质量是品牌说明，不证明转录完全没有损失。具体机器的磁带机构、走带与维护状况仍需另行核实。本条没有可靠原代停产或停售日期，也没有把后续型号推出日当作144统一结束的时间。",
+      "id": null,
+      "idStatus": "coordinator-assignment-pending",
+      "name": "144 Portastudio",
+      "brand": "TEAC / Tascam",
+      "year": 1979,
+      "dateLabel": "1979年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原144；不含244",
+      "category": "music",
+      "categoryLabel": "音乐制作与录音",
+      "museumCategory": "music",
+      "aliases": [
+        "TEAC / Tascam 144 Portastudio"
+      ],
+      "tags": [
+        "音乐制作与录音",
+        "音乐制作与录音",
+        "1979年"
+      ],
+      "summary": "TEAC旗下Tascam历史把初代144 Portastudio列在一九七九年。",
+      "features": [
+        "四轨盒式磁带记录",
+        "调音、叠录、监听与混出"
+      ],
+      "facts": [
+        {
+          "label": "版本与年份",
+          "value": "1979年（所引档案口径；不代替全球统一首发）；原144；不含244",
+          "sourceIds": [
+            "CM150-S041"
+          ]
+        },
+        {
+          "label": "明确结构与任务",
+          "value": "四轨盒式磁带记录；调音、叠录、监听与混出",
+          "sourceIds": [
+            "CWC-S005"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S041",
+        "CM150-S042",
+        "CWC-S005"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S041",
+          "CM150-S042",
+          "CWC-S005"
+        ],
+        "design": [
+          "CM150-S041",
+          "CM150-S042",
+          "CWC-S005"
+        ],
+        "usage": [
+          "CM150-S041",
+          "CM150-S042",
+          "CWC-S005"
+        ],
+        "significance": [
+          "CM150-S041",
+          "CM150-S042",
+          "CWC-S005"
+        ],
+        "limitations": [
+          "CM150-S041",
+          "CM150-S042",
+          "CWC-S005"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-tps-l2"
+      ],
+      "relatedModelProposals": [
+        "sony-tps-l2"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "music",
+        "stageId": "music-expanded-1",
+        "stageTitle": "录音、节奏与电子乐器",
+        "status": "既有冻结页面方案的策展位置"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "原型号身份和明确结构可追溯；独立评价缺口见mediaOpinions，不强造媒体共识。",
+        "结束制造/停售/停止支持只采用明确事件，其余未核；配色容量不重复计数。"
+      ],
+      "publicImpactBoundary": "使用比较为策展解读；品牌宣传不等于独立测量、普遍体验或社会效果。",
+      "specifications": [
+        {
+          "label": "录音介质",
+          "value": "四轨盒式磁带，倍速走带；按原目录指定磁带",
+          "sourceIds": [
+            "CWC-S005"
+          ],
+          "versionScope": "原144；不含244",
+          "verificationStatus": "verified-with-stated-scope"
+        },
+        {
+          "label": "同时录制",
+          "value": "可选单轨或左右总线各一轨；不是任意四路独立同时录制",
+          "sourceIds": [
+            "CWC-S005"
+          ],
+          "versionScope": "原144；不含244",
+          "verificationStatus": "verified-with-stated-scope"
+        }
+      ],
+      "lifecycleEvents": [
+        {
+          "eventType": "introduction",
+          "date": "1979",
+          "datePrecision": "year",
+          "description": "原厂历史记录初代144年份；本轮刷新403，沿用前次核查范围",
+          "regionVersion": "原144；不含244",
+          "sourceIds": [
+            "CM150-S041",
+            "CM150-S042"
+          ],
+          "temporalPerspective": "retrospective-record"
+        }
+      ],
+      "lifecycleStatus": {
+        "productionEnd": "not-verified",
+        "salesEnd": "not-verified",
+        "supportEnd": "not-verified",
+        "currentAvailability": "not-checked",
+        "coverage": "已核关键节点；不承诺历程无遗漏"
+      },
+      "chineseCharactersInFiveSections": 958
+    },
+    {
+      "slug": "hp-laserjet-1984",
+      "context": "HP历史档案将原代桌面LaserJet的介绍时间标为一九八四年三月，应用目标包括小型办公室的信函、备忘录和电子表格。本条讲的是这一代机器，不把更早的2680A或后来整个LaserJet家族的功能归给它。对计算机使用者而言，屏幕上的文件与可以递交、标记和归档的纸页承担不同任务，打印机负责连接两者。原厂档案提供了字体、页面方向与图形输出的能力，让它可以作为办公室文档的一条路线阅读；这些是产品能力和定位，不等于已经证明每个办公室怎样采用它。",
+      "design": "这台桌面设备把纸张处理和激光打印机构放在机身内，与计算机中的文件准备相配合。原厂档案登记可更换打印盒，将一部分日常耗材工作集中到一个可替换组件；纸和文件之外，使用者还要管理这个持续消耗的部分。横向与纵向页面、字体以及图形输出，则把排版安排带到纸上，打印任务不只限于逐行输出字符。这里的设计观察是两种组织：机身内的输出结构，以及软件与纸页之间的版面结构。更换组件的便利需要结合实际维护条件看待，不能从可替换三个字直接推导整机寿命或维护费用。",
+      "usage": "一次文件输出可以从检查要交付的内容开始：选择页面方向和字体安排，确认图形及表格的位置，再把对应打印任务交给机器。纸页出来后，阅读、标注和交付发生在实物上，因此输出并不是确认文件完整的终点。原厂档案中的信函与表格用途提醒观众，打印的价值来自需要纸页的任务，和屏幕显示是不同的使用场景。纸张准备与打印盒管理则提供了另一条日常路线。这里说明文件到纸页的关系，没有凭历史照片补造接口类型、驱动安装或操作按键；这些细节要按原代手册和相连计算机的资料补充。",
+      "significance": "把LaserJet与EP-101或早期个人计算机并读，可以比较输出设备怎样参与工作：计算机组织信息，打印机把它形成可流转的页面。字体、图形和方向选择使纸页本身也承接结构，不再只是屏幕文字的另一份抄写。观众可以用同一张表格在屏幕查看、纸上标记和递交他人三个情境理解差别，不必先知道激光打印的全部内部原理。原厂档案的办公室定位提供历史线索，策展解释则关注文件、耗材和人工检查的分工，不把家族后来的销量或知名度倒推到一九八四年原型号的实际普及程度。",
+      "limitations": "原厂档案列出的输出速度和打印盒页数都有指定产品与使用口径，不能承诺所有文档或耗材状态都得到相同结果。打印文字与图形也不自动等于能直接接受任意当代文件、网络连接或彩色任务，后续家族特性需要留在各自型号中。纸张与打印盒持续参与使用，重复输出还要检查内容、排版和消耗。这里没有原代存世设备的状态测量，也未核定各地区停产、停售和停止支持日期。档案中关于安静或便利的宣传措辞保留为厂商表述，不能代替实际噪声测试与不同办公室的经验。",
+      "id": null,
+      "idStatus": "coordinator-assignment-pending",
+      "name": "LaserJet 原代（1984）",
+      "brand": "Hewlett-Packard",
+      "year": 1984,
+      "dateLabel": "1984年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原桌面LaserJet；非2680A",
+      "category": "input-printing",
+      "categoryLabel": "输入、打印与制作",
+      "museumCategory": "input-printing",
+      "aliases": [
+        "Hewlett-Packard LaserJet 原代（1984）"
+      ],
+      "tags": [
+        "输入、打印与制作",
+        "输入、打印与制作",
+        "1984年"
+      ],
+      "summary": "HP历史档案将原代桌面LaserJet的介绍时间标为一九八四年三月，应用目标包括小型办公室的信函、备忘录和电子表格。",
+      "features": [
+        "字体、图形及横纵版面输出",
+        "可替换打印盒"
+      ],
+      "facts": [
+        {
+          "label": "版本与年份",
+          "value": "1984年（所引档案口径；不代替全球统一首发）；原桌面LaserJet；非2680A",
+          "sourceIds": [
+            "CM150-S047"
+          ]
+        },
+        {
+          "label": "明确结构与任务",
+          "value": "字体、图形及横纵版面输出；可替换打印盒",
+          "sourceIds": [
+            "CWC-S006"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S047",
+        "CM150-S048",
+        "CWC-S006"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S047",
+          "CM150-S048",
+          "CWC-S006"
+        ],
+        "design": [
+          "CM150-S047",
+          "CM150-S048",
+          "CWC-S006"
+        ],
+        "usage": [
+          "CM150-S047",
+          "CM150-S048",
+          "CWC-S006"
+        ],
+        "significance": [
+          "CM150-S047",
+          "CM150-S048",
+          "CWC-S006"
+        ],
+        "limitations": [
+          "CM150-S047",
+          "CM150-S048",
+          "CWC-S006"
+        ]
+      },
+      "relatedSlugs": [
+        "macintosh-128k"
+      ],
+      "relatedModelProposals": [
+        "macintosh-128k"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "input-printing",
+        "stageId": "input-printing-expanded-1",
+        "stageTitle": "机电输入与可读输出",
+        "status": "既有冻结页面方案的策展位置"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "原型号身份和明确结构可追溯；独立评价缺口见mediaOpinions，不强造媒体共识。",
+        "结束制造/停售/停止支持只采用明确事件，其余未核；配色容量不重复计数。"
+      ],
+      "publicImpactBoundary": "使用比较为策展解读；品牌宣传不等于独立测量、普遍体验或社会效果。",
+      "specifications": [
+        {
+          "label": "输出",
+          "value": "字体、图形、横向与纵向页面",
+          "sourceIds": [
+            "CWC-S006"
+          ],
+          "versionScope": "原桌面LaserJet；非2680A",
+          "verificationStatus": "verified-with-stated-scope"
+        },
+        {
+          "label": "耗材",
+          "value": "可更换打印盒",
+          "sourceIds": [
+            "CWC-S006"
+          ],
+          "versionScope": "原桌面LaserJet；非2680A",
+          "verificationStatus": "verified-with-stated-scope"
+        }
+      ],
+      "lifecycleEvents": [
+        {
+          "eventType": "introduction",
+          "date": "1984-03",
+          "datePrecision": "month",
+          "description": "HP档案记原桌面LaserJet介绍时间，不扩为全球同日首售",
+          "regionVersion": "原桌面LaserJet；非2680A",
+          "sourceIds": [
+            "CWC-S006"
+          ],
+          "temporalPerspective": "retrospective-record"
+        }
+      ],
+      "lifecycleStatus": {
+        "productionEnd": "not-verified",
+        "salesEnd": "not-verified",
+        "supportEnd": "not-verified",
+        "currentAvailability": "not-checked",
+        "coverage": "已核关键节点；不承诺历程无遗漏"
+      },
+      "chineseCharactersInFiveSections": 982
+    },
+    {
+      "slug": "apple-newton-messagepad-1993",
+      "context": "一九九三年的原代MessagePad是Apple的手持设备，Newton则是所采用系统的名称；本条把硬件与系统分开，也不混入后来MessagePad 100、110或2000。计算史馆藏介绍了手写识别软件和随机器提供的笔，说明它尝试用写字的动作把信息带入数字设备。和桌面Macintosh比较，屏幕与输入都被带到手中；与PalmPilot比较，又可观察不同笔输入终端怎样安排同一类个人信息工作。本条用馆藏与时间线的原代年份定位，没有把后续Newton产品线的发展概括为首发机器已经具备的能力。",
+      "design": "原机以单色屏幕和笔输入为中心，馆藏登记了触笔、屏幕与红外能力。笔在这里不是纸上的墨迹来源，而是交给系统识别的输入动作；屏幕既显示已有内容，也承接正在写入的内容。这使观看与输入聚在相同表面，和键盘放在屏幕之外的桌面计算机形成区别。手持外形则让使用者能够带走这个组合，但携带和输入是否舒适仍取决于具体场景，不能由尺寸类别直接推定。硬件MessagePad与软件Newton OS共同完成任务，展览把两者各自命名，避免把一套系统误当成同一种实体设备。",
+      "usage": "笔输入可以理解为写下内容、让系统解释、检查显示结果并修正的过程。手写识别把人熟悉的动作转为数字信息，但使用者仍需要确认机器接收了什么，输入成功与内容正确不是同一个判断。随后查看和再次使用信息，依赖它在系统中的组织方式；与只在纸上留下笔迹相比，多了识别和显示这一层。原馆藏说明支持笔和识别功能，却不足以复原所有原代菜单、同步程序和通信步骤，所以这些细节没有凭现代触屏经验补写。一次阅读可以先观察触笔、屏幕和结果确认如何配合，再按具体软件资料补充操作。",
+      "significance": "MessagePad可以作为笔输入的一条历史路线阅读。纸与笔上的文字由人直接观看，数字终端还需要把动作组织为可以存放和调用的信息；识别因此不是装饰功能，而处在使用流程的中间。与Macintosh比较，它把个人输入带离桌面；与PalmPilot比较，可以看到后来设备并非只有一种组织手写信息的办法。策展上的价值在于理解这一具体尝试，不需要先宣称它预见了所有智能手机。计算史时间线谈及Newton系列后来结束，属于产品线层面的后续叙述，应与原代MessagePad的硬件生命周期分别登记。",
+      "limitations": "具备手写识别不表示所有笔迹和输入场景都能得到相同结果，也不意味着使用者可以省略检查。原馆藏没有提供本条可采用的识别正确率、跨语言测量或统一续航条件，这些规格与评价仍留待具体证据。红外能力也不能直接等同于今天任意无线同步。Newton产品线结束与原代型号停止制造、停止销售、停止支持是不同事件，不能共用一个日子。本条没有以原代后续型号的出现填出其结束节点，也不把系统更新后的功能挪到首发配置中。这样保留笔输入的结构，同时让未知的性能和年代范围有明确位置。",
+      "id": null,
+      "idStatus": "coordinator-assignment-pending",
+      "name": "MessagePad 原代",
+      "brand": "Apple",
+      "year": 1993,
+      "dateLabel": "1993年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原代MessagePad；不含100/110/2000",
+      "category": "reading",
+      "categoryLabel": "PDA与电子阅读",
+      "museumCategory": "reading",
+      "aliases": [
+        "Apple MessagePad 原代"
+      ],
+      "tags": [
+        "PDA与电子阅读",
+        "手持终端",
+        "1993年"
+      ],
+      "summary": "一九九三年的原代MessagePad是Apple的手持设备，Newton则是所采用系统的名称；本条把硬件与系统分开，也不混入后来MessagePad 100、110或2000。",
+      "features": [
+        "单色屏与笔输入",
+        "手写识别、红外"
+      ],
+      "facts": [
+        {
+          "label": "版本与年份",
+          "value": "1993年（所引档案口径；不代替全球统一首发）；原代MessagePad；不含100/110/2000",
+          "sourceIds": [
+            "CM150-S023"
+          ]
+        },
+        {
+          "label": "明确结构与任务",
+          "value": "单色屏与笔输入；手写识别、红外",
+          "sourceIds": [
+            "CWC-S007"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S022",
+        "CM150-S023",
+        "CWC-S007"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S022",
+          "CM150-S023",
+          "CWC-S007"
+        ],
+        "design": [
+          "CM150-S022",
+          "CM150-S023",
+          "CWC-S007"
+        ],
+        "usage": [
+          "CM150-S022",
+          "CM150-S023",
+          "CWC-S007"
+        ],
+        "significance": [
+          "CM150-S022",
+          "CM150-S023",
+          "CWC-S007"
+        ],
+        "limitations": [
+          "CM150-S022",
+          "CM150-S023",
+          "CWC-S007"
+        ]
+      },
+      "relatedSlugs": [
+        "macintosh-128k",
+        "palmpilot-professional"
+      ],
+      "relatedModelProposals": [
+        "macintosh-128k"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "reading",
+        "stageId": "reading-expanded-1",
+        "stageTitle": "掌上记录与早期阅读器",
+        "status": "既有冻结页面方案的策展位置"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "原型号身份和明确结构可追溯；独立评价缺口见mediaOpinions，不强造媒体共识。",
+        "结束制造/停售/停止支持只采用明确事件，其余未核；配色容量不重复计数。"
+      ],
+      "publicImpactBoundary": "使用比较为策展解读；品牌宣传不等于独立测量、普遍体验或社会效果。",
+      "specifications": [
+        {
+          "label": "输入与显示",
+          "value": "笔输入、单色屏、手写识别",
+          "sourceIds": [
+            "CWC-S007"
+          ],
+          "versionScope": "原代MessagePad；不含100/110/2000",
+          "verificationStatus": "verified-with-stated-scope"
+        }
+      ],
+      "lifecycleEvents": [
+        {
+          "eventType": "introduction",
+          "date": "1993",
+          "datePrecision": "year",
+          "description": "原代MessagePad/首Newton记录年份",
+          "regionVersion": "原代MessagePad；不含100/110/2000",
+          "sourceIds": [
+            "CM150-S022",
+            "CM150-S023"
+          ],
+          "temporalPerspective": "retrospective-record"
+        }
+      ],
+      "lifecycleStatus": {
+        "productionEnd": "not-verified",
+        "salesEnd": "not-verified",
+        "supportEnd": "not-verified",
+        "currentAvailability": "not-checked",
+        "coverage": "已核关键节点；不承诺历程无遗漏"
+      },
+      "chineseCharactersInFiveSections": 952
+    },
+    {
+      "slug": "iomega-zip100",
+      "context": "Computer History Museum把初代Zip系统的推出放在一九九四年，首代可在可移除盘片中保存一百MB资料。本条采用原100MB驱动器的身份，不把后来的容量变化当作多件相同用途的独立入选理由。盘片看起来接近熟悉的软盘尺寸，却要由对应驱动器读写，这使搬运文件成为盘片、驱动器和计算机之间的协作。与个人计算机并看，它不生成文件内容，而承接保存与转移；与后来的便携SSD比较，又能看到带走一张记录介质和带走包含存储机构的整个设备之间的区别。",
+      "design": "Zip把记录介质与读取机构分开，使用者可以留下驱动器而换另一张盘。博物馆说明它采用在磁性表面上方运动的非接触读写头，并把这种结构与普通软盘作比较。外形相近不意味着内部记录方法和互通条件相同，容纳盘片的机身因此仍是系统中的必要部分。展览可以把盘片、驱动器和文件三个对象排在同一条线上：前者带走数据，中间件完成读取，计算机组织具体内容。这里没有用一张实物照片推定所有Zip 100的接口版本，也没有把后续容量型号的兼容条件写成原驱动器的共同规格。",
+      "usage": "一次文件搬运首先要确认两端都能使用相应Zip介质和驱动器，再把需要的内容写到盘上，核对保存结果并带到目标计算机读取。搬动盘片只完成了中间一步，目的地能否打开内容还依赖读取环境及文件格式。返回原处或换一台机器时，同样要分清哪份文件是新的、哪份是先前版本；可移除存储解决携带记录的任务，不自动解决版本管理。这个流程依据可移除磁盘的结构展开，不凭现代USB设备经验补造原代热插拔、自动同步或精确弹出按钮步骤。接口和具体操作要按对应版本的资料确认。",
+      "significance": "Zip 100适合呈现联网之外的文件移动路线。一个文件可以留在计算机，也可以交给特定介质再带走；保存位置变成可以用手指向的物件。与磁卡计算器比较，两者都依靠可带走载体，但承接的内容与运行环境不同，一个围绕计算步骤，一个围绕计算机文件。与T7便携SSD比较，后者把存储和接口集中在随身机身中，使用者的准备物件也改变。这样的比较让容量数字回到具体任务：装下哪些文件、在哪台机器读取以及怎样确认版本，均比把一个历史容量简单换算成今天的落后程度更有解释力。",
+      "limitations": "一百MB是首代系统的标称容量，能保存多少实际文件取决于文件大小和格式，不能直接等同于固定数量的照片或文档。盘片和驱动器依赖对应格式，后来的更大容量不会自动成为原代能力。博物馆的回顾提到可靠性问题及低成本光盘竞争，只能作为其对系统后续发展的解释，没有给出所有原100MB设备统一的故障率或结束日期。因此本条把后续影响登记为回顾，不把问题概括成每台机器必然发生，也不凭这种回顾断言某一天全球同时停售。实物状态与资料保存完整性仍是需要另行检查的任务。",
+      "id": null,
+      "idStatus": "coordinator-assignment-pending",
+      "name": "Zip 100 drive",
+      "brand": "Iomega",
+      "year": 1994,
+      "dateLabel": "1994年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原100MB驱动器；容量升级不另计",
+      "category": "storage",
+      "categoryLabel": "数据存储",
+      "museumCategory": "storage",
+      "aliases": [
+        "Iomega Zip 100 drive"
+      ],
+      "tags": [
+        "数据存储",
+        "数据存储",
+        "1994年"
+      ],
+      "summary": "Computer History Museum把初代Zip系统的推出放在一九九四年，首代可在可移除盘片中保存一百MB资料。",
+      "features": [
+        "100MB可移除磁盘",
+        "对应专用驱动器"
+      ],
+      "facts": [
+        {
+          "label": "版本与年份",
+          "value": "1994年（所引档案口径；不代替全球统一首发）；原100MB驱动器；容量升级不另计",
+          "sourceIds": [
+            "CM150-S025"
+          ]
+        },
+        {
+          "label": "明确结构与任务",
+          "value": "100MB可移除磁盘；对应专用驱动器",
+          "sourceIds": [
+            "CWC-S008"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S025",
+        "CM150-S026",
+        "CWC-S008"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S025",
+          "CM150-S026",
+          "CWC-S008"
+        ],
+        "design": [
+          "CM150-S025",
+          "CM150-S026",
+          "CWC-S008"
+        ],
+        "usage": [
+          "CM150-S025",
+          "CM150-S026",
+          "CWC-S008"
+        ],
+        "significance": [
+          "CM150-S025",
+          "CM150-S026",
+          "CWC-S008"
+        ],
+        "limitations": [
+          "CM150-S025",
+          "CM150-S026",
+          "CWC-S008"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-tps-l2"
+      ],
+      "relatedModelProposals": [
+        "sony-tps-l2"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "computers",
+        "stageId": "computers-expanded-2",
+        "stageTitle": "移动工作与屏幕形态",
+        "status": "既有冻结页面方案的策展位置"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "原型号身份和明确结构可追溯；独立评价缺口见mediaOpinions，不强造媒体共识。",
+        "结束制造/停售/停止支持只采用明确事件，其余未核；配色容量不重复计数。"
+      ],
+      "publicImpactBoundary": "使用比较为策展解读；品牌宣传不等于独立测量、普遍体验或社会效果。",
+      "specifications": [
+        {
+          "label": "容量与介质",
+          "value": "首代100MB可移除磁性盘",
+          "sourceIds": [
+            "CWC-S008"
+          ],
+          "versionScope": "原100MB驱动器；容量升级不另计",
+          "verificationStatus": "verified-with-stated-scope"
+        }
+      ],
+      "lifecycleEvents": [
+        {
+          "eventType": "introduction",
+          "date": "1994",
+          "datePrecision": "year",
+          "description": "CHM记录初代Zip系统推出年份",
+          "regionVersion": "原100MB驱动器；容量升级不另计",
+          "sourceIds": [
+            "CWC-S008"
+          ],
+          "temporalPerspective": "retrospective-record"
+        }
+      ],
+      "lifecycleStatus": {
+        "productionEnd": "not-verified",
+        "salesEnd": "not-verified",
+        "supportEnd": "not-verified",
+        "currentAvailability": "not-checked",
+        "coverage": "已核关键节点；不承诺历程无遗漏"
+      },
+      "chineseCharactersInFiveSections": 972
+    }
+  ],
+  "sources": [
+    {
+      "id": "CM150-S022",
+      "title": "Apple Newton MessagePad",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/51131/Apple-Newton-MessagePad/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "硬件名MessagePad；Newton是操作系统名称。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "馆藏条目",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S022",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "supports": "硬件名MessagePad；Newton是操作系统名称。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S023",
+      "title": "Computers Timeline / Apple ships first Newton",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/computers/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-history",
+      "verifiedScope": "1993 first Newton shipped；线于1998终止；不支持所有单机识别率。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "与CCH独立博物馆",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S023",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "supports": "1993 first Newton shipped；线于1998终止；不支持所有单机识别率。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S025",
+      "title": "Zip 100 drive",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/cycle-of-computers/9/101/1082",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "指定Zip100驱动器、1994。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "博物馆对象逐型档案",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S025",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "supports": "指定Zip100驱动器、1994。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S026",
+      "title": "Timeline 1994 / Zip Disk",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1994/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-history",
+      "verifiedScope": "1994 Zip存储路线。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "与Zip对象页同机构，非独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S026",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "supports": "1994 Zip存储路线。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S041",
+      "title": "Tascam History",
+      "publisher": "Tascam Europe",
+      "url": "https://www.tascam.eu/en/history",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1979初代144 Portastudio。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S041",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "supports": "1979初代144 Portastudio。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "refreshStatus": "本轮直接刷新403；仅沿用前次身份年份核查，操作另由CWC-S005原目录支持"
+    },
+    {
+      "id": "CM150-S042",
+      "title": "50 Years of Tascam",
+      "publisher": "Tascam Europe",
+      "url": "https://www.tascam.eu/en/docs/PAM_History_2022-10.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1979 TEAC144多轨录音产品。",
+      "verificationMethod": "PDF检索文本摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S042",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "supports": "1979 TEAC144多轨录音产品。",
+      "verification": "PDF检索文本摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "refreshStatus": "本轮直接刷新403；仅沿用前次身份年份核查，操作另由CWC-S005原目录支持"
+    },
+    {
+      "id": "CM150-S047",
+      "title": "HP LaserJet printer 1984",
+      "publisher": "HP",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/imagingprinting/0018/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1984原始HP LaserJet身份。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S047",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "supports": "1984原始HP LaserJet身份。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S048",
+      "title": "Growth and Innovation",
+      "publisher": "HPE",
+      "url": "https://www.hpe.com/us/en/about/history/timeline/timeline-growth-innovations.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "HP65 1974；首台LaserJet 1984。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "同源历史品牌分拆后档案；不当独立测评",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S048",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "supports": "HP65 1974；首台LaserJet 1984。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CWC-S005",
+      "title": "Model 144 Portastudio original catalog (scan)",
+      "publisher": "TEAC/Tascam；Preservation Sound保存扫描",
+      "url": "https://www.preservationsound.com/wp-content/uploads/2013/06/Tascam_144_Catalog.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "original-manufacturer-catalog",
+      "verifiedScope": "原144四轨盒式磁带录音与调音；左右总线单轨或各一轨录入、监听/叠录/合轨/混出、倍速走带及指定磁带。",
+      "verificationMethod": "原品牌目录6页文本；重点P1–3操作及信号路线，不采用首创、无损及耐用宣传",
+      "independence": "品牌原始或回顾材料；非独立口碑",
+      "commercialDisclosure": "原品牌商业材料；目录扫描托管者不改变原文性质",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "原144四轨盒式磁带录音与调音；左右总线单轨或各一轨录入、监听/叠录/合轨/混出、倍速走带及指定磁带。",
+      "verification": "原品牌目录6页文本；重点P1–3操作及信号路线，不采用首创、无损及耐用宣传；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。"
+    },
+    {
+      "id": "CWC-S006",
+      "title": "Original LaserJet museum entry",
+      "publisher": "HP",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/imagingprinting/0018/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-primary",
+      "verifiedScope": "1984年3月介绍原桌面LaserJet；字体、横纵页面、图形、可换打印盒与小办公室用途。",
+      "verificationMethod": "原厂历史正文；不移植家族后期能力，不采用静音及销量",
+      "independence": "品牌原始或回顾材料；非独立口碑",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "1984年3月介绍原桌面LaserJet；字体、横纵页面、图形、可换打印盒与小办公室用途。",
+      "verification": "原厂历史正文；不移植家族后期能力，不采用静音及销量；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。"
+    },
+    {
+      "id": "CWC-S007",
+      "title": "Apple Newton MessagePad original collection record",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/51131/Apple-Newton-MessagePad/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "collection-history",
+      "verifiedScope": "1993原代MessagePad硬件与Newton系统名；触笔、单色屏、手写识别与红外。",
+      "verificationMethod": "原馆藏正文；部分具体参数引用第三方，不视作独立实测",
+      "independence": "博物馆史料记录；非独立性能实测",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "1993原代MessagePad硬件与Newton系统名；触笔、单色屏、手写识别与红外。",
+      "verification": "原馆藏正文；部分具体参数引用第三方，不视作独立实测；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。"
+    },
+    {
+      "id": "CWC-S008",
+      "title": "1994 / Iomega Zip Disk",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1994/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "collection-history",
+      "verifiedScope": "1994初代Zip、100MB可移除磁性盘、非接触读写头；可靠性问题/光盘竞争为博物馆后期回顾。",
+      "verificationMethod": "时间线Zip原段落；不采用后代容量，不推断原代故障率或结束日",
+      "independence": "博物馆史料记录；非独立性能实测",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "1994初代Zip、100MB可移除磁性盘、非接触读写头；可靠性问题/光盘竞争为博物馆后期回顾。",
+      "verification": "时间线Zip原段落；不采用后代容量，不推断原代故障率或结束日；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。"
+    }
+  ],
+  "importInstructions": [
+    "只导入本包完整正文，不导入身份档案。",
+    "slug为共用产品身份；产品资料库、馆藏子集和编年史不重复建型号。",
+    "ID由原实现按实际数据协调分配；图视频空时使用文字回退。",
+    "规格与历程字段属增量，同型号地区版本及计划/实际事件不可合并。"
+  ]
+}

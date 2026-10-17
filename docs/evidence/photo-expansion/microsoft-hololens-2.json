@@ -1,0 +1,9 @@
+{
+  "slug": "microsoft-hololens-2",
+  "name": "HoloLens 2",
+  "regionVersion": "原HoloLens2；非工业edition/IVAS",
+  "query": "Microsoft HoloLens 2",
+  "checkedOn": "2026-10-13",
+  "candidates": [],
+  "error": "HTTP Error 429: Too Many Requests"
+}

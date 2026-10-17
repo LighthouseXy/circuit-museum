@@ -1,0 +1,38 @@
+{
+  "slug": "lg-stanbyme-go-27lx5qkna",
+  "query": "Openverse discovery followed by original Flickr UI author, photo and license verification",
+  "checkedOn": "2026-10-15",
+  "candidates": [
+    {
+      "title": "[사진1] LG 스탠바이미(StanbyME) Go, 사전 판매서 ‘10분만에 완판’",
+      "provider": "flickr",
+      "sourcePage": "https://www.flickr.com/photos/32985045@N08/52959162760",
+      "original": "https://live.staticflickr.com/65535/52959162760_2264c5ae53_h.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52959162760_2264c5ae53_h.jpg",
+      "metadata": {
+        "Artist": {
+          "value": "<a href=\"https://www.flickr.com/photos/lge/\">LGEPR (LG전자)</a>"
+        },
+        "ObjectName": {
+          "value": "[사진1] LG 스탠바이미(StanbyME) Go, 사전 판매서 ‘10분만에 완판’"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-04-12"
+        },
+        "UploadDate": {
+          "value": "2023-06-08"
+        },
+        "PrimaryPageLicense": {
+          "value": "CC BY 2.0, public, content type Photo",
+          "url": "https://creativecommons.org/licenses/by/2.0/deed.zh-hant"
+        }
+      },
+      "artist": "LGEPR (LG전자)",
+      "description": "Original LG press photograph showing a model experiencing StanbyME Go screen flat within its case; promotional staged scene.",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "date": "2023-04-12",
+      "primaryLicenseVerification": "2026-10-15 original Flickr page read through browser UI: LG전자 / LGEPR author links to /photos/lge/; exact photo title identifies StanbyME Go; Additional Information shows CC BY 2.0 and https://creativecommons.org/licenses/by/2.0/deed.zh-hant ; Content Type Photo, Public. UI dates: photographed 2023-04-12, uploaded 2023-06-08. No login or external message sent."
+    }
+  ]
+}

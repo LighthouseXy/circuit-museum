@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Vintage_RCA_Radiola_III_Radio,_Battery-Powered_Regenerative_Type_Receiver,_Circa_1924_(19867577949).jpg",
+  "creator": "Joe Haupt",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "alt": "RCA Radiola III 电子管收音机，木质机箱上的旋钮与外露电子管",
+  "path": "/images/radiola-iii.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Vintage_RCA_Radiola_III_Radio%2C_Battery-Powered_Regenerative_Type_Receiver%2C_Circa_1924_%2819867577949%29.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 2884,
+  "originalHeight": 2793,
+  "output": {
+    "format": "webp",
+    "width": 1100,
+    "height": 1065,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 76906
+  }
+}

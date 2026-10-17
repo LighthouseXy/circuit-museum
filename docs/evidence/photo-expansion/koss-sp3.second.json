@@ -1,0 +1,741 @@
+{
+  "slug": "koss-sp3",
+  "name": "SP/3",
+  "regionVersion": null,
+  "query": "intitle:\"SP/3\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Dung beetle (Deltochilum mexicanum) 3.jpg",
+      "pageid": 136748272,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Dung_beetle_(Deltochilum_mexicanum)_3.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Dung_beetle_%28Deltochilum_mexicanum%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Dung_beetle_%28Deltochilum_mexicanum%29_3.jpg/960px-Dung_beetle_%28Deltochilum_mexicanum%29_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-09-01 10:11:05",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Dung beetle (Deltochilum mexicanum) 3",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Insects of Colombia|Photographs by Charlesjsharp|Self-published work|Deltochilum mexicanum|Files with coordinates missing SDC location of creation|Beetle behavior",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality|valued",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "5.850000",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-76.180000",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Dung beetle (<i>Deltochilum mexicanum</i>) 3, Colombia",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-08-08 11:03:17",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>, from <a rel=\"nofollow\" class=\"external text\" href=\"https://www.sharpphotography.co.uk/\">Sharp Photography, sharpphotography.co.uk</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q54800218\" class=\"extiw\" title=\"d:Q54800218\"><span title=\"Scottish wildlife photographer\">Charles J. Sharp</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Dung beetle ( Deltochilum mexicanum ) 3, Colombia",
+      "artist": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-08-08 11:03:17"
+    },
+    {
+      "title": "File:Pieris sp 3.jpg",
+      "pageid": 8050342,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pieris_sp_3.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Pieris_sp_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Pieris_sp_3.jpg/960px-Pieris_sp_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2009-10-13 05:06:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pieris sp 3",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 450D|GFDL-1.2|Self-published work|Featured pictures on Wikipedia, English|Photos by JJ Harrison|Lepidoptera of Tasmania|Files with coordinates missing SDC location of creation|Pieridae of Australia|Pieris rapae on Asterales flowers|Files with Assessments template missing SDC Commons no value quality assessment|Unidentified Asteraceae in Australia|Insects of Austins Ferry, Tasmania",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "-42.778340",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "147.262000",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Small White (<i>Pieris rapae</i>), Austin's Ferry, Tasmania, Australia, Austin's Ferry, Tasmania, Australia",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-10-13",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:JJ_Harrison\" title=\"User:JJ Harrison\">JJ Harrison</a> (<a rel=\"nofollow\" class=\"external free\" href=\"https://www.jjharrison.com.au/\">https://www.jjharrison.com.au/</a>)",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Small White ( Pieris rapae ), Austin's Ferry, Tasmania, Australia, Austin's Ferry, Tasmania, Australia",
+      "artist": "JJ Harrison  ( https://www.jjharrison.com.au/ )",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2009-10-13"
+    },
+    {
+      "title": "File:McLaren M23-6, Ex-James-Hunt (2007-06-15 Sp) 3.JPG",
+      "pageid": 16298927,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:McLaren_M23-6,_Ex-James-Hunt_(2007-06-15_Sp)_3.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f5/McLaren_M23-6%2C_Ex-James-Hunt_%282007-06-15_Sp%29_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/McLaren_M23-6%2C_Ex-James-Hunt_%282007-06-15_Sp%29_3.JPG/960px-McLaren_M23-6%2C_Ex-James-Hunt_%282007-06-15_Sp%29_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2011-09-01 20:23:11",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "McLaren M23-6, Ex-James-Hunt (2007-06-15 Sp) 3",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 350D|Oldtimer Festival Nürburgring|McLaren M23D",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Mc Laren M23, ehemals von James Hunt gefahren, beim Oldtimer Festival des DAMC; Fahrer: Andrea Burani, Italien; schnellste Runde auf dem Grand-Prix-Kurs des Nürburgrings: 2:10,469 min = 142,05 km/h",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-06-15",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Spurzem\" title=\"User:Spurzem\">Lothar Spurzem</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0 de",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0 de",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0-de",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Mc Laren M23, ehemals von James Hunt gefahren, beim Oldtimer Festival des DAMC; Fahrer: Andrea Burani, Italien; schnellste Runde auf dem Grand-Prix-Kurs des Nürburgrings: 2:10,469 min = 142,05 km/h",
+      "artist": "Lothar Spurzem",
+      "license": "CC BY-SA 2.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+      "date": "2007-06-15"
+    },
+    {
+      "title": "File:41 Remington Magnum - SP - 3.jpg",
+      "pageid": 2604053,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:41_Remington_Magnum_-_SP_-_3.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/41_Remington_Magnum_-_SP_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/41_Remington_Magnum_-_SP_-_3.jpg/960px-41_Remington_Magnum_-_SP_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2007-08-22 15:43:02",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "41 Remington Magnum - SP - 3",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": ".41 Remington Magnum|Self-published work|PD-self",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "41 Remington Magnum. SP bullet.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-08-21",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "This photo was taken by myself with consent of cartridges owner.",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Malis\" title=\"User:Malis\">Malis</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "41 Remington Magnum. SP bullet.",
+      "artist": "Malis",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "2007-08-21"
+    },
+    {
+      "title": "File:Cotoneaster lucidus 15-p.bot-rhamnus.sp-3.jpg",
+      "pageid": 127855572,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cotoneaster_lucidus_15-p.bot-rhamnus.sp-3.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/Cotoneaster_lucidus_15-p.bot-rhamnus.sp-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cotoneaster_lucidus_15-p.bot-rhamnus.sp-3.jpg/960px-Cotoneaster_lucidus_15-p.bot-rhamnus.sp-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-01-17 15:38:08",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n<i>Cotoneaster lucidus</i></div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Cotoneaster lucidus|Uploaded with pattypan|Botanical collection of Université Laval|Cotoneaster acutifolius var. lucidus (flowers)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nAyotte, Gilles, 1948-</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "Nom français : cotonéaster à feuilles aiguës. Nom anglais : shiny cotoneaster. Feuilles et inflorescence (fleurs) de cotonéaster à feuilles aiguës, en milieu naturel.",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q16506987\" class=\"extiw\" title=\"d:Q16506987\"><span title=\"academic library\">Bibliothèque de l'Université Laval</span></a>\n</bdi>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"share alike\"><img alt=\"share alike\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/40px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Cc-sa_white.svg/60px-Cc-sa_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by-sa/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by-sa/4.0/deed.en\">Attribution-Share Alike 4.0 International</a> license.</div><div class=\"rlicense-desc\" style=\"text-align:start;\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>\n<li><b>share alike</b> – If you remix, transform, or build upon the material, you must distribute your contributions under the <a href=\"https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses\" class=\"extiw\" title=\"ccorg:share-your-work/licensing-considerations/compatible-licenses\">same or compatible license</a> as the original.</li></ul></dd></dl></div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by-sa/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY-SA 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution-Share Alike 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Nom français : cotonéaster à feuilles aiguës. Nom anglais : shiny cotoneaster. Feuilles et inflorescence (fleurs) de cotonéaster à feuilles aiguës, en milieu naturel.",
+      "artist": "Ayotte, Gilles, 1948-",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": ""
+    },
+    {
+      "title": "File:SP-2 and SP-3 rounds.jpg",
+      "pageid": 94775556,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:SP-2_and_SP-3_rounds.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/SP-2_and_SP-3_rounds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/SP-2_and_SP-3_rounds.jpg/960px-SP-2_and_SP-3_rounds.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-10-05 15:58:54",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "SP-2 and SP-3 rounds",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|7,62 x 35 mm SP-2|7.62 x 35 mm SP-3",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "7,62-мм специальные патроны СП-2 (слева) и СП-3 (справа).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2020-10-04 21:07:25",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Costas-1963&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Costas-1963 (page does not exist)\">Costas-1963</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "7,62-мм специальные патроны СП-2 (слева) и СП-3 (справа).",
+      "artist": "Costas-1963",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2020-10-04 21:07:25"
+    },
+    {
+      "title": "File:Opened cardboard box for 10 SP-3 rounds with clips.jpg",
+      "pageid": 94775558,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Opened_cardboard_box_for_10_SP-3_rounds_with_clips.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Opened_cardboard_box_for_10_SP-3_rounds_with_clips.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Opened_cardboard_box_for_10_SP-3_rounds_with_clips.jpg/960px-Opened_cardboard_box_for_10_SP-3_rounds_with_clips.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-10-05 15:58:54",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Opened cardboard box for 10 SP-3 rounds with clips",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|7.62 x 35 mm SP-3",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Открытая коробка с 10 патронами СП-3 и обоймами к ним.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2020-10-04 21:11:40",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Costas-1963&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Costas-1963 (page does not exist)\">Costas-1963</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Открытая коробка с 10 патронами СП-3 и обоймами к ним.",
+      "artist": "Costas-1963",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2020-10-04 21:11:40"
+    },
+    {
+      "title": "File:Fastnachtszug Kärlich 1957 - Wagen Familie Löcher (Foto Sp - 3).jpg",
+      "pageid": 126341304,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fastnachtszug_K%C3%A4rlich_1957_-_Wagen_Familie_L%C3%B6cher_(Foto_Sp_-_3).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Fastnachtszug_K%C3%A4rlich_1957_-_Wagen_Familie_L%C3%B6cher_%28Foto_Sp_-_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Fastnachtszug_K%C3%A4rlich_1957_-_Wagen_Familie_L%C3%B6cher_%28Foto_Sp_-_3%29.jpg/960px-Fastnachtszug_K%C3%A4rlich_1957_-_Wagen_Familie_L%C3%B6cher_%28Foto_Sp_-_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2022-12-05 15:35:59",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fastnachtszug Kärlich 1957 - Wagen Familie Löcher (Foto Sp - 3)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Files with coordinates missing SDC location of creation (50° N, 7° E)|Mülheim-Kärlicher Fastnachtszug|Carnival in Mülheim-Kärlich",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "50.392292",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "7.488486",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Fastnachtszug Kärlich, veranstaltet von der Kirmes- und Karnevalsgesellschaft. Motivwagen der Familie Löcher mit Anspielung auf den einstigen Weinanbau in der Kärlicher Flur. „Em Muschewiget“ bzw. „Im Muschwingert“ ist die Flurbezeichnung der alten Weinlage; Beschriftung und Bemalung des Wagens: Hermann Spurzem (Traktorfahrer: Toni Höfer)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1957",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Spurzem\" title=\"User:Spurzem\">Lothar Spurzem</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0 de",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0 de",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0-de",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Fastnachtszug Kärlich, veranstaltet von der Kirmes- und Karnevalsgesellschaft. Motivwagen der Familie Löcher mit Anspielung auf den einstigen Weinanbau in der Kärlicher Flur. „Em Muschewiget“ bzw. „Im Muschwingert“ ist die Flurbezeichnung der alten Weinlage; Beschriftung und Bemalung des Wagens: Hermann Spurzem (Traktorfahrer: Toni Höfer)",
+      "artist": "Lothar Spurzem",
+      "license": "CC BY-SA 2.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+      "date": "1957"
+    }
+  ]
+}

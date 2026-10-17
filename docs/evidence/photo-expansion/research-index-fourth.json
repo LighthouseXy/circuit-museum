@@ -1,0 +1,378 @@
+{
+  "checkedOn": "2026-10-13",
+  "requestedProducts": 62,
+  "items": [
+    {
+      "slug": "koss-sp3",
+      "query": "\"SP/3\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "hamilton-pulsar-p1",
+      "query": "Pulsar AND \"P1\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "xiaomi-smart-band-11-active",
+      "query": "\"Xiaomi\" AND \"Smart\" AND \"Band\" AND \"11\" AND \"Active\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "logitech-mx-master-3",
+      "query": "\"MX\" AND \"Master\" AND \"3\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "toshiba-er4",
+      "query": "Toshiba AND \"ER-4\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "teac-portastudio144",
+      "query": "Tascam AND 144",
+      "candidates": 4,
+      "error": null
+    },
+    {
+      "slug": "hp-laserjet-1984",
+      "query": "\"LaserJet\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "pfu-scansnap-fi4110eox",
+      "query": "\"ScanSnap\" AND \"fi-4110EOX\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "samsung-t7-2020",
+      "query": "\"Samsung\" AND \"T7\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "kitchenaid-h5",
+      "query": "\"H-5\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "toastmaster-1a1",
+      "query": "\"Toastmaster\" AND \"1A1\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "national-ec36",
+      "query": "\"EC-36\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sharp-r10",
+      "query": "\"R-10\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "hoover-constellation-444",
+      "query": "\"Hoover\" AND \"Constellation\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "braun-hl1",
+      "query": "Braun AND HL1",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "braun-sixtant-sm31",
+      "query": "\"Sixtant\" AND \"SM\" AND \"31\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "motorola-pageboy-i",
+      "query": "\"Pageboy\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "omron-hem1",
+      "query": "\"HEM-1\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "magellan-nav1000",
+      "query": "\"Magellan\" AND \"NAV\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "garmin-gps155-tso",
+      "query": "\"Garmin\" AND \"GPS\" AND \"155\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "husqvarna-solar-mower-1995",
+      "query": "\"Solar\" AND \"Mower\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-aibo-ers110",
+      "query": "Aibo AND \"ERS-110\"",
+      "candidates": 3,
+      "error": null
+    },
+    {
+      "slug": "avm-fritzbox-2004",
+      "query": "\"FRITZ!Box\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "tomtom-go-2004",
+      "query": "\"TomTom\" AND \"GO\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "philips-airfryer-hd9220",
+      "query": "\"Airfryer\" AND \"HD9220/40\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "sony-kv-1310",
+      "query": "Sony AND \"KV-1310\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "sharp-aquos-lc20c1",
+      "query": "\"AQUOS\" AND \"LC-20C1\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "samsung-the-frame-ls003",
+      "query": "\"Samsung\" AND \"Frame\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "samsung-the-sero-ls05t",
+      "query": "\"Samsung\" AND \"Sero\"",
+      "candidates": 1,
+      "error": null
+    },
+    {
+      "slug": "lg-signature-oled-r-rx",
+      "query": "\"LG\" AND \"OLED\" AND \"R\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "epson-vpj-700",
+      "query": "\"VPJ-700\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "samsung-the-freestyle-2022",
+      "query": "\"Samsung\" AND \"Freestyle\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "lg-stanbyme-go-27lx5qkna",
+      "query": "\"StanbyME\" AND \"Go\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "lg-oled-evo-m5-65",
+      "query": "\"LG\" AND \"M5\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "samsung-micro-rgb-r95h-65",
+      "query": "\"Samsung\" AND \"R95H\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "microsoft-hololens-2",
+      "query": "\"HoloLens\" AND \"2\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "samsung-galaxy-xr",
+      "query": "\"Galaxy\" AND \"XR\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-betamax-sl-6300",
+      "query": "\"SL-6300\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "sony-ccd-v8",
+      "query": "\"CCD-V8\"",
+      "candidates": 4,
+      "error": null
+    },
+    {
+      "slug": "sony-ccd-tr55",
+      "query": "\"CCD-TR55\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "nikon-coolscan-ls-10",
+      "query": "\"COOLSCAN\" AND \"LS-10\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "nintendo-virtual-boy-jp",
+      "query": "\"Virtual\" AND \"Boy\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sega-dreamcast-jp",
+      "query": "\"Dreamcast\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-access-controller",
+      "query": "\"PlayStation\" AND \"Access\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nest-learning-thermostat-1",
+      "query": "\"Nest\" AND \"Thermostat\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "perkins-smart-brailler",
+      "query": "\"Smart\" AND \"Brailler\"",
+      "candidates": 2,
+      "error": null
+    },
+    {
+      "slug": "philips-hue-2012",
+      "query": "\"Philips\" AND \"Hue\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nest-protect-1",
+      "query": "\"Nest\" AND \"Protect\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "amazon-echo-1",
+      "query": "\"Amazon\" AND \"Echo\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "vorwerk-thermomix-tm5",
+      "query": "\"Thermomix\" AND \"TM5\"",
+      "candidates": 5,
+      "error": null
+    },
+    {
+      "slug": "canon-xl1",
+      "query": "Canon AND XL1",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sourcenext-pocketalk-w",
+      "query": "\"POCKETALK\" AND \"W\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "roborock-s7",
+      "query": "\"Roborock\" AND \"S7\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "ikea-dirigera",
+      "query": "\"DIRIGERA\" AND \"Hub\"",
+      "candidates": 5,
+      "error": null
+    },
+    {
+      "slug": "aqara-presence-fp2",
+      "query": "\"Presence\" AND \"Sensor\" AND \"FP2\"",
+      "candidates": 2,
+      "error": null
+    },
+    {
+      "slug": "humanware-victor-reader-stream-3",
+      "query": "\"Victor\" AND \"Reader\" AND \"Stream\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "switchbot-s10",
+      "query": "\"SwitchBot\" AND \"S10\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "aqara-spatial-fp400",
+      "query": "\"Spatial\" AND \"Multi-Sensor\" AND \"FP400\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "asus-rog-xbox-ally-x",
+      "query": "\"ROG\" AND \"Xbox\" AND \"Ally\" AND \"X\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "valve-steam-machine-2026",
+      "query": "\"Steam\" AND \"Machine\" AND \"2026\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "dji-phantom-2013",
+      "query": "\"DJI\" AND \"Phantom\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "panasonic-lumix-dc-tz300",
+      "query": "\"LUMIX\" AND \"DC-TZ300\"",
+      "candidates": 8,
+      "error": null
+    }
+  ]
+}

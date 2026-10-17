@@ -1,0 +1,1468 @@
+{
+  "schemaVersion": 2,
+  "checkedOn": "2026-10-11",
+  "status": "reviewed-staged-import-packet",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ],
+    "snapshotPath": "docs/expansion/base-40-preserved.json"
+  },
+  "exhibits": [
+    {
+      "id": "141",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "nest-learning-thermostat-1",
+      "name": "Nest Learning Thermostat（初代）",
+      "brand": "Nest Labs",
+      "year": 2011,
+      "dateLabel": "2011年（MoMA作品年代；2012厂商确认初代仍在售）",
+      "dateKind": "manufacture",
+      "regionVersion": "北美2011初代；排除2012二代与后续Farsight",
+      "category": "smart-home",
+      "categoryLabel": "智能家居与感知",
+      "museumCategory": "smart-home",
+      "aliases": [
+        "Nest Labs Nest Learning Thermostat（初代）"
+      ],
+      "tags": [
+        "智能家居与感知",
+        "北美2011初代；排除2012二代与后续Farsight"
+      ],
+      "summary": "让房间温度、人的设定与供热控制在一件墙上设备中相接。初代Nest Learning Thermostat把温控做成可操作的信息界面，也依赖匹配系统和持续的软件条件。",
+      "context": "MoMA将初代Nest Learning Thermostat编为2011作品，Nest在2012年二代公告中又说明初代仍在售。本文采用2011作品年代，2012库存说明只作为当时历史，不推断现在仍供货。它与桌面风扇面对不同的环境任务：风扇在局部产生气流，墙上温控器则与房屋的供热或制冷系统联系。设备本身并不产生全部热量，温度设定需要由相应系统执行。这一关系适合从家庭里的普通选择解释：人希望何时处在怎样的室内状态，再让仪器参与控制与信息反馈。",
+      "design": "初代机身底部有传感器栅格，二代公告将改用平滑镜面和更薄外形明确写作后续变化。本文保留这项差别，不以二代照片覆盖初代。显示、设定与测量在墙上同一处相遇，使温控不再只是一项隐藏在设备内部的动作。学习型温控的思想，是将人的设置与时间安排联系到自动控制，但并非理解每个家庭的全部需要。2012公告还记录初代联网用户将收到软件更新，说明物件的功能会继续改变，外壳年代与运行软件版本因此不能被合成一个永远固定的状态。",
+      "usage": "使用者首先需要确认温控器与住宅系统的关系，并由符合对应要求的安装让它能够控制实际设备。日常过程中，人查看温度和状态，表达希望的设定，再观察房屋对控制的响应。设定计划可以把重复调整的一部分移向程序，但人仍要检查是否符合生活作息和现场条件。本文不提供接线、系统配置或具体温控操作教程，也不把2012更新中列举的全部新功能当2011首发。围绕一件墙上设备的使用，实际上还包含设备背后的热源、房屋与人的日常安排。",
+      "significance": "初代Nest的普通价值，是使环境控制具有一处容易辨认的界面。人既能在现场查看，也需要理解一个设定如何通过别的设备影响房间；温度数字不是热量本身。与HL1比较，可以区分靠摆放直接改变局部气流，与设定系统控制之间的任务差异。软件更新记录又让产品历程进入使用过程：同一硬件可能获得新能力，不能只看生产年份就概括所有体验。本文不从学习功能推断节能量，更不宣称房屋自动变得舒适，而是说明人、设定与系统怎样重新分工。",
+      "limitations": "MoMA与原厂二代公告定位初代，但不能将二代兼容率、连接器和外形改进归给2011版本；软件更新属于后续事件。Google支持页另确认初代自2025年10月25日起停止Nest/Home应用、远端及相关云端功能，也停止软件与安全更新；机身直接控制和已有计划仍可使用。这是支持与服务结束，不是硬件停产或所有本地功能消失。本文未自主测量耗能、舒适程度或存世机状态，住宅匹配仍需对应资料。展览能说明控制与服务的历程，不以旧物存在或品牌宣传代替现实安装判断。",
+      "features": [
+        "2011作品年代；2012公告确认初代当时仍售。",
+        "初代底部传感器栅格，二代外形变化分开。",
+        "2012初代联网软件更新为后续节点。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "MoMA2011实物；2012厂商列初代仍售，并将二代传感器/兼容改善与初代分开。",
+          "sourceIds": [
+            "HC150-S041",
+            "HC150-S042"
+          ]
+        },
+        {
+          "label": "联网支持结束",
+          "value": "2025-10-25，应用及远端/云端功能停止，停止软件/安全更新；机身控制与已有计划保留",
+          "sourceIds": [
+            "CWH-S005"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S041"
+      ],
+      "dateSourceIds": [
+        "HC150-S041"
+      ],
+      "sourceIds": [
+        "HC150-S041",
+        "HC150-S042",
+        "CWH-S005"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S041",
+          "HC150-S042"
+        ],
+        "design": [
+          "HC150-S041",
+          "HC150-S042"
+        ],
+        "usage": [
+          "HC150-S041",
+          "HC150-S042"
+        ],
+        "significance": [
+          "HC150-S041",
+          "HC150-S042"
+        ],
+        "limitations": [
+          "HC150-S041",
+          "HC150-S042",
+          "CWH-S005"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "braun-hl1"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "braun-hl1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "chineseCharactersInFiveSections": 884,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-04.json"
+    },
+    {
+      "id": "142",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "perkins-smart-brailler",
+      "name": "SMART Brailler",
+      "brand": "Perkins",
+      "year": 2012,
+      "dateLabel": "2012年推出（制造机构产品史）",
+      "dateKind": "launch",
+      "regionVersion": "Perkins SMART电子反馈型号；排除1951纯机械Classic",
+      "category": "care",
+      "categoryLabel": "生活测量与可及性",
+      "museumCategory": "care",
+      "aliases": [
+        "Perkins SMART Brailler"
+      ],
+      "tags": [
+        "生活测量与可及性",
+        "Perkins SMART电子反馈型号；排除1951纯机械Classic"
+      ],
+      "summary": "在纸面盲文输入上加入音频反馈与显示，让同一次书写可以通过触觉、声音和视觉被检查。SMART Brailler围绕共同操作展开，不以设备功能代替学习效果。",
+      "context": "Perkins的机构历史把SMART Brailler推出放在2012年，明确它在机械盲文书写路线之上加入音频反馈和显示屏。本件是这一电子辅助版本，1951的经典机械Brailler不另混算为电气展品，也不把整个Brailler系列分发量归给SMART。它所回应的是书写与理解之间的日常任务：按键形成纸面凸点，使用者还需要知道输入了什么。加入不同反馈方式，让同一个过程可以由拥有不同感知方式的人一起查看；这是具体界面的组织，不是已经证明任何年龄或场景都学得更快。",
+      "design": "纸面凸点保留可触摸的文字结果，音频与显示则为输入过程提供另外两种反馈。结构上，机械书写与电子信息不是谁替代谁，而是围绕同一动作配合：手按键，纸面留下点位，同时能听见或看见相应内容。对于能看见屏幕的人，显示让输入内容可核对；对于依靠声音或触觉的人，另一种通道承担不同任务。本文不假定所有人都会使用每种通道，也不补写未核的文件格式与连接功能。它与普通打印机相比，区别在于书写现场的反馈，而不是仅在完成后输出纸张。",
+      "usage": "使用者准备适合的纸张和书写位置，按盲文的输入方式操作，再从纸面、音频或屏幕检查当前内容。共同学习时，另一位参与者可以通过自己能够使用的反馈通道跟上过程，不必仅凭一张成品猜测此前按了哪些键。写错与修正仍属于人的判断，设备不会自动定义想表达什么。本文概括机构明确的多通道反馈任务，不列未经原手册核出的纸张规格、快捷键和练习菜单。准备、输入、核对和收拾形成一串连续动作，电子辅助的价值在其中出现，而不是只靠屏幕证明。",
+      "significance": "SMART Brailler的普通价值是让同一段书写过程得到多种可接近的表达。触觉结果、声音和视觉显示不必把使用者分成互不相见的组，而可以围绕同一个任务配合。这个解读与Speak & Spell的声音反馈形成对照：声音可以帮助核对输入，具体内容和学习目标却不同。与电子阅读器比较，主动写下文字与读取现有作品又是两项任务。本文不承诺教学成效，也不把辅助产品写成替某类人完成全部沟通；它提供一种工具，让人通过适合自己的方式参与、检查和交流。",
+      "limitations": "两份资料都来自Perkins制造与教育机构，虽然具有明确版本信息，仍不能称独立的教学试验。机构对促进共同学习的目标可以作为设计用途，不能推断每位学习者的实际结果。系列历史中的经典Brailler销量和耐用描述也不自动属于2012 SMART。本文没有完整原手册、实机和课堂观察，不列电池时间、屏幕参数或速度比较。存世设备的反馈、键盘与纸面机构状态需要另核，当前软件和支持也未确认。文字保留电子辅助与人的共同操作关系，不将功能存在转换为无条件的可及性结论。",
+      "features": [
+        "2012 SMART电子辅助版本，区别纯机械Classic。",
+        "纸面盲文配合音频反馈及显示。",
+        "制造机构用途描述不推为独立教学效果。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "2012 SMART版本加入音频反馈和显示屏，基础机械brailler并非本展品。",
+          "sourceIds": [
+            "HC150-S039",
+            "HC150-S040"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S039"
+      ],
+      "dateSourceIds": [
+        "HC150-S039"
+      ],
+      "sourceIds": [
+        "HC150-S039",
+        "HC150-S040"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S039",
+          "HC150-S040"
+        ],
+        "design": [
+          "HC150-S039",
+          "HC150-S040"
+        ],
+        "usage": [
+          "HC150-S039",
+          "HC150-S040"
+        ],
+        "significance": [
+          "HC150-S039",
+          "HC150-S040"
+        ],
+        "limitations": [
+          "HC150-S039",
+          "HC150-S040"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "speak-and-spell",
+        "amazon-kindle-1"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "speak-and-spell",
+        "amazon-kindle-1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "chineseCharactersInFiveSections": 908,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-04.json"
+    },
+    {
+      "id": "143",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "philips-hue-2012",
+      "name": "Hue Starter Pack（首代）",
+      "brand": "Philips",
+      "year": 2012,
+      "dateLabel": "2012-10-29公布；10-30美欧Apple商店开售安排",
+      "dateKind": "announcement",
+      "regionVersion": "美欧首代三灯泡与Bridge；不混后续蓝牙/Matter代",
+      "category": "smart-home",
+      "categoryLabel": "智能家居与感知",
+      "museumCategory": "smart-home",
+      "aliases": [
+        "Philips Hue Starter Pack（首代）"
+      ],
+      "tags": [
+        "智能家居与感知",
+        "美欧首代三灯泡与Bridge；不混后续蓝牙/Matter代"
+      ],
+      "summary": "以网桥连接灯与手机应用，保存颜色场景并安排定时。首代Hue Starter Pack把照明从墙上开关扩展到网络设置，日常便利依赖灯、桥与软件共同工作。",
+      "context": "Philips在2012年10月29日公布Hue，次日美欧Apple商店开售安排属于公告所列地区事件。本件选首代套装，不拆分容量和灯泡颜色为新展品，也不将后代桥接器的生态功能倒推。同期资料列三颗六百流明灯、网桥和LAN线，说明联网照明是一组物件的协作，不是一颗灯泡凭空上网。与普通定向风扇相比，Hue把环境调整的一部分放到手机设置中，人在灯光位置之外也可以表达选择。照明仍要回到房间与人的活动，颜色场景并不自动等于舒适。",
+      "design": "灯承担照明，网桥协调灯与网络，LAN线连接家内入口，应用则保存场景和定时。这几个位置分别处理光、通信和人的选择，套装因此需要按整个连接关系理解。场景把一组灯光状态保存在软件中，下一次可以作为可重复的设置使用；定时让开关动作与时间联系，但任务意图仍由人给出。本文保留2012规格中的流明信息，不拿它当房间照度测量。首代与后代桥、语音助手及不同协议的兼容需要单列，不能因为今天同名系统能够联动更多设备就改写初代。",
+      "usage": "使用者先安排灯与灯具的关系，把网桥接入对应网络，再通过当时支持的应用建立联系和选择灯光状态。设置好场景后，人可以重新调用；定时则让一次计划在以后执行。这里的操作从物理安装延伸到应用，排查也可能从灯具供电、桥接连接和应用状态分别开始。本文不提供电气安装指南或现在手机端的菜单教程，不假定当代系统仍支持原版应用。灯光照到哪里、是否适合阅读和休息，也需要人与空间一起判断，软件存储并没有消除现场条件。",
+      "significance": "首代Hue的普通价值，是让光的选择形成可以保存和重用的状态。墙上开关仍然是清楚的直接动作，应用则允许不同灯具的状态围绕一个计划组织。这个变化不必被写成所有家庭照明的革命；它可以用一个普通场景说明，人怎样从逐盏操作转向调用预设。与语音音箱比较，前者执行光的输出，后者提供另一种控制入口，两者要通过系统关系才能协作。本文不推断节能、睡眠或健康改善，而把设备、软件与人的意图之间的分工保留在日常使用层面。",
+      "limitations": "公告的开售安排限定美欧，不因日文事实单存在就宣称日本同日销售。同期资料来自同厂商，不能作为独立光质和可靠性评价；六百流明是每灯规格，不等于任意房间获得相同亮度。初代套装与后续硬件、应用及语音联动分开，本文不承诺2026原服务仍可用，也不猜停售与支持终止日。网桥、网络和灯具的依赖仍会影响使用，本轮没有实机或当代兼容测试。展示以连接与场景存储解释产品，不用未经许可图片补齐，也不把功能数量当作每个人都觉得便利的证明。",
+      "features": [
+        "2012-10-29公布，美欧次日开售安排。",
+        "三颗600流明灯、网桥、LAN线的初代套装。",
+        "应用场景与定时；后代桥及联动另核。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "套装三颗600流明灯、网桥和LAN线；应用保存场景与定时。",
+          "sourceIds": [
+            "HC150-S043",
+            "HC150-S044"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S043"
+      ],
+      "dateSourceIds": [
+        "HC150-S043"
+      ],
+      "sourceIds": [
+        "HC150-S043",
+        "HC150-S044"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S043",
+          "HC150-S044"
+        ],
+        "design": [
+          "HC150-S043",
+          "HC150-S044"
+        ],
+        "usage": [
+          "HC150-S043",
+          "HC150-S044"
+        ],
+        "significance": [
+          "HC150-S043",
+          "HC150-S044"
+        ],
+        "limitations": [
+          "HC150-S043",
+          "HC150-S044"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "amazon-echo-1",
+        "google-home-2016"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "amazon-echo-1",
+        "google-home-2016"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "chineseCharactersInFiveSections": 898,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-04.json"
+    },
+    {
+      "id": "144",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "nest-protect-1",
+      "name": "Nest Protect（首代）",
+      "brand": "Nest Labs",
+      "year": 2013,
+      "dateLabel": "2013-11-15起美国销售（CPSC召回记录）",
+      "dateKind": "launch",
+      "regionVersion": "首代烟雾/CO报警器；保留2014撤销NestWave前后软件差别",
+      "category": "smart-home",
+      "categoryLabel": "智能家居与感知",
+      "museumCategory": "smart-home",
+      "aliases": [
+        "Nest Labs Nest Protect（首代）"
+      ],
+      "tags": [
+        "智能家居与感知",
+        "首代烟雾/CO报警器；保留2014撤销NestWave前后软件差别"
+      ],
+      "summary": "用声音、灯光与手机状态把烟雾及一氧化碳报警信息传给人。首代Nest Protect也记录了手势功能被召回修复的经历，提醒交互便利要与可靠报警一起检验。",
+      "context": "Nest于2013年十月公布Protect，CPSC的原始召回记录又将美国销售起始列为2013年11月15日。本文采用已售起点，并保留公告作为此前事件。它进入家庭的任务是检测与报警，不能仅因带有手机连接就写成普通娱乐智能设备。报警器需要让人知道发生了什么，也要使这一信息在真正需要时持续可得。与Hue的环境设置比较，两者都用灯光，但通知的重要性和人的回应责任不同。产品历程还包含2014年的修复节点，使首发便利与后续发现的问题能在同一物件中阅读。",
+      "design": "同期公告强调声音、灯光与手机状态，多种输出帮助把设备状态带给不同位置的人。灯光提供可见反馈，声音让人不必先盯着机身，手机又把状态扩展到另一处界面。原设计还包含Nest Wave手势相关功能，而监管记录指出特定动作可能使报警无意间被停用，修复更新禁用了该功能。本文因此不把手势静音继续列为无条件优点，也不把后代传感与电池设计并入初代。交互越容易触发，并不一定越适合所有任务，报警用途需要与控制结果一起理解。",
+      "usage": "使用关系首先包含按对应原说明安排安装与供电，让报警器处在能够执行指定任务的位置。日常中人要留意设备状态与提示，在发生警报时按相关要求回应，而不是把手机页面当作现场全部信息。本文不提供安装位置、应急处理或安全判断指南，只解释输出如何让人接收到状态。2014修复记录又意味着原机是否已取得更新是另一个版本条件，不能只看外壳确认手势功能的状态。测试、维护与设备寿命也由对应资料限定，不因联网就把照看责任从人那里删除。",
+      "significance": "Protect的普通价值可以从信息表达讨论：报警不是一段任意通知，输出需要被理解并能带来正确回应。声音、灯光与手机分别覆盖不同注意位置，设计把状态从一个盒子扩展为多条通道。召回修复又让观众看到产品的历程有时是删去功能，而不是只增加能力。易触发的手势在某些日常任务中方便，在报警器上却可能带来另一种结果。本文不推断这一设备降低了事故，也不把未报告伤害解释为绝对安全；它展示交互、用途与修复之间具体可核的关系。",
+      "limitations": "CPSC正文重读在本轮受403限制，原机构索引取得相关召回说明，读取层级如实保留。销售起点与2014修复各自有事件范围，监管所列未报告伤害不证明以后或所有地区都没有风险。原厂公告的体验愿景不作独立测试，本文未检查报警能力、联网状态和存世机更新情况，也不提供现实安全适用性结论。首代与后代分开，具体终止销售或支持时间未核。作为展品，它可以保留声光通知与召回修复的过程，实际使用仍必须由对应版本说明和当前设备状态判断，不能依据历史文字恢复服务。",
+      "features": [
+        "2013-11-15美国销售起始，另有十月公告。",
+        "声音、灯光与手机状态输出。",
+        "2014修复禁用Nest Wave；未报告伤害不等于无风险。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "2013公告公布；CPSC记2013-11-15开售与2014更新禁用NestWave，未报告伤害。",
+          "sourceIds": [
+            "HC150-S049",
+            "HC150-S050"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S049"
+      ],
+      "dateSourceIds": [
+        "HC150-S049"
+      ],
+      "sourceIds": [
+        "HC150-S049",
+        "HC150-S050"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S049",
+          "HC150-S050"
+        ],
+        "design": [
+          "HC150-S049",
+          "HC150-S050"
+        ],
+        "usage": [
+          "HC150-S049",
+          "HC150-S050"
+        ],
+        "significance": [
+          "HC150-S049",
+          "HC150-S050"
+        ],
+        "limitations": [
+          "HC150-S049",
+          "HC150-S050"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "philips-hue-2012"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "philips-hue-2012"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "chineseCharactersInFiveSections": 919,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-04.json"
+    },
+    {
+      "id": "145",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "amazon-echo-1",
+      "name": "Echo（初代）",
+      "brand": "Amazon",
+      "year": 2014,
+      "dateLabel": "2014年11月推出／邀请销售（原厂回顾）",
+      "dateKind": "launch",
+      "regionVersion": "美国初代黑色圆柱；排除2017日本第二代",
+      "category": "smart-home",
+      "categoryLabel": "智能家居与感知",
+      "museumCategory": "smart-home",
+      "aliases": [
+        "Amazon Echo（初代）"
+      ],
+      "tags": [
+        "智能家居与感知",
+        "美国初代黑色圆柱；排除2017日本第二代"
+      ],
+      "summary": "用唤醒词与声音请求音乐、计时和信息，云端Alexa参与理解并回答。首代Echo把交互从屏幕移到房间，也让网络、服务和现场声音进入使用条件。",
+      "context": "Amazon的回顾将初代Echo放在2014年十一月，2015年六月开放公告说明此前的邀请销售与后来的公开订购。本文把这两个节点分开，不用公开订购日替换最初推出。它不是一台仅把音频放大的普通扬声器，麦克风和云端Alexa让人能用声音发起任务。与此同时，音乐内容、问题答案和服务功能仍有出处，机器不会因为摆在家中就独自拥有全部资料。与Nabaztag相比，Echo更突出由人口头提出请求，而不是先在网站设定后听到内容；两种日常入口需要分别解释。",
+      "design": "初代公告列七个麦克风与云端Alexa，形成声音输入、网络处理与扬声器输出之间的链。麦克风阵列承接房间里的声音，系统辨认请求，再通过声音给人反馈。没有屏幕并不意味着没有界面，唤醒、等待回应、表达请求与听取结果就是交互的可感部分。本文不从阵列数量推断任意距离和噪声下都能听清，也不把后来带屏Echo、生成式助手和新增协议列作2014初代能力。云端意味着能力有一部分位于物件之外，硬件外壳留下，服务仍可能改变。",
+      "usage": "使用者先建立对应网络与账户关系，把设备放到能够听见请求和回应的位置，再用唤醒词与口头请求表达任务。听到回答后，人判断是否符合意图，必要时改变说法或继续询问。音乐和信息功能又依赖相应内容与服务，不能只看扬声器开始发声就判断整个任务成立。本文描述原年代语音交互，不给出今天账户开通教程，也不承诺当代Alexa功能在初代上全部可用。房间中其他人的声音和正在播放的内容也参与环境，声音入口因此不是完全无条件的控制方式。",
+      "significance": "首代Echo的普通价值，是让一些信息与播放任务可以从口头请求开始。人在做别的动作时，可能不必先拿起屏幕，但仍要记住怎样表达、听完反馈并判断结果。与Speak & Spell比较，声音都是可触及的反馈方式，前者围绕本地学习内容，后者接入更大的远端服务；这一差别比简单说更智能更能解释依赖。与Hue并看，又能观察控制入口与实际输出设备如何配合。本文不推断家庭效率、儿童学习或陪伴效果，语音便利保留为具体动作的变化，而不是全面生活改善。",
+      "limitations": "两项资料来自Amazon同厂商，2015公告中用户赞誉属于厂家引述，未作为独立媒体意见。邀请销售、公开订购和后来的服务变化不合并成一个事件。七麦克风规格不是本轮识别测试结果，本文没有实机、隐私设置和当前服务验证；也不将2026助手能力倒推初代。网络、账户与内容资格可能影响任务，现售和支持状态未核，不能凭历史公告承诺持续可用。它作为展品说明声音、云端与房间之间的关系，旧机今天的软硬件条件需要另查，不由首发宣传替代真实体验。",
+      "features": [
+        "2014年十一月推出与邀请销售；2015公开订购另列。",
+        "七麦克风与云端Alexa的声音交互路线。",
+        "不移植带屏与当代生成式助手功能。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "初代2014年11月；2015公告记录邀请销售后开放，七麦克风与云端Alexa。",
+          "sourceIds": [
+            "HC150-S045",
+            "HC150-S046"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S045"
+      ],
+      "dateSourceIds": [
+        "HC150-S045"
+      ],
+      "sourceIds": [
+        "HC150-S045",
+        "HC150-S046"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S045",
+          "HC150-S046"
+        ],
+        "design": [
+          "HC150-S045",
+          "HC150-S046"
+        ],
+        "usage": [
+          "HC150-S045",
+          "HC150-S046"
+        ],
+        "significance": [
+          "HC150-S045",
+          "HC150-S046"
+        ],
+        "limitations": [
+          "HC150-S045",
+          "HC150-S046"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "speak-and-spell",
+        "philips-hue-2012",
+        "google-home-2016",
+        "violet-nabaztag-v1"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "speak-and-spell",
+        "philips-hue-2012",
+        "google-home-2016",
+        "violet-nabaztag-v1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "chineseCharactersInFiveSections": 891,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-04.json"
+    },
+    {
+      "id": "146",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "vorwerk-thermomix-tm5",
+      "name": "Thermomix TM5",
+      "brand": "Vorwerk",
+      "year": 2014,
+      "dateLabel": "2014-09市场推出",
+      "dateKind": "launch",
+      "regionVersion": "2014 TM5；不套TM6/TM7或后来的Cook-Key",
+      "category": "kitchen",
+      "categoryLabel": "厨房电器",
+      "museumCategory": "kitchen",
+      "aliases": [
+        "Vorwerk Thermomix TM5"
+      ],
+      "tags": [
+        "厨房电器",
+        "2014 TM5；不套TM6/TM7或后来的Cook-Key"
+      ],
+      "summary": "以触屏和食谱芯片把食物处理组织成分步骤过程。TM5让厨房机器的动力与加热围绕配方配合，人仍要准备材料、装取并理解每一步。",
+      "context": "Vorwerk的2014年年报将Thermomix TM5市场推出列为同年九月，明确触摸屏、食谱芯片和步骤引导。本件使用市场推出事件，后续Cook-Key联网路线另作后续，不把它当首发配置。与早期搅拌机相比，TM5不仅让人选择工具动作，也把一段配方的顺序带到机身界面。机器与食谱的关系更紧，但配方不会自己把食材搬到容器里。它适合用普通烹饪过程来解释：人按当前步骤准备，机器执行相应处理，再由人接手下一项，而不是把智能厨房写成无人厨房。",
+      "design": "触屏提供正在做什么和下一步要求的入口，食谱芯片承接内容，机体承担实际食物处理。三者分别是表达、资料与动作，组合后形成围绕配方的工作关系。引导可以让设定跟随步骤，但人仍要知道放入的是什么材料，屏幕上出现一项要求并不代表机器已确认所有条件。本文不罗列未经原手册核准的每一项电机与加热参数，也不以系列现售菜谱库充当2014芯片内容。后续联网配件的存在还提示，离线载体与在线内容是不同的产品历程节点，不能只用今天体验描述首代。",
+      "usage": "使用者选择对应食谱与步骤，准备材料，在机器要求的环节装入或取出，确认后让机体执行该段处理。下一步可能仍需要人的称量、切配或摆放，屏幕帮助安排顺序，却不替代材料实际存在。做完之后，容器和接触食物的部件还要清理，为下一道或下一次使用准备。本文概括年报明确的引导过程，不提供烹饪温度、刀组拆装和安全操作教程。配方引导的便利主要来自顺序和设定的衔接，使用者仍要判断材料、结果与自己想做的饭菜是否一致。",
+      "significance": "TM5的普通价值，是把机器控制与食谱阅读放到同一个使用位置。人不必在纸面步骤和机身设定之间反复转换所有信息，但任务变成沿屏幕提示逐步完成，选择自由与程序顺序也需要平衡。与H-5和A700对照，可观察电机从承担重复动作到参与配方引导之间增加了什么；与EC-36对照，又能看到固定任务与多步骤内容的差别。本文不把步骤引导等同于更好吃或人人会烹饪，也不推断节省时间。它展示内容、控制与材料怎样在厨房相接，人的准备和收尾仍清楚可见。",
+      "limitations": "年报与产品历史来自同厂商，年报中的媒体赞誉仅为转述，本文没有把它登记为独立评价。九月市场推出不等于每个地区同日交付，食谱芯片内容和地区版本仍需对应资料。首发TM5与后来Cook-Key分开，当前在线服务、库存和支持寿命不猜。本轮未读完整操作手册，也没有烹饪与清洗实测，因此不量化速度、口感和能耗。存世机的容器、刀组与控制版本可能不同，文字可以解释配方引导和人的分工，实际操作仍需匹配说明与机器检查，不凭触屏存在推断全部烹饪能力。",
+      "features": [
+        "2014年九月市场推出。",
+        "触屏与食谱芯片提供分步骤引导。",
+        "后续Cook-Key联网另列，不写成首发配置。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "触屏与配方芯片提供分步骤操作；2014年9月推出。",
+          "sourceIds": [
+            "HC150-S061",
+            "HC150-S062"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S061"
+      ],
+      "dateSourceIds": [
+        "HC150-S061"
+      ],
+      "sourceIds": [
+        "HC150-S061",
+        "HC150-S062"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S061",
+          "HC150-S062"
+        ],
+        "design": [
+          "HC150-S061",
+          "HC150-S062"
+        ],
+        "usage": [
+          "HC150-S061",
+          "HC150-S062"
+        ],
+        "significance": [
+          "HC150-S061",
+          "HC150-S062"
+        ],
+        "limitations": [
+          "HC150-S061",
+          "HC150-S062"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "kitchenaid-h5",
+        "kenwood-chef-a700",
+        "national-ec36"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "kitchenaid-h5",
+        "kenwood-chef-a700",
+        "national-ec36"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "仅陈述来源支持的该版本；不把计划、后续固件或地区版互套。"
+      ],
+      "chineseCharactersInFiveSections": 905,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-04.json"
+    },
+    {
+      "id": "147",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "google-home-2016",
+      "name": "Google Home（初代）",
+      "brand": "Google",
+      "year": 2016,
+      "dateLabel": "2016-10-04公布并预订；11月供货计划",
+      "dateKind": "announcement",
+      "regionVersion": "美国首代；排除HomeMini/NestAudio",
+      "category": "smart-home",
+      "categoryLabel": "智能家居与感知",
+      "museumCategory": "smart-home",
+      "aliases": [
+        "Google Google Home（初代）"
+      ],
+      "tags": [
+        "智能家居与感知",
+        "美国首代；排除HomeMini/NestAudio"
+      ],
+      "summary": "通过口头请求获得音乐、答案和相容设备控制。初代Google Home把Assistant放进房间里的扬声器，也让服务、账户和连接关系决定一项请求能否完成。",
+      "context": "Google于2016年10月4日公布初代Home并开放预订，十一月供货是同稿计划，本件保留两种事件的区别。同期生态说明把它与Google Assistant联系起来，提供音乐、问题与相容温控照明的口头入口。与Echo并看，二者都把声音交互放在房间中，但内容与账户体系需要分别理解，不能因为动作相似就认为服务完全相同。与普通扬声器相比，Home多了一条从人提出任务到远端服务回应的关系；也正因此，一件硬件的存在不足以保证所有请求都能被理解和执行。",
+      "design": "声音输入与扬声器输出围绕Assistant组成界面，唤醒词让人开始请求，回答或播放再使结果回到房间。原公告中的温控与照明能力依赖相容设备，而不是Home自身产生全部环境变化。设计的分工因此分布在几处：主机接收请求，服务参与处理，另一设备执行实际动作，人听取或查看结果。本文不将后来Home、Nest Audio或当代助手的全部能力并入2016初代，也不靠今天产品外观描述首发。没有屏幕只改变表达方式，任务状态和人的判断仍然存在。",
+      "usage": "使用者准备对应网络、账户和内容关系后，用原年代的唤醒词发起请求，再听取回应。要控制灯光或温控，还需要把相容设备放在能够协作的连接体系中，不能仅口头说出设备名称就自然成立。一次操作常包括表达、等待、核对和必要时重新说法，声音也受周围人和正在播放内容影响。本文描述公告支持的任务关系，不提供2026账户配置教程，不假定当前地区服务和语言仍与2016相同。音乐、答案和控制各有条件，便利应按具体请求理解。",
+      "significance": "Google Home的普通价值是让一项任务可以从说话开始，省去其中某些屏幕动作。但人仍要想清楚问题、听完整反馈，并知道是否影响了预期设备。与Nabaztag的预设信息输出比较，主动请求与被动收到提示承担不同日常用途；与Hue比较，语音入口与灯光执行又必须通过连接配合。这样的比较不需要给平台排高低，也不把用户多寡当体验结论。它展示通用服务如何进入一件房间物件，并让观众理解云端能力与可触及硬件之间的分工，控制的方便始终有系统条件。",
+      "limitations": "原公告支持公布、预订与供货计划，未由该计划独立确认所有市场实际销售；本件年代不改全球首售。两份资料来自Google同厂商，没有本轮独立语音识别和长期使用试验，本文不保证任意噪声下可用。温控照明依赖相容产品，不可转成Home自身具有相应传感与执行功能。软件与远端服务随时代变化，本轮仅保留2016范围，不承诺2026所有原功能仍工作，也不猜库存或终止日期。旧机、账户和地区条件需要另核，文字说明交互过程，不以官方愿景代替具体体验。",
+      "features": [
+        "2016-10-04公布并预订；十一月供货为计划。",
+        "Assistant声音请求、音乐与信息。",
+        "温控照明需要相容设备，不是机身独自执行。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "公告列OkGoogle音乐/问题/温控照明；2016-10-04预订。",
+          "sourceIds": [
+            "HC150-S047",
+            "HC150-S048"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S047"
+      ],
+      "dateSourceIds": [
+        "HC150-S047"
+      ],
+      "sourceIds": [
+        "HC150-S047",
+        "HC150-S048"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S047",
+          "HC150-S048"
+        ],
+        "design": [
+          "HC150-S047",
+          "HC150-S048"
+        ],
+        "usage": [
+          "HC150-S047",
+          "HC150-S048"
+        ],
+        "significance": [
+          "HC150-S047",
+          "HC150-S048"
+        ],
+        "limitations": [
+          "HC150-S047",
+          "HC150-S048"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "amazon-echo-1",
+        "philips-hue-2012",
+        "violet-nabaztag-v1"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "amazon-echo-1",
+        "philips-hue-2012",
+        "violet-nabaztag-v1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "chineseCharactersInFiveSections": 869,
+      "awards": [],
+      "deliveryPacket": "complete-wave-home-04.json"
+    },
+    {
+      "id": "148",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "slug": "sony-aibo-ers-1000",
+      "name": "aibo ERS-1000",
+      "brand": "Sony",
+      "year": 2018,
+      "dateLabel": "2018-01-11（日本实际开始销售；2018-05-07原厂事后确认）",
+      "dateKind": "launch",
+      "regionVersion": "日本2018第二轮aibo产品；排除1999 ERS-110与后续地区服务版本",
+      "category": "robotics",
+      "categoryLabel": "机器人与陪伴",
+      "museumCategory": "robotics",
+      "aliases": [
+        "Sony aibo ERS-1000"
+      ],
+      "tags": [
+        "机器人与陪伴",
+        "日本2018第二轮aibo产品；排除1999 ERS-110与后续地区服务版本"
+      ],
+      "summary": "以关节、OLED眼睛和感知系统形成四足机器人的回应，云端服务参与行为变化。ERS-1000把互动娱乐与账户服务相接，人需要照看空间、连接与电源。",
+      "context": "Sony在2017年11月1日公布ERS-1000，2018年五月事后公告确认日本于同年1月11日实际开始销售。本件因此以2018实际销售作年代锚，公告保留此前事件，排除1999 ERS-110的时间。它延续娱乐机器人的四足表达，但感知、显示与云端服务形成另一套结构。人的普通使用任务不是请它割草或清扫，而是观察、发起互动和照看一件能移动的机器。厂商所谓形成感情纽带属于产品愿景，本文只解释能核的输入、动作与服务，不把愿景当家庭情感效果研究。",
+      "design": "同期公告列二十二个活动轴和两只OLED眼，声音、影像与触摸感知参与响应。关节让身体移动，眼部显示让表情成为可变化的输出，触摸与声音又为人提供输入方式。这些部件共同形成可辨认行为，但不意味着机器拥有真实动物的感觉。公告还写明云端及Basic Plan依赖，硬件、网络与服务共同支撑部分能力。本文保留2017发布时功能范围，不把后来动作包与服务升级列为首发，也不把品牌对自然动作的描述转换为独立测出的交互质量。",
+      "usage": "使用者为机器人安排活动空间、供电与对应连接，再以声音或触摸等方式互动，并从动作和显示判断回应。电池耗用与充电台使照看成为日常过程的一部分，机器自动活动也需要人留意周围物件。涉及云端的能力还需要相应账户和服务关系，不能把机身可以买到就理解为所有功能永久随物件存在。本文概括公告明确的任务，不提供当代注册、触摸训练与充电操作教程。互动怎样持续，由人的期待、机器状态和服务条件共同决定，不是按下开关就必然形成陪伴。",
+      "significance": "ERS-1000的普通价值在于把可动身体、显示和感知组成一个互动入口。与ERS-110比较，可以观察显示眼和云端怎样进入后来的产品，不用把新能力简单写成全部更自然。与家务机器人对照，又能区分效率任务与互动任务的评价：前者处理地面或草坪，后者让观察和回应成为使用本身。设计访谈对外形与动作的解释提供创作者视角，不能代替家庭长期体验。本文不推断治疗、教育或情感替代效果，而让机械动作与人的解释在同一物件上可见。",
+      "limitations": "2018年1月11日是日本实际开始销售，不能推作全球日期。2017公告中的服务与附件不少以计划表述，本文不把后续所有实现情况默认成立。Good Design官方清单支持2018金奖但不是大奖；动态单项数据库只返回标题壳，未用它补参数。设计访谈与厂商公告都不是独立使用试验，本轮也没有实机和当前服务核查。Basic Plan与云端是当时明确条件，不承诺2026仍以相同方式收费或提供。旧机的电池、关节和账户状态另需核，展示说明原结构与互动，不保证当代持续可用性。",
+      "features": [
+        "2018-01-11日本实际销售，2017公告另列。",
+        "22活动轴、双OLED眼及声音影像触摸输入。",
+        "原公告Basic Plan与云端依赖；不推情感或疗效。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "2018-01-11（日本实际开始销售；2018-05-07原厂事后确认）",
+          "sourceIds": [
+            "L150-S001"
+          ]
+        },
+        {
+          "label": "关节与显示",
+          "value": "22活动轴，双OLED眼；2017公告参数",
+          "sourceIds": [
+            "L:AMA01"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "L:AMA01",
+        "L150-S001"
+      ],
+      "dateSourceIds": [
+        "L150-S001"
+      ],
+      "sourceIds": [
+        "L:AMA01",
+        "L:AMA02",
+        "L:AMA03",
+        "L:AMA04",
+        "L150-S001"
+      ],
+      "paragraphSources": {
+        "context": [
+          "L:AMA01",
+          "L:AMA02",
+          "L:AMA03",
+          "L:AMA04",
+          "L150-S001"
+        ],
+        "design": [
+          "L:AMA01",
+          "L:AMA02",
+          "L:AMA03",
+          "L:AMA04",
+          "L150-S001"
+        ],
+        "usage": [
+          "L:AMA01",
+          "L:AMA02",
+          "L:AMA03",
+          "L:AMA04",
+          "L150-S001"
+        ],
+        "significance": [
+          "L:AMA01",
+          "L:AMA02",
+          "L:AMA03",
+          "L:AMA04",
+          "L150-S001"
+        ],
+        "limitations": [
+          "L:AMA01",
+          "L:AMA02",
+          "L:AMA03",
+          "L:AMA04",
+          "L150-S001"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "sony-aibo-ers110"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "sony-aibo-ers110"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "补日本软件服务条件、维护说明与用户评论；不要推导陪伴能替代医疗或照护。",
+        "单项数据库的获奖编号与精确型号字段待取得可读文本。"
+      ],
+      "chineseCharactersInFiveSections": 873,
+      "awards": [
+        {
+          "name": "Good Design Award",
+          "year": 2018,
+          "level": "Gold Award（金奖）",
+          "model": "aibo ERS-1000",
+          "sourceIds": [
+            "L:AMA02",
+            "L:AMA01"
+          ],
+          "limits": "官方2018清单为金奖，不是Grand Award；单项动态壳未作等级证据。"
+        }
+      ],
+      "deliveryPacket": "complete-wave-home-04.json"
+    }
+  ],
+  "sources": [
+    {
+      "id": "CWH-S005",
+      "title": "End of support for Nest Learning Thermostats (1st and 2nd gen)",
+      "publisher": "Google Home and Nest Help",
+      "url": "https://support.google.com/googlehome/answer/16233096?hl=en-EE",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-support-end-notice",
+      "verifiedScope": "2011初代自2025-10-25停止应用与远端/云端功能、停止软件和安全更新；仍可在机身控制与使用已有计划。",
+      "verificationMethod": "web.open完整支持正文，重点19—36行。",
+      "limits": "支持结束不等于硬件停止工作，不是停产或停售日期；未自主测试存世机。",
+      "independence": "Google原支持说明；与Nest公告同品牌，不是独立体验。",
+      "commercialDisclosure": "官方支持页附更换优惠；本文不采购买建议。",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2011初代自2025-10-25停止应用与远端/云端功能、停止软件和安全更新；仍可在机身控制与使用已有计划。",
+          "verificationMethod": "web.open完整支持正文，重点19—36行。",
+          "limits": "支持结束不等于硬件停止工作，不是停产或停售日期；未自主测试存世机。",
+          "independence": "Google原支持说明；与Nest公告同品牌，不是独立体验。",
+          "commercialDisclosure": "官方支持页附更换优惠；本文不采购买建议。",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "2011初代自2025-10-25停止应用与远端/云端功能、停止软件和安全更新；仍可在机身控制与使用已有计划。",
+      "verification": "web.open完整支持正文，重点19—36行。；支持结束不等于硬件停止工作，不是停产或停售日期；未自主测试存世机。"
+    },
+    {
+      "id": "HC150-S039",
+      "title": "Perkins Overview",
+      "publisher": "Perkins School for the Blind",
+      "url": "https://brailler.perkins.org/pages/perkins-overview",
+      "checkedOn": "2026-10-11",
+      "sourceType": "制造机构历史",
+      "verifiedScope": "SMART Brailler2012与部门历史",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同机构制造方",
+      "commercialDisclosure": "机构商店页面",
+      "originalId": "HC150-S039",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "SMART Brailler2012与部门历史",
+          "verificationMethod": "正文",
+          "limits": "核正文相关段落；未做实物和社会效果测试。",
+          "independence": "同机构制造方",
+          "commercialDisclosure": "机构商店页面",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "SMART Brailler2012与部门历史",
+      "verification": "正文；核正文相关段落；未做实物和社会效果测试。"
+    },
+    {
+      "id": "HC150-S040",
+      "title": "Evolution of the brailler",
+      "publisher": "Perkins School for the Blind",
+      "url": "https://www.perkins.org/how-the-evolution-of-the-brailler-expanded-braille-literacy/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "制造机构产品功能史",
+      "verifiedScope": "2012 SMART及音频/屏幕；不以Classic累积数量作SMART销量",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同机构",
+      "commercialDisclosure": "机构推广；未核到独立教学效果",
+      "originalId": "HC150-S040",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2012 SMART及音频/屏幕；不以Classic累积数量作SMART销量",
+          "verificationMethod": "正文",
+          "limits": "核正文相关段落；未做实物和社会效果测试。",
+          "independence": "同机构",
+          "commercialDisclosure": "机构推广；未核到独立教学效果",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "2012 SMART及音频/屏幕；不以Classic累积数量作SMART销量",
+      "verification": "正文；核正文相关段落；未做实物和社会效果测试。"
+    },
+    {
+      "id": "HC150-S041",
+      "title": "Nest Learning Thermostat 2011",
+      "publisher": "MoMA",
+      "url": "https://www.moma.org/collection/works/292756",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型档案",
+      "verifiedScope": "2011型号、塑料电子、馆藏号1282.2018",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "不同机构",
+      "commercialDisclosure": "馆藏页含DesignStore",
+      "originalId": "HC150-S041",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2011型号、塑料电子、馆藏号1282.2018",
+          "verificationMethod": "正文相关段落",
+          "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+          "independence": "不同机构",
+          "commercialDisclosure": "馆藏页含DesignStore",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "2011型号、塑料电子、馆藏号1282.2018",
+      "verification": "正文相关段落；没有实机、服务持续可用性、群体效果或图权验证。"
+    },
+    {
+      "id": "HC150-S042",
+      "title": "Next generation thermostat 2012",
+      "publisher": "Nest／Google",
+      "url": "https://blog.google/products-and-platforms/products/nest/next-generation-nest-thermostat/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂后续公告",
+      "verifiedScope": "初代上市不到一年、2012仍在售及初代二代结构差异",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "原厂",
+      "commercialDisclosure": "商业公告",
+      "originalId": "HC150-S042",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "初代上市不到一年、2012仍在售及初代二代结构差异",
+          "verificationMethod": "正文相关段落",
+          "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+          "independence": "原厂",
+          "commercialDisclosure": "商业公告",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "初代上市不到一年、2012仍在售及初代二代结构差异",
+      "verification": "正文相关段落；没有实机、服务持续可用性、群体效果或图权验证。"
+    },
+    {
+      "id": "HC150-S043",
+      "title": "Introducing Philips hue 2012",
+      "publisher": "Philips／Signify档案",
+      "url": "https://www.signify.com/global/our-company/news/press-release-archive/2012/20121029-introducing-philips-hue",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "日期、初代套装、600流明、Bridge",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业公告",
+      "originalId": "HC150-S043",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "日期、初代套装、600流明、Bridge",
+          "verificationMethod": "正文相关段落",
+          "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+          "independence": "同厂商",
+          "commercialDisclosure": "商业公告",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "日期、初代套装、600流明、Bridge",
+      "verification": "正文相关段落；没有实机、服务持续可用性、群体效果或图权验证。"
+    },
+    {
+      "id": "HC150-S044",
+      "title": "Hue factsheet 2012",
+      "publisher": "Philips／Signify档案",
+      "url": "https://www.signify.com/ja-jp/our-company/news/press-release-archive/2012/121029-hue-factsheet",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期功能补充",
+      "verifiedScope": "场景保存、定时与iOS/Android要求；日文材料不证明日本开售",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业公告",
+      "originalId": "HC150-S044",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "场景保存、定时与iOS/Android要求；日文材料不证明日本开售",
+          "verificationMethod": "正文相关段落",
+          "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+          "independence": "同厂商",
+          "commercialDisclosure": "商业公告",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "场景保存、定时与iOS/Android要求；日文材料不证明日本开售",
+      "verification": "正文相关段落；没有实机、服务持续可用性、群体效果或图权验证。"
+    },
+    {
+      "id": "HC150-S045",
+      "title": "Alexa what's the latest",
+      "publisher": "Amazon",
+      "url": "https://www.aboutamazon.com/news/devices/alexa-whats-the-latest",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂回顾",
+      "verifiedScope": "首代Echo2014年11月及TTS历史",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传",
+      "originalId": "HC150-S045",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "首代Echo2014年11月及TTS历史",
+          "verificationMethod": "正文相关段落",
+          "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+          "independence": "同厂商",
+          "commercialDisclosure": "品牌宣传",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "首代Echo2014年11月及TTS历史",
+      "verification": "正文相关段落；没有实机、服务持续可用性、群体效果或图权验证。"
+    },
+    {
+      "id": "HC150-S046",
+      "title": "Echo available to all customers 2015",
+      "publisher": "Amazon",
+      "url": "https://press.aboutamazon.com/2015/6/amazon-echo-now-available-to-all-customers",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "邀请销售、初代七麦克风/云端、2015公开订购",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业公告；用户好评引述不作独立评测",
+      "originalId": "HC150-S046",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "邀请销售、初代七麦克风/云端、2015公开订购",
+          "verificationMethod": "正文相关段落",
+          "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+          "independence": "同厂商",
+          "commercialDisclosure": "商业公告；用户好评引述不作独立评测",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "邀请销售、初代七麦克风/云端、2015公开订购",
+      "verification": "正文相关段落；没有实机、服务持续可用性、群体效果或图权验证。"
+    },
+    {
+      "id": "HC150-S047",
+      "title": "Make yourself at home",
+      "publisher": "Google",
+      "url": "https://blog.google/products-and-platforms/products/home/make-yourself-home-google-home/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "公布/预订、功能与供货计划",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业公告",
+      "originalId": "HC150-S047",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "公布/预订、功能与供货计划",
+          "verificationMethod": "正文相关段落",
+          "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+          "independence": "同厂商",
+          "commercialDisclosure": "商业公告",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "公布/预订、功能与供货计划",
+      "verification": "正文相关段落；没有实机、服务持续可用性、群体效果或图权验证。"
+    },
+    {
+      "id": "HC150-S048",
+      "title": "Google Assistant is here",
+      "publisher": "Google",
+      "url": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/2016-google-assistant-en/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期生态说明",
+      "verifiedScope": "初代Home语音Assistant定位",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌公告",
+      "originalId": "HC150-S048",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "初代Home语音Assistant定位",
+          "verificationMethod": "正文相关段落",
+          "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+          "independence": "同厂商",
+          "commercialDisclosure": "品牌公告",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "初代Home语音Assistant定位",
+      "verification": "正文相关段落；没有实机、服务持续可用性、群体效果或图权验证。"
+    },
+    {
+      "id": "HC150-S049",
+      "title": "Nest Protect recall2014",
+      "publisher": "US CPSC",
+      "url": "https://www.cpsc.gov/Recalls/2014/Nest-Labs-Recalls-to-Repair-Nest-Protect-Smoke-CO-Alarms",
+      "checkedOn": "2026-10-11",
+      "sourceType": "监管原始召回记录",
+      "verifiedScope": "型号、销售起始、召回范围/修复；原机构索引取得完整相关描述",
+      "verificationMethod": "原机构索引；open返回(403) Forbidden",
+      "limits": "只核原机构检索返回；403限制正文重读。",
+      "independence": "不同监管机构",
+      "commercialDisclosure": "监管公告；open (403) Forbidden",
+      "originalId": "HC150-S049",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "型号、销售起始、召回范围/修复；原机构索引取得完整相关描述",
+          "verificationMethod": "原机构索引；open返回(403) Forbidden",
+          "limits": "只核原机构检索返回；403限制正文重读。",
+          "independence": "不同监管机构",
+          "commercialDisclosure": "监管公告；open (403) Forbidden",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "型号、销售起始、召回范围/修复；原机构索引取得完整相关描述",
+      "verification": "原机构索引；open返回(403) Forbidden；只核原机构检索返回；403限制正文重读。"
+    },
+    {
+      "id": "HC150-S050",
+      "title": "Meet Nest Protect",
+      "publisher": "Nest／Google",
+      "url": "https://blog.google/products-and-platforms/products/nest/meet-nest-protect-smoke-and-co-alarm/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "2013-10-08公布、声音/灯光/手机状态设计",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "原厂",
+      "commercialDisclosure": "商业公告",
+      "originalId": "HC150-S050",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2013-10-08公布、声音/灯光/手机状态设计",
+          "verificationMethod": "正文相关段落",
+          "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+          "independence": "原厂",
+          "commercialDisclosure": "商业公告",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "2013-10-08公布、声音/灯光/手机状态设计",
+      "verification": "正文相关段落；没有实机、服务持续可用性、群体效果或图权验证。"
+    },
+    {
+      "id": "HC150-S061",
+      "title": "Thermomix TM5 September 2014 market introduction",
+      "publisher": "Vorwerk",
+      "url": "https://www.vorwerk-group.com/de/presse/publikationen/Vorwerk-Annual-Report-2014-Web-Version.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂年度报告",
+      "verifiedScope": "年报p14、17：2014年9月市场推出；触屏、食谱芯片、步骤引导",
+      "verificationMethod": "PDF正文相关页",
+      "limits": "年报中的媒体赞誉属转述，不列独立意见。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S061",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "年报p14、17：2014年9月市场推出；触屏、食谱芯片、步骤引导",
+          "verificationMethod": "PDF正文相关页",
+          "limits": "年报中的媒体赞誉属转述，不列独立意见。",
+          "independence": "同厂商",
+          "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "年报p14、17：2014年9月市场推出；触屏、食谱芯片、步骤引导",
+      "verification": "PDF正文相关页；年报中的媒体赞誉属转述，不列独立意见。"
+    },
+    {
+      "id": "HC150-S062",
+      "title": "Die Thermomix Erfolgsgeschichte",
+      "publisher": "Vorwerk",
+      "url": "https://www.vorwerk.com/de/de/c/home/rezepte-und-ideen/ideenreich/thermomix/lifestyle/die-thermomix-erfolgsgeschichte",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "TM5 2014；后续Cook-Key属另一步而非首发配置",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S062",
+      "sourceFile": "docs/expansion/research-150-home-comms.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "TM5 2014；后续Cook-Key属另一步而非首发配置",
+          "verificationMethod": "读取原站正文",
+          "limits": "未做实机或当前服务验证。",
+          "independence": "同厂商",
+          "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "TM5 2014；后续Cook-Key属另一步而非首发配置",
+      "verification": "读取原站正文；未做实机或当前服务验证。"
+    },
+    {
+      "id": "L150-S001",
+      "title": "aibo ERS-1000 2018 post-launch release",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/ja/SonyInfo/News/Press/201805/18-040/",
+      "publishedOn": "2018-05-07",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "明确ERS-1000及2018-01-11实际开始销售；不采用同稿销量与用户口碑宣传。",
+      "verificationMethod": "网页正文第148—153行",
+      "sourceType": "原厂事后公告",
+      "independence": "同Sony；不是独立使用研究",
+      "commercialDisclosure": "厂商宣传",
+      "limits": "仅确认该日本实际销售事件，不推全球日期、销量效果或实物状态。",
+      "originalId": "L150-S001",
+      "sourceFile": "docs/expansion/selection-150.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "明确ERS-1000及2018-01-11实际开始销售；不采用同稿销量与用户口碑宣传。",
+          "verificationMethod": "网页正文第148—153行",
+          "limits": "仅确认该日本实际销售事件，不推全球日期、销量效果或实物状态。",
+          "independence": "同Sony；不是独立使用研究",
+          "commercialDisclosure": "厂商宣传",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "明确ERS-1000及2018-01-11实际开始销售；不采用同稿销量与用户口碑宣传。",
+      "verification": "网页正文第148—153行；仅确认该日本实际销售事件，不推全球日期、销量效果或实物状态。"
+    },
+    {
+      "id": "L:AMA01",
+      "title": "Sony launches new aibo entertainment robot",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/News/Press/201711/17-105E/",
+      "publishedOn": "2017-11-01",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原始2017-11-01公告，ERS-1000与日本2018-01-11发售；不把ERS-110历史转作本件日期。 本轮重读2017公告正文，另核22轴、双OLED眼、声音影像与触摸感知、云端及Basic Plan依赖；均为当时公告范围。",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "web.open本轮重读正文147—230行；原公告服务计划和已实现销售分开。",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMA01",
+      "sourceFile": "docs/expansion/candidate-pool.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "原始2017-11-01公告，ERS-1000与日本2018-01-11发售；不把ERS-110历史转作本件日期。 本轮重读2017公告正文，另核22轴、双OLED眼、声音影像与触摸感知、云端及Basic Plan依赖；均为当时公告范围。",
+          "verificationMethod": "web.open本轮重读正文147—230行；原公告服务计划和已实现销售分开。",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "原始2017-11-01公告，ERS-1000与日本2018-01-11发售；不把ERS-110历史转作本件日期。 本轮重读2017公告正文，另核22轴、双OLED眼、声音影像与触摸感知、云端及Basic Plan依赖；均为当时公告范围。",
+      "verification": "web.open本轮重读正文147—230行；原公告服务计划和已实现销售分开。；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "id": "L:AMA02",
+      "title": "GOOD DESIGN EXHIBITION 2018 award list",
+      "publisher": "JDP / Good Design",
+      "url": "https://archive.g-mark.org/gde/2018/",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "官方2018展览清单明确aibo为金奖；大奖另为其他项目，不能写aibo大奖。",
+      "sourceType": "设计奖官方获奖展览清单",
+      "independence": "日本奖项主办方原始档案",
+      "commercialDisclosure": "奖项展示推广；具体参赛与费用未核实",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMA02",
+      "sourceFile": "docs/expansion/candidate-pool.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "官方2018展览清单明确aibo为金奖；大奖另为其他项目，不能写aibo大奖。",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "日本奖项主办方原始档案",
+          "commercialDisclosure": "奖项展示推广；具体参赛与费用未核实",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "官方2018展览清单明确aibo为金奖；大奖另为其他项目，不能写aibo大奖。",
+      "verification": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "id": "L:AMA03",
+      "title": "Entertainment robot — Good Design gallery",
+      "publisher": "JDP / Good Design",
+      "url": "https://www.g-mark.org/gallery/winners/9df096c4-803d-11ed-af7e-0242ac130002",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已尝试动态单项数据库；只读到标题壳，年份等级型号字段未呈现。",
+      "sourceType": "设计奖数据库动态详情受限",
+      "independence": "原数据库地址，非完整字段核验",
+      "commercialDisclosure": "未核实",
+      "verificationMethod": "地址或原机构索引/页面壳定位；正文或关键字段读取受限，详见verifiedScope",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMA03",
+      "sourceFile": "docs/expansion/candidate-pool.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "已尝试动态单项数据库；只读到标题壳，年份等级型号字段未呈现。",
+          "verificationMethod": "地址或原机构索引/页面壳定位；正文或关键字段读取受限，详见verifiedScope",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "原数据库地址，非完整字段核验",
+          "commercialDisclosure": "未核实",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "已尝试动态单项数据库；只读到标题壳，年份等级型号字段未呈现。",
+      "verification": "地址或原机构索引/页面壳定位；正文或关键字段读取受限，详见verifiedScope；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "id": "L:AMA04",
+      "title": "Focused Issues 2018: aibo design interview",
+      "publisher": "Good Design Journal",
+      "url": "https://journal.g-mark.org/en/posts/focusedissues2018_001",
+      "publishedOn": "2018-12-31",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "2018设计者访谈，说明外形与动作的关系；访谈者自述和编辑解释分开，不作使用疗效证明。",
+      "sourceType": "奖项机构设计访谈",
+      "independence": "主办方编辑采访品牌设计者；不是独立使用试验",
+      "commercialDisclosure": "奖项机构推广语境；单篇商业关系未核实",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMA04",
+      "sourceFile": "docs/expansion/candidate-pool.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2018设计者访谈，说明外形与动作的关系；访谈者自述和编辑解释分开，不作使用疗效证明。",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+          "independence": "主办方编辑采访品牌设计者；不是独立使用试验",
+          "commercialDisclosure": "奖项机构推广语境；单篇商业关系未核实",
+          "packet": "complete-wave-home-04.json"
+        }
+      ],
+      "supports": "2018设计者访谈，说明外形与动作的关系；访谈者自述和编辑解释分开，不作使用疗效证明。",
+      "verification": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    }
+  ],
+  "importInstructions": [
+    "按import-manifest.json顺序导入，先校验实际slug和ID，已导入旧14不重复。",
+    "本包关联仅指之前分包和本包；后续完成后可用累计总包补回关联。",
+    "正文保留来源与版本范围，空媒体文字回退；后续规划字段不作当前必填。"
+  ]
+}

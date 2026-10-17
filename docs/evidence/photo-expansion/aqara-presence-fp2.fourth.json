@@ -1,0 +1,180 @@
+{
+  "slug": "aqara-presence-fp2",
+  "name": "Presence Sensor FP2",
+  "regionVersion": "全球FP2 WiFi USB供电；排除FP1/FP300/FP400",
+  "query": "\"Presence\" AND \"Sensor\" AND \"FP2\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Characterizing the effects of convection on the afternoon-to-evening boundary layer transition during PECAN 2015 (IA characterizingef1094551685).pdf",
+      "pageid": 92274741,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Characterizing_the_effects_of_convection_on_the_afternoon-to-evening_boundary_layer_transition_during_PECAN_2015_(IA_characterizingef1094551685).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Characterizing_the_effects_of_convection_on_the_afternoon-to-evening_boundary_layer_transition_during_PECAN_2015_%28IA_characterizingef1094551685%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Characterizing_the_effects_of_convection_on_the_afternoon-to-evening_boundary_layer_transition_during_PECAN_2015_%28IA_characterizingef1094551685%29.pdf/page1-960px-Characterizing_the_effects_of_convection_on_the_afternoon-to-evening_boundary_layer_transition_during_PECAN_2015_%28IA_characterizingef1094551685%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-07-15 15:04:27",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nCharacterizing the effects of convection on the afternoon-to-evening boundary layer transition during PECAN 2015</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD US Government|FEDLINK - United States Federal Collection|Academic theses and dissertations of the Naval Postgraduate School|Documents from the US Naval Postgraduate School Library|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nEberle, Geoffry R.</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<p>The Great Plains exhibits a widely known characteristic transition in the atmospheric boundary layer, from a daytime unstable boundary layer to a nocturnal stable boundary layer near sunset. There remains much to learn about this process through observational data. Impacts of convective weather prior to and during this transitional period is one of the lesser understood subjects. During the Plains Elevated Convection at Night (PECAN) field campaign from June 1 to July 15, 2015, extensive measurements of near surface thermodynamic variables, wind speed and direction, turbulence and scalar perturbations were made outside the city of Greensburg, Kansas. These measurements were made on three towers: a 16-m flux tower, 6-m flux tripod, and a 3-m scaler tripod, giving 17 levels of measurement from 25 cm below the surface to 16 m above. To supplement the tower-based measurements, a Leosphere Doppler LIDAR and a sonic detection and ranging (SODAR) device were used to obtain vertical profiles of mean wind and turbulence up to approximately 250 m and 6000 m, respectively. The primary focus of this thesis is to characterize the transitional period with the presence of convective events. This thesis also used the observed surface fluxes to evaluate the fluxes calculated from the bulk parameterization scheme. The surface layer stability functions in the Coupled Air Ocean Response Experiment (COARE) surface flux algorithm will be used. The surface roughness used in the Navy's Coupled Ocean/Atmosphere Mesoscale Prediction System (COAMPS) model will also be examined.\n</p>\n<br>Subjects: boundary layer transition afternoon-to-evening transition; field campaign PECAN 2015; convective boundary layer decay; multi-platform surface fluxes COARE COAMPS</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/characterizingef1094551685\" class=\"extiw\" title=\"iarchive:characterizingef1094551685\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: characterizingef1094551685</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/characterizingef1094551685/characterizingef1094551685.pdf\">https://archive.org/download/characterizingef1094551685/characterizingef1094551685.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "This publication is a work of the U.S. Government as defined in Title 17, United States Code, Section 101. Copyright protection is not available for this work in the United States.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The Great Plains exhibits a widely known characteristic transition in the atmospheric boundary layer, from a daytime unstable boundary layer to a nocturnal stable boundary layer near sunset. There remains much to learn about this process through observational data. Impacts of convective weather prior to and during this transitional period is one of the lesser understood subjects. During the Plains Elevated Convection at Night (PECAN) field campaign from June 1 to July 15, 2015, extensive measurements of near surface thermodynamic variables, wind speed and direction, turbulence and scalar perturbations were made outside the city of Greensburg, Kansas. These measurements were made on three towers: a 16-m flux tower, 6-m flux tripod, and a 3-m scaler tripod, giving 17 levels of measurement from 25 cm below the surface to 16 m above. To supplement the tower-based measurements, a Leosphere Doppler LIDAR and a sonic detection and ranging (SODAR) device were used to obtain vertical profiles of mean wind and turbulence up to approximately 250 m and 6000 m, respectively. The primary focus of this thesis is to characterize the transitional period with the presence of convective events. This thesis also used the observed surface fluxes to evaluate the fluxes calculated from the bulk parameterization scheme. The surface layer stability functions in the Coupled Air Ocean Response Experiment (COARE) surface flux algorithm will be used. The surface roughness used in the Navy's Coupled Ocean/Atmosphere Mesoscale Prediction System (COAMPS) model will also be examined.\n \n Subjects: boundary layer transition afternoon-to-evening transition; field campaign PECAN 2015; convective boundary layer decay; multi-platform surface fluxes COARE COAMPS",
+      "artist": "Eberle, Geoffry R.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:Hydrothermally synthesized PZT film grown in highly concentrated KOH solution with large electromechanical coupling coefficient for resonator.pdf",
+      "pageid": 149378369,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hydrothermally_synthesized_PZT_film_grown_in_highly_concentrated_KOH_solution_with_large_electromechanical_coupling_coefficient_for_resonator.pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Hydrothermally_synthesized_PZT_film_grown_in_highly_concentrated_KOH_solution_with_large_electromechanical_coupling_coefficient_for_resonator.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Hydrothermally_synthesized_PZT_film_grown_in_highly_concentrated_KOH_solution_with_large_electromechanical_coupling_coefficient_for_resonator.pdf/page1-960px-Hydrothermally_synthesized_PZT_film_grown_in_highly_concentrated_KOH_solution_with_large_electromechanical_coupling_coefficient_for_resonator.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-06-14 14:30:07",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Hydrothermally synthesized PZT film grown in highly concentrated KOH solution with large electromechanical coupling coefficient for resonator",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Files from PubMed Central uploaded by DaxBot|Files from Royal Society Open Science uploaded by DaxBot|Uploaded by DaxBot needing category review|Research articles|PDF files from the United Kingdom|Royal Society Open Science Journal Volume 4 Issue 12|English-language PDF files",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Feng, Guo-Hua; Lee, Kuan-Yi (2017). <a rel=\"nofollow\" class=\"external text\" href=\"https://royalsocietypublishing.org/doi/10.1098/rsos.171363\">\"Hydrothermally synthesized PZT film grown in highly concentrated KOH solution with large electromechanical coupling coefficient for resonator\"</a>. <i>Royal Society Open Science</i>. <b>4</b> (12): 171363. <a href=\"https://en.wikipedia.org/wiki/Doi_(identifier)\" class=\"extiw\" title=\"en:Doi (identifier)\">doi</a>:<a href=\"//doi.org/10.1098/rsos.171363\" class=\"extiw\" title=\"doi:10.1098/rsos.171363\">10.1098/rsos.171363</a>. <a href=\"https://en.wikipedia.org/wiki/ISSN_(identifier)\" class=\"extiw\" title=\"en:ISSN (identifier)\">ISSN</a> <a href=\"https://www.worldcat.org/issn/2054-5703\" class=\"extiw\" title=\"issn:2054-5703\">2054-5703</a>. <a href=\"https://en.wikipedia.org/wiki/PMC_(identifier)\" class=\"extiw\" title=\"en:PMC (identifier)\">PMC</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5750027\">5750027</a>. <a href=\"https://en.wikipedia.org/wiki/PMID_(identifier)\" class=\"extiw\" title=\"en:PMID (identifier)\">PMID</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://pubmed.ncbi.nlm.nih.gov/29308260\">29308260</a>. (<a rel=\"nofollow\" class=\"external text\" href=\"https://crossmark.crossref.org/dialog/?doi=10.1098/rsos.171363&amp;domain=pdf\">Check for updates</a>)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2017-12-20",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.1098/rsos.171363\">https://doi.org/10.1098/rsos.171363</a> via PubMed Central FTP",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Feng, Guo-Hua; Lee, Kuan-Yi",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Feng, Guo-Hua; Lee, Kuan-Yi (2017).  \"Hydrothermally synthesized PZT film grown in highly concentrated KOH solution with large electromechanical coupling coefficient for resonator\" .  Royal Society Open Science .  4  (12): 171363.  doi : 10.1098/rsos.171363 .  ISSN   2054-5703 .  PMC   5750027 .  PMID   29308260 . ( Check for updates )",
+      "artist": "Feng, Guo-Hua; Lee, Kuan-Yi",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "date": "2017-12-20"
+    }
+  ]
+}

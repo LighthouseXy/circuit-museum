@@ -1,0 +1,51 @@
+{
+  "status": "pending-content-verification",
+  "candidates": [
+    {
+      "id": "VIDEO-CANDIDATE-STEAMDECK-LCD-GEEKERWAN-2022",
+      "title": "Steam Deck深度评测：史上最强掌机到底有多强？",
+      "author": "极客湾Geekerwan",
+      "url": "https://www.bilibili.com/video/BV1Fv4y1g7Cc/",
+      "publicationDateReported": "2022-06-18 00:39:38",
+      "correspondingOfficialYouTubeUrlReported": "https://www.youtube.com/watch?v=xl2DrEJG7bE",
+      "correspondingYouTubeDateReported": "2022-06-17",
+      "versionScope": "2022 LCD; transcript describes replacement PM991A1TB SSD and SteamOS3.2; initial storage tier unconfirmed; do not generalize to OLED or2026 firmware",
+      "evidenceOrigin": "Original implementation chat relayed indexed metadata on 2026-10-11; not independently verified in this turn",
+      "readDepth": "Complete exported zh-CN transcript0:00–36:49 and expanded release description read; no full audiovisual viewing or repeated tests. Bilibili original still412.",
+      "commercialDisclosure": "End segment36:44 promotes creator merchandise shop; sample source/payment and third-party sponsorship unverified.",
+      "adoptedConclusions": [
+        "Attributed personal praise and shortcomings only, with timestamps in VIDEO-S001; no population claim or historical impact inference."
+      ],
+      "nextVerification": [
+        "Verify original author and release metadata",
+        "Read video content or authenticated transcript with timestamps",
+        "Record tested LCD hardware and software conditions",
+        "Record stated loan/sponsorship/affiliate conditions or mark unverified",
+        "Only then draft attributed observations; views do not prove historical importance"
+      ],
+      "productionImportAuthorized": false,
+      "status": "official-youtube-transcript-and-release-page-read",
+      "verifiedOn": "2026-10-13",
+      "publicationDateYouTubeVerified": "2022-06-17",
+      "authorYouTubeVerified": "极客湾Geekerwan",
+      "verificationAttempts": [
+        {
+          "date": "2026-10-13",
+          "method": "web Bilibili original",
+          "result": "412"
+        },
+        {
+          "date": "2026-10-13",
+          "method": "web YouTube",
+          "result": "timeout"
+        },
+        {
+          "date": "2026-10-13",
+          "method": "in-app browser official YouTube page + transcript export",
+          "result": "published2022-06-17, official named channel, full zh-CN transcript read"
+        }
+      ],
+      "licensePageObservation": "YouTube expanded description shows Creative Commons Attribution; no video download, reuse or derivative licence decision made."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "slug": "western-electric-500",
+  "name": "Model 500",
+  "regionVersion": "美国Bell System旋转拨号桌机；不混1500/2500按键版",
+  "query": "intitle:\"Western Electric 500\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Western Electric 500 mA D.C. Ammeter.jpg",
+      "pageid": 29960272,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Western_Electric_500_mA_D.C._Ammeter.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Western_Electric_500_mA_D.C._Ammeter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Western_Electric_500_mA_D.C._Ammeter.jpg/960px-Western_Electric_500_mA_D.C._Ammeter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2013-12-01 21:23:19",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Western Electric 500 mA D.C. Ammeter",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 550D|Ammeters|Flickr images reviewed by FlickreviewR|Files uploaded from Flickr by Jacopo Werther|Lightbox photographs",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "I've had a project for this in mind for awhile.  One of these days I'll get around to actually making it.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2013-05-08 19:55",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/lungstruck/8725954533/\">Western Electric 500ma Ammeter</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/52195472@N00\">lungstruck</a> from Northeast Ohio, USA",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "I've had a project for this in mind for awhile.  One of these days I'll get around to actually making it.",
+      "artist": "lungstruck  from Northeast Ohio, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2013-05-08 19:55"
+    }
+  ]
+}

@@ -1,0 +1,935 @@
+{
+  "schemaVersion": 2,
+  "checkedOn": "2026-10-11",
+  "status": "revised-prose-ready-for-implementation-validation",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ],
+    "snapshotPath": "docs/expansion/base-40-preserved.json"
+  },
+  "exhibits": [
+    {
+      "slug": "hp-65",
+      "context": "一九七四年的HP-65把手持计算器的任务从逐次按键推进到保存计算步骤。HP自己的历史档案介绍了磁卡读写：使用者既可装入预先写好的程序卡，也可把自己的程序留在卡上，下一次再调用。这里的程序不是后来手机上的应用商店软件，而是围绕这台计算器能够执行的操作安排步骤。它与馆内HP-35的联系因此很具体，两者都把计算放到手中，HP-65又把一段操作从即时动作变成可带走的记录。所引档案提供一九七四年的推出年份，没有统一各地区首售日，本条保留这一精度。",
+      "design": "机身仍是显示器位于上方、按键位于下方的手持形式，磁卡机构却增加了另一种输入。卡片通过读写机构把程序交给机器；显示器下方的槽可以放置参考卡，让使用者在执行时看到自己的说明。原厂档案还指出，第二个滑动开关用于选择编程或运行，两个状态由一个看得见的位置区别。这样的安排把数字输入、程序载体与解释文字放在相邻位置。卡不只是收藏程序的容器，也参与界面的组织：键盘承担操作，开关指定当前任务，参考文字帮助回忆程序如何使用。",
+      "usage": "一次重复计算可以先把需要的步骤组织为程序，在编程状态下记录，再将程序保存到磁卡。以后处理同类问题时，读入相应卡片、切换到运行状态，按程序约定输入这次的数值并取得结果。这里要分清可以重复的是步骤，具体输入仍来自当前问题；程序的名字和说明则帮助使用者选择正确内容。原厂提供程序卡与个人保存卡两条路径，分别对应采用现成方法和编写自己的方法。将卡片与参考说明一起管理，能让再次运行有清楚的入口；至于每个程序的按键定义和计算前提，还需要读它自己的说明。",
+      "significance": "HP-65把重复计算的准备从每次按键，前移到编程、检查和保存。与HP-35逐步调用科学函数相比，磁卡和编程／运行开关让使用者能够带走一套计算步骤，换入这次问题的数据继续执行。原厂档案支持程序卡、参考文字和状态开关的安排，所能确认的便利是步骤可复用。程序本身是否正确、输入是否符合方法，仍需要人判断；磁卡也带来标记和保管的工作。它把可编程具体化为一条可携带的使用流程，让计算器不只保存结果，也能够保留取得结果的方法。",
+      "limitations": "可编程并不意味着任何计算任务都能直接执行。程序要符合本机操作规则，使用者也要知道它期待的输入、采用的方法和结果含义；保存一套错误步骤不会自动使结果正确。磁卡增加了重复调用的途径，也增加了选择、标记和保管载体的工作。原厂历史支持读写卡片及编程运行开关，不提供今天存世机器的可靠性统计，也没有证明所有使用者因此减少了计算错误。对于展览阅读，更有用的取舍是把原来逐步按键的准备前移到编程与检查，然后在每次运行时继续核对数据和程序条件。",
+      "id": "55",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "name": "HP-65",
+      "brand": "Hewlett-Packard",
+      "year": 1974,
+      "dateLabel": "1974年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原HP65",
+      "category": "computers",
+      "categoryLabel": "个人计算与计算器",
+      "museumCategory": "computers",
+      "aliases": [
+        "Hewlett-Packard HP-65"
+      ],
+      "tags": [
+        "个人计算与计算器",
+        "计算器",
+        "1974年"
+      ],
+      "summary": "一九七四年的HP-65把手持计算器的任务从逐次按键推进到保存计算步骤。",
+      "features": [
+        "磁卡读写与自编程序",
+        "编程/运行开关与参考卡槽"
+      ],
+      "facts": [
+        {
+          "label": "版本与年份",
+          "value": "1974年（所引档案口径；不代替全球统一首发）；原HP65",
+          "sourceIds": [
+            "CM150-S007"
+          ]
+        },
+        {
+          "label": "明确结构与任务",
+          "value": "磁卡读写与自编程序；编程/运行开关与参考卡槽",
+          "sourceIds": [
+            "CWC-S001"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "C:CH02",
+        "C:S07",
+        "C:TD03",
+        "C:TXE03",
+        "CM150-S007",
+        "CM150-S008",
+        "CWC-S001"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S007",
+          "CM150-S008",
+          "CWC-S001"
+        ],
+        "design": [
+          "CM150-S007",
+          "CM150-S008",
+          "CWC-S001"
+        ],
+        "usage": [
+          "CM150-S007",
+          "CM150-S008",
+          "CWC-S001"
+        ],
+        "significance": [
+          "CM150-S007",
+          "CM150-S008",
+          "CWC-S001",
+          "C:S07",
+          "C:TD03",
+          "C:TXE03",
+          "C:CH02"
+        ],
+        "limitations": [
+          "CM150-S007",
+          "CM150-S008",
+          "CWC-S001"
+        ],
+        "readerTakeaway": [
+          "CM150-S007",
+          "CM150-S008",
+          "CWC-S001",
+          "C:S07",
+          "C:TD03",
+          "C:TXE03",
+          "C:CH02"
+        ]
+      },
+      "relatedSlugs": [
+        "ibm-pc-5150",
+        "hp-35"
+      ],
+      "relatedModelProposals": [
+        "ibm-pc-5150",
+        "hp-35"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "computers",
+        "stageId": "computers-expanded-1",
+        "stageTitle": "计算与桌面工作环境",
+        "status": "既有冻结页面方案的策展位置"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "原型号身份和明确结构可追溯；独立评价缺口见mediaOpinions，不强造媒体共识。",
+        "结束制造/停售/停止支持只采用明确事件，其余未核；配色容量不重复计数。"
+      ],
+      "publicImpactBoundary": "使用比较为策展解读；品牌宣传不等于独立测量、普遍体验或社会效果。",
+      "chineseCharactersInFiveSections": 964,
+      "deliveryPacket": "complete-wave-compute-01.json",
+      "readerTakeaway": "HP-65把重复计算的准备从每次按键，前移到编程、检查和保存。与HP-35逐步调用科学函数相比，磁卡和编程／运行开关让使用者能够带走一套计算步骤，换入这次问题的数据继续执行。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "roland-tr808",
+      "context": "TR-808 Rhythm Composer的原厂回顾把生产期标为一九八〇至一九八二年。本条用生产起年定位原模拟鼓机，既不把它写成统一全球首售日，也不把后来的Boutique硬件和软件模拟器计入原机。它用模拟电路合成打击声，使用者编排的是声音何时出现，而不是把一段既有歌曲装入播放器。与磁带随身听并看，两件物品都涉及重复的声音，却分别负责制作节奏和播放录音。原厂后来赋予它的文化叙事可以作为品牌回顾阅读，展品首先解释可看见的按钮和控制怎样组成一次节奏制作。",
+      "design": "面板下沿的一排十六个彩色按钮给时间顺序一个明确的位置；上方则安排不同声音的控制，使用者可以在节奏排列之外调整发声特点。原厂回顾特别举出踩镲、军鼓的音色变化和底鼓衰减控制，说明一个声音不仅有发生时刻，也有延续和听感上的变化。面板名称Rhythm Composer强调编排任务，按钮并非只能选一套固定伴奏。把时间位置与声音控制并置，使手指可以分别处理结构与音色。展览中的文字示意可以指出两层关系，却不借品牌的夸张听感描述证明扬声器表现或某种音乐的全部来源。",
+      "usage": "制作节奏时，先决定要使用的打击声和它在循环中的位置，用步进按钮安排出现的时刻，再播放、聆听并修改排列。持续循环让使用者能比较相邻两次修改，而声音控制又可以改变同一排列的表现；例如调节底鼓衰减，改变其延续，而不必先改变它在循环中的位置。程序可以保存供之后使用，这与每次重新敲击一遍不同。这里介绍的是原厂回顾支持的编排与调音任务，不代替原机手册中的模式、连接和存储操作。一个完整作品仍要由演奏、其他声部、录音及具体编曲安排来实现。",
+      "significance": "TR-808让节奏的发生位置和声音特征成为两组可分别调整的控制。十六步按钮把循环顺序摆到眼前，衰减等控制改变同一排列的听感；使用者可以边循环聆听边修改。与TB-303以音高和时值组织低音序列相比，两者分别编排打击声与旋律性伴奏，也都把事先编写和播放中的调整连在一起。原厂回顾支持这些具体控制及后来的音乐使用背景，不能独自证明某一流派由它创造。它的代表性首先可以从面板读出：重复不必完全依赖再次演奏，声音设计也不是只有选择固定预置。",
+      "limitations": "原模拟电路提供的是自己的合成声音，不能因此被描述为任意真实鼓的精确录音回放。调音与步进编排带来可控的重复，也要求使用者主动决定声部、节奏和听到的结果；机器名称并不表示它会独立完成一首歌曲。生产期结束是制造历程节点，不等于所有机器同时停售、停止使用或失去维修支持，后三者的日期在本条未核实。原厂关于经典地位的表达属于回顾，不能替代独立评测和可靠性数据。今天的软件重现也有各自界面与功能，不能用这些后来的能力补写一九八〇年的原机配置。",
+      "id": "56",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "name": "TR-808 Rhythm Composer",
+      "brand": "Roland",
+      "year": 1980,
+      "dateLabel": "1980（生产起年；止年1982）",
+      "dateKind": "manufacture",
+      "regionVersion": "原模拟808；不含Boutique/软件",
+      "category": "music",
+      "categoryLabel": "音乐制作与录音",
+      "museumCategory": "music",
+      "aliases": [
+        "Roland TR-808 Rhythm Composer"
+      ],
+      "tags": [
+        "音乐制作与录音",
+        "音乐制作与录音",
+        "1980年"
+      ],
+      "summary": "TR-808 Rhythm Composer的原厂回顾把生产期标为一九八〇至一九八二年。",
+      "features": [
+        "模拟合成打击声",
+        "16步编排与发声控制"
+      ],
+      "facts": [
+        {
+          "label": "版本与年份",
+          "value": "1980（生产起年；止年1982）；原模拟808；不含Boutique/软件",
+          "sourceIds": [
+            "CM150-S031"
+          ]
+        },
+        {
+          "label": "明确结构与任务",
+          "value": "模拟合成打击声；16步编排与发声控制",
+          "sourceIds": [
+            "CWC-S002"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S031",
+        "CM150-S032",
+        "CM150-S033",
+        "CM150-S034",
+        "CWC-S002",
+        "CWC-S003"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S031",
+          "CM150-S032",
+          "CWC-S002"
+        ],
+        "design": [
+          "CM150-S031",
+          "CM150-S032",
+          "CWC-S002"
+        ],
+        "usage": [
+          "CM150-S031",
+          "CM150-S032",
+          "CWC-S002"
+        ],
+        "significance": [
+          "CM150-S031",
+          "CM150-S032",
+          "CWC-S002",
+          "CM150-S033",
+          "CM150-S034",
+          "CWC-S003"
+        ],
+        "limitations": [
+          "CM150-S031",
+          "CM150-S032",
+          "CWC-S002"
+        ],
+        "readerTakeaway": [
+          "CM150-S031",
+          "CM150-S032",
+          "CWC-S002",
+          "CM150-S033",
+          "CM150-S034",
+          "CWC-S003"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-tps-l2"
+      ],
+      "relatedModelProposals": [
+        "sony-tps-l2"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "music",
+        "stageId": "music-expanded-1",
+        "stageTitle": "录音、节奏与电子乐器",
+        "status": "既有冻结页面方案的策展位置"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "原型号身份和明确结构可追溯；独立评价缺口见mediaOpinions，不强造媒体共识。",
+        "结束制造/停售/停止支持只采用明确事件，其余未核；配色容量不重复计数。"
+      ],
+      "publicImpactBoundary": "使用比较为策展解读；品牌宣传不等于独立测量、普遍体验或社会效果。",
+      "chineseCharactersInFiveSections": 969,
+      "deliveryPacket": "complete-wave-compute-01.json",
+      "readerTakeaway": "TR-808让节奏的发生位置和声音特征成为两组可分别调整的控制。十六步按钮把循环顺序摆到眼前，衰减等控制改变同一排列的听感；使用者可以边循环聆听边修改。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "roland-tb303",
+      "context": "一九八一年推出的原模拟TB-303 Bass Line，以贝司伴奏为产品任务。Roland回顾介绍它可以和TR-606借DIN Sync保持同一速度，说明这类小设备在设计中不是孤立的完整乐队，而是可以协同的声部。原机是一次发出一个音的单音合成器；这里的贝司来自电路生成，并非把真实贝司演奏录成样本后逐一播放。品牌后来关于声音被重新解释的故事，适合作为后来的回顾事件，不应全部当成一九八一年公告中的用途。这个条目先从音符、时值和音色三个具体任务讲起。",
+      "design": "一组十二个按键构成一个八度的音名入口，七个白色与五个黑色按钮借用了键盘的视觉顺序，红色指示灯帮助辨认状态。它不是供双手铺开演奏的大键盘，而把按键与步进记录放在紧凑面板上。面板另有六个旋转控制，截止频率和共振尤其参与声音的变化。音符位置与调音旋钮分别回答弹什么和怎样发声，让序列可以保留而音色继续变化。与TR-808的十六步按钮比较，这里更突出音高录入；与带完整键盘的DX7比较，又可以看到伴奏编排和即时演奏对控制空间的不同要求。",
+      "usage": "原厂回顾描述的编排过程，要逐个进入音符和持续时间，再把模式组织为伴奏。播放一段序列时，使用者可以听到先前输入的顺序，并通过旋转控制改变声音；截止频率与共振的变化不等于重新输入了所有音符。和兼容设备同步时，需要安排连接和共同速度，而不是只让两台机器各自开始播放。这个过程把事先编写与播放中的调整联系起来：音符序列决定时间与音高，旋钮影响正在听到的表现。本条没有把后来网页版或Roland Cloud中的操作、效果和保存菜单移植为原硬件的使用流程。",
+      "significance": "TB-303把低音伴奏分成音符序列和播放中的音色调整。按键记录音高与时值，截止频率和共振旋钮改变正在听到的声音，序列不必因此重新输入。与TR-808安排打击声位置相比，它突出单音音高路线；两台设备的连接与同步还要求共同的速度和接口条件。原厂回顾支持这些结构和后来的使用背景，不能把品牌赞誉当成独立影响测量。它值得阅读的地方，是紧凑面板让编排与即时操控相互配合，同时保留单音、录入顺序和连接准备带来的限制。",
+      "limitations": "单音结构意味着原机不能像多音键盘那样同时发出一组和弦，输入音符和时值也需要适应它自己的顺序。紧凑控制适合围绕序列工作，却不会自动省去编排的准备；同步接口还要求对方设备和连接条件相符。这里采用原机身份、发布年份及明确结构，没有核定原机停产、各地区停售或停止服务的日子，因此不把产品被回顾的时间当成结束节点。后来模拟器属于新的产品形态。品牌关于其音乐地位的赞美可以登记为回顾材料，但不能冒作独立媒体的正面评测，更不能据此证明每位演奏者的体验一致。",
+      "id": "57",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "name": "TB-303 Bass Line",
+      "brand": "Roland",
+      "year": 1981,
+      "dateLabel": "1981年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原模拟TB303",
+      "category": "music",
+      "categoryLabel": "音乐制作与录音",
+      "museumCategory": "music",
+      "aliases": [
+        "Roland TB-303 Bass Line"
+      ],
+      "tags": [
+        "音乐制作与录音",
+        "音乐制作与录音",
+        "1981年"
+      ],
+      "summary": "一九八一年推出的原模拟TB-303 Bass Line，以贝司伴奏为产品任务。",
+      "features": [
+        "单音模拟贝司",
+        "12键音符时值输入与DIN Sync"
+      ],
+      "facts": [
+        {
+          "label": "版本与年份",
+          "value": "1981年（所引档案口径；不代替全球统一首发）；原模拟TB303",
+          "sourceIds": [
+            "CM150-S033"
+          ]
+        },
+        {
+          "label": "明确结构与任务",
+          "value": "单音模拟贝司；12键音符时值输入与DIN Sync",
+          "sourceIds": [
+            "CWC-S003"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S031",
+        "CM150-S032",
+        "CM150-S033",
+        "CM150-S034",
+        "CWC-S002",
+        "CWC-S003"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S033",
+          "CM150-S034",
+          "CWC-S003"
+        ],
+        "design": [
+          "CM150-S033",
+          "CM150-S034",
+          "CWC-S003"
+        ],
+        "usage": [
+          "CM150-S033",
+          "CM150-S034",
+          "CWC-S003"
+        ],
+        "significance": [
+          "CM150-S033",
+          "CM150-S034",
+          "CWC-S003",
+          "CM150-S031",
+          "CM150-S032",
+          "CWC-S002"
+        ],
+        "limitations": [
+          "CM150-S033",
+          "CM150-S034",
+          "CWC-S003"
+        ],
+        "readerTakeaway": [
+          "CM150-S033",
+          "CM150-S034",
+          "CWC-S003",
+          "CM150-S031",
+          "CM150-S032",
+          "CWC-S002"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-tps-l2"
+      ],
+      "relatedModelProposals": [
+        "sony-tps-l2"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "music",
+        "stageId": "music-expanded-1",
+        "stageTitle": "录音、节奏与电子乐器",
+        "status": "既有冻结页面方案的策展位置"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "原型号身份和明确结构可追溯；独立评价缺口见mediaOpinions，不强造媒体共识。",
+        "结束制造/停售/停止支持只采用明确事件，其余未核；配色容量不重复计数。"
+      ],
+      "publicImpactBoundary": "使用比较为策展解读；品牌宣传不等于独立测量、普遍体验或社会效果。",
+      "chineseCharactersInFiveSections": 946,
+      "deliveryPacket": "complete-wave-compute-01.json",
+      "readerTakeaway": "TB-303把低音伴奏分成音符序列和播放中的音色调整。按键记录音高与时值，截止频率和共振旋钮改变正在听到的声音，序列不必因此重新输入。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "yamaha-dx7",
+      "context": "一九八三年的原代Yamaha DX7是一台采用FM数字合成的键盘乐器。本条依据Yamaha的收藏档案和设计回顾定位这一代，和DX7II及后来的软件版本分别处理。它既用于键盘演奏，也提供参数选择和音色保存相关的工作入口，因此不能只用钢琴外形理解。数字合成负责生成声音，音色资料和演奏动作共同决定使用结果；连接录音设备又是另一项任务。与TB-303的单音伴奏设备并读，可以看到完整键盘与参数界面占据了更大的空间，使用者在演奏和准备声音之间来回切换。",
+      "design": "方正的机身与较平的膜按键，使面板不再以一排突出的旋钮呈现全部调整。液晶显示负责显示所选参数，标记和按键组织则帮助使用者找到音色、算法及编辑入口。Yamaha设计回顾署名设计者Yasuhiro Kira，介绍平整面板与绿色区域在视觉上的分组，这属于原厂对设计过程的说明。键盘是一组面向连续演奏的大尺度输入，面板是另一组面向选择和数值的输入；它们共享同一个机身，却回应不同手部任务。观众可以由此比较旋钮即时对应一个控制，与显示器配合按键处理多个参数的区别。",
+      "usage": "演奏可以从选择已准备的音色开始，再用键盘给出音高与演奏动作；想改变声音时，则进入相应参数和算法的编辑任务，通过显示确认当前处理的内容。原厂档案还登记了音色卡与MIDI，把保存、调用和连接外部设备纳入使用范围。它们分别承接音色资料和设备通信，不等于把声音自动录成成品文件。对展览阅读而言，可以先区分选一套现成声音、修改声音的生成安排、演奏和录音四个动作，再观察哪些发生在DX7上、哪些依赖其他设备。具体编辑步骤与接口配置仍需按原代说明和实际连接条件完成。",
+      "significance": "DX7将键盘演奏与通过显示和按键选择参数的声音编辑结合起来。与TB-303围绕单音序列和外露旋钮工作的方式相比，它给演奏者另一种组织声音的入口：完整键盘承担演奏，数字参数承担构造和调用。原设计与操作资料支持这种界面关系，声音种类多不等于每个音色都容易编辑。它的代表性在于计算式声音结构怎样进入乐器操作：用户既可以演奏已准备的声音，也需要学习参数关系才能有目的地修改。面板的整洁和编辑所需的理解，因此是同一方案的两面。",
+      "limitations": "FM合成和参数编辑需要理解声音与控制之间的关系，选好一个预置音色并不表示已经掌握自建声音的方法。膜按键与显示可以压缩面板，却要求使用者辨认当前选择及状态，不能从平整外观直接推导出学习成本。MIDI提供通信能力，外部设备是否正确响应仍取决于相容设置；音色卡也不等同于所有后代文件格式。所引设计回顾没有提供长期按键耐久、所有演奏者偏好或独立音质测量，因此这些结论留待证据补充。原代结束制造、停售和停止支持的节点也未在本条核定，后代出现不会被当成原代自动结束的日期。",
+      "id": "58",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "name": "DX7",
+      "brand": "Yamaha",
+      "year": 1983,
+      "dateLabel": "1983年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原DX7非DX7II",
+      "category": "music",
+      "categoryLabel": "音乐制作与录音",
+      "museumCategory": "music",
+      "aliases": [
+        "Yamaha DX7"
+      ],
+      "tags": [
+        "音乐制作与录音",
+        "音乐制作与录音",
+        "1983年"
+      ],
+      "summary": "一九八三年的原代Yamaha DX7是一台采用FM数字合成的键盘乐器。",
+      "features": [
+        "FM数字合成",
+        "膜按键、LCD、音色卡及MIDI"
+      ],
+      "facts": [
+        {
+          "label": "版本与年份",
+          "value": "1983年（所引档案口径；不代替全球统一首发）；原DX7非DX7II",
+          "sourceIds": [
+            "CM150-S038"
+          ]
+        },
+        {
+          "label": "明确结构与任务",
+          "value": "FM数字合成；膜按键、LCD、音色卡及MIDI",
+          "sourceIds": [
+            "CWC-S004"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S031",
+        "CM150-S032",
+        "CM150-S033",
+        "CM150-S034",
+        "CM150-S038",
+        "CM150-S039",
+        "CWC-S002",
+        "CWC-S003",
+        "CWC-S004"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S038",
+          "CM150-S039",
+          "CWC-S004"
+        ],
+        "design": [
+          "CM150-S038",
+          "CM150-S039",
+          "CWC-S004"
+        ],
+        "usage": [
+          "CM150-S038",
+          "CM150-S039",
+          "CWC-S004"
+        ],
+        "significance": [
+          "CM150-S038",
+          "CM150-S039",
+          "CWC-S004",
+          "CM150-S033",
+          "CM150-S034",
+          "CWC-S003",
+          "CM150-S031",
+          "CM150-S032",
+          "CWC-S002"
+        ],
+        "limitations": [
+          "CM150-S038",
+          "CM150-S039",
+          "CWC-S004"
+        ],
+        "readerTakeaway": [
+          "CM150-S038",
+          "CM150-S039",
+          "CWC-S004",
+          "CM150-S033",
+          "CM150-S034",
+          "CWC-S003",
+          "CM150-S031",
+          "CM150-S032",
+          "CWC-S002"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-tps-l2"
+      ],
+      "relatedModelProposals": [
+        "sony-tps-l2"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "music",
+        "stageId": "music-expanded-1",
+        "stageTitle": "录音、节奏与电子乐器",
+        "status": "既有冻结页面方案的策展位置"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "原型号身份和明确结构可追溯；独立评价缺口见mediaOpinions，不强造媒体共识。",
+        "结束制造/停售/停止支持只采用明确事件，其余未核；配色容量不重复计数。"
+      ],
+      "publicImpactBoundary": "使用比较为策展解读；品牌宣传不等于独立测量、普遍体验或社会效果。",
+      "chineseCharactersInFiveSections": 973,
+      "deliveryPacket": "complete-wave-compute-01.json",
+      "readerTakeaway": "DX7将键盘演奏与通过显示和按键选择参数的声音编辑结合起来。与TB-303围绕单音序列和外露旋钮工作的方式相比，它给演奏者另一种组织声音的入口：完整键盘承担演奏，数字参数承担构造和调用。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    }
+  ],
+  "sources": [
+    {
+      "id": "C:CH02",
+      "title": "The Hamilton PSR",
+      "publisher": "Swatch Group / Hamilton",
+      "url": "https://www.swatchgroup.com/en/services/archive/2020/hamilton-psr",
+      "supports": "1970 年原型公开、1972 年 P1 上市、金质表壳表链与红色数字读时；原型、P2 和 2020 PSR 的功能分别处理。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:S07",
+      "title": "HP-35 handheld scientific calculator — HP Virtual Museum",
+      "publisher": "HP Virtual Museum",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/personalsystems/0023/index.html",
+      "supports": "1972 年 HP-35、35 键名称、衣袋科学计算的开发目标及科学函数。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:TD03",
+      "title": "HP-35 Main Board solder side.jpg",
+      "publisher": "Mister rf / Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:HP-35_Main_Board_solder_side.jpg",
+      "supports": "HP-35 焊接面实物照片；可见形态观察，不支持推测元件型号。",
+      "checkedOn": "2026-10-03",
+      "verification": "原拆解正文或图像文件页已核查"
+    },
+    {
+      "id": "C:TXE03",
+      "title": "Milestones: Development of the HP-35, the First Handheld Scientific Calculator, 1972",
+      "publisher": "IEEE Engineering and Technology History Wiki",
+      "url": "https://ethw.org/Milestones:Development_of_the_HP-35,_the_First_Handheld_Scientific_Calculator,_1972",
+      "supports": "科学函数、RPN 与堆栈、显示和科学记数法、按键功能分组与尺寸/颜色区分。",
+      "checkedOn": "2026-10-04",
+      "verification": "网页正文已读；IEEE 里程碑的历史技术说明，不作当前古董实测。"
+    },
+    {
+      "id": "CM150-S007",
+      "title": "HP-65 programmable pocket calculator, 1974",
+      "publisher": "HP",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/personalsystems/0024/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "HP-65身份、1974年、磁卡编程。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S007",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "HP-65身份、1974年、磁卡编程。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "厂商自身材料；与同厂其他页面不独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ],
+      "supports": "HP-65身份、1974年、磁卡编程。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S008",
+      "title": "HP-65 Programmable Calculator",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/31306/HP-65-Programmable-Calculator/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "1974推出，内置磁卡读写器。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "独立于HP；博物馆自己馆藏条目",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S008",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1974推出，内置磁卡读写器。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "独立于HP；博物馆自己馆藏条目",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ],
+      "supports": "1974推出，内置磁卡读写器。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S031",
+      "title": "The TR-808 Story",
+      "publisher": "Roland",
+      "url": "https://www.roland.com/ca/promos/roland_tr-808/?lang=en-CA",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "TR-808生产1980–1982。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S031",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "TR-808生产1980–1982。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "厂商自身材料；与同厂其他页面不独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ],
+      "supports": "TR-808生产1980–1982。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S032",
+      "title": "The TR-808 Story / engineering",
+      "publisher": "Roland",
+      "url": "https://www.roland.com/uk/promos/roland_tr-808/?lang=en-GB",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "TR-808使用模拟合成鼓声。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "与加拿大页面相同厂商故事；非独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S032",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "TR-808使用模拟合成鼓声。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "与加拿大页面相同厂商故事；非独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ],
+      "supports": "TR-808使用模拟合成鼓声。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S033",
+      "title": "Roland Cloud TB-303 release",
+      "publisher": "Roland",
+      "url": "https://www.roland.com/RolandComSite/media/global/release/pdf/2019/20190303_1_RolandCloud_TB-303.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "2019软件公告回溯原TB303于1981发布、定位模拟贝司伴奏。",
+      "verificationMethod": "PDF检索文本摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S033",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2019软件公告回溯原TB303于1981发布、定位模拟贝司伴奏。",
+          "verificationMethod": "PDF检索文本摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "厂商自身材料；与同厂其他页面不独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ],
+      "supports": "2019软件公告回溯原TB303于1981发布、定位模拟贝司伴奏。",
+      "verification": "PDF检索文本摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S034",
+      "title": "303 Day",
+      "publisher": "Roland",
+      "url": "https://www.roland.com/global/promos/303day/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "TB303模拟单音、截止频率/共振旋钮、DIN同步伴奏定位。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S034",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "TB303模拟单音、截止频率/共振旋钮、DIN同步伴奏定位。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "厂商自身材料；与同厂其他页面不独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ],
+      "supports": "TB303模拟单音、截止频率/共振旋钮、DIN同步伴奏定位。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S038",
+      "title": "Design Insights DX7",
+      "publisher": "Yamaha",
+      "url": "https://www.yamaha.com/en/tech-design/design/insights/id_009/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1983 DX7 FM数字合成器，膜开关LCD与参数再现。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S038",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1983 DX7 FM数字合成器，膜开关LCD与参数再现。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "厂商自身材料；与同厂其他页面不独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ],
+      "supports": "1983 DX7 FM数字合成器，膜开关LCD与参数再现。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S039",
+      "title": "DX7 / Innovation Road",
+      "publisher": "Yamaha",
+      "url": "https://www.yamaha.com/en/about/experience/innovation-road/collection/detail/2010/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1983，FM、音色卡、MIDI及LCD。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S039",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1983，FM、音色卡、MIDI及LCD。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "厂商自身材料；与同厂其他页面不独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ],
+      "supports": "1983，FM、音色卡、MIDI及LCD。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CWC-S001",
+      "title": "HP-65原厂实物历史",
+      "publisher": "HP",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/personalsystems/0024/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-primary",
+      "verifiedScope": "1974；磁卡读写、自编及品牌程序卡、显示下方参考卡槽、编程/运行滑动开关。",
+      "verificationMethod": "原厂历史正文28行；不采用世界第一和历史价格",
+      "independence": "品牌原始或回顾材料；非独立口碑",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "1974；磁卡读写、自编及品牌程序卡、显示下方参考卡槽、编程/运行滑动开关。",
+      "verification": "原厂历史正文28行；不采用世界第一和历史价格；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1974；磁卡读写、自编及品牌程序卡、显示下方参考卡槽、编程/运行滑动开关。",
+          "verificationMethod": "原厂历史正文28行；不采用世界第一和历史价格",
+          "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+          "independence": "品牌原始或回顾材料；非独立口碑",
+          "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ]
+    },
+    {
+      "id": "CWC-S002",
+      "title": "The TR-808 Story",
+      "publisher": "Roland",
+      "url": "https://www.roland.com/uk/promos/roland_tr-808/?lang=en-GB",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-primary",
+      "verifiedScope": "1980–1982生产期；模拟发声、16步按钮编排保存、声音控制和底鼓衰减。",
+      "verificationMethod": "原厂回顾正文；排除夸张听感及后来产品功能",
+      "independence": "品牌原始或回顾材料；非独立口碑",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "1980–1982生产期；模拟发声、16步按钮编排保存、声音控制和底鼓衰减。",
+      "verification": "原厂回顾正文；排除夸张听感及后来产品功能；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1980–1982生产期；模拟发声、16步按钮编排保存、声音控制和底鼓衰减。",
+          "verificationMethod": "原厂回顾正文；排除夸张听感及后来产品功能",
+          "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+          "independence": "品牌原始或回顾材料；非独立口碑",
+          "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ]
+    },
+    {
+      "id": "CWC-S003",
+      "title": "303 Day / original TB-303",
+      "publisher": "Roland",
+      "url": "https://www.roland.com/global/promos/303day/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-primary",
+      "verifiedScope": "原TB303贝司伴奏任务、单音、12键逐步输入音符/时值、截止频率与共振、与TR606 DIN Sync同步。",
+      "verificationMethod": "原厂回顾原机段落；后来的浏览器/Cloud能力排除",
+      "independence": "品牌原始或回顾材料；非独立口碑",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "原TB303贝司伴奏任务、单音、12键逐步输入音符/时值、截止频率与共振、与TR606 DIN Sync同步。",
+      "verification": "原厂回顾原机段落；后来的浏览器/Cloud能力排除；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "verificationRecords": [
+        {
+          "verifiedScope": "原TB303贝司伴奏任务、单音、12键逐步输入音符/时值、截止频率与共振、与TR606 DIN Sync同步。",
+          "verificationMethod": "原厂回顾原机段落；后来的浏览器/Cloud能力排除",
+          "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+          "independence": "品牌原始或回顾材料；非独立口碑",
+          "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ]
+    },
+    {
+      "id": "CWC-S004",
+      "title": "DX7 design insights",
+      "publisher": "Yamaha",
+      "url": "https://www.yamaha.com/en/tech-design/design/insights/id_009/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-primary",
+      "verifiedScope": "1983原DX7；FM数字合成、平面膜开关、LCD参数界面、绿色功能分组与设计者Yasuhiro Kira。",
+      "verificationMethod": "原厂设计回顾正文；无独立体验测量",
+      "independence": "品牌原始或回顾材料；非独立口碑",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "1983原DX7；FM数字合成、平面膜开关、LCD参数界面、绿色功能分组与设计者Yasuhiro Kira。",
+      "verification": "原厂设计回顾正文；无独立体验测量；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1983原DX7；FM数字合成、平面膜开关、LCD参数界面、绿色功能分组与设计者Yasuhiro Kira。",
+          "verificationMethod": "原厂设计回顾正文；无独立体验测量",
+          "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+          "independence": "品牌原始或回顾材料；非独立口碑",
+          "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ]
+    }
+  ],
+  "importInstructions": [
+    "Use editorial-import-manifest.json in order; check live slugs/IDs before mutation.",
+    "Already imported 14 are revision proposals only; do not append duplicates.",
+    "Original40 production text remains preserved; no original40 records in these packets.",
+    "Copy museum prose and readerTakeaway with paragraph sources; future product-database fields are not required.",
+    "Actual page/build validation belongs to original implementation chat."
+  ],
+  "assembledOn": "2026-10-13"
+}

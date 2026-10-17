@@ -1,0 +1,109 @@
+{
+  "slug": "tomtom-go-2004",
+  "name": "GO（2004原版）",
+  "regionVersion": "欧洲初代GO；不混GO300/GO系列现款",
+  "query": "intitle:\"TomTom GO\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:TomTom Go 500.JPG",
+      "pageid": 6747348,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:TomTom_Go_500.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/45/TomTom_Go_500.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/TomTom_Go_500.JPG/960px-TomTom_Go_500.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2009-05-10 17:39:55",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "TomTom Go 500",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Portable GPS navigation devices|Files with coordinates missing SDC location of creation (51° N, 0° E)|TomTom products",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "51.396019",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "0.200242",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Photo of TomTom Go 500",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-04-14",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Darrenm540\" title=\"User:Darrenm540\">Darren Meacher</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Photo of TomTom Go 500",
+      "artist": "Darren Meacher",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "date": "2009-04-14"
+    }
+  ]
+}

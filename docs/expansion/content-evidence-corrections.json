@@ -1,0 +1,29 @@
+{
+  "checkedOn": "2026-10-11",
+  "changes": [
+    {
+      "slug": "logitech-k380-2015",
+      "sourceId": "CM150-S065",
+      "verifiedAgainAs": "CWC-S013",
+      "correction": "日本原公告2015-10-29写明2015-11-05为発売予定日；不能作为已核实实际首售。",
+      "affectedFiles": ["selection-150.json", "complete-wave-compute-03.json", "product-records-overlay.json", "complete-batch-150-ready.json"],
+      "newDateLabel": "2015-09-03全球公告；2015-11-05日本计划销售，实际首售未核"
+    },
+    {
+      "slug": "pfu-scansnap-fi4110eox",
+      "sourceId": "CM150-S055",
+      "verifiedAgainAs": "CWC-S009",
+      "correction": "所读P3PC-E312-04.pdf为2001年11月第四版，版次表另列8月第二版；不能误称当前文件第二版。",
+      "affectedFiles": ["selection-150.json", "complete-wave-compute-03.json", "product-records-overlay.json", "complete-batch-150-ready.json"]
+    },
+    {
+      "affectedPacket": "complete-wave-gaming-03.json",
+      "correction": "Ball关联nintendo-game-boy改为既有game-boy；已由原编写代理修正。"
+    },
+    {
+      "affectedPacket": "complete-wave-imaging-05.json",
+      "correction": "PowerShot600与COOLPIX900关联casio-qv-10改为既有casio-qv10；已由原编写代理修正。"
+    }
+  ],
+  "regenerationRule": "正文生产后沿当前selection及本修正清单增量合并。旧selection构建器会重放早期研究摘录，不作为本轮正文累计复现命令。"
+}

@@ -1,0 +1,735 @@
+{
+  "slug": "amazon-kindle-1",
+  "name": "Kindle 第一代",
+  "regionVersion": null,
+  "query": "intitle:\"Kindle\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:2023 Amazon Kindle Paperwhite (2).jpg",
+      "pageid": 134825180,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023_Amazon_Kindle_Paperwhite_(2).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/45/2023_Amazon_Kindle_Paperwhite_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/2023_Amazon_Kindle_Paperwhite_%282%29.jpg/960px-2023_Amazon_Kindle_Paperwhite_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-07-23 13:12:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "2023 Amazon Kindle Paperwhite (2)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Images by Jacek Halicki|Amazon Kindle Paperwhite|Wikigrant WG 2023-3",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Amazon Kindle Paperwhite",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-07-23 12:57:21",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jacek_Halicki\" title=\"User:Jacek Halicki\">Jacek Halicki</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Amazon Kindle Paperwhite",
+      "artist": "Jacek Halicki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-07-23 12:57:21"
+    },
+    {
+      "title": "File:2023 Amazon Kindle Paperwhite (3).jpg",
+      "pageid": 134825181,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023_Amazon_Kindle_Paperwhite_(3).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/38/2023_Amazon_Kindle_Paperwhite_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/2023_Amazon_Kindle_Paperwhite_%283%29.jpg/960px-2023_Amazon_Kindle_Paperwhite_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-07-23 13:12:54",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "2023 Amazon Kindle Paperwhite (3)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Images by Jacek Halicki|Amazon Kindle Paperwhite|Wikigrant WG 2023-3",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Amazon Kindle Paperwhite",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-07-23 12:42:22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jacek_Halicki\" title=\"User:Jacek Halicki\">Jacek Halicki</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Amazon Kindle Paperwhite",
+      "artist": "Jacek Halicki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-07-23 12:42:22"
+    },
+    {
+      "title": "File:Kindle-Reader-Inside-view-01.jpg",
+      "pageid": 38669507,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kindle-Reader-Inside-view-01.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Kindle-Reader-Inside-view-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kindle-Reader-Inside-view-01.jpg/960px-Kindle-Reader-Inside-view-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2015-03-01 17:33:52",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Kindle-Reader-Inside-view-01",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Printed circuit board assemblies|Taken with Canon EOS 5D Mark III|Lithium-polymer batteries|Self-published work|Images with extracted images|Information field template with formatting|Amazon Kindle 3|Images by Cccefalon|Images with portrait aspect ratio by User:Cccefalon|Images of objects by User:Cccefalon",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "AmazonKindle inside view.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-03-01",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cccefalon\" title=\"User:Cccefalon\">CEphoto, Uwe Aranas</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<div style=\"border:1px solid green; background-color:#eaeeed;\">\n<table cellpadding=\"3px\">\n<tbody><tr>\n<td align=\"center\">\n<p><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:LOGO-CEphotoUweAranas.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/4/4b/LOGO-CEphotoUweAranas.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"80\" class=\"mw-file-element\" data-file-width=\"80\" data-file-height=\"80\"></a></span>\n</p>\n</td>\n<td valign=\"top\" colspan=\"2\">\n<p>This photo was created by <a href=\"//commons.wikimedia.org/wiki/User:Cccefalon/Profile\" title=\"User:Cccefalon/Profile\">Uwe Aranas</a>. It is protected by law and is <u>not</u> in the <a href=\"https://en.wikipedia.org/wiki/Public_Domain\" class=\"extiw\" title=\"w:Public Domain\">Public Domain</a>. However, it can be used free of charge by everyone under the terms of the license stated below. \n</p>\n<ul><li><b>The requirements to comply with the terms of licence are:</b></li></ul>\n<dl><dd>- The image is credited with <b>\"Photo by CEphoto, Uwe Aranas\"</b> or alternatively with <b>\"© CEphoto, Uwe Aranas\"</b> in close relation to the image. If this is not possible due to shortage of space, please contact me <u>first</u>.</dd>\n<dd>- You are required to release the image under the same license.</dd></dl>\n<ul><li><b>Not required by the license but highly appreciated:</b></li></ul>\n<dl><dd>- Set up a weblink to the original image when you use the image in online media: <a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:Kindle-Reader-Inside-view-01.jpg\">https://commons.wikimedia.org/wiki/File:Kindle-Reader-Inside-view-01.jpg</a></dd>\n<dd>- Send me a specimen copy or a pdf when used in print media or the URL of the website where the image is used.</dd></dl>\n<p>Please write an email to spam@aranas.de <small>(where you substitute the word <i>spam</i> by <i>cephoto2020</i>)</small>, if you\n</p>\n<ul><li>need the image in a higher resolution</li>\n<li>need my postal address for sending a specimen copy</li>\n<li>have further questions to the terms of licence</li></ul>\n</td>\n</tr>\n</tbody></table>\n</div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "Photo by CEphoto, Uwe Aranas <b>or alternatively</b> © CEphoto, Uwe Aranas",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "AmazonKindle inside view.",
+      "artist": "CEphoto, Uwe Aranas",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2015-03-01"
+    },
+    {
+      "title": "File:Kindle-Reader-Front-view-with-battery-empty-error-01.jpg",
+      "pageid": 38669565,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kindle-Reader-Front-view-with-battery-empty-error-01.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Kindle-Reader-Front-view-with-battery-empty-error-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Kindle-Reader-Front-view-with-battery-empty-error-01.jpg/960px-Kindle-Reader-Front-view-with-battery-empty-error-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2015-03-01 17:35:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Kindle-Reader-Front-view-with-battery-empty-error-01",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 5D Mark III|Error messages|Self-published work|Information field template with formatting|Amazon Kindle 3|Images by Cccefalon|Images with portrait aspect ratio by User:Cccefalon|Images of objects by User:Cccefalon",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Amazon Kindle 3 with error message \"Empty Battery\". This message is persistent, even when the battery is damaged or removed.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-03-01",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cccefalon\" title=\"User:Cccefalon\">CEphoto, Uwe Aranas</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<div style=\"border:1px solid green; background-color:#eaeeed;\">\n<table cellpadding=\"3px\">\n<tbody><tr>\n<td align=\"center\">\n<p><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:LOGO-CEphotoUweAranas.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/4/4b/LOGO-CEphotoUweAranas.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"80\" class=\"mw-file-element\" data-file-width=\"80\" data-file-height=\"80\"></a></span>\n</p>\n</td>\n<td valign=\"top\" colspan=\"2\">\n<p>This photo was created by <a href=\"//commons.wikimedia.org/wiki/User:Cccefalon/Profile\" title=\"User:Cccefalon/Profile\">Uwe Aranas</a>. It is protected by law and is <u>not</u> in the <a href=\"https://en.wikipedia.org/wiki/Public_Domain\" class=\"extiw\" title=\"w:Public Domain\">Public Domain</a>. However, it can be used free of charge by everyone under the terms of the license stated below. \n</p>\n<ul><li><b>The requirements to comply with the terms of licence are:</b></li></ul>\n<dl><dd>- The image is credited with <b>\"Photo by CEphoto, Uwe Aranas\"</b> or alternatively with <b>\"© CEphoto, Uwe Aranas\"</b> in close relation to the image. If this is not possible due to shortage of space, please contact me <u>first</u>.</dd>\n<dd>- You are required to release the image under the same license.</dd></dl>\n<ul><li><b>Not required by the license but highly appreciated:</b></li></ul>\n<dl><dd>- Set up a weblink to the original image when you use the image in online media: <a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:Kindle-Reader-Front-view-with-battery-empty-error-01.jpg\">https://commons.wikimedia.org/wiki/File:Kindle-Reader-Front-view-with-battery-empty-error-01.jpg</a></dd>\n<dd>- Send me a specimen copy or a pdf when used in print media or the URL of the website where the image is used.</dd></dl>\n<p>Please write an email to spam@aranas.de <small>(where you substitute the word <i>spam</i> by <i>cephoto2020</i>)</small>, if you\n</p>\n<ul><li>need the image in a higher resolution</li>\n<li>need my postal address for sending a specimen copy</li>\n<li>have further questions to the terms of licence</li></ul>\n</td>\n</tr>\n</tbody></table>\n</div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "Photo by CEphoto, Uwe Aranas <b>or alternatively</b> © CEphoto, Uwe Aranas",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Amazon Kindle 3 with error message \"Empty Battery\". This message is persistent, even when the battery is damaged or removed.",
+      "artist": "CEphoto, Uwe Aranas",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2015-03-01"
+    },
+    {
+      "title": "File:2023 Amazon Kindle Paperwhite (1).jpg",
+      "pageid": 134825179,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2023_Amazon_Kindle_Paperwhite_(1).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/2023_Amazon_Kindle_Paperwhite_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/2023_Amazon_Kindle_Paperwhite_%281%29.jpg/960px-2023_Amazon_Kindle_Paperwhite_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-07-23 13:12:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "2023 Amazon Kindle Paperwhite (1)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Images by Jacek Halicki|Amazon Kindle Paperwhite|Wikigrant WG 2023-3",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Amazon Kindle Paperwhite",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-07-23 12:56:25",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Jacek_Halicki\" title=\"User:Jacek Halicki\">Jacek Halicki</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Amazon Kindle Paperwhite",
+      "artist": "Jacek Halicki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-07-23 12:56:25"
+    },
+    {
+      "title": "File:Kindle-Reader Lithium-Polymer-Battery-01.jpg",
+      "pageid": 45276945,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kindle-Reader_Lithium-Polymer-Battery-01.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Kindle-Reader_Lithium-Polymer-Battery-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kindle-Reader_Lithium-Polymer-Battery-01.jpg/960px-Kindle-Reader_Lithium-Polymer-Battery-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2015-11-27 15:56:49",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Kindle-Reader Lithium-Polymer-Battery-01",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Lithium-polymer batteries|Self-published work|Information field template with formatting|Amazon Kindle 3|Images by Cccefalon|Images with portrait aspect ratio by User:Cccefalon|Images of objects by User:Cccefalon",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Lithium-Polymer battery of an AmazonKindle",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-11-27",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cccefalon\" title=\"User:Cccefalon\">CEphoto, Uwe Aranas</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<div style=\"border:1px solid green; background-color:#eaeeed;\">\n<table cellpadding=\"3px\">\n<tbody><tr>\n<td align=\"center\">\n<p><span class=\"mw-default-size\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:LOGO-CEphotoUweAranas.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/4/4b/LOGO-CEphotoUweAranas.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"80\" class=\"mw-file-element\" data-file-width=\"80\" data-file-height=\"80\"></a></span>\n</p>\n</td>\n<td valign=\"top\" colspan=\"2\">\n<p>This photo was created by <a href=\"//commons.wikimedia.org/wiki/User:Cccefalon/Profile\" title=\"User:Cccefalon/Profile\">Uwe Aranas</a>. It is protected by law and is <u>not</u> in the <a href=\"https://en.wikipedia.org/wiki/Public_Domain\" class=\"extiw\" title=\"w:Public Domain\">Public Domain</a>. However, it can be used free of charge by everyone under the terms of the license stated below. \n</p>\n<ul><li><b>The requirements to comply with the terms of licence are:</b></li></ul>\n<dl><dd>- The image is credited with <b>\"Photo by CEphoto, Uwe Aranas\"</b> or alternatively with <b>\"© CEphoto, Uwe Aranas\"</b> in close relation to the image. If this is not possible due to shortage of space, please contact me <u>first</u>.</dd>\n<dd>- You are required to release the image under the same license.</dd></dl>\n<ul><li><b>Not required by the license but highly appreciated:</b></li></ul>\n<dl><dd>- Set up a weblink to the original image when you use the image in online media: <a class=\"external free\" href=\"https://commons.wikimedia.org/wiki/File:Kindle-Reader_Lithium-Polymer-Battery-01.jpg\">https://commons.wikimedia.org/wiki/File:Kindle-Reader_Lithium-Polymer-Battery-01.jpg</a></dd>\n<dd>- Send me a specimen copy or a pdf when used in print media or the URL of the website where the image is used.</dd></dl>\n<p>Please write an email to spam@aranas.de <small>(where you substitute the word <i>spam</i> by <i>cephoto2020</i>)</small>, if you\n</p>\n<ul><li>need the image in a higher resolution</li>\n<li>need my postal address for sending a specimen copy</li>\n<li>have further questions to the terms of licence</li></ul>\n</td>\n</tr>\n</tbody></table>\n</div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "Photo by CEphoto, Uwe Aranas <b>or alternatively</b> © CEphoto, Uwe Aranas",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Lithium-Polymer battery of an AmazonKindle",
+      "artist": "CEphoto, Uwe Aranas",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2015-11-27"
+    },
+    {
+      "title": "File:Amazon Kindle Fire.JPG",
+      "pageid": 19684008,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Amazon_Kindle_Fire.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/48/Amazon_Kindle_Fire.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Amazon_Kindle_Fire.JPG/960px-Amazon_Kindle_Fire.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2012-05-31 20:08:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Amazon Kindle Fire",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Amazon Kindle Fire|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "First generation Kindle Fire; Amazon.com's fist tablet computer.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-05-29",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Prescotte\" title=\"User:Prescotte\">Prescotte</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "First generation Kindle Fire; Amazon.com's fist tablet computer.",
+      "artist": "Prescotte",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2012-05-29"
+    },
+    {
+      "title": "File:Weread web version on a Kindle Paperwhite.jpg",
+      "pageid": 167507807,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Weread_web_version_on_a_Kindle_Paperwhite.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Weread_web_version_on_a_Kindle_Paperwhite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Weread_web_version_on_a_Kindle_Paperwhite.jpg/960px-Weread_web_version_on_a_Kindle_Paperwhite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-06-12 20:23:10",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Weread web version on a Kindle Paperwhite",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Amazon Kindle Paperwhite|Taken with Xiaomi Redmi K40 Pro",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "​在Kindle Paperwhite上使用微信读书网页版",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2021-11-20 00:22:49",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:JULIANISME\" title=\"User:JULIANISME\">JULIANISME</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "​在Kindle Paperwhite上使用微信读书网页版",
+      "artist": "JULIANISME",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-11-20 00:22:49"
+    }
+  ]
+}

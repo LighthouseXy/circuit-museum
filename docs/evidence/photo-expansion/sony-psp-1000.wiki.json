@@ -1,0 +1,94 @@
+{
+  "slug": "sony-psp-1000",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:PSP-1000.png",
+      "pageid": 11423084,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PSP-1000.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9a/PSP-1000.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/PSP-1000.png/960px-PSP-1000.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2012-02-25 16:37:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "PSP-1000",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Sony DSLR-A700|Retouched pictures|PlayStation Portable (PSP-1000)|Uploaded with derivativeFX|Evan Amos|Computer hardware with transparent background",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Original model of <a href=\"https://en.wikipedia.org/wiki/en:PlayStation_Portable\" class=\"extiw\" title=\"w:en:PlayStation Portable\">PlayStation Portable</a> (<a href=\"https://en.wikipedia.org/wiki/en:PlayStation_Portable#Models\" class=\"extiw\" title=\"w:en:PlayStation Portable\">PSP-1000</a>) <a href=\"https://en.wikipedia.org/wiki/en:Handheld_games_console\" class=\"extiw\" title=\"w:en:Handheld games console\">console</a>.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2008-10-26",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Psp-1000.jpg\" title=\"File:Psp-1000.jpg\">Psp-1000.jpg</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:Psp-1000.jpg\" title=\"File:Psp-1000.jpg\">Psp-1000.jpg</a>: <a href=\"//commons.wikimedia.org/wiki/User:Evan-Amos\" title=\"User:Evan-Amos\">Evan-Amos</a></li>\n<li>derivative work: <font face=\"century gothic\"><b><a href=\"//commons.wikimedia.org/wiki/User:Alphathon\" title=\"User:Alphathon\"><font color=\"#550000\">Alphathon</font></a></b>™ <small><b>(<a href=\"//commons.wikimedia.org/wiki/User_talk:Alphathon\" title=\"User talk:Alphathon\"><font color=\"#550000\">talk</font></a>)</b></small></font></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Original model of  PlayStation Portable  ( PSP-1000 )  console .",
+      "artist": "Psp-1000.jpg :  Evan-Amos  \n derivative work:     Alphathon   ™   (  talk  )",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2008-10-26"
+    }
+  ]
+}

@@ -1,0 +1,714 @@
+{
+  "slug": "philips-hue-2012",
+  "name": "Hue Starter Pack（首代）",
+  "regionVersion": "美欧首代三灯泡与Bridge；不混后续蓝牙/Matter代",
+  "query": "intitle:\"Philips Hue\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Philips Hue Bridge - June 2018 (1986).jpg",
+      "pageid": 69690702,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philips_Hue_Bridge_-_June_2018_(1986).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Philips_Hue_Bridge_-_June_2018_%281986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Philips_Hue_Bridge_-_June_2018_%281986%29.jpg/960px-Philips_Hue_Bridge_-_June_2018_%281986%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2018-06-04 07:06:37",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Philips Hue Bridge - June 2018 (1986)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Fujifilm X-T20|Philips Hue|Self-published work|Photographs by Gregory Varnum taken in 2018",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Philips Hue Bridge",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-06-03 15:03:02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Varnent\" title=\"User:Varnent\">Gregory Varnum</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Philips Hue Bridge",
+      "artist": "Gregory Varnum",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2018-06-03 15:03:02"
+    },
+    {
+      "title": "File:Philips Hue white bulb - June 2018 (1944).jpg",
+      "pageid": 69690696,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philips_Hue_white_bulb_-_June_2018_(1944).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/71/Philips_Hue_white_bulb_-_June_2018_%281944%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Philips_Hue_white_bulb_-_June_2018_%281944%29.jpg/960px-Philips_Hue_white_bulb_-_June_2018_%281944%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2018-06-04 07:06:32",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Philips Hue white bulb - June 2018 (1944)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Fujifilm X-T20|Philips Hue|Self-published work|Photographs by Gregory Varnum taken in 2018|LED light bulbs with E27 Edison screw",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Philips Hue white bulb",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-06-03 14:48:53",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Varnent\" title=\"User:Varnent\">Gregory Varnum</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Philips Hue white bulb",
+      "artist": "Gregory Varnum",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2018-06-03 14:48:53"
+    },
+    {
+      "title": "File:Philips hue spot fugato plafond.jpg",
+      "pageid": 88482473,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philips_hue_spot_fugato_plafond.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Philips_hue_spot_fugato_plafond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Philips_hue_spot_fugato_plafond.jpg/960px-Philips_hue_spot_fugato_plafond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-03-23 15:11:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Philips hue spot fugato plafond",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Philips Hue|Self-published work|Decorations (esthetic)|LED lighting devices",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "3-way fugato spot from Philips hue",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2020-02-11 21:52:21",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Pascal2187&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Pascal2187 (page does not exist)\">smartlampen.nl</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "3-way fugato spot from Philips hue",
+      "artist": "smartlampen.nl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2020-02-11 21:52:21"
+    },
+    {
+      "title": "File:Philips Hue Smart Dimmer Switch - June 2018 (1970).jpg",
+      "pageid": 69690705,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philips_Hue_Smart_Dimmer_Switch_-_June_2018_(1970).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Philips_Hue_Smart_Dimmer_Switch_-_June_2018_%281970%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Philips_Hue_Smart_Dimmer_Switch_-_June_2018_%281970%29.jpg/960px-Philips_Hue_Smart_Dimmer_Switch_-_June_2018_%281970%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2018-06-04 07:06:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Philips Hue Smart Dimmer Switch - June 2018 (1970)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Fujifilm X-T20|Philips Hue|Self-published work|Photographs by Gregory Varnum taken in 2018",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Philips Hue Smart Dimmer Switch",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-06-03 14:57:31",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Varnent\" title=\"User:Varnent\">Gregory Varnum</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Philips Hue Smart Dimmer Switch",
+      "artist": "Gregory Varnum",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2018-06-03 14:57:31"
+    },
+    {
+      "title": "File:Philips Hue, IFA 2018, Berlin (P1070272).jpg",
+      "pageid": 72339215,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philips_Hue,_IFA_2018,_Berlin_(P1070272).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Philips_Hue%2C_IFA_2018%2C_Berlin_%28P1070272%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Philips_Hue%2C_IFA_2018%2C_Berlin_%28P1070272%29.jpg/960px-Philips_Hue%2C_IFA_2018%2C_Berlin_%28P1070272%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2018-09-04 06:37:08",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Philips Hue, IFA 2018, Berlin (P1070272)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Germany photographs taken on 2018-09-02|Philips Hue|Internationale Funkausstellung 2018|Blue light|Uploaded with LrMediaWiki|User MB-one supported by Wikimedia Deutschland/Lightroom|Pictures by MB-one rejected|F-number f/2.5|Lens focal length 25 mm|Taken with Panasonic DMC-GH1 and LEICA DG SUMMILUX 25/F1.4|Light strips",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "52.503483",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "13.271252",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Philips Hue, Internationale Funkausstellung 2018, Berlin",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-09-02 16:33:16",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:MB-one\" title=\"User:MB-one\">Matti Blume</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Philips Hue, Internationale Funkausstellung 2018, Berlin",
+      "artist": "Matti Blume",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2018-09-02 16:33:16"
+    },
+    {
+      "title": "File:Philips Hue Iris with color loop \"vibrant\" animated.gif",
+      "pageid": 99596050,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philips_Hue_Iris_with_color_loop_%22vibrant%22_animated.gif",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/39/Philips_Hue_Iris_with_color_loop_%22vibrant%22_animated.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/39/Philips_Hue_Iris_with_color_loop_%22vibrant%22_animated.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2022-01-09 22:39:25",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Philips Hue Iris with color loop \"vibrant\" animated",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Germany photographs taken on 2021-02-17|Taken with Huawei P30 Pro|Location not applicable|Philips Hue|Animated GIF files exceeding the 100 MP limit|Self-published work|Color combinations|Videos by Mattes|Motion pictures by Huawei devices|User:Mattes/Contributions/Topics/Colors|Seamless animations|File uploads by User:Mattes (flat)|Work by Mattes 2021",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Philips Hue Iris (special edition: gold) with color loop \"vibrant\"",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Taken on 17 February 2021",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mateus2019\" title=\"User:Mateus2019\">User:Mateus2019</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Philips Hue Iris (special edition: gold) with color loop \"vibrant\"",
+      "artist": "User:Mateus2019",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "Taken on 17 February 2021"
+    },
+    {
+      "title": "File:Philips Hue Bridge — bottom — 2021.jpg",
+      "pageid": 99557027,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philips_Hue_Bridge_%E2%80%94_bottom_%E2%80%94_2021.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Philips_Hue_Bridge_%E2%80%94_bottom_%E2%80%94_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Philips_Hue_Bridge_%E2%80%94_bottom_%E2%80%94_2021.jpg/960px-Philips_Hue_Bridge_%E2%80%94_bottom_%E2%80%94_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2021-02-04 05:21:17",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Philips Hue Bridge — bottom — 2021",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD ineligible|De minimis|Philips Hue|Product certification|User:Mattes/Contributions/Topics/banners, coat of arms, flags, logos, seals and signs|Scanned with Ricoh M C250FWB|File uploads by User:Mattes (flat)|Work by Mattes 2021|User:Mattes/Contributions/Topics/Technology",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Philips Hue Bridge — bottom",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2021-02-04",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "own scan",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Philips",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Philips Hue Bridge — bottom",
+      "artist": "Philips",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "2021-02-04"
+    },
+    {
+      "title": "File:Philips Hue (gold) with white light 2021.jpg",
+      "pageid": 99298557,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philips_Hue_(gold)_with_white_light_2021.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/Philips_Hue_%28gold%29_with_white_light_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Philips_Hue_%28gold%29_with_white_light_2021.jpg/960px-Philips_Hue_%28gold%29_with_white_light_2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2021-01-27 15:22:47",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Philips Hue (gold) with white light 2021",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Huawei P30 Pro|Location not applicable|Philips Hue|Self-published work|Revolution-shaped objects|Golden objects|White light|File uploads by User:Mattes (flat)|Work by Mattes 2021|User:Mattes/Contributions/Topics/Technology",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Philips Hue (special edition: gold) with white light",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2021-01-27",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\">Self-photographed</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mateus2019\" title=\"User:Mateus2019\">User:Mateus2019</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Philips Hue (special edition: gold) with white light",
+      "artist": "User:Mateus2019",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-01-27"
+    }
+  ]
+}

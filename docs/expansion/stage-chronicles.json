@@ -1,0 +1,3684 @@
+{
+  "schemaVersion": 1,
+  "status": "content-layout-proposal-not-imported",
+  "createdOn": "2026-10-11",
+  "title": "产品编年史阶段方案",
+  "base": {
+    "collectionFile": "docs/collection.json",
+    "collectionSha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "chroniclesFile": "docs/chronicles.json",
+    "chroniclesSha256": "e2f4f4a8fce0dc0a4c0166c62f29fe538124d72098f1368a8fc9ad0ae64e2e34",
+    "appendFile": "docs/expansion/first-batch.json",
+    "existingExhibitCount": 40,
+    "appendExhibitCount": 6
+  },
+  "scopeNote": "节点事实沿用已交付资料；阶段名称、需求和比较为本轮策展解读。不是完整行业史，未导入网站。来源核查日期沿用各记录，2026-10-11是方案日，不代表重核所有来源。",
+  "dateKinds": [
+    "commission",
+    "prototype",
+    "announcement",
+    "approval",
+    "launch",
+    "manufacture",
+    "observed"
+  ],
+  "categories": [
+    {
+      "id": "phones",
+      "label": "手机",
+      "title": "电话怎样变成随身的信息界面",
+      "introduction": "从手持通话、按键短信读到触摸与影像：每段先看需要完成的动作，再看产品把这些动作放在哪里。",
+      "scopeNote": "从1973原型与1983批准节点读起，未追溯全部移动通信前史；不是全球品牌、网络制式或智能手机的完整年表。2026仅为已有样本观察。",
+      "featuredSlug": "iphone-4",
+      "startYear": 1973,
+      "endYear": 2026,
+      "stages": [
+        {
+          "id": "phones-handheld",
+          "title": "把电话带在身上",
+          "yearRange": {
+            "start": 1973,
+            "end": 1983,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "原型展示和可商用设备分开看，手持方向仍依赖电池、网络与工程条件。",
+          "need": "离开车辆或固定地点通话",
+          "turn": "蜂窝通话进入可手持的机身",
+          "nodeIds": [
+            "phones-handheld-prototype",
+            "phones-motorola-dynatac-8000x"
+          ],
+          "sourceRefs": [
+            "H:S16",
+            "H:TXM13A"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "phones-keys",
+          "title": "用按键编写短文字",
+          "yearRange": {
+            "start": 2000,
+            "end": 2000,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "Nokia 3310将数字键、Navi键与短信操作组织成随身联系工具。",
+          "need": "通话之外管理联系人与短文字",
+          "turn": "固定按键和短信界面协作",
+          "nodeIds": [
+            "phones-nokia-3310-2000"
+          ],
+          "sourceRefs": [
+            "B:EA01-N01",
+            "B:EA01-N02",
+            "B:EA01-N03",
+            "B:EA01-N04"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "phones-touch",
+          "title": "屏幕承接多种任务",
+          "yearRange": {
+            "start": 2007,
+            "end": 2010,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "初代iPhone与iPhone 4分别展示可变化界面，以及屏幕、摄像头对沟通动作的影响。",
+          "need": "在口袋里切换网页、音乐、照片与交流",
+          "turn": "多点触控、图像显示与前后摄像头扩大任务范围",
+          "nodeIds": [
+            "phones-iphone-1",
+            "phones-iphone-4"
+          ],
+          "sourceRefs": [
+            "H:S33",
+            "H:S35",
+            "H:TD01"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "phones-camera",
+          "title": "在成熟外形里继续改变摄影",
+          "yearRange": {
+            "start": 2026,
+            "end": 2026,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "iPhone 18 Pro作为已登记的2026样本，观察光学与控制；不据单一品牌概括全部手机。",
+          "need": "在随身设备上选择部分拍摄条件",
+          "turn": "摄影系统成为当前样本的观察重点",
+          "nodeIds": [
+            "phones-iphone-18-pro"
+          ],
+          "sourceRefs": [
+            "H:CH08",
+            "H:CH09",
+            "H:TXL15"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        }
+      ],
+      "relatedExhibitSlugs": [
+        "palmpilot-professional",
+        "amazon-kindle-1",
+        "casio-qv10"
+      ],
+      "bridgeCategoryIds": [],
+      "nodes": [
+        {
+          "id": "phones-handheld-prototype",
+          "year": 1973,
+          "title": "手持蜂窝电话原型演示",
+          "dateLabel": "1973-04-03（公开演示原型）",
+          "dateKind": "prototype",
+          "kind": "background",
+          "summary": "Motorola展示可握在手中通话的蜂窝电话原型。演示说明了个人随身通信的方向，但不是十年后获批销售的DynaTAC 8000X。",
+          "change": "从车辆绑定走向个人手持，原型与商品之间仍有工程和网络建设。",
+          "isContemporary": false,
+          "relatedExhibitSlugs": [
+            "motorola-dynatac-8000x"
+          ],
+          "sourceRefs": [
+            "H:S16"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "phones",
+            "nodeId": "phones-handheld-prototype"
+          },
+          "mediaBinding": {
+            "mode": "text-background",
+            "photoImported": false
+          },
+          "stageId": "phones-handheld"
+        },
+        {
+          "id": "phones-motorola-dynatac-8000x",
+          "year": 1983,
+          "dateLabel": "1983 年（FCC 批准，不等于所有市场零售日）",
+          "dateKind": "approval",
+          "kind": "exhibit",
+          "title": "DynaTAC 8000X",
+          "summary": "把蜂窝通话从汽车带到个人手中：高挑机身、外置天线和红色号码显示，记录了随身电话仍需向电池与网络妥协的阶段。",
+          "change": "手持通信从演示走向可商用的设备。",
+          "exhibitSlug": "motorola-dynatac-8000x",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:S16",
+            "H:TXM13A"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "phones",
+            "nodeId": "phones-motorola-dynatac-8000x"
+          },
+          "brand": "Motorola",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "motorola-dynatac-8000x",
+            "mode": "text-fallback",
+            "photoImported": false
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "motorola-dynatac-8000x",
+            "status": "existing"
+          },
+          "stageId": "phones-handheld"
+        },
+        {
+          "id": "phones-nokia-3310-2000",
+          "year": 2000,
+          "dateLabel": "2000年9月1日（发布；原稿计划第四季度供货）",
+          "dateKind": "announcement",
+          "kind": "exhibit",
+          "title": "Nokia 3310（2000年原版）",
+          "summary": "数字键、联系人和短信聊天组成可学习的随身联系工具。",
+          "change": "手机的动作扩展到编写短文字；网络/SIM条件与可换外壳共同进入日常使用。",
+          "exhibitSlug": "nokia-3310-2000",
+          "isContemporary": false,
+          "origin": {
+            "file": "docs/expansion/first-batch.json",
+            "categoryId": "phones",
+            "nodeId": "phones-nokia-3310-2000"
+          },
+          "sourceRefs": [
+            "B:EA01-N01",
+            "B:EA01-N02",
+            "B:EA01-N03",
+            "B:EA01-N04"
+          ],
+          "brand": "Nokia",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "nokia-3310-2000",
+            "mode": "text-fallback",
+            "photoImported": false
+          },
+          "exhibitBinding": {
+            "file": "docs/expansion/first-batch.json",
+            "slug": "nokia-3310-2000",
+            "status": "ready-proposal"
+          },
+          "stageId": "phones-keys",
+          "regionVersion": "GSM 900/1800 原版；馆藏参考为带O2 SIM的英国使用实物，排除3390及2017复刻"
+        },
+        {
+          "id": "phones-iphone-1",
+          "year": 2007,
+          "dateLabel": "2007-01-09（发布，同年销售）",
+          "dateKind": "announcement",
+          "kind": "exhibit",
+          "title": "iPhone 第一代",
+          "summary": "把拨号、音乐、照片与网页放进同一块多点触控屏，用随任务变化的界面重新组织口袋里的操作。",
+          "change": "功能切换更多交给软件界面。",
+          "exhibitSlug": "iphone-1",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:S33"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "phones",
+            "nodeId": "phones-iphone-1"
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "iphone-1",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "iphone-1",
+            "status": "existing"
+          },
+          "stageId": "phones-touch"
+        },
+        {
+          "id": "phones-iphone-4",
+          "year": 2010,
+          "dateLabel": "2010-06-07（发布；首批发售 06-24）",
+          "dateKind": "announcement",
+          "kind": "exhibit",
+          "title": "iPhone 4",
+          "summary": "把高密度屏、前后摄像头和玻璃钢框集中在小机身中，让阅读、自拍视频通话与现场记录更紧密相连。",
+          "change": "屏幕与摄像头共同塑造沟通方式。",
+          "exhibitSlug": "iphone-4",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:S35",
+            "H:TD01"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "phones",
+            "nodeId": "phones-iphone-4"
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "iphone-4",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "iphone-4",
+            "status": "existing"
+          },
+          "stageId": "phones-touch"
+        },
+        {
+          "id": "phones-iphone-18-pro",
+          "year": 2026,
+          "dateLabel": "2026-09-18（首批市场发售）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "iPhone 18 Pro",
+          "summary": "把可变光圈与可调整的相机控制放进随身手机，让拍摄者在自动成像之外直接选择部分光学与曝光条件。",
+          "change": "成熟外形之内，摄影系统继续变化。",
+          "exhibitSlug": "iphone-18-pro",
+          "isContemporary": true,
+          "sourceRefs": [
+            "H:CH08",
+            "H:CH09",
+            "H:TXL15"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "phones",
+            "nodeId": "phones-iphone-18-pro"
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "iphone-18-pro",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "iphone-18-pro",
+            "status": "existing"
+          },
+          "stageId": "phones-camera"
+        }
+      ]
+    },
+    {
+      "id": "computers",
+      "label": "个人电脑",
+      "title": "计算如何来到书桌，再随人移动",
+      "introduction": "从组装、输入和显示的安排读到整机携带、维护与平台变化。分段描述并行取舍，不把后一件产品写成前一件的必然替代。",
+      "scopeNote": "ENIAC为机构计算背景，不是个人电脑的诞生年。所选桌面与笔记本不足以覆盖所有品牌、处理器或操作系统。",
+      "featuredSlug": "macbook-2006",
+      "startYear": 1946,
+      "endYear": 2026,
+      "stages": [
+        {
+          "id": "computers-participation",
+          "title": "个人参与组装与操作",
+          "yearRange": {
+            "start": 1946,
+            "end": 1976,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "大型电子计算前史之后，Altair与Apple-1给个人留下不同程度的装配和输入工作。",
+          "need": "学习、运行并改造个人可接触的计算设备",
+          "turn": "面板拨杆与键盘/文字显示呈现不同操作方式",
+          "nodeIds": [
+            "computers-eniac",
+            "computers-altair-8800",
+            "computers-apple-1"
+          ],
+          "sourceRefs": [
+            "H:CH14",
+            "H:S09",
+            "H:TXE05",
+            "H:S10",
+            "H:TXE06"
+          ],
+          "comparison": "Altair与Apple-1比较装配和输入条件，不作销量或普及率结论。",
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "computers-desk",
+          "title": "书桌上的三种系统安排",
+          "yearRange": {
+            "start": 1981,
+            "end": 1984,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "IBM PC、Commodore 64与Macintosh并看：扩展主机、键盘一体机、图形桌面分别把操作门槛放在不同位置。",
+          "need": "用同一台设备处理程序、工作与家庭任务",
+          "turn": "扩展部件、BASIC入口与图形对象成为并行选择",
+          "nodeIds": [
+            "computers-ibm-pc-5150",
+            "computers-commodore-64",
+            "computers-macintosh-128k"
+          ],
+          "sourceRefs": [
+            "H:S14",
+            "H:TXE12",
+            "C:S15",
+            "C:TXE11",
+            "H:S18",
+            "H:TXM15A",
+            "H:TXM15B"
+          ],
+          "comparison": "三品牌真实产品对照；不同定位、软件和外设条件，不能作同条件性能排名。",
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "computers-portable",
+          "title": "整合与携带的不同回答",
+          "yearRange": {
+            "start": 1995,
+            "end": 2006,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "ThinkPad 701C展开键盘，iMac整合桌面部件，MacBook把日常工作带出书桌。它们回答不同需求。",
+          "need": "在可携带尺寸、输入面积与整机使用之间取舍",
+          "turn": "展开机构、一体机与消费笔记本并存",
+          "nodeIds": [
+            "computers-ibm-thinkpad-701c",
+            "computers-imac-g3",
+            "computers-macbook-2006"
+          ],
+          "sourceRefs": [
+            "B:H15A",
+            "B:H15B",
+            "B:H15C",
+            "H:S26",
+            "H:TXM20A",
+            "H:TXM20B",
+            "H:TXM20C",
+            "H:S30",
+            "H:TXM23A",
+            "H:TXM23B"
+          ],
+          "comparison": "701C为美国2630-UT5；同年撤售不解释为可靠性失败。",
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "computers-maintenance",
+          "title": "便携电脑里的维护与集成",
+          "yearRange": {
+            "start": 2021,
+            "end": 2026,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "Framework首代把端口和部件更换纳入使用过程；2026 MacBook Air作为集成平台与轻便形态的当前样本。",
+          "need": "继续使用、维护与承担本地工作",
+          "turn": "可拆部件和集成计算平台呈现不同取舍",
+          "nodeIds": [
+            "computers-framework-laptop-13-2021",
+            "computers-macbook-air-m5-2026"
+          ],
+          "sourceRefs": [
+            "B:AMF01",
+            "B:AMF02",
+            "B:AMF06",
+            "B:AMF03",
+            "B:AMF04",
+            "B:AMF05",
+            "B:AMF07",
+            "H:CH07"
+          ],
+          "comparison": "不同年份与平台，只比较设计选择；未测维修成功率、寿命、环保收益或性能优劣。",
+          "isCuratorialInterpretation": true
+        }
+      ],
+      "relatedExhibitSlugs": [
+        "hp-35",
+        "ipad-1",
+        "raspberry-pi-model-b",
+        "logitech-mx-master-3"
+      ],
+      "bridgeCategoryIds": [],
+      "nodes": [
+        {
+          "id": "computers-eniac",
+          "year": 1946,
+          "title": "ENIAC公开展示",
+          "dateLabel": "1946年（公开展示）",
+          "dateKind": "announcement",
+          "kind": "background",
+          "summary": "ENIAC以电子器件进行计算，程序设置涉及开关和接线。它属于大型电子计算前史，距离个人买来放上书桌的电脑仍有明显区别。",
+          "change": "电子计算先成为机构设备，随后才逐渐走向个人使用。",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:CH14"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "computers",
+            "nodeId": "computers-eniac"
+          },
+          "mediaBinding": {
+            "mode": "text-background",
+            "photoImported": false
+          },
+          "stageId": "computers-participation"
+        },
+        {
+          "id": "computers-altair-8800",
+          "year": 1975,
+          "dateLabel": "1975 年（套件进入公众视野）",
+          "dateKind": "announcement",
+          "kind": "exhibit",
+          "title": "Altair 8800",
+          "summary": "前面板拨杆把二进制数据送入内存，指示灯显示机器状态；用户逐字节写程序、运行并检查结果，让个人电脑成为可学习和改造的对象。",
+          "change": "计算开始成为个人能够组装和探索的活动。",
+          "exhibitSlug": "altair-8800",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:S09",
+            "H:TXE05"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "computers",
+            "nodeId": "computers-altair-8800"
+          },
+          "brand": "MITS",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "altair-8800",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "altair-8800",
+            "status": "existing"
+          },
+          "stageId": "computers-participation"
+        },
+        {
+          "id": "computers-apple-1",
+          "year": 1976,
+          "dateLabel": "1976 年（推出）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Apple-1",
+          "summary": "把计算电路、键盘接口和文字显示放到已组装单板上，用户能输入、检查并运行程序；补齐外设后，机器操作进入键盘与屏幕之间。",
+          "change": "装配工作减少，个人仍参与定义整机。",
+          "exhibitSlug": "apple-1",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:S10",
+            "H:TXE06"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "computers",
+            "nodeId": "computers-apple-1"
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "apple-1",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "apple-1",
+            "status": "existing"
+          },
+          "stageId": "computers-participation"
+        },
+        {
+          "id": "computers-ibm-pc-5150",
+          "year": 1981,
+          "dateLabel": "1981 年（8 月发布）",
+          "dateKind": "announcement",
+          "kind": "exhibit",
+          "title": "IBM PC 5150",
+          "summary": "独立键盘、可扩展主机与公开技术资料组成工作系统，用户按任务选择外设，第三方开发围绕共同接口展开，电脑能力随配置继续扩充。",
+          "change": "标准化部件让系统可以扩展。",
+          "exhibitSlug": "ibm-pc-5150",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:S14",
+            "H:TXE12"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "computers",
+            "nodeId": "computers-ibm-pc-5150"
+          },
+          "brand": "IBM",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "ibm-pc-5150",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "ibm-pc-5150",
+            "status": "existing"
+          },
+          "stageId": "computers-desk"
+        },
+        {
+          "id": "computers-commodore-64",
+          "year": 1982,
+          "dateLabel": "1982 年（推出）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Commodore 64",
+          "summary": "键盘与电脑装进同一机身，接上显示设备即进入 BASIC；家庭用户既能装载软件，也能输入程序并立即尝试，创作入口就在开机之后。",
+          "change": "与扩展主机、图形一体机并看：键盘一体机把家庭编程留在开机后的入口。",
+          "exhibitSlug": "commodore-64",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:S15",
+            "C:TXE11"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "commodore-64",
+            "newChroniclePlacement": true
+          },
+          "brand": "Commodore",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "commodore-64",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "commodore-64",
+            "status": "existing"
+          },
+          "stageId": "computers-desk"
+        },
+        {
+          "id": "computers-macintosh-128k",
+          "year": 1984,
+          "dateLabel": "1984 年（初代推出）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Macintosh 128K",
+          "summary": "把黑白屏幕、软盘驱动器、键盘和单键鼠标组织成一套图形桌面，让开文件、写文字和画图都获得看得见的操作对象。",
+          "change": "交互从记住命令转向识别屏幕上的对象。",
+          "exhibitSlug": "macintosh-128k",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:S18",
+            "H:TXM15A",
+            "H:TXM15B"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "computers",
+            "nodeId": "computers-macintosh-128k"
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "macintosh-128k",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "macintosh-128k",
+            "status": "existing"
+          },
+          "stageId": "computers-desk"
+        },
+        {
+          "id": "computers-ibm-thinkpad-701c",
+          "year": 1995,
+          "dateLabel": "1995-03（美国2630-UT5可售）；1995-12撤售",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "ThinkPad 701C",
+          "summary": "将小机身的携带面积与展开后的全尺寸键盘分开。",
+          "change": "便携笔记本以机构运动调配收纳与输入空间，前提也随屏幕增大而变化。",
+          "exhibitSlug": "ibm-thinkpad-701c",
+          "isContemporary": false,
+          "origin": {
+            "file": "docs/expansion/first-batch.json",
+            "categoryId": "computers",
+            "nodeId": "computers-ibm-thinkpad-701c"
+          },
+          "sourceRefs": [
+            "B:H15A",
+            "B:H15B",
+            "B:H15C"
+          ],
+          "brand": "IBM",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "ibm-thinkpad-701c",
+            "mode": "text-fallback",
+            "photoImported": false
+          },
+          "exhibitBinding": {
+            "file": "docs/expansion/first-batch.json",
+            "slug": "ibm-thinkpad-701c",
+            "status": "ready-proposal"
+          },
+          "stageId": "computers-portable",
+          "regionVersion": "美国75MHz、540MB UT5；不混701CS被动矩阵屏或50MHz UT2"
+        },
+        {
+          "id": "computers-imac-g3",
+          "year": 1998,
+          "dateLabel": "1998 年（初版推出）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "iMac G3",
+          "summary": "半透明的邦迪蓝外壳把主机、屏幕与联网部件装进一体机，让初次把电脑搬回家的人先认识一个清晰可辨的桌面物件。",
+          "change": "整合和可识别的外观成为产品重点。",
+          "exhibitSlug": "imac-g3",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:S26",
+            "H:TXM20A",
+            "H:TXM20B",
+            "H:TXM20C"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "computers",
+            "nodeId": "computers-imac-g3"
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "imac-g3",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "imac-g3",
+            "status": "existing"
+          },
+          "stageId": "computers-portable"
+        },
+        {
+          "id": "computers-macbook-2006",
+          "year": 2006,
+          "dateLabel": "2006-05-16（第一代 MacBook 发布）",
+          "dateKind": "announcement",
+          "kind": "exhibit",
+          "title": "MacBook 第一代",
+          "summary": "白色或黑色机身的初代 MacBook，把英特尔处理器、摄像头与磁吸电源放进消费笔记本，串起工作、交流和媒体使用。",
+          "change": "屏幕、键盘和日常工作随人移动。",
+          "exhibitSlug": "macbook-2006",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:S30",
+            "H:TXM23A",
+            "H:TXM23B"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "computers",
+            "nodeId": "computers-macbook-2006"
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "macbook-2006",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "macbook-2006",
+            "status": "existing"
+          },
+          "stageId": "computers-portable"
+        },
+        {
+          "id": "computers-framework-laptop-13-2021",
+          "year": 2021,
+          "dateLabel": "2021年7月首批出货（2月25日公布）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Framework Laptop（首代13.5英寸／后称Laptop 13）",
+          "summary": "首代可更换端口和部件，让维护进入便携电脑的使用过程。",
+          "change": "后续兼容主板替换是已记录的实例；可拆结构、文档、供货和用户技能共同制约持续使用。",
+          "exhibitSlug": "framework-laptop-13-2021",
+          "isContemporary": false,
+          "origin": {
+            "file": "docs/expansion/first-batch.json",
+            "categoryId": "computers",
+            "nodeId": "computers-framework-laptop-13-2021"
+          },
+          "sourceRefs": [
+            "B:AMF01",
+            "B:AMF02",
+            "B:AMF06",
+            "B:AMF03",
+            "B:AMF04",
+            "B:AMF05",
+            "B:AMF07"
+          ],
+          "dateKindNormalization": "首批出货归入launch；dateLabel原文保留，不改公布日期或地区。",
+          "brand": "Framework",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "framework-laptop-13-2021",
+            "mode": "text-fallback",
+            "photoImported": false
+          },
+          "exhibitBinding": {
+            "file": "docs/expansion/first-batch.json",
+            "slug": "framework-laptop-13-2021",
+            "status": "ready-proposal"
+          },
+          "stageId": "computers-maintenance",
+          "regionVersion": "2021年第11代Intel Core；美国5月、加拿大6月开放预售，地区实际收货另核；DIY与预装版分列说明"
+        },
+        {
+          "id": "computers-macbook-air-m5-2026",
+          "year": 2026,
+          "dateLabel": "2026-03-03（发布；公告列3月11日发售）",
+          "dateKind": "announcement",
+          "kind": "exhibit",
+          "title": "MacBook Air 13英寸（M5）",
+          "summary": "在13英寸无风扇笔记本中组合M5计算、统一内存与外设连接，观察轻便电脑怎样承担更复杂的本地工作。",
+          "change": "便携形态保持稳定，处理器平台继续演进。",
+          "exhibitSlug": "macbook-air-m5-2026",
+          "isContemporary": true,
+          "sourceRefs": [
+            "H:CH07"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "computers",
+            "nodeId": "computers-macbook-air-m5-2026"
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "macbook-air-m5-2026",
+            "mode": "text-fallback",
+            "photoImported": false
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "macbook-air-m5-2026",
+            "status": "existing"
+          },
+          "stageId": "computers-maintenance"
+        }
+      ]
+    },
+    {
+      "id": "players",
+      "label": "收音机与播放器",
+      "title": "从收听节目，到携带自己的音乐库",
+      "introduction": "沿广播接收、磁带、数字光盘与硬盘音乐库读五件真实产品。播放设备与耳机分别讲述，家用与随身两条路线并行。",
+      "scopeNote": "本线仅选1924—2001样本。1924是Radiola档案实物年代，不是广播起源；1982 CD与1979磁带不构成全面替代。网络音频、流媒体和2001后播放器尚缺适合此线的完整内容。",
+      "featuredSlug": "sony-tps-l2",
+      "startYear": 1924,
+      "endYear": 2001,
+      "stages": [
+        {
+          "id": "players-broadcast",
+          "title": "调节并接收广播",
+          "yearRange": {
+            "start": 1924,
+            "end": 1954,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "Radiola III与Regency TR-1分别展示电子管调节和小型晶体管机身，收听的携带条件随之改变。",
+          "need": "接收节目，并选择在哪里收听",
+          "turn": "接收、放大与小型机身之间重新分配操作",
+          "nodeIds": [
+            "players-radiola-iii",
+            "players-regency-tr1"
+          ],
+          "sourceRefs": [
+            "C:S01",
+            "C:TXE01",
+            "C:S03",
+            "C:TXE02"
+          ],
+          "comparison": "RCA与Regency跨品牌样本，1924—1954的选点不代表连续行业发展。",
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "players-tape",
+          "title": "把选好的录音带出门",
+          "yearRange": {
+            "start": 1979,
+            "end": 1979,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "TPS-L2与耳机组成个人随身系统，出门前需要选择要携带的磁带。",
+          "need": "移动中聆听自己选择的录音",
+          "turn": "磁带播放与轻便耳机组合",
+          "nodeIds": [
+            "players-sony-tps-l2"
+          ],
+          "sourceRefs": [
+            "C:S13",
+            "C:TXE10"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "players-disc",
+          "title": "在家中装载数字光盘",
+          "yearRange": {
+            "start": 1982,
+            "end": 1982,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "CDP-101以装载、选曲和遥控动作解释新介质，仍依赖唱片、格式与家庭音响系统。",
+          "need": "播放并查找唱片中的曲目",
+          "turn": "数字光盘进入可操作的家庭组件",
+          "nodeIds": [
+            "players-sony-cdp-101"
+          ],
+          "sourceRefs": [
+            "B:H16A",
+            "B:H16C",
+            "B:H16G",
+            "B:H16B",
+            "B:H16D"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "players-library",
+          "title": "随身整理一份音乐库",
+          "yearRange": {
+            "start": 2001,
+            "end": 2001,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "初代iPod把电脑同步、硬盘与滚轮列表组合；可先在电脑整理并同步曲库，再在机上选曲。",
+          "need": "在携带的音乐库中寻找歌曲",
+          "turn": "列表与同步重新组织音乐选择",
+          "nodeIds": [
+            "players-ipod-1"
+          ],
+          "sourceRefs": [
+            "C:S28",
+            "C:TXM21A"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        }
+      ],
+      "relatedExhibitSlugs": [],
+      "bridgeCategoryIds": [
+        "headphones"
+      ],
+      "nodes": [
+        {
+          "id": "players-radiola-iii",
+          "year": 1924,
+          "dateLabel": "1924 年（馆藏实物制造年份）",
+          "dateKind": "manufacture",
+          "kind": "exhibit",
+          "title": "Radiola III",
+          "summary": "两只电子管与数个调节旋钮，让寻找广播信号的过程直接呈现在面板上；家庭收听需要配合调节接收与放大，使用者也参与机器工作。",
+          "change": "使用者调节接收与放大；1924是所引实物年代，不是广播品类的诞生年。",
+          "exhibitSlug": "radiola-iii",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:S01",
+            "C:TXE01"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "radiola-iii",
+            "newChroniclePlacement": true
+          },
+          "brand": "RCA",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "radiola-iii",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "radiola-iii",
+            "status": "existing"
+          },
+          "stageId": "players-broadcast"
+        },
+        {
+          "id": "players-regency-tr1",
+          "year": 1954,
+          "dateLabel": "1954 年（上市年份）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Regency TR-1",
+          "summary": "四只晶体管把 AM 广播接收装进小型塑料机身，扬声器与耳机插口提供分享和个人收听两种方式，让便携与声音的使用范围一同改变。",
+          "change": "小型晶体管收音机改变广播接收的携带条件。",
+          "exhibitSlug": "regency-tr1",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:S03",
+            "C:TXE02"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "regency-tr1",
+            "newChroniclePlacement": true
+          },
+          "brand": "Regency",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "regency-tr1",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "regency-tr1",
+            "status": "existing"
+          },
+          "stageId": "players-broadcast"
+        },
+        {
+          "id": "players-sony-tps-l2",
+          "year": 1979,
+          "dateLabel": "1979-07-01（日本上市）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Walkman TPS-L2",
+          "summary": "磁带播放与轻便耳机组成随身系统，听众先选好要携带的录音，再带着音乐移动；删除录音和外放，让整套产品围绕个人聆听展开。",
+          "change": "从接收正在播送的节目，转向随身携带选好的录音。",
+          "exhibitSlug": "sony-tps-l2",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:S13",
+            "C:TXE10"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "sony-tps-l2",
+            "newChroniclePlacement": true
+          },
+          "brand": "Sony",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "sony-tps-l2",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "sony-tps-l2",
+            "status": "existing"
+          },
+          "stageId": "players-tape"
+        },
+        {
+          "id": "players-sony-cdp-101",
+          "year": 1982,
+          "dateLabel": "1982-10-01（日本首发；其他市场日期另核）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "CDP-101",
+          "summary": "将数字音乐光盘放入水平抽屉，再用按键与遥控器选择曲目。CDP-101把新介质变成可操作的家用组件，聆听也依赖唱片供给、格式和装载机构共同成立。",
+          "change": "家庭组件以抽屉、按键与遥控器组织数字光盘的装载和选曲。",
+          "exhibitSlug": "sony-cdp-101",
+          "isContemporary": false,
+          "sourceRefs": [
+            "B:H16A",
+            "B:H16C",
+            "B:H16G",
+            "B:H16B",
+            "B:H16D"
+          ],
+          "origin": {
+            "file": "docs/expansion/first-batch.json",
+            "exhibitSlug": "sony-cdp-101",
+            "newChroniclePlacement": true
+          },
+          "brand": "Sony",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "sony-cdp-101",
+            "mode": "text-fallback",
+            "photoImported": false
+          },
+          "exhibitBinding": {
+            "file": "docs/expansion/first-batch.json",
+            "slug": "sony-cdp-101",
+            "status": "ready-proposal"
+          },
+          "stageId": "players-disc",
+          "regionVersion": "1982日本首发作为年代锚；英文原手册与美国评测只支持通用操作，不套日本电源规格"
+        },
+        {
+          "id": "players-ipod-1",
+          "year": 2001,
+          "dateLabel": "2001-10-23（发布）",
+          "dateKind": "announcement",
+          "kind": "exhibit",
+          "title": "iPod 第一代",
+          "summary": "真正转动的滚轮把长长的歌曲列表交给拇指，硬盘和电脑同步则让听众随身带走整理好的音乐库，减少出门前挑选唱片。",
+          "change": "电脑同步与列表操作把音乐库带到随身播放器。",
+          "exhibitSlug": "ipod-1",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:S28",
+            "C:TXM21A"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "ipod-1",
+            "newChroniclePlacement": true
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "ipod-1",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "ipod-1",
+            "status": "existing"
+          },
+          "stageId": "players-library"
+        }
+      ]
+    },
+    {
+      "id": "headphones",
+      "label": "耳机",
+      "title": "从近耳受话，到个人的声音环境",
+      "introduction": "耳机本体与音源系统一起看：用途、佩戴、连接和收纳都影响如何聆听。",
+      "scopeNote": "1879实物和1895服务为近耳聆听背景，不是耳机发明年。无线段目前主要为Apple样本，未覆盖所有降噪、运动或有线路线。",
+      "featuredSlug": "airpods-1",
+      "startYear": 1879,
+      "endYear": 2026,
+      "stages": [
+        {
+          "id": "headphones-receiver",
+          "title": "近耳聆听的通信与服务前史",
+          "yearRange": {
+            "start": 1879,
+            "end": 1895,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "电话受话器与Electrophone服务展示耳边接收和远程演出，分别保留物件与服务身份。",
+          "need": "接收通话或远处演出",
+          "turn": "线路与近耳受话器组织专用聆听",
+          "nodeIds": [
+            "headphones-telephone-receiver",
+            "headphones-electrophone"
+          ],
+          "sourceRefs": [
+            "H:CH16",
+            "H:CH17"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "headphones-stereo",
+          "title": "把音乐送到左右耳",
+          "yearRange": {
+            "start": 1958,
+            "end": 1958,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "SP/3为立体声唱机配套，让音乐聆听成为耳机的一种产品方向。",
+          "need": "在个人空间听立体声音乐",
+          "turn": "左右声道和双耳佩戴结合",
+          "nodeIds": [
+            "headphones-koss-sp3"
+          ],
+          "sourceRefs": [
+            "H:CH01"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "headphones-portable",
+          "title": "与播放系统一起移动",
+          "yearRange": {
+            "start": 1979,
+            "end": 1979,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "此处的TPS-L2讲播放器与轻巧耳机的组合；播放器本体可跳到声音播放线。",
+          "need": "随人移动时继续听录音",
+          "turn": "音源与耳机共同决定携带体验",
+          "nodeIds": [
+            "headphones-walkman-system"
+          ],
+          "sourceRefs": [
+            "H:S13"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "headphones-wireless",
+          "title": "连接、收纳与周围声音",
+          "yearRange": {
+            "start": 2016,
+            "end": 2026,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "初代AirPods改变取出、戴上和收回动作；2026样本观察环境声音控制。",
+          "need": "随身听音，同时安排连接、充电与环境声音",
+          "turn": "无线连接、充电盒与声音控制进入系统",
+          "nodeIds": [
+            "headphones-airpods-1",
+            "headphones-airpods-5"
+          ],
+          "sourceRefs": [
+            "H:CH06",
+            "H:TXL16",
+            "H:TXL09",
+            "H:CH08",
+            "H:CH09",
+            "H:TXL13"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        }
+      ],
+      "relatedExhibitSlugs": [],
+      "bridgeCategoryIds": [
+        "players"
+      ],
+      "nodes": [
+        {
+          "id": "headphones-telephone-receiver",
+          "year": 1879,
+          "title": "电话受话器的近耳聆听",
+          "dateLabel": "1879年（馆藏实物年代）",
+          "dateKind": "manufacture",
+          "kind": "background",
+          "summary": "Science Museum Group收藏的电话受话器展示了早期近耳接收声音的物件。它是通信前史，不是立体声耳机，也不能据其制造年份断言耳机在这一年发明。",
+          "change": "声音在耳边被单独接收。",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:CH16"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "headphones",
+            "nodeId": "headphones-telephone-receiver"
+          },
+          "mediaBinding": {
+            "mode": "text-background",
+            "photoImported": false
+          },
+          "stageId": "headphones-receiver"
+        },
+        {
+          "id": "headphones-electrophone",
+          "year": 1895,
+          "title": "通过电话线聆听现场演出",
+          "dateLabel": "1895年（伦敦Electrophone公司开始营业）",
+          "dateKind": "launch",
+          "kind": "background",
+          "summary": "听众用置于下巴两侧的双耳受话器，通过电话线接入剧场等场所。聆听设备已经能够服务娱乐，但仍受线路和订阅系统约束。",
+          "change": "近耳聆听从对话扩展到远程演出。",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:CH17"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "headphones",
+            "nodeId": "headphones-electrophone"
+          },
+          "mediaBinding": {
+            "mode": "text-background",
+            "photoImported": false
+          },
+          "stageId": "headphones-receiver"
+        },
+        {
+          "id": "headphones-koss-sp3",
+          "year": 1958,
+          "dateLabel": "1958年（产品展示与推出）",
+          "dateKind": "announcement",
+          "kind": "exhibit",
+          "title": "SP/3",
+          "summary": "为立体声唱机配套的双耳耳机，让左右声道直接送到听者耳边，音源继续负责播放，耳机则专门改变如何听，把私人聆听发展成产品方向。",
+          "change": "音乐体验成为耳机设计的中心。",
+          "exhibitSlug": "koss-sp3",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:CH01"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "headphones",
+            "nodeId": "headphones-koss-sp3"
+          },
+          "brand": "Koss",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "koss-sp3",
+            "mode": "text-fallback",
+            "photoImported": false
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "koss-sp3",
+            "status": "existing"
+          },
+          "stageId": "headphones-stereo"
+        },
+        {
+          "id": "headphones-walkman-system",
+          "year": 1979,
+          "title": "随身播放器与轻巧耳机组合",
+          "dateLabel": "1979-07-01（TPS-L2日本上市）",
+          "dateKind": "launch",
+          "kind": "background",
+          "summary": "Walkman TPS-L2将便携磁带播放和轻巧耳机组合，使聆听伴随移动。本节点讲播放系统与耳机的关系；TPS-L2本身不是耳机。",
+          "change": "音乐与个人一起离开固定聆听位置。",
+          "isContemporary": false,
+          "relatedExhibitSlugs": [
+            "sony-tps-l2"
+          ],
+          "sourceRefs": [
+            "H:S13"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "headphones",
+            "nodeId": "headphones-walkman-system"
+          },
+          "mediaBinding": {
+            "mode": "text-background",
+            "photoImported": false
+          },
+          "stageId": "headphones-portable"
+        },
+        {
+          "id": "headphones-airpods-1",
+          "year": 2016,
+          "dateLabel": "2016-12-13（开放在线订购）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "AirPods 第一代",
+          "summary": "把左右耳机各自独立供电、入耳感应和充电盒组合起来，让取出、戴上、收回成为无线听音的主要动作。",
+          "change": "无线化同时改变收纳、充电与连接。",
+          "exhibitSlug": "airpods-1",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:CH06",
+            "H:TXL16",
+            "H:TXL09"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "headphones",
+            "nodeId": "headphones-airpods-1"
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "airpods-1",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "airpods-1",
+            "status": "existing"
+          },
+          "stageId": "headphones-wireless"
+        },
+        {
+          "id": "headphones-airpods-5",
+          "year": 2026,
+          "dateLabel": "2026-09-18（首批市场发售）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "AirPods 5",
+          "summary": "以新的声学结构与主动降噪调节开放式听音，把随身耳机的关注点从连接方便扩展到周围声音的选择。",
+          "change": "开放式佩戴继续扩展环境声音控制。",
+          "exhibitSlug": "airpods-5",
+          "isContemporary": true,
+          "sourceRefs": [
+            "H:CH08",
+            "H:CH09",
+            "H:TXL13"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "headphones",
+            "nodeId": "headphones-airpods-5"
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "airpods-5",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "airpods-5",
+            "status": "existing"
+          },
+          "stageId": "headphones-wireless"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "label": "游戏机",
+      "title": "游戏如何走出一台固定的电视",
+      "introduction": "从家庭电视、卡带与掌机，到光盘、不同输入方式和PC游戏掌上设备。每个阶段保留桌面与随身的并行选择。",
+      "scopeNote": "精选1972—2022的八件产品；不宣称家庭电子游戏诞生年、全部主机世代或发展到2026。街机、网络主机与其他品牌仍有策展缺口。",
+      "featuredSlug": "game-boy",
+      "startYear": 1972,
+      "endYear": 2022,
+      "stages": [
+        {
+          "id": "gaming-television",
+          "title": "电视、主机与可更换的游戏",
+          "yearRange": {
+            "start": 1972,
+            "end": 1983,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "Odyssey的实体规则与VCS、Famicom的程序卡带并看，家庭游戏系统把硬件、内容和共同参与重新组合。",
+          "need": "在家中共同玩不同游戏",
+          "turn": "电视图形、实体规则与程序卡带形成不同系统",
+          "nodeIds": [
+            "gaming-magnavox-odyssey",
+            "gaming-atari-vcs",
+            "gaming-nintendo-famicom"
+          ],
+          "sourceRefs": [
+            "C:S08",
+            "C:TXE04",
+            "C:S11",
+            "C:TXE07",
+            "C:S17",
+            "C:TXM14A"
+          ],
+          "comparison": "Magnavox、Atari与Nintendo跨品牌；Odyssey插卡改变电路，不称为储存游戏程序的卡带。",
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "gaming-spaces",
+          "title": "掌上与电视前的两条空间路线",
+          "yearRange": {
+            "start": 1989,
+            "end": 1994,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "Game Boy把屏幕带在身上，PlayStation在电视前组织光盘与三维场景；两件产品不构成相互替代。",
+          "need": "随身游玩，或在家庭电视前进入更复杂的声画",
+          "turn": "携带屏幕与光盘三维系统并行",
+          "nodeIds": [
+            "gaming-game-boy",
+            "gaming-sony-playstation"
+          ],
+          "sourceRefs": [
+            "C:S20",
+            "C:TXM16A",
+            "C:TXM17A",
+            "C:TXM17B",
+            "C:S21"
+          ],
+          "comparison": "Nintendo与Sony样本比较游玩空间和内容介质，不比较同条件性能。",
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "gaming-input",
+          "title": "触笔、按键与身体动作",
+          "yearRange": {
+            "start": 2004,
+            "end": 2006,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "DS在掌机中组合双屏触笔，Wii在电视前引入指向和挥动；同一阶段可以有不同输入方向。",
+          "need": "让不同游戏任务获得合适的操作入口",
+          "turn": "屏幕触笔与遥控器动作扩展输入方式",
+          "nodeIds": [
+            "gaming-nintendo-ds",
+            "gaming-nintendo-wii"
+          ],
+          "sourceRefs": [
+            "C:S29",
+            "C:TXM22A",
+            "C:S31",
+            "C:TXM24A"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "gaming-pc-handheld",
+          "title": "把PC游戏带到手中",
+          "yearRange": {
+            "start": 2022,
+            "end": 2022,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "Steam Deck LCD显示PC游戏进入掌上设备时的输入和兼容条件；本线在此暂止。",
+          "need": "在掌上设备使用已有PC游戏库",
+          "turn": "摇杆、触摸板、兼容流程与便携功耗协作",
+          "nodeIds": [
+            "gaming-steam-deck-lcd"
+          ],
+          "sourceRefs": [
+            "C:TXL10",
+            "C:TXL11",
+            "C:TXL12"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        }
+      ],
+      "relatedExhibitSlugs": [],
+      "bridgeCategoryIds": [],
+      "nodes": [
+        {
+          "id": "gaming-magnavox-odyssey",
+          "year": 1972,
+          "dateLabel": "1972 年（推出）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Odyssey",
+          "summary": "用插卡改变电路、透明覆膜补足画面，再配合纸牌与筹码，把电视接入家庭共同参与的游戏，电子图形与实体规则共同构成玩法。",
+          "change": "电视图形与覆膜、纸牌等实体规则共同构成家庭玩法。",
+          "exhibitSlug": "magnavox-odyssey",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:S08",
+            "C:TXE04"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "magnavox-odyssey",
+            "newChroniclePlacement": true
+          },
+          "brand": "Magnavox",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "magnavox-odyssey",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "magnavox-odyssey",
+            "status": "existing"
+          },
+          "stageId": "gaming-television"
+        },
+        {
+          "id": "gaming-atari-vcs",
+          "year": 1977,
+          "dateLabel": "1977 年（VCS 推出）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Atari Video Computer System",
+          "summary": "用储存游戏程序的可换卡带延续同一台主机，电视提供声画、手柄负责操作，物理开关选择玩法，让购买硬件与获取游戏分别进行。",
+          "change": "可换程序卡带把主机与游戏内容的购买分开。",
+          "exhibitSlug": "atari-vcs",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:S11",
+            "C:TXE07",
+            "C:S08"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "atari-vcs",
+            "newChroniclePlacement": true
+          },
+          "brand": "Atari",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "atari-vcs",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "atari-vcs",
+            "status": "existing"
+          },
+          "stageId": "gaming-television"
+        },
+        {
+          "id": "gaming-nintendo-famicom",
+          "year": 1983,
+          "dateLabel": "1983 年（日本推出）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Family Computer",
+          "summary": "红白主机用可更换卡带接入家庭电视，两只控制器各有分工，把安装、选游戏和共同游玩组织成可反复使用的日常流程。",
+          "change": "家庭电视、卡带和两只控制器组成可反复使用的游戏系统。",
+          "exhibitSlug": "nintendo-famicom",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:S17",
+            "C:TXM14A"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "nintendo-famicom",
+            "newChroniclePlacement": true
+          },
+          "brand": "Nintendo",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "nintendo-famicom",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "nintendo-famicom",
+            "status": "existing"
+          },
+          "stageId": "gaming-television"
+        },
+        {
+          "id": "gaming-game-boy",
+          "year": 1989,
+          "dateLabel": "1989 年（日本发售）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Game Boy DMG-01",
+          "summary": "屏幕、方向键与可换卡带装进同一支掌机：Game Boy让游戏随人移动，也让电池、环境光和两人的有线连接成为体验条件。",
+          "change": "屏幕与按键随人移动，电池和环境光成为使用条件。",
+          "exhibitSlug": "game-boy",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:S20",
+            "C:TXM16A"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "game-boy",
+            "newChroniclePlacement": true
+          },
+          "brand": "Nintendo",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "game-boy",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "game-boy",
+            "status": "existing"
+          },
+          "stageId": "gaming-spaces"
+        },
+        {
+          "id": "gaming-sony-playstation",
+          "year": 1994,
+          "dateLabel": "1994-12-03（日本发售）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "PlayStation",
+          "summary": "初代PlayStation把光盘、大容量声音与三维场景带到家庭电视前；双握柄和形状按钮则为新的游戏空间建立手中的入口。",
+          "change": "光盘、三维场景和双握柄，为家庭游戏带来另一套画面与操作条件。",
+          "exhibitSlug": "sony-playstation",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:TXM17A",
+            "C:TXM17B",
+            "C:S21"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "sony-playstation",
+            "newChroniclePlacement": true
+          },
+          "brand": "Sony Computer Entertainment",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "sony-playstation",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "sony-playstation",
+            "status": "existing"
+          },
+          "stageId": "gaming-spaces"
+        },
+        {
+          "id": "gaming-nintendo-ds",
+          "year": 2004,
+          "dateLabel": "2004 年（美日发售）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Nintendo DS",
+          "summary": "上下两块屏幕把观看与触笔操作放进同一台掌机，实体按键、麦克风和近距离无线连接为不同玩法保留了各自的入口。",
+          "change": "双屏、触笔与按键为掌机的不同任务分配入口。",
+          "exhibitSlug": "nintendo-ds",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:S29",
+            "C:TXM22A"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "nintendo-ds",
+            "newChroniclePlacement": true
+          },
+          "brand": "Nintendo",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "nintendo-ds",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "nintendo-ds",
+            "status": "existing"
+          },
+          "stageId": "gaming-input"
+        },
+        {
+          "id": "gaming-nintendo-wii",
+          "year": 2006,
+          "dateLabel": "2006 年（推出）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Wii",
+          "summary": "遥控器形状的手柄把指向、挥动和实体按键结合起来，Wii Sports 再把这些动作转成球类游戏，让电视前的参与可被旁观。",
+          "change": "指向和挥动动作进入电视前的多人玩法。",
+          "exhibitSlug": "nintendo-wii",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:S31",
+            "C:TXM24A"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "nintendo-wii",
+            "newChroniclePlacement": true
+          },
+          "brand": "Nintendo",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "nintendo-wii",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "nintendo-wii",
+            "status": "existing"
+          },
+          "stageId": "gaming-input"
+        },
+        {
+          "id": "gaming-steam-deck-lcd",
+          "year": 2022,
+          "dateLabel": "2022 年（首批订购与交付阶段）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Steam Deck LCD",
+          "summary": "把PC游戏库与摇杆、触摸板和背键放进一台掌上电脑，让桌面游戏通过新的输入与兼容流程随身使用。",
+          "change": "PC游戏库进入掌上设备；兼容、输入适配和功耗仍是使用前提。",
+          "exhibitSlug": "steam-deck-lcd",
+          "isContemporary": false,
+          "sourceRefs": [
+            "C:TXL10",
+            "C:TXL11",
+            "C:TXL12"
+          ],
+          "origin": {
+            "file": "docs/collection.json",
+            "exhibitSlug": "steam-deck-lcd",
+            "newChroniclePlacement": true
+          },
+          "brand": "Valve",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "steam-deck-lcd",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "steam-deck-lcd",
+            "status": "existing"
+          },
+          "stageId": "gaming-pc-handheld"
+        }
+      ]
+    },
+    {
+      "id": "watches",
+      "label": "电子手表",
+      "title": "从读时工具，到腕上的信息与感测",
+      "introduction": "电子计时、数字显示和智能交互分开看；普通时间工具仍是一条持续有用的设计路线。",
+      "scopeNote": "1810机械订单只说明佩戴形式前史；电子计时选点始于1969。F-91W的1989产品线年份与现行593模块资料分开；智能段主要为Apple样本。",
+      "featuredSlug": "apple-watch-1",
+      "startYear": 1810,
+      "endYear": 2026,
+      "stages": [
+        {
+          "id": "watches-timebase",
+          "title": "佩戴形式与电子计时",
+          "yearRange": {
+            "start": 1810,
+            "end": 1969,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "机械腕戴订购记录先交代形式，Quartz Astron再展示计时原理电子化；指针并未因此变成数字。",
+          "need": "把时间带在手腕上",
+          "turn": "佩戴形式与石英电子计时属于不同层面的变化",
+          "nodeIds": [
+            "watches-breguet-order",
+            "watches-quartz-astron"
+          ],
+          "sourceRefs": [
+            "H:CH12",
+            "H:CH13"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "watches-digits",
+          "title": "按键唤出数字",
+          "yearRange": {
+            "start": 1970,
+            "end": 1972,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "1970原型与1972 P1商品分别保留，让按键、点亮和读时动作可以理解。",
+          "need": "读取腕上的数字时间",
+          "turn": "LED显示改变查看动作",
+          "nodeIds": [
+            "watches-pulsar-prototype",
+            "watches-hamilton-pulsar-p1"
+          ],
+          "sourceRefs": [
+            "H:CH02"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "watches-basic",
+          "title": "保留基本时间任务",
+          "yearRange": {
+            "start": 1989,
+            "end": 1989,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "F-91W用少量按钮组织读时、闹钟和秒表，展示基础数字表的另一种取舍。",
+          "need": "读时、提醒和计时",
+          "turn": "LCD与模式切换安排基础任务",
+          "nodeIds": [
+            "watches-casio-f91w"
+          ],
+          "sourceRefs": [
+            "B:EA02-C01",
+            "B:EA02-C04",
+            "B:EA02-C03",
+            "B:EA02-C02",
+            "B:EA02-C05"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "watches-information",
+          "title": "腕上信息与持续感测",
+          "yearRange": {
+            "start": 2015,
+            "end": 2026,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "初代Apple Watch处理短信息与活动目标，2026样本观察背景感测与汇总反馈。",
+          "need": "在抬腕瞬间查看信息与身体数据",
+          "turn": "触控、表冠、振动与感测扩展腕表任务",
+          "nodeIds": [
+            "watches-apple-watch-1",
+            "watches-apple-watch-series-12"
+          ],
+          "sourceRefs": [
+            "H:S38",
+            "H:CH08",
+            "H:CH09",
+            "H:TXL14"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        }
+      ],
+      "relatedExhibitSlugs": [],
+      "bridgeCategoryIds": [
+        "bands"
+      ],
+      "nodes": [
+        {
+          "id": "watches-breguet-order",
+          "year": 1810,
+          "title": "为腕戴而订制的机械钟表",
+          "dateLabel": "1810-06-08（订购记录）",
+          "dateKind": "commission",
+          "kind": "background",
+          "summary": "Breguet档案记录了为那不勒斯王后订制No.2639的订单。这里保留的是腕戴形式的机械前史，不把订购日称作电子表诞生或大众上市。",
+          "change": "把计时器固定在手腕上，改变携带与查看姿态。",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:CH12"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "watches",
+            "nodeId": "watches-breguet-order"
+          },
+          "mediaBinding": {
+            "mode": "text-background",
+            "photoImported": false
+          },
+          "stageId": "watches-timebase"
+        },
+        {
+          "id": "watches-quartz-astron",
+          "year": 1969,
+          "title": "Seiko Quartz Astron",
+          "dateLabel": "1969-12-25（推出）",
+          "dateKind": "launch",
+          "kind": "background",
+          "summary": "石英振荡器与步进电机进入腕表，时间仍可通过指针显示。计时原理的电子化和表面的数字化并不是同一回事。",
+          "change": "电子计时改变内部结构，未必先改变读时界面。",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:CH13"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "watches",
+            "nodeId": "watches-quartz-astron"
+          },
+          "mediaBinding": {
+            "mode": "text-background",
+            "photoImported": false
+          },
+          "stageId": "watches-timebase"
+        },
+        {
+          "id": "watches-pulsar-prototype",
+          "year": 1970,
+          "title": "Pulsar电子表原型",
+          "dateLabel": "1970-05-06（公开展示）",
+          "dateKind": "prototype",
+          "kind": "background",
+          "summary": "Hamilton展示按键点亮红色LED数字的原型。它预告了一种新的读时动作，但量产商品P1要到1972年才进入市场。",
+          "change": "从连续观看指针，转向按键唤出数字。",
+          "isContemporary": false,
+          "relatedExhibitSlugs": [
+            "hamilton-pulsar-p1"
+          ],
+          "sourceRefs": [
+            "H:CH02"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "watches",
+            "nodeId": "watches-pulsar-prototype"
+          },
+          "mediaBinding": {
+            "mode": "text-background",
+            "photoImported": false
+          },
+          "stageId": "watches-digits"
+        },
+        {
+          "id": "watches-hamilton-pulsar-p1",
+          "year": 1972,
+          "dateLabel": "1972年（P1上市；不同于1970年原型）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Pulsar P1",
+          "summary": "按键点亮红色数字的金质腕表，把读时组织成按下、显示和阅读三个动作；新型电子界面与贵金属佩戴形式在同一件产品中结合。",
+          "change": "数字显示成为腕表的产品语言。",
+          "exhibitSlug": "hamilton-pulsar-p1",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:CH02"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "watches",
+            "nodeId": "watches-hamilton-pulsar-p1"
+          },
+          "brand": "Hamilton",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "hamilton-pulsar-p1",
+            "mode": "text-fallback",
+            "photoImported": false
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "hamilton-pulsar-p1",
+            "status": "existing"
+          },
+          "stageId": "watches-digits"
+        },
+        {
+          "id": "watches-casio-f91w",
+          "year": 1989,
+          "dateLabel": "1989年（原F-91W推出年份；具体日未核定）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "F-91W（593模块，标准黑色款）",
+          "summary": "三个按钮在读时、提醒与计时之间分配动作。",
+          "change": "普通LCD表把基本时间任务长期保留，少量按钮也带来模式与设置步骤。",
+          "exhibitSlug": "casio-f91w",
+          "isContemporary": false,
+          "origin": {
+            "file": "docs/expansion/first-batch.json",
+            "categoryId": "watches",
+            "nodeId": "watches-casio-f91w"
+          },
+          "sourceRefs": [
+            "B:EA02-C01",
+            "B:EA02-C04",
+            "B:EA02-C03",
+            "B:EA02-C02",
+            "B:EA02-C05"
+          ],
+          "brand": "Casio",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "casio-f91w",
+            "mode": "text-fallback",
+            "photoImported": false
+          },
+          "exhibitBinding": {
+            "file": "docs/expansion/first-batch.json",
+            "slug": "casio-f91w",
+            "status": "ready-proposal"
+          },
+          "stageId": "watches-basic",
+          "regionVersion": "原F-91W产品线；展示黑色标准款，现行规格和照片不冒充1989制造实物"
+        },
+        {
+          "id": "watches-apple-watch-1",
+          "year": 2015,
+          "dateLabel": "2015-04-24（首批市场发售）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Apple Watch 第一代",
+          "summary": "用数码表冠、触控和腕上振动处理短消息与活动目标，把手机的一部分交流动作安排到抬腕瞬间。",
+          "change": "腕上界面开始主动提示信息。",
+          "exhibitSlug": "apple-watch-1",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:S38"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "watches",
+            "nodeId": "watches-apple-watch-1"
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "apple-watch-1",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "apple-watch-1",
+            "status": "existing"
+          },
+          "stageId": "watches-information"
+        },
+        {
+          "id": "watches-apple-watch-series-12",
+          "year": 2026,
+          "dateLabel": "2026-09-18（首批市场发售）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "Apple Watch Series 12",
+          "summary": "提高背景心率与心率变异性读数频次，并用日常汇总反馈组织腕上数据，观察可穿戴从记录走向解释的变化。",
+          "change": "腕表由显示信息进一步走向持续感测。",
+          "exhibitSlug": "apple-watch-series-12",
+          "isContemporary": true,
+          "sourceRefs": [
+            "H:CH08",
+            "H:CH09",
+            "H:TXL14"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "watches",
+            "nodeId": "watches-apple-watch-series-12"
+          },
+          "brand": "Apple",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "apple-watch-series-12",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "apple-watch-series-12",
+            "status": "existing"
+          },
+          "stageId": "watches-information"
+        }
+      ]
+    },
+    {
+      "id": "bands",
+      "label": "活动手环",
+      "title": "记录留在腕带，反馈怎样回到人身上",
+      "introduction": "从腕带与手机协作读到腕上屏幕，先区分记录、显示和解释的职责。",
+      "scopeNote": "2011为所选UP发布背景，不是活动手环发明年。2014—2026之间缺少连续样本；跨品牌早期对照与2026小米样本不能代表全部产品或医疗效果。",
+      "featuredSlug": "fitbit-flex",
+      "startYear": 2011,
+      "endYear": 2026,
+      "stages": [
+        {
+          "id": "bands-lights",
+          "title": "腕带记录，手机展开详情",
+          "yearRange": {
+            "start": 2011,
+            "end": 2014,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "UP背景之后，Flex与初代小米手环用少量指示灯和手机协作，展示简短反馈的取舍。",
+          "need": "持续记录活动，并在日常查看目标",
+          "turn": "感测放在腕带，详细数据交给应用",
+          "nodeIds": [
+            "bands-jawbone-up",
+            "bands-fitbit-flex",
+            "bands-xiaomi-mi-band-1"
+          ],
+          "sourceRefs": [
+            "H:CH15",
+            "H:CH03",
+            "H:TXL06",
+            "H:TXL07",
+            "H:TXL08"
+          ],
+          "comparison": "Fitbit与Xiaomi比较灯光/振动/手机分工，不作销量、精度或健康效益排名。",
+          "isCuratorialInterpretation": true
+        },
+        {
+          "id": "bands-screen",
+          "title": "更多信息直接在手腕上查看",
+          "yearRange": {
+            "start": 2026,
+            "end": 2026,
+            "meaning": "此段已选节点范围，不是品类诞生或其他路线终止日期"
+          },
+          "introduction": "2026小米样本把彩色屏、感测与通知放到腕带，本段用一件样本观察腕上反馈。",
+          "need": "直接查看记录和手机通知",
+          "turn": "彩色屏幕扩大腕上显示，同时需安排充电",
+          "nodeIds": [
+            "bands-xiaomi-smart-band-11-active"
+          ],
+          "sourceRefs": [
+            "H:CH10",
+            "H:CH11",
+            "H:TXL17"
+          ],
+          "comparison": null,
+          "isCuratorialInterpretation": true
+        }
+      ],
+      "relatedExhibitSlugs": [],
+      "bridgeCategoryIds": [
+        "watches"
+      ],
+      "nodes": [
+        {
+          "id": "bands-jawbone-up",
+          "year": 2011,
+          "title": "Jawbone UP腕带与应用",
+          "dateLabel": "2011-11-03（发布）",
+          "dateKind": "announcement",
+          "kind": "background",
+          "summary": "UP将腕带与iPhone应用组成活动和睡眠记录系统。这里采用发布口径；新闻稿列出的11月6日是当时的销售安排。",
+          "change": "持续记录需要设备与应用共同完成。",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:CH15"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "bands",
+            "nodeId": "bands-jawbone-up"
+          },
+          "mediaBinding": {
+            "mode": "text-background",
+            "photoImported": false
+          },
+          "stageId": "bands-lights"
+        },
+        {
+          "id": "bands-fitbit-flex",
+          "year": 2013,
+          "dateLabel": "2013-01-07（发布；非实际零售日）",
+          "dateKind": "announcement",
+          "kind": "exhibit",
+          "title": "Flex",
+          "summary": "用五颗灯给出步行目标进度，把详细图表交给手机，让腕带在抬手与轻敲之间提供简短的日常反馈。",
+          "change": "用极少的腕上信息提供目标反馈。",
+          "exhibitSlug": "fitbit-flex",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:CH03",
+            "H:TXL06"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "bands",
+            "nodeId": "bands-fitbit-flex"
+          },
+          "brand": "Fitbit",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "fitbit-flex",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "fitbit-flex",
+            "status": "existing"
+          },
+          "stageId": "bands-lights"
+        },
+        {
+          "id": "bands-xiaomi-mi-band-1",
+          "year": 2014,
+          "dateLabel": "2014年（第一代推出；研究与系列回顾交叉核对）",
+          "dateKind": "launch",
+          "kind": "exhibit",
+          "title": "小米手环 第一代",
+          "summary": "把计步、睡眠记录和振动提醒装进三灯小核心，以手机显示数据，留下大众活动手环早期的简约形态。",
+          "change": "简化腕上交互，保留日常记录。",
+          "exhibitSlug": "xiaomi-mi-band-1",
+          "isContemporary": false,
+          "sourceRefs": [
+            "H:TXL07",
+            "H:TXL08"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "bands",
+            "nodeId": "bands-xiaomi-mi-band-1"
+          },
+          "brand": "Xiaomi",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "xiaomi-mi-band-1",
+            "mode": "existing-photo",
+            "photoImported": true
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "xiaomi-mi-band-1",
+            "status": "existing"
+          },
+          "stageId": "bands-lights"
+        },
+        {
+          "id": "bands-xiaomi-smart-band-11-active",
+          "year": 2026,
+          "dateLabel": "2026年（9月官方活动页列售；非全球首发日）",
+          "dateKind": "observed",
+          "kind": "exhibit",
+          "title": "Xiaomi Smart Band 11 Active",
+          "summary": "把彩色TFT屏、光学感测和手机通知结合在轻量腕带中，观察大众手环如何扩展腕上信息并重新安排充电。",
+          "change": "更多信息可在手腕上直接查看。",
+          "exhibitSlug": "xiaomi-smart-band-11-active",
+          "isContemporary": true,
+          "sourceRefs": [
+            "H:CH10",
+            "H:CH11",
+            "H:TXL17"
+          ],
+          "origin": {
+            "file": "docs/chronicles.json",
+            "categoryId": "bands",
+            "nodeId": "bands-xiaomi-smart-band-11-active"
+          },
+          "brand": "Xiaomi",
+          "mediaBinding": {
+            "file": "src/image-overrides.json",
+            "key": "xiaomi-smart-band-11-active",
+            "mode": "text-fallback",
+            "photoImported": false
+          },
+          "exhibitBinding": {
+            "file": "docs/collection.json",
+            "slug": "xiaomi-smart-band-11-active",
+            "status": "existing"
+          },
+          "stageId": "bands-screen"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "refId": "H:S16",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "S16",
+      "id": "S16",
+      "title": "Cell Phone Development — Motorola Solutions",
+      "publisher": "Motorola Solutions",
+      "url": "https://www.motorolasolutions.com/en_xp/about/history/explore-motorola-heritage/cell-phone-development.html",
+      "supports": "1973年演示原型、便携蜂窝系统的研发与1983年9月21日8000X获得FCC批准；支持通话设备与网络共同构成移动性的背景。代表性段落为原创策展解读。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页正文中DynaTAC开发及获批段落；没有用厂家第一或销量叙述扩展结论。"
+    },
+    {
+      "refId": "H:TXM13A",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXM13A",
+      "id": "TXM13A",
+      "title": "Motorola DynaTAC 8000X (US-Version) mit Tischladestation — MSPT",
+      "publisher": "Museumsstiftung Post und Telekommunikation",
+      "url": "https://onlinesammlung.museumsstiftung.de/detail/collection/bbfa7483-f8a1-4431-b90f-514197cc4c56",
+      "supports": "型号明确的博物馆藏品记录；红色LED号码显示、30个电话号码存储、约800克、约半小时通话与十小时充电，美国AMPS制式及地区兼容条件；区分1983获批与1984销售。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取正文及对象登记字段；藏品制造时间为1984年7月。正文价格与销量有明显排版/数字异常，未采用；重量仅使用约数。"
+    },
+    {
+      "refId": "H:S33",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "S33",
+      "id": "S33",
+      "title": "Apple Reinvents the Phone with iPhone — Apple",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "supports": "重核2007-01-09原公告正文：3.5英寸、多点触控、EDGE/Wi-Fi、iTunes同步及三种用途；2008年App Store另有TXL01。未采用全球第一和销量话语。",
+      "checkedOn": "2026-10-04",
+      "verification": "重核2007-01-09原公告正文：3.5英寸、多点触控、EDGE/Wi-Fi、iTunes同步及三种用途；2008年App Store另有TXL01。未采用全球第一和销量话语。"
+    },
+    {
+      "refId": "H:S35",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "S35",
+      "id": "S35",
+      "title": "Apple Presents iPhone 4 — Apple",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
+      "supports": "重核2010-06-07原公告正文：发布/首批销售安排、960×640屏、前后摄像头、Wi-Fi FaceTime、720p视频与iOS 4；未采用最薄等比较级宣传。",
+      "checkedOn": "2026-10-04",
+      "verification": "重核2010-06-07原公告正文：发布/首批销售安排、960×640屏、前后摄像头、Wi-Fi FaceTime、720p视频与iOS 4；未采用最薄等比较级宣传。"
+    },
+    {
+      "refId": "H:TD01",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TD01",
+      "id": "TD01",
+      "title": "iPhone 4 Teardown",
+      "publisher": "iFixit / Walter Galan and contributors",
+      "url": "https://www.ifixit.com/Teardown/iPhone+4+Teardown/3130",
+      "supports": "原iPhone 4拆解正文重核，步骤14钢框天线、步骤6电池连接器及结论前玻璃/LCD总成；仅采用实际结构，不采用评论及通信改进猜测。",
+      "checkedOn": "2026-10-04",
+      "verification": "原iPhone 4拆解正文重核，步骤14钢框天线、步骤6电池连接器及结论前玻璃/LCD总成；仅采用实际结构，不采用评论及通信改进猜测。"
+    },
+    {
+      "refId": "H:CH08",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH08",
+      "id": "CH08",
+      "title": "Get ready to experience iPhone 18 Pro, the next generation of Apple Watch, and AirPods 5",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "supports": "2026-09-11官方正文已读，明确三条产品线2026-09-18发售；当代三件主要功能得到对应产品页复核。Siri AI等测试版/地区条件和部分年内未来功能未写作当前通用能力。",
+      "checkedOn": "2026-10-04",
+      "verification": "2026-09-11官方正文已读，明确三条产品线2026-09-18发售；当代三件主要功能得到对应产品页复核。Siri AI等测试版/地区条件和部分年内未来功能未写作当前通用能力。"
+    },
+    {
+      "refId": "H:CH09",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH09",
+      "id": "CH09",
+      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
+      "publisher": "Apple",
+      "url": "https://images.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "supports": "web解析间歇Internal Error，直接读取相同URL的HTTP 200 HTML正文，标题和日期为2026-09-18，正文明确iPhone 18 Pro、Series 12与AirPods 5到店；没有仅靠标题或路径推断发售。",
+      "checkedOn": "2026-10-04",
+      "verification": "web解析间歇Internal Error，直接读取相同URL的HTTP 200 HTML正文，标题和日期为2026-09-18，正文明确iPhone 18 Pro、Series 12与AirPods 5到店；没有仅靠标题或路径推断发售。"
+    },
+    {
+      "refId": "H:TXL15",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXL15",
+      "id": "TXL15",
+      "title": "iPhone 18 Pro",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/iphone-18-pro/",
+      "supports": "48MP主摄四档可变光圈与相机Pro控制，及Pro/Pro Max的型号区分。",
+      "checkedOn": "2026-10-04",
+      "verification": "现有官方产品正文已读。f/1.48、f/1.8、f/2.8、f/4仅归主摄；不把Pro Max续航、固定光圈辅摄或测试版AI推广为该馆藏共有能力。"
+    },
+    {
+      "refId": "H:CH14",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH14",
+      "id": "CH14",
+      "title": "1946: Public unveiling of ENIAC",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1946/",
+      "supports": "1946年公开展示ENIAC，接线与开关编程；作为电子计算前史，不称个人电脑。",
+      "checkedOn": "2026-10-03",
+      "verification": "官方、博物馆或原始研究资料已核对；不代表图片复制许可"
+    },
+    {
+      "refId": "H:S09",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "S09",
+      "id": "S09",
+      "title": "Altair 8800 — CHM Revolution",
+      "publisher": "CHM Revolution",
+      "url": "https://www.computerhistory.org/revolution/personal-computers/17/312/1140",
+      "supports": "1975 年 Altair 8800、MITS 套件/组装形式、Popular Electronics 和 BASIC 的历史联系；馆藏内存配置不作所有型号标准配置。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "refId": "H:TXE05",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXE05",
+      "id": "TXE05",
+      "title": "MITS Altair 8800 Operator’s Manual — Part 3: Operation",
+      "publisher": "MITS（第三方手册转录）",
+      "url": "https://ubuntourist.codeberg.page/Altair-8800/part-3.html",
+      "supports": "EXAMINE/DEPOSIT/RUN/STOP、二进制拨杆、读写地址与断电丢失内存内容的原手册操作说明。",
+      "checkedOn": "2026-10-04",
+      "verification": "网页手册转录正文已读；未校验原始整册影印件，不采用基础容量作为所有机器配置。"
+    },
+    {
+      "refId": "H:S10",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "S10",
+      "id": "S10",
+      "title": "1976 Timeline: Apple-1 — CHM",
+      "publisher": "CHM",
+      "url": "https://www.computerhistory.org/timeline/1976/",
+      "supports": "1976 年 Apple-1 的已组装单板形式、Wozniak/Jobs 分工及随后 Apple II 的完整产品形态。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "refId": "H:TXE06",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXE06",
+      "id": "TXE06",
+      "title": "Apple-1 Operation Manual（1976）",
+      "publisher": "Apple Computer Company（Computer History Museum 藏）",
+      "url": "https://d1yx3ys82bpsa0.cloudfront.net/brochures/apple.applei.1976.102646518.pdf",
+      "supports": "已组装主板、6502、键盘/视频与电源外接条件、40×24 文字显示、驻留监控程序及输入/检查/运行练习。",
+      "checkedOn": "2026-10-04",
+      "verification": "CHM 目录与原始说明书 PDF 提取正文已读；没有完成全部页面的视觉校验。目录：https://www.computerhistory.org/brochures/doc-43729572afbd3/"
+    },
+    {
+      "refId": "H:S14",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "S14",
+      "id": "S14",
+      "title": "The IBM PC — IBM History",
+      "publisher": "IBM History",
+      "url": "https://www.ibm.com/history/personal-computer",
+      "supports": "1981-08-12 IBM 5150、8088 与现成部件、公开技术资料及第三方生态、基础配置与选件区别。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "refId": "H:TXE12",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXE12",
+      "id": "TXE12",
+      "title": "IBM Personal Computer Guide to Operations — First Edition, August 1981",
+      "publisher": "IBM（Minus Zero Degrees 存档）",
+      "url": "https://www.minuszerodegrees.net/manuals/IBM/IBM_5150_Guide_to_Operations_6025000_AUG81.pdf",
+      "supports": "5150 的扩展槽、83 键布局、显示/存储/打印选件、设置、DOS/BASIC 操作与配置条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "原厂 1981 年操作指南 PDF 提取正文及同文 OCR 转录已读；未完成整册图像逐页校验，不借用 XT 资料。"
+    },
+    {
+      "refId": "H:S18",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "S18",
+      "id": "S18",
+      "title": "Apple Macintosh personal computer, 1984 — SMG",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co459306/apple-macintosh-personal-computer-1984",
+      "supports": "1984年Macintosh及键盘、鼠标、软盘附件的对象记录；图标和视觉指示的图形交互背景。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取对象与附件正文；该馆对象为预生产评估机，不把其流转史当成零售机经历，也未采用GUI第一的概括。"
+    },
+    {
+      "refId": "H:TXM15A",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXM15A",
+      "id": "TXM15A",
+      "title": "Macintosh 128K: Technical Specifications",
+      "publisher": "Apple",
+      "url": "https://support.apple.com/en-ca/112190",
+      "supports": "1984年1月24日推出，128KB内存无内置扩展槽，400KB软盘与无内置硬盘等原机资源边界。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取官方规格正文。页面显示模式表有泛化字段，采用独立明确的内存、软盘、机内硬盘与日期记录，不据异常模式表推断显示能力。"
+    },
+    {
+      "refId": "H:TXM15B",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXM15B",
+      "id": "TXM15B",
+      "title": "Macintosh (1984) Owner's Manual — online scan transcript",
+      "publisher": "Apple Computer (original manual; Scribd mirror)",
+      "url": "https://www.scribd.com/document/808426629/Macintosh-Manual-1984",
+      "supports": "1984原说明书中主机/键盘/鼠标分工，点击/双击/拖动、Finder文件夹、MacWrite/MacPaint、主动保存以及单软驱换盘安排。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页所呈现的原说明书正文转录，包括1984版权页、第1/2/3章；OCR有杂字符，只采用语义清楚的操作段落。未绕过下载或登录限制。"
+    },
+    {
+      "refId": "H:S26",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "S26",
+      "id": "S26",
+      "title": "Timeline of Computer History — 1998: iMac",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1998/",
+      "supports": "1998年初版Bondi Blue iMac、G3处理器、CD-ROM与15英寸显示器，以及乔布斯回归后Apple产品路线的历史位置。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取1998时间线的iMac正文；仅采用产品形态、年份和硬件事实，没有采用营销排名或公司经营评价。"
+    },
+    {
+      "refId": "H:TXM20A",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXM20A",
+      "id": "TXM20A",
+      "title": "Apple iMac 产品资料（July 1998，L03115A）",
+      "publisher": "Apple Computer（Washington Apple Pi 保存）",
+      "url": "https://www.wap.org/events/imacspecs.pdf",
+      "supports": "1998年初版M6709LL/A的显示器、扬声器、调制解调器、USB键鼠、机身提手、以太网、电话线连接、随附软件，以及互联网服务账户条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取两页原始Apple产品PDF正文，版权1998、July 1998、L03115A；网站是原件保存方。未照抄宣传词或长规格表。"
+    },
+    {
+      "refId": "H:TXM20B",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXM20B",
+      "id": "TXM20B",
+      "title": "iMac (Original) — Technical Specifications",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-ph/112281",
+      "supports": "初版iMac的上市时间、USB键鼠与网络接口，以及不配软驱、ADB和SCSI的连接取舍。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取Apple技术规格正文；核对为Original型号。不同资料中的重量与内存细节未用于正文。"
+    },
+    {
+      "refId": "H:TXM20C",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXM20C",
+      "id": "TXM20C",
+      "title": "Tiny Computer Gallery: iMac G3 (1998)",
+      "publisher": "University of Waterloo Computer Museum",
+      "url": "https://uwaterloo.ca/computer-museum/exhibits/tiny-computer-gallery",
+      "supports": "1998年Bondi Blue半透明外壳和15英寸CRT形态。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取画廊中iMac段落正文。该页展示缩小模型，不能用作项目实物藏品来源；未采用其中审美标签或第一性判断。"
+    },
+    {
+      "refId": "H:S30",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "S30",
+      "id": "S30",
+      "title": "Apple Unveils New MacBook Featuring Intel Core Duo Processors",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2006/05/16Apple-Unveils-New-MacBook-Featuring-Intel-Core-Duo-Processors/",
+      "supports": "2006年5月16日初代消费MacBook、Core Duo、白黑两色、iBook及12英寸PowerBook承接、Intel迁移、iSight、Photo Booth、MagSafe、遥控及Rosetta软件过渡。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取原始发布公告正文；范围为May 2006初代MacBook，区别于MacBook Pro和Late 2006 Core 2 Duo。未采用跑分或性能宣传。"
+    },
+    {
+      "refId": "H:TXM23A",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXM23A",
+      "id": "TXM23A",
+      "title": "MacBook (13-inch, 2006) User's Guide",
+      "publisher": "Apple",
+      "url": "https://cdsassets.apple.com/live/6GJYWVAV/user/ma156_macbook_13inch_usersguide.pdf",
+      "supports": "初代MacBook初次设置、MagSafe、网络与迁移助理、触控板单指移动与双指滚动、独立按键、摄像头、遥控器及合盖睡眠与移动前指示灯确认。",
+      "checkedOn": "2026-10-04",
+      "verification": "已由官方MacBook（13-inch, 2006）文档页进入并读取138页指南正文，版权2006；重点核查印刷页8–23、32–33。未使用Late 2006或Pro指南。"
+    },
+    {
+      "refId": "H:TXM23B",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXM23B",
+      "id": "TXM23B",
+      "title": "MacBook (13-inch) — Technical Specifications",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/112511",
+      "supports": "初代1.83/2.0GHz Core Duo、13.3英寸屏幕、GMA 950共享内存、不同配置光驱的读写能力、外接显示器适配器和接口。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取初代Core Duo技术规格正文；核对CPU和光驱配置，未把更高配置刻录DVD能力写成所有首发款共有。"
+    },
+    {
+      "refId": "H:CH07",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH07",
+      "id": "CH07",
+      "title": "Apple introduces the new MacBook Air with M5",
+      "publisher": "Apple",
+      "url": "https://images.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "supports": "2026-03-03官方原公告正文已读，明确3月4日预订/3月11日发售，13/15英寸、M5、GPU神经加速器、无风扇、512GB起、MagSafe/两只TB4/两外屏、N1与12MP相机。仅将13英寸计入此馆藏；性能倍数及长期表现未推广。",
+      "checkedOn": "2026-10-04",
+      "verification": "2026-03-03官方原公告正文已读，明确3月4日预订/3月11日发售，13/15英寸、M5、GPU神经加速器、无风扇、512GB起、MagSafe/两只TB4/两外屏、N1与12MP相机。仅将13英寸计入此馆藏；性能倍数及长期表现未推广。"
+    },
+    {
+      "refId": "H:CH12",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH12",
+      "id": "CH12",
+      "title": "Order for the first watch designed to be worn on the wrist",
+      "publisher": "Breguet",
+      "url": "https://www.breguet.com/en/breguet-house/1801-1823/order-first-watch-designed-be-worn-wrist",
+      "supports": "1810年6月8日订购No.2639腕戴钟表；机械前史与订购口径。",
+      "checkedOn": "2026-10-03",
+      "verification": "官方、博物馆或原始研究资料已核对；不代表图片复制许可"
+    },
+    {
+      "refId": "H:CH13",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH13",
+      "id": "CH13",
+      "title": "Seiko Quartz Astron — IEEE Milestone",
+      "publisher": "Seiko Museum Ginza",
+      "url": "https://museum.seiko.co.jp/en/seiko_history/milestone/milestone_03/",
+      "supports": "1969年12月25日推出、石英振荡器及步进电机驱动；不混同数字显示。",
+      "checkedOn": "2026-10-03",
+      "verification": "官方、博物馆或原始研究资料已核对；不代表图片复制许可"
+    },
+    {
+      "refId": "H:CH02",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH02",
+      "id": "CH02",
+      "title": "The Hamilton PSR",
+      "publisher": "Swatch Group / Hamilton",
+      "url": "https://www.swatchgroup.com/en/services/archive/2020/hamilton-psr",
+      "supports": "1970 年原型公开、1972 年 P1 上市、金质表壳表链与红色数字读时；原型、P2 和 2020 PSR 的功能分别处理。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "refId": "H:S38",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "S38",
+      "id": "S38",
+      "title": "Apple Watch Available in Nine Countries on April 24 — Apple",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2015/03/09Apple-Watch-Available-in-Nine-Countries-on-April-24/",
+      "supports": "重核2015-03-09原公告全文：2015-04-24首批发售、38/42mm、Crown、Force Touch、Taptic Engine、三圈、借用iPhone GPS/Wi-Fi、18小时与iPhone/iOS条件；不套用后代独立GPS、蜂窝、ECG与SpO2。",
+      "checkedOn": "2026-10-04",
+      "verification": "重核2015-03-09原公告全文：2015-04-24首批发售、38/42mm、Crown、Force Touch、Taptic Engine、三圈、借用iPhone GPS/Wi-Fi、18小时与iPhone/iOS条件；不套用后代独立GPS、蜂窝、ECG与SpO2。"
+    },
+    {
+      "refId": "H:TXL14",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXL14",
+      "id": "TXL14",
+      "title": "Apple Watch Series 12",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/apple-watch-series-12/",
+      "supports": "新感测系统、绿光LED、心率与HRV采样频次、readiness score及充电边界。",
+      "checkedOn": "2026-10-04",
+      "verification": "现有官方正文已读：心率背景读数每5秒、HRV最快每5分钟是厂商口径；Health Age及部分Audio Intelligence/Siri Recap标晚2026，未写入当前用法或诊断功能。"
+    },
+    {
+      "refId": "H:CH15",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH15",
+      "id": "CH15",
+      "title": "UP by Jawbone with MotionX Technology",
+      "publisher": "Jawbone press release / PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/up-by-jawbone-with-motionx-technology-empowers-you-to-live-a-healthier-life-133148048.html",
+      "supports": "2011年11月3日发布、腕带与iPhone应用、活动睡眠记录；11月6日为公告中的销售安排。",
+      "checkedOn": "2026-10-03",
+      "verification": "官方、博物馆或原始研究资料已核对；不代表图片复制许可"
+    },
+    {
+      "refId": "H:CH03",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH03",
+      "id": "CH03",
+      "title": "Fitbit announces new activity tracker – the Fitbit Flex",
+      "publisher": "Fitbit / Google",
+      "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-announces-new-activity-tracker-the-fitbit-flex/",
+      "supports": "2013-01-07发布正文已读，5灯进度、活动与睡眠、蓝牙同步和春季发货计划可确认；日期只用发布口径，实际操作与感测机制用FB401原厂手册。",
+      "checkedOn": "2026-10-04",
+      "verification": "2013-01-07发布正文已读，5灯进度、活动与睡眠、蓝牙同步和春季发货计划可确认；日期只用发布口径，实际操作与感测机制用FB401原厂手册。"
+    },
+    {
+      "refId": "H:TXL06",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXL06",
+      "id": "TXL06",
+      "title": "Fitbit Flex User Manual (FB401)",
+      "publisher": "Fitbit",
+      "url": "https://www.fitbit.com/content/assets/help/manuals/manual_flex_en_US.pdf",
+      "supports": "第一代Flex的五灯反馈、敲击、手动睡眠切换、充电与加速度计机制。",
+      "checkedOn": "2026-10-04",
+      "verification": "32页原厂手册正文已读。该文件包含后期平台与固件信息，正文仅采用FB401硬件和明示操作，不将自动睡眠或后期系统支持写作2013年首发功能。"
+    },
+    {
+      "refId": "H:TXL07",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXL07",
+      "id": "TXL07",
+      "title": "Usability Study of Mainstream Wearable Fitness Devices: Feature Analysis and System Usability Scale Evaluation (full-text PDF)",
+      "publisher": "Liang et al. / JMIR mHealth and uHealth; Semantic Scholar PDF mirror",
+      "url": "https://pdfs.semanticscholar.org/bae5/ecb517083f199cadefd0794f1682ba06dc40.pdf",
+      "supports": "原始研究表格中的2014年Mi Band及活动、睡眠功能和无心率监测的代际边界。",
+      "checkedOn": "2026-10-04",
+      "verification": "同一JMIR原始论文14页PDF正文已核查，表1、表2及研究摘要对照；仅作设备资料，未把小样本可用性测试推广为用户口碑。"
+    },
+    {
+      "refId": "H:TXL08",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXL08",
+      "id": "TXL08",
+      "title": "Review: Mi Band Fitness Monitor and Sleep Tracker (XMSH01HM)",
+      "publisher": "Gough Lui / Gough's Tech Zone",
+      "url": "https://goughlui.com/2015/06/02/review-mi-band-fitness-monitor-and-sleep-tracker/",
+      "supports": "2015年实物使用中的XMSH01HM三灯、铝面、可拆核心、Mi Fit配对与充电动作。",
+      "checkedOn": "2026-10-04",
+      "verification": "原作者2015-06-02亲自开箱和操作正文已读，明确型号XMSH01HM；样机由商家提供，属于单件原始体验，未采用其续航推算、主观好评或故障作为群体结论。"
+    },
+    {
+      "refId": "H:CH10",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH10",
+      "id": "CH10",
+      "title": "Xiaomi Smart Band 11 Active — Specs",
+      "publisher": "Xiaomi",
+      "url": "https://www.mi.com/global/product/xiaomi-smart-band-11-active/specs/",
+      "supports": "现有规格全文已读，明确1.47英寸TFT、PPG、加速度计、ERM、磁吸、300mAh、50模式及Mi Fitness，健康数据为个人参考的厂商边界已核查。",
+      "checkedOn": "2026-10-04",
+      "verification": "现有规格全文已读，明确1.47英寸TFT、PPG、加速度计、ERM、磁吸、300mAh、50模式及Mi Fitness，健康数据为个人参考的厂商边界已核查。"
+    },
+    {
+      "refId": "H:CH11",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH11",
+      "id": "CH11",
+      "title": "Il futuro al tuo polso — September 2026",
+      "publisher": "Xiaomi Italia",
+      "url": "https://www.mi.com/it/event/new-wearable-september-2026/",
+      "supports": "官方意大利活动页正文列有Xiaomi Band 11 Active及Smart Band 11 Active购买链接；URL带september-2026，正文没有独立日期或全球首发日。年份保持官方活动列售口径，未把同页REDMI Watch的AMOLED/GNSS移给手环。",
+      "checkedOn": "2026-10-04",
+      "verification": "官方意大利活动页正文列有Xiaomi Band 11 Active及Smart Band 11 Active购买链接；URL带september-2026，正文没有独立日期或全球首发日。年份保持官方活动列售口径，未把同页REDMI Watch的AMOLED/GNSS移给手环。"
+    },
+    {
+      "refId": "H:TXL17",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXL17",
+      "id": "TXL17",
+      "title": "Xiaomi Smart Band 11 Active",
+      "publisher": "Xiaomi",
+      "url": "https://www.mi.com/global/product/xiaomi-smart-band-11-active/",
+      "supports": "TFT屏、通知、磁吸充电、监测频次、轻度与常规续航及非医疗设备边界。",
+      "checkedOn": "2026-10-04",
+      "verification": "官方产品全文及脚注已核查：21天为轻度模式、常规8天；PPG及加速度计见CH10，SpO2连续检测需主动打开；未混用同活动页REDMI Watch的AMOLED或GNSS。"
+    },
+    {
+      "refId": "H:CH16",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH16",
+      "id": "CH16",
+      "title": "Telephone receiver, 1879",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co33304/telephone-receiver-telephones",
+      "supports": "馆藏电话受话器制造年代1879；不将其当成立体声耳机或耳机发明年份。",
+      "checkedOn": "2026-10-03",
+      "verification": "官方、博物馆或原始研究资料已核对；不代表图片复制许可"
+    },
+    {
+      "refId": "H:CH17",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH17",
+      "id": "CH17",
+      "title": "History of The Electrophone",
+      "publisher": "Science Museum / Natasha Kitcher",
+      "url": "https://blog.sciencemuseum.org.uk/history-of-the-electrophone/",
+      "supports": "1895年伦敦Electrophone公司营业，通过电话线与双耳受话器收听演出。",
+      "checkedOn": "2026-10-03",
+      "verification": "官方、博物馆或原始研究资料已核对；不代表图片复制许可"
+    },
+    {
+      "refId": "H:CH01",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH01",
+      "id": "CH01",
+      "title": "Koss History",
+      "publisher": "Koss",
+      "url": "https://koss.com/en-ca/pages/koss-history",
+      "supports": "1958 年 SP/3 与 Koss/Lange 的立体声唱机演示、耳机连接和私密聆听背景；不支持声学实测或后继型号规格。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "refId": "H:S13",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "S13",
+      "id": "S13",
+      "title": "Sony Celebrates Walkman 20th Anniversary — Sony",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/News/Press/199907/99-059/",
+      "supports": "型号、年份及正文背景；具体日期类型见 dateLabel。设计观察含对实物形态的描述，意义为原创策展解读。",
+      "checkedOn": "2026-10-03",
+      "verification": "网页正文或搜索索引摘录已核查；不表示媒体复制授权"
+    },
+    {
+      "refId": "H:CH06",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "CH06",
+      "id": "CH06",
+      "title": "Apple AirPods are now available",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2016/12/apple-airpods-are-now-available/",
+      "supports": "2016-12-13原订购公告正文已读，W1、开盒配对、入耳感应与充电盒可确认；操作/测试条件再核初代官方规格TXL16，胶粘电池边界由TXL09拆解补证。",
+      "checkedOn": "2026-10-04",
+      "verification": "2016-12-13原订购公告正文已读，W1、开盒配对、入耳感应与充电盒可确认；操作/测试条件再核初代官方规格TXL16，胶粘电池边界由TXL09拆解补证。"
+    },
+    {
+      "refId": "H:TXL16",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXL16",
+      "id": "TXL16",
+      "title": "AirPods 1 - Tech Specs",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-us/111855",
+      "supports": "W1、入耳感应、双击Siri、Lightning充电盒及2016年测试续航条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "官方初代规格正文已读，由旧SP750链接跳转至此；Live Listen为后期iOS 12功能，未写作2016首发。通话麦克风背景噪声过滤与听音ANC分开。"
+    },
+    {
+      "refId": "H:TXL09",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXL09",
+      "id": "TXL09",
+      "title": "AirPods Teardown",
+      "publisher": "iFixit / Evan Noronha and contributors",
+      "url": "https://www.ifixit.com/Teardown/AirPods+Teardown/75578",
+      "supports": "2016年初代AirPods的传感器、紧密封装、胶粘结构与电池维修取舍。",
+      "checkedOn": "2026-10-04",
+      "verification": "原拆解步骤5至9及结论已读，使用实物观察而不引用评论猜测或维修评分作可靠性统计。"
+    },
+    {
+      "refId": "H:TXL13",
+      "sourceFile": "docs/chronicles.json",
+      "originalId": "TXL13",
+      "id": "TXL13",
+      "title": "AirPods 5",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/airpods-5/",
+      "supports": "开放式主动降噪、H2、环境模式，以及两种充电盒版本的控制和续航差异。",
+      "checkedOn": "2026-10-04",
+      "verification": "现有官方产品正文已核查。滑动音量、无线充电和Find My盒扬声器仅归无线充电盒版本；普通USB-C盒版本开启ANC最长4小时，无线充电盒版本最长5小时。"
+    },
+    {
+      "refId": "B:EA02-C01",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "EA02-C01",
+      "id": "EA02-C01",
+      "title": "CASIO Watch Heritage: 1980s — F-91W (1989)",
+      "publisher": "Casio",
+      "url": "https://www.casio.com/intl/watches/Heritage/1980s/",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读官方年代史：1989年F-91W推出；计时/闹钟/照明等基本配置。品牌销量与“长期畅销”叙述不作独立市场证据。",
+      "sourceType": "品牌档案",
+      "independence": "发布年份一手；采用/口碑不独立",
+      "commercialDisclosure": "品牌历史页面，带品牌推广目的。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读官方年代史：1989年F-91W推出；计时/闹钟/照明等基本配置。品牌销量与“长期畅销”叙述不作独立市场证据。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:EA02-C04",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "EA02-C04",
+      "id": "EA02-C04",
+      "title": "Meet The Man Who Designs Your Casio G-Shocks",
+      "publisher": "Alvin Wong / CROWN",
+      "url": "https://www.crownwatchblog.com/in-depth/meet-the-man-who-designs-your-casio-g-shocks",
+      "publishedOn": "2018-12-10",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读对Ryusuke Moriai的原始访谈：F-91W扁平小巧设计、部件形状和外壳取舍。作者回忆新加坡服役时自己用表，为个人见证，非军队全体采用调查。文首early 1990s与官方1989冲突，年份采用品牌档案。",
+      "sourceType": "设计师原始访谈/作者个人使用见证",
+      "independence": "记者原始采访；设计师为品牌员工，回忆不等于客观销量/可靠性统计",
+      "commercialDisclosure": "页面未见该文赞助标识；受访者为Casio员工，设计说明是品牌当事人回忆。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读对Ryusuke Moriai的原始访谈：F-91W扁平小巧设计、部件形状和外壳取舍。作者回忆新加坡服役时自己用表，为个人见证，非军队全体采用调查。文首early 1990s与官方1989冲突，年份采用品牌档案。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:EA02-C03",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "EA02-C03",
+      "id": "EA02-C03",
+      "title": "Operation Guide 10B+7L(Ver.C), Module 593",
+      "publisher": "Casio",
+      "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读593模块操作指南一页：三个按钮、读时/闹钟/秒表/设置模式、分段计时、12/24小时与月份日期设置。文件未列1989出版日，不能当首年批次说明书。",
+      "sourceType": "原厂模块操作手册",
+      "independence": "操作方法一手；非独立使用史",
+      "commercialDisclosure": "原厂手册版权保留，仅作链接/原创说明。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读593模块操作指南一页：三个按钮、读时/闹钟/秒表/设置模式、分段计时、12/24小时与月份日期设置。文件未列1989出版日，不能当首年批次说明书。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:EA02-C02",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "EA02-C02",
+      "id": "EA02-C02",
+      "title": "F-91W-1 — Specifications",
+      "publisher": "Casio",
+      "url": "https://www.casio.com/mea-en/watches/casio/product.F-91W-1/",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读现行标准黑色F-91W-1页面：树脂、闹钟、整点声、秒表、LED、12/24小时、日历二月固定28日；仅称Water Resistant，未给30m/50m。现行规格不证明每个1989批次完全相同。",
+      "sourceType": "原厂确切型号规格",
+      "independence": "原厂功能说明；非独立耐久实测",
+      "commercialDisclosure": "产品销售页，现行规格及电池寿命为厂商条件下声明。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读现行标准黑色F-91W-1页面：树脂、闹钟、整点声、秒表、LED、12/24小时、日历二月固定28日；仅称Water Resistant，未给30m/50m。现行规格不证明每个1989批次完全相同。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:EA02-C05",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "EA02-C05",
+      "id": "EA02-C05",
+      "title": "The Consumer Electronics Hall of Fame: Casio F-91W Wristwatch",
+      "publisher": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/the-consumer-electronics-hall-of-fame-casio-f91w-wristwatch",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读编辑回顾：把基本功能、足够使用与长期形态作为设计讨论。文中产量估计未追至原数据，未采用；Hall of Fame文章不冒充颁奖机构产品设计大奖。",
+      "sourceType": "独立编辑设计回顾",
+      "independence": "独立媒体策展观点；非原始用户群体统计",
+      "commercialDisclosure": "页面未见该篇商业赞助披露；不使用未经复核的市场数量。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读编辑回顾：把基本功能、足够使用与长期形态作为设计讨论。文中产量估计未追至原数据，未采用；Hall of Fame文章不冒充颁奖机构产品设计大奖。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:H15A",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "H15A",
+      "id": "H15A",
+      "title": "ThinkPad — The butterfly takes flight",
+      "publisher": "IBM History",
+      "url": "https://www.ibm.com/history/thinkpad",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "1995年701C、John Karidis两片键盘随开合伸出、10.4英寸屏幕背景、生产延迟和屏幕增长、同年推出并撤售。",
+      "sourceType": "厂家历史档案",
+      "independence": "厂家第一方回顾，不是独立市场评价",
+      "commercialDisclosure": "企业品牌史宣传；MoMA收藏独立核对，未采用销量或奖项。",
+      "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+      "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "supports": "1995年701C、John Karidis两片键盘随开合伸出、10.4英寸屏幕背景、生产延迟和屏幕增长、同年推出并撤售。",
+      "verification": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题；仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+    },
+    {
+      "refId": "B:H15B",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "H15B",
+      "id": "H15B",
+      "title": "ThinkPad 701 Portable Computer, 1995",
+      "publisher": "The Museum of Modern Art",
+      "url": "https://www.moma.org/collection/works/2168",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "701系列设计、1995、Sam Lucente、John Karidis、Robert P. Tennant、Richard Sapper、IBM与厂家捐赠馆藏112.1996；没有确认UT5具体配置。",
+      "sourceType": "馆藏实物记录",
+      "independence": "独立机构；实物记录为第一手编目",
+      "commercialDisclosure": "厂家捐赠；图像权利列设计者／IBM，未取得复制许可。",
+      "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+      "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "supports": "701系列设计、1995、Sam Lucente、John Karidis、Robert P. Tennant、Richard Sapper、IBM与厂家捐赠馆藏112.1996；没有确认UT5具体配置。",
+      "verification": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题；仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+    },
+    {
+      "refId": "B:H15C",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "H15C",
+      "id": "H15C",
+      "title": "IBM ThinkPad online reference — 701C/701CS, compiled June 1996",
+      "publisher": "IBM / Roger Dodson；IBMfiles镜像",
+      "url": "https://www.ibmfiles.com/ibmfiles/powerpc/thinkpad_online_reference.pdf",
+      "publishedOn": "1996-06",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "PDF零基页32（第33页）：UT5 75MHz/540MB、美国美元价格、可售Mar95、701C主动矩阵TFT10.4英寸640×480、85键全尺寸键盘、TrackPointIII、外置软驱与MultiPortII、待机／挂起／休眠、Dec95 withdrawn；手册覆盖多配置，UT5字段单独取值。",
+      "sourceType": "厂家原始产品参考文件／档案镜像",
+      "independence": "IBM原稿，第三方保管；与厂家历史不是独立评价来源",
+      "commercialDisclosure": "原参考文档含商业产品配置和价格，第三方镜像没有改变原稿性质。",
+      "verificationMethod": "读取第三方镜像中的原厂／原刊正文或OCR，并区分原作者与保管站",
+      "verificationLimits": "镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。",
+      "limits": "镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。",
+      "supports": "PDF零基页32（第33页）：UT5 75MHz/540MB、美国美元价格、可售Mar95、701C主动矩阵TFT10.4英寸640×480、85键全尺寸键盘、TrackPointIII、外置软驱与MultiPortII、待机／挂起／休眠、Dec95 withdrawn；手册覆盖多配置，UT5字段单独取值。",
+      "verification": "读取第三方镜像中的原厂／原刊正文或OCR，并区分原作者与保管站；镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。"
+    },
+    {
+      "refId": "B:EA01-N01",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "EA01-N01",
+      "id": "EA01-N01",
+      "title": "Nokia introduces mobile chat with the Nokia 3310",
+      "publisher": "Nokia Oyj / GlobeNewswire",
+      "url": "https://www.globenewswire.com/fr/news-release/2000/09/01/1845525/0/en/Nokia-introduces-mobile-chat-with-the-Nokia-3310.html",
+      "publishedOn": "2000-09-01",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读原发布稿：9月1日发布；第四季度为计划供货，非已证实首次零售日；GSM 900/1800、Navi Key、内置天线、短信聊天、可换前后壳。",
+      "sourceType": "品牌当时发布稿",
+      "independence": "型号/发布事实一手；不是独立使用或口碑证据",
+      "commercialDisclosure": "品牌发布稿，功能与市场定位带推广目的。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读原发布稿：9月1日发布；第四季度为计划供货，非已证实首次零售日；GSM 900/1800、Navi Key、内置天线、短信聊天、可换前后壳。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:EA01-N02",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "EA01-N02",
+      "id": "EA01-N02",
+      "title": "Nokia 3310 dual-band mobile cellular telephone with O2 SIM card",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8226943/nokia-3310-dual-band-mobile-cellular-telephone-with-o2-sim-card",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读馆藏2011-4：原3310、2000年、双频、可换外壳及扩展短信；实物记录不能推出所有地区首售日或用户群体比例。",
+      "sourceType": "博物馆实物目录",
+      "independence": "独立收藏机构的型号/年代记录",
+      "commercialDisclosure": "照片CC BY-NC-SA 4.0；非商业条款须另审，不据元数据许可推定可商业发布。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读馆藏2011-4：原3310、2000年、双频、可换外壳及扩展短信；实物记录不能推出所有地区首售日或用户群体比例。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:EA01-N03",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "EA01-N03",
+      "id": "EA01-N03",
+      "title": "Nokia 3310 User’s Guide（原型号后期修订，©2004）",
+      "publisher": "Nokia；InstructionsManuals 镜像",
+      "url": "https://www.instructionsmanuals.com/sites/default/files/2019-05/Nokia-3310-en.pdf",
+      "publishedOn": "2004",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读文字输入、Navi键、SIM/电池安装及保养章节：传统/预测输入、菜单确认、运营商服务条件、拆换电池。此2004版不单独证明2000首发时每项软件功能。",
+      "sourceType": "原厂用户手册镜像",
+      "independence": "操作说明一手；同品牌，非独立实测",
+      "commercialDisclosure": "手册©Nokia；链接与原创概述，不复制页面。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读文字输入、Navi键、SIM/电池安装及保养章节：传统/预测输入、菜单确认、运营商服务条件、拆换电池。此2004版不单独证明2000首发时每项软件功能。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:EA01-N04",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "EA01-N04",
+      "id": "EA01-N04",
+      "title": "Designing Mobile Interactions: The continual convergence of form and context, Volume 2",
+      "publisher": "Jesper Kjeldskov / Aalborg University",
+      "url": "https://vbn.aau.dk/ws/portalfiles/portal/74627193/Designing_Mobile_Interactions_vol_2.pdf",
+      "publishedOn": "2013",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读作者稿元数据及PDF第24页实验结果：3310与5510用于移动可用性实验，实验室舞垫与步行街条件发现的问题不同；仅引用情境差异，不推广成全体用户结论，也不比较型号总体优劣。",
+      "sourceType": "原始研究汇编/作者稿",
+      "independence": "大学研究者一手实验；不是品牌宣传",
+      "commercialDisclosure": "仓储页保留作者版权，仅链接和少量原创概述。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读作者稿元数据及PDF第24页实验结果：3310与5510用于移动可用性实验，实验室舞垫与步行街条件发现的问题不同；仅引用情境差异，不推广成全体用户结论，也不比较型号总体优劣。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:AMF01",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "AMF01",
+      "id": "AMF01",
+      "title": "Introducing the Framework Laptop",
+      "publisher": "Framework",
+      "url": "https://frame.work/blog/introducing-the-framework-laptop",
+      "publishedOn": "2021-02-25",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "2021年原始公布；第11代Intel、13.5英寸3:2屏、四个扩展卡槽、可替换部件及DIY版本。网页导航现含后续产品，未将其规格归给本件。 原公告正文另核铝制壳体、磁吸边框与部件QR码通向指南/零件商店；这些是结构与文档安排，不证明实际寿命或减排效果。",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "原2021-02-25公告正文；主整合重读材料/磁吸边框/QR标识段落，排除当前导航的后代规格",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "2021年原始公布；第11代Intel、13.5英寸3:2屏、四个扩展卡槽、可替换部件及DIY版本。网页导航现含后续产品，未将其规格归给本件。 原公告正文另核铝制壳体、磁吸边框与部件QR码通向指南/零件商店；这些是结构与文档安排，不证明实际寿命或减排效果。",
+      "verification": "原2021-02-25公告正文；主整合重读材料/磁吸边框/QR标识段落，排除当前导航的后代规格；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:AMF02",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "AMF02",
+      "id": "AMF02",
+      "title": "The Framework Laptop is now shipping, and press reviews are up!",
+      "publisher": "Framework",
+      "url": "https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews",
+      "publishedOn": "2021-07-22",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "正文称首批订单当日送达、7月批次正在出货；所引媒体好评为品牌筛选，未作为独立来源。",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "原厂2021-07-22交付公告正文所述首批送达和批次，不将品牌筛选评测当独立意见",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "正文称首批订单当日送达、7月批次正在出货；所引媒体好评为品牌筛选，未作为独立来源。",
+      "verification": "原厂2021-07-22交付公告正文所述首批送达和批次，不将品牌筛选评测当独立意见；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:AMF06",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "AMF06",
+      "id": "AMF06",
+      "title": "A Notebook You Can Repair: Framework Laptop — Best Inventions 2021",
+      "publisher": "TIME",
+      "url": "https://time.com/collections/best-inventions-2021/6112625/framework-laptop/",
+      "publishedOn": "2021-11-10",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "TIME Best Inventions 2021的Framework Laptop独立年度条目已读；结尾Don Steinberg署名，页面抬头TIME Staff；含当时价格与佣金披露。未复现年度目录类别，不以“消费者电子”为已核TIME类别；不是技术测试或设计奖等级。",
+      "sourceType": "媒体年度编辑评选",
+      "independence": "独立媒体编辑条目；不是品牌新闻稿",
+      "commercialDisclosure": "含Buy Now及站级可能获得商品链接佣金披露；单篇付费合作未见，未核实",
+      "verificationMethod": "研究者及只读复核已读原年度条目、署名和佣金披露；主整合当前再次访问跳至tollbit，不声称本次刷新通读",
+      "limits": "年度编辑选择的观点范围；本包不采用当时价格数值或当前售价；主整合再次访问返回tollbit，由原研究和只读复核的指定正文核查支持。",
+      "supports": "TIME Best Inventions 2021的Framework Laptop独立年度条目已读；结尾Don Steinberg署名，页面抬头TIME Staff；含当时价格与佣金披露。未复现年度目录类别，不以“消费者电子”为已核TIME类别；不是技术测试或设计奖等级。",
+      "verification": "研究者及只读复核已读原年度条目、署名和佣金披露；主整合当前再次访问跳至tollbit，不声称本次刷新通读；年度编辑选择的观点范围；本包不采用当时价格数值或当前售价；主整合再次访问返回tollbit，由原研究和只读复核的指定正文核查支持。"
+    },
+    {
+      "refId": "B:AMF03",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "AMF03",
+      "id": "AMF03",
+      "title": "Framework Laptop 13 (11th Gen and 12th Gen Intel Core) DIY Edition Quick Start Guide",
+      "publisher": "Framework Guides",
+      "url": "https://guides.frame.work/Guide/Framework+Laptop+13+(11th+Gen+and+12th+Gen+Intel+Core)+DIY+Edition+Quick+Start+Guide/57",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "适用第11与12代Intel；组装内存、SSD、无线网卡、输入盖排线及驱动提示。可见2023-11-02修订及未发布Release提示，不能称2021年原版说明书。",
+      "sourceType": "厂商操作指南",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "官方维修/DIY指南指定步骤和版本说明；现版本覆盖第11/12代，不称2021原版手册",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "适用第11与12代Intel；组装内存、SSD、无线网卡、输入盖排线及驱动提示。可见2023-11-02修订及未发布Release提示，不能称2021年原版说明书。",
+      "verification": "官方维修/DIY指南指定步骤和版本说明；现版本覆盖第11/12代，不称2021原版手册；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:AMF04",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "AMF04",
+      "id": "AMF04",
+      "title": "Framework Laptop—A Framework For A Repairable Future",
+      "publisher": "iFixit",
+      "url": "https://www.ifixit.com/News/63257/framework-laptop-a-framework-for-a-repairable-future",
+      "publishedOn": "2022-08-04",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "作者实际将11代i7主板换为12代i5-1240P，并更换上盖；核实后续兼容升级已发生，不能据此将2022处理器写进2021本件。",
+      "sourceType": "独立机构实操及观点",
+      "independence": "非Framework作者；iFixit从事维修工具与零件销售，持维修倡议立场",
+      "commercialDisclosure": "页面有自营工具零件商城；该篇是否收取品牌报酬未核实",
+      "verificationMethod": "第三方实际升级记录的正文；仅此样机及替换过程",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "作者实际将11代i7主板换为12代i5-1240P，并更换上盖；核实后续兼容升级已发生，不能据此将2022处理器写进2021本件。",
+      "verification": "第三方实际升级记录的正文；仅此样机及替换过程；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:AMF05",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "AMF05",
+      "id": "AMF05",
+      "title": "Framework Laptop",
+      "publisher": "Red Dot",
+      "url": "https://www.red-dot.org/project/framework-laptop-55668",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原数据库Product Design 2022；型号Framework Laptop；标识Red Dot: Best of the Best。评委赞语属于设计评价。",
+      "sourceType": "工业设计奖原始数据库",
+      "independence": "评奖机构原始记录；不是独立性能试验",
+      "commercialDisclosure": "评奖体系存在参赛和推广商业关系；本页面未核实具体费用",
+      "verificationMethod": "Red Dot具体项目原页面型号、2022产品设计及Best of the Best标识；只读复核再次打开确认",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "原数据库Product Design 2022；型号Framework Laptop；标识Red Dot: Best of the Best。评委赞语属于设计评价。",
+      "verification": "Red Dot具体项目原页面型号、2022产品设计及Best of the Best标识；只读复核再次打开确认；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+    },
+    {
+      "refId": "B:AMF07",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "AMF07",
+      "id": "AMF07",
+      "title": "Framework’s new lightweight modular laptop delivers on its promises",
+      "publisher": "Ars Technica",
+      "url": "https://arstechnica.com/gadgets/2021/07/frameworks-new-lightweight-modular-laptop-delivers-on-its-promises/",
+      "publishedOn": "2021-07-27",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "Jim Salter于2021-07-27对i7-1185G7、32GiB、1TB SSD首代样机作第一手评测；Performance (gaming)单列集成Iris Xe与独显游戏笔记本的比较，普通计算与游戏用途不能合并判断。只采用这一用途边界，不外推性能数值、所有配置或长期可靠性。",
+      "sourceType": "媒体单件评测",
+      "independence": "媒体作者Jim Salter的一手评测",
+      "commercialDisclosure": "该篇赞助、联盟链接及样机关系未完整核实",
+      "verificationMethod": "2021 Jim Salter原始样机评测正文；主整合重读测试配置与Performance (gaming)章节",
+      "limits": "单件首代i7样机及当时系统/测试条件；样机关系和该篇赞助/联盟披露未完整核实；本文不是年度奖或群体寿命证据。",
+      "supports": "Jim Salter于2021-07-27对i7-1185G7、32GiB、1TB SSD首代样机作第一手评测；Performance (gaming)单列集成Iris Xe与独显游戏笔记本的比较，普通计算与游戏用途不能合并判断。只采用这一用途边界，不外推性能数值、所有配置或长期可靠性。",
+      "verification": "2021 Jim Salter原始样机评测正文；主整合重读测试配置与Performance (gaming)章节；单件首代i7样机及当时系统/测试条件；样机关系和该篇赞助/联盟披露未完整核实；本文不是年度奖或群体寿命证据。"
+    },
+    {
+      "refId": "C:S15",
+      "sourceFile": "docs/collection.json",
+      "originalId": "S15",
+      "id": "S15",
+      "title": "1982 Timeline: Commodore 64 — CHM",
+      "publisher": "CHM",
+      "url": "https://www.computerhistory.org/timeline/1982/",
+      "supports": "1982 年 Commodore 64、64 KB 内存与图形能力；不使用争议性累计销量作为选品依据。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "refId": "C:TXE11",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXE11",
+      "id": "TXE11",
+      "title": "Commodore 64 User’s Guide（1982）— Project 64 转录",
+      "publisher": "Commodore Business Machines（Zimmers / Project 64 存档）",
+      "url": "https://www.zimmers.net/anonftp/pub/cbm/c64/manuals/c64-manual.txt",
+      "supports": "电视/显示与外部存储连接、BASIC 启动画面及 38911 可用字节、LOAD/RUN、磁带物理播放步骤、POKE 控制颜色/图形。",
+      "checkedOn": "2026-10-04",
+      "verification": "原厂用户指南的文字转录已读；存档目录明确这是原手册 e-text，未声称扫描图像逐页校验。"
+    },
+    {
+      "refId": "C:S01",
+      "sourceFile": "docs/collection.json",
+      "originalId": "S01",
+      "id": "S01",
+      "title": "RCA Radiola III radio receiver — Smithsonian",
+      "publisher": "Smithsonian",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1941972",
+      "supports": "馆藏实物型号、1924 年制造记录与两只 WD-11 电子管；年份不作全型号首发日期。",
+      "checkedOn": "2026-10-04",
+      "verification": "原机构网页的搜索索引内容已核查；直接正文抓取失败，未通读原页面；不表示媒体复制授权。"
+    },
+    {
+      "refId": "C:TXE01",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXE01",
+      "id": "TXE01",
+      "title": "RCA Radiola III (type R1) radio receiver — 另一件同型号馆藏",
+      "publisher": "Smithsonian",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1341347",
+      "supports": "同型号 Type R1 的再生检波、一级音频放大及灯丝、再生、选台控制；不能视为 nmah_1941972 的同一实物。",
+      "checkedOn": "2026-10-04",
+      "verification": "原机构搜索索引记录已读；原网页正文未成功读取；具体实物身份严格区分。"
+    },
+    {
+      "refId": "C:S03",
+      "sourceFile": "docs/collection.json",
+      "originalId": "S03",
+      "id": "S03",
+      "title": "Regency Model TR-1 Transistor Radio — Smithsonian",
+      "publisher": "Smithsonian",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_713528",
+      "supports": "1954 年 TR-1、I.D.E.A./TI 合作、四晶体管 AM 接收，以及晶体管助听器更早出现的背景。",
+      "checkedOn": "2026-10-04",
+      "verification": "原机构网页的搜索索引内容已核查；直接正文抓取失败，未通读原页面；不表示媒体复制授权。"
+    },
+    {
+      "refId": "C:TXE02",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXE02",
+      "id": "TXE02",
+      "title": "Regency TR-1 Technical Data Manual（1955），第 3 页",
+      "publisher": "Regency（ManualsLib 存档）",
+      "url": "https://www.manualslib.com/manual/4144780/Regency-Tr-1.html?page=3",
+      "supports": "原厂技术资料的扬声器、侧面耳机插口、插耳机关闭扬声器及 22.5V 电池说明。",
+      "checkedOn": "2026-10-04",
+      "verification": "读取原厂资料的网页 OCR 转录；未完整校验原扫描页与整册，未采用含糊的续航数字。"
+    },
+    {
+      "refId": "C:S13",
+      "sourceFile": "docs/collection.json",
+      "originalId": "S13",
+      "id": "S13",
+      "title": "Sony Celebrates Walkman 20th Anniversary — Sony",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/News/Press/199907/99-059/",
+      "supports": "1979-07-01 TPS-L2、删除录音与扬声器、立体声耳机输出和 MDR-3L2 耳机重量；Walkman 总品牌销量不作本型号销量。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "refId": "C:TXE10",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXE10",
+      "id": "TXE10",
+      "title": "Sony History, Chapter 3 — The Walkman",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-03.html",
+      "supports": "便携录音机过重的开发背景、Pressman 改造为播放设备、删除录音及小型耳机团队结合、1979 年推出。",
+      "checkedOn": "2026-10-04",
+      "verification": "官方历史网页正文已读；未采用未核实的双耳机口、Hot Line 或后继型号功能。"
+    },
+    {
+      "refId": "B:H16A",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "H16A",
+      "id": "H16A",
+      "title": "Digitizing Music — Sony History, Volume 2 Chapter 7",
+      "publisher": "Sony Group",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-07.html",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "CD标准由Sony与Philips合作，16bit/44.1kHz；CDP-101于1982-10-01推出、168000日元、唱片供给及元件开发背景；日本地区由H16G原文补充。未采用世界第一和销量。",
+      "sourceType": "厂家历史档案",
+      "independence": "厂家第一方回顾，具有品牌成功叙事立场",
+      "commercialDisclosure": "企业宣传；不当独立音质或市场影响测量。",
+      "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+      "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "supports": "CD标准由Sony与Philips合作，16bit/44.1kHz；CDP-101于1982-10-01推出、168000日元、唱片供给及元件开发背景；日本地区由H16G原文补充。未采用世界第一和销量。",
+      "verification": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题；仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+    },
+    {
+      "refId": "B:H16C",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "H16C",
+      "id": "H16C",
+      "title": "Sony CDP-101 Service Manual — US, Canadian, UK, AEP models",
+      "publisher": "Sony Corporation；ManualsLib镜像",
+      "url": "https://www.manualslib.com/manual/3344799/Sony-Cdp-101.html",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原服务资料首页列16bit线性、44.1kHz、耳机／线路输出及地区版本；非日本首发电源证明。",
+      "sourceType": "厂家原服务手册／档案镜像",
+      "independence": "Sony原稿，第三方托管；与品牌史不是独立来源",
+      "commercialDisclosure": "托管站带广告；未据此虚构原稿版权许可。",
+      "verificationMethod": "读取第三方镜像中的原厂／原刊正文或OCR，并区分原作者与保管站",
+      "verificationLimits": "镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。",
+      "limits": "镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。",
+      "supports": "原服务资料首页列16bit线性、44.1kHz、耳机／线路输出及地区版本；非日本首发电源证明。",
+      "verification": "读取第三方镜像中的原厂／原刊正文或OCR，并区分原作者与保管站；镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。"
+    },
+    {
+      "refId": "B:H16G",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "H16G",
+      "id": "H16G",
+      "title": "CD的诞生 — 索尼故事",
+      "publisher": "Sony China",
+      "url": "https://www.sony.com.cn/aboutsony/1214.htm",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "官方中文史正文明确1982-10-01向日本市场推出CDP-101；只用于地区和首发日。文本的50首／50张与价格译法有歧义，其他数量、音质和普及判断不采用。",
+      "sourceType": "厂家历史档案",
+      "independence": "厂家第一方，与英文品牌史不是独立来源",
+      "commercialDisclosure": "品牌历史宣传；旧文中强烈评价不作为客观性能证据。",
+      "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+      "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "supports": "官方中文史正文明确1982-10-01向日本市场推出CDP-101；只用于地区和首发日。文本的50首／50张与价格译法有歧义，其他数量、音质和普及判断不采用。",
+      "verification": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题；仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+    },
+    {
+      "refId": "B:H16B",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "H16B",
+      "id": "H16B",
+      "title": "Sony CDP-101 Operating Instructions, 1982, 14 pages",
+      "publisher": "Sony Corporation；ManualsLib镜像",
+      "url": "https://www.manualslib.com/manual/3991316/Sony-Cdp-101.html",
+      "publishedOn": "1982",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原稿©1982 Sony；目录和摘要可读：第4页持盘边缘／避免触及彩色表面，第6页控制，第8页放盘／播放，第9页寻曲，第10页重复，第13页遥控；不推日本电压。",
+      "sourceType": "厂家原使用说明书／档案镜像",
+      "independence": "Sony原稿，第三方托管；不算独立使用评价",
+      "commercialDisclosure": "托管站带广告；说明书内容与站点推广分开。",
+      "verificationMethod": "读取原手册封面、目录与全册页面摘要；另读第9页寻曲原文OCR。",
+      "verificationLimits": "第8和13页单页抓取失败；装盘方向由同期直接使用记录H16D支持，其他操作限于已读摘要／原文。未核日本首发电源。",
+      "limits": "第8和13页单页抓取失败；装盘方向由同期直接使用记录H16D支持，其他操作限于已读摘要／原文。未核日本首发电源。",
+      "supports": "原稿©1982 Sony；目录和摘要可读：第4页持盘边缘／避免触及彩色表面，第6页控制，第8页放盘／播放，第9页寻曲，第10页重复，第13页遥控；不推日本电压。",
+      "verification": "读取原手册封面、目录与全册页面摘要；另读第9页寻曲原文OCR。；第8和13页单页抓取失败；装盘方向由同期直接使用记录H16D支持，其他操作限于已读摘要／原文。未核日本首发电源。"
+    },
+    {
+      "refId": "B:H16D",
+      "sourceFile": "docs/expansion/first-batch.json",
+      "originalId": "H16D",
+      "id": "H16D",
+      "title": "Sony CDP-101 Compact Disc Player — J. Gordon Holt",
+      "publisher": "Stereophile",
+      "url": "https://stereophile.com/content/sony-cdp-101-compact-disc-player",
+      "publishedOn": "1983-01-23（原刊）；1995-01-23（网页）",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "First Published 1983-01-23，网上标1995-01-23；美国试用：水平抽屉、标签朝上、寻曲与重复、遥控直选号、红外需指向、样机当时没有说明书。仅为该作者和该样机经历。",
+      "sourceType": "同期第一手产品评测",
+      "independence": "独立媒体作者直接使用；不是厂家技术保证",
+      "commercialDisclosure": "广告支持媒体，页面有Media Kits；样机提供方未完整披露，未见单篇付费合作声明，不能推断完全无商业关系。",
+      "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+      "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "supports": "First Published 1983-01-23，网上标1995-01-23；美国试用：水平抽屉、标签朝上、寻曲与重复、遥控直选号、红外需指向、样机当时没有说明书。仅为该作者和该样机经历。",
+      "verification": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题；仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+    },
+    {
+      "refId": "C:S28",
+      "sourceFile": "docs/collection.json",
+      "originalId": "S28",
+      "id": "S28",
+      "title": "Apple Presents iPod",
+      "publisher": "Apple Newsroom",
+      "url": "https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/",
+      "supports": "2001年10月23日发布、11月10日计划销售，初代5GB硬盘、FireWire同步与充电、iTunes 2、列表导航及电源适配器。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取2001年原始发布公告正文；区分发布日期与公告安排的销售日。未采用第一、性能宣传、销量或绝对曲目数量。"
+    },
+    {
+      "refId": "C:TXM21A",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXM21A",
+      "id": "TXM21A",
+      "title": "Identify your iPod model — iPod (Scroll Wheel)",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-sg/103823",
+      "supports": "初代Scroll Wheel的实际旋转结构、轮缘独立按键，M8541与2001年型号识别；与后续Touch Wheel、Dock和Click Wheel的区分。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取机型识别正文。FireWire以原始发布公告核实；本页可能含异常的FireWire表述，未据此覆盖首发资料。"
+    },
+    {
+      "refId": "C:S08",
+      "sourceFile": "docs/collection.json",
+      "originalId": "S08",
+      "id": "S08",
+      "title": "Video Game History — Smithsonian",
+      "publisher": "Smithsonian",
+      "url": "https://americanhistory.si.edu/ne/collections/object-groups/the-father-of-the-video-game-the-ralph-baer-prototypes-and-electronic-games/video-game-history",
+      "supports": "Odyssey 与 Baer/Brown Box 的联系、1972 年商品化、插卡改变电路和屏幕覆膜及实体游戏配件。",
+      "checkedOn": "2026-10-04",
+      "verification": "原机构网页的搜索索引内容已核查；直接正文抓取失败，未通读原页面；不表示媒体复制授权。"
+    },
+    {
+      "refId": "C:TXE04",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXE04",
+      "id": "TXE04",
+      "title": "The Magnavox Odyssey predicted the future of video games",
+      "publisher": "Smithsonian / Drew Robarge",
+      "url": "https://americanhistory.si.edu/explore/stories/magnavox-odyssey-predicted-future-video-games",
+      "supports": "1972 年上市、插卡与简单图形、控制旋钮、说明书规则及覆膜和实体配件的实际游戏关系。",
+      "checkedOn": "2026-10-04",
+      "verification": "原机构完整搜索索引文章已读；直接页面读取超时，未声称通读在线正文或实测。"
+    },
+    {
+      "refId": "C:S11",
+      "sourceFile": "docs/collection.json",
+      "originalId": "S11",
+      "id": "S11",
+      "title": "1977 Timeline: Atari VCS — CHM",
+      "publisher": "CHM",
+      "url": "https://www.computerhistory.org/timeline/1977/",
+      "supports": "1977 年 Atari VCS、后来 Atari 2600 名称与工厂写入 ROM 的可换游戏卡带。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "refId": "C:TXE07",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXE07",
+      "id": "TXE07",
+      "title": "Atari Video Computer System Owner’s Manual（1977），C010777",
+      "publisher": "Atari（Atari Compendium 存档）",
+      "url": "https://www.ataricompendium.com/archives/manuals/vcs/atari_vcs_77_v1.pdf",
+      "supports": "1977 原厂手册的关机插卡、GAME SELECT、RESET、电视类型与左右难度设置；不是后来的 2600A 或 2600+ 手册。",
+      "checkedOn": "2026-10-04",
+      "verification": "原手册搜索索引文字已读；直接 PDF 读取超时，Digital Press 同名 1977 手册目录可核对、PDF 返回 429；未声称已视觉验页。"
+    },
+    {
+      "refId": "C:S17",
+      "sourceFile": "docs/collection.json",
+      "originalId": "S17",
+      "id": "S17",
+      "title": "Company History — Nintendo",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+      "supports": "1983年在日本推出Family Computer的公司历史记录；与具体原机操作来源TXM14A配合使用。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页正文1983年记录；共享公司年表仅支持推出背景，不用于推断原机操作。"
+    },
+    {
+      "refId": "C:TXM14A",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXM14A",
+      "id": "TXM14A",
+      "title": "ファミコンとは？ — Family Computer hardware",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/jp/famicom/hardware/index.html",
+      "supports": "1983年7月15日推出；原HVC-001的POWER/EJECT/RESET、频道与TV/GAME切换、RF连接和专用供电，以及一号/二号控制器不同功能。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页正文。页面明确说操作文字依据当时说明书，采用原机功能，未采用现代复刻控制器资料。"
+    },
+    {
+      "refId": "C:S20",
+      "sourceFile": "docs/collection.json",
+      "originalId": "S20",
+      "id": "S20",
+      "title": "Game Boy — Nintendo History",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy/Game-Boy-627031.html",
+      "supports": "1989年在日本推出，原Game Boy单色四灰阶屏、尺寸、四节AA供电和约15小时电池指标；可携带游戏的平台背景。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取正文和原Game Boy规格列；页面同时介绍Pocket及后续软件，只使用明确属于原机的字段，未采用页面Pocket年份或音源表述。"
+    },
+    {
+      "refId": "C:TXM16A",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXM16A",
+      "id": "TXM16A",
+      "title": "Game Boy Owner's Manual, DMG-GB-USA-1 (1989)",
+      "publisher": "Nintendo of America (original manual; Manualzz mirror)",
+      "url": "https://manualzz.com/doc/22866609/nintendo-game-boy-handheld-game-console-user-manual",
+      "supports": "原DMG-01说明书的电池、卡带插拔与电源顺序、音量/对比度调节、耳机、Video Link双机条件和环境光要求。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取原说明书转录正文及1989版权、DMG-01型号；使用Document正文，未引用页面AI生成介绍/FAQ。"
+    },
+    {
+      "refId": "C:TXM17A",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXM17A",
+      "id": "TXM17A",
+      "title": "Sony Group History, Part 2 Chapter 9: PlayStation",
+      "publisher": "Sony Group",
+      "url": "https://www.sony.com/ja/SonyInfo/CorporateInfo/History/SonyHistory/2-09.html",
+      "supports": "独立PlayStation路线的CD-ROM与3D图形开发背景、1994年12月3日发售，圆形盘盖/握柄与形状按钮，以及光盘制造与内容供应之间的关系。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取公司史第1–3节正文。仅采用具体开发、介质和设计事实，不采用销售数字、宣传口号或厂家成功评价。"
+    },
+    {
+      "refId": "C:TXM17B",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXM17B",
+      "id": "TXM17B",
+      "title": "PlayStation 1994 — PlayStation history timeline (Japan)",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/ja-jp/playstation-history/1994-ps-one/",
+      "supports": "日本1994及海外1995的发售时间，1994原始控制器、1997双模拟与DUALSHOCK的先后，CD-ROM、控制器端口及独立记忆卡。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取官方日本页正文。记忆卡段把原机卡写作8MB，与原说明书不符，正文不采用该容量；仅用功能和时间线。"
+    },
+    {
+      "refId": "C:S21",
+      "sourceFile": "docs/collection.json",
+      "originalId": "S21",
+      "id": "S21",
+      "title": "PlayStation 1994 history — Sony Interactive Entertainment",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/en-us/playstation-history/1994-ps-one/",
+      "supports": "搜索索引支持1994年日本、1995年北美及欧洲的发售区分和CD-ROM背景；具体结构与操作由TXM17A/B/C正文支撑。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次美国页正文读取返回错误，只读取搜索索引。日本官方对应页另以TXM17B登记正文，未将本项标为已读正文。"
+    },
+    {
+      "refId": "C:S29",
+      "sourceFile": "docs/collection.json",
+      "originalId": "S29",
+      "id": "S29",
+      "title": "Nintendo History — Nintendo DS",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/en-za/Hardware/Nintendo-History/Nintendo-History-625945.html",
+      "supports": "DS在2004年于美国和日本发售、2005年进入欧洲，以及2006年DS Lite调整尺寸和显示的后续关系。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取公司历史正文。历史页用于时间与产品承接，具体输入、卡带和无线操作依据原版DS说明书。"
+    },
+    {
+      "refId": "C:TXM22A",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXM22A",
+      "id": "TXM22A",
+      "title": "Nintendo DS Instruction Booklet（C/NTR-USA-1，55877C）",
+      "publisher": "Nintendo",
+      "url": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/ds_english",
+      "supports": "原版DS双屏、下屏触摸、触笔、按键、麦克风、插槽；关机插卡、菜单启动、Download Play与PictoChat实际操作；GBA单人兼容和近距离通信条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取15页官方PDF的文本正文，版权2004–2005、C/NTR-USA-1。重点核查印刷页4–5、8、10–18；不将DS Lite、DSi或3DS功能回写。"
+    },
+    {
+      "refId": "C:S31",
+      "sourceFile": "docs/collection.json",
+      "originalId": "S31",
+      "id": "S31",
+      "title": "Company History — 2006 Wii",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+      "supports": "2006年Wii上市的时间锚点。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取官方公司历史正文。该页仅支持年份；具体操作由原版主机及Wii Sports资料核实。"
+    },
+    {
+      "refId": "C:TXM24A",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXM24A",
+      "id": "TXM24A",
+      "title": "Wii Sports Instruction Booklet（61918A，2006）",
+      "publisher": "Nintendo",
+      "url": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/Wii_Wii_Sports",
+      "supports": "2006年Wii Sports光盘频道启动、A键、玩家/Mii/惯用手选择、网球挥动及保龄球持键摆臂松键、腕带提示和轮流共用手柄。",
+      "checkedOn": "2026-10-04",
+      "verification": "网页读取工具未能读取该资产；以HTTP 200取得官方18页PDF并在内存解析英文正文，版权2006、61918A；重点核查印刷页4–9。未产生本地文件。"
+    },
+    {
+      "refId": "C:TXL10",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXL10",
+      "id": "TXL10",
+      "title": "Steam Deck LCD technical specifications",
+      "publisher": "Valve",
+      "url": "https://www.steamdeck.com/en/tech/deck",
+      "supports": "原LCD版Steam Deck的7英寸60Hz IPS、40Wh电池、输入装置与接口。",
+      "checkedOn": "2026-10-04",
+      "verification": "官方LCD规格正文已核查，链接为/deck；不混用OLED版90Hz、50Wh或Wi-Fi 6E。"
+    },
+    {
+      "refId": "C:TXL11",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXL11",
+      "id": "TXL11",
+      "title": "Deck Verified",
+      "publisher": "Valve",
+      "url": "https://www.steamdeck.com/en/verified",
+      "supports": "Steam Deck的Verified、Playable、Unsupported、Unknown四种兼容状态及输入、画面要求。",
+      "checkedOn": "2026-10-04",
+      "verification": "正文四类定义和四项核查标准已读；网页为现行兼容制度说明，不视为2022年所有游戏的实际表现记录。"
+    },
+    {
+      "refId": "C:TXL12",
+      "sourceFile": "docs/collection.json",
+      "originalId": "TXL12",
+      "id": "TXL12",
+      "title": "Steam Deck Launching February 25th",
+      "publisher": "Valve / Steam News",
+      "url": "https://store.steampowered.com/news/app/1675180/view/3117055056380003048",
+      "supports": "2022年2月25日首批订购邮件与2月28日起首批发货的安排。",
+      "checkedOn": "2026-10-04",
+      "verification": "web正文解析只显示图片，直接读取同页HTTP 200 HTML内data-partnereventstore公告正文；原始announcement_body明确订购邮件、72小时窗口与28日起发货，时间戳为2022-01-26。"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "query": "Nintendo Virtual Boy Japan",
+  "checkedOn": "2026-10-15",
+  "result_count": 1,
+  "page_count": 1,
+  "page_size": 20,
+  "page": 1,
+  "results": [
+    {
+      "id": "3736ad13-92cd-46bb-b035-9c39968e02b6",
+      "title": "Virtualboyinashopinjapan-oct2012",
+      "indexed_on": "2020-05-05T19:53:20.620587Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=32433965",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Virtualboyinashopinjapan-oct2012.jpg",
+      "creator": "Nesnad",
+      "creator_url": "https://commons.wikimedia.org/wiki/User:Nesnad",
+      "license": "by",
+      "license_version": "3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 2588136,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"Virtualboyinashopinjapan-oct2012\" by Nesnad is licensed under CC BY 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/3.0/.",
+      "fields_matched": [
+        "description"
+      ],
+      "mature": false,
+      "height": 4320,
+      "width": 2880,
+      "thumbnail": "https://api.openverse.org/v1/images/3736ad13-92cd-46bb-b035-9c39968e02b6/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/3736ad13-92cd-46bb-b035-9c39968e02b6/",
+      "related_url": "https://api.openverse.org/v1/images/3736ad13-92cd-46bb-b035-9c39968e02b6/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

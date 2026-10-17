@@ -1,0 +1,141 @@
+{
+  "query": "\"HoloLens 2\"",
+  "checkedOn": "2026-10-15",
+  "result_count": 3,
+  "page_count": 1,
+  "page_size": 20,
+  "page": 1,
+  "results": [
+    {
+      "id": "7d578b8a-10af-4288-875f-547e63c567ea",
+      "title": "HoloLens 2",
+      "indexed_on": "2020-03-05T03:41:52.809710Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=47278031",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/HoloLens_2.jpeg",
+      "creator": "Microsoft Sweden",
+      "creator_url": null,
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 61264,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"HoloLens 2\" by Microsoft Sweden is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "title"
+      ],
+      "mature": false,
+      "height": 237,
+      "width": 478,
+      "thumbnail": "https://api.openverse.org/v1/images/7d578b8a-10af-4288-875f-547e63c567ea/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/7d578b8a-10af-4288-875f-547e63c567ea/",
+      "related_url": "https://api.openverse.org/v1/images/7d578b8a-10af-4288-875f-547e63c567ea/related/",
+      "unstable__sensitivity": []
+    },
+    {
+      "id": "7e3b82de-b360-4663-98e8-506a2ed56242",
+      "title": "Microsoft HoloLens 2",
+      "indexed_on": "2022-11-05T00:12:34.880032Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=124993042",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Microsoft_HoloLens_2.webp",
+      "creator": "Microsoft",
+      "creator_url": null,
+      "license": "by-sa",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 17822,
+      "filetype": "webp",
+      "tags": [],
+      "attribution": "\"Microsoft HoloLens 2\" by Microsoft is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+      "fields_matched": [
+        "title"
+      ],
+      "mature": false,
+      "height": 705,
+      "width": 1253,
+      "thumbnail": "https://api.openverse.org/v1/images/7e3b82de-b360-4663-98e8-506a2ed56242/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/7e3b82de-b360-4663-98e8-506a2ed56242/",
+      "related_url": "https://api.openverse.org/v1/images/7e3b82de-b360-4663-98e8-506a2ed56242/related/",
+      "unstable__sensitivity": []
+    },
+    {
+      "id": "820be129-60bb-47c1-89b7-77d8f485c33b",
+      "title": "The Magic Leap of Faith 2",
+      "indexed_on": "2023-03-11T14:58:43.942387Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/44124348109@N01/52023485895",
+      "url": "https://live.staticflickr.com/65535/52023485895_173e18b7b9_b.jpg",
+      "creator": "jurvetson",
+      "creator_url": "https://www.flickr.com/photos/44124348109@N01",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": "photograph",
+      "filesize": null,
+      "filetype": "jpg",
+      "tags": [
+        {
+          "name": "2",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "abundance360",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "ar",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "augmented",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "demo",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "genevievejurvetson",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "leap",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "magic",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "reality",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"The Magic Leap of Faith 2\" by jurvetson is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [],
+      "mature": false,
+      "height": 1024,
+      "width": 768,
+      "thumbnail": "https://api.openverse.org/v1/images/820be129-60bb-47c1-89b7-77d8f485c33b/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/820be129-60bb-47c1-89b7-77d8f485c33b/",
+      "related_url": "https://api.openverse.org/v1/images/820be129-60bb-47c1-89b7-77d8f485c33b/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

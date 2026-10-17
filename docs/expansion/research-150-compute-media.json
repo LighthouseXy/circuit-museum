@@ -1,0 +1,3137 @@
+{
+  "scope": "计算、计算器、输入打印、创作、PDA阅读、存储便携媒体；不含游戏和VR；研究建议未导入",
+  "checkedOn": "2026-10-11",
+  "candidates": [
+    {
+      "id": "CPM001",
+      "slug": "casio-14-a",
+      "name": "14-A",
+      "brand": "Casio",
+      "year": 1957,
+      "dateLabel": "1957-06（日本销售）",
+      "dateKind": "launch",
+      "regionVersion": "日本销售档案",
+      "productFamily": "继电器计算器",
+      "categoryProposal": "计算器",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：在半导体之前把日常四则运算交给继电器",
+      "keyFacts": [
+        {
+          "text": "1957年6月上市，341继电器与14位四则运算",
+          "sourceIds": [
+            "CM150-S001"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S001"
+      ],
+      "identitySourceIds": [
+        "CM150-S001"
+      ],
+      "dateSourceIds": [
+        "CM150-S001"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。",
+        "本轮一份原厂或博物馆逐型身份年份记录；只建议窄范围入选，正文阶段补功能/独立背景来源，不声称ready。"
+      ],
+      "gapContribution": "在半导体之前把日常四则运算交给继电器",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM002",
+      "slug": "casio-mini-1972",
+      "name": "Casio Mini",
+      "brand": "Casio",
+      "year": 1972,
+      "dateLabel": "1972-08",
+      "dateKind": "launch",
+      "regionVersion": "日本档案",
+      "productFamily": "个人计算器",
+      "categoryProposal": "计算器",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：普通账目计算从桌面转向个人手持",
+      "keyFacts": [
+        {
+          "text": "1972年8月推出Casio Mini",
+          "sourceIds": [
+            "CM150-S003",
+            "CM150-S002"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S003",
+        "CM150-S002"
+      ],
+      "identitySourceIds": [
+        "CM150-S003"
+      ],
+      "dateSourceIds": [
+        "CM150-S003"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "普通账目计算从桌面转向个人手持",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM003",
+      "slug": "casio-sl800",
+      "name": "SL-800",
+      "brand": "Casio",
+      "year": 1983,
+      "dateLabel": "1983年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原SL800；不拆配色",
+      "productFamily": "卡片计算器",
+      "categoryProposal": "计算器",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：卡片厚度与实际按键输入形成对照",
+      "keyFacts": [
+        {
+          "text": "1983年SL800，厚度0.8毫米",
+          "sourceIds": [
+            "CM150-S004",
+            "CM150-S002"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S004",
+        "CM150-S002"
+      ],
+      "identitySourceIds": [
+        "CM150-S004"
+      ],
+      "dateSourceIds": [
+        "CM150-S004"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "卡片厚度与实际按键输入形成对照",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM004",
+      "slug": "casio-fx7000g",
+      "name": "fx-7000G",
+      "brand": "Casio",
+      "year": 1985,
+      "dateLabel": "1985-08（厂商发布档案）",
+      "dateKind": "launch",
+      "regionVersion": "原代；地区首发另核",
+      "productFamily": "图形计算器",
+      "categoryProposal": "计算器",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：将函数输入和视觉结果放在同一手持工具",
+      "keyFacts": [
+        {
+          "text": "1985年8月发布，96×64点阵和函数绘图",
+          "sourceIds": [
+            "CM150-S005",
+            "CM150-S006"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S005",
+        "CM150-S006"
+      ],
+      "identitySourceIds": [
+        "CM150-S005"
+      ],
+      "dateSourceIds": [
+        "CM150-S005"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "将函数输入和视觉结果放在同一手持工具",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM005",
+      "slug": "hp-65",
+      "name": "HP-65",
+      "brand": "Hewlett-Packard",
+      "year": 1974,
+      "dateLabel": "1974年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原HP65",
+      "productFamily": "可编程手持计算器",
+      "categoryProposal": "计算器",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：磁卡让计算步骤能够保存和重新调用",
+      "keyFacts": [
+        {
+          "text": "1974年推出、内置磁卡读写",
+          "sourceIds": [
+            "CM150-S007",
+            "CM150-S008"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S007",
+        "CM150-S008"
+      ],
+      "identitySourceIds": [
+        "CM150-S007"
+      ],
+      "dateSourceIds": [
+        "CM150-S007"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "磁卡让计算步骤能够保存和重新调用",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM006",
+      "slug": "osborne-1",
+      "name": "Osborne 1",
+      "brand": "Osborne",
+      "year": 1981,
+      "dateLabel": "1981-04（SMG发布月；CHM核年份）",
+      "dateKind": "launch",
+      "regionVersion": "美国原代；博物馆A08887辅助",
+      "productFamily": "可携计算机",
+      "categoryProposal": "计算设备",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：携带整套办公环境与随时使用之间的区别",
+      "keyFacts": [
+        {
+          "text": "1981年推出；键盘、双软盘及64K内存",
+          "sourceIds": [
+            "CM150-S009",
+            "CM150-S010",
+            "CM150-S011"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S009",
+        "CM150-S010",
+        "CM150-S011"
+      ],
+      "identitySourceIds": [
+        "CM150-S009"
+      ],
+      "dateSourceIds": [
+        "CM150-S009",
+        "CM150-S010"
+      ],
+      "evidenceLimits": [
+        "五节完整稿已写，正文ready待协调逐段验收；尚未导入。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "携带整套办公环境与随时使用之间的区别",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM007",
+      "slug": "epson-hx20",
+      "name": "HX-20",
+      "brand": "Epson",
+      "year": 1982,
+      "dateLabel": "1982-07（原厂产品节点）",
+      "dateKind": "launch",
+      "regionVersion": "国际HX20；日本HC20同平台不另计",
+      "productFamily": "电池便携电脑",
+      "categoryProposal": "计算设备",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：把屏幕、键盘和纸面输出装进A4大小设备",
+      "keyFacts": [
+        {
+          "text": "1982年7月，LCD、微型打印机和镍镉电池",
+          "sourceIds": [
+            "CM150-S014",
+            "CM150-S015",
+            "CM150-S013"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S014",
+        "CM150-S015",
+        "CM150-S013"
+      ],
+      "identitySourceIds": [
+        "CM150-S014"
+      ],
+      "dateSourceIds": [
+        "CM150-S014"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "把屏幕、键盘和纸面输出装进A4大小设备",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM008",
+      "slug": "trs80-model100",
+      "name": "TRS-80 Model 100",
+      "brand": "Radio Shack / Tandy",
+      "year": 1983,
+      "dateLabel": "1983年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "北美版；不套调制解调器到所有地区",
+      "productFamily": "笔记本电脑",
+      "categoryProposal": "计算设备",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：文本记录和电话传输的便携工作台",
+      "keyFacts": [
+        {
+          "text": "1983引入，北美版300baud调制解调器与AA供电",
+          "sourceIds": [
+            "CM150-S016"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S016"
+      ],
+      "identitySourceIds": [
+        "CM150-S016"
+      ],
+      "dateSourceIds": [
+        "CM150-S016"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。",
+        "本轮一份原厂或博物馆逐型身份年份记录；只建议窄范围入选，正文阶段补功能/独立背景来源，不声称ready。"
+      ],
+      "gapContribution": "文本记录和电话传输的便携工作台",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM009",
+      "slug": "bbc-micro-model-b",
+      "name": "BBC Micro Model B",
+      "brand": "Acorn",
+      "year": 1981,
+      "dateLabel": "1981-12（发布；交付曾延迟）",
+      "dateKind": "launch",
+      "regionVersion": "英国Model B 32K",
+      "productFamily": "教育微型计算机",
+      "categoryProposal": "计算设备",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：电视教学、BASIC与连接外部设备的学习路径",
+      "keyFacts": [
+        {
+          "text": "1981年12月发布但初期交付延迟，32K RAM",
+          "sourceIds": [
+            "CM150-S017",
+            "CM150-S018"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S017",
+        "CM150-S018"
+      ],
+      "identitySourceIds": [
+        "CM150-S017"
+      ],
+      "dateSourceIds": [
+        "CM150-S017"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "电视教学、BASIC与连接外部设备的学习路径",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM010",
+      "slug": "sharp-pc1500-jp",
+      "name": "PC-1500",
+      "brand": "Sharp",
+      "year": 1981,
+      "dateLabel": "1981（日本；欧美澳1982）",
+      "dateKind": "launch",
+      "regionVersion": "日本1981；欧美澳1982不混用",
+      "productFamily": "口袋电脑",
+      "categoryProposal": "计算设备",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：QWERTY与数字键共同服务现场编程",
+      "keyFacts": [
+        {
+          "text": "日本1981，BASIC、26字符LCD",
+          "sourceIds": [
+            "CM150-S019"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S019"
+      ],
+      "identitySourceIds": [
+        "CM150-S019"
+      ],
+      "dateSourceIds": [
+        "CM150-S019"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。",
+        "本轮一份原厂或博物馆逐型身份年份记录；只建议窄范围入选，正文阶段补功能/独立背景来源，不声称ready。"
+      ],
+      "gapContribution": "QWERTY与数字键共同服务现场编程",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM011",
+      "slug": "commodore-amiga1000",
+      "name": "Amiga 1000",
+      "brand": "Commodore",
+      "year": 1985,
+      "dateLabel": "1985-07-23（机构发布事件）",
+      "dateKind": "launch",
+      "regionVersion": "原Amiga后称1000；地区视频制式另核",
+      "productFamily": "多媒体电脑",
+      "categoryProposal": "计算设备",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：让绘画、声音与多任务出现在个人电脑上",
+      "keyFacts": [
+        {
+          "text": "1985年7月23日公布原Amiga；68000与音像协处理器",
+          "sourceIds": [
+            "CM150-S020",
+            "CM150-S021"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S020",
+        "CM150-S021"
+      ],
+      "identitySourceIds": [
+        "CM150-S020"
+      ],
+      "dateSourceIds": [
+        "CM150-S020"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "让绘画、声音与多任务出现在个人电脑上",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM012",
+      "slug": "apple-newton-messagepad-1993",
+      "name": "MessagePad 原代",
+      "brand": "Apple",
+      "year": 1993,
+      "dateLabel": "1993年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原代MessagePad；不含100/110/2000",
+      "productFamily": "PDA",
+      "categoryProposal": "PDA与电子阅读",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：笔输入整理个人信息的另一条路线",
+      "keyFacts": [
+        {
+          "text": "MessagePad硬件名、Newton系统名；首Newton于1993发货",
+          "sourceIds": [
+            "CM150-S022",
+            "CM150-S023"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S022",
+        "CM150-S023"
+      ],
+      "identitySourceIds": [
+        "CM150-S022"
+      ],
+      "dateSourceIds": [
+        "CM150-S023"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "笔输入整理个人信息的另一条路线",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM013",
+      "slug": "ti99-4a",
+      "name": "TI-99/4A",
+      "brand": "Texas Instruments",
+      "year": 1981,
+      "dateLabel": "1981年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原4A；排除1979 4",
+      "productFamily": "家用电脑",
+      "categoryProposal": "计算设备",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：BASIC家庭电脑来自计算器厂商的路线",
+      "keyFacts": [
+        {
+          "text": "1981推出TI99/4A",
+          "sourceIds": [
+            "CM150-S024"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S024"
+      ],
+      "identitySourceIds": [
+        "CM150-S024"
+      ],
+      "dateSourceIds": [
+        "CM150-S024"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。",
+        "本轮一份原厂或博物馆逐型身份年份记录；只建议窄范围入选，正文阶段补功能/独立背景来源，不声称ready。"
+      ],
+      "gapContribution": "BASIC家庭电脑来自计算器厂商的路线",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM014",
+      "slug": "iomega-zip100",
+      "name": "Zip 100 drive",
+      "brand": "Iomega",
+      "year": 1994,
+      "dateLabel": "1994年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原100MB驱动器；容量升级不另计",
+      "productFamily": "可移除存储",
+      "categoryProposal": "便携音乐与存储",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：把文档搬运与特定驱动器绑定",
+      "keyFacts": [
+        {
+          "text": "CHM逐型条目标1994 Zip100",
+          "sourceIds": [
+            "CM150-S025",
+            "CM150-S026"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S025",
+        "CM150-S026"
+      ],
+      "identitySourceIds": [
+        "CM150-S025"
+      ],
+      "dateSourceIds": [
+        "CM150-S025"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "把文档搬运与特定驱动器绑定",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM015",
+      "slug": "sony-d50-jp",
+      "name": "D-50",
+      "brand": "Sony",
+      "year": 1984,
+      "dateLabel": "1984-11（日本）",
+      "dateKind": "launch",
+      "regionVersion": "日本D50；D5地区别名不另计",
+      "productFamily": "便携CD",
+      "categoryProposal": "便携音乐与存储",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：便携光盘与随步行聆听不是相同条件",
+      "keyFacts": [
+        {
+          "text": "日本1984年11月推出D50",
+          "sourceIds": [
+            "CM150-S028",
+            "CM150-S027"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S028",
+        "CM150-S027"
+      ],
+      "identitySourceIds": [
+        "CM150-S028"
+      ],
+      "dateSourceIds": [
+        "CM150-S028"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "便携光盘与随步行聆听不是相同条件",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM016",
+      "slug": "sony-mz1",
+      "name": "MZ-1",
+      "brand": "Sony",
+      "year": 1992,
+      "dateLabel": "1992年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原MZ1；排除MZ2P只播放版",
+      "productFamily": "MiniDisc录放",
+      "categoryProposal": "便携音乐与存储",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：携带音乐之外用数字键组织自己的录音",
+      "keyFacts": [
+        {
+          "text": "1992 MiniDisc录放设备，数字键与前装载槽",
+          "sourceIds": [
+            "CM150-S029",
+            "CM150-S027"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S029",
+        "CM150-S027"
+      ],
+      "identitySourceIds": [
+        "CM150-S029"
+      ],
+      "dateSourceIds": [
+        "CM150-S029"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "携带音乐之外用数字键组织自己的录音",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM017",
+      "slug": "roland-tr808",
+      "name": "TR-808 Rhythm Composer",
+      "brand": "Roland",
+      "year": 1980,
+      "dateLabel": "1980（生产起年；止年1982）",
+      "dateKind": "manufacture",
+      "regionVersion": "原模拟808；不含Boutique/软件",
+      "productFamily": "鼓机",
+      "categoryProposal": "音乐制作与录音",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：节奏编排由电子电路发声而非录音回放",
+      "keyFacts": [
+        {
+          "text": "1980开始生产，以模拟合成鼓声",
+          "sourceIds": [
+            "CM150-S031",
+            "CM150-S032"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S031",
+        "CM150-S032"
+      ],
+      "identitySourceIds": [
+        "CM150-S031"
+      ],
+      "dateSourceIds": [
+        "CM150-S031"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "节奏编排由电子电路发声而非录音回放",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM018",
+      "slug": "roland-tb303",
+      "name": "TB-303 Bass Line",
+      "brand": "Roland",
+      "year": 1981,
+      "dateLabel": "1981年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原模拟TB303",
+      "productFamily": "贝司合成伴奏",
+      "categoryProposal": "音乐制作与录音",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：乐器原任务与后来再解释之间的差距",
+      "keyFacts": [
+        {
+          "text": "1981发布、模拟单音、截止频率和共振控制",
+          "sourceIds": [
+            "CM150-S033",
+            "CM150-S034"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S033",
+        "CM150-S034"
+      ],
+      "identitySourceIds": [
+        "CM150-S033"
+      ],
+      "dateSourceIds": [
+        "CM150-S033"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "乐器原任务与后来再解释之间的差距",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM019",
+      "slug": "roland-d50",
+      "name": "D-50 Linear Synthesizer",
+      "brand": "Roland",
+      "year": 1987,
+      "dateLabel": "1987年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原键盘D50；不含D550模块",
+      "productFamily": "数字合成器",
+      "categoryProposal": "音乐制作与录音",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：采样片段和合成器音色及内置效果结合",
+      "keyFacts": [
+        {
+          "text": "1987登场，LA组合PCM波形与减法合成",
+          "sourceIds": [
+            "CM150-S035",
+            "CM150-S030"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S035",
+        "CM150-S030"
+      ],
+      "identitySourceIds": [
+        "CM150-S035"
+      ],
+      "dateSourceIds": [
+        "CM150-S035"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "采样片段和合成器音色及内置效果结合",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM020",
+      "slug": "roland-sp404-original",
+      "name": "SP-404 原代",
+      "brand": "Roland",
+      "year": 2005,
+      "dateLabel": "2005年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原CF卡404；不含SX/MKII",
+      "productFamily": "采样器",
+      "categoryProposal": "音乐制作与录音",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：按垫触发、录入和重组声音的桌面工具",
+      "keyFacts": [
+        {
+          "text": "2005初代、12垫、CF卡导入与输入采样",
+          "sourceIds": [
+            "CM150-S036",
+            "CM150-S037"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S036",
+        "CM150-S037"
+      ],
+      "identitySourceIds": [
+        "CM150-S036"
+      ],
+      "dateSourceIds": [
+        "CM150-S036"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "按垫触发、录入和重组声音的桌面工具",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM021",
+      "slug": "yamaha-dx7",
+      "name": "DX7",
+      "brand": "Yamaha",
+      "year": 1983,
+      "dateLabel": "1983年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原DX7非DX7II",
+      "productFamily": "FM合成器",
+      "categoryProposal": "音乐制作与录音",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：膜按键与LCD把可重复参数带到音乐制作",
+      "keyFacts": [
+        {
+          "text": "1983 FM数字合成器、膜开关LCD和音色卡/MIDI",
+          "sourceIds": [
+            "CM150-S038",
+            "CM150-S039"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S038",
+        "CM150-S039"
+      ],
+      "identitySourceIds": [
+        "CM150-S038"
+      ],
+      "dateSourceIds": [
+        "CM150-S038"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "膜按键与LCD把可重复参数带到音乐制作",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM022",
+      "slug": "korg-m1",
+      "name": "M1",
+      "brand": "Korg",
+      "year": 1988,
+      "dateLabel": "1988年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原键盘M1非M1R",
+      "productFamily": "音乐工作站",
+      "categoryProposal": "音乐制作与录音",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：把制作工作台与演奏键盘结合",
+      "keyFacts": [
+        {
+          "text": "原厂30周年公告确认1988推出M1",
+          "sourceIds": [
+            "CM150-S040"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S040"
+      ],
+      "identitySourceIds": [
+        "CM150-S040"
+      ],
+      "dateSourceIds": [
+        "CM150-S040"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。",
+        "本轮一份原厂或博物馆逐型身份年份记录；只建议窄范围入选，正文阶段补功能/独立背景来源，不声称ready。"
+      ],
+      "gapContribution": "把制作工作台与演奏键盘结合",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM023",
+      "slug": "teac-portastudio144",
+      "name": "144 Portastudio",
+      "brand": "TEAC / Tascam",
+      "year": 1979,
+      "dateLabel": "1979年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原144；不含244",
+      "productFamily": "多轨磁带录音",
+      "categoryProposal": "音乐制作与录音",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：普通盒式磁带成为分轨创作介质",
+      "keyFacts": [
+        {
+          "text": "1979初代144多轨录音设备",
+          "sourceIds": [
+            "CM150-S041",
+            "CM150-S042"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S041",
+        "CM150-S042"
+      ],
+      "identitySourceIds": [
+        "CM150-S041"
+      ],
+      "dateSourceIds": [
+        "CM150-S041"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "普通盒式磁带成为分轨创作介质",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM024",
+      "slug": "epson-ep101",
+      "name": "EP-101",
+      "brand": "Shinshu Seiki / Suwa Seikosha",
+      "year": 1968,
+      "dateLabel": "1968-09（生产并销售）",
+      "dateKind": "launch",
+      "regionVersion": "OEM打印组件；Epson后来的品牌名",
+      "productFamily": "计算器打印组件",
+      "categoryProposal": "输入打印与创作",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：让电子计算结果离开屏幕留在纸上",
+      "keyFacts": [
+        {
+          "text": "1968年9月生产销售，飞鼓式数字符号打印，OEM供计算器厂",
+          "sourceIds": [
+            "CM150-S043",
+            "CM150-S044",
+            "CM150-S013"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S043",
+        "CM150-S044",
+        "CM150-S013"
+      ],
+      "identitySourceIds": [
+        "CM150-S043"
+      ],
+      "dateSourceIds": [
+        "CM150-S043",
+        "CM150-S044"
+      ],
+      "evidenceLimits": [
+        "五节完整稿已写，正文ready待协调逐段验收；尚未导入。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "让电子计算结果离开屏幕留在纸上",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM025",
+      "slug": "epson-mx80",
+      "name": "MX-80",
+      "brand": "Epson",
+      "year": 1980,
+      "dateLabel": "1980-10",
+      "dateKind": "launch",
+      "regionVersion": "国际MX80；日本MP80归同件",
+      "productFamily": "点阵打印机",
+      "categoryProposal": "输入打印与创作",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：家庭电脑输出依赖纸张、色带和机械打印头",
+      "keyFacts": [
+        {
+          "text": "1980年10月9针点阵打印机",
+          "sourceIds": [
+            "CM150-S045",
+            "CM150-S046",
+            "CM150-S013"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S045",
+        "CM150-S046",
+        "CM150-S013"
+      ],
+      "identitySourceIds": [
+        "CM150-S045"
+      ],
+      "dateSourceIds": [
+        "CM150-S045"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "家庭电脑输出依赖纸张、色带和机械打印头",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM026",
+      "slug": "hp-laserjet-1984",
+      "name": "LaserJet 原代（1984）",
+      "brand": "Hewlett-Packard",
+      "year": 1984,
+      "dateLabel": "1984年（所引档案口径；不代替全球统一首发）",
+      "dateKind": "launch",
+      "regionVersion": "原桌面LaserJet；非2680A",
+      "productFamily": "激光打印机",
+      "categoryProposal": "输入打印与创作",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：办公室文档输出的一条可对照路线",
+      "keyFacts": [
+        {
+          "text": "1984首台桌面LaserJet",
+          "sourceIds": [
+            "CM150-S047",
+            "CM150-S048"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S047",
+        "CM150-S048"
+      ],
+      "identitySourceIds": [
+        "CM150-S047"
+      ],
+      "dateSourceIds": [
+        "CM150-S047"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "办公室文档输出的一条可对照路线",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM027",
+      "slug": "apple-imagewriter-ii",
+      "name": "ImageWriter II",
+      "brand": "Apple",
+      "year": 1985,
+      "dateLabel": "1985-09",
+      "dateKind": "launch",
+      "regionVersion": "原II；非LQ",
+      "productFamily": "点阵打印机",
+      "categoryProposal": "输入打印与创作",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：与激光打印并存的日常纸面输出",
+      "keyFacts": [
+        {
+          "text": "1985年9月发布点阵打印机、可选网络板",
+          "sourceIds": [
+            "CM150-S049"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S049"
+      ],
+      "identitySourceIds": [
+        "CM150-S049"
+      ],
+      "dateSourceIds": [
+        "CM150-S049"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。",
+        "本轮一份原厂或博物馆逐型身份年份记录；只建议窄范围入选，正文阶段补功能/独立背景来源，不声称ready。"
+      ],
+      "gapContribution": "与激光打印并存的日常纸面输出",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM028",
+      "slug": "pfu-hhkb-kb01",
+      "name": "Happy Hacking Keyboard KB01",
+      "brand": "PFU",
+      "year": 1996,
+      "dateLabel": "1996-12-20（发布）",
+      "dateKind": "announcement",
+      "regionVersion": "初代KB01；不含Professional",
+      "productFamily": "紧凑键盘",
+      "categoryProposal": "输入打印与创作",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：为程序输入主动选择精简键位",
+      "keyFacts": [
+        {
+          "text": "1996年12月20日初代发布，KB01身份",
+          "sourceIds": [
+            "CM150-S050",
+            "CM150-S051"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S050",
+        "CM150-S051"
+      ],
+      "identitySourceIds": [
+        "CM150-S050"
+      ],
+      "dateSourceIds": [
+        "CM150-S050"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "为程序输入主动选择精简键位",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM029",
+      "slug": "microsoft-intellimouse-1996",
+      "name": "IntelliMouse 原代",
+      "brand": "Microsoft",
+      "year": 1996,
+      "dateLabel": "1996-07-09（原厂公告；销售日另核）",
+      "dateKind": "announcement",
+      "regionVersion": "1996原代；非2018Classic",
+      "productFamily": "滚轮鼠标",
+      "categoryProposal": "输入打印与创作",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：页面滚动变成手指在鼠标上的动作",
+      "keyFacts": [
+        {
+          "text": "1996原代IntelliMouse与滚轮",
+          "sourceIds": [
+            "CM150-S052",
+            "CM150-S053"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S052",
+        "CM150-S053"
+      ],
+      "identitySourceIds": [
+        "CM150-S052"
+      ],
+      "dateSourceIds": [
+        "CM150-S052"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "页面滚动变成手指在鼠标上的动作",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM030",
+      "slug": "pfu-scansnap-fi4110eox",
+      "name": "ScanSnap fi-4110EOX",
+      "brand": "PFU",
+      "year": 2001,
+      "dateLabel": "2001-07-10（日本销售）",
+      "dateKind": "launch",
+      "regionVersion": "日本原fi4110EOX",
+      "productFamily": "文档扫描器",
+      "categoryProposal": "输入打印与创作",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：纸质文件以双面扫描进入个人数字资料",
+      "keyFacts": [
+        {
+          "text": "日本2001年7月10日销售、双面彩色扫描器",
+          "sourceIds": [
+            "CM150-S054",
+            "CM150-S055"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S054",
+        "CM150-S055"
+      ],
+      "identitySourceIds": [
+        "CM150-S054"
+      ],
+      "dateSourceIds": [
+        "CM150-S054"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "纸质文件以双面扫描进入个人数字资料",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM031",
+      "slug": "cricut-maker-2017",
+      "name": "Cricut Maker 原代",
+      "brand": "Cricut",
+      "year": 2017,
+      "dateLabel": "2017-08-01（揭幕；不是当天销售）",
+      "dateKind": "announcement",
+      "regionVersion": "2017原Maker；非Maker3/4",
+      "productFamily": "桌面切割创作",
+      "categoryProposal": "输入打印与创作",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：电动工具把图案转为织物和纸材加工",
+      "keyFacts": [
+        {
+          "text": "2017年8月1日揭幕、后零售可购",
+          "sourceIds": [
+            "CM150-S056",
+            "CM150-S057"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S056",
+        "CM150-S057"
+      ],
+      "identitySourceIds": [
+        "CM150-S056"
+      ],
+      "dateSourceIds": [
+        "CM150-S056"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "电动工具把图案转为织物和纸材加工",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM032",
+      "slug": "elgato-streamdeck-2017",
+      "name": "Stream Deck 原代",
+      "brand": "Elgato",
+      "year": 2017,
+      "dateLabel": "2017-03-23",
+      "dateKind": "launch",
+      "regionVersion": "2017初代15键；排除2019修订",
+      "productFamily": "可配置创作控制器",
+      "categoryProposal": "输入打印与创作",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：可见的动作按钮替代记住软件快捷键",
+      "keyFacts": [
+        {
+          "text": "原StreamDeck 2017年3月23日发布，开发文档区分硬件修订",
+          "sourceIds": [
+            "CM150-S058",
+            "CM150-S059"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S058",
+        "CM150-S059"
+      ],
+      "identitySourceIds": [
+        "CM150-S058"
+      ],
+      "dateSourceIds": [
+        "CM150-S058"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "可见的动作按钮替代记住软件快捷键",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM033",
+      "slug": "zoom-h4-original",
+      "name": "H4 Handy Recorder 原代",
+      "brand": "Zoom",
+      "year": 2006,
+      "dateLabel": "2006-09（软件历史列量产）",
+      "dateKind": "manufacture",
+      "regionVersion": "原H4非H4n/H4essential",
+      "productFamily": "手持录音",
+      "categoryProposal": "音乐制作与录音",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：记录环境和创作声音的普通便携工具",
+      "keyFacts": [
+        {
+          "text": "原H4于2006年9月量产，厂商历史确认2006",
+          "sourceIds": [
+            "CM150-S060",
+            "CM150-S061"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S060",
+        "CM150-S061"
+      ],
+      "identitySourceIds": [
+        "CM150-S060"
+      ],
+      "dateSourceIds": [
+        "CM150-S060"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "记录环境和创作声音的普通便携工具",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM034",
+      "slug": "samsung-t7-2020",
+      "name": "Portable SSD T7",
+      "brand": "Samsung",
+      "year": 2020,
+      "dateLabel": "2020-05-19（美国可购公告）",
+      "dateKind": "launch",
+      "regionVersion": "美国非Touch原T7；容量配色合并",
+      "productFamily": "USB便携SSD",
+      "categoryProposal": "便携音乐与存储",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：日常搬运文件：便携、加密和持续写入的取舍",
+      "keyFacts": [
+        {
+          "text": "2020年5月19日美国可购；主机条件影响速度",
+          "sourceIds": [
+            "CM150-S062",
+            "CM150-S066"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S062",
+        "CM150-S066"
+      ],
+      "identitySourceIds": [
+        "CM150-S062"
+      ],
+      "dateSourceIds": [
+        "CM150-S062"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "日常搬运文件：便携、加密和持续写入的取舍",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [
+        {
+          "media": "Tom's Hardware",
+          "author": "Sean Webster",
+          "articleDate": "2020-08-17",
+          "modelVersion": "T7非Touch；1TB性能页链接，本轮未读性能页",
+          "url": "https://www.tomshardware.com/reviews/samsung-t7-portable-ssd-review",
+          "praise": "作者认为移动存储速度与硬件加密有价值",
+          "shortcomings": "超过写缓存的大传输降速；无IP等级；作者批评三年保修",
+          "evaluationConditions": "第一页功能/规格与结论概述；标列500GB/1TB/2TB当时价格；测试平台未核",
+          "commercialDisclosure": "联盟佣金明示；样机来源未核",
+          "verificationDepth": "正文第一页，非全分页实测",
+          "sourceId": "CM150-S066"
+        }
+      ],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM035",
+      "slug": "lenovo-yoga13-2012",
+      "name": "IdeaPad Yoga 13",
+      "brand": "Lenovo",
+      "year": 2012,
+      "dateLabel": "2012-10-09（上市公告；非CES初次展示日）",
+      "dateKind": "announcement",
+      "regionVersion": "原13英寸；非Yoga11/后续代",
+      "productFamily": "可转换电脑",
+      "categoryProposal": "计算设备",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：键盘和触摸在同一机身上的不同姿态",
+      "keyFacts": [
+        {
+          "text": "2012年10月9日Yoga13公告",
+          "sourceIds": [
+            "CM150-S063"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S063"
+      ],
+      "identitySourceIds": [
+        "CM150-S063"
+      ],
+      "dateSourceIds": [
+        "CM150-S063"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。",
+        "本轮一份原厂或博物馆逐型身份年份记录；只建议窄范围入选，正文阶段补功能/独立背景来源，不声称ready。"
+      ],
+      "gapContribution": "键盘和触摸在同一机身上的不同姿态",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM036",
+      "slug": "logitech-k380-2015",
+      "name": "K380 Multi-Device Bluetooth Keyboard",
+      "brand": "Logitech",
+      "year": 2015,
+      "dateLabel": "2015（全球公告）；2015-11-05日本销售",
+      "dateKind": "announcement",
+      "regionVersion": "2015原K380；非2023 K380s；配色合并",
+      "productFamily": "多设备键盘",
+      "categoryProposal": "输入打印与创作",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：普通键盘在多个家庭设备之间切换",
+      "keyFacts": [
+        {
+          "text": "原厂2015公告；日本2015年11月5日销售",
+          "sourceIds": [
+            "CM150-S064",
+            "CM150-S065",
+            "CM150-S067"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S064",
+        "CM150-S065",
+        "CM150-S067"
+      ],
+      "identitySourceIds": [
+        "CM150-S064"
+      ],
+      "dateSourceIds": [
+        "CM150-S064"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "普通键盘在多个家庭设备之间切换",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [
+        {
+          "media": "The Irish Times",
+          "author": "Ciara O’Brien",
+          "articleDate": "2015-10-01",
+          "modelVersion": "原K380",
+          "url": "https://www.irishtimes.com/business/technology/tech-tools-review-logitech-k380-1.2372907",
+          "praise": "作者认为小巧但输入仍舒适，适合多平台三设备配对",
+          "shortcomings": "短评未明确列缺点；不补造",
+          "evaluationConditions": "标价45欧元；无量化或耐久测试条件",
+          "commercialDisclosure": "厂商购买链接；未核到赞助/联盟披露",
+          "verificationDepth": "正文短评",
+          "sourceId": "CM150-S067"
+        }
+      ],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM037",
+      "slug": "kobo-touch-2011",
+      "name": "Kobo eReader Touch Edition",
+      "brand": "Kobo",
+      "year": 2011,
+      "dateLabel": "2011-05-23（公告/预订；6月供货仅计划）",
+      "dateKind": "announcement",
+      "regionVersion": "北美公告及预订；非Touch2",
+      "productFamily": "电子纸阅读器",
+      "categoryProposal": "PDA与电子阅读",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "策展判断：专门阅读设备用红外触控翻页",
+      "keyFacts": [
+        {
+          "text": "2011年5月23日公告/预订；电子纸与红外触控；计划6月商店供货",
+          "sourceIds": [
+            "CM150-S068"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S068"
+      ],
+      "identitySourceIds": [
+        "CM150-S068"
+      ],
+      "dateSourceIds": [
+        "CM150-S068"
+      ],
+      "evidenceLimits": [
+        "未写完整五节正文，不能称可入库；地区制造地和实际采用另核。",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。",
+        "本轮一份原厂或博物馆逐型身份年份记录；只建议窄范围入选，正文阶段补功能/独立背景来源，不声称ready。"
+      ],
+      "gapContribution": "专门阅读设备用红外触控翻页",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "建议入选"
+    },
+    {
+      "id": "CPM038",
+      "slug": "next-computer-n1000",
+      "name": "NeXT Computer N1000",
+      "brand": "NeXT",
+      "year": 1988,
+      "dateLabel": "未核准，不作编年排序",
+      "dateKind": "observed",
+      "regionVersion": "尚待逐型/地区核准",
+      "productFamily": "发现池",
+      "categoryProposal": "计算设备",
+      "selectionStatus": "待核不计数",
+      "selectionReason": "策展判断：保留有具体生活任务的路线，待关键事实核准",
+      "keyFacts": [
+        {
+          "text": "原Computer与NeXTcube的身份、上市与制造口径冲突，需原手册和同期公告",
+          "sourceIds": [
+            "CM150-S069"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S069"
+      ],
+      "identitySourceIds": [
+        "CM150-S069"
+      ],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "原Computer与NeXTcube的身份、上市与制造口径冲突，需原手册和同期公告",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "保留有具体生活任务的路线，待关键事实核准",
+      "relatedExistingSlugs": [
+        "ibm-pc-5150"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "暂缓"
+    },
+    {
+      "id": "CPM039",
+      "slug": "sony-prs500",
+      "name": "Reader PRS-500",
+      "brand": "Sony",
+      "year": 2006,
+      "dateLabel": "未核准，不作编年排序",
+      "dateKind": "observed",
+      "regionVersion": "尚待逐型/地区核准",
+      "productFamily": "发现池",
+      "categoryProposal": "PDA与电子阅读",
+      "selectionStatus": "待核不计数",
+      "selectionReason": "策展判断：保留有具体生活任务的路线，待关键事实核准",
+      "keyFacts": [
+        {
+          "text": "有真实原厂型号与手册索引，但手册日期不能替代上市证据",
+          "sourceIds": [
+            "CM150-S070"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S070"
+      ],
+      "identitySourceIds": [
+        "CM150-S070"
+      ],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "有真实原厂型号与手册索引，但手册日期不能替代上市证据",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "保留有具体生活任务的路线，待关键事实核准",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "暂缓"
+    },
+    {
+      "id": "CPM040",
+      "slug": "wacom-intuos-first-generation",
+      "name": "Intuos 初代（待选具体GD型号）",
+      "brand": "Wacom",
+      "year": 1998,
+      "dateLabel": "未核准，不作编年排序",
+      "dateKind": "observed",
+      "regionVersion": "尚待逐型/地区核准",
+      "productFamily": "发现池",
+      "categoryProposal": "输入打印与创作",
+      "selectionStatus": "待核不计数",
+      "selectionReason": "策展判断：保留有具体生活任务的路线，待关键事实核准",
+      "keyFacts": [
+        {
+          "text": "系列年份核定但具体尺寸/接口型号未锁定，不计系列为产品",
+          "sourceIds": [
+            "CM150-S071"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S071"
+      ],
+      "identitySourceIds": [
+        "CM150-S071"
+      ],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "系列年份核定但具体尺寸/接口型号未锁定，不计系列为产品",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "保留有具体生活任务的路线，待关键事实核准",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "暂缓"
+    },
+    {
+      "id": "CPM041",
+      "slug": "diamond-rio-pmp300",
+      "name": "Rio PMP300",
+      "brand": "Diamond Multimedia",
+      "year": null,
+      "dateLabel": "未核准，不作编年排序",
+      "dateKind": "observed",
+      "regionVersion": "尚待逐型/地区核准",
+      "productFamily": "发现池",
+      "categoryProposal": "便携音乐与存储",
+      "selectionStatus": "待核不计数",
+      "selectionReason": "策展判断：保留有具体生活任务的路线，待关键事实核准",
+      "keyFacts": [
+        {
+          "text": "原厂存档请求失败，保留数字音乐另一条路径线索，不作事实计数",
+          "sourceIds": [
+            "CM150-S072"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S072"
+      ],
+      "identitySourceIds": [],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "原厂存档请求失败，保留数字音乐另一条路径线索，不作事实计数",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "保留有具体生活任务的路线，待关键事实核准",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "暂缓"
+    },
+    {
+      "id": "CPM042",
+      "slug": "casio-sk1",
+      "name": "SK-1",
+      "brand": "Casio",
+      "year": null,
+      "dateLabel": "未核准，不作编年排序",
+      "dateKind": "observed",
+      "regionVersion": "尚待逐型/地区核准",
+      "productFamily": "发现池",
+      "categoryProposal": "音乐制作与录音",
+      "selectionStatus": "待核不计数",
+      "selectionReason": "策展判断：保留有具体生活任务的路线，待关键事实核准",
+      "keyFacts": [
+        {
+          "text": "原厂Product History叙述1985与History 1980档案1986年3月冲突，须同期目录",
+          "sourceIds": [
+            "CM150-S005"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S005"
+      ],
+      "identitySourceIds": [
+        "CM150-S005"
+      ],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "原厂Product History叙述1985与History 1980档案1986年3月冲突，须同期目录",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "保留有具体生活任务的路线，待关键事实核准",
+      "relatedExistingSlugs": [
+        "sony-tps-l2"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [],
+      "discoveryDisposition": "暂缓"
+    },
+    {
+      "id": "CPM043",
+      "slug": "brother-hll2350dw",
+      "name": "HL-L2350DW",
+      "brand": "Brother",
+      "year": null,
+      "dateLabel": "未核准，不作编年排序",
+      "dateKind": "observed",
+      "regionVersion": "尚待逐型/地区核准",
+      "productFamily": "发现池",
+      "categoryProposal": "输入打印与创作",
+      "selectionStatus": "待核不计数",
+      "selectionReason": "策展判断：保留有具体生活任务的路线，待关键事实核准",
+      "keyFacts": [
+        {
+          "text": "普通单色家用打印机具体评测可作线索，厂家上市事件待核",
+          "sourceIds": [
+            "CM150-S073"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S073"
+      ],
+      "identitySourceIds": [
+        "CM150-S073"
+      ],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "普通单色家用打印机具体评测可作线索，厂家上市事件待核",
+        "厂商历史与同厂手册不算独立交叉核对；只有一机构时不主张社会效果。"
+      ],
+      "gapContribution": "保留有具体生活任务的路线，待关键事实核准",
+      "relatedExistingSlugs": [
+        "macintosh-128k"
+      ],
+      "mediaStatus": "无新图下载；heroMediaId:null文字回退；视频未登记",
+      "awards": [],
+      "publicImpactBoundary": "只陈述型号、事件和明确功能；选品理由是策展解读，不代表销量、第一、最佳或持久可靠。",
+      "mediaOpinions": [
+        {
+          "media": "TechGearLab",
+          "author": "Max Mutter / Steven Tata",
+          "articleDate": "2018-03-25",
+          "modelVersion": "HL-L2350DW",
+          "url": "https://www.techgearlab.com/reviews/small-and-home-office/home-printer/brother-hl-l2350dw",
+          "praise": "作者评价适合预算有限、偶尔打印表格文档者，文本质量和使用成本有价值",
+          "shortcomings": "图像效果弱，单行LCD下无线密码设置与故障排查繁琐；色彩和多功能需求不适合",
+          "evaluationConditions": "页面列文本、成本、操作、图像和速度测试；标价150美元；样机自购，有限样机结论不代表长期故障率",
+          "commercialDisclosure": "网页明示自购所有测试产品、无厂商免费样机；通过购买链接可能赚佣金。",
+          "verificationDepth": "正文（评价、测试、商业披露段落）",
+          "sourceId": "CM150-S073"
+        }
+      ],
+      "discoveryDisposition": "暂缓"
+    }
+  ],
+  "sources": [
+    {
+      "id": "CM150-S001",
+      "title": "CASIO History",
+      "publisher": "Casio",
+      "url": "https://world.casio.com/corporate/history/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "14-A于1957年6月销售；341继电器、14位四则运算。",
+      "verificationMethod": "正文相关段落",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S002",
+      "title": "Product History",
+      "publisher": "Casio",
+      "url": "https://world.casio.com/corporate/history/chronology/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "Casio Mini 1972；SL-800 1983、0.8毫米；SK-1年代表述与另一历史页冲突。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S003",
+      "title": "The Casio Mini Becomes a Huge Hit",
+      "publisher": "Casio",
+      "url": "https://world.casio.com/corporate/brothers/story06/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "Casio Mini于1972年8月推出。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S004",
+      "title": "General Catalog 2023 Electronic Calculators",
+      "publisher": "Casio",
+      "url": "https://www.casio.com/content/dam/casio/global/calculator/scientific-calculators/catalog/2023_all.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "目录历史页列Casio Mini 1972、SL-800 1983及0.8毫米。",
+      "verificationMethod": "PDF检索文本摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S005",
+      "title": "History 1980-",
+      "publisher": "Casio",
+      "url": "https://world.casio.com/corporate/history/chapter02/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "fx-7000G 1985年8月发布，96×64点阵LCD、函数绘图；SK-1记1986年3月。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S006",
+      "title": "fx-7000G Development Story",
+      "publisher": "Casio",
+      "url": "https://www.casio.com/hk/scientific-calculators/content/fx-7000g-development/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "指定fx-7000G开发与型号命名。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S007",
+      "title": "HP-65 programmable pocket calculator, 1974",
+      "publisher": "HP",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/personalsystems/0024/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "HP-65身份、1974年、磁卡编程。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S008",
+      "title": "HP-65 Programmable Calculator",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/31306/HP-65-Programmable-Calculator/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "1974推出，内置磁卡读写器。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "独立于HP；博物馆自己馆藏条目",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S009",
+      "title": "Osborne 1",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/mobile-computing/18/316/1759",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "1981 introduced；厂商身份，设计者、价格及23.5磅。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "独立博物馆馆藏研究",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S010",
+      "title": "Osborne 1 luggable microcomputer, 1981",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co63294/osborne-1-luggable-microcomputer-1981",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "实物A08887，1981制造；1981年4月发布、10.7公斤、64K、键盘双驱动器及字处理/会计软件。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "独立于厂商和CHM的馆藏记录",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S011",
+      "title": "Osborne Computer Corporation / Selling the Computer Revolution",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/brochures/osborne-computer-corporation/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-brochure-index",
+      "verifiedScope": "1981产品；5英寸屏、64KB、双软盘；1983公司破产。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "与CHM Osborne实物页同机构；非独立交叉源",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S012",
+      "title": "Osborne 1 User Reference Guide 1981",
+      "publisher": "Osborne / Bitsavers CHM mirror",
+      "url": "https://bitsavers.computerhistory.org/pdf/osborne/osborne1/Osborne_1_Users_Reference_Guide_1981.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manual-index",
+      "verifiedScope": "只定位手册标题；不支持正文操作细节。",
+      "verificationMethod": "原手册镜像检索索引；打开超时400",
+      "limits": "PDF请求超时；未读原文，不能用于ready操作引用。",
+      "independence": "厂商原手册镜像；非独立研究",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S013",
+      "title": "Timeline",
+      "publisher": "Epson",
+      "url": "https://corporate.epson/en/about/history/timeline/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "EP-101 1968年9月；MX-80 1980年10月；HX-20 1982年7月。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S014",
+      "title": "HX-20",
+      "publisher": "Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/1982-7-hx20.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1982年7月；日本称HC-20；键盘LCD、微型打印、镍镉电池和接口。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S015",
+      "title": "HX-20 milestone product sheet",
+      "publisher": "Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/pdf/13_hx-20.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1982年7月；扩展BASIC与RS232C、可选磁带。",
+      "verificationMethod": "PDF检索文本摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S016",
+      "title": "TRS-80 Model 100 Portable Computer",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/5376/TRS-80-Model-100-Portable-Computer/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "1983引入；北美版内置300baud调制解调器，LCD、AA电池。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "博物馆对象CH5376",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S017",
+      "title": "Acorn BBC Micro Model B",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/pages/cache/FULL-182.htm",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "1981年12月发布但交付延迟；Model B为32K RAM，BBC BASIC，扩展接口。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "博物馆对象CH182",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S018",
+      "title": "BBC Microcomputers / original document index",
+      "publisher": "Chris Acorns / Centre for Computing History",
+      "url": "https://chrisacorns.computinghistory.org.uk/Computers/BBCMicros.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "primary-document-index",
+      "verifiedScope": "BBC Computer Literacy Project 1981；列BBC原硬件规格/BASIC说明。",
+      "verificationMethod": "博物馆托管原文档索引",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "原BBC文档索引，不把私人说明当厂家公告",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S019",
+      "title": "Sharp PC-1500",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/6008/Sharp-PC-1500/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "日本1981；欧美澳1982；BASIC、26字符LCD与QWERTY。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "博物馆对象CH6008",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S020",
+      "title": "Commodore releases the Amiga",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/15581/Commodore-releases-the-Amiga/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-history",
+      "verifiedScope": "1985年7月23日，后来称Amiga1000，68000及音像协处理器。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "博物馆事件研究",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S021",
+      "title": "Amiga 1000 CPU",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/personal-computers/17/298/1177",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "Amiga1000实物身份、Amiga创办与Commodore收购关系。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "独立于CCH的馆藏条目",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S022",
+      "title": "Apple Newton MessagePad",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/51131/Apple-Newton-MessagePad/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "硬件名MessagePad；Newton是操作系统名称。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "馆藏条目",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S023",
+      "title": "Computers Timeline / Apple ships first Newton",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/computers/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-history",
+      "verifiedScope": "1993 first Newton shipped；线于1998终止；不支持所有单机识别率。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "与CCH独立博物馆",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S024",
+      "title": "Texas Instruments TI-99/4A",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/1344/Texas-Instruments-TI-99-4A/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "1981推出TI-99/4A。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "博物馆对象CH1344",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S025",
+      "title": "Zip 100 drive",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/revolution/cycle-of-computers/9/101/1082",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "指定Zip100驱动器、1994。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "博物馆对象逐型档案",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S026",
+      "title": "Timeline 1994 / Zip Disk",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1994/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-history",
+      "verifiedScope": "1994 Zip存储路线。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "与Zip对象页同机构，非独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S027",
+      "title": "Corporate History",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/company/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "D-50 1984推出；MZ-1等MiniDisc设备1992推出。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S028",
+      "title": "Sony History Part2 Chapter7",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/ja/SonyInfo/CorporateInfo/History/SonyHistory/2-07.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "D-50于1984年11月发布，尺寸设计目标。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S029",
+      "title": "MZ-1 MiniDisc Portable Recorder 1992",
+      "publisher": "Sony Design",
+      "url": "https://www.sony.com/en/SonyInfo/design/gallery/MZ-1/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1992，录放编辑数字键、前装载槽。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S030",
+      "title": "Roland 50th Anniversary 1980s",
+      "publisher": "Roland",
+      "url": "https://www.roland.com/global/roland-50th-anniversary/1980s/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1980年代TR-808、TB-303、D-50档案入口。",
+      "verificationMethod": "正文目录",
+      "limits": "目录不代替各型号确切年份，需要逐型资料。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S031",
+      "title": "The TR-808 Story",
+      "publisher": "Roland",
+      "url": "https://www.roland.com/ca/promos/roland_tr-808/?lang=en-CA",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "TR-808生产1980–1982。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S032",
+      "title": "The TR-808 Story / engineering",
+      "publisher": "Roland",
+      "url": "https://www.roland.com/uk/promos/roland_tr-808/?lang=en-GB",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "TR-808使用模拟合成鼓声。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "与加拿大页面相同厂商故事；非独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S033",
+      "title": "Roland Cloud TB-303 release",
+      "publisher": "Roland",
+      "url": "https://www.roland.com/RolandComSite/media/global/release/pdf/2019/20190303_1_RolandCloud_TB-303.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "2019软件公告回溯原TB303于1981发布、定位模拟贝司伴奏。",
+      "verificationMethod": "PDF检索文本摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S034",
+      "title": "303 Day",
+      "publisher": "Roland",
+      "url": "https://www.roland.com/global/promos/303day/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "TB303模拟单音、截止频率/共振旋钮、DIN同步伴奏定位。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S035",
+      "title": "D-50 30th Anniversary",
+      "publisher": "Roland",
+      "url": "https://in.roland.com/promos/d-50_30th_anniversary",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1987登场；LA结合PCM波形与减法合成，内置数字效果。",
+      "verificationMethod": "正文及1987段落定位",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S036",
+      "title": "Roland Engineering SP-404 Past Present Future",
+      "publisher": "Roland",
+      "url": "https://articles.roland.com/roland-engineering-sp-404-past-present-and-future/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "初代SP404 2005，原设计者访问。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S037",
+      "title": "A History of Roland Samplers",
+      "publisher": "Roland",
+      "url": "https://articles.roland.com/a-history-of-roland-samplers/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "SP404 2005；12打击垫、CF导入、采样输入。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S038",
+      "title": "Design Insights DX7",
+      "publisher": "Yamaha",
+      "url": "https://www.yamaha.com/en/tech-design/design/insights/id_009/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1983 DX7 FM数字合成器，膜开关LCD与参数再现。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S039",
+      "title": "DX7 / Innovation Road",
+      "publisher": "Yamaha",
+      "url": "https://www.yamaha.com/en/about/experience/innovation-road/collection/detail/2010/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1983，FM、音色卡、MIDI及LCD。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S040",
+      "title": "M1 Day 30th Anniversary",
+      "publisher": "Korg",
+      "url": "https://www.korg.com/us/news/2018/0501/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1988 M1音乐工作站发布。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S041",
+      "title": "Tascam History",
+      "publisher": "Tascam Europe",
+      "url": "https://www.tascam.eu/en/history",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1979初代144 Portastudio。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S042",
+      "title": "50 Years of Tascam",
+      "publisher": "Tascam Europe",
+      "url": "https://www.tascam.eu/en/docs/PAM_History_2022-10.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1979 TEAC144多轨录音产品。",
+      "verificationMethod": "PDF检索文本摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S043",
+      "title": "EP-101 milestone product",
+      "publisher": "Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/1968-9-ep-101.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1968年9月，行式21列、黑红色带、17V直流，向计算器厂供货；163.5×135×102毫米。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S044",
+      "title": "MEH No131 EP-101",
+      "publisher": "Japan Society of Mechanical Engineers",
+      "url": "https://www.jsme.or.jp/kikaiisan/heritage_131_en.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "professional-institution-object-record",
+      "verifiedScope": "EP101于1968年9月生产销售；flying drum、OEM供应给计算器制造商。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "日本机械学会独立条目；实物展出在Epson馆，未核其资料来源独立性",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S045",
+      "title": "MX-80",
+      "publisher": "Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/1980-10-mx80.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1980年10月，海外MX80、日本MP80，9针点阵打印。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S046",
+      "title": "MX-80 milestone product PDF",
+      "publisher": "Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/pdf/11_mx-80.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "9针经色带撞纸、塑料壳和可拆打印头。",
+      "verificationMethod": "PDF检索文本摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S047",
+      "title": "HP LaserJet printer 1984",
+      "publisher": "HP",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/imagingprinting/0018/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1984原始HP LaserJet身份。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S048",
+      "title": "Growth and Innovation",
+      "publisher": "HPE",
+      "url": "https://www.hpe.com/us/en/about/history/timeline/timeline-growth-innovations.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "HP65 1974；首台LaserJet 1984。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "同源历史品牌分拆后档案；不当独立测评",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S049",
+      "title": "Apple ImageWriter II",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/4722/Apple-ImageWriter-II/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "1985年9月点阵打印机、可选网络板。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "博物馆逐型档案",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S050",
+      "title": "HHKB 10th Anniversary",
+      "publisher": "PFU",
+      "url": "https://www.pfu.ricoh.com/hhkeyboard/10th_campaign/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "初代1996年12月20日发布。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S051",
+      "title": "History of HHKB",
+      "publisher": "PFU HHKB US",
+      "url": "https://hhkeyboard.us/about/history",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "初代KB01于1996年12月发布。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S052",
+      "title": "Smart Choices in Input Devices",
+      "publisher": "Microsoft",
+      "url": "https://news.microsoft.com/source/1996/07/09/microsoft-offers-todays-smart-choices-in-input-devices/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1996年7月9日公告中的初代IntelliMouse。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S053",
+      "title": "A Legend Reborn",
+      "publisher": "Microsoft",
+      "url": "https://blogs.windows.com/devices/2018/06/26/a-legend-reborn-microsoft-brings-back-the-iconic-mouse-the-classic-intellimouse/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "初代IntelliMouse 1996，滚轮；区分2018复刻。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S054",
+      "title": "ScanSnap 25th Anniversary",
+      "publisher": "PFU",
+      "url": "https://www.pfu.ricoh.com/news/2026/news260710.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "日本2001年7月10日fi4110EOX销售。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S055",
+      "title": "ScanSnap fi-4110EOX operating manual",
+      "publisher": "PFU",
+      "url": "https://www.pfu.ricoh.com/global/scanners/scansnap/downloads/jp/jscan/manual/P3PC-E312-04.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual",
+      "verifiedScope": "双面彩色扫描器指定型号；2001年8月第二版。",
+      "verificationMethod": "PDF检索文本摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S056",
+      "title": "Cricut Maker new smart cutting machine",
+      "publisher": "Cricut",
+      "url": "https://investor.cricut.com/news-releases/news-release-details/cricut-makertm-new-ultimate-smart-cutting-machine-brings-more/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "2017年8月1日揭幕，原Maker切割机、零售上市。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S057",
+      "title": "Cricut Maker release PDF",
+      "publisher": "Cricut",
+      "url": "https://investor.cricut.com/node/6401/pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "Maker 2017年8月揭幕；现零售可购。",
+      "verificationMethod": "PDF检索文本摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "同一公告PDF，非第二独立来源",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S058",
+      "title": "Stream Deck vs MK2",
+      "publisher": "Elgato",
+      "url": "https://help.elgato.com/hc/en-us/articles/4405167312397-Elgato-Stream-Deck-What-is-the-difference-between-Stream-Deck-and-Stream-Deck-MK-2",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "原StreamDeck 2017年3月23日发布。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S059",
+      "title": "Stream Deck Classic HID API",
+      "publisher": "Elgato",
+      "url": "https://docs.elgato.com/streamdeck/hid/stream-deck-classic/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-developer-document",
+      "verifiedScope": "2017原代与2019硬件修订区别、15键布局。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S060",
+      "title": "H4 History",
+      "publisher": "Zoom",
+      "url": "https://zoomcorp.com/en/jp/news/the-history-of-zoom-handy-recorders/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "H4 2006，原代手持录音器；不沿用世界第一主张。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S061",
+      "title": "H4 System Software Version History",
+      "publisher": "Zoom",
+      "url": "https://zoom.co.jp/sites/default/files/products/downloads/pdfs/H4_v2.40E.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "v1.00于2006年9月量产；2007年后功能升级分开。",
+      "verificationMethod": "PDF检索文本摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S062",
+      "title": "T7 SSD Available for Purchase",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/us/samsungs-t7-portable-ssd-now-available/?na=s",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "美国2020年5月19日非Touch T7可购；USB3.2Gen2速度依主机。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S063",
+      "title": "Lenovo premiers Yoga family",
+      "publisher": "Lenovo",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-premiers-yoga-and-debuts-family-of-convertible-devices-designed-for-windows-8/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "2012年10月9日Yoga13可转换电脑公告；不代替CES首次展示日。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S064",
+      "title": "Create and Communicate on Any Device",
+      "publisher": "Logitech",
+      "url": "https://news.logitech.com/press-releases/news-details/2015/Create-and-Communicate-on-Any-Device-with-Logitechs-New-Bluetooth-Keyboard-and-Mouse/default.aspx",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "2015原K380蓝牙多设备键盘公告。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S065",
+      "title": "K380 Japan launch",
+      "publisher": "Logicool",
+      "url": "https://press.logicool.co.jp/ja-jp/YiTaide3tsunodebaisuwoCaoZuodekiru-karahurudeoshiyarenakibodok380maruchidebaisubluetoothrkibodo11Yue5Ri-niFaMai/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "日本原K380于2015年11月5日销售。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S066",
+      "title": "Samsung T7 Portable SSD Review: Colorful and Secure Storage",
+      "publisher": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/reviews/samsung-t7-portable-ssd-review",
+      "checkedOn": "2026-10-11",
+      "sourceType": "original-review",
+      "verifiedScope": "Sean Webster 2020-08-17；非Touch T7，赞速度/加密，指出写缓存后降速和无IP等级。",
+      "verificationMethod": "正文第一页；未打开性能测试分页",
+      "limits": "样机为评测页指向的1TB；本文第1页，未核测试平台和性能页；不推广到所有容量或后修订。",
+      "independence": "原媒体署名评测，独立于Samsung",
+      "commercialDisclosure": "网页明示通过链接购买可能赚取联盟佣金；样机来源未核到。"
+    },
+    {
+      "id": "CM150-S067",
+      "title": "Tech Tools Review Logitech K380",
+      "publisher": "The Irish Times",
+      "url": "https://www.irishtimes.com/business/technology/tech-tools-review-logitech-k380-1.2372907",
+      "checkedOn": "2026-10-11",
+      "sourceType": "original-review",
+      "verifiedScope": "Ciara OBrien 2015-10-01，评价紧凑而可舒适输入；三设备配对，标价45欧元。",
+      "verificationMethod": "正文短评",
+      "limits": "未见量化测试条件或明确缺点，不能推断全人群舒适。",
+      "independence": "署名原媒体短评；独立于Logitech",
+      "commercialDisclosure": "正文有厂商购买网址；未核到赞助或联盟披露，不能声称无商业关系。"
+    },
+    {
+      "id": "CM150-S068",
+      "title": "Kobo Launches eReader Touch Edition",
+      "publisher": "Kobo",
+      "url": "https://www.kobo.com/news/kobo-launches-the-all-new-kobo-ereader-touch-edition",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "2011年5月23日公告和北美预订；计划6月初商店销售、7月全球供货；红外触控和Pearl电子纸。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S069",
+      "title": "NeXT Computers",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/927/NeXT-Computers",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-company-index",
+      "verifiedScope": "N1000条目列1988；公司叙述混用NeXT Computer与1990 NeXTcube。",
+      "verificationMethod": "正文",
+      "limits": "1988/1990身份混用；原Computer与后NeXTcube需要逐型原档案区分。",
+      "independence": "博物馆公司页非逐型号鉴定",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S070",
+      "title": "PRS-500 Support",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/electronics/support/reader-digital-book-prs-series/prs-500",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-support-index",
+      "verifiedScope": "PRS500型号与2006年手册索引；不是上市日。",
+      "verificationMethod": "原厂检索摘录；打开失败",
+      "limits": "只见手册日期，不能当2006上市证明；打开无正文。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S071",
+      "title": "Intuos history",
+      "publisher": "Wacom",
+      "url": "https://tablet.wacom.co.jp/article/intuos-history",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "1998初代Intuos系列；未锁定GD具体尺寸/接口型号。",
+      "verificationMethod": "正文",
+      "limits": "系列身份可核，具体GD型号未定；不能让当代Intuos Pro规格倒灌。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S072",
+      "title": "Rio PMP300 original product page archived",
+      "publisher": "Diamond Multimedia / Internet Archive",
+      "url": "https://web.archive.org/web/19981201233928/http://www.diamondmm.com/products/current/rio.cfm",
+      "checkedOn": "2026-10-11",
+      "sourceType": "primary-archive-unread",
+      "verifiedScope": "定位原厂历史网址；本轮未取得页面正文。",
+      "verificationMethod": "原网址发现；archive打开失败",
+      "limits": "未读正文，不用于身份/发布日期计数。",
+      "independence": "厂商历史页存档；不是独立证据",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑"
+    },
+    {
+      "id": "CM150-S073",
+      "title": "Brother HL-L2350DW Review",
+      "publisher": "TechGearLab",
+      "url": "https://www.techgearlab.com/reviews/small-and-home-office/home-printer/brother-hl-l2350dw",
+      "checkedOn": "2026-10-11",
+      "sourceType": "original-review",
+      "verifiedScope": "2018-03-25 Max Mutter/Steven Tata；评价低价文本打印、成本；批评图形、单行LCD无线设置；页面称自购样机并披露佣金。",
+      "verificationMethod": "正文（评价、测试、商业披露段落）",
+      "limits": "发表日不等于产品上市年；缺厂家事件日期。",
+      "independence": "原媒体评测；不是厂商转载",
+      "commercialDisclosure": "网页明示自购所有测试产品、无厂商免费样机；通过购买链接可能赚佣金。"
+    }
+  ],
+  "readyExhibits": [
+    {
+      "id": "待协调分配",
+      "slug": "osborne-1",
+      "year": 1981,
+      "name": "Osborne 1",
+      "brand": "Osborne",
+      "category": "computing",
+      "categoryLabel": "计算设备",
+      "aliases": [
+        "Osborne 1"
+      ],
+      "tags": [
+        "可携计算机",
+        "1981"
+      ],
+      "summary": "把键盘、存储和显示一起带走的整套电脑。Osborne 1使便携成为具体的搬运任务，也暴露重量、空间和原操作资料的边界。",
+      "context": "Osborne 1在一九八一年进入市场。科学博物馆集团把发布月份记为四月，计算机历史博物馆的对象记录确认推出年份。这里选的是原代机器，而不是随后同品牌的另一款产品。两家机构的材料也让“便携”有了具体尺度：这是一台可以搬动的整套电脑。策展时，可把它放在固定桌面和后来的电池电脑之间，追问使用者希望把哪些工作带到另一个地点。迁移办公任务，需要考虑的并不只有主机大小，还包括输入、看见结果、读取文件以及可用的软件。这个问题有助于理解不同年代为何给便携赋予不同条件；它不是一条体积越来越小就必然越来越适合所有工作的直线。",
+      "design": "整机把全尺寸键盘、两台软盘驱动器和显示装置组合起来。科学博物馆的藏品重十点七公斤；另一家博物馆写为二十三点五磅，两者量级相符，但展览仍应注明实物与测量口径。策展解读是，设计面对的是把一个工作环境打包的问题：使用者携带机器，也携带了输入和存储的位置。它不像只带走数据介质那样仍要寻找兼容主机。与此同时，集中在一件物体中，并不会让重量和工作空间消失。让观众观察机身和键盘如何容纳这些任务，比把某个数字称为轻巧更有解释力。这里不从档案照片推断内部零件的拆装顺序，也不把收藏样机外观当所有生产修订的统一样子。",
+      "usage": "博物馆记录说明机器配有字处理与会计软件。这让代表性任务可以具体到输入文档、处理账目，再将文件随机器带到另一处。展览可以请观众设想同一份文本如何从办公室延续到家里：是否需要搬主机、显示器和存储装置，到了目的地又需要多少摆放空间。这样的设问是在资料支持的配置基础上的使用情境解读，不是当年所有使用者的调查结论。本轮没有取得原操作手册正文，因此不写开机、插盘、保存文件或供电的逐步指令，避免把熟悉的后来电脑习惯倒灌到旧机器。要提供复原操作演示，仍需要针对指定硬件与软件版本核对手册，并在可用样机上另行验证。",
+      "significance": "它在馆藏中的价值，是让“移动办公”从抽象口号成为一组可比较的条件。与固定桌面的IBM PC相比，Osborne 1呈现整套设备一起迁移的选择；与后来的轻便电脑相比，重量又提示搬运和边走边用之间的距离。这些关联是策展组织，不用来宣称某台机器单独造成了现代工作方式。博物馆机构的收藏说明使真实身份和年代可追溯，原宣传与配置可以进一步研究，但上市不能自动证明普遍采用，预装软件也不能直接证明工作效率。观众可以由此提出自己的问题：何时需要把机器带走，何时只需传送文件，何时仍须在固定地点工作。三种任务会对产品形态提出不同要求。",
+      "limitations": "本轮可核的是原代型号、年份与基本配置，不能代表所有地区电源、键盘布局或后来的主板修订。公司层面的资料还记录一九八三年破产，这可以作为后续商业背景线索，却不应被写成每台机器在那一年停止工作，也不证明用户文件当即不可使用。展览的局限段保留这种区分：组织存续、软件可得和具体设备状态是不同的问题。本轮没有进行通电、修复、兼容测试或长期使用调查，没有下载图片。两家博物馆图片有各自版权与授权条件，网页可读不等于已经获得本站转载许可。因此内容以文字回退交付，未来补图须针对明确的图片和授权核对，不用外观相近的后代机器替代。",
+      "dateLabel": "1981-04（SMG发布月；CHM核年份）",
+      "dateKind": "launch",
+      "regionVersion": "美国原代；博物馆A08887辅助",
+      "features": [
+        "原代整套便携电脑",
+        "双软盘与全尺寸键盘",
+        "1981发布"
+      ],
+      "facts": [
+        {
+          "label": "核准事实",
+          "value": "1981年推出；键盘、双软盘及64K内存",
+          "sourceIds": [
+            "CM150-S009",
+            "CM150-S010",
+            "CM150-S011"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S009",
+        "CM150-S010",
+        "CM150-S011"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S009",
+          "CM150-S010",
+          "CM150-S011"
+        ],
+        "design": [
+          "CM150-S009",
+          "CM150-S010",
+          "CM150-S011"
+        ],
+        "usage": [
+          "CM150-S009",
+          "CM150-S010",
+          "CM150-S011"
+        ],
+        "significance": [
+          "CM150-S009",
+          "CM150-S010",
+          "CM150-S011"
+        ],
+        "limitations": [
+          "CM150-S009",
+          "CM150-S010",
+          "CM150-S011"
+        ]
+      },
+      "relatedSlugs": [
+        "ibm-pc-5150",
+        "macbook-2006"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-ready-no-media-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "proposedCategory": "计算设备",
+        "proposedStage": "输出或移动计算的实际使用条件",
+        "status": "协调统一编年映射，尚未写网站编年史"
+      },
+      "contentStatus": "ready-pending-coordinator-verification"
+    },
+    {
+      "id": "待协调分配",
+      "slug": "epson-ep101",
+      "year": 1968,
+      "name": "EP-101",
+      "brand": "Shinshu Seiki / Suwa Seikosha",
+      "category": "computing",
+      "categoryLabel": "输入打印与创作",
+      "aliases": [
+        "EP-101"
+      ],
+      "tags": [
+        "计算器打印组件",
+        "1968"
+      ],
+      "summary": "为电子计算器提供纸面数字与符号的小型打印组件。EP-101让馆藏从终端成品走向组成工作方式的电气部件。",
+      "context": "EP-101在一九六八年九月开始生产销售。原厂的历史页和日本机械学会的独立条目在这项事件上相互对应。它的对象身份是一种小型打印组件，面向电子桌面计算器制造商供应，而不是后来常见的完整个人电脑打印机。这样的选品可以把计算器和输出设备之间的联系带入馆藏：当结果离开显示位置，计算就可能留下可携带的纸面记录。策展关注的是信息如何成为另一种物件，避免把后来的办公打印观念直接套到当时。电子设备也并不总以面向消费者的成品进入生活，有时一件部件先进入别的机器，使用者接触的是组合后的工作方式。",
+      "design": "机械学会把它的打印方式描述为飞鼓式，数字与符号的字模在纸上留下痕迹。原厂规格列出二十一列行式打印、黑红色带和直流供电。这里保留有限而明确的功能信息，不把它写成能自由排版照片的现代打印设备。策展解读是，结构要围绕所需输出内容安排：计算结果通常由数字、符号和行序构成，组件可以围绕这一任务做得紧凑。它与后来的点阵机形成有意义的对照，前者围绕已有字模与有限字符，后者通过点组合字符和图形。这个对照说明任务与发声、运动、材料之间的关系，并不把小体积自动等同于每一种环境中的高可靠性。",
+      "usage": "学会条目明确说产品以OEM方式供给国内外计算器厂家。使用场景因此有两层：制造商要把打印组件纳入自己的电子设备，而终端使用者则在计算或测量流程中得到纸面输出。展览可以让观众从一串结果出发，思考显示后抄写与直接打印分别把核对工作留在哪里。这里的任务设想是策展解释，没有引入未经调查的差错减少百分比，也不宣称所有装有组件的机器采用相同按键。组件如何接收控制信号、色带怎样装入以及纸张如何维护，需要相应整机和组件手册才能确定。本轮读取的是历史与机构条目，因而不提供接线、修理或复原操作指令。",
+      "significance": "它补充了馆藏容易忽略的一类真实产品：进入别人的设备后发挥作用的电气组件。与手持计算器比较，可以看到屏幕之外的结果保存；与后来个人电脑连接的打印机比较，又能看到部件供应和独立外设并非同一商业形态。机械学会与厂商都把它放在打印技术发展的历史中，但本展品不借此包揽后来市场变化的原因。馆藏可以用它提示，最终用户经验也由供应链中的较小产品塑造。后续策展若补入完整计算器样机，应核定所用打印部件，不能仅凭年代相近建立配套关系。这个关联问题能帮助观众区别外观上的相似和有资料支持的技术联系。",
+      "limitations": "“数字打印”在此指针对数字与符号的打印任务，不能借现代词义将其扩大为通用图像输出。厂商历史页中有关耐久和领先性的宣传没有被转换为独立实测结论；学会条目的生产数量也未用来推断每个国家的使用普及程度。本轮两份资料支持身份、日期与基本用途，全球销售分布、使用者口碑和维修寿命仍未研究。原始品牌组织名称与后来的Epson品牌需分开表达，避免把一九六八年的产品贴上后来才启用的品牌身份。没有下载原厂或机构照片，也未导入视频。文字回退保留明确型号和事件，后续补图须检查实物是否为EP-101，并逐张记录作者、许可及允许的使用方式。",
+      "dateLabel": "1968-09（生产并销售）",
+      "dateKind": "launch",
+      "regionVersion": "OEM打印组件；Epson后来的品牌名",
+      "features": [
+        "OEM计算器打印组件",
+        "飞鼓式数字符号输出",
+        "1968年9月生产销售"
+      ],
+      "facts": [
+        {
+          "label": "核准事实",
+          "value": "1968年9月生产销售，飞鼓式数字符号打印，OEM供计算器厂",
+          "sourceIds": [
+            "CM150-S043",
+            "CM150-S044",
+            "CM150-S013"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CM150-S043",
+        "CM150-S044"
+      ],
+      "paragraphSources": {
+        "context": [
+          "CM150-S043",
+          "CM150-S044"
+        ],
+        "design": [
+          "CM150-S043",
+          "CM150-S044"
+        ],
+        "usage": [
+          "CM150-S043",
+          "CM150-S044"
+        ],
+        "significance": [
+          "CM150-S043",
+          "CM150-S044"
+        ],
+        "limitations": [
+          "CM150-S043",
+          "CM150-S044"
+        ]
+      },
+      "relatedSlugs": [
+        "hp-35",
+        "ibm-pc-5150"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-ready-no-media-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "proposedCategory": "输入打印与创作",
+        "proposedStage": "输出或移动计算的实际使用条件",
+        "status": "协调统一编年映射，尚未写网站编年史"
+      },
+      "contentStatus": "ready-pending-coordinator-verification"
+    }
+  ],
+  "limitations": [
+    "正式建议不是正文ready或实际入库；多数广搜材料只核原机构检索摘录，逐条保留深度。",
+    "37正式建议与6暂缓为各自状态，不用数量强行晋级。",
+    "多数只核原机构检索摘录，不能写全文核查；两篇ready仅引用实际打开的正文。",
+    "本轮未完整研究制造地、全球销售或群体使用；近期普通产品以原厂身份加署名评测保留。",
+    "奖项数组为空，不把馆藏/历史遗产认定当设计奖；任何图片未下载。",
+    "NeXT原Computer与后NeXTcube混用、SK1年份冲突、Intuos系列未锁具体型号、PRS手册日期、Rio打不开、Brother上市日尚待核，6件不计数。"
+  ]
+}

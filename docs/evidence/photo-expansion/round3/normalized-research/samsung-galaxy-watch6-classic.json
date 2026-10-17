@@ -1,0 +1,106 @@
+{
+  "slug": "samsung-galaxy-watch6-classic",
+  "checkedOn": "2026-10-15",
+  "query": "Selected exact licensed physical photograph",
+  "candidates": [
+    {
+      "slug": "samsung-galaxy-watch6-classic",
+      "provider": "commons",
+      "title": "File:Samsung Galaxy Watch 6 Classic.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_Watch_6_Classic.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Samsung_Galaxy_Watch_6_Classic.jpg",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Samsung_Galaxy_Watch_6_Classic.jpg/960px-Samsung_Galaxy_Watch_6_Classic.jpg",
+      "creator": "Vis M",
+      "artist": "Vis M",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-02-13 16:26:09",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Samsung Galaxy Watch 6 Classic",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Photographs taken by Vis M|Taken with Samsung Galaxy S23 Ultra|Samsung Galaxy Watch 6",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Samsung Galaxy Watch 6",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-02-13 16:29:00",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Vis_M\" title=\"User:Vis M\">Vis M</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "localFile": "/Users/xyu/Program/circuit-museum/docs/evidence/photo-expansion/round3/samsung-galaxy-watch6-classic.jpg",
+      "sha256": "60afd487dde0d66033912be061f5d62864c6999ad428590d1e3976c10a1cc186",
+      "caption": "Galaxy Watch6 Classic店内实物，旋转外圈与圆形屏幕可见；不用于证明所有尺寸配置。",
+      "modelVerification": "Commons文件名明确Classic；画面展签Galaxy Watch6 Classic和金属旋转表圈相符。",
+      "visualReview": "亲自单张查看下载的960px实物摄影，现场展台、反光、配件和背景可辨；未生成或改画。",
+      "primaryLicenseVerification": {
+        "checkedOn": "2026-10-15",
+        "sourcePageArchive": "/Users/xyu/Program/circuit-museum/docs/evidence/photo-expansion/round3/samsung-galaxy-watch6-classic-source.html",
+        "finding": "原Commons文件页存在CC BY-SA4.0及Own work；不是索引缓存许可。"
+      },
+      "status": "approved-candidate",
+      "description": "Commons文件名明确Classic；画面展签Galaxy Watch6 Classic和金属旋转表圈相符。"
+    }
+  ]
+}

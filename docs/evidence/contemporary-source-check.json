@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-03",
+  "executedAtUtc": "2026-10-03T01:31:21.514979+00:00",
+  "sourceDataFile": "docs/chronicles.json",
+  "method": "curl GET with redirects, max-time 35 seconds, Mozilla/5.0 user agent; HTMLParser extracted visible body excluding script/style; exact model and date assertions checked before writing",
+  "scope": "CH07至CH11实测链接与正文事实边界；不验证图片复制许可，不验证未来功能、价格、库存或所有市场发售",
+  "summary": {
+    "checkedSources": 5,
+    "http200": 5,
+    "fetchFailures": 0,
+    "unsupportedCurrentCatalogClaims": 0,
+    "globalLaunchDateForXiaomiBandEstablished": false
+  },
+  "sources": [
+    {
+      "id": "CH07",
+      "requestUrl": "https://images.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "finalUrl": "https://images.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8",
+      "curlExitCode": 0,
+      "curlError": null,
+      "pageTitle": "Apple introduces the new MacBook Air with M5 - Apple",
+      "responseUtf8Bytes": 232829,
+      "responseSha256": "ea43891ff15e1f8f46feb8179f4c2e7aa96921fd3a398b9d2f3e1c15031dde15",
+      "visibleTextCharacters": 30878,
+      "publicationDate": "2026-03-03",
+      "dateEvidence": {
+        "visibleArticleDateFound": true,
+        "announcedAvailability": "2026-03-11",
+        "type": "公告中的发售安排"
+      },
+      "expectedModels": [
+        "MacBook Air M5 13英寸"
+      ],
+      "checks": {
+        "M5InArticle": true,
+        "thirteenAndFifteenInchModelsInArticle": true,
+        "March11AvailabilityInArticle": true
+      },
+      "summary": "正文公告日期为2026年3月3日；明确列13与15英寸M5机型、3月4日预购与3月11日起到货及门店供应安排。支持本馆只收录13英寸型号，并区分公告与实际到店报道。",
+      "limitations": [
+        "这是公告中的销售安排，未另行核实3月11日实际到店。"
+      ],
+      "result": "supported-with-stated-date-scope"
+    },
+    {
+      "id": "CH08",
+      "requestUrl": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "finalUrl": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8",
+      "curlExitCode": 0,
+      "curlError": null,
+      "pageTitle": "Get ready to experience iPhone 18 Pro, the new Apple Watch lineup, and AirPods 5 - Apple",
+      "responseUtf8Bytes": 312282,
+      "responseSha256": "23517ffd6fca81a38dc93147200df5a5b94bba7f7f5034b8deb8e0dc3a79981c",
+      "visibleTextCharacters": 47110,
+      "publicationDate": "2026-09-11",
+      "dateEvidence": {
+        "visibleArticleDateFound": true,
+        "announcedAvailability": "2026-09-18",
+        "type": "公告中的发售安排"
+      },
+      "expectedModels": [
+        "iPhone 18 Pro",
+        "Apple Watch Series 12",
+        "AirPods 5"
+      ],
+      "checks": {
+        "iPhone18ProInArticle": true,
+        "AppleWatchSeries12InArticle": true,
+        "AirPods5InArticle": true,
+        "September18AvailabilityInArticle": true,
+        "variableApertureInArticle": true,
+        "watchHealthSensingSystemInArticle": true,
+        "openEarActiveNoiseCancellationInArticle": true
+      },
+      "summary": "正文发布日期为2026年9月11日；明确列三款馆藏型号和9月18日起门店及在线销售安排。正文分别支持手机可变光圈、腕表新的健康感测系统、第五代AirPods的开放式主动降噪。",
+      "limitations": [
+        "文章也提及测试版与年内稍后功能，本次通过只覆盖馆藏当前三项技术概述及发售安排。",
+        "HTML title采用new Apple Watch lineup，正文主标题采用next generation of Apple Watch；这是标题措辞差别，未改变对应产品。"
+      ],
+      "result": "supported-with-stated-date-scope"
+    },
+    {
+      "id": "CH09",
+      "requestUrl": "https://images.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "finalUrl": "https://images.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "httpStatus": 200,
+      "contentType": "text/html;charset=utf-8",
+      "curlExitCode": 0,
+      "curlError": null,
+      "pageTitle": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide - Apple",
+      "responseUtf8Bytes": 313824,
+      "responseSha256": "5db8c83c9fc5fff6736f522e07885cad7378308ab52e6b6ed88adecc66187045",
+      "visibleTextCharacters": 5168,
+      "publicationDate": "2026-09-18",
+      "dateEvidence": {
+        "visibleArticleDateFound": true,
+        "reportedStoreArrival": "2026-09-18",
+        "type": "当天到店报道"
+      },
+      "expectedModels": [
+        "iPhone 18 Pro",
+        "Apple Watch Series 12",
+        "AirPods 5"
+      ],
+      "checks": {
+        "iPhone18ProInArticle": true,
+        "AppleWatchSeries12InArticle": true,
+        "AirPods5InArticle": true,
+        "September18StoreDebutInArticle": true
+      },
+      "summary": "正文发布日期为2026年9月18日，开头报道同日三款馆藏型号在各地Apple Store到店展示并迎接顾客；可与CH08的预告交叉支持已发售。",
+      "limitations": [
+        "到店报道支持首批发售节点，不证明所有国家和渠道同时供应。"
+      ],
+      "result": "supported-with-stated-date-scope"
+    },
+    {
+      "id": "CH10",
+      "requestUrl": "https://www.mi.com/global/product/xiaomi-smart-band-11-active/specs/",
+      "finalUrl": "https://www.mi.com/global/product/xiaomi-smart-band-11-active/specs/",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "curlExitCode": 0,
+      "curlError": null,
+      "pageTitle": "Xiaomi Smart Band 11 Active Specs",
+      "responseUtf8Bytes": 102722,
+      "responseSha256": "a3966e8b65694619d63155d64dcdf9d621cc2f528f06c2c37b0bd74aad8b7183",
+      "visibleTextCharacters": 1702,
+      "publicationDate": null,
+      "dateEvidence": {
+        "explicitLaunchDateFound": false,
+        "type": "规格页，无首发日期"
+      },
+      "expectedModels": [
+        "Xiaomi Smart Band 11 Active"
+      ],
+      "checks": {
+        "exactModelInTitle": true,
+        "TFTDisplayInVisibleBody": true,
+        "PPGSensorInVisibleBody": true,
+        "accelerometerInVisibleBody": true,
+        "MiFitnessInVisibleBody": true
+      },
+      "summary": "页面标题和正文对应Smart Band 11 Active；可见正文列1.47英寸TFT屏、PPG传感器、加速度计与Mi Fitness配套应用。",
+      "limitations": [
+        "该规格页无明确发布时间或全球首发日，不能单独支持2026年份。"
+      ],
+      "result": "supported-with-stated-date-scope"
+    },
+    {
+      "id": "CH11",
+      "requestUrl": "https://www.mi.com/it/event/new-wearable-september-2026/",
+      "finalUrl": "https://www.mi.com/it/event/new-wearable-september-2026/",
+      "httpStatus": 200,
+      "contentType": "text/html; charset=utf-8",
+      "curlExitCode": 0,
+      "curlError": null,
+      "pageTitle": "Il futuro al tuo polso",
+      "responseUtf8Bytes": 135368,
+      "responseSha256": "fd537baec6d075ebc482d3a603d8f8ca5837b7c37d26bd9667047b288be590b7",
+      "visibleTextCharacters": 3372,
+      "publicationDate": null,
+      "dateEvidence": {
+        "displayedCampaignRange": "03/09 - 03/10",
+        "yearInCanonicalCampaignUrl": 2026,
+        "type": "官方活动页列售与活动年月；非全球首发日"
+      },
+      "expectedModels": [
+        "Xiaomi Smart Band 11 Active"
+      ],
+      "checks": {
+        "exactModelListedInVisibleBody": true,
+        "campaignDateRangeInVisibleBody": true,
+        "September2026InCanonicalUrl": true
+      },
+      "summary": "意大利官方活动页可见03/09至03/10的活动日期与Smart Band 11 Active商品模块，canonical URL明确标识September 2026。页面中的年份不是仅靠页脚版权年份判定。",
+      "limitations": [
+        "活动页无可用于全球首发的正式发布日期。",
+        "商品价格区域在静态响应中显示加载中，未据此宣称价格或即时库存。"
+      ],
+      "result": "supported-with-stated-date-scope",
+      "corroboratingSource": {
+        "id": "CH11-linked-terms",
+        "requestUrl": "https://www.mi.com/it/support/terms/new-wearable-september-2026-preheat/",
+        "finalUrl": "https://www.mi.com/it/support/terms/new-wearable-september-2026-preheat/",
+        "httpStatus": 200,
+        "contentType": "text/html; charset=utf-8",
+        "curlExitCode": 0,
+        "curlError": null,
+        "pageTitle": "T&C | Evento di Prenotazione del Pacchetto Vantaggi Wearable | 2026",
+        "responseUtf8Bytes": 129089,
+        "responseSha256": "e16723d5e1ef6535d5b96108865930a29dffacbb5fa8b7e88a59718ae488f6b2",
+        "visibleTextCharacters": 18452,
+        "summary": "由CH11页面T&C链接到达。标题及正文明确为2026年9月可穿戴活动；活动登记期写2026年8月24日至9月3日，后续购买期写9月3日至10月2日。",
+        "limitations": [
+          "条款提到的优惠参与产品为REDMI Watch 6 Active/Lite，不能把其购买期当作Smart Band 11 Active的首发日。",
+          "链接条款仅交叉锚定活动年份，不单独证明手环型号上市日期。"
+        ],
+        "result": "campaign-year-corroborated"
+      }
+    }
+  ]
+}

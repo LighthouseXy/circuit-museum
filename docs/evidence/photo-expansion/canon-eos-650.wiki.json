@@ -1,0 +1,99 @@
+{
+  "slug": "canon-eos-650",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Canon EOS 650.jpg",
+      "pageid": 1732956,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Canon_EOS_650.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Canon_EOS_650.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Canon_EOS_650.jpg/960px-Canon_EOS_650.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2007-05-02 18:06:11",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Canon EOS 650",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 350D|Canon EOS 650|Canon EF 35-70mm F3.5-4.5",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<b>Canon EOS 650</b>, the first EOS camera, with Canon EF 35–70 mm f/3.5–4.5 zoom lens",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-03-01",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "photo taken in Vienna, Austria with my Canon EOS 350D and a EF-100mm marco lens. On a tripod.",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"https://de.wikipedia.org/wiki/Benutzer:Thire\" class=\"extiw\" title=\"de:Benutzer:Thire\">Thomas Steiner</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<a href=\"https://de.wikipedia.org/wiki/Benutzer:Thire\" class=\"extiw\" title=\"de:Benutzer:Thire\">Thomas Steiner</a> put it under the <i>CC-by-SA 2.5</i>.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.5",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.5",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.5",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.5",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Canon EOS 650 , the first EOS camera, with Canon EF 35–70 mm f/3.5–4.5 zoom lens",
+      "artist": "Thomas Steiner",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "date": "2007-03-01"
+    }
+  ]
+}

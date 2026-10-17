@@ -1,0 +1,1500 @@
+{
+  "schemaVersion": 1,
+  "base": {
+    "preservedBaselinePath": "docs/expansion/base-40-preserved.json",
+    "approved14Path": "docs/expansion/complete-batch-14.json",
+    "productionMutation": false
+  },
+  "status": "editorial-revision-complete-awaiting-coordinator-review",
+  "checkedOn": "2026-10-11",
+  "exhibits": [
+    {
+      "id": "06",
+      "slug": "magnavox-odyssey",
+      "year": 1972,
+      "name": "Odyssey",
+      "brand": "Magnavox",
+      "category": "gaming",
+      "categoryLabel": "游戏与玩乐",
+      "aliases": [
+        "Odyssey",
+        "Magnavox"
+      ],
+      "tags": [
+        "游戏与玩乐",
+        "Magnavox"
+      ],
+      "summary": "用插卡改变电路、透明覆膜补足画面，再配合纸牌与筹码，把电视接入家庭共同参与的游戏，电子图形与实体规则共同构成玩法。",
+      "context": "Odyssey 于 1972 年进入家庭游戏市场，来自 Ralph Baer 团队的电视游戏探索，以及 Sanders 授权 Magnavox 后的商品化工作。它继承 Brown Box 原型的方向，也改变了选择游戏的方式。简单屏幕图形与透明覆膜、纸牌等材料共同组织玩法；熟悉的桌游元素帮助玩家理解电视上的活动，使家庭屏幕从单向观看转向共同参与。",
+      "design": "电视负责呈现白色方块和线条；贴在屏幕上的彩色透明覆膜提供球场、道路等场景线索。控制器上的旋钮分别参与水平方向、垂直方向及游戏中的其他控制。插入主机的游戏卡用来改变电路连接，不能当作储存软件程序的 ROM 卡带理解。骰子、纸牌、筹码和纸币等配件把一部分规则与状态留在屏幕之外，所以完整产品的设计单位是“主机加电视加附件”，单看盒子或画面会遗漏实际玩法。",
+      "significance": "一九七二年的家庭电视主要承担观看，Odyssey要解决的是怎样让同一块屏幕成为两个人可以操作的游戏场所。它没有把整个球场与全部规则都电子化，而是用亮块表示玩家和球，再由覆膜、纸牌与筹码补上环境和计分。最值得观察的动作是先把规则材料铺好，再转动控制器旋钮，并将屏幕变化接回纸面规则；参与者本身也是系统的一部分。\n\n与一九七七年Atari VCS的差异在插卡之后尤其明确：Odyssey的卡片改变电路连接，VCS的ROM卡带让主机执行另一份程序。两件商品都借用家庭电视和可插入物件，内容变化发生的位置却不同。后者能将更多玩法状态交给程序，前者仍需要实体材料和人的判断。这不是只看外壳便能发现的区别。\n\nSmithsonian的产品史把Baer团队原型、授权及一九七二年商品化连在一起，支持从实验电视游戏到实际家庭商品的历史节点；其游戏介绍又解释了附件怎样形成玩法。因此选择这一件，是因为它保存了电子与桌游共同承担规则的早期形态，既有商品化记录，也有具体操作证据。来源并未证明所有家庭怎样使用它，有限图形和配件准备仍是这条路线的限制。缺少覆膜或规则材料时，一台能亮出方块的主机也未必恢复了原来那一套游戏。",
+      "dateLabel": "1972 年（推出）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "简单的屏幕亮块与线条，配合透明覆膜、纸牌等实体道具，形成完整游戏。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1972 年（推出）",
+          "sourceIds": [
+            "C:S08"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "游戏与玩乐",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S08",
+        "C:TXE04",
+        "C:S11",
+        "C:TXE07"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S08",
+          "C:TXE04"
+        ],
+        "design": [
+          "C:S08",
+          "C:TXE04"
+        ],
+        "usage": [
+          "C:TXE04"
+        ],
+        "significance": [
+          "C:S08",
+          "C:TXE04",
+          "C:S11",
+          "C:TXE07"
+        ],
+        "limitations": [
+          "C:S08",
+          "C:TXE04"
+        ]
+      },
+      "heroMediaId": "M13",
+      "videoIds": [],
+      "relatedSlugs": [
+        "atari-vcs",
+        "nintendo-famicom"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-source-verified",
+      "chronicleIds": [],
+      "usage": "开始前，玩家选择对应游戏卡，按说明放置需要的覆膜与配件，再通过控制器旋钮移动屏幕上的标记。游戏中的胜负、计分或轮次需要结合具体说明书和实体材料判断，不能假设都由主机自动完成。Smithsonian 的介绍指出，插卡后出现简单图形本身不足以解释玩法；玩家必须把电子反馈和纸面规则接在一起，电视才从观看节目变成参与游戏的界面。",
+      "limitations": "图形、场景与规则分散在多个物件中，玩家需要布置附件并阅读说明，单看屏幕不足以理解全部玩法。计分和胜负应按具体游戏判断。有限电子图形促使设计借助实体材料，同时让配件齐备程度成为体验的一部分：主机可以工作，覆膜、说明与桌面游戏材料仍需要共同参与。",
+      "readerTakeaway": "选择Odyssey，是为了看清电视游戏最早怎样借助桌游材料成立。最该观察的是装好覆膜、转旋钮之后，玩家还要怎样用纸面规则判断得分；插卡本身并不等于换入一份软件。",
+      "representativenessEvidence": {
+        "questionAnswered": "选择Odyssey，是为了看清电视游戏最早怎样借助桌游材料成立。",
+        "comparisons": [
+          {
+            "slug": "atari-vcs",
+            "difference": "Odyssey插卡改电路，VCS换ROM程序。",
+            "sourceIds": [
+              "C:S08",
+              "C:TXE04",
+              "C:S11",
+              "C:TXE07"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          }
+        ],
+        "impactEvidenceBoundary": "Smithsonian支持Baer原型到1972商业产品的路径；手册/机构介绍支持规则分布差异，不支持所有家庭的采用情况。"
+      },
+      "readerTakeawaySourceIds": [
+        "C:S08",
+        "C:TXE04",
+        "C:S11",
+        "C:TXE07"
+      ],
+      "editorialRevision": "2026-10-11：代表性解释修订；原身份、五节与证据范围保留",
+      "chineseCharactersInFiveSections": 934,
+      "deferredRelatedSlugs": []
+    },
+    {
+      "id": "09",
+      "slug": "atari-vcs",
+      "year": 1977,
+      "name": "Atari Video Computer System",
+      "brand": "Atari",
+      "category": "gaming",
+      "categoryLabel": "游戏与玩乐",
+      "aliases": [
+        "Atari Video Computer System",
+        "Atari"
+      ],
+      "tags": [
+        "游戏与玩乐",
+        "Atari"
+      ],
+      "summary": "用储存游戏程序的可换卡带延续同一台主机，电视提供声画、手柄负责操作，物理开关选择玩法，让购买硬件与获取游戏分别进行。",
+      "context": "Atari Video Computer System 于 1977 年推出，后来以 Atari 2600 的名称广为人知。它通过工厂写入程序的 ROM 卡带提供不同游戏，家庭电视负责显示和发声。主机、控制器与游戏卡带各有角色，内容能够不断更换。对玩家而言，设备的使用寿命与某一个固定游戏分开了：同一套硬件可以继续承载新买来的程序，家庭游戏逐渐呈现平台式关系。",
+      "design": "主机运行卡带中的程序，卡带决定具体游戏和玩法，控制器把手部动作变成屏幕反馈。1977 年手册区分了电源、电视类型、游戏选择、重置与两位玩家的难度控制。部分设置留在主机物理开关上，具体效果又由游戏说明定义。这套结构让硬件保留稳定的操作入口，同时把变化交给程序。与 Odyssey 的电路选择卡对照，VCS 的卡带存储内容，插入后改变计算机执行的游戏，卡片形态与内部作用在这里需要分别理解。",
+      "significance": "VCS面对的是一台家庭游戏机器怎样继续提供新内容的问题。专用电视游戏买回家后，规则大体跟着机身固定；VCS让工厂写入的ROM程序成为另外出售、可以替换的卡带。最关键的使用动作是关机换卡，再用同一套手柄和主机开关开始另一种游戏。原一九七七年手册把GAME SELECT、RESET与左右难度分别说明，显示稳定的机器接口仍可由不同程序赋予不同效果。\n\n与Odyssey相比，VCS改变的不只是屏幕表现。Odyssey通过插卡切换电路并借助覆膜、纸牌组织规则，VCS则让插入的程序规定内容与状态。与一九八二年C64相比，两者又不是相同的家用电脑用途：C64原指南从BASIC环境、LOAD与RUN解释用户如何加载或编写内容，VCS主要让玩家插入已制作好的卡带。这个比较把内容使用与内容制作分开，避免只因名称中有Computer便认为用途相同。\n\nCHM的年代档案明确一九七七年的产品和ROM卡带路径，原厂手册则提供重复使用的实际步骤。两者支持选择VCS来解释硬件与程序分开的产品关系，不能单凭这套结构证明它怎样影响每一家后继厂商。卡带仍需配套说明和合适控制器，部分设置还要伸手回到主机。它代表一种清楚的平台用法：硬件持续使用，取得新内容后再学习这份程序怎样调用已有输入。",
+      "dateLabel": "1977 年（VCS 推出）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "主机连接家庭电视，控制器和可更换卡带将硬件与游戏内容分离。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1977 年（VCS 推出）",
+          "sourceIds": [
+            "C:S11"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "游戏与玩乐",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S11",
+        "C:TXE07",
+        "C:S08",
+        "C:S15",
+        "C:TXE11",
+        "C:TXE04"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S11",
+          "C:TXE07"
+        ],
+        "design": [
+          "C:S11",
+          "C:TXE07",
+          "C:S08"
+        ],
+        "usage": [
+          "C:TXE07"
+        ],
+        "significance": [
+          "C:S11",
+          "C:TXE07",
+          "C:S08",
+          "C:S15",
+          "C:TXE11",
+          "C:TXE04"
+        ],
+        "limitations": [
+          "C:TXE07"
+        ]
+      },
+      "heroMediaId": "M16",
+      "videoIds": [],
+      "relatedSlugs": [
+        "magnavox-odyssey",
+        "nintendo-famicom"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-source-verified",
+      "editorialNotes": {
+        "significance": "它展示软件内容如何成为长期产品价值的一部分；后续外观修订不能自动标作首发实物。"
+      },
+      "chronicleIds": [],
+      "usage": "玩家在关机状态下插入游戏卡，连接合适的控制器和电视后开机。依据 1977 年手册，先用 GAME SELECT 找到所需的游戏变体，再按 RESET 开始；游戏中的手柄动作与按键效果需要结合该卡带说明。左右难度开关允许玩家使用不同难度，但不能把某一款游戏的细节推广为所有卡带都相同。换一张卡后，机箱、电视和控制器仍可继续承担同样的硬件角色。",
+      "limitations": "不同游戏需要对应程序卡与说明，有些还依赖合适控制器。电视连接和实体设置增加准备步骤，部分玩法选择需要从屏幕回到主机操作。主机提供稳定入口，开关作用又由程序决定：玩家取得一张新卡带后，还要理解它怎样使用同一套控制，才能把已有硬件转成新的游戏体验。",
+      "readerTakeaway": "选择VCS，是因为换一张卡便能让已有主机运行另一套程序。最该观察的是GAME SELECT和RESET怎样与当前卡带配合，同样的外部开关并不表示所有游戏规则相同。",
+      "representativenessEvidence": {
+        "questionAnswered": "选择VCS，是因为换一张卡便能让已有主机运行另一套程序。",
+        "comparisons": [
+          {
+            "slug": "magnavox-odyssey",
+            "difference": "由电路选择与实体规则对照ROM程序更换。",
+            "sourceIds": [
+              "C:S08",
+              "C:TXE04"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          },
+          {
+            "slug": "commodore-64",
+            "difference": "VCS主要使用现成程序卡；C64从BASIC/LOAD/RUN提供加载和编程入口。",
+            "sourceIds": [
+              "C:S15",
+              "C:TXE11"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          }
+        ],
+        "impactEvidenceBoundary": "现有手册/结构证据支持使用与操作差异；未据此主张销量、采用范围或因果影响。"
+      },
+      "readerTakeawaySourceIds": [
+        "C:S11",
+        "C:TXE07",
+        "C:S08",
+        "C:S15",
+        "C:TXE11",
+        "C:TXE04"
+      ],
+      "editorialRevision": "2026-10-11：代表性解释修订；原身份、五节与证据范围保留",
+      "chineseCharactersInFiveSections": 938,
+      "deferredRelatedSlugs": []
+    },
+    {
+      "id": "15",
+      "slug": "nintendo-famicom",
+      "year": 1983,
+      "name": "Family Computer",
+      "brand": "Nintendo",
+      "category": "gaming",
+      "categoryLabel": "游戏与玩乐",
+      "aliases": [
+        "Family Computer",
+        "Nintendo",
+        "任天堂",
+        "Famicom",
+        "FC",
+        "红白机"
+      ],
+      "tags": [
+        "游戏与玩乐",
+        "Nintendo"
+      ],
+      "summary": "红白主机用可更换卡带接入家庭电视，两只控制器各有分工，把安装、选游戏和共同游玩组织成可反复使用的日常流程。",
+      "context": "1983年7月15日，Nintendo在日本推出Family Computer。它借用家中的电视显示游戏，主机负责运行插入的卡带，玩家握着连线控制器输入动作。游戏内容与机器因此可以分开更换：买下一台主机后，新游戏由另一盒卡带带来。日本Famicom采用红白机身，电视、主机、供电与两只控制器共同构成它的家庭游戏场景。",
+      "design": "顶部卡带插口让换游戏成为显眼的动作，旁边的EJECT滑杆提供取出卡带的机械帮助。POWER、RESET以及电视与游戏模式切换都保留明确的实体位置，主机侧面的控制器收纳位把两只连线手柄纳入整体形态。两只控制器各有分工：一号有SELECT和START，二号配麦克风与音量控制。它把常规移动、动作按键和特定软件可利用的声音输入放在同一套家庭游戏设备里。",
+      "significance": "Famicom要把可更换游戏的主机变成可反复使用的家庭物件：先接电视与电源，再装卡、分配两只控制器，结束时关机换卡。一九八三年日本原机把顶部插口、EJECT滑杆和手柄收纳位做得明确，最该观察的是一个卡带怎样被插入和取出，以及两个参与者怎样离开机身操作。游戏成为另一件可以交换的物体，主机、电视和输入仍留在原处。\n\n它与Atari VCS都以程序卡复用硬件，区别需要继续看控制器而不是宣称Famicom发明了卡带平台。原HVC-001的两只固定连线控制器随主体安排，一号有START与SELECT，二号有麦克风和音量控制；这种不对称为具体软件留下不同参与方式。后来Game Boy又把屏幕和按键装在玩家自己的手里，换卡动作延续，但家庭共同屏幕变成随人携带的个人显示。这个前后比较展示的是空间与输入安排，不是把两个产品的全部商业成绩相加。\n\n任天堂的原机页面依据当时说明书给出这些部件与操作，公司史确认一九八三年日本推出，因而支持这件特定红白原机的代表性。选择它，是为了理解游戏平台怎样进入连接、收纳、换卡和共同参与的日常动作。这里不借后来复刻外观证明原机用途。RF频道设置、固定线长和二号控制器缺少部分按钮，仍使便捷有具体条件；麦克风也只有在软件使用它时才成为游戏输入。",
+      "dateLabel": "1983 年（日本推出）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "顶置卡带入口与两只固定连线手柄让家庭游戏围绕电视展开。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1983 年（日本推出）",
+          "sourceIds": [
+            "C:S17"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "游戏与玩乐",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S17",
+        "C:TXM14A",
+        "C:S20",
+        "C:S11",
+        "C:TXE07",
+        "C:TXM16A"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S17",
+          "C:TXM14A"
+        ],
+        "design": [
+          "C:TXM14A"
+        ],
+        "summary": [
+          "C:S17",
+          "C:TXM14A"
+        ],
+        "usage": [
+          "C:TXM14A"
+        ],
+        "significance": [
+          "C:TXM14A",
+          "C:S20",
+          "C:S11",
+          "C:TXE07",
+          "C:TXM16A"
+        ],
+        "limitations": [
+          "C:TXM14A"
+        ]
+      },
+      "heroMediaId": "M14",
+      "videoIds": [],
+      "relatedSlugs": [
+        "magnavox-odyssey",
+        "atari-vcs"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-source-verified",
+      "editorialNotes": {
+        "context": "Nintendo 于 1983 年在日本推出 Family Computer。首展以日本 Famicom 为对象，不把海外 NES 包装另算一件。",
+        "design": "顶置卡带入口与两只手柄让家庭游戏围绕电视展开，配图须区分原机与迷你复刻。"
+      },
+      "chronicleIds": [],
+      "usage": "先用专用电源适配器供电，把RF切换器接到电视的天线输入，选择与主机一致、没有电视广播占用的频道。插好游戏卡带再开机，用控制器的方向键与动作键游玩；具体按键效果要依游戏说明。保持主机电源开启，切到TV模式看电视，再切回GAME时得分仍保留。换卡时关机并推动EJECT。RESET会重置游戏并清掉此前记录的得分，使用前需要确认当前进度。",
+      "limitations": "它需要外部电视、专用电源和RF连接，安装时还要避开本地广播频道；便捷游玩以先完成这些连接为前提。连线控制器也让活动范围围绕主机展开。二号控制器没有一号的START和SELECT，麦克风的用途取决于软件。RESET会清掉当前得分，不能从它推断所有卡带都能长期保存进度。",
+      "readerTakeaway": "选择日本原Famicom，是为了观察家庭游戏怎样被整理成接电视、换卡和分配两只手柄的日常流程。最该看的是顶部EJECT动作，以及二号手柄与一号不同的输入，而不只是红白配色。",
+      "representativenessEvidence": {
+        "questionAnswered": "选择日本原Famicom，是为了观察家庭游戏怎样被整理成接电视、换卡和分配两只手柄的日常流程。",
+        "comparisons": [
+          {
+            "slug": "atari-vcs",
+            "difference": "同为程序卡复用硬件，Famicom原机将固定双手柄与不对称输入纳入机身。",
+            "sourceIds": [
+              "C:S11",
+              "C:TXE07"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          },
+          {
+            "slug": "game-boy",
+            "difference": "家庭共同电视对照掌上个人屏幕；两者都保留换卡。",
+            "sourceIds": [
+              "C:S20",
+              "C:TXM16A"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          }
+        ],
+        "impactEvidenceBoundary": "现有手册/结构证据支持使用与操作差异；未据此主张销量、采用范围或因果影响。"
+      },
+      "readerTakeawaySourceIds": [
+        "C:TXM14A",
+        "C:S20",
+        "C:S11",
+        "C:TXE07",
+        "C:TXM16A"
+      ],
+      "editorialRevision": "2026-10-11：代表性解释修订；原身份、五节与证据范围保留",
+      "chineseCharactersInFiveSections": 926,
+      "deferredRelatedSlugs": []
+    },
+    {
+      "id": "17",
+      "slug": "game-boy",
+      "year": 1989,
+      "name": "Game Boy DMG-01",
+      "brand": "Nintendo",
+      "category": "gaming",
+      "categoryLabel": "游戏与玩乐",
+      "aliases": [
+        "Game Boy DMG-01",
+        "Nintendo",
+        "任天堂",
+        "Game Boy",
+        "GB",
+        "游戏男孩"
+      ],
+      "tags": [
+        "游戏与玩乐",
+        "Nintendo"
+      ],
+      "summary": "屏幕、方向键与可换卡带装进同一支掌机：Game Boy让游戏随人移动，也让电池、环境光和两人的有线连接成为体验条件。",
+      "context": "Nintendo于1989年在日本推出Game Boy。原始DMG-01采用灰色外壳、单色液晶屏与四节AA电池。家庭游戏所需的显示、声音、输入和运行卡带的装置，在这里被一起装入能带走的机身。玩家可以在同一台机器上更换不同游戏：出门时随身带着一块屏幕、一组按键和选好的卡带，新的游玩场景由这些部件共同支持。",
+      "design": "纵向机身上半部安排屏幕，下半部把方向键放在左手、A和B放在右手，SELECT与START居于两侧拇指容易找到的位置。屏幕用有限灰阶区分图像，侧面分别提供音量与对比度拨轮，背面上方是卡带插口，电池舱也留在机背。扬声器与耳机口提供外放和个人聆听两种选择；扩展接口则让两台机器通过Video Link线连接。便携性由这些明确、可触摸的部件共同组成。",
+      "significance": "Game Boy面对的是离开家庭电视后，怎样继续使用可更换游戏的问题。DMG-01把显示、声音、方向键、动作键和卡带运行装在一件物体里，电池使它不必一直靠墙上电源。最关键的动作是装好电池和卡带，拿起机器，再根据环境光与对比度拨轮让画面可读。便携不是仅缩小机箱，而是把原本分散在电视、主机和手柄的工作交给随身系统。\n\n与日本Famicom相比，同样的换卡关系留了下来，但观看位置从客厅电视变成手中的单色屏幕。两人共同玩时也发生具体变化：Famicom的双手柄面对同一显示，Game Boy的Video Link要求两台机器及支持的软件，每人仍有自己的屏幕。后来Game Boy Color采用彩色路线，原DMG-01不能借其显示能力解释；原手册的光线和对比度要求正好揭示早期掌上显示的取舍。\n\n任天堂原机史与DMG-01说明书支持这些供电、卡带、光线与联机步骤，足以让这件产品代表“可换内容与个人显示一起移动”的使用形态。它们没有在本项证明所有玩家的使用地点或哪些后继产品因此采用同一设计。选择原灰色机身而不混入后代，才能让参观者看到便携需要自己维护电量与观看条件，也看到连接线如何暂时把两套独立设备变成共同游戏。屏幕表现与准备成本仍是这条路线真实的边界。",
+      "dateLabel": "1989 年（日本发售）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "原始 DMG-01 的单色屏幕、方向键与实体操作键组成完整掌机，机背卡带接口用于更换游戏。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1989 年（日本发售）",
+          "sourceIds": [
+            "C:S20"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "游戏与玩乐",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S20",
+        "C:TXM16A",
+        "C:TXM14A",
+        "G150-S013",
+        "CWG-S011"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S20",
+          "C:TXM16A"
+        ],
+        "design": [
+          "C:S20",
+          "C:TXM16A"
+        ],
+        "summary": [
+          "C:S20",
+          "C:TXM16A"
+        ],
+        "usage": [
+          "C:TXM16A"
+        ],
+        "significance": [
+          "C:S20",
+          "C:TXM16A",
+          "C:TXM14A",
+          "G150-S013",
+          "CWG-S011"
+        ],
+        "limitations": [
+          "C:S20",
+          "C:TXM16A"
+        ]
+      },
+      "heroMediaId": "M05",
+      "videoIds": [],
+      "relatedSlugs": [
+        "magnavox-odyssey",
+        "atari-vcs"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-source-verified",
+      "editorialNotes": {
+        "design": "原始 DMG-01 的单色屏幕、方向键与实体操作键组成完整掌机，不能混入 Game Boy Color 的特点。"
+      },
+      "chronicleIds": [],
+      "usage": "先按极性装好四节AA电池，在关机状态下把游戏卡带插入背面的插口，再滑动电源开关。开机标识后进入游戏，用方向键与A、B等按键操作，具体规则由卡带说明决定。看不清画面时调对比度，音量则另用拨轮控制。结束后先关机，再用两拇指推出卡带。有兼容双人模式的软件时，两位玩家各准备一台Game Boy和相应卡带，先接好Video Link线，再启动双方机器。",
+      "limitations": "说明书要求在良好光线下正视屏幕，看不清时还需检查环境光、对比度与电池，观看条件参与了使用。电池消耗会让指示灯变暗、声音变弱，需要更换电池；官方约十五小时的指标也会随游戏和温度变化。联机必须有第二台机器、连接线和兼容双人功能的游戏，插上一条线并不使所有卡带都能共同游玩。",
+      "readerTakeaway": "选择原DMG-01，是为了看游戏怎样离开家庭电视，并且仍保留换卡内容。最该观察的是对比度与环境光如何共同决定画面，以及两人联机为何需要两套机器而不是一根线就够。",
+      "representativenessEvidence": {
+        "questionAnswered": "选择原DMG-01，是为了看游戏怎样离开家庭电视，并且仍保留换卡内容。",
+        "comparisons": [
+          {
+            "slug": "nintendo-famicom",
+            "difference": "共同电视双手柄转为每人独立屏幕与有线双机连接。",
+            "sourceIds": [
+              "C:TXM14A"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          },
+          {
+            "slug": "nintendo-game-boy-color",
+            "difference": "原DMG01单色显示对照GBC彩色与分级卡带兼容。",
+            "sourceIds": [
+              "G150-S013",
+              "CWG-S011"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          }
+        ],
+        "impactEvidenceBoundary": "现有手册/结构证据支持使用与操作差异；未据此主张销量、采用范围或因果影响。"
+      },
+      "readerTakeawaySourceIds": [
+        "C:S20",
+        "C:TXM16A",
+        "C:TXM14A",
+        "G150-S013",
+        "CWG-S011"
+      ],
+      "editorialRevision": "2026-10-11：代表性解释修订；原身份、五节与证据范围保留",
+      "chineseCharactersInFiveSections": 924,
+      "deferredRelatedSlugs": []
+    },
+    {
+      "id": "18",
+      "slug": "sony-playstation",
+      "year": 1994,
+      "name": "PlayStation",
+      "brand": "Sony Computer Entertainment",
+      "category": "gaming",
+      "categoryLabel": "游戏与玩乐",
+      "aliases": [
+        "PlayStation",
+        "Sony Computer Entertainment",
+        "索尼"
+      ],
+      "tags": [
+        "游戏与玩乐",
+        "Sony Computer Entertainment"
+      ],
+      "summary": "初代PlayStation把光盘、大容量声音与三维场景带到家庭电视前；双握柄和形状按钮则为新的游戏空间建立手中的入口。",
+      "context": "初代PlayStation于1994年12月3日在日本发售，北美和欧洲在1995年跟进。Sony的研发资料把CD-ROM与三维图形列为这条独立游戏机路线的关键选择。光盘能容纳更多内容，也借用已经成熟的制造方式；围绕这套硬件，软件厂商开始组织相应作品。1994年的标准控制器以方向键、动作键和肩键操作，新的画面空间仍由这组熟悉的实体输入进入。",
+      "design": "方形主机顶部叠着圆形盘盖，把游戏介质的位置直接画在外壳上；OPEN、POWER、RESET的独立按键让开盖、开机和重启各有明确动作。前部控制器接口与记忆卡槽把游玩和存档安排在伸手可及的位置。原始手柄用两支握柄支撑双手，左侧方向键、右侧三角圆叉方块按钮和肩部按键分担输入。它仍以实体按键操作三维画面，图像空间的变化与输入方式的变化并非同时一步完成。",
+      "significance": "初代PlayStation面对的具体问题，是怎样让更丰富的声音资料与实时三维场景进入可批量供给的家庭游戏。Sony公司史把CD-ROM与三维图形开发连在一起，也明确说明采用已有音乐CD生产与流通能力的理由。最该观察的使用动作是开盖放盘、握住原始手柄控制游戏，再将进度写入独立记忆卡：内容介质、当下输入与留下状态由不同物件承担。\n\n与Famicom的卡带插拔相比，这里用光盘与盘盖改变了内容接入；公司史对短交货流程的记录还支持介质与供应安排的关系，而不只是“容量更多”的参数。与后来PlayStation 2相比，初代的原始标准手柄没有模拟摇杆，PS2原机手册则以DUALSHOCK 2及不同软件控制模式组织输入。新的三维图像并没有在一九九四年立刻带来后来所有控制能力，这种先后差别比把初代描述成现代主机缩小版更值得观察。\n\n选择这一件，是因为原厂发展史、原控制器时间线及初代操作手册分别提供开发、代际和实际使用证据。它们支持光盘制造路径与具体输入变化，不单独证明每个软件商的采用理由，也不把所有光盘主机的影响归给它。读取光盘、另购记忆卡和检查软件的存档支持仍是准备工作；日本一九九四年型号的接口亦不能由北美一九九五年手册全部代替。保留这些范围，才能看清这件产品怎样将内容、控制与保存进度重新组合。",
+      "dateLabel": "1994-12-03（日本发售）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "CD-ROM 承载游戏内容，面向三维图形的硬件让场景和人物拥有新的空间表现；主机、控制器与电视共同构成体验。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1994-12-03（日本发售）",
+          "sourceIds": [
+            "C:S21"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "游戏与玩乐",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S21",
+        "C:TXM17A",
+        "C:TXM17B",
+        "C:TXM17C",
+        "C:TXM14A",
+        "CWG-S001"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S21",
+          "C:TXM17A",
+          "C:TXM17B"
+        ],
+        "design": [
+          "C:TXM17A",
+          "C:TXM17B",
+          "C:TXM17C"
+        ],
+        "summary": [
+          "C:TXM17A",
+          "C:TXM17B"
+        ],
+        "usage": [
+          "C:TXM17C"
+        ],
+        "significance": [
+          "C:TXM17A",
+          "C:TXM17B",
+          "C:TXM17C",
+          "C:TXM14A",
+          "CWG-S001"
+        ],
+        "limitations": [
+          "C:TXM17B",
+          "C:TXM17C"
+        ]
+      },
+      "heroMediaId": "M15",
+      "videoIds": [
+        "V05"
+      ],
+      "relatedSlugs": [
+        "magnavox-odyssey",
+        "atari-vcs"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-source-verified",
+      "editorialNotes": {
+        "design": "CD-ROM 与面向三维图形的设计构成核心；原始主机、PS one 和复刻机是不同形态。"
+      },
+      "chronicleIds": [],
+      "usage": "把主机接到电视并选好对应输入，插入控制器；按OPEN打开盘盖，将PlayStation游戏光盘标签朝上放入盘座，合盖后启动。双手握住手柄，用方向键与动作键按游戏规则操作。想保留支持存档的游戏进度，需要另备记忆卡并按软件的保存流程操作；卡内资料也可以复制或删除。RESET会重新开始运行，不能当作暂停。原机还可播放音乐CD，游戏盘与声音播放共享同一个光盘入口。",
+      "limitations": "首发标准控制器没有后来双模拟摇杆和振动，不能用DUALSHOCK的反馈方式解释1994年的体验。保存进度还要购买记忆卡，容量和每款游戏占用的空间影响可留下多少记录。电视、供电和控制器连接仍是前提，游戏光盘也需要按说明保护与清洁。光盘入口扩大了内容选择，却没有消除外部配件与资料管理的负担。",
+      "readerTakeaway": "选择初代PlayStation，是为了把光盘供应、三维内容和原始按键控制放在同一件真实产品里看。最该观察的是开盖装盘与独立记忆卡存档，以及没有摇杆的首发手柄怎样进入新图像空间。",
+      "representativenessEvidence": {
+        "questionAnswered": "选择初代PlayStation，是为了把光盘供应、三维内容和原始按键控制放在同一件真实产品里看。",
+        "comparisons": [
+          {
+            "slug": "nintendo-famicom",
+            "difference": "程序卡插口/EJECT对照光盘盘盖与独立存档。",
+            "sourceIds": [
+              "C:TXM14A"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          },
+          {
+            "slug": "sony-playstation-2",
+            "difference": "初代原标准手柄无模拟摇杆，PS2的DUALSHOCK2/模式与软件支持另有条件。",
+            "sourceIds": [
+              "CWG-S001"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          }
+        ],
+        "impactEvidenceBoundary": "Sony公司史支持CD制造/流通流程对内容供给的具体作用；原始手柄与PS2手册支持输入代际差异，不推广为全行业因果。"
+      },
+      "readerTakeawaySourceIds": [
+        "C:TXM17A",
+        "C:TXM17B",
+        "C:TXM17C",
+        "C:TXM14A",
+        "CWG-S001"
+      ],
+      "editorialRevision": "2026-10-11：代表性解释修订；原身份、五节与证据范围保留",
+      "chineseCharactersInFiveSections": 990,
+      "deferredRelatedSlugs": []
+    },
+    {
+      "id": "23",
+      "slug": "nintendo-ds",
+      "year": 2004,
+      "name": "Nintendo DS",
+      "brand": "Nintendo",
+      "category": "gaming",
+      "categoryLabel": "游戏与玩乐",
+      "aliases": [
+        "Nintendo DS",
+        "Nintendo",
+        "任天堂"
+      ],
+      "tags": [
+        "游戏与玩乐",
+        "Nintendo"
+      ],
+      "summary": "上下两块屏幕把观看与触笔操作放进同一台掌机，实体按键、麦克风和近距离无线连接为不同玩法保留了各自的入口。",
+      "context": "Nintendo DS 于 2004 年在美国和日本推出，欧洲发售则在 2005 年；本展品是原版 DS。在前代掌机之后，任天堂增加双屏、下屏触摸输入和无线多人功能，同时保留读取旧一代卡带的插槽。游戏可以使用方向键、按钮，或依照自身设计调用触笔和麦克风，功能如何组合由具体作品决定。使用者既能继续采用熟悉的按键，也能在支持的作品里通过屏幕点选与滑动操作。",
+      "design": "可合拢的机身在打开后呈现上下两块带照明的彩色液晶屏，下屏承担触摸输入，上屏承担显示。方向键与 A、B、X、Y 按钮分列下屏两侧，肩键、麦克风和音量滑钮补足其他控制；触笔不用时收入机身笔槽。DS 游戏卡和 GBA 卡带使用不同插槽，软件选择也在开机菜单中呈现。这个布局让两个显示区与几类输入各有位置，合上机身可保护屏幕；在支持的游戏中，观看信息与在屏幕上点选、滑动可以同时发生。",
+      "significance": "原Nintendo DS处理的问题，是掌机是否只能通过记住按键关系进入游戏。它让下屏成为可以点选的位置，同时留着熟悉的方向键与按钮；玩家看见一个项目以后，可以直接用触笔触及它。最该观察的是关机装卡、开机点选标题，再在支持的软件中在下屏滑动：显示内容与输入位置有机会直接重合，上屏则保留另一块信息空间。这一动作证据比笼统说双屏更创新更容易理解。\n\n与Game Boy Advance相比，DS从单块显示和实体按键扩展到双屏触笔，还保留GBA卡带单人运行入口。新用途不是靠把旧卡带称作新游戏达成，而是通过两个不同插槽明确承接。与Nintendo 3DS相比，原DS也没有后代的裸眼立体显示与Circle Pad；二零零四年的作品如何组织上下屏，不应由二零一一年硬件倒推。原DS手册的Download Play则展示了另一项操作差别：支持的游戏可让附近未装该卡的机器临时接收数据，而不再先把两机用线相连。\n\n原说明书给出触笔、菜单、PictoChat和单卡下载的真实流程，公司史提供推出年代，足以支持这件原版对多种输入与近距离共同参与的代表性。本项尚无独立证据证明哪些人因为触控开始玩游戏，故不把界面入口的变化写成确定的人群扩大。上屏不可触摸，GBA兼容又不延续旧线缆多人模式，新增输入始终受具体游戏设计支配。选择DS，是为了把这些可以做的动作和仍不能沿用的关系同时留在一台过渡设备里。",
+      "dateLabel": "2004 年（美日发售）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "上下屏幕使显示信息与触笔操作可以分工，同时保留方向键和实体按钮，形成多种输入方式并存的界面。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "2004 年（美日发售）",
+          "sourceIds": [
+            "C:S29"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "游戏与玩乐",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S29",
+        "C:TXM22A",
+        "CWG-S012",
+        "CWG-S016"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S29",
+          "C:TXM22A"
+        ],
+        "design": [
+          "C:TXM22A"
+        ],
+        "summary": [
+          "C:S29",
+          "C:TXM22A"
+        ],
+        "usage": [
+          "C:TXM22A"
+        ],
+        "significance": [
+          "C:S29",
+          "C:TXM22A",
+          "CWG-S012",
+          "CWG-S016"
+        ],
+        "limitations": [
+          "C:TXM22A"
+        ]
+      },
+      "heroMediaId": "M17",
+      "videoIds": [],
+      "relatedSlugs": [
+        "magnavox-odyssey",
+        "atari-vcs"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-source-verified",
+      "editorialNotes": {
+        "design": "上下屏幕使显示信息与触笔操作可以分工，同时保留实体按键；首展对象不是 DS Lite 或 3DS。"
+      },
+      "chronicleIds": [],
+      "usage": "关机后将 DS 游戏卡插入 Slot 1，推到卡入定位，再开机并用触笔点选游戏标题。依游戏说明使用实体键，或用触笔在下屏轻点、滑动，选择项目或执行动作。支持单卡下载联机的游戏，由主机装卡启动，其他 DS 在菜单选择 Download Play、确认标题后接收数据。PictoChat 则从开机菜单进入聊天室，用触笔或屏幕键盘向附近使用者发送图画与文字。",
+      "limitations": "下屏可以触摸，上屏不能按同样方式操作，触笔、麦克风及无线玩法须由游戏支持。GBA 兼容仅限单人模式，原 Game Boy、Game Boy Color 卡带与旧联机线不能沿用。PictoChat 是附近机器间的通信，并非互联网聊天。多人数量与单卡下载也取决于软件，无线功能并不让所有游戏采用同一种联网方式。",
+      "readerTakeaway": "选择原DS，是为了观察掌机的输入怎样从按键关系增加到直接触及屏幕位置。最该看的是下屏点选与上下屏分工，以及Download Play怎样让附近机器临时取得游戏数据。",
+      "representativenessEvidence": {
+        "questionAnswered": "选择原DS，是为了观察掌机的输入怎样从按键关系增加到直接触及屏幕位置。",
+        "comparisons": [
+          {
+            "slug": "nintendo-game-boy-advance",
+            "difference": "GBA单显示/按钮与DS双屏/触笔/独立双插槽的用途区别。",
+            "sourceIds": [
+              "CWG-S012"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          },
+          {
+            "slug": "nintendo-3ds",
+            "difference": "DS无3DS裸眼立体与CirclePad，不以后代功能解释原DS。",
+            "sourceIds": [
+              "CWG-S016"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          }
+        ],
+        "impactEvidenceBoundary": "现有手册/结构证据支持使用与操作差异；未据此主张销量、采用范围或因果影响。"
+      },
+      "readerTakeawaySourceIds": [
+        "C:S29",
+        "C:TXM22A",
+        "CWG-S012",
+        "CWG-S016"
+      ],
+      "editorialRevision": "2026-10-11：代表性解释修订；原身份、五节与证据范围保留",
+      "chineseCharactersInFiveSections": 987,
+      "deferredRelatedSlugs": []
+    },
+    {
+      "id": "25",
+      "slug": "nintendo-wii",
+      "year": 2006,
+      "name": "Wii",
+      "brand": "Nintendo",
+      "category": "gaming",
+      "categoryLabel": "游戏与玩乐",
+      "aliases": [
+        "Wii",
+        "Nintendo",
+        "任天堂"
+      ],
+      "tags": [
+        "游戏与玩乐",
+        "Nintendo"
+      ],
+      "summary": "遥控器形状的手柄把指向、挥动和实体按键结合起来，Wii Sports 再把这些动作转成球类游戏，让电视前的参与可被旁观。",
+      "context": "任天堂于 2006 年推出 Wii；本展品以原主机和首代手柄为对象。它通过电视显示游戏，却让手持控制器的指向与动作进入操作流程。《Wii Sports》以网球、棒球、保龄球等项目组织这种控制方法，还安排多人参与、选择 Mii 形象与左右手习惯。主机、遥控器、感应条和具体游戏共同支持电视前的参与，从进入菜单到挥手击球各有对应动作。",
+      "design": "首代 Wii Remote 采用可单手握持的长条形态，方向键、A 键与背面的 B 键承担传统按钮输入，另有扬声器、玩家指示灯和扩展接口。指向操作利用控制器与放在电视上下的 Sensor Bar 配合；感应条两端提供红外光点，手柄据此确定屏幕上的指向位置。控制器还可横握，或连接带摇杆与按键的 Nunchuk，辅助摇杆可提供持续的方向控制。不同握持法把手柄组织成数种界面，动作输入与实体按钮一直共同存在。",
+      "significance": "Wii面对的参与问题不是电视画面是否还可以更精细，而是怎样让同场的人看见操作并借熟悉动作理解规则。首代Remote把指向、挥动与按钮一起交给玩家，《Wii Sports》再把它们组织成具体项目。最该观察的是保龄球中的持键、摆臂和松键时机：游戏不是简单扫描身体，手里始终握着器件，屏幕结果来自动作与按键的组合。轮流共用手柄也使围观与参加可以发生在同一个空间。\n\n与GameCube标准手柄相比，Wii加入可指向的长条握持与动作映射，但没有取消持续方向控制；Nunchuk的摇杆和按键继续承担这些任务。GameCube把模拟LR与摇杆留在双握柄中，Wii则让软件选择单手、横握或附加器件的操作姿势。后来的Wii U又将触屏与主机结合为另一条输入路线，不能把GamePad功能算在首代Wii Remote内。两次比较说明身体动作与显示安排怎样变化，并不是给某一代贴上全面优越的结论。\n\n原Wii Sports说明书支持具体动作与共同参与步骤，RVL-001连接手册及Sensor Bar支持页解释指向依赖红外光点，因此这件产品足以代表可见身体动作与传统按键共同成立的电视游戏方式。现有证据不直接证明所有家庭因此开始游戏，也不将后续MotionPlus能力倒写进首代。感应条布置、握持和活动空间仍是必要条件。选择Wii，是为了让参观者从一次真实投球动作理解界面，而不只从遥控器的外观想象“体感”的含义。",
+      "dateLabel": "2006 年（推出）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "遥控器式控制器支持指向和挥动，让电视前的身体动作成为操作的一部分。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "2006 年（推出）",
+          "sourceIds": [
+            "C:S31"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "游戏与玩乐",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S31",
+        "C:TXM24A",
+        "C:TXM24B",
+        "C:TXM24C",
+        "C:TXM24D",
+        "CWG-S014",
+        "CWG-S015",
+        "CWG-S017"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S31",
+          "C:TXM24A"
+        ],
+        "design": [
+          "C:TXM24B",
+          "C:TXM24C",
+          "C:TXM24D"
+        ],
+        "summary": [
+          "C:S31",
+          "C:TXM24A"
+        ],
+        "usage": [
+          "C:TXM24A",
+          "C:TXM24B"
+        ],
+        "significance": [
+          "C:TXM24A",
+          "C:TXM24B",
+          "CWG-S014",
+          "CWG-S015",
+          "CWG-S017"
+        ],
+        "limitations": [
+          "C:TXM24B",
+          "C:TXM24C"
+        ]
+      },
+      "heroMediaId": "M18",
+      "videoIds": [],
+      "relatedSlugs": [
+        "magnavox-odyssey",
+        "atari-vcs"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-source-verified",
+      "editorialNotes": {
+        "design": "遥控器式控制器支持握持、指向和挥动；后来的 MotionPlus 不是所有首发手柄内置能力。"
+      },
+      "chronicleIds": [],
+      "usage": "先连接电视、供电和感应条，并把感应条放在电视上或下方中央。同步手柄时按下手柄电池仓内的 SYNC 键，再按主机的同步键。佩戴腕带后插入《Wii Sports》光盘，指向光盘频道、按 A 键并选择开始，随后选择人数、Mii 与惯用手。网球以挥动手柄击球；保龄球则持键准备、摆臂并在动作末端松开按键，松键时仍握紧手柄，以摆臂和释放按键的时机模拟投球。",
+      "limitations": "指向控制需要正确的感应条位置与适当距离，遮挡、强光或其他红外光源会干扰使用。挥动游戏要求周围留出空间并使用腕带、握紧手柄。首代 Wii Remote 的动作与指向输入如何映射成屏幕反馈，由游戏设定；部分操作仍需实体按键或连接 Nunchuk，参与者需要按照具体项目学习握持方式与动作时机。",
+      "readerTakeaway": "选择首代Wii，是为了观察挥动、指向和按钮怎样共同变成游戏输入。最该看的是Wii Sports保龄球的持键与松键时机；动作可见，并不意味着机器完整追踪身体。",
+      "representativenessEvidence": {
+        "questionAnswered": "选择首代Wii，是为了观察挥动、指向和按钮怎样共同变成游戏输入。",
+        "comparisons": [
+          {
+            "slug": "nintendo-gamecube",
+            "difference": "GameCube双握柄摇杆/模拟LR对照Remote动作/指向与Nunchuk。",
+            "sourceIds": [
+              "CWG-S014",
+              "CWG-S015"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          },
+          {
+            "slug": "nintendo-wii-u",
+            "difference": "WiiU触屏GamePad依赖主机，属于后继另一输入组织。",
+            "sourceIds": [
+              "CWG-S017"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          }
+        ],
+        "impactEvidenceBoundary": "现有手册/结构证据支持使用与操作差异；未据此主张销量、采用范围或因果影响。"
+      },
+      "readerTakeawaySourceIds": [
+        "C:TXM24A",
+        "C:TXM24B",
+        "CWG-S014",
+        "CWG-S015",
+        "CWG-S017"
+      ],
+      "editorialRevision": "2026-10-11：代表性解释修订；原身份、五节与证据范围保留",
+      "chineseCharactersInFiveSections": 969,
+      "deferredRelatedSlugs": []
+    },
+    {
+      "id": "35",
+      "slug": "steam-deck-lcd",
+      "year": 2022,
+      "name": "Steam Deck LCD",
+      "brand": "Valve",
+      "category": "gaming",
+      "categoryLabel": "游戏与玩乐",
+      "aliases": [
+        "Steam Deck LCD",
+        "Valve",
+        "Steam Deck",
+        "蒸汽掌机",
+        "掌上PC"
+      ],
+      "tags": [
+        "游戏与玩乐",
+        "Valve"
+      ],
+      "summary": "把PC游戏库与摇杆、触摸板和背键放进一台掌上电脑，让桌面游戏通过新的输入与兼容流程随身使用。",
+      "context": "Steam Deck LCD在2022年进入首批订购与交付阶段，Valve安排2月25日向预约者发送购买邮件，2月28日起发出第一批设备。它面对的是已有PC游戏库怎样迁移到掌上使用的问题：画面、文字和启动器原本可能围绕显示器、鼠标键盘设计。SteamOS、内置手柄和兼容评级一起回应这个迁移，用户沿用账户里的游戏，同时确认掌机上的操作和运行条件。",
+      "design": "LCD版使用7英寸、1280×800、60Hz IPS屏和40Wh电池。正面布置摇杆、方向键、按键及两块触摸板，背面有四只可映射握柄键，陀螺仪提供机身运动输入。它将PC游戏常用的连续指向、按键和手柄动作放在双手可触及的位置。USB-C承担充电与显示连接，microSD扩展存储。拆解显示摇杆模组和存储具有独立连接，部分接口焊在主板上，电池被较强胶粘固定，不同部件的维护路径因而不同。",
+      "significance": "Steam Deck LCD处理的是已买PC游戏怎样离开桌面仍可操作的问题。许多程序预期有键鼠、大屏文字或额外启动器，缩小屏幕本身不能完成迁移。最该观察的是下载前查看兼容状态，再为具体游戏选择摇杆、触摸板或映射：输入装置与兼容信息共同成为买回机器之后的使用入口。这让它代表一种带着既有账户内容移动的掌上电脑，而不是只凭处理器参数代表当代游戏。\n\n与Game Boy DMG-01相比，两件设备都将屏幕和输入随人带走，也都需要管理电量；区别在内容如何围绕机器组织。Game Boy用专用卡带与固定按键，Deck面对既有PC程序，提供触摸板和更多可映射输入来衔接不同预期。与二零二三年原ROG Ally相比，LCD Deck采用SteamOS和Valve的兼容制度，Ally采用Windows与厂商控制模式。比较不证明哪套系统全面更好，而是显示相似握持形态可以有不同的软件准备工作。\n\n原LCD规格、Deck Verified页面及首批订购公告分别支持结构、使用制度和年代；iFixit对同版实物的拆解又显示摇杆与存储可独立连接，胶粘电池和焊接接口则有另一种维护成本。选择它，是因为软件迁移与硬件维护两种实际问题都能在此看到证据。兼容评级会更新，局部模块化也不等于整机容易修；这些边界不是旁枝，而决定已有内容能否被继续使用，以及一件随身电脑怎样被长期照料。",
+      "dateLabel": "2022 年（首批订购与交付阶段）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "手柄按键、触控板和内置屏幕围绕双手握持布局；同期 iFixit 拆解展示了内部控制部件。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "2022 年（首批订购与交付阶段）",
+          "sourceIds": [
+            "C:TXL12"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "游戏与玩乐",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:TD02",
+        "C:TXL12",
+        "C:TXL10",
+        "C:TXL11",
+        "C:S20",
+        "C:TXM16A",
+        "G150-S026",
+        "CWG-S027",
+        "VIDEO-S001"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:TXL12",
+          "C:TXL11"
+        ],
+        "design": [
+          "C:TXL10",
+          "C:TD02"
+        ],
+        "summary": [
+          "C:TXL10",
+          "C:TXL11"
+        ],
+        "usage": [
+          "C:TXL10",
+          "C:TXL11"
+        ],
+        "significance": [
+          "C:TXL10",
+          "C:TXL11",
+          "C:S20",
+          "C:TXM16A",
+          "G150-S026",
+          "CWG-S027"
+        ],
+        "limitations": [
+          "C:TXL10",
+          "C:TXL11",
+          "C:TD02"
+        ]
+      },
+      "heroMediaId": "M10",
+      "videoIds": [
+        "V03"
+      ],
+      "relatedSlugs": [
+        "magnavox-odyssey",
+        "atari-vcs"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-source-verified",
+      "teardown": {
+        "title": "模块化与胶粘并存",
+        "summary": "2022 年 LCD 版拆解展示了一种不完全一致的维修取舍：部分部件容易独立更换，电池则受胶粘影响。",
+        "points": [
+          "摇杆、电路子板与 M.2 存储采用可拆换结构；不要据此称整机全部接口都可独立替换。",
+          "电池胶粘固定；USB-C 与 microSD 接口焊在主板上。外形相近的 OLED 版不在这次拆解范围。"
+        ],
+        "sourceIds": [
+          "C:TD02"
+        ],
+        "mediaIds": [],
+        "rightsNote": "原创简述并外链原拆解；本轮不转载 iFixit 图片。"
+      },
+      "editorialNotes": {
+        "context": "Valve 于 2022 年推出 Steam Deck。这里展示 LCD 初版，不混入后来 OLED 型号的屏幕与续航参数。"
+      },
+      "chronicleIds": [],
+      "usage": "登录Steam账户后，用户在资料库查看兼容状态，再下载启动游戏。适合手柄的作品直接使用摇杆和按键，需要指针的界面则用触摸板或触屏，并按游戏调整映射。Playable作品可能需要手动处理启动器或控制配置。退出游戏界面后，可进入桌面环境处理文件；接外部显示器和输入设备又形成桌面组合。充电、下载与存储管理仍要安排，掌上使用继续包含PC内容所需的准备。",
+      "limitations": "资料库中的游戏有不同兼容状态：Playable可能需要调整，Unsupported表示厂商当前列为不支持，Unknown表示尚未核查。LCD版电池范围为2至8小时，随游戏和设置变化，使用者需要安排补电。模块化摇杆与存储便于定位部分维修对象，焊接接口、胶粘电池和显示组件仍有维护难度。兼容评级会更新，选游戏时应查看具体作品的说明。",
+      "readerTakeaway": "选择LCD Steam Deck，是为了看已有PC游戏怎样通过混合输入与兼容提示迁移到掌上。最该观察的是选游戏前的评级说明和进入后的映射；拆解再让这种便携电脑的维护取舍变得具体。",
+      "representativenessEvidence": {
+        "questionAnswered": "选择LCD Steam Deck，是为了看已有PC游戏怎样通过混合输入与兼容提示迁移到掌上。",
+        "comparisons": [
+          {
+            "slug": "game-boy",
+            "difference": "专用卡带固定输入对照PC程序、混合输入与兼容评级。",
+            "sourceIds": [
+              "C:S20",
+              "C:TXM16A"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          },
+          {
+            "slug": "asus-rog-ally-2023",
+            "difference": "SteamOS/Verified与Windows/控制模式准备路径的差异。",
+            "sourceIds": [
+              "G150-S026",
+              "CWG-S027"
+            ],
+            "evidenceType": "逐型手册/产品结构比较；除非另有证据不等同历史影响"
+          }
+        ],
+        "impactEvidenceBoundary": "原厂制度说明支持软件迁移方法；iFixit同版实物拆解支持维修结构评价，未推导普遍故障率或平台市场影响。"
+      },
+      "readerTakeawaySourceIds": [
+        "C:TXL10",
+        "C:TXL11",
+        "C:S20",
+        "C:TXM16A",
+        "G150-S026",
+        "CWG-S027"
+      ],
+      "editorialRevision": "2026-10-11：代表性解释修订；原身份、五节与证据范围保留",
+      "chineseCharactersInFiveSections": 959,
+      "deferredRelatedSlugs": [],
+      "mediaOpinions": [
+        {
+          "media": "极客湾Geekerwan（官方YouTube同片）",
+          "author": "极客湾Geekerwan；个人主持姓名未另核",
+          "articleDate": "2022-06-17",
+          "modelVersion": "2022 LCD；字幕提及改装PM991A1TB、SteamOS3.2，原容量未核",
+          "exactModelVersion": "Steam Deck LCD（2022），非OLED",
+          "url": "https://www.youtube.com/watch?v=xl2DrEJG7bE",
+          "originalURL": "https://www.bilibili.com/video/BV1Fv4y1g7Cc/",
+          "praise": "作者肯定握把分担重量与游戏界面便利，认为轻量游戏更适合其随手拿起的习惯。",
+          "shortcomings": "作者认为十字键位置不舒适，并记录一周内稳定性问题、游戏兼容范围及续航取舍。",
+          "evaluationConditions": "字幕述一周使用；改装1TBSSD，SteamOS与Windows11分开讨论。续航段含由功耗估算时长，不按标准放电实测采纳。",
+          "commercialDisclosure": "36:44宣传自营周边；样机来源与第三方赞助未核实。",
+          "verificationDepth": "完整字幕及发布说明核读；未完整观看画面、未复测；B站原页仍412。",
+          "sourceId": "VIDEO-S001",
+          "observationLocations": [
+            {
+              "start": "0:45",
+              "end": "2:10",
+              "topic": "握持与十字键位置"
+            },
+            {
+              "start": "8:01",
+              "end": "12:15",
+              "topic": "游戏界面与设置入口"
+            },
+            {
+              "start": "12:51",
+              "end": "15:14",
+              "topic": "一周稳定性与兼容观察"
+            },
+            {
+              "start": "21:34",
+              "end": "23:32",
+              "topic": "功耗估算与轻量游戏习惯"
+            },
+            {
+              "start": "36:44",
+              "end": "36:49",
+              "topic": "自营周边宣传"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "C:S08",
+      "title": "Video Game History — Smithsonian",
+      "publisher": "Smithsonian",
+      "url": "https://americanhistory.si.edu/ne/collections/object-groups/the-father-of-the-video-game-the-ralph-baer-prototypes-and-electronic-games/video-game-history",
+      "supports": "Odyssey 与 Baer/Brown Box 的联系、1972 年商品化、插卡改变电路和屏幕覆膜及实体游戏配件。",
+      "checkedOn": "2026-10-04",
+      "verification": "原机构网页的搜索索引内容已核查；直接正文抓取失败，未通读原页面；不表示媒体复制授权。",
+      "originalId": "S08",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:S11",
+      "title": "1977 Timeline: Atari VCS — CHM",
+      "publisher": "CHM",
+      "url": "https://www.computerhistory.org/timeline/1977/",
+      "supports": "1977 年 Atari VCS、后来 Atari 2600 名称与工厂写入 ROM 的可换游戏卡带。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。",
+      "originalId": "S11",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:S15",
+      "title": "1982 Timeline: Commodore 64 — CHM",
+      "publisher": "CHM",
+      "url": "https://www.computerhistory.org/timeline/1982/",
+      "supports": "1982 年 Commodore 64、64 KB 内存与图形能力；不使用争议性累计销量作为选品依据。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。",
+      "originalId": "S15",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:S17",
+      "title": "Company History — Nintendo",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+      "supports": "1983年在日本推出Family Computer的公司历史记录；与具体原机操作来源TXM14A配合使用。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页正文1983年记录；共享公司年表仅支持推出背景，不用于推断原机操作。",
+      "originalId": "S17",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:S20",
+      "title": "Game Boy — Nintendo History",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy/Game-Boy-627031.html",
+      "supports": "1989年在日本推出，原Game Boy单色四灰阶屏、尺寸、四节AA供电和约15小时电池指标；可携带游戏的平台背景。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取正文和原Game Boy规格列；页面同时介绍Pocket及后续软件，只使用明确属于原机的字段，未采用页面Pocket年份或音源表述。",
+      "originalId": "S20",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:S21",
+      "title": "PlayStation 1994 history — Sony Interactive Entertainment",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/en-us/playstation-history/1994-ps-one/",
+      "supports": "搜索索引支持1994年日本、1995年北美及欧洲的发售区分和CD-ROM背景；具体结构与操作由TXM17A/B/C正文支撑。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次美国页正文读取返回错误，只读取搜索索引。日本官方对应页另以TXM17B登记正文，未将本项标为已读正文。",
+      "originalId": "S21",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:S29",
+      "title": "Nintendo History — Nintendo DS",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/en-za/Hardware/Nintendo-History/Nintendo-History-625945.html",
+      "supports": "DS在2004年于美国和日本发售、2005年进入欧洲，以及2006年DS Lite调整尺寸和显示的后续关系。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取公司历史正文。历史页用于时间与产品承接，具体输入、卡带和无线操作依据原版DS说明书。",
+      "originalId": "S29",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:S31",
+      "title": "Company History — 2006 Wii",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/corporate/en/history/index.html",
+      "supports": "2006年Wii上市的时间锚点。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取官方公司历史正文。该页仅支持年份；具体操作由原版主机及Wii Sports资料核实。",
+      "originalId": "S31",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TD02",
+      "title": "Steam Deck Teardown: Everything Valve Said Not to Do!",
+      "publisher": "iFixit",
+      "url": "https://www.ifixit.com/News/57101/steam-deck-teardown",
+      "supports": "原2022 LCD版拆解重核，摇杆、M.2存储、焊接USB-C/microSD、胶粘电池和显示维护取舍；不套用OLED硬件，不以维修评分推断故障率。",
+      "checkedOn": "2026-10-04",
+      "verification": "原2022 LCD版拆解重核，摇杆、M.2存储、焊接USB-C/microSD、胶粘电池和显示维护取舍；不套用OLED硬件，不以维修评分推断故障率。",
+      "originalId": "TD02",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXE04",
+      "title": "The Magnavox Odyssey predicted the future of video games",
+      "publisher": "Smithsonian / Drew Robarge",
+      "url": "https://americanhistory.si.edu/explore/stories/magnavox-odyssey-predicted-future-video-games",
+      "supports": "1972 年上市、插卡与简单图形、控制旋钮、说明书规则及覆膜和实体配件的实际游戏关系。",
+      "checkedOn": "2026-10-04",
+      "verification": "原机构完整搜索索引文章已读；直接页面读取超时，未声称通读在线正文或实测。",
+      "originalId": "TXE04",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXE07",
+      "title": "Atari Video Computer System Owner’s Manual（1977），C010777",
+      "publisher": "Atari（Atari Compendium 存档）",
+      "url": "https://www.ataricompendium.com/archives/manuals/vcs/atari_vcs_77_v1.pdf",
+      "supports": "1977 原厂手册的关机插卡、GAME SELECT、RESET、电视类型与左右难度设置；不是后来的 2600A 或 2600+ 手册。",
+      "checkedOn": "2026-10-04",
+      "verification": "原手册搜索索引文字已读；直接 PDF 读取超时，Digital Press 同名 1977 手册目录可核对、PDF 返回 429；未声称已视觉验页。",
+      "originalId": "TXE07",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXE11",
+      "title": "Commodore 64 User’s Guide（1982）— Project 64 转录",
+      "publisher": "Commodore Business Machines（Zimmers / Project 64 存档）",
+      "url": "https://www.zimmers.net/anonftp/pub/cbm/c64/manuals/c64-manual.txt",
+      "supports": "电视/显示与外部存储连接、BASIC 启动画面及 38911 可用字节、LOAD/RUN、磁带物理播放步骤、POKE 控制颜色/图形。",
+      "checkedOn": "2026-10-04",
+      "verification": "原厂用户指南的文字转录已读；存档目录明确这是原手册 e-text，未声称扫描图像逐页校验。",
+      "originalId": "TXE11",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXL10",
+      "title": "Steam Deck LCD technical specifications",
+      "publisher": "Valve",
+      "url": "https://www.steamdeck.com/en/tech/deck",
+      "supports": "原LCD版Steam Deck的7英寸60Hz IPS、40Wh电池、输入装置与接口。",
+      "checkedOn": "2026-10-04",
+      "verification": "官方LCD规格正文已核查，链接为/deck；不混用OLED版90Hz、50Wh或Wi-Fi 6E。",
+      "originalId": "TXL10",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXL11",
+      "title": "Deck Verified",
+      "publisher": "Valve",
+      "url": "https://www.steamdeck.com/en/verified",
+      "supports": "Steam Deck的Verified、Playable、Unsupported、Unknown四种兼容状态及输入、画面要求。",
+      "checkedOn": "2026-10-04",
+      "verification": "正文四类定义和四项核查标准已读；网页为现行兼容制度说明，不视为2022年所有游戏的实际表现记录。",
+      "originalId": "TXL11",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXL12",
+      "title": "Steam Deck Launching February 25th",
+      "publisher": "Valve / Steam News",
+      "url": "https://store.steampowered.com/news/app/1675180/view/3117055056380003048",
+      "supports": "2022年2月25日首批订购邮件与2月28日起首批发货的安排。",
+      "checkedOn": "2026-10-04",
+      "verification": "web正文解析只显示图片，直接读取同页HTTP 200 HTML内data-partnereventstore公告正文；原始announcement_body明确订购邮件、72小时窗口与28日起发货，时间戳为2022-01-26。",
+      "originalId": "TXL12",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM14A",
+      "title": "ファミコンとは？ — Family Computer hardware",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/jp/famicom/hardware/index.html",
+      "supports": "1983年7月15日推出；原HVC-001的POWER/EJECT/RESET、频道与TV/GAME切换、RF连接和专用供电，以及一号/二号控制器不同功能。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页正文。页面明确说操作文字依据当时说明书，采用原机功能，未采用现代复刻控制器资料。",
+      "originalId": "TXM14A",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM16A",
+      "title": "Game Boy Owner's Manual, DMG-GB-USA-1 (1989)",
+      "publisher": "Nintendo of America (original manual; Manualzz mirror)",
+      "url": "https://manualzz.com/doc/22866609/nintendo-game-boy-handheld-game-console-user-manual",
+      "supports": "原DMG-01说明书的电池、卡带插拔与电源顺序、音量/对比度调节、耳机、Video Link双机条件和环境光要求。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取原说明书转录正文及1989版权、DMG-01型号；使用Document正文，未引用页面AI生成介绍/FAQ。",
+      "originalId": "TXM16A",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM17A",
+      "title": "Sony Group History, Part 2 Chapter 9: PlayStation",
+      "publisher": "Sony Group",
+      "url": "https://www.sony.com/ja/SonyInfo/CorporateInfo/History/SonyHistory/2-09.html",
+      "supports": "独立PlayStation路线的CD-ROM与3D图形开发背景、1994年12月3日发售，圆形盘盖/握柄与形状按钮，以及光盘制造与内容供应之间的关系。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取公司史第1–3节正文。仅采用具体开发、介质和设计事实，不采用销售数字、宣传口号或厂家成功评价。",
+      "originalId": "TXM17A",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM17B",
+      "title": "PlayStation 1994 — PlayStation history timeline (Japan)",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/ja-jp/playstation-history/1994-ps-one/",
+      "supports": "日本1994及海外1995的发售时间，1994原始控制器、1997双模拟与DUALSHOCK的先后，CD-ROM、控制器端口及独立记忆卡。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取官方日本页正文。记忆卡段把原机卡写作8MB，与原说明书不符，正文不采用该容量；仅用功能和时间线。",
+      "originalId": "TXM17B",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM17C",
+      "title": "PlayStation SCPH-1001 Instruction Manual (1995) — scan",
+      "publisher": "Sony Computer Entertainment (original manual; ManualsLib mirror)",
+      "url": "https://www.manualslib.com/manual/4045608/Sony-Playstation-Scph-1001.html",
+      "supports": "原PlayStation说明书的OPEN/POWER/RESET和控制器按键，标签朝上的装盘流程，另购记忆卡存取、复制/删除及音乐CD播放。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读首页原手册转录及所呈现第6/8/10/12页摘录；1995版权明确。封面OCR型号字符不清，另读3466089同型号扫描封面交叉核对。单独第8页URL不可读，未声称完整逐页核验；不外推北美版接口到1994日本型号。",
+      "originalId": "TXM17C",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM22A",
+      "title": "Nintendo DS Instruction Booklet（C/NTR-USA-1，55877C）",
+      "publisher": "Nintendo",
+      "url": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/ds_english",
+      "supports": "原版DS双屏、下屏触摸、触笔、按键、麦克风、插槽；关机插卡、菜单启动、Download Play与PictoChat实际操作；GBA单人兼容和近距离通信条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取15页官方PDF的文本正文，版权2004–2005、C/NTR-USA-1。重点核查印刷页4–5、8、10–18；不将DS Lite、DSi或3DS功能回写。",
+      "originalId": "TXM22A",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM24A",
+      "title": "Wii Sports Instruction Booklet（61918A，2006）",
+      "publisher": "Nintendo",
+      "url": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/Wii_Wii_Sports",
+      "supports": "2006年Wii Sports光盘频道启动、A键、玩家/Mii/惯用手选择、网球挥动及保龄球持键摆臂松键、腕带提示和轮流共用手柄。",
+      "checkedOn": "2026-10-04",
+      "verification": "网页读取工具未能读取该资产；以HTTP 200取得官方18页PDF并在内存解析英文正文，版权2006、61918A；重点核查印刷页4–9。未产生本地文件。",
+      "originalId": "TXM24A",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM24B",
+      "title": "Wii Operations Manual: System Setup（RVL-001，61914J）",
+      "publisher": "Nintendo",
+      "url": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/WiiOpMn_EN_setup",
+      "supports": "原RVL-001主机及Wii Remote的连接、电视上下居中放置感应条、SYNC、腕带、横握与Nunchuk，以及指向和挥动的环境条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "网页读取工具超时；以HTTP 200取得官方22页PDF并在内存解析正文。此为2009年修订的RVL-001手册，只采用原主机/首代手柄适用部分，排除后附MotionPlus内容。",
+      "originalId": "TXM24B",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM24C",
+      "title": "How to Identify a Wii Remote and Wii Remote Plus",
+      "publisher": "Nintendo Support",
+      "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/2956",
+      "supports": "首代Wii Remote RVL-003与后来的Wii Remote Plus RVL-036型号及MotionPlus内置标记差异。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取官方支持正文；仅用于确认代际边界，后来的内置MotionPlus没有纳入首代描述。",
+      "originalId": "TXM24C",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM24D",
+      "title": "How to Check the Sensor Bar for Functionality",
+      "publisher": "Nintendo Support",
+      "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/2954",
+      "supports": "Sensor Bar每一端的红外灯结构，支持指向控制所依赖的光点而非身体扫描。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取官方支持正文；只采用红外灯结构，不把检查时使用数码相机的说明转写为感应条带摄像头。",
+      "originalId": "TXM24D",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "CWG-S001",
+      "title": "SCPH-10000 日本原版取扱説明書",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/ps2-docs/JA_SCPH-10000_WEB.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "32页PDF指定连接、光盘、存储卡及Utility Disc/DVD章节；图文抽取含分散假名。",
+      "verificationMethod": "原机构PDF指定章节与目录阅读；非全部页面逐字审校",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S011",
+      "title": "GameBoy软件原分类表",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/n02/dmg/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "普通GB、GB/GBC共用、GBC专用卡带；旧机器不能使用GBC专用；GBC可以彩色显示旧GB软件。",
+      "verificationMethod": "原机构正文所列段落阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S012",
+      "title": "GameBoyAdvance原AGB欧版手册",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/eu/media/downloads/support_1/game_boy_advance_4/GBA_Manual_UK_DE_FR.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "p6—11原AGB反射TFT、两AA电池、ABLR、先插卡再开机、光照角度、四类卡带与兼容限制，连接电缆依内容；不用SP背光。",
+      "verificationMethod": "原机构PDF英文指定章节阅读；2007排版修订，不当2001服务状态",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S014",
+      "title": "GameCube原厂控制器设计",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/ngc/control/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "双握柄、A主位置、双模拟输入、LR模拟扳机与内置振动。",
+      "verificationMethod": "原机构检索可读正文摘录",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S015",
+      "title": "GameCube操作手册RevE",
+      "publisher": "Nintendo",
+      "url": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/gcn101_manual_english?_a=DATAg1AAZAA0",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "2001—2004版权，p12—18开盖盘标向上、按A进入菜单、记忆卡；包含DOL001与101区别。只采用共通基本动作，不套美国地区电源或101接口到日本原机。",
+      "verificationMethod": "16页PDF指定装盘/菜单/存档阅读",
+      "limits": "后期美洲手册补通用操作，不能独自确认日本原机接口或发售配置。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S016",
+      "title": "原Nintendo3DS CTR001日本手册",
+      "publisher": "Nintendo",
+      "url": "https://support.nintendo.com/jp/3ds/pdf/3dsmanual.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "CTR001(JPN)；上3D屏/3D滑块、下触屏、SlidePad/HOME、3DS/DS卡带；非New3DS，不采用未来服务续存。",
+      "verificationMethod": "92页PDF指定部件/显示/卡带章节阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S017",
+      "title": "WiiU操作手册欧洲修订",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/eu/media/downloads/support_1/wii_u_3/WiiU_OperationsManual_EN.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "2017版；GamePad触屏/摇杆/按钮、独立充电、主机连接与SYNC，支持内容与配件条件；不据2017指南当2012全部服务。",
+      "verificationMethod": "45页PDF指定部件/初始连接章节阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S027",
+      "title": "ROG Ally Armoury Crate SE Introduction",
+      "publisher": "ASUS",
+      "url": "https://www.asus.com/global/support/faq/1050220/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "RC71原Ally的ArmouryCrate按钮；Gamepad/Desktop映射模式与当前游戏库",
+      "verificationMethod": "2025-12-23更新支持正文17—71及162—195阅读",
+      "limits": "适用系列跨代；仅采用明确RC71步骤与通用模式，V2.1.10.0以上资料不是全部2023首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "G150-S013",
+      "title": "Nintendo UK hardware history",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-History-625945.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "N64日本1996-06-23、GameBoyColor1998；DSi2008、游戏掌机系列史。未采用销量/首创口号。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S013",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S026",
+      "title": "ROG Ally original announcement",
+      "publisher": "ASUS",
+      "url": "https://press.asus.com/news/press-releases/asus-republic-of-gamers-unveils-the-rog-ally/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2023-05-11",
+      "verifiedScope": "Z1 Extreme版本、Windows11、2023-05-11公布/06-13当时计划；ASUS制造/多PC商店。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S026",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "VIDEO-S001",
+      "title": "Steam Deck深度评测：史上最强掌机到底有多强？",
+      "publisher": "极客湾Geekerwan／官方YouTube频道",
+      "url": "https://www.youtube.com/watch?v=xl2DrEJG7bE",
+      "checkedOn": "2026-10-13",
+      "sourceType": "creator-firsthand-video-review",
+      "verifiedScope": "作者、2022-06-17发布日；完整字幕中的握持、游戏界面体验与具体限制，按时间位置归属作者。",
+      "verificationMethod": "官方发布页与完整zh-CN字幕0:00–36:49核读；未完整视听、未复测。",
+      "limits": "原B站页面412；画面图表未逐帧验证；不替代Valve原代规格或代表所有用户。",
+      "commercialDisclosure": "36:44自营周边宣传；样机来源、付费与第三方赞助未核实。",
+      "independence": "创作者本人署名观察；跨平台同片不是独立来源。"
+    }
+  ],
+  "validation": {
+    "exhibitCount": 8,
+    "minimumChineseCharactersInFiveSections": 924,
+    "sourceClosure": true,
+    "comparisonReferencesClosed": true,
+    "identityAndVersionPreserved": true,
+    "relatedSlugClosure": true
+  }
+}

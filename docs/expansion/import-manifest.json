@@ -1,0 +1,310 @@
+{
+  "checkedOn": "2026-10-11",
+  "status": "staged-ready-not-actual-import",
+  "counts": {
+    "originalBaseline": 40,
+    "previousCompleteNew": 14,
+    "additionalCompleteNew": 122,
+    "completeNewTotal": 136,
+    "completeCoverageIncludingOriginal": 176,
+    "selectedTotal": 216,
+    "remainingSelectedDossiers": 40,
+    "actualProductionObserved": 54,
+    "actualProductionObservation": "文件去重数量；不是页面可达或布局验收证明",
+    "minimumActualStageTarget": 150,
+    "additionalNeededBeyondReadyFor150": 0
+  },
+  "packets": [
+    {
+      "path": "docs/expansion/import-packets/complete-batch-14.json",
+      "count": 14,
+      "slugs": [
+        "casio-f91w",
+        "epson-ep101",
+        "ericsson-ericofon",
+        "framework-laptop-13-2021",
+        "ibm-thinkpad-701c",
+        "logitech-mx-master-3",
+        "nintendo-switch-2",
+        "nokia-3310-2000",
+        "osborne-1",
+        "sony-cdp-101",
+        "sony-playstation-5-pro",
+        "sony-playstation-vr-cuh-zvr1",
+        "sony-xel-1",
+        "toshiba-er4"
+      ],
+      "coverageAfterPriorPackets": 54,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-compute-01.json",
+      "count": 4,
+      "slugs": [
+        "hp-65",
+        "roland-tb303",
+        "roland-tr808",
+        "yamaha-dx7"
+      ],
+      "coverageAfterPriorPackets": 58,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-compute-02.json",
+      "count": 4,
+      "slugs": [
+        "apple-newton-messagepad-1993",
+        "hp-laserjet-1984",
+        "iomega-zip100",
+        "teac-portastudio144"
+      ],
+      "coverageAfterPriorPackets": 62,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-compute-03.json",
+      "count": 4,
+      "slugs": [
+        "kobo-touch-2011",
+        "logitech-k380-2015",
+        "pfu-scansnap-fi4110eox",
+        "samsung-t7-2020"
+      ],
+      "coverageAfterPriorPackets": 66,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-gaming-01.json",
+      "count": 8,
+      "slugs": [
+        "nintendo-switch-2017",
+        "sony-playstation-2",
+        "sony-playstation-3",
+        "sony-playstation-4",
+        "sony-playstation-4-pro",
+        "sony-playstation-5",
+        "sony-playstation-vita",
+        "sony-psp-1000"
+      ],
+      "coverageAfterPriorPackets": 74,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-gaming-02.json",
+      "count": 8,
+      "slugs": [
+        "nintendo-3ds",
+        "nintendo-64",
+        "nintendo-game-boy-advance",
+        "nintendo-game-boy-color",
+        "nintendo-gamecube",
+        "nintendo-super-famicom",
+        "nintendo-switch-lite",
+        "nintendo-wii-u"
+      ],
+      "coverageAfterPriorPackets": 82,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-gaming-03.json",
+      "count": 7,
+      "slugs": [
+        "nintendo-color-tv-game-15",
+        "nintendo-game-watch-ball-1980",
+        "nintendo-virtual-boy-jp",
+        "sega-dreamcast-jp",
+        "sony-access-controller",
+        "valve-steam-controller-2015",
+        "xbox-adaptive-controller"
+      ],
+      "coverageAfterPriorPackets": 89,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-gaming-04.json",
+      "count": 7,
+      "slugs": [
+        "asus-rog-ally-2023",
+        "asus-rog-xbox-ally-x",
+        "lenovo-legion-go-2023",
+        "msi-claw-a1m",
+        "sony-playstation-portal",
+        "valve-steam-controller-2026",
+        "valve-steam-machine-2026"
+      ],
+      "coverageAfterPriorPackets": 96,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-home-01.json",
+      "count": 7,
+      "slugs": [
+        "dyson-dc01",
+        "kenwood-chef-a700",
+        "kitchenaid-h5",
+        "national-ec36",
+        "sharp-r10",
+        "toastmaster-1a1",
+        "western-electric-500"
+      ],
+      "coverageAfterPriorPackets": 103,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-home-02.json",
+      "count": 8,
+      "slugs": [
+        "braun-hl1",
+        "braun-sixtant-sm31",
+        "garmin-gps155-tso",
+        "hoover-constellation-444",
+        "magellan-nav1000",
+        "motorola-pageboy-i",
+        "omron-hem1",
+        "western-electric-picturephone-mod-ii"
+      ],
+      "coverageAfterPriorPackets": 111,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-home-03.json",
+      "count": 8,
+      "slugs": [
+        "apple-airport-1999",
+        "avm-fritzbox-2004",
+        "husqvarna-solar-mower-1995",
+        "irobot-roomba-2002",
+        "philips-airfryer-hd9220",
+        "sony-aibo-ers110",
+        "tomtom-go-2004",
+        "violet-nabaztag-v1"
+      ],
+      "coverageAfterPriorPackets": 119,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-home-04.json",
+      "count": 8,
+      "slugs": [
+        "amazon-echo-1",
+        "google-home-2016",
+        "nest-learning-thermostat-1",
+        "nest-protect-1",
+        "perkins-smart-brailler",
+        "philips-hue-2012",
+        "sony-aibo-ers-1000",
+        "vorwerk-thermomix-tm5"
+      ],
+      "coverageAfterPriorPackets": 127,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-home-05.json",
+      "count": 7,
+      "slugs": [
+        "aqara-presence-fp2",
+        "aqara-spatial-fp400",
+        "humanware-victor-reader-stream-3",
+        "ikea-dirigera",
+        "roborock-s7",
+        "sourcenext-pocketalk-w",
+        "switchbot-s10"
+      ],
+      "coverageAfterPriorPackets": 134,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-imaging-01.json",
+      "count": 7,
+      "slugs": [
+        "lg-signature-oled-r-rx",
+        "rca-630ts",
+        "samsung-the-frame-ls003",
+        "samsung-the-sero-ls05t",
+        "sharp-aquos-lc20c1",
+        "sony-kv-1310",
+        "sony-tv8-301"
+      ],
+      "coverageAfterPriorPackets": 141,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-imaging-02.json",
+      "count": 7,
+      "slugs": [
+        "epson-vpj-700",
+        "htc-vive-2016",
+        "lg-oled-evo-m5-65",
+        "lg-stanbyme-go-27lx5qkna",
+        "microsoft-hololens-2",
+        "samsung-micro-rgb-r95h-65",
+        "samsung-the-freestyle-2022"
+      ],
+      "coverageAfterPriorPackets": 148,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-imaging-03.json",
+      "count": 7,
+      "slugs": [
+        "apple-vision-pro-m2",
+        "canon-ae-1",
+        "meta-quest-3",
+        "oculus-quest-2019",
+        "samsung-galaxy-xr",
+        "sony-betamax-sl-6300",
+        "sony-playstation-vr2"
+      ],
+      "coverageAfterPriorPackets": 155,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-imaging-04.json",
+      "count": 7,
+      "slugs": [
+        "canon-eos-650",
+        "canon-rc-701",
+        "kodak-dcs-1991",
+        "nikon-coolscan-ls-10",
+        "nikon-f3",
+        "sony-ccd-tr55",
+        "sony-ccd-v8"
+      ],
+      "coverageAfterPriorPackets": 162,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-imaging-05.json",
+      "count": 7,
+      "slugs": [
+        "canon-eos-5d-mark-ii",
+        "canon-powershot-600",
+        "canon-xl1",
+        "nikon-coolpix-300",
+        "nikon-coolpix-900",
+        "nikon-d1",
+        "sony-dcr-vx1000"
+      ],
+      "coverageAfterPriorPackets": 169,
+      "status": "ready-for-original-implementation-checks"
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-imaging-06.json",
+      "count": 7,
+      "slugs": [
+        "dji-phantom-2013",
+        "fujifilm-finepix-x100",
+        "insta360-x5",
+        "olympus-pen-e-p1",
+        "panasonic-lumix-dc-tz300",
+        "panasonic-lumix-dmc-g1",
+        "ricoh-gr-iii"
+      ],
+      "coverageAfterPriorPackets": 176,
+      "status": "ready-for-original-implementation-checks"
+    }
+  ],
+  "idPlan": "prose-import-id-plan.json",
+  "cumulativeBundle": "complete-batch-150-ready.json",
+  "acceptance": "按实际数据及页面验收确认≥150，不能把本清单计为已导入。"
+}

@@ -1,0 +1,1445 @@
+{
+  "schemaVersion": 2,
+  "checkedOn": "2026-10-11",
+  "status": "revised-prose-ready-for-implementation-validation",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ],
+    "snapshotPath": "docs/expansion/base-40-preserved.json"
+  },
+  "exhibits": [
+    {
+      "slug": "oculus-quest-2019",
+      "year": 2019,
+      "name": "Oculus Quest 第一代",
+      "brand": "Oculus",
+      "category": "immersive",
+      "museumCategory": "immersive",
+      "categoryLabel": "VR与AR",
+      "aliases": [
+        "Oculus Oculus Quest 第一代"
+      ],
+      "tags": [
+        "VR与AR",
+        "2019"
+      ],
+      "summary": "一个具体任务是在独立运行的空间应用里移动身体并操纵虚拟物体。核心设计是把运算和观察环境的相机放进头显，配合控制器及惯性数据组成Insight追踪。",
+      "context": "第一代Quest把戴上头显后的虚拟活动，从接在电脑旁的设备组合变成由头显自身运行的任务。二〇一九年原厂先给出五月发货计划，八月的技术文章确认产品已经可以获得；这里保留这种可核的时间范围。对于想体验空间游戏的人，准备电脑和把追踪器固定在房间内，原本也是开始使用之前的工作。Quest针对的是这段准备过程，而不是宣称现实空间从此不重要。它仍要知道玩家和双手的位置，才能让画面中的移动与身体动作对应。",
+      "design": "核心设计是把运算和观察环境的相机放进头显，配合控制器及惯性数据组成Insight追踪。相机反复观察房间中的特征，惯性测量则补充快速运动的信息；两者共同估计头与手相对空间的位置。由此省去连接电脑的线缆和外部追踪布局，但定位计算、显示和应用也共同占用随身设备的资源。这种整合不是给一块普通屏幕加绑带：头转向时图像需要相应更新，手移动时虚拟工具也需要跟随，持续感知本身就是产品功能的一部分。",
+      "usage": "一个具体任务是在独立运行的空间应用里移动身体并操纵虚拟物体。玩家先选择适合活动的真实位置，戴稳头显，握持控制器，再进入应用；转头观察目标，通过控制器进行选择或游戏动作。这里的“移动”包含头的位置变化，而不仅是站着改变视线方向。头显内部建立的空间参照，使画面能随这些动作调整。对使用者而言，不再为这次体验启动一台配套电脑，是明确的便利；然而应用载入、头显供电以及房间是否适合身体活动，仍需事先考虑。",
+      "significance": "开始空间游戏前，用户原本还要准备电脑、线缆和外部追踪布局。第一代Quest把应用运算与观察环境的相机放进头显，用Insight结合惯性与图像追踪头和控制器，玩家可以在一套独立设备中进入应用。与原VIVE相比，改变的是系统准备与计算的位置，而不是让房间消失；Quest 3后来又以彩色透视增加在实际房间中叠加内容的任务。2019原厂技术文章确认Quest已可获得并说明追踪输入，属于商品与结构证据，没有量化人们使用频率。它的价值在于减少外部准备步骤，仍受供电、环境特征和应用条件限定。",
+      "limitations": "独立运行带来的边界包括有限的随身供电、计算资源和设备负担。Insight依靠环境特征与传感器融合，不能被理解为在任何光线或遮挡下都绝对准确；原厂技术介绍中的精度措辞也属于其测试口径。本文讨论第一代Quest的上市时系统，没有把后来的彩色混合现实、后代处理器或其他型号的镜片写进来。空间应用还需要合适内容以及可活动的场地。去掉电脑线缆解决了一种牵绊，却不会替使用者判断眼前房间、身体状态和每次体验的适宜长度。",
+      "dateLabel": "2019（五月计划发货，八月原厂确认已可获得）",
+      "dateKind": "launch",
+      "regionVersion": "第一代Quest，不混Quest2；容量合并",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "Quest独立运行，无需系到PC。",
+        "Insight用相机和惯性数据追踪头和控制器。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2019（五月计划发货，八月原厂确认已可获得）",
+          "sourceIds": [
+            "I150-S023"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "第一代Quest，不混Quest2；容量合并",
+          "sourceIds": [
+            "I150-S023",
+            "I150-S022"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "Quest独立运行，无需系到PC。",
+          "sourceIds": [
+            "I150-S022"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "Insight用相机和惯性数据追踪头和控制器。",
+          "sourceIds": [
+            "I150-S023"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CWI-S003",
+        "I150-S020",
+        "I150-S021",
+        "I150-S022",
+        "I150-S023",
+        "I150-S024",
+        "I150-S025"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S023",
+          "I150-S022"
+        ],
+        "design": [
+          "I150-S023",
+          "I150-S022"
+        ],
+        "usage": [
+          "I150-S023",
+          "I150-S022"
+        ],
+        "significance": [
+          "I150-S023",
+          "I150-S022",
+          "I150-S020",
+          "I150-S021",
+          "CWI-S003",
+          "I150-S024",
+          "I150-S025"
+        ],
+        "limitations": [
+          "I150-S023",
+          "I150-S022"
+        ]
+      },
+      "relatedSlugs": [
+        "htc-vive-2016",
+        "meta-quest-3"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "htc-vive-2016",
+        "meta-quest-3"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "immersive-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "immersive",
+        "stageId": "immersive-expanded-1",
+        "title": "外部系统与一体头显",
+        "need": "让头部动作与显示内容对应。",
+        "turn": "外部主机、摄像机或一体结构各有连接条件。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 898,
+      "mediaOpinions": [],
+      "deliveryPacket": "complete-wave-imaging-03.json",
+      "evidenceLimits": [],
+      "id": "120",
+      "readerTakeaway": "想象开始一次游戏要先摆出哪些设备，再看哪些工作已经进入头显。第一代Quest把独立运行与空间追踪组成一套明确商品。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "meta-quest-3",
+      "year": 2023,
+      "name": "Meta Quest 3",
+      "brand": "Meta",
+      "category": "immersive",
+      "museumCategory": "immersive",
+      "categoryLabel": "VR与AR",
+      "aliases": [
+        "Meta Meta Quest 3"
+      ],
+      "tags": [
+        "VR与AR",
+        "2023"
+      ],
+      "summary": "原厂举出的任务是在自己的茶几上使用虚拟钢琴：用户选择支持混合现实的应用，在彩色透视中辨认实际桌面，再与叠加的内容互动。原厂介绍的pancake光学堆叠帮助缩短前方光学结构，Snapdragon XR2 Gen 2负责随身运算。",
+      "context": "Quest 3的使用场景不只是在戴上头显后离开现实房间。二〇二三年十月十日的日本销售记录对应原Quest 3，它将独立虚拟现实与彩色透视结合，让一部分应用可以把桌面、墙壁和虚拟内容同时放在视野中。用户仍可能选择完全沉浸的游戏，但也可以在自己的房间中观看或操作叠加的内容。这种双向切换是理解该型号的入口；不同容量属于同一产品记录，价格较低的Quest 3S则是另一型号，不能因为名称接近而混用光学和硬件事实。",
+      "design": "原厂介绍的pancake光学堆叠帮助缩短前方光学结构，Snapdragon XR2 Gen 2负责随身运算。彩色透视把相机捕捉的环境重新显示到眼前，而不是让佩戴者直接透过透明镜片看房间。这个区别决定了真实物体也会经过摄像、处理和显示链路。更薄的结构与可调佩戴方式服务于头上的平衡，但舒适感仍取决于人和佩戴条件。设计要同时处理虚拟画面的清晰度、真实环境的可见性和整机负担，这些要求不能只用一个屏幕分辨率来概括。",
+      "usage": "原厂举出的任务是在自己的茶几上使用虚拟钢琴：用户选择支持混合现实的应用，在彩色透视中辨认实际桌面，再与叠加的内容互动。需要进入完全虚拟的环境时，可以切换显示状态；公告明确给出轻敲头显侧面两次以在沉浸和混合视野之间转换的操作。另一个日常任务是在游戏中查看实际房间，重新判断周围位置。这样的切换把“我现在是在看房间还是看虚拟场景”变成可操作的界面状态，而不是每次都必须先摘下头显才能确认。",
+      "significance": "完全沉浸的应用与现实房间之间需要有可理解的切换。Quest 3通过彩色摄像透视保留周围环境，用户可以在茶几上使用虚拟内容，再轻敲头显侧面两次转回另一种视野。第一代Quest主要体现独立运算与随身追踪，Quest 3在同类独立形态中更明确地加入混合任务；HoloLens 2则直接光学透视，现实进入眼睛的路线不同。2023原厂公告提供切换动作与具体应用示例，日本销售记录确认供应节点，示例不等于所有用户效果。它使环境可见性成为佩戴中的状态选择，依旧受相机显示、应用支持和房间条件影响。",
+      "limitations": "透视仍是通过相机显示的画面，不能据此承诺与直接观看现实完全相同的细节、延迟或距离判断。混合现实内容需要应用实际支持，普通虚拟游戏不会因为设备能看见房间就自动适合桌面互动。薄一些的光学结构也没有消除电池、面部接触和长时间佩戴的取舍。这里采用二〇二三年原款资料，不补入其他Quest的眼动功能或后续软件服务状态。对于购买和使用判断，容量、所需应用与佩戴条件应一起考虑；型号具备一种能力，不等于每次运行都能获得相同体验。",
+      "dateLabel": "2023-10-10（日本销售开始）",
+      "dateKind": "launch",
+      "regionVersion": "2023原Quest3；不混Quest3S；容量合并",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "VR/MR独立头显，容量款合并为同型号。",
+        "日本厂商记录确认当日销售。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2023-10-10（日本销售开始）",
+          "sourceIds": [
+            "I150-S024"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "2023原Quest3；不混Quest3S；容量合并",
+          "sourceIds": [
+            "I150-S024",
+            "I150-S025"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "VR/MR独立头显，容量款合并为同型号。",
+          "sourceIds": [
+            "I150-S025"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "日本厂商记录确认当日销售。",
+          "sourceIds": [
+            "I150-S024"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CWI-S004",
+        "I150-S022",
+        "I150-S023",
+        "I150-S024",
+        "I150-S025",
+        "I150-S030",
+        "I150-S031"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S024",
+          "I150-S025"
+        ],
+        "design": [
+          "I150-S024",
+          "I150-S025"
+        ],
+        "usage": [
+          "I150-S024",
+          "I150-S025"
+        ],
+        "significance": [
+          "I150-S024",
+          "I150-S025",
+          "I150-S023",
+          "I150-S022",
+          "I150-S030",
+          "I150-S031",
+          "CWI-S004"
+        ],
+        "limitations": [
+          "I150-S024",
+          "I150-S025"
+        ]
+      },
+      "relatedSlugs": [
+        "oculus-quest-2019",
+        "apple-vision-pro-m2"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "oculus-quest-2019",
+        "apple-vision-pro-m2"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "immersive-expanded-2"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "immersive",
+        "stageId": "immersive-expanded-2",
+        "title": "当代头显与空间操作",
+        "need": "按具体任务理解头戴计算。",
+        "turn": "追踪、透视、输入和内容依赖明确系统版本。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 895,
+      "mediaOpinions": [],
+      "deliveryPacket": "complete-wave-imaging-03.json",
+      "evidenceLimits": [],
+      "id": "121",
+      "readerTakeaway": "注意双击侧面的切换，再分辨眼前现实是直接看见还是由相机显示。Quest 3让独立头显在沉浸与房间内任务之间提供可操作入口。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "sony-playstation-vr2",
+      "year": 2023,
+      "name": "PlayStation VR2",
+      "brand": "Sony Interactive Entertainment",
+      "category": "immersive",
+      "museumCategory": "immersive",
+      "categoryLabel": "VR与AR",
+      "aliases": [
+        "Sony Interactive Entertainment PlayStation VR2"
+      ],
+      "tags": [
+        "VR与AR",
+        "2023"
+      ],
+      "summary": "开始一次游戏时，用户将头显接到PS5，配对并准备Sense控制器，再借助头显相机扫描活动区域，按实际房间修正边界。头显采用OLED显示、内部眼动相机和用于头及控制器追踪的外部观察相机，配套Sense控制器加入触觉和自适应扳机。",
+      "context": "二〇二三年二月二十二日推出的PlayStation VR2仍以游戏主机提供运算，但重新安排了头显与主机之间的连接。此前主机VR的准备涉及外部相机和更多设备关系；这一代把追踪相机放进头显，并以一根USB-C线接到PS5。它面向已经进入主机游戏生态、希望使用身体动作和立体视野进行游戏的人。记录讨论的是原二〇二三年PS5流程，不将后来电脑适配器的能力倒填到首发系统中；原厂“全球”口径同时附有各地区供应条件。",
+      "design": "头显采用OLED显示、内部眼动相机和用于头及控制器追踪的外部观察相机，配套Sense控制器加入触觉和自适应扳机。眼动可以让支持的游戏依据注视位置安排渲染，控制器则把手的移动和触摸转为输入。显示、感知和反馈因此组成一套游戏界面。设计仍保留主机线缆：运算不必全部堆在头上，但活动范围受连接关系影响。内置追踪减少了外部相机设置，并不表示房间可以忽略，也不表示所有反馈效果都会在每款游戏中以同样方式使用。",
+      "usage": "开始一次游戏时，用户将头显接到PS5，配对并准备Sense控制器，再借助头显相机扫描活动区域，按实际房间修正边界。原厂分别列出坐姿、站姿和房间尺度的空间要求，选择方式应跟随具体游戏。游戏中若要找回现实中的控制器，可以通过头显功能按钮或快捷设置查看周围；这项透视用于观看而非录像。进入支持的VR游戏后，玩家转头观察、移动双手进行操作。旁观者在电视上看到的是相应的二维社交画面，和佩戴者眼前的立体视野不是同一个显示任务。",
+      "significance": "主机VR的准备负担来自设备连接和追踪位置，PS VR2用一根USB-C接PS5，并把头与控制器的追踪相机放进头显。用户扫描活动区、确认边界，再进入游戏；眼动与Sense反馈提供新的输入和响应。初代PSVR使用外部相机与处理单元，原VIVE则要布置基站和电脑，追踪任务的分配明显不同。原厂FAQ确认连接和空间流程，也明确原PSVR游戏不能直接运行，说明硬件进步与内容继承不是同一件事。它的价值在减少一种准备组合并丰富游戏输入，实际效果仍取决于游戏利用、PS5和可活动空间。",
+      "limitations": "原厂FAQ明确指出PS VR游戏不能直接在PS VR2上运行，且原首发系统面向PS5而非PS4。购买头显因此还涉及主机和兼容内容，而不仅是比较面板参数。房间尺度模式需要足够空间，坐姿和站姿也要留出手臂活动范围；线缆和家具仍存在于现实中。透视帮助辨认环境，却不是一项录制功能。不同人的镜片位置、眼镜形状和佩戴适配会影响体验。本文没有把二〇二四年电脑适配器的兼容性或后续游戏更新纳入原首发承诺，也没有用一次硬件升级替用户保证旧内容可用。",
+      "dateLabel": "2023-02-22（原厂全球区域发售口径）",
+      "dateKind": "launch",
+      "regionVersion": "PSVR2原2023款，PS5流程；不转用2024PC适配器兼容性",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "原2023系统以PS5供给运算，眼追踪及Sense控制器。",
+        "当日供应Horizon Call of the Mountain。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2023-02-22（原厂全球区域发售口径）",
+          "sourceIds": [
+            "I150-S028"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "PSVR2原2023款，PS5流程；不转用2024PC适配器兼容性",
+          "sourceIds": [
+            "I150-S028",
+            "I150-S029"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "原2023系统以PS5供给运算，眼追踪及Sense控制器。",
+          "sourceIds": [
+            "I150-S028"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "当日供应Horizon Call of the Mountain。",
+          "sourceIds": [
+            "I150-S029"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CWI-S003",
+        "I150-S020",
+        "I150-S021",
+        "I150-S028",
+        "I150-S029",
+        "I150-S072"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S028",
+          "I150-S029"
+        ],
+        "design": [
+          "I150-S028",
+          "I150-S029"
+        ],
+        "usage": [
+          "I150-S028",
+          "I150-S029"
+        ],
+        "significance": [
+          "I150-S028",
+          "I150-S029",
+          "I150-S072",
+          "I150-S020",
+          "I150-S021",
+          "CWI-S003"
+        ],
+        "limitations": [
+          "I150-S028",
+          "I150-S029"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation-vr-cuh-zvr1",
+        "sony-playstation"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "sony-playstation-vr-cuh-zvr1",
+        "sony-playstation"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "immersive-expanded-2"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "immersive",
+        "stageId": "immersive-expanded-2",
+        "title": "当代头显与空间操作",
+        "need": "按具体任务理解头戴计算。",
+        "turn": "追踪、透视、输入和内容依赖明确系统版本。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 880,
+      "mediaOpinions": [],
+      "deliveryPacket": "complete-wave-imaging-03.json",
+      "evidenceLimits": [],
+      "id": "122",
+      "readerTakeaway": "看单线连接与扫描活动区，再看游戏怎样用眼动和双手。PS VR2值得选，因为准备流程与交互输入同时改变，旧游戏兼容却有明确断点。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "apple-vision-pro-m2",
+      "year": 2024,
+      "name": "Apple Vision Pro（M2）",
+      "brand": "Apple",
+      "category": "immersive",
+      "museumCategory": "immersive",
+      "categoryLabel": "VR与AR",
+      "aliases": [
+        "Apple Apple Vision Pro（M2）"
+      ],
+      "tags": [
+        "VR与AR",
+        "2024"
+      ],
+      "summary": "一个具体任务是把浏览器与资料窗口放在面前，观看其中的内容并选择链接。双microOLED显示提供眼前画面，M2承担主要运算，R1处理感知输入。",
+      "context": "二〇二四年二月二日美国门店实际开始销售的第一代Vision Pro，将多个应用窗口放到佩戴者周围，而不是固定在一台桌面显示器上。这里对应M2与R1版本，不沿用后代硬件名称。它的典型入口可以是观看视频、浏览资料或同时排列几个窗口；游戏并非解释这件产品的唯一方式。对惯用触屏和鼠标的人，新的问题是如何在没有实体屏幕边框的空间中选中目标、发出指令，以及让看见的现实房间与数字窗口保持可理解的关系。",
+      "design": "双microOLED显示提供眼前画面，M2承担主要运算，R1处理感知输入。用户通过视线、手势和语音与visionOS交互，外置电池承担随身供电，Digital Crown用于调节虚拟环境的沉浸程度。前方EyeSight显示是面向周围人的交流界面，并不是一块透明玻璃让他人直接看到佩戴者眼睛。把电池移出头部有助于重新分配负担，但也留下连接和携带问题。设计同时服务佩戴者眼前的界面和他人对佩戴状态的理解，因而不能只按内部屏幕评价整机。",
+      "usage": "一个具体任务是把浏览器与资料窗口放在面前，观看其中的内容并选择链接。用户看向界面目标，通过手指捏合进行选择，或用语音输入；窗口的位置与大小可以按任务调整。想专注观看视频时，可以借助Digital Crown调整环境覆盖程度。需要较长时间使用，则要考虑外部电池和接电条件，而不是只看头显是否开机。这样的流程让注视从阅读行为成为输入线索，手部的轻小动作负责确认；两者分工能解释为什么系统需要持续感知眼睛和手，而不只是显示一张很大的屏幕。",
+      "significance": "空间中的应用窗口没有固定屏幕边框，用户需要一套新的选择与确认动作。第一代M2 Vision Pro让视线寻找目标、手指捏合确认，Digital Crown调节环境覆盖，外部电池承担供电。HoloLens 2直接光学透视并区分近远手操作，Vision Pro经摄像显示现实；PS VR2用控制器和PS5服务主机游戏，日常窗口任务又是另一入口。2024美国实际到店与原厂操作说明支持产品及动作，未证明它替代电脑或提升所有工作的效率。它把观察、输入和佩戴供电重新组合，应用适用、设备负担和现实沟通仍需一同判断。",
+      "limitations": "空间窗口不会自动解决所有工作中的输入、文件和应用要求，具体软件能否完成任务仍是关键。透视现实经过电子处理，佩戴者对环境的判断也受到整套系统条件影响。原厂给出的电池使用时间带有测试前提，接电使用与携带电池使用应分开理解，不能把后者描述为全天无约束。本文采用原M2版本及美国开始销售事件，不把其他地区的后续供应日视为同一天，也不把后来版本的配置加入此型号。面部适配、设备负担与周围人的沟通方式，是实际使用中必须与画面能力一起衡量的取舍。",
+      "dateLabel": "2024-02-02（美国实际门店销售）",
+      "dateKind": "launch",
+      "regionVersion": "2024M2/R1原代；容量合并；非后代",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "M2与R1处理运算/感知，双microOLED显示。",
+        "以视线、手势、语音操作visionOS。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2024-02-02（美国实际门店销售）",
+          "sourceIds": [
+            "I150-S032"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "2024M2/R1原代；容量合并；非后代",
+          "sourceIds": [
+            "I150-S032",
+            "I150-S033"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "M2与R1处理运算/感知，双microOLED显示。",
+          "sourceIds": [
+            "I150-S033"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "以视线、手势、语音操作visionOS。",
+          "sourceIds": [
+            "I150-S033"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CWI-S004",
+        "I150-S028",
+        "I150-S029",
+        "I150-S030",
+        "I150-S031",
+        "I150-S032",
+        "I150-S033"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S032",
+          "I150-S033"
+        ],
+        "design": [
+          "I150-S032",
+          "I150-S033"
+        ],
+        "usage": [
+          "I150-S032",
+          "I150-S033"
+        ],
+        "significance": [
+          "I150-S032",
+          "I150-S033",
+          "I150-S030",
+          "I150-S031",
+          "CWI-S004",
+          "I150-S028",
+          "I150-S029"
+        ],
+        "limitations": [
+          "I150-S032",
+          "I150-S033"
+        ]
+      },
+      "relatedSlugs": [
+        "microsoft-hololens-2",
+        "samsung-galaxy-xr"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "microsoft-hololens-2",
+        "samsung-galaxy-xr"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "immersive-expanded-2"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "immersive",
+        "stageId": "immersive-expanded-2",
+        "title": "当代头显与空间操作",
+        "need": "按具体任务理解头戴计算。",
+        "turn": "追踪、透视、输入和内容依赖明确系统版本。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 893,
+      "mediaOpinions": [],
+      "deliveryPacket": "complete-wave-imaging-03.json",
+      "evidenceLimits": [],
+      "id": "123",
+      "readerTakeaway": "先看“望向目标—捏合确认”这组分工，再看外置电池与环境旋钮。原Vision Pro值得选，因为它把空间窗口变成实际可操作的个人设备。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "samsung-galaxy-xr",
+      "year": 2025,
+      "name": "Galaxy XR",
+      "brand": "Samsung",
+      "category": "immersive",
+      "museumCategory": "immersive",
+      "categoryLabel": "VR与AR",
+      "aliases": [
+        "Samsung Galaxy XR"
+      ],
+      "tags": [
+        "VR与AR",
+        "2025"
+      ],
+      "summary": "原厂展示的具体任务是在Google Maps里查看三维地图，并向Gemini询问地点相关问题；观看YouTube内容时，也可以围绕所见内容提出问题。头显使用Snapdragon XR2+ Gen 2与microOLED显示，并以头、手和眼的追踪支持交互。",
+      "context": "Galaxy XR以商品化Android XR头显的身份进入记录，区别于此前Project Moohan原型。二〇二五年十月二十一日美国晚间开始销售的公告，与二〇二六年七月十日英国扩展供应的记录，是两个不同地区的节点。其任务入口包含地图、视频和照片等已有数字服务，而不仅是独立制作的一套虚拟游戏。对用户而言，熟悉的服务如何出现在头戴界面中，如何用身体输入与语音调用它们，和屏幕规格同样重要；地区扩展也不等于发布了硬件新代。",
+      "design": "头显使用Snapdragon XR2+ Gen 2与microOLED显示，并以头、手和眼的追踪支持交互。外置电池、可拆卸遮光部件和摄像透视共同安排佩戴者与现实环境的关系。Android XR作为软件平台，连接Google与Samsung、Qualcomm的协作路径；它不是一块可以不依赖软件服务的通用显示面板。把输入感知和服务能力整合到设备中，减少了某些传统指针操作，但也让内容提供、联网条件和平台支持成为系统的一部分。另售控制器不能被写成每套购买都自带的默认输入。",
+      "usage": "原厂展示的具体任务是在Google Maps里查看三维地图，并向Gemini询问地点相关问题；观看YouTube内容时，也可以围绕所见内容提出问题。另一个操作是借助透视视野，对现实物体画圈使用搜索功能。任务由看见目标、手部操作与语言请求共同完成，返回结果仍需要用户理解和判断。照片的二维转三维属于处理已有素材的功能，不应误写为头显天然拍到了原生立体照片。不同任务对内容和网络的需要不同，实际开始之前应确认使用地区的服务与应用支持。",
+      "significance": "把地图、视频与搜索带到眼前，需要同时安排熟悉服务和新的输入。Galaxy XR在Android XR中结合目光、手势与Gemini，用户可查看三维地图、围绕视频提问，或对透视中现实物体画圈搜索。Vision Pro以视线和捏合操作空间窗口，Quest 3强调独立游戏与房间叠加；三者把内容入口和环境感知组织得不同。2025美国销售及2026英国扩展公告确认这是一件商品，不再是Project Moohan原型。它的使用价值在于已有服务可以进入头戴任务，但搜索和生成回答仍需判断，内容、联网、佩戴及外部电池共同限制实际便利。",
+      "limitations": "智能服务的回答和搜索结果不是头显对现实的无误认定，需要依赖内容与服务条件。相机透视、追踪、显示和随身供电也各有运行边界；厂商电池时长不能理解为所有应用都具有相同续航。另售控制器与旅行配件需要单独考虑，不能混进基础包装承诺。这里没有将原型参数或未经核实的后代型号写进商品记录，也不把英国开售日描述为全球初次上市。头戴地图和视频是否适合某个人，仍取决于佩戴适配、使用任务与平台内容，而不是一次发布会能替所有用户作出判断。",
+      "dateLabel": "2025-10-21（美国22:00ET销售）；2026-07-10英国销售",
+      "dateKind": "launch",
+      "regionVersion": "2025GalaxyXR商品化头显；非此前Project Moohan原型",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "AndroidXR头显，SnapdragonXR2+Gen2。",
+        "英国2026销售公告明确当前商品化范围。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2025-10-21（美国22:00ET销售）；2026-07-10英国销售",
+          "sourceIds": [
+            "I150-S034"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "2025GalaxyXR商品化头显；非此前Project Moohan原型",
+          "sourceIds": [
+            "I150-S034",
+            "I150-S035"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "AndroidXR头显，SnapdragonXR2+Gen2。",
+          "sourceIds": [
+            "I150-S034"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "英国2026销售公告明确当前商品化范围。",
+          "sourceIds": [
+            "I150-S035"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S024",
+        "I150-S025",
+        "I150-S032",
+        "I150-S033",
+        "I150-S034",
+        "I150-S035"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S034",
+          "I150-S035"
+        ],
+        "design": [
+          "I150-S034",
+          "I150-S035"
+        ],
+        "usage": [
+          "I150-S034",
+          "I150-S035"
+        ],
+        "significance": [
+          "I150-S034",
+          "I150-S035",
+          "I150-S032",
+          "I150-S033",
+          "I150-S024",
+          "I150-S025"
+        ],
+        "limitations": [
+          "I150-S034",
+          "I150-S035"
+        ]
+      },
+      "relatedSlugs": [
+        "apple-vision-pro-m2",
+        "meta-quest-3"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "apple-vision-pro-m2",
+        "meta-quest-3"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "immersive-expanded-2"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "immersive",
+        "stageId": "immersive-expanded-2",
+        "title": "当代头显与空间操作",
+        "need": "按具体任务理解头戴计算。",
+        "turn": "追踪、透视、输入和内容依赖明确系统版本。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 873,
+      "mediaOpinions": [],
+      "deliveryPacket": "complete-wave-imaging-03.json",
+      "evidenceLimits": [],
+      "id": "124",
+      "readerTakeaway": "看用户怎样把目光、画圈与提问连成一次任务。Galaxy XR值得选，是因为Android服务在一个明确销售的头显中有了可操作入口。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "sony-betamax-sl-6300",
+      "year": 1975,
+      "name": "Betamax SL-6300",
+      "brand": "Sony",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Sony Betamax SL-6300"
+      ],
+      "tags": [
+        "摄影与视频",
+        "1975"
+      ],
+      "summary": "一个清楚的任务是将可用的节目影像保存在磁带盒上，之后通过配套电视重放。Betamax采用半英寸磁带盒，Sony历史资料以接近平装书大小描述这种盒式载体。",
+      "context": "SL-6300属于一九七五年日本的独立Betamax录像机，而不是美国当时的电视与录像组合机。Sony将家庭录像描述为让人按自己的时间看节目，这个任务与电视即时接收广播的节奏不同：影像先保存到可取出的载体，再在以后重放。四月十六日是系统介绍节点，本记录保留型号推出年份，不将其扩大成每个地区的同日零售。它接在电视观看和后来的拍摄设备之间，强调的是保存、取回和安排观看时间，而不要求使用者自己拿相机制作节目。",
+      "design": "Betamax采用半英寸磁带盒，Sony历史资料以接近平装书大小描述这种盒式载体。将磁带收进盒内，改变了用户面对裸露卷盘的操作关系；保存的影像也成为可以拿在手里、分别收纳的物件。独立录像机与电视组合机则体现不同系统组织：一种把显示和记录合在家具式整机里，另一种让录像部分作为单独设备存在。盒式媒体减少部分装带准备，却仍保留磁带传送、机械机构和信号连接。小一些的载体不是自动消除所有家庭使用成本的答案。",
+      "usage": "一个清楚的任务是将可用的节目影像保存在磁带盒上，之后通过配套电视重放。使用者需要准备兼容磁带、合适的节目来源与显示连接，安排录制，再保管带盒以便下次观看。找到之前的内容还涉及磁带顺序和位置，这与后来按文件名点击视频的方式不同。这里不为SL-6300补写未经核实的内置电视调谐器、定时附件或某个具体按键流程；当年的系统资料区分了独立机与带电视、定时功能的组合系统，因此“保存节目”这一任务必须连同配套条件理解。",
+      "significance": "电视节目按电台的时间出现，SL-6300加入“先记录、后观看”这一中间环节。630TS或TV8-301负责接收当时的节目，独立录像机则将可用信号保存到磁带盒，用户可以拿取、收纳并在以后重放。CCD-V8后来把摄像与录像一起携带，使用户还可以制造自己的画面；记录广播与现场拍摄不是同一任务。Sony 1975年报明确日本有独立机与电视组合系统，并描述按自己时间观看的用途，支持商品和任务组合。它让影像与播出时间之间多出选择，但配套信号、播放条件及顺序磁带仍决定录什么、怎样找回。",
+      "limitations": "磁带记录需要合适的信号与连接，也需要保存和维护载体；盒子可取出不等于内容能够无条件长期保存。顺序媒体寻找片段的方式与数字文件不同，机械设备状态也会影响可用性。本文没有借用SL-7300的调谐功能或美国组合机配置来描述日本SL-6300，也没有把磁带产品后来的结束节点当作这台机器的停售日。格式竞争的结果不在这里简化成一个画质参数胜负。由于未取得逐项可读的SL-6300原操作手册，具体装配、按钮和附件流程仍留在说明边界之外，读者不应据本条替代实际维修或操作资料。",
+      "dateLabel": "1975年（SL-6300推出）；4月16日为Betamax系统介绍日期",
+      "dateKind": "launch",
+      "regionVersion": "1975日本独立录像机；不混美国电视组合机或带调谐器SL-7300",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1975年（SL-6300推出）；4月16日为Betamax系统介绍日期",
+          "sourceIds": [
+            "L:ER13",
+            "L:ER14"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "1975日本独立录像机；不混美国电视组合机或带调谐器SL-7300",
+          "sourceIds": [
+            "L:ER13",
+            "L:ER14"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CWI-S006",
+        "I150-S011",
+        "I150-S012",
+        "I150-S013",
+        "I150-S014",
+        "I150-S036",
+        "I150-S037",
+        "L:ER13",
+        "L:ER14",
+        "L:ER15"
+      ],
+      "paragraphSources": {
+        "context": [
+          "L:ER13",
+          "L:ER14",
+          "L:ER15"
+        ],
+        "design": [
+          "L:ER13",
+          "L:ER14",
+          "L:ER15"
+        ],
+        "usage": [
+          "L:ER13",
+          "L:ER14",
+          "L:ER15"
+        ],
+        "significance": [
+          "L:ER13",
+          "L:ER14",
+          "L:ER15",
+          "I150-S011",
+          "I150-S012",
+          "I150-S013",
+          "I150-S014",
+          "I150-S037",
+          "I150-S036",
+          "CWI-S006"
+        ],
+        "limitations": [
+          "L:ER13",
+          "L:ER14",
+          "L:ER15"
+        ]
+      },
+      "relatedSlugs": [
+        "rca-630ts"
+      ],
+      "deferredRelatedSlugs": [
+        "sony-ccd-v8"
+      ],
+      "relatedModelProposals": [
+        "rca-630ts",
+        "sony-ccd-v8"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-1",
+        "title": "电子控制与录像介质",
+        "need": "控制拍摄，并将画面保存在介质上。",
+        "turn": "胶片相机的电子部件与录像设备分别解决任务。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 913,
+      "mediaOpinions": [],
+      "deliveryPacket": "complete-wave-imaging-03.json",
+      "evidenceLimits": [],
+      "id": "125",
+      "readerTakeaway": "先把“录下”和“以后再看”分成两个动作，再看磁带盒连接了什么。SL-6300的价值是给观看增加时间安排，不等于原机自带所有调谐和定时功能。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "canon-ae-1",
+      "year": 1976,
+      "name": "AE-1",
+      "brand": "Canon",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Canon AE-1"
+      ],
+      "tags": [
+        "摄影与视频",
+        "1976"
+      ],
+      "summary": "拍摄前先装入合适电池并检查，按胶卷设置ASA，将胶片片头装到收片轴并确认齿孔啮合。AE-1使用FD镜头系统、电子控制快门和机内测光，取景器中的裂像与微棱镜辅助手动对焦。",
+      "context": "一九七六年四月的AE-1处在胶片摄影仍需要装片、对焦和等待冲洗的日常流程中。它的电子化集中在曝光控制：摄影者选择快门速度，由相机配合测光决定光圈。对希望拍摄运动或控制手持模糊的人，这个分工有明确用途，也保留了摄影者的选择。记录对应原AE-1，不是后来带程序自动曝光的AE-1 Program。Canon博物馆的上市月份与原厂手册的操作说明分开使用，晚出的手册不能被当作首次销售日期。",
+      "design": "AE-1使用FD镜头系统、电子控制快门和机内测光，取景器中的裂像与微棱镜辅助手动对焦。自动曝光没有替代镜头对焦环，也没有把胶片变成电子存储；机身仍保留过片杆和倒片机构。原厂将微电脑与模块化生产作为降低零件和装配负担的设计背景，这是制造端的解释，不等于每位用户都能感知同样收益。功能分工清楚地落在机身表面：拨盘选择时间，镜头环处理焦点，取景器反馈曝光，机械过片则准备下一张。",
+      "usage": "拍摄前先装入合适电池并检查，按胶卷设置ASA，将胶片片头装到收片轴并确认齿孔啮合。采用自动曝光时，兼容镜头的光圈环置于A；摄影者选择快门速度，在取景器中手动对焦，轻半按快门查看测光，再按到底曝光。拍完一张需要扳动过片杆才能拍下一张。原手册还要求通过倒片旋钮的转动确认胶片确实前进，携带不用时锁住快门。这些步骤说明便利发生在曝光判断的一部分，装片正确和稳定持机仍由使用者完成。",
+      "significance": "胶片摄影需要同时安排快门与光圈，AE-1把这组配合拆开：用户先选快门，电子测光为兼容镜头安排光圈，焦点和过片仍由手完成。F3后来采用光圈优先，把用户保留的选择换成景深相关参数；EOS 650再让自动对焦和马达输片进入流程。Canon型号档案与原手册明确AE-1的快门优先、A档、半按测光及过片动作，因而可以把电子化落实到拍一张的过程。它并未一次自动化所有步骤：对焦、装片、稳定持机与冲洗核查仍存在。保留AE-1能解释日常摄影中部分自动化如何协助判断，而不是只把胶片与数码分成两个时代。",
+      "limitations": "电子快门和测光依赖电池，自动曝光也要以胶卷感光度设置正确为前提。手动对焦与持机不稳仍可能让照片失败，曝光完成后不能在机背立刻核查成片。胶片张数、冲洗和再次装片构成使用成本，自动化没有消除这些环节。本文不把可选Winder写成默认电动过片，也不将AE-1 Program的程序模式加入原款。手册镜像保存的是Canon原文，可用于确认操作，但本条不是对某一台旧机状态的验收；多年后机身、电池仓与镜头的具体健康情况需要另行判断。",
+      "dateLabel": "1976-04（Canon资料的Marketed时间）",
+      "dateKind": "launch",
+      "regionVersion": "日本1976初代AE-1，非1981 AE-1 Program",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1976-04（Canon资料的Marketed时间）",
+          "sourceIds": [
+            "L:H09A"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "日本1976初代AE-1，非1981 AE-1 Program",
+          "sourceIds": [
+            "L:H09A"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CWI-S005",
+        "I150-S003",
+        "I150-S004",
+        "I150-S040",
+        "I150-S041",
+        "L:H09A"
+      ],
+      "paragraphSources": {
+        "context": [
+          "L:H09A",
+          "CWI-S005"
+        ],
+        "design": [
+          "L:H09A",
+          "CWI-S005"
+        ],
+        "usage": [
+          "L:H09A",
+          "CWI-S005"
+        ],
+        "significance": [
+          "L:H09A",
+          "CWI-S005",
+          "I150-S041",
+          "I150-S040",
+          "I150-S003",
+          "I150-S004"
+        ],
+        "limitations": [
+          "L:H09A",
+          "CWI-S005"
+        ]
+      },
+      "relatedSlugs": [],
+      "deferredRelatedSlugs": [
+        "canon-eos-650",
+        "kodak-dcs-1991"
+      ],
+      "relatedModelProposals": [
+        "canon-eos-650",
+        "kodak-dcs-1991"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-1",
+        "title": "电子控制与录像介质",
+        "need": "控制拍摄，并将画面保存在介质上。",
+        "turn": "胶片相机的电子部件与录像设备分别解决任务。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 860,
+      "mediaOpinions": [],
+      "deliveryPacket": "complete-wave-imaging-03.json",
+      "evidenceLimits": [],
+      "id": "126",
+      "readerTakeaway": "先看摄影者决定哪个参数，再看相机接手哪个配合。原AE-1值得选，因为自动曝光发生在仍需手动对焦与过片的完整胶片任务中。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    }
+  ],
+  "sources": [
+    {
+      "id": "CWI-S003",
+      "title": "Setting up original VIVE",
+      "publisher": "HTC",
+      "url": "https://www.vive.com/us/support/vive/category_howto/setting-up-for-the-first-time.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "原版VIVE电脑软件、硬件与活动区域设置；移动基站后重设",
+      "verificationMethod": "原厂支持页检索摘录",
+      "limits": "原版VIVE目录；不借VIVE Pro或PRE资料扩展结构。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测"
+    },
+    {
+      "id": "CWI-S004",
+      "title": "Getting around HoloLens 2",
+      "publisher": "Microsoft",
+      "url": "https://learn.microsoft.com/en-us/hololens/hololens2-basic-usage",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "近处触碰/捏合、远处手射线、双手Start；手追踪范围",
+      "verificationMethod": "正文读取至基本交互与手追踪段",
+      "limits": "页面含后期软件更新；不把单手Start/21H1键盘新功能写进2019首发。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测"
+    },
+    {
+      "id": "CWI-S005",
+      "title": "Canon AE-1 Instructions Part 1（1980版原手册扫描）",
+      "publisher": "Canon / Butkus档案镜像",
+      "url": "https://www.cameramanuals.org/canon_pdf/canon_ae-1_pt1.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "原AE-1装电池、ASA、装片、半按测光、手动过片及锁定",
+      "verificationMethod": "原PDF正文22页；版权页Canon 1980，非AE-1 Program",
+      "limits": "第三方保存原厂手册；晚于1976上市，操作同原AE-1，不用手册日期替代上市日期。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测"
+    },
+    {
+      "id": "CWI-S006",
+      "title": "Sony CCD-V8 Operating Instructions（原手册镜像索引）",
+      "publisher": "Sony / ManualOwl镜像",
+      "url": "https://www.manualowl.com/m/Sony/CCD-V8/Manual/480227",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "CCD-V8原手册页15、19索引：对焦环、变焦、START/STOP；非V8AF",
+      "verificationMethod": "原手册逐页摘录索引；具体页另开Cache miss",
+      "limits": "只用共有基本拍摄动作；镜像含美国附件标记，不转用其电源/调谐附件于日本配置。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测"
+    },
+    {
+      "id": "I150-S003",
+      "title": "EOS 650 / EOS 650 QD",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/product/film122.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1987年3月EOS650，QD同年9月；EF全电子联接与自动输片",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S003",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S004",
+      "title": "EOS 620/650 Instruction Manual",
+      "publisher": "Canon",
+      "url": "https://global.canon/ja/c-museum/wp-content/uploads/2017/01/film122-manual-en.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual",
+      "verifiedScope": "标题明确EOS620/650；操作手册原机构索引",
+      "verificationMethod": "原PDF可打开88页，但无可解析正文；尝试两页截图未获得可读图像；操作采用I150-S003博物馆完整规格。",
+      "limits": "未据此手册推断细节；保留原厂手册索引作用。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S004",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S011",
+      "title": "RCA tabletop 630TS, 1946–1948",
+      "publisher": "The Henry Ford",
+      "url": "https://www.thehenryford.org/collections/explore/artifact/178373",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object",
+      "verifiedScope": "具体藏品00.4.4595；630TS桌面形态、1946–1948制造、115V/60Hz铭牌",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "独立博物馆实物编目；与RCA原手册不同角色",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S011",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S012",
+      "title": "RCA 630TS Instructions",
+      "publisher": "RCA / Early Television Foundation mirror",
+      "url": "https://www.earlytelevision.org/pdf/rca_630TS_instruction_manual.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-mirror",
+      "verifiedScope": "电源/音量旋钮、频道窗口、15–20秒预热、声音微调和画面调整",
+      "verificationMethod": "原RCA手册第5页操作段检索索引摘录；PDF正文零行、截图Cache miss",
+      "limits": "未通读图像PDF；仅采用清楚的操作段摘录。",
+      "independence": "原厂说明书镜像；不是第二篇独立研究",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S012",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S013",
+      "title": "Television milestones",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-c.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "TV8-301 1960；KV-1310 1968；晶体管便携机与Trinitron结构",
+      "verificationMethod": "网页正文（型号段）",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S013",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S014",
+      "title": "Time Capsule Vol.21",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/capsule/21/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1960年5月、8英寸便携电视",
+      "verificationMethod": "正文读取，TV8-301产品段",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S014",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S020",
+      "title": "Vive consumer shipment begins",
+      "publisher": "HTC",
+      "url": "https://www.htc.com/cn/newsroom/2016-04-06/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2016-04-05消费者版首批预订开始发货，中国大陆付尾款用户",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S020",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S021",
+      "title": "HTC Japan retail partners",
+      "publisher": "HTC",
+      "url": "https://www.htc.com/jp/newsroom/2016-07-07/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2016年4月全球销售，7月日本实体零售；与Valve共同开发360度room-scale",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S021",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S022",
+      "title": "F8 2019 Day1",
+      "publisher": "Facebook",
+      "url": "https://about.fb.com/news/2019/04/f8-2019-day-1/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2019-05-21 Quest计划发货；独立头显不绑PC",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S022",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S023",
+      "title": "Powered by AI Oculus Insight",
+      "publisher": "Meta AI",
+      "url": "https://ai.meta.com/blog/powered-by-ai-oculus-insight/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2019-08-22确认Quest已可获得；Insight头显/控制器6DoF追踪",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S023",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S024",
+      "title": "Meta Quest3 Japan on sale today",
+      "publisher": "Meta",
+      "url": "https://about.fb.com/ja/news/2023/10/meta-quest-3-popup-event-shibuya-shinjuku/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2023-10-10日本实际销售开始",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S024",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S025",
+      "title": "Meet Meta Quest3",
+      "publisher": "Meta",
+      "url": "https://about.fb.com/news/2023/09/meet-meta-quest-3-mixed-reality-headset/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2023-09-27公告，10-10上市，128/512GB合并，mixed reality",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S025",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S028",
+      "title": "PlayStation VR2 ultimate FAQ",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/2023/02/06/playstation-vr2-the-ultimate-faq/?sf264031684=1",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2023-02-22各区域计划销售；PS5、眼追踪、Sense、HDR、原套装",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S028",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S029",
+      "title": "Horizon Call of the Mountain launches today",
+      "publisher": "Guerrilla / Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/2023/02/22/horizon-call-of-the-mountain-launches-today-on-ps-vr2/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2023-02-22PSVR2实际游戏供应，4K HDR/110度视野；属同集团游戏团队",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S029",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S030",
+      "title": "HoloLens2 shipping to customers",
+      "publisher": "Microsoft",
+      "url": "https://news.microsoft.com/source/features/innovation/hololens-2-shipping-to-customers/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2019-11-07开始向客户出货的原厂故事",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S030",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S031",
+      "title": "About HoloLens2 hardware",
+      "publisher": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/hololens/hololens2-hardware?source=recommendations",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-documentation",
+      "verifiedScope": "光学透视波导、Windows Holographic、手/眼与头追踪、需要账号",
+      "verificationMethod": "原机构文档检索摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S031",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S032",
+      "title": "VisionPro arrives in stores US",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2024/02/apple-vision-pro-arrives-in-apple-store-locations-across-the-us/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2024-02-02美国实际门店销售；原M2代",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S032",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S033",
+      "title": "VisionPro available February2",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "M2/R1、microOLED、视线手势语音、外部电池；2024首代",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S033",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S034",
+      "title": "Introducing Galaxy XR US",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/us/introducing-galaxy-xr-opening-new-worlds/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2025-10-21 22:00ET美国销售、AndroidXR、XR2+Gen2、microOLED",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S034",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S035",
+      "title": "GalaxyXR available to buy UK",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/uk/galaxy-xr-is-available-to-buy-now-in-the-uk",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2026-07-10英国实际销售、AndroidXR、眼/手/语音控制",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S035",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S036",
+      "title": "Video camera milestones",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/SonyInfo/CorporateInfo/History/sonyhistory-f.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "CCD-V8 1985年1月上市、250000像素CCD、8mm；CCDTR55 1989",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S036",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S037",
+      "title": "Early Stages Imaging Business",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-06.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "CCD-V8于1985-01-21销售、8mm格式竞争；CCDTR55 1989公告",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S037",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S040",
+      "title": "Corporate History",
+      "publisher": "Nikon",
+      "url": "https://www.nikon.com/company/corporate/history/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "F3 1980；COOLPIX300 1997；D1 1999年9月上市",
+      "verificationMethod": "正文读取",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S040",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S041",
+      "title": "Debut of Nikon F3",
+      "publisher": "Nikon",
+      "url": "https://imaging.nikon.com/imaging/information/chronicle/history-f3/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1980年3月F3上市，电子光圈优先曝光、SR44电源",
+      "verificationMethod": "正文读取",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S041",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S072",
+      "title": "CUH-ZVR1U instruction manual",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://manuals.playstation.net/document/pdf/CUH-ZVR1U_2.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "北美CUH-ZVR1型号、PS4/Camera、头带/线控/处理盒、使用空间、参数",
+      "verificationMethod": "PDF正文：第2、7、9–14页（零基页）",
+      "limits": "未验实物；手册提示软件版本变化。",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案",
+      "originalId": "I150-S072",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "L:ER13",
+      "title": "Recorder & Player milestones — SL-6300",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-d.html",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "1975 SL-6300为Sony首台Beta系统VCR；半英寸磁带、卡带和时移宣传。",
+      "sourceType": "manufacturer-history",
+      "independence": "Sony",
+      "commercialDisclosure": "厂商来源，存在产品宣传利益",
+      "verificationMethod": "原网页正文",
+      "limits": "不是图片转载许可，也不是独立用户效果研究。",
+      "originalId": "ER13",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:ER14",
+      "title": "Beta and microMV cassette shipment termination notice",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/ja/SonyInfo/News/Press/201511/15-1110/",
+      "publishedOn": "2015-11-10",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "2015公告回顾1975 SL-6300及30/60分钟K-30/K-60卡带；2016年3月计划结束Beta卡带出货不等于1975机器停产日期。",
+      "sourceType": "manufacturer-announcement",
+      "independence": "Sony",
+      "commercialDisclosure": "厂商来源，存在产品宣传利益",
+      "verificationMethod": "原网页正文",
+      "limits": "不是图片转载许可，也不是独立用户效果研究。",
+      "originalId": "ER14",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:ER15",
+      "title": "Sony Annual Report 1975",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/IR/library/ar/1975-E.pdf",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "1975-04-16介绍Betamax系统；当时日本有三种系统，美国仅销售电视与录像机组合机。不能将系统公布日无条件等同SL-6300全球零售日。",
+      "sourceType": "manufacturer-report",
+      "independence": "Sony",
+      "commercialDisclosure": "厂商来源，存在产品宣传利益",
+      "verificationMethod": "原PDF正文",
+      "limits": "不是图片转载许可，也不是独立用户效果研究。",
+      "originalId": "ER15",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:H09A",
+      "title": "AE-1 — Canon Camera Museum",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/product/film93.html",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "1976年4月、35mm SLR、FD卡口、快门优先AE与手动、电子控制快门、手动过片及选配Winder A；不套AE-1 Program功能。",
+      "sourceType": "厂家产品原始规格档案",
+      "independence": "厂家档案，非独立使用评价",
+      "commercialDisclosure": "品牌博物馆宣传；成本与量产效果只视为厂家叙述。",
+      "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+      "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "originalId": "H09A",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    }
+  ],
+  "importInstructions": [
+    "Use editorial-import-manifest.json in order; check live slugs/IDs before mutation.",
+    "Already imported 14 are revision proposals only; do not append duplicates.",
+    "Original40 production text remains preserved; no original40 records in these packets.",
+    "Copy museum prose and readerTakeaway with paragraph sources; future product-database fields are not required.",
+    "Actual page/build validation belongs to original implementation chat."
+  ],
+  "assembledOn": "2026-10-13"
+}

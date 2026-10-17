@@ -1,0 +1,32 @@
+{
+  "importedOn": "2026-10-11",
+  "actualCompleteProducts": 54,
+  "originalProductsPreserved": 40,
+  "newCompleteProducts": 14,
+  "researchSelection": {
+    "rawScreeningRecords": 263,
+    "distinctScreeningRecords": 262,
+    "formalSelectedIncludingExisting": 216,
+    "existingImported": 40,
+    "newFormalSelected": 176,
+    "newCompleteTexts": 14,
+    "existingPlusNewCompleteTexts": 54,
+    "newSelectedAwaitingCompleteText": 162,
+    "statusCounts": {
+      "selected": 216,
+      "pending": 34,
+      "rejected": 4,
+      "discovery": 8
+    },
+    "sourceRecords": 571,
+    "distinctSourceURLs": 539
+  },
+  "readingLines": 16,
+  "stages": 45,
+  "nonemptyStages": 28,
+  "baselineHashes": [
+    "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "e2f4f4a8fce0dc0a4c0166c62f29fe538124d72098f1368a8fc9ad0ae64e2e34"
+  ],
+  "packet": "docs/expansion/complete-batch-14.json"
+}

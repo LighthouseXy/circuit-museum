@@ -1,0 +1,450 @@
+{
+  "query": "KitchenAid H-5",
+  "checkedOn": "2026-10-15",
+  "result_count": 5,
+  "page_count": 1,
+  "page_size": 20,
+  "page": 1,
+  "results": [
+    {
+      "id": "c539f527-26b9-47db-b438-284e26aa415f",
+      "title": "KItchenAid Artisan - ND0_5479",
+      "indexed_on": "2016-11-16T20:25:48.791719Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/15216811@N06/9533930884",
+      "url": "https://live.staticflickr.com/3825/9533930884_9bedd400d5_b.jpg",
+      "creator": "Nicola since 1972",
+      "creator_url": "https://www.flickr.com/photos/15216811@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "5ksm7580x",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "artisan",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "black",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "kitchenaid",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "nero",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "car",
+          "accuracy": 0.93017,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "indoors",
+          "accuracy": 0.9046,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "lens",
+          "accuracy": 0.92226,
+          "unstable__provider": "clarifai"
+        }
+      ],
+      "attribution": "\"KItchenAid Artisan - ND0_5479\" by Nicola since 1972 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 576,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/c539f527-26b9-47db-b438-284e26aa415f/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/c539f527-26b9-47db-b438-284e26aa415f/",
+      "related_url": "https://api.openverse.org/v1/images/c539f527-26b9-47db-b438-284e26aa415f/related/",
+      "unstable__sensitivity": []
+    },
+    {
+      "id": "e09eadbe-ae2e-4efe-b6cc-044e44dd23a2",
+      "title": "KItchenAid Artisan - ND0_5474",
+      "indexed_on": "2016-11-16T23:42:00.243407Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/15216811@N06/9533927964",
+      "url": "https://live.staticflickr.com/7456/9533927964_1affb98840_b.jpg",
+      "creator": "Nicola since 1972",
+      "creator_url": "https://www.flickr.com/photos/15216811@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "5ksm7580x",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "artisan",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "black",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "kitchenaid",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "nero",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "retro",
+          "accuracy": 0.90893,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "vintage",
+          "accuracy": 0.93134,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "wine",
+          "accuracy": 0.93947,
+          "unstable__provider": "clarifai"
+        }
+      ],
+      "attribution": "\"KItchenAid Artisan - ND0_5474\" by Nicola since 1972 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 576,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/e09eadbe-ae2e-4efe-b6cc-044e44dd23a2/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/e09eadbe-ae2e-4efe-b6cc-044e44dd23a2/",
+      "related_url": "https://api.openverse.org/v1/images/e09eadbe-ae2e-4efe-b6cc-044e44dd23a2/related/",
+      "unstable__sensitivity": []
+    },
+    {
+      "id": "35c41042-daf4-45a2-b1b9-d3bf46d0d70a",
+      "title": "KItchenAid Artisan - ND0_5478",
+      "indexed_on": "2016-11-16T20:22:19.547973Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/15216811@N06/9531152583",
+      "url": "https://live.staticflickr.com/2882/9531152583_1e0e4a6d20_b.jpg",
+      "creator": "Nicola since 1972",
+      "creator_url": "https://www.flickr.com/photos/15216811@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "5ksm7580x",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "artisan",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "black",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "kitchenaid",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "nero",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "analogue",
+          "accuracy": 0.93131,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "indoors",
+          "accuracy": 0.90885,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "instrument",
+          "accuracy": 0.92637,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "lens",
+          "accuracy": 0.9564,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "monochrome",
+          "accuracy": 0.93951,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "precision",
+          "accuracy": 0.96026,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "studio",
+          "accuracy": 0.95121,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "technology",
+          "accuracy": 0.91374,
+          "unstable__provider": "clarifai"
+        }
+      ],
+      "attribution": "\"KItchenAid Artisan - ND0_5478\" by Nicola since 1972 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 576,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/35c41042-daf4-45a2-b1b9-d3bf46d0d70a/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/35c41042-daf4-45a2-b1b9-d3bf46d0d70a/",
+      "related_url": "https://api.openverse.org/v1/images/35c41042-daf4-45a2-b1b9-d3bf46d0d70a/related/",
+      "unstable__sensitivity": []
+    },
+    {
+      "id": "db72566b-daeb-4550-906f-215897aca12b",
+      "title": "KItchenAid Artisan - ND0_5477",
+      "indexed_on": "2020-04-09T03:39:22.955761Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/15216811@N06/9531154529",
+      "url": "https://live.staticflickr.com/3801/9531154529_6b1dec2910_b.jpg",
+      "creator": "Nicola since 1972",
+      "creator_url": "https://www.flickr.com/photos/15216811@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "5ksm7580x",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "artisan",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "black",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "kitchenaid",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "nero",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "auto racing",
+          "accuracy": 0.95099,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "bike",
+          "accuracy": 0.98967,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "car",
+          "accuracy": 0.97271,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "chrome",
+          "accuracy": 0.94276,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "glazed",
+          "accuracy": 0.91264,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "indoors",
+          "accuracy": 0.90168,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "industry",
+          "accuracy": 0.90999,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "machinery",
+          "accuracy": 0.91461,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "race",
+          "accuracy": 0.91453,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "steel",
+          "accuracy": 0.93271,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "technology",
+          "accuracy": 0.92508,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "transportation system",
+          "accuracy": 0.90881,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "vehicle",
+          "accuracy": 0.96807,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "wheel",
+          "accuracy": 0.97069,
+          "unstable__provider": "clarifai"
+        }
+      ],
+      "attribution": "\"KItchenAid Artisan - ND0_5477\" by Nicola since 1972 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 576,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/db72566b-daeb-4550-906f-215897aca12b/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/db72566b-daeb-4550-906f-215897aca12b/",
+      "related_url": "https://api.openverse.org/v1/images/db72566b-daeb-4550-906f-215897aca12b/related/",
+      "unstable__sensitivity": []
+    },
+    {
+      "id": "a44dd01d-cfd5-4ba6-9f96-1fe5b0c2a690",
+      "title": "KItchenAid Artisan - ND0_5476",
+      "indexed_on": "2020-04-09T03:39:22.955761Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/15216811@N06/9533937226",
+      "url": "https://live.staticflickr.com/5544/9533937226_fcf9369d7b_b.jpg",
+      "creator": "Nicola since 1972",
+      "creator_url": "https://www.flickr.com/photos/15216811@N06",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "5ksm7580x",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "artisan",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "black",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "kitchenaid",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "nero",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "auto racing",
+          "accuracy": 0.93717,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "dark",
+          "accuracy": 0.97523,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "indoors",
+          "accuracy": 0.96512,
+          "unstable__provider": "clarifai"
+        }
+      ],
+      "attribution": "\"KItchenAid Artisan - ND0_5476\" by Nicola since 1972 is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 576,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/a44dd01d-cfd5-4ba6-9f96-1fe5b0c2a690/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/a44dd01d-cfd5-4ba6-9f96-1fe5b0c2a690/",
+      "related_url": "https://api.openverse.org/v1/images/a44dd01d-cfd5-4ba6-9f96-1fe5b0c2a690/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

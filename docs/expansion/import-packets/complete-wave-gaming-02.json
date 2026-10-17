@@ -1,0 +1,1383 @@
+{
+  "schemaVersion": 2,
+  "checkedOn": "2026-10-11",
+  "status": "reviewed-staged-import-packet",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ],
+    "snapshotPath": "docs/expansion/base-40-preserved.json"
+  },
+  "exhibits": [
+    {
+      "slug": "nintendo-super-famicom",
+      "name": "Super Famicom",
+      "brand": "Nintendo",
+      "year": 1990,
+      "dateLabel": "1990年（日本原厂逐型推出记录）",
+      "dateKind": "launch",
+      "regionVersion": "原代日本产品名；不混后期小修订",
+      "context": "日本Super Famicom是任天堂在一九九〇年推出的家用游戏主机，展品保持这一原代名称，不把北美的机壳和按钮设计混入。它与馆内Famicom形成直接的家用路线，也可与同年代的光盘主机并列。游戏仍以卡带进入主机，画面通过电视呈现，双手控制器负责把动作送给游戏。新代平台的变化不必只从运算参数解释，控制器上更多的按钮同样决定软件能够怎样安排操作。原开发者回忆明确讨论日本与欧洲原机设计，这提供了一个有归属的设计视角；展览采用能够支持的结构，保留厂商回忆和独立用户体验之间的差别。",
+      "design": "原日本控制器用圆润两端承接持握，方向输入在左，A、B、X、Y四个彩色按钮在右，另有肩部输入。宫本茂在开发者访谈中解释了按钮分组与位置的考虑；这些说法是参与者对原设计的回忆，不是对任何手型都舒适的验证。卡带也不仅是一个软件容器，访谈以SuperFX说明部分作品可以把额外处理硬件放进卡带。这使平台的能力不仅由主机盒子决定，具体内容的物理载体也可能参与运算。对于观众，手柄和卡带可以分开阅读：一个安排手指能做什么，另一个承接作品怎样被装入及执行。",
+      "usage": "使用者先安排电视连接、电源和控制器，再选好与日本主机相应的卡带，将内容装入后开机进入游戏。方向键负责移动或选择，右侧按钮及肩部按钮的用途由具体软件说明，不能给所有作品套一组相同动作。换游戏需要处理另一件实体卡带，选择作品的过程也发生在机身之外的收藏和摆放中。部分软件的存档与附加功能应依其原说明理解，而不是借用Classic Mini的菜单存档或回放。展览可用一次拿卡、装入、持握和按键的流程说明家用平台怎样工作：电视提供共同画面，主机处理内容，控制器把手指动作组织成软件能够识别的输入。",
+      "significance": "Super Famicom在展览中可以承担一条普通而具体的阅读线：当游戏所需动作增加，控制器怎样把新按钮纳入双手能够找到的位置。与Famicom相比，按钮的分组和位置变化可以直接被观察；与后来的Nintendo64相比，方向键为主的布局又能和模拟摇杆形成对照。卡带中可增加处理硬件，也说明平台更新不只发生在重新买主机时，某个作品本身就可能改变执行条件。这里以开发者解释和结构做策展比较，不将一项设计策略写成所有后继控制器的唯一源头。观众从动作、媒介与作品的相接关系理解新代际，可以比仅记住一个位数更接近实际使用。",
+      "limitations": "日本与欧洲原设计和北美SuperNES的按钮、机壳存在差别，品牌名称近似不代表外观及地区条件相同。原机使用卡带，不具有后来Classic Mini的内置游戏列表、暂停点或回放；复刻产品的方便操作不能倒写到一九九〇年的设备。更多按钮提供额外输入，也需要软件给出意义及玩家学习相应动作。部分卡带带额外硬件的例子不能推广成每个游戏都有同一种扩展。展品保留这些取舍，让电视、卡带和双手工具的分工清楚可见：家用平台能够承接许多内容，却仍需要正确版本、具体作品及相应操作知识，结构的丰富与使用的准备一起增加。",
+      "id": "75",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Nintendo Super Famicom"
+      ],
+      "tags": [
+        "游戏与互动",
+        "家用游戏设备",
+        "1990年"
+      ],
+      "summary": "日本Super Famicom是任天堂在一九九〇年推出的家用游戏主机，展品保持这一原代名称，不把北美的机壳和按钮设计混入。它与馆内Famicom形成直接的家用路线，也可与同年代的光盘主机并列。游戏仍以……",
+      "features": [
+        "ABXY彩色按钮及肩部输入",
+        "卡带媒介，部分作品可附处理硬件"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "1990年（日本原厂逐型推出记录）；原代日本产品名；不混后期小修订",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "原厂逐型记录1990年推出及家用主机分类；具体操作另核后写稿。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012",
+        "CWG-S008"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S012",
+          "CWG-S008"
+        ],
+        "design": [
+          "G150-S012",
+          "CWG-S008"
+        ],
+        "usage": [
+          "G150-S012",
+          "CWG-S008"
+        ],
+        "significance": [
+          "G150-S012",
+          "CWG-S008"
+        ],
+        "limitations": [
+          "G150-S012",
+          "CWG-S008"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-famicom",
+        "nintendo-64"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-famicom",
+        "nintendo-64"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-2",
+        "stageTitle": "掌机与光盘的不同路线",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1032,
+      "deliveryPacket": "complete-wave-gaming-02.json"
+    },
+    {
+      "slug": "nintendo-64",
+      "name": "Nintendo 64",
+      "brand": "Nintendo",
+      "year": 1996,
+      "dateLabel": "1996年（日本原厂逐型推出记录）",
+      "dateKind": "launch",
+      "regionVersion": "原代日本产品名；不混后期小修订",
+      "context": "日本Nintendo64在一九九六年推出，以家用卡带主机的身份加入同年代的游戏平台。它与馆内PlayStation的光盘路线并行，展览保留卡带与电视之间的组合，而不把不同媒介排成只有一种结果的进步顺序。更具体的变化出现在手柄：模拟摇杆可以读取倾斜方向与幅度，让玩家在软件安排的空间中提供连续控制。原厂逐型历史确认推出年，原游戏手册补充了持握和摇杆的实际条件。通过这两种不同作用的资料，展品可以从身份走向使用，让观众理解一台主机如何依赖控制器、游戏和保存方式一起构成一次游玩。",
+      "design": "原控制器把方向键、模拟摇杆和右侧按钮分布在不同区域，持握方式随需要使用的输入改变。原《Mario Tennis》手册以左拇指操作摇杆、右拇指接触A、B和C键作为具体例子，并提醒后面的Z键不要误触。摇杆用倾斜量表达方向，是按下离散方向键之外的另一种动作。控制器上的扩展位置还能接入对应配件，ControllerPak承接部分游戏的记录，RumblePak则在支持内容中提供振动。它们不是主机上一个统一的永久能力，作用需要由软件支持完成。主机、手柄和配件的分工使这条家用路线能够从手指和连接动作直接展示。",
+      "usage": "开始游玩，先把主机接到电视并准备电源，将相应卡带和控制器安排好，再进入软件。原游戏手册要求开机时让摇杆保持自然中心位置，避免将倾斜状态误作中立；进入游戏后按照作品说明持握、推动摇杆和按键。多人内容需要对应数量的控制器，《Mario Tennis》的二至四人模式给出一个具体例子，不能据此保证所有作品同样支持。需要保存时先确认该作品把记录写到卡带还是ControllerPak，再准备相应介质。游玩由这些步骤共同成立，玩家既要知道手怎么动，也要知道手柄接在哪个位置以及个人记录最终留在哪件物品上。",
+      "significance": "Nintendo64可以与Super Famicom并看，观察方向输入从按键选择扩展到倾斜量，软件因此能要求玩家做不同动作。与同期PlayStation比较时，卡带和光盘是不同的内容路线，不能仅用容量大小替代它们各自的使用结构。可插配件又让个人记录与反馈成为可见物件，观众可以沿着控制器底部的连接理解平台如何扩展。这些比较构成策展意义，而不是所有游戏都达成同一体验的承诺。展品关注一台普通家庭主机怎样把新操作纳入既有电视场景，帮助观众把空间画面、手指幅度、实体内容和保存方式联系起来，理解控制输入也是平台设计的重要部分。",
+      "limitations": "摇杆中立位需要在开机与校正时注意，连续输入因此并不是完全没有准备的自然动作。ControllerPak的需求取决于游戏，部分内容直接把记录留在卡带；ExpansionPak只对支持或要求它的作品产生相应作用，不能写成插入后全部游戏统一增强。原手册来自一款欧洲游戏，本条用它说明原控制器动作，不借其版本确认日本所有软件的日期和玩法。家用屏幕仍需要连接，多人游玩还要准备对应输入工具。展品保留这组取舍：模拟操作扩展方向表达，配件扩展记录和反馈，但具体软件与连接条件决定这些部件什么时候真正成为可用功能。",
+      "id": "76",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Nintendo Nintendo 64"
+      ],
+      "tags": [
+        "游戏与互动",
+        "家用游戏设备",
+        "1996年"
+      ],
+      "summary": "日本Nintendo64在一九九六年推出，以家用卡带主机的身份加入同年代的游戏平台。它与馆内PlayStation的光盘路线并行，展览保留卡带与电视之间的组合，而不把不同媒介排成只有一种结果的进步顺序……",
+      "features": [
+        "原模拟摇杆需保持中立开机",
+        "保存方式随游戏",
+        "部分配件须软件支持"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "1996年（日本原厂逐型推出记录）；原代日本产品名；不混后期小修订",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "原厂逐型记录1996年推出及家用主机分类；具体操作另核后写稿。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012",
+        "CWG-S009",
+        "CWG-S010"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S012",
+          "CWG-S009",
+          "CWG-S010"
+        ],
+        "design": [
+          "G150-S012",
+          "CWG-S009",
+          "CWG-S010"
+        ],
+        "usage": [
+          "G150-S012",
+          "CWG-S009",
+          "CWG-S010"
+        ],
+        "significance": [
+          "G150-S012",
+          "CWG-S009",
+          "CWG-S010"
+        ],
+        "limitations": [
+          "G150-S012",
+          "CWG-S009",
+          "CWG-S010"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-super-famicom",
+        "nintendo-gamecube"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-super-famicom",
+        "nintendo-gamecube"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-2",
+        "stageTitle": "掌机与光盘的不同路线",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1020,
+      "deliveryPacket": "complete-wave-gaming-02.json"
+    },
+    {
+      "slug": "nintendo-game-boy-color",
+      "name": "Game Boy Color",
+      "brand": "Nintendo",
+      "year": 1998,
+      "dateLabel": "1998年（原厂回顾）",
+      "dateKind": "launch",
+      "regionVersion": "原GBC，颜色不分件",
+      "context": "Game Boy Color在一九九八年进入任天堂的掌机路线，本条保留原GBC，不把机壳颜色拆成多件。它可以和馆内原Game Boy并看，观察同一种随身游戏任务怎样加入彩色显示，又怎样继续处理此前的内容。原厂软件分类表把旧GameBoy卡带、GB与GBC共用卡带以及GBC专用卡带分开，说明平台连续性不是一句可以玩旧游戏就能讲完的事实。使用者面对的不只有一块彩色屏幕，还有不同内容的兼容范围。展览关注这类日常选择：手上已有的卡带能否继续用，新作品是不是要求新机，以及同一内容在不同机器上呈现什么显示方式。",
+      "design": "原GBC继续把屏幕和实体控制集中在可拿起的机器上，玩家看前面的画面，用方向输入和按钮操作内容。颜色变化发生在显示与软件之间，而不是仅靠外壳采用一种新色。原厂卡带表说明普通GB软件在GBC上以配色方式呈现，GB与GBC共用作品可以在旧机单色显示，专用GBC作品则要求对应新平台。三类内容让兼容关系成为设计的一部分：机器既承接旧收藏，也允许软件使用新显示条件。这种安排保留了手持机的基本动作，同时让购买和选择游戏需要辨认卡带类别，显示能力与内容身份必须一起理解。",
+      "usage": "使用之前先查看游戏卡带属于哪一类，再准备相应掌机和电量，把内容装入并进入游戏。普通GB、共用及专用GBC作品的可用机器不同，因此不能仅看卡带尺寸相似就决定是否能够互换。玩家通过方向与按钮完成软件要求的动作，颜色显示帮助区分画面内容，但它不会自动替玩家完成选择或输入。若要与旧GameBoy比较同一作品，应先确认是共用或旧格式内容，再观察两台机器各自显示的结果。展览把辨认卡带、选择机器和持握操作连接起来，说明平台升级进入日常时，需要同时处理已有物件与新功能，便利来自明确兼容，也依赖使用者知道边界。",
+      "significance": "GBC提供一个不必写成剧烈历史转折的优秀策展对象。它将熟悉的掌机任务继续保留，用内容分类管理新旧平台之间的关系；观众可以从自己会怎样选择一张卡带的问题理解设计。与原GameBoy相比，彩色屏幕的新用途需要相应作品实现；与原GBA相比，后继平台又继续扩展兼容分类。这样的阅读让硬件史不只围绕新机器取代旧机器，还包括收藏怎样延续、软件怎样分流。颜色在这里既是画面条件，也是平台界限的一部分。展品的意义来自日常使用的可比较性，不能由原厂积极宣传直接推出所有人觉得升级必要，也不借外壳配色制造额外的型号数量。",
+      "limitations": "GBC专用卡带不能用于原GameBoy等旧机，共用作品则需要按表理解彩色与单色的差别。普通GB内容在GBC上的配色也不是软件被自动改写成一套全新彩色作品。资料确认的是具体格式关系，本条没有把所有配件或所有联网方式一并判定兼容。手持屏幕仍要围绕握持、观看和电量安排，彩色能力不取消这些基本准备。展览采用原软件分类表支持可用范围，不把后代背光或更晚的服务功能赋给原GBC。它展示的取舍是继续承接旧内容与允许新专用内容并存；平台更丰富了，辨认版本的工作也变得更重要。",
+      "id": "77",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Nintendo Game Boy Color"
+      ],
+      "tags": [
+        "游戏与互动",
+        "手持/混合主机",
+        "1998年"
+      ],
+      "summary": "Game Boy Color在一九九八年进入任天堂的掌机路线，本条保留原GBC，不把机壳颜色拆成多件。它可以和馆内原Game Boy并看，观察同一种随身游戏任务怎样加入彩色显示，又怎样继续处理此前的内……",
+      "features": [
+        "旧GB/共用/GBC专用三类内容",
+        "专用卡带不适用于旧GameBoy"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "1998年（原厂回顾）；原GBC，颜色不分件",
+          "sourceIds": [
+            "G150-S013"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "原厂1998年记录GameBoyColor及同期Camera/Printer。",
+          "sourceIds": [
+            "G150-S013"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S013",
+        "CWG-S011"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S013",
+          "CWG-S011"
+        ],
+        "design": [
+          "G150-S013",
+          "CWG-S011"
+        ],
+        "usage": [
+          "G150-S013",
+          "CWG-S011"
+        ],
+        "significance": [
+          "G150-S013",
+          "CWG-S011"
+        ],
+        "limitations": [
+          "G150-S013",
+          "CWG-S011"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-game-boy-advance"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-game-boy-advance"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-2",
+        "stageTitle": "掌机与光盘的不同路线",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "不采用专用游戏兼容细节作已核事实；待写稿补手册，不影响型号和年份。"
+      ],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1035,
+      "deliveryPacket": "complete-wave-gaming-02.json"
+    },
+    {
+      "slug": "nintendo-game-boy-advance",
+      "name": "Game Boy Advance（原版）",
+      "brand": "Nintendo",
+      "year": 2001,
+      "dateLabel": "2001年（日本原厂逐型推出记录）",
+      "dateKind": "launch",
+      "regionVersion": "原代日本产品名；不混后期小修订",
+      "context": "日本原版Game Boy Advance在二〇〇一年推出，本条以横向AGB机器为对象，不使用后来折叠SP或Micro的显示和电源结构。它继续任天堂随身卡带路线，同时让屏幕和双手控制重新安排在横向机身上。原手册把此前的GameBoy系列软件和新GBA软件分为不同类型，既说明旧内容延续，也标明新格式的界限。与同年GameCube并看，家用与掌上平台各自安排显示空间，而GBA本身不需要外部电视。展览从拿起机器、选择卡带及寻找光照开始讲述它，让一个常见掌机的使用条件比一段只谈运算性能的升级描述更具体。",
+      "design": "原AGB使用反射型TFT彩色屏幕，方向键与A、B分布在两侧，L、R则位于肩部，START和SELECT继续承担相应输入。机背装入两节AA电池，卡带插槽和外部扩展连接又把内容与通信放在不同位置。反射屏依赖环境光，这与后来带前照明或背光的改型不同，观看角度和光源位置因此属于实际使用的一部分。手册明确列出四类可用卡带以及部分旧游戏的显示、声音限制。设计在继续使用旧内容的同时，增加新的显示比例和按钮；每项变化都要由对应软件来实现，不能单凭机器更宽就认为所有内容自动得到同样呈现。",
+      "usage": "开机前先准备电池并装入相应卡带，原手册要求标签面朝机背外侧，然后打开电源看到GameBoy标志。游玩时按照作品说明使用方向、A、B和L、R，调节音量并安排观看位置；为让反射屏明亮，手册建议在有适当光照处改变持握角度。结束或换卡前先关机。多人通信还要检查卡带上的连接标志，并使用相应GBA或旧GameBoy软件所要求的线材，不能将所有通信线混用。这个流程把内容、光线、电量和输入连接起来，显示出便携设备的实际准备：它能离开电视，但并不是离开所有环境条件或配件就同样可用。",
+      "significance": "GBA可以作为原GameBoy、GBC与NintendoDS之间的一件过渡阅读对象。它延续实体卡带和双手按键，同时让横向屏幕、肩部按钮及新软件格式加入同一物件。反射屏尤其适合说明技术取舍如何进入日常动作：找一处光线、调整机身角度，也是操作设备，而不是与游戏无关的背景。与GameCube并置，还可以讨论家用和随身两条路线为什么需要不同的内容与显示安排。展览的意义来自这些具体任务，不必把所有玩家的生活变化归于一台机器。旧内容能继续使用，但需要分清类型；新能力让作品有另一套条件，也让使用者学会管理兼容、电量和连接方式。",
+      "limitations": "原AGB的反射屏不能借用SP背光或后期改装后的体验描述。手册提醒少量旧GB软件可能有显示或声音问题，GBC作品也可能因屏幕规格显得较暗，因此兼容不是每一件内容都完全相同的保证。不同软件格式的多人通信条件与线材需要区分，外部扩展接口不是任意配件都可以连接。宽屏方式对部分旧内容又可能改变比例，这也不是软件本身被重新制作的证据。掌机把屏幕、输入和电池整合在一起，带来无需电视的使用，同时需要管理光照、供电与卡带。展品保留这些条件，使普通日常产品的优秀设计与真实取舍同时可见。",
+      "id": "78",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Nintendo Game Boy Advance（原版）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "手持/混合主机",
+        "2001年"
+      ],
+      "summary": "日本原版Game Boy Advance在二〇〇一年推出，本条以横向AGB机器为对象，不使用后来折叠SP或Micro的显示和电源结构。它继续任天堂随身卡带路线，同时让屏幕和双手控制重新安排在横向机身上……",
+      "features": [
+        "原AGB反射型彩屏",
+        "两AA电池与ABLR输入",
+        "卡带及通信线按格式确认"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2001年（日本原厂逐型推出记录）；原代日本产品名；不混后期小修订",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "原厂逐型记录2001年推出及掌机分类；具体操作另核后写稿。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012",
+        "CWG-S012"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S012",
+          "CWG-S012"
+        ],
+        "design": [
+          "G150-S012",
+          "CWG-S012"
+        ],
+        "usage": [
+          "G150-S012",
+          "CWG-S012"
+        ],
+        "significance": [
+          "G150-S012",
+          "CWG-S012"
+        ],
+        "limitations": [
+          "G150-S012",
+          "CWG-S012"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-game-boy-color",
+        "nintendo-ds",
+        "nintendo-gamecube"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-game-boy-color",
+        "nintendo-ds",
+        "nintendo-gamecube"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-3",
+        "stageTitle": "平台、连接与动作输入",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 995,
+      "deliveryPacket": "complete-wave-gaming-02.json"
+    },
+    {
+      "slug": "nintendo-gamecube",
+      "name": "Nintendo GameCube（原版）",
+      "brand": "Nintendo",
+      "year": 2001,
+      "dateLabel": "2001年（日本原厂逐型推出记录）",
+      "dateKind": "launch",
+      "regionVersion": "原代日本产品名；不混后期小修订",
+      "context": "日本原版Nintendo GameCube在二〇〇一年推出，与同年的GBA分别面向家庭电视和手中屏幕。它把内容放到直径八厘米的专用小光盘上，控制器则围绕双手持握和不同输入重新组织。展览保留原代日本型号，不把后来DOL-101删减的接口或美国地区条件套入首发身份。与Nintendo64相比，内容介质由卡带转向小光盘，但独立电视与手柄的基本分工继续存在。展品可以从打开盘盖和寻找A键两个动作开始，观察设备如何同时安排内容装入与角色控制。它作为家用路线的一件具体机器，不需要被写成所有家庭都采用的标准，也不借厂商未来预测说明普及结果。",
+      "design": "原厂资料将八厘米光盘列为专用内容媒介，主机的上盖让使用者直接接触装盘位置。控制器使用两个握柄，右侧以A键作为主要位置，其他按钮围绕它安排；另有模拟输入、左右模拟扳机及内置振动。颜色、大小和位置使按钮关系能够被看见，但是否顺手仍要回到人的手型及具体玩法。主机上的控制器连接与记忆卡又把输入和个人记录分开。设计因此不是只让机身成为一个方盒子，而是安排一组任务：小光盘交给读取机构，手指交给控制器，存档交给相应记录介质，电视呈现共同画面。每个部件都以不同方式参与游玩。",
+      "usage": "准备好主机、电源、显示连接和控制器后，按Open打开盖子，将相应小光盘标签面朝上放在中央固定位置，关盖并开机。补充手册中的这组基本装盘动作来自后期美洲资料，本条不据此认定日本电源或接口细节。菜单可用摇杆选择项目，按A确认；进入游戏后，A、B、C摇杆和扳机等用途按软件说明。保存游戏需要相应记忆卡，玩家可在菜单里查看记录，而不要把内容光盘当作可写入的个人进度盘。取盘也需要等待旋转停止并使用释放位置。装入、控制、保存和取出组成一套有明显物件动作的家庭使用流程。",
+      "significance": "GameCube与PS2并看，都是光盘家用设备，却选择不同的介质规格和影音任务，不能把光盘两个字当成相同平台。与Nintendo64比较，A主位置、双握柄和模拟扳机又提供了另一种输入安排；与GBA并看，则能比较相同品牌怎样分别组织外部电视和手持屏幕。展览关注这些具体选择，让观众从找按钮、装小盘和管理存档理解设备的角色。控制器内置振动使反馈进入常用工具，但效果还要由作品实现。它的策展价值来自这些分工的清楚差异，既不要求证明它开创了所有后继设计，也不需要把独特外形等同于每位使用者都更喜欢的体验。",
+      "limitations": "小光盘是专用平台内容，不意味着主机可以任意读取家庭影音光盘。日本原代和后期美洲手册涉及的机型存在接口与地区差别，本条只借明确共通的装盘、菜单和记忆卡动作，保留版本范围。模拟扳机、内置振动及其他输入又需要软件安排相应用途，不能把部件列表当作所有作品的玩法。独立记忆卡让个人记录可见，也需要额外管理空间与保存。光盘便利并未取消读取机构、盘面保养及正确格式的条件。展品把内容、控制、显示和记录分开说明，使一台外观紧凑的家庭主机所依赖的完整系统在文字中可以被理解。",
+      "id": "79",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Nintendo Nintendo GameCube（原版）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "家用游戏设备",
+        "2001年"
+      ],
+      "summary": "日本原版Nintendo GameCube在二〇〇一年推出，与同年的GBA分别面向家庭电视和手中屏幕。它把内容放到直径八厘米的专用小光盘上，控制器则围绕双手持握和不同输入重新组织。展览保留原代日本型号……",
+      "features": [
+        "8cm专用小光盘",
+        "A主位置与模拟扳机",
+        "独立记忆卡"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2001年（日本原厂逐型推出记录）；原代日本产品名；不混后期小修订",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "原厂逐型记录2001年推出及家用主机分类；具体操作另核后写稿。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012",
+        "CWG-S013",
+        "CWG-S014",
+        "CWG-S015"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S012",
+          "CWG-S013",
+          "CWG-S014",
+          "CWG-S015"
+        ],
+        "design": [
+          "G150-S012",
+          "CWG-S013",
+          "CWG-S014",
+          "CWG-S015"
+        ],
+        "usage": [
+          "G150-S012",
+          "CWG-S013",
+          "CWG-S014",
+          "CWG-S015"
+        ],
+        "significance": [
+          "G150-S012",
+          "CWG-S013",
+          "CWG-S014",
+          "CWG-S015"
+        ],
+        "limitations": [
+          "G150-S012",
+          "CWG-S013",
+          "CWG-S014",
+          "CWG-S015"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-64",
+        "nintendo-game-boy-advance",
+        "sony-playstation-2"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-64",
+        "nintendo-game-boy-advance",
+        "sony-playstation-2"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-3",
+        "stageTitle": "平台、连接与动作输入",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1040,
+      "deliveryPacket": "complete-wave-gaming-02.json"
+    },
+    {
+      "slug": "nintendo-3ds",
+      "name": "Nintendo 3DS（原版）",
+      "brand": "Nintendo",
+      "year": 2011,
+      "dateLabel": "2011年（日本原厂逐型推出记录）",
+      "dateKind": "launch",
+      "regionVersion": "原代日本产品名；不混后期小修订",
+      "context": "原代Nintendo3DS在二〇一一年进入任天堂掌机路线，本条保持日本CTR-001型号，不将New3DS或2DS的结构混入。它延续DS上下两块屏幕与触控的安排，同时让上屏提供可调的立体显示，下屏继续直接接收触笔输入。与VirtualBoy的目镜观看形式相比，3DS把立体画面留在可打开的掌机上，让显示和持握形成另一种关系。展览采用原代日本手册补充部件及卡带操作，不将更晚网络服务的变化当作首发配置。它可以说明一种普通的使用选择：玩家怎样在同一件设备中安排立体强弱、触摸输入、实体控制以及已有DS内容。",
+      "design": "原CTR001采用折叠机身，上方是3D屏幕和调节立体强度的滑块，下方是触摸屏，SlidePad、方向输入与实体按钮共同承接游戏动作。显示与输入分层，使手指操作下屏时不必总是遮住上方主要画面。卡带插槽继续容纳对应内容，手册明确列出3DS软件和DS/DSi软件可用，但后者不会变成立体显示。于是新机器同时安排新显示任务和旧内容延续，而不是把所有作品统一转换。滑块又让立体强度成为使用者能够调节的实际控件，结构上的选择由一个摸得着的位置呈现，不需要全部隐藏在屏幕设置里。",
+      "usage": "开始使用时，先充电并完成初始设置，再装入对应日本游戏卡，在HOME菜单选择软件。玩3DS立体内容时观察上屏并按需要调整3D滑块，使用SlidePad、按键或下屏触笔完成软件规定的动作；只有支持立体的作品才会呈现相应画面。玩DS/DSi卡带时，按手册理解其模式与限制，不把3D能力加给旧内容。HOME键提供系统返回入口，但不同软件格式的可用系统功能有区别。一次游玩由充电、选卡、显示调整和输入选择构成，玩家要知道看哪块屏幕、触哪块屏幕以及哪一个实体控制与当前任务相连，这些动作让双屏与立体成为具体使用。",
+      "significance": "3DS适合与馆内DS并置，观察双屏结构延续时，新显示方式和新的方向输入怎样进入熟悉的掌机；与VirtualBoy并看，则能把不同立体显示的观看结构分开讨论。它并不要求所有玩家都使用最高立体强度，调节控件本身就体现了把选择留给使用者的安排。旧DS软件继续存在，也让平台史包含收藏延续，而不是只有彻底替换。展览以这些动作做策展解读：屏幕不是单一输出，触摸、按键和视线需要相互配合；新能力也需要内容来实现。观众由此可以理解产品代际如何同时保留习惯和增加任务，不必把一项技术名称等同于人人都相同的观看感受。",
+      "limitations": "原3DS不具有后来的New3DS追加控件和相关显示跟踪能力，型号名称相近不能合并功能。DS/DSi内容不能自动变成立体，手册也列出相应模式下部分HOME及通信功能限制。日本手册的地区软件条件需要保留，不能当作所有地区卡带无条件互通。联网服务的存续是另一个生命周期问题，本条不由历史菜单承诺今天仍能使用全部项目。双屏和立体提供了多种任务，也增加了显示与操作之间的安排，具体作品决定怎样使用。展览保留这种取舍，让新显示与旧内容、实体输入与触笔操作共同构成一件掌机，而不将能力列表扩成没有版本边界的叙述。",
+      "id": "80",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Nintendo Nintendo 3DS（原版）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "手持/混合主机",
+        "2011年"
+      ],
+      "summary": "原代Nintendo3DS在二〇一一年进入任天堂掌机路线，本条保持日本CTR-001型号，不将New3DS或2DS的结构混入。它延续DS上下两块屏幕与触控的安排，同时让上屏提供可调的立体显示，下屏继续……",
+      "features": [
+        "原CTR001上3D/下触屏",
+        "3D滑块与SlidePad",
+        "DS内容不自动变3D"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2011年（日本原厂逐型推出记录）；原代日本产品名；不混后期小修订",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "原厂逐型记录2011年推出及立体显示掌机分类；具体操作另核后写稿。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012",
+        "CWG-S016"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S012",
+          "CWG-S016"
+        ],
+        "design": [
+          "G150-S012",
+          "CWG-S016"
+        ],
+        "usage": [
+          "G150-S012",
+          "CWG-S016"
+        ],
+        "significance": [
+          "G150-S012",
+          "CWG-S016"
+        ],
+        "limitations": [
+          "G150-S012",
+          "CWG-S016"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-ds",
+        "nintendo-game-boy-advance"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-ds",
+        "nintendo-game-boy-advance"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-3",
+        "stageTitle": "平台、连接与动作输入",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1015,
+      "deliveryPacket": "complete-wave-gaming-02.json"
+    },
+    {
+      "slug": "nintendo-wii-u",
+      "name": "Wii U（原版）",
+      "brand": "Nintendo",
+      "year": 2012,
+      "dateLabel": "2012年（日本原厂逐型推出记录）",
+      "dateKind": "launch",
+      "regionVersion": "原代日本产品名；不混后期小修订",
+      "context": "WiiU是任天堂在二〇一二年推出的家用主机，本条保留原代日本产品身份。它将带触摸屏的GamePad与电视旁的主机组合，让家庭游戏不再只有外部电视这一块可见显示面。与馆内Wii的遥控器路线相比，GamePad在手中增加屏幕、摇杆和触摸输入，但游戏仍依赖家中的主机执行，不能把它看成能够单独带走运行软件的掌机。展览重点是两块显示怎样分工，以及手中屏幕如何与身体动作相接。原厂手册补充部件、配对与充电条件，使这台设备可以从一个容易混淆的名称，转为一组明确的主机与控制器关系。",
+      "design": "GamePad把触摸屏放在两侧实体控制之间，左右摇杆、方向输入和按键继续承接双手游戏动作，摄像头与麦克风等部件又提供对应软件的输入可能。主机放在电视旁，GamePad通过连接接收画面并传回操作，因此它的屏幕和按键不是另一台独立游戏计算机的证明。双屏可以呈现不同信息，也可在支持内容中改变主要观看位置，具体安排由游戏决定。GamePad要独立充电，主机则有自己的供电和显示连接。设备的设计把输出带到手边，也让使用者需要管理两件相互依赖的物件，便利和准备量在同一个组合里出现。",
+      "usage": "准备时先连接主机、电源和电视，按照相应资料完成GamePad与主机的同步，并为手中控制器充电。进入软件后，根据游戏要求看电视、看GamePad或操作触屏，实体按钮和摇杆的任务仍由作品说明。HOME键进入系统菜单或电子说明，玩家可以在这里理解当前内容怎样控制。使用WiiRemote操作电视画面时还要准备对应感应条，这与GamePad自身部件用于支持内容的情况应分开。离开电视观看的玩法也需要软件允许，不能把GamePad拿离主机当作独立掌机使用。展览用连接、同步、选择和触摸这些步骤，说明手中的屏幕必须与主机及内容一起成立。",
+      "significance": "WiiU适合放在Wii与原Switch之间，比较输入和显示怎样从客厅中的另一只控制器，转成带屏幕的手持工具，再在后继平台成为可拿出底座的主机。这些结构不同，不能由外形相似直接判定它们都是同一种掌机。GamePad让玩家在一个共同电视之外拥有手边信息，这给软件提出了分工机会，也要求设计者说明用户什么时候转移视线。策展意义来自这个实际问题：如果两块屏幕显示不同任务，使用者怎样在它们之间切换；如果只在手边观看，又依赖哪些条件。展览不以名称或市场成绩替代设计阅读，而从主机、控制器和两块画面共同构成的使用讨论其选择。",
+      "limitations": "GamePad不能独立运行WiiU软件，离开电视与离开主机是不同的事。双屏并不意味着每个作品都能自由切换显示，也不是所有旧配件在任何模式都可直接使用。所读欧洲手册是二〇一七年修订，本条用它确认硬件部件和基本连接，不把其中服务项目当二〇一二年完整列表或今天仍持续的承诺。GamePad电量、主机连接和软件支持共同限制使用范围。带屏控制器扩展了手边信息与触摸任务，也增加了视线和物件管理。展品保留这组取舍，让观众理解家庭游戏的显示可以分开，而执行与输入仍需要明确连接，屏幕数量本身不能代替一套可用平台。",
+      "id": "81",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Nintendo Wii U（原版）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "家用游戏设备",
+        "2012年"
+      ],
+      "summary": "WiiU是任天堂在二〇一二年推出的家用主机，本条保留原代日本产品身份。它将带触摸屏的GamePad与电视旁的主机组合，让家庭游戏不再只有外部电视这一块可见显示面。与馆内Wii的遥控器路线相比，Game……",
+      "features": [
+        "GamePad与主机分工",
+        "触屏加实体双摇杆",
+        "配对与独立充电"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2012年（日本原厂逐型推出记录）；原代日本产品名；不混后期小修订",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "原厂逐型记录2012年推出及家用主机与带屏输入分类；具体操作另核后写稿。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012",
+        "CWG-S017"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S012",
+          "CWG-S017"
+        ],
+        "design": [
+          "G150-S012",
+          "CWG-S017"
+        ],
+        "usage": [
+          "G150-S012",
+          "CWG-S017"
+        ],
+        "significance": [
+          "G150-S012",
+          "CWG-S017"
+        ],
+        "limitations": [
+          "G150-S012",
+          "CWG-S017"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-wii",
+        "nintendo-ds",
+        "nintendo-switch-2"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-wii",
+        "nintendo-ds",
+        "nintendo-switch-2"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-3",
+        "stageTitle": "平台、连接与动作输入",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1033,
+      "deliveryPacket": "complete-wave-gaming-02.json"
+    },
+    {
+      "slug": "nintendo-switch-lite",
+      "name": "Nintendo Switch Lite",
+      "brand": "Nintendo",
+      "year": 2019,
+      "dateLabel": "2019-09-20日本/美国（事后财报）",
+      "dateKind": "launch",
+      "regionVersion": "原Lite控制器一体；颜色合并",
+      "context": "SwitchLite以二〇一九年九月二十日日本和美国上市记录为年代锚，属于原Switch平台的一种实质不同的设备安排。它将控制器固定在屏幕两侧，以手持模式为核心，取消电视输出，而不是仅改变原机颜色或容量。展览把它放在原Switch与常规掌机之间，讨论同一软件平台为什么可以选择不同的游玩任务。原厂季度表确认上市，当前模式FAQ补充可用范围与另购配件条件，两者作用分开。Lite的价值不需要由一个最大性能排名决定，它更适合展示日常取舍：机器把哪些操作集中到手中，哪些原平台的组合需要放弃或另行准备。",
+      "design": "固定控制器让屏幕和输入成为一件完整的手持物品，使用者不能像原Switch那样滑下两侧Joy-Con并把主机插入底座显示到电视。Lite也没有原机的内置桌面支架，因此它的默认摆放和持握任务更加集中。平台仍能连接支持的无线控制器，当前FAQ说明可以借另购支架等配件在桌面摆放，但这种额外准备不能写成开箱即有的原三模式。设计提供的不是一个缩小之后无条件等价的Switch，而是围绕手持需求重组的版本。屏幕、手指和观看距离绑定在一起，平台内容是否支持这种组合，需要查看具体游戏的模式说明。",
+      "usage": "准备Lite时先完成电量与初始系统设置，装入或选择相应内容，并检查游戏是否支持手持模式。双手握住机身，通过固定方向输入、摇杆和按钮操作软件，画面一直在手中屏幕上。某些玩法需要另外的Joy-Con或其他兼容控制器时，应先安排无线连接及对应充电，桌面摆放还要准备合适支架；不能只因为游戏属于Switch平台，就认为Lite具备所有原机控制方式。它不支持电视模式，接入原底座也不能把这项能力加回来。展览把检查模式和准备配件写进实际流程，让观众理解固定结构的方便来自任务集中，也意味着需要更明确地选择适合的内容。",
+      "significance": "Lite可以和馆内GameBoy或DS并看，呈现屏幕与输入始终靠近双手的掌机安排；与原Switch比较，则能看到一个平台怎样主动删去部分组合而形成另一种产品。这样的入选不要求重大历史转折，它有普通日常设备的阅读价值：用户可以围绕携带、共同游玩和电视需求做选择，结构的减少并不是型号差别被自动抹平的理由。展览用固定控制器与无电视输出这两个具体事实解释其任务，避免把Lite只是较小原机作为全部结论。软件平台的连续性和硬件模式的不同并存，观众能够由此分辨可以玩某个内容与能以所有方式玩它之间的距离。",
+      "limitations": "Lite支持手持模式游戏，但部分玩法与元素仍可能要求原Joy-Con等另购输入工具；模式兼容不能只由平台名称判断。它没有内置桌面支架，也没有电视输出，同时可以在支持内容中使用另购架和无线控制器，这几项条件要分别说明。原厂对便携的定位不证明每个人觉得同样轻便或同样舒适，续航与个人使用也不在此轮实测范围。展品保留的取舍是结构更集中、组合方式更少：减少拆装和底座任务，可以更直接地围绕手持游玩，但用户仍需要辨认软件及配件条件。它作为独立型号的理由来自这些实际能力差异，而不是配色、容量或一段品牌营销用语。",
+      "id": "82",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Nintendo Nintendo Switch Lite"
+      ],
+      "tags": [
+        "游戏与互动",
+        "手持/混合主机",
+        "2019年"
+      ],
+      "summary": "SwitchLite以二〇一九年九月二十日日本和美国上市记录为年代锚，属于原Switch平台的一种实质不同的设备安排。它将控制器固定在屏幕两侧，以手持模式为核心，取消电视输出，而不是仅改变原机颜色或容……",
+      "features": [
+        "固定输入与手持任务",
+        "不支持电视输出",
+        "桌面配件须另购且随内容"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2019-09-20日本/美国（事后财报）；原Lite控制器一体；颜色合并",
+          "sourceIds": [
+            "G150-S015",
+            "G150-S016"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "原厂定位携带专用。",
+          "sourceIds": [
+            "G150-S015",
+            "G150-S016"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S015",
+        "G150-S016",
+        "CWG-S018"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S015",
+          "G150-S016",
+          "CWG-S018"
+        ],
+        "design": [
+          "G150-S015",
+          "G150-S016",
+          "CWG-S018"
+        ],
+        "usage": [
+          "G150-S015",
+          "G150-S016",
+          "CWG-S018"
+        ],
+        "significance": [
+          "G150-S015",
+          "G150-S016",
+          "CWG-S018"
+        ],
+        "limitations": [
+          "G150-S015",
+          "G150-S016",
+          "CWG-S018"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-ds",
+        "nintendo-switch-2"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-ds",
+        "nintendo-switch-2"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-4",
+        "stageTitle": "混合使用与PC游戏生态",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1051,
+      "deliveryPacket": "complete-wave-gaming-02.json"
+    }
+  ],
+  "sources": [
+    {
+      "id": "CWG-S008",
+      "title": "Super Famicom原开发者回忆：controller设计",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/en-gb/News/2017/September/Nintendo-Classic-Mini-SNES-developer-interview-Volume-1-Star-Fox-Star-Fox-2-1273086.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "2017宫本等访谈The curvy controller：原日本/欧洲设计、ABXY位置与颜色，及原游戏卡带可加入SuperFX；不把ClassicMini系统功能借原机。",
+      "verificationMethod": "原机构正文所列段落阅读",
+      "limits": "受雇品牌开发者回忆；只读指定原机设计章节，不是独立市场评测。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2017宫本等访谈The curvy controller：原日本/欧洲设计、ABXY位置与颜色，及原游戏卡带可加入SuperFX；不把ClassicMini系统功能借原机。",
+          "verificationMethod": "原机构正文所列段落阅读",
+          "limits": "受雇品牌开发者回忆；只读指定原机设计章节，不是独立市场评测。",
+          "independence": "制造商第一方；同厂网址不构成独立交叉",
+          "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "2017宫本等访谈The curvy controller：原日本/欧洲设计、ABXY位置与颜色，及原游戏卡带可加入SuperFX；不把ClassicMini系统功能借原机。",
+      "verification": "原机构正文所列段落阅读；受雇品牌开发者回忆；只读指定原机设计章节，不是独立市场评测。"
+    },
+    {
+      "id": "CWG-S009",
+      "title": "Nintendo64 Mario Tennis原手册",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/eu/media/downloads/games_8/emanuals/nintendo_8/Manual_Nintendo64_MarioTennis_EN.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "原Nintendo64控制器模拟摇杆中立位、持握、1号口，2—4人控制器；这是欧洲具体游戏例，不套日本游戏发行。",
+      "verificationMethod": "原机构检索的原手册p4—5摘录",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+      "verificationRecords": [
+        {
+          "verifiedScope": "原Nintendo64控制器模拟摇杆中立位、持握、1号口，2—4人控制器；这是欧洲具体游戏例，不套日本游戏发行。",
+          "verificationMethod": "原机构检索的原手册p4—5摘录",
+          "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+          "independence": "制造商第一方；同厂网址不构成独立交叉",
+          "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "原Nintendo64控制器模拟摇杆中立位、持握、1号口，2—4人控制器；这是欧洲具体游戏例，不套日本游戏发行。",
+      "verification": "原机构检索的原手册p4—5摘录；只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。"
+    },
+    {
+      "id": "CWG-S010",
+      "title": "Nintendo64配件档案",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-64/Accessories/Accessories-627128.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "ControllerPak保存随游戏；Rumble/Expansion只在相应软件作用。",
+      "verificationMethod": "原机构检索正文摘录",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+      "verificationRecords": [
+        {
+          "verifiedScope": "ControllerPak保存随游戏；Rumble/Expansion只在相应软件作用。",
+          "verificationMethod": "原机构检索正文摘录",
+          "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+          "independence": "制造商第一方；同厂网址不构成独立交叉",
+          "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "ControllerPak保存随游戏；Rumble/Expansion只在相应软件作用。",
+      "verification": "原机构检索正文摘录；只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。"
+    },
+    {
+      "id": "CWG-S011",
+      "title": "GameBoy软件原分类表",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/n02/dmg/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "普通GB、GB/GBC共用、GBC专用卡带；旧机器不能使用GBC专用；GBC可以彩色显示旧GB软件。",
+      "verificationMethod": "原机构正文所列段落阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+      "verificationRecords": [
+        {
+          "verifiedScope": "普通GB、GB/GBC共用、GBC专用卡带；旧机器不能使用GBC专用；GBC可以彩色显示旧GB软件。",
+          "verificationMethod": "原机构正文所列段落阅读",
+          "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+          "independence": "制造商第一方；同厂网址不构成独立交叉",
+          "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "普通GB、GB/GBC共用、GBC专用卡带；旧机器不能使用GBC专用；GBC可以彩色显示旧GB软件。",
+      "verification": "原机构正文所列段落阅读；只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。"
+    },
+    {
+      "id": "CWG-S012",
+      "title": "GameBoyAdvance原AGB欧版手册",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/eu/media/downloads/support_1/game_boy_advance_4/GBA_Manual_UK_DE_FR.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "p6—11原AGB反射TFT、两AA电池、ABLR、先插卡再开机、光照角度、四类卡带与兼容限制，连接电缆依内容；不用SP背光。",
+      "verificationMethod": "原机构PDF英文指定章节阅读；2007排版修订，不当2001服务状态",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+      "verificationRecords": [
+        {
+          "verifiedScope": "p6—11原AGB反射TFT、两AA电池、ABLR、先插卡再开机、光照角度、四类卡带与兼容限制，连接电缆依内容；不用SP背光。",
+          "verificationMethod": "原机构PDF英文指定章节阅读；2007排版修订，不当2001服务状态",
+          "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+          "independence": "制造商第一方；同厂网址不构成独立交叉",
+          "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "p6—11原AGB反射TFT、两AA电池、ABLR、先插卡再开机、光照角度、四类卡带与兼容限制，连接电缆依内容；不用SP背光。",
+      "verification": "原机构PDF英文指定章节阅读；2007排版修订，不当2001服务状态；只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。"
+    },
+    {
+      "id": "CWG-S013",
+      "title": "GameCube原厂小光盘规格",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/ngc/disk/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "原8cm小光盘约1.5GB；只用规格不采用未来成为标准的宣传预测。",
+      "verificationMethod": "原机构正文所列段落阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+      "verificationRecords": [
+        {
+          "verifiedScope": "原8cm小光盘约1.5GB；只用规格不采用未来成为标准的宣传预测。",
+          "verificationMethod": "原机构正文所列段落阅读",
+          "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+          "independence": "制造商第一方；同厂网址不构成独立交叉",
+          "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "原8cm小光盘约1.5GB；只用规格不采用未来成为标准的宣传预测。",
+      "verification": "原机构正文所列段落阅读；只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。"
+    },
+    {
+      "id": "CWG-S014",
+      "title": "GameCube原厂控制器设计",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/ngc/control/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "双握柄、A主位置、双模拟输入、LR模拟扳机与内置振动。",
+      "verificationMethod": "原机构检索可读正文摘录",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+      "verificationRecords": [
+        {
+          "verifiedScope": "双握柄、A主位置、双模拟输入、LR模拟扳机与内置振动。",
+          "verificationMethod": "原机构检索可读正文摘录",
+          "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+          "independence": "制造商第一方；同厂网址不构成独立交叉",
+          "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "双握柄、A主位置、双模拟输入、LR模拟扳机与内置振动。",
+      "verification": "原机构检索可读正文摘录；只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。"
+    },
+    {
+      "id": "CWG-S015",
+      "title": "GameCube操作手册RevE",
+      "publisher": "Nintendo",
+      "url": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/gcn101_manual_english?_a=DATAg1AAZAA0",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "2001—2004版权，p12—18开盖盘标向上、按A进入菜单、记忆卡；包含DOL001与101区别。只采用共通基本动作，不套美国地区电源或101接口到日本原机。",
+      "verificationMethod": "16页PDF指定装盘/菜单/存档阅读",
+      "limits": "后期美洲手册补通用操作，不能独自确认日本原机接口或发售配置。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2001—2004版权，p12—18开盖盘标向上、按A进入菜单、记忆卡；包含DOL001与101区别。只采用共通基本动作，不套美国地区电源或101接口到日本原机。",
+          "verificationMethod": "16页PDF指定装盘/菜单/存档阅读",
+          "limits": "后期美洲手册补通用操作，不能独自确认日本原机接口或发售配置。",
+          "independence": "制造商第一方；同厂网址不构成独立交叉",
+          "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "2001—2004版权，p12—18开盖盘标向上、按A进入菜单、记忆卡；包含DOL001与101区别。只采用共通基本动作，不套美国地区电源或101接口到日本原机。",
+      "verification": "16页PDF指定装盘/菜单/存档阅读；后期美洲手册补通用操作，不能独自确认日本原机接口或发售配置。"
+    },
+    {
+      "id": "CWG-S016",
+      "title": "原Nintendo3DS CTR001日本手册",
+      "publisher": "Nintendo",
+      "url": "https://support.nintendo.com/jp/3ds/pdf/3dsmanual.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "CTR001(JPN)；上3D屏/3D滑块、下触屏、SlidePad/HOME、3DS/DS卡带；非New3DS，不采用未来服务续存。",
+      "verificationMethod": "92页PDF指定部件/显示/卡带章节阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+      "verificationRecords": [
+        {
+          "verifiedScope": "CTR001(JPN)；上3D屏/3D滑块、下触屏、SlidePad/HOME、3DS/DS卡带；非New3DS，不采用未来服务续存。",
+          "verificationMethod": "92页PDF指定部件/显示/卡带章节阅读",
+          "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+          "independence": "制造商第一方；同厂网址不构成独立交叉",
+          "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "CTR001(JPN)；上3D屏/3D滑块、下触屏、SlidePad/HOME、3DS/DS卡带；非New3DS，不采用未来服务续存。",
+      "verification": "92页PDF指定部件/显示/卡带章节阅读；只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。"
+    },
+    {
+      "id": "CWG-S017",
+      "title": "WiiU操作手册欧洲修订",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/eu/media/downloads/support_1/wii_u_3/WiiU_OperationsManual_EN.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "2017版；GamePad触屏/摇杆/按钮、独立充电、主机连接与SYNC，支持内容与配件条件；不据2017指南当2012全部服务。",
+      "verificationMethod": "45页PDF指定部件/初始连接章节阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2017版；GamePad触屏/摇杆/按钮、独立充电、主机连接与SYNC，支持内容与配件条件；不据2017指南当2012全部服务。",
+          "verificationMethod": "45页PDF指定部件/初始连接章节阅读",
+          "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+          "independence": "制造商第一方；同厂网址不构成独立交叉",
+          "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "2017版；GamePad触屏/摇杆/按钮、独立充电、主机连接与SYNC，支持内容与配件条件；不据2017指南当2012全部服务。",
+      "verification": "45页PDF指定部件/初始连接章节阅读；只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。"
+    },
+    {
+      "id": "CWG-S018",
+      "title": "Switch Lite模式兼容FAQ",
+      "publisher": "Nintendo",
+      "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/47229/~/nintendo-switch-play-mode%252C-accessory%252C-and-features-compatibility-faq",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "Lite不支持TV，无内置支架，支持手持模式游戏；可通过另购架及无线控制器桌面摆放。",
+      "verificationMethod": "原机构检索正文摘录",
+      "limits": "当前FAQ；区分软件兼容及另购配件，不把支架缺失写成无法外接控制器。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+      "verificationRecords": [
+        {
+          "verifiedScope": "Lite不支持TV，无内置支架，支持手持模式游戏；可通过另购架及无线控制器桌面摆放。",
+          "verificationMethod": "原机构检索正文摘录",
+          "limits": "当前FAQ；区分软件兼容及另购配件，不把支架缺失写成无法外接控制器。",
+          "independence": "制造商第一方；同厂网址不构成独立交叉",
+          "commercialDisclosure": "原厂产品与支持资料，商业来源明确",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "Lite不支持TV，无内置支架，支持手持模式游戏；可通过另购架及无线控制器桌面摆放。",
+      "verification": "原机构检索正文摘录；当前FAQ；区分软件兼容及另购配件，不把支架缺失写成无法外接控制器。"
+    },
+    {
+      "id": "G150-S012",
+      "title": "Nintendo corporate history",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/corporate/history/index.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "日本电视游戏15/6(1977)、SFC(1990)、N64(1996)、GBA/GC(2001)、3DS(2011)、WiiU(2012)、Switch(2017)、Switch2(2025)逐型年份和家用/掌上分类。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S012",
+      "sourceFile": "docs/expansion/research-150-gaming.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "日本电视游戏15/6(1977)、SFC(1990)、N64(1996)、GBA/GC(2001)、3DS(2011)、WiiU(2012)、Switch(2017)、Switch2(2025)逐型年份和家用/掌上分类。",
+          "verificationMethod": "网页正文所读段落",
+          "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+          "independence": "厂商第一方；同厂页面不算独立交叉核对",
+          "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+          "packet": "complete-wave-gaming-02.json"
+        },
+        {
+          "verifiedScope": "日本电视游戏15/6(1977)、SFC(1990)、N64(1996)、GBA/GC(2001)、3DS(2011)、WiiU(2012)、Switch(2017)、Switch2(2025)逐型年份和家用/掌上分类。",
+          "verificationMethod": "网页正文所读段落",
+          "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+          "independence": "厂商第一方；同厂页面不算独立交叉核对",
+          "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+          "packet": "complete-wave-gaming-03.json"
+        }
+      ],
+      "supports": "日本电视游戏15/6(1977)、SFC(1990)、N64(1996)、GBA/GC(2001)、3DS(2011)、WiiU(2012)、Switch(2017)、Switch2(2025)逐型年份和家用/掌上分类。",
+      "verification": "网页正文所读段落；只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S013",
+      "title": "Nintendo UK hardware history",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-History-625945.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "N64日本1996-06-23、GameBoyColor1998；DSi2008、游戏掌机系列史。未采用销量/首创口号。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S013",
+      "sourceFile": "docs/expansion/research-150-gaming.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "N64日本1996-06-23、GameBoyColor1998；DSi2008、游戏掌机系列史。未采用销量/首创口号。",
+          "verificationMethod": "网页正文所读段落",
+          "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+          "independence": "厂商第一方；同厂页面不算独立交叉核对",
+          "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "N64日本1996-06-23、GameBoyColor1998；DSi2008、游戏掌机系列史。未采用销量/首创口号。",
+      "verification": "网页正文所读段落；只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S015",
+      "title": "Nintendo Switch Lite announcement",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/corporate/release/2019/190710.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2019-07-10",
+      "verifiedScope": "原Switch三模式；Lite携带专用、控制器一体，2019-09-20当时计划。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S015",
+      "sourceFile": "docs/expansion/research-150-gaming.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "原Switch三模式；Lite携带专用、控制器一体，2019-09-20当时计划。",
+          "verificationMethod": "网页正文",
+          "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+          "independence": "厂商第一方；同厂页面不算独立交叉核对",
+          "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+          "packet": "complete-wave-gaming-01.json"
+        },
+        {
+          "verifiedScope": "原Switch三模式；Lite携带专用、控制器一体，2019-09-20当时计划。",
+          "verificationMethod": "网页正文",
+          "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+          "independence": "厂商第一方；同厂页面不算独立交叉核对",
+          "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "原Switch三模式；Lite携带专用、控制器一体，2019-09-20当时计划。",
+      "verification": "网页正文；只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S016",
+      "title": "Nintendo FY2020 second-quarter release dates",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/ir/pdf/2019/191031_3e.pdf",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2019-10-31",
+      "verifiedScope": "季度表记录Lite日本/美国2019-09-20上市。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "原机构PDF表格检索摘录",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S016",
+      "sourceFile": "docs/expansion/research-150-gaming.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "季度表记录Lite日本/美国2019-09-20上市。",
+          "verificationMethod": "原机构PDF表格检索摘录",
+          "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+          "independence": "厂商第一方；同厂页面不算独立交叉核对",
+          "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+          "packet": "complete-wave-gaming-02.json"
+        }
+      ],
+      "supports": "季度表记录Lite日本/美国2019-09-20上市。",
+      "verification": "原机构PDF表格检索摘录；只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    }
+  ],
+  "importInstructions": [
+    "按import-manifest.json顺序导入，先校验实际slug和ID，已导入旧14不重复。",
+    "本包关联仅指之前分包和本包；后续完成后可用累计总包补回关联。",
+    "正文保留来源与版本范围，空媒体文字回退；后续规划字段不作当前必填。"
+  ]
+}

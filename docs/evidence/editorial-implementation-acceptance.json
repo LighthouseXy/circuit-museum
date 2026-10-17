@@ -1,0 +1,82 @@
+{
+  "checkedAt": "2026-10-13T02:47:37.968Z",
+  "status": "current-150-plus-goal-complete",
+  "actualPublishedProducts": 176,
+  "addedThisPhase": 122,
+  "revisedPreviouslyImportedProducts": 14,
+  "originalExhibitsPreserved": 40,
+  "originalChronicleNodesPreserved": 29,
+  "homeRows": 12,
+  "readingLines": 16,
+  "plannedStages": 45,
+  "publishedNonemptyStages": 44,
+  "actualProductNodes": 176,
+  "backgroundNodes": 9,
+  "sourceRecords": 512,
+  "photographs": 34,
+  "missingPhotographs": 142,
+  "navigation": [
+    "首页",
+    "馆藏",
+    "产品编年史",
+    "关于"
+  ],
+  "checks": {
+    "build": "passed",
+    "syntax": "passed",
+    "unitTests": {
+      "passed": 13,
+      "failed": 0
+    },
+    "browser": {
+      "recordedChecks": 28,
+      "errors": [],
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "completedAt": "2026-10-13T02:47:08.296Z",
+      "phased": true,
+      "origin": "2026-10-13T02:43:47.719Z",
+      "phaseReason": "Expanded catalog made the old Game Boy exact-one test fixture invalid; unique TPS-L2 fixture corrected. All phases use actual176; no54 acceptance reused."
+    },
+    "importSafety": {
+      "checkedAt": "2026-10-13T02:38:50.417Z",
+      "idempotentRerun": true,
+      "conflictingSourceRejectedBeforeWrite": true,
+      "formalDataUnchangedAfterRejection": true,
+      "formalHashes": [
+        "6979ee762d35229091682e3a93f111cc5c82f5ac848594a9737b1b7339f67d13",
+        "8343d9ec6b649eaeb122d595c7911dac94d43dff30d50af9c3bb35b41e5e9d1a"
+      ]
+    }
+  },
+  "latestSubagentPolicy": {
+    "model": "gpt-6.1-sol",
+    "reasoning": "low",
+    "application": "Existing medium test agent interrupted after user instruction; primary completed remaining browser verification. No replacement agent spawned."
+  },
+  "evidence": [
+    "editorial-production-import.json",
+    "editorial-import-safety.json",
+    "expanded-browser-results.json",
+    "expanded-home-viewport.png",
+    "expanded-home-390-viewport.png",
+    "expanded-tr808-1440-viewport.png",
+    "expanded-tr808-390-viewport.png"
+  ],
+  "formalSha256": {
+    "collection": "6979ee762d35229091682e3a93f111cc5c82f5ac848594a9737b1b7339f67d13",
+    "chronicles": "8343d9ec6b649eaeb122d595c7911dac94d43dff30d50af9c3bb35b41e5e9d1a"
+  },
+  "remaining": [
+    "40 fact dossiers not imported as complete products",
+    "142 main photographs pending; licensed records only",
+    "music-expanded-2 remains explicitly preparing",
+    "Individual source scopes preserved; not all external sources re-read during implementation",
+    "No deployment, paid testing or physical-product verification",
+    "Future library/lifecycle design retained outside current implementation"
+  ]
+}

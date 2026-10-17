@@ -1,0 +1,105 @@
+{
+  "slug": "nothing-ear-a",
+  "checkedOn": "2026-10-15",
+  "query": "Selected exact licensed physical photograph",
+  "candidates": [
+    {
+      "slug": "nothing-ear-a",
+      "provider": "commons",
+      "title": "File:Nothing-Tokyo-2024-04-18 148.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nothing-Tokyo-2024-04-18_148.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Nothing-Tokyo-2024-04-18_148.jpg",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Nothing-Tokyo-2024-04-18_148.jpg/960px-Nothing-Tokyo-2024-04-18_148.jpg",
+      "creator": "RuinDig/Yuki Uchida",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-07-11 14:49:49",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nothing-Tokyo-2024-04-18 148",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Nothing ear (a)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "2024年4月18日、<a rel=\"mw:WikiLink/Interwiki\" href=\"https://ja.wikipedia.org/wiki/Nothing_Technology\" title=\"ja:Nothing Technology\" class=\"extiw\">Nothing Technology</a>が東京・新木場のGARDEN 新木場 FACTORYで新製品発表会・日本法人設立発表会の「NOTHING@TOKYO」を開催した。<br>\n完全ワイヤレスイヤホンのNothing Ear (a)の黄色の実機展示。",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-04-18 20:14:38",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:RuinDig\" title=\"User:RuinDig\">RuinDig/Yuki Uchida</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "2024年4月18日、<a rel=\"mw:WikiLink/Interwiki\" href=\"https://ja.wikipedia.org/wiki/Nothing_Technology\" title=\"ja:Nothing Technology\" class=\"extiw\">Nothing Technology</a>が東京・新木場のGARDEN 新木場 FACTORYで新製品発表会・日本法人設立発表会の「NOTHING@TOKYO」を開催した。<br>\n完全ワイヤレスイヤホンのNothing Ear (a)の黄色の実機展示。",
+      "localFile": "docs/evidence/photo-expansion/round3/nothing-ear-a.jpg",
+      "caption": "黄色Nothing Ear(a)与透明充电盒的现场展示实拍；图中防盗线不是产品配置。",
+      "modelVerification": "原作者描述明确2024-04-18东京发布会Ear(a)黄色实机；黄色半透明充电盒及耳机结构相符，排除Ear和Ear(2)。",
+      "visualReview": "亲自单张查看已下载图片；实物环境、细节及型号/代际特征已核对，无生成替代。",
+      "primaryLicenseVerification": {
+        "checkedOn": "2026-10-15",
+        "sourcePageArchive": "docs/evidence/photo-expansion/round3/nothing-ear-a-source.html",
+        "finding": "原文件页面许可与Own work已核对。"
+      },
+      "status": "approved-candidate",
+      "artist": "RuinDig/Yuki Uchida"
+    }
+  ]
+}

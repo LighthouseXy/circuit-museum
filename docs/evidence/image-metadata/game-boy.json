@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Game-Boy-FL.jpg",
+  "creator": "Evan-Amos",
+  "license": "公有领域（作者释出）",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/File:Game-Boy-FL.jpg#Licensing",
+  "alt": "灰色初代 Game Boy DMG-01，单色屏幕与十字方向键",
+  "path": "/images/game-boy.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Game-Boy-FL.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 2820,
+  "originalHeight": 3420,
+  "output": {
+    "format": "webp",
+    "width": 907,
+    "height": 1100,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 30260
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "query": "Samsung Freestyle",
+  "checkedOn": "2026-10-15",
+  "result_count": 2,
+  "page_count": 1,
+  "page_size": 20,
+  "page": 1,
+  "results": [
+    {
+      "id": "9d45baf4-815e-4e13-840a-4386db134188",
+      "title": "Richard's Paragliding Adventure",
+      "indexed_on": "2020-04-29T02:17:26.701698Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/61022450@N00/2904115679",
+      "url": "https://live.staticflickr.com/3082/2904115679_44641dcf25_b.jpg",
+      "creator": "Mom the Barbarian",
+      "creator_url": "https://www.flickr.com/photos/61022450@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "richard",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "action",
+          "accuracy": 0.96957,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "action energy",
+          "accuracy": 0.91633,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "adult",
+          "accuracy": 0.96782,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "air",
+          "accuracy": 0.93421,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "competition",
+          "accuracy": 0.97228,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "exhilaration",
+          "accuracy": 0.92039,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "flying",
+          "accuracy": 0.98173,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "freestyle",
+          "accuracy": 0.93539,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "fun",
+          "accuracy": 0.93054,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "jump",
+          "accuracy": 0.94575,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "man",
+          "accuracy": 0.9092,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "motion",
+          "accuracy": 0.94585,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "one",
+          "accuracy": 0.95742,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "parachute",
+          "accuracy": 0.94622,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "people",
+          "accuracy": 0.96915,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "recreation",
+          "accuracy": 0.96492,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "skill",
+          "accuracy": 0.91956,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "sky",
+          "accuracy": 0.93701,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "sport",
+          "accuracy": 0.94083,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "sports equipment",
+          "accuracy": 0.95662,
+          "unstable__provider": "clarifai"
+        }
+      ],
+      "attribution": "\"Richard's Paragliding Adventure\" by Mom the Barbarian is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 768,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/9d45baf4-815e-4e13-840a-4386db134188/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/9d45baf4-815e-4e13-840a-4386db134188/",
+      "related_url": "https://api.openverse.org/v1/images/9d45baf4-815e-4e13-840a-4386db134188/related/",
+      "unstable__sensitivity": []
+    },
+    {
+      "id": "11bc3f81-2f7e-491c-9fb2-6375c85dbd67",
+      "title": "FreeStyle Libre 2 Reader and LibreLink app",
+      "indexed_on": "2020-04-30T11:41:27.329410Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/184613180@N08/49446598708",
+      "url": "https://live.staticflickr.com/65535/49446598708_dd2eac4035_b.jpg",
+      "creator": "originaldaniel",
+      "creator_url": "https://www.flickr.com/photos/184613180@N08",
+      "license": "by-sa",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "abbottfreestylelibre",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "diabetes",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "flashglucosemonitoring",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "glucosemonitoring",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "medicaltech",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "nfc",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "samsunggalaxys10e",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"FreeStyle Libre 2 Reader and LibreLink app\" by originaldaniel is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 576,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/11bc3f81-2f7e-491c-9fb2-6375c85dbd67/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/11bc3f81-2f7e-491c-9fb2-6375c85dbd67/",
+      "related_url": "https://api.openverse.org/v1/images/11bc3f81-2f7e-491c-9fb2-6375c85dbd67/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

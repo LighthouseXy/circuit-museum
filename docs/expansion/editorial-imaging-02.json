@@ -1,0 +1,1845 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-11",
+  "status": "explanatory-revision-validated-not-imported",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ]
+  },
+  "exhibits": [
+    {
+      "slug": "rca-630ts",
+      "year": 1946,
+      "name": "630TS 桌面电视",
+      "brand": "RCA",
+      "category": "display",
+      "museumCategory": "display",
+      "categoryLabel": "电视与显示",
+      "aliases": [
+        "RCA 630TS 桌面电视"
+      ],
+      "tags": [
+        "电视与显示",
+        "1946"
+      ],
+      "summary": "假设机器此前调好且其他旋钮没有动，原手册的观看流程是转动兼作电源的声音旋钮，选择窗口中目标频道，等待十五至二十秒预热，再将微调调到合适声音，按需要调整画面。630TS的控制并没有压缩为一个“自动”按钮。",
+      "context": "RCA 630TS把电视接收设备装进可以放上家具的桌面机柜。这里的年代取Henry Ford博物馆那件物品的1946至1948年制造范围，排序用起年，不把一件藏品的日期变成全球上市日。馆藏说明还提及桌面整机、底盘与套件等销售形式：当时一套电视既是观看设备，也是需要安置和连接的电器。选择桌面款，意味着人要为它准备支承面和合适位置，屏幕并未自动获得独立落地空间。它与家用收音机的关联由此很具体：声音之外多出一幅画面，房间里人、机器和广播信号的关系也随之多了一层安排。",
+      "design": "630TS的控制并没有压缩为一个“自动”按钮。原说明书分别列出频道选择、声音微调、亮度、画面以及水平和垂直控制，把接收质量与图像稳定的不同问题交给不同旋钮。机柜把屏幕与这些调节集中在前方，使用者能一边看结果一边改变设置。好处是反馈直接：画面滚动、偏移或过亮可以成为下一步动作的依据；代价是必须分辨是哪一种问题，而不只是凭感觉旋转所有旋钮。桌面家具也成为设备的一部分条件，机身有外壳不代表观看高度已经合适，摆放时仍要考虑人的视线和靠近操作面板的距离。",
+      "usage": "假设机器此前调好且其他旋钮没有动，原手册的观看流程是转动兼作电源的声音旋钮，选择窗口中目标频道，等待十五至二十秒预热，再将微调调到合适声音，按需要调整画面。手册还要求关机时只动电源旋钮，保留其他设置；这让一次观看的准备与下一次开机衔接起来。操作目标不是点击某部作品，而是接收此刻正在播出的频道，广播方是否正在发送内容同样影响结果。面板上的频道窗口负责确认选择，耳朵与眼睛则共同判断接收，机器完成放大和显示，人仍参与把画面调到可观看的状态。",
+      "significance": "家用电视需要把无线接收、图像和声音一起调到可观看状态。630TS的任务入口是先开声音电源、选频道并等机器预热，再做细调；画面不是按下开关便在任何条件下完全就绪。相比Radiola III靠听觉调整广播，电视把观看反馈加入接收判断；后来的TV8-301再将同样的观看任务移到可携带机身。原手册的预热与调节顺序是明确操作证据，实物档案确认这是一件1946年的商品记录，不能据此得出家庭普及率。它值得保留的是早期家用影像的一整套准备动作：选内容与调机器相邻发生，便利仍依赖接收、供电和显示条件。",
+      "limitations": "这件博物馆物品的铭牌写115V、60Hz，不能据此给其他地区或其他底盘版本规定供电。预热时间来自当时说明书的正常操作段，不能保证今天存世机器仍按这个速度工作。调节旋钮允许用户改善接收，却不能使缺少信号的频道产生节目；这正是模拟接收的依赖条件。更深的内部校准属于维修工作，不是观看者随意调整机内高压部件的理由。本文呈现的是桌面630TS的操作结构，没有把落地柜、套件或现代转换设备并入标配；它仍是一台需要正确外部条件才能完成任务的电视。",
+      "dateLabel": "1946–1948（所编实物制造范围，排序取起年）",
+      "dateKind": "manufacture",
+      "regionVersion": "美国桌面KCS20A；不混底盘/套件销售形式",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "博物馆实物铭牌为115V、60Hz。",
+        "可见桌面、底盘与套件多种销售形式的档案说明。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1946–1948（所编实物制造范围，排序取起年）",
+          "sourceIds": [
+            "I150-S011"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "美国桌面KCS20A；不混底盘/套件销售形式",
+          "sourceIds": [
+            "I150-S011",
+            "I150-S012"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "博物馆实物铭牌为115V、60Hz。",
+          "sourceIds": [
+            "I150-S011"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "可见桌面、底盘与套件多种销售形式的档案说明。",
+          "sourceIds": [
+            "I150-S011"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S011",
+        "I150-S012",
+        "C:TXE01",
+        "I150-S013",
+        "I150-S014"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S011",
+          "I150-S012"
+        ],
+        "design": [
+          "I150-S011",
+          "I150-S012"
+        ],
+        "usage": [
+          "I150-S011",
+          "I150-S012"
+        ],
+        "significance": [
+          "I150-S011",
+          "I150-S012",
+          "C:TXE01",
+          "I150-S013",
+          "I150-S014"
+        ],
+        "limitations": [
+          "I150-S011",
+          "I150-S012"
+        ]
+      },
+      "relatedSlugs": [
+        "radiola-iii",
+        "sony-tv8-301"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "radiola-iii",
+        "sony-tv8-301"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "display-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "display",
+        "stageId": "display-expanded-1",
+        "title": "电子接收与屏幕体积",
+        "need": "在室内接收并观看画面。",
+        "turn": "机身、显像结构与控制组织观看空间。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 985,
+      "mediaOpinions": [],
+      "readerTakeaway": "先看开机、预热和选台的顺序，再看声音与图像怎样共同反馈。630TS说明电视进入家庭时，观看也包含调好设备的劳动。",
+      "readerTakeawaySources": [
+        "I150-S011",
+        "I150-S012",
+        "C:TXE01",
+        "I150-S013",
+        "I150-S014"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "radiola-iii",
+          "sourceIds": [
+            "C:TXE01"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "sony-tv8-301",
+          "sourceIds": [
+            "I150-S013",
+            "I150-S014"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "sony-tv8-301",
+      "year": 1960,
+      "name": "TV8-301",
+      "brand": "Sony",
+      "category": "display",
+      "museumCategory": "display",
+      "categoryLabel": "电视与显示",
+      "aliases": [
+        "Sony TV8-301"
+      ],
+      "tags": [
+        "电视与显示",
+        "1960"
+      ],
+      "summary": "它的明确任务是把电视节目带到不同位置观看。TV8-301采用二十三只晶体管和十九只二极管，并保留直接观看的屏幕。",
+      "context": "TV8-301于1960年五月推出，是Sony将晶体管经验用于电视的一件八英寸商品。原厂回顾区分了此前的开发样机与实际销售机，本稿沿用后者的上市事件。电视在这里不只被想象成客厅中的固定设施：较小屏幕与多种供电方式，使改变观看位置成为产品要解决的任务。观看者可以把机器带到另一个室内位置，再重新安排屏幕和座位；这和只在既定柜子前坐下相比，多了一次选择。其便携性仍建立在一件有实体体积的设备上，产品把画面带走，却不能把所有接收条件一起藏进机壳。",
+      "design": "TV8-301采用二十三只晶体管和十九只二极管，并保留直接观看的屏幕。变化发生在电子线路及供电安排，并不意味着显像部分变成平板。八英寸显示面与可携机身形成取舍：屏幕便于放进较小设备，观看者同时需要更认真选择距离和角度。原厂列出充电电池、交流与直流三种供电，分别对应不同使用条件；这不是三种能源能够毫无准备地互换。与只能围绕固定插座安排的设备相比，多种入口增加了摆放选择，也使电池、电源与适配条件成为需要事先确认的配套。",
+      "usage": "它的明确任务是把电视节目带到不同位置观看。人在室内可以选择交流供电；离开固定电源时，可按本机规定准备充电电池或直流输入，再把屏幕放到能看清的地方。选择电源与放置机器是观看之前的工作，不应把提起机身等同于已经获得节目。供电解决的是让接收与显示线路运行，接收环境解决的是画面来自哪里，这两件事不可互相替代。小屏幕又使位置调整成为操作的一部分：从距离过远的位置移近，或让观看者围绕它重新坐下，便携形态的价值就在这些实际安排中显现。",
+      "significance": "电视不只要接收节目，还要回答画面在哪里被看。TV8-301以晶体管、小屏幕和多种供电把观看从固定家具位置带到可携带设备；用户先安排放置与电源，再找台调图。与630TS相比，变化首先在整机和身体的关系，并不是把正在播出的内容变成自选录音。Betamax SL-6300后来才加入保存并延后观看的环节，便携与时间控制是两种不同能力。Sony同期上市回顾与器件档案支持这套设计，未量化人们外出看电视的频率。它提供明确的移动观看方案，仍受小画面、接收和供电条件限制。",
+      "limitations": "便携并不取消CRT的厚度与显示条件，也不保证所有户外或车内位置都能获得合适接收。原厂写可用于室内、室外和汽车，是产品所设想的供电及携带场景，不能推定任意车辆电源可直接接入。电池运行意味着另有充电和维护工作，交流运行又重新受插座位置约束；选择一种便利通常伴随另一项准备。八英寸适于较近距离观看，不能用后代更小电视的销售表现解释这台机器的用户体验。本稿因此把1960年的型号、电源选择与直接观看屏幕放在一起，不添加后续电视的接口或调谐功能。",
+      "dateLabel": "1960-05（原厂上市回顾）",
+      "dateKind": "launch",
+      "regionVersion": "日本原TV8-301；不混TV5-303",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "23个晶体管与19个二极管。",
+        "可选择三种供电输入。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1960-05（原厂上市回顾）",
+          "sourceIds": [
+            "I150-S013",
+            "I150-S014"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "日本原TV8-301；不混TV5-303",
+          "sourceIds": [
+            "I150-S013",
+            "I150-S014"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "23个晶体管与19个二极管。",
+          "sourceIds": [
+            "I150-S013"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "可选择三种供电输入。",
+          "sourceIds": [
+            "I150-S013"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S013",
+        "I150-S014",
+        "I150-S011",
+        "I150-S012",
+        "L:ER13",
+        "L:ER14",
+        "L:ER15"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S013",
+          "I150-S014"
+        ],
+        "design": [
+          "I150-S013",
+          "I150-S014"
+        ],
+        "usage": [
+          "I150-S013",
+          "I150-S014"
+        ],
+        "significance": [
+          "I150-S013",
+          "I150-S014",
+          "I150-S011",
+          "I150-S012",
+          "L:ER13",
+          "L:ER14",
+          "L:ER15"
+        ],
+        "limitations": [
+          "I150-S013",
+          "I150-S014"
+        ]
+      },
+      "relatedSlugs": [
+        "regency-tr1",
+        "rca-630ts"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "regency-tr1",
+        "rca-630ts"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "display-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "display",
+        "stageId": "display-expanded-1",
+        "title": "电子接收与屏幕体积",
+        "need": "在室内接收并观看画面。",
+        "turn": "机身、显像结构与控制组织观看空间。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 955,
+      "mediaOpinions": [],
+      "readerTakeaway": "观察屏幕大小与供电方式，想象带到另一位置后还要做什么。TV8-301让电视可以移动，但节目仍跟随电台播出时间。",
+      "readerTakeawaySources": [
+        "I150-S013",
+        "I150-S014",
+        "I150-S011",
+        "I150-S012",
+        "L:ER13",
+        "L:ER14",
+        "L:ER15"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "rca-630ts",
+          "sourceIds": [
+            "I150-S011",
+            "I150-S012"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "sony-betamax-sl-6300",
+          "sourceIds": [
+            "L:ER13",
+            "L:ER14",
+            "L:ER15"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "sony-kv-1310",
+      "year": 1968,
+      "name": "KV-1310",
+      "brand": "Sony",
+      "category": "display",
+      "museumCategory": "display",
+      "categoryLabel": "电视与显示",
+      "aliases": [
+        "Sony KV-1310"
+      ],
+      "tags": [
+        "电视与显示",
+        "1968"
+      ],
+      "summary": "它承担的任务是把彩色节目作为房间中的共同画面呈现。Trinitron将三合一电子枪与孔径栅格配合，组织红、绿、蓝的显示；这与原厂所对照的传统荫罩结构不同。",
+      "context": "1968年的KV-1310属于Sony初期Trinitron彩色电视商品。它继续是一台在房间里接收并显示节目的电视，产品变化主要发生在显像管内部怎样形成颜色，而不是把所有观看动作换成另一套方式。原厂历史把它放在此前Chromatron制造困难之后，说明线路和显像方案还要面对生产可行性。对于需要一台家用彩电的人，这些工程选择最终落在能够买到和摆放的机器上。把型号放回这一背景，可以理解为何一种新的内部结构仍采用十三英寸屏幕：面板尺寸、画面目标与可制造程度并不是互不相关的决定。",
+      "design": "Trinitron将三合一电子枪与孔径栅格配合，组织红、绿、蓝的显示；这与原厂所对照的传统荫罩结构不同。KV-1310选择十三英寸画面，厂商回顾明确把较小尺寸与当时较易量产联系起来。结构的意义可以从两面读：显像管里的改变旨在改善显示，整机大小又受生产和居家摆放限制。它仍需要有纵深的机身承装显像装置，不能因为后来Trinitron有更大、更宽的型号，就把这台电视想成薄屏系列。画面面积是用户能看见的结果，电子枪和栅格则是隐藏在外壳中的手段。",
+      "usage": "它承担的任务是把彩色节目作为房间中的共同画面呈现。观看前要给整机选择稳定位置，让十三英寸屏幕面向座位，并使用符合版本要求的接收与供电条件；彩色显像结构负责把相应信号转换成可看的颜色。这里没有把某个未经读取的后代遥控流程套给1968年机器。对于多人观看，小屏幕使座位到屏幕的关系尤其具体：设备并非无限放大内容，而是在固定尺寸的画面里呈现细节。人的摆放与观看距离仍参与效果，新的显像结构能够影响颜色和亮度，却不会自动为房间安排观看者。",
+      "significance": "彩色电视要让颜色、亮度和可制造的结构共同工作。KV-1310用三束电子形成的共同电子枪与孔栅安排图像，用户则以一台13英寸电视完成彩色节目观看。TV8-301主要改变携带条件，这台改变的是屏幕内部如何产生彩色画面；后来的AQUOS LC20C1又改用液晶，重新分配机身厚度和支撑空间。Sony历史说明Trinitron方案与此前Chromatron制造问题之间的取舍，支持技术为何落到这件商品，不等于独立画质测量。保存KV-1310能让彩色显示成为具体结构选择，画面效果仍要连同节目、调整和观看条件理解。",
+      "limitations": "Sony历史中的“两倍亮度”是厂商对其方案的比较宣传，本文不把它作为统一条件下复测KV-1310的数值。十三英寸也是这一型号的选择，不能推为所有Trinitron电视的尺寸。对现实使用，信号制式、供电及存世机器的状态都会影响能否观看，内部结构名称本身不解决这些条件。较小显示面便利摆放，也限制远距离读细节，显示质量和画面面积因而需要分别讨论。技术团队后来获得的荣誉不写成这台单机的工业设计奖；本文保留1968年日本型号与三合一电子枪、孔径栅格之间可核的关系。",
+      "dateLabel": "1968（日本原厂推出年份）",
+      "dateKind": "launch",
+      "regionVersion": "日本原型号；不混英国KV-1330UB",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "Trinitron使用三合一电子枪与孔径栅格。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1968（日本原厂推出年份）",
+          "sourceIds": [
+            "I150-S015"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "日本原型号；不混英国KV-1330UB",
+          "sourceIds": [
+            "I150-S015",
+            "I150-S013"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "Trinitron使用三合一电子枪与孔径栅格。",
+          "sourceIds": [
+            "I150-S013"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S015",
+        "I150-S013",
+        "I150-S014",
+        "I150-S018",
+        "I150-S019",
+        "CWI-S001"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S015",
+          "I150-S013"
+        ],
+        "design": [
+          "I150-S015",
+          "I150-S013"
+        ],
+        "usage": [
+          "I150-S015",
+          "I150-S013"
+        ],
+        "significance": [
+          "I150-S015",
+          "I150-S013",
+          "I150-S014",
+          "I150-S018",
+          "I150-S019",
+          "CWI-S001"
+        ],
+        "limitations": [
+          "I150-S015",
+          "I150-S013"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-tv8-301",
+        "sony-xel-1"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "sony-tv8-301",
+        "sony-xel-1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "display-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "display",
+        "stageId": "display-expanded-1",
+        "title": "电子接收与屏幕体积",
+        "need": "在室内接收并观看画面。",
+        "turn": "机身、显像结构与控制组织观看空间。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 938,
+      "mediaOpinions": [],
+      "readerTakeaway": "先辨认孔栅与共同电子枪在屏幕后承担的工作。KV-1310值得选，因为彩色观看的改进在一件明确的电视结构中落实，而不只是外壳换色。",
+      "readerTakeawaySources": [
+        "I150-S015",
+        "I150-S013",
+        "I150-S014",
+        "I150-S018",
+        "I150-S019",
+        "CWI-S001"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "sony-tv8-301",
+          "sourceIds": [
+            "I150-S013",
+            "I150-S014"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "sharp-aquos-lc20c1",
+          "sourceIds": [
+            "I150-S018",
+            "I150-S019",
+            "CWI-S001"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "sharp-aquos-lc20c1",
+      "year": 2001,
+      "name": "AQUOS LC-20C1",
+      "brand": "Sharp",
+      "category": "display",
+      "museumCategory": "display",
+      "categoryLabel": "电视与显示",
+      "aliases": [
+        "Sharp AQUOS LC-20C1"
+      ],
+      "tags": [
+        "电视与显示",
+        "2001"
+      ],
+      "summary": "这台电视的一项清楚任务，是把室内观看从一个固定家具位置带到另一个位置。LC20C1的薄液晶显示部分由台架支撑，设计档案把这种关系比作三脚架上的相机或画架上的画布。",
+      "context": "Sharp在2001年一月一日推出AQUOS C1系列，本稿限定其中二十英寸LC20C1。产品把液晶电视放进真实家庭选择：不仅能显示节目，还要让屏幕在房间里找到比厚显像管电视更灵活的位置。馆藏设计档案将它与喜多俊之联系起来，并将台架、薄显示部分和提手放在同一个设计描述中。这样一台机器的目标不是让观看者学习全新的内容格式，而是改变已有电视在家具与房间中的存在方式。日期与型号区分也有必要，系列另外尺寸的记录不应替代二十英寸款的具体物件。",
+      "design": "LC20C1的薄液晶显示部分由台架支撑，设计档案把这种关系比作三脚架上的相机或画架上的画布。提手使移动意图变成可触及的部件，屏幕不必永远沿用大箱体的摆放方式。这里的轻薄不是没有支撑：台架仍要承重并保持观看角度，提手也不等于整机自带无线节目和电源。档案将不含台架的尺寸另列，提醒阅读外形时要把显示面与完整设备分开。设计的取舍因而很具体：减少显示部分的纵深，换来新的支撑关系，仍需在稳定性、搬动动作与连线安排之间协调。",
+      "usage": "这台电视的一项清楚任务，是把室内观看从一个固定家具位置带到另一个位置。使用者可以利用提手搬动设备，将台架放稳，再重新安排供电、信号连接与座位；这是一种有准备的移动，不是边走边看的承诺。二十英寸屏幕适合被当成独立显示物件摆放，台架使画面朝向与设备占地成为可以调整的选择。原厂历史还介绍系列可配合不同安装方式，但配件不等于所有买家默认拿到相同套装。实际摆放时，要看手里的本机与支架组合，而不能仅凭系列宣传把落地架或墙装能力当成已安装的事实。",
+      "significance": "液晶电视变薄后，设计问题从容纳显像管转为如何放置、拿取和观看一块屏。LC20C1用类似画架的支撑和便于拿持的结构，把电视从厚重箱体重新安排为可在室内选择位置的物件。KV-1310需要为显像管留深度，XEL-1后来以OLED薄屏和分开的底座再次处理同类问题；这里比较的是结构与放置，不假定用户按型号逐代升级。Sharp相关设计档案具体记录外形和支撑思路，产品身份说明其已经作为商品出现，但没有提供家庭移动频率。它的价值在于薄型显示如何改变物件关系，液晶画面与电源、信号仍需配套。",
+      "limitations": "提手和便携设计首先解决室内搬动，本文不为LC20C1添加后来的无线调谐盒、电池或网络应用。台架与显示部分的尺寸也要分别读，不能拿不含支架的深度计算完整占地。原厂列出的450cd/m²为产品指标，本轮未独立测量，明亮房间里的反射和观看距离还会影响体验。移动电视增加位置自由，也要求重新处理连线和支承，这是这一形态的日常代价。正文只介绍二十英寸C1，不将后续AQUOS遥控联动或其他尺寸的推出时间反写到它；原资料之间有共同原厂来源，档案作用是核实物件而非建立用户共识。",
+      "dateLabel": "2001-01-01（日本）",
+      "dateKind": "launch",
+      "regionVersion": "20英寸LC20C1；不将13英寸延迟上市算此款日期",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "喜多俊之设计的原AQUOS系列20英寸款。",
+        "原厂档案列450cd/m²亮度，非独立实测。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2001-01-01（日本）",
+          "sourceIds": [
+            "I150-S018"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "20英寸LC20C1；不将13英寸延迟上市算此款日期",
+          "sourceIds": [
+            "I150-S018",
+            "I150-S019"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "喜多俊之设计的原AQUOS系列20英寸款。",
+          "sourceIds": [
+            "I150-S018"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "原厂档案列450cd/m²亮度，非独立实测。",
+          "sourceIds": [
+            "I150-S019"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S018",
+        "I150-S019",
+        "CWI-S001",
+        "I150-S015",
+        "I150-S013",
+        "I150-S016",
+        "I150-S073"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S018",
+          "I150-S019",
+          "CWI-S001"
+        ],
+        "design": [
+          "I150-S018",
+          "I150-S019",
+          "CWI-S001"
+        ],
+        "usage": [
+          "I150-S018",
+          "I150-S019",
+          "CWI-S001"
+        ],
+        "significance": [
+          "I150-S018",
+          "I150-S019",
+          "CWI-S001",
+          "I150-S015",
+          "I150-S013",
+          "I150-S016",
+          "I150-S073"
+        ],
+        "limitations": [
+          "I150-S018",
+          "I150-S019",
+          "CWI-S001"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-kv-1310",
+        "sony-xel-1"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "sony-kv-1310",
+        "sony-xel-1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "display-expanded-2"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "display",
+        "stageId": "display-expanded-2",
+        "title": "投影与平板显示",
+        "need": "为画面安排不同显示面和摆放位置。",
+        "turn": "投影、液晶与OLED提供不同整机形态。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 965,
+      "mediaOpinions": [],
+      "readerTakeaway": "注意它怎样站住、怎样被拿起，而不只看正面的薄屏。LC20C1让显示技术的变化成为室内放置与拿持的具体选择。",
+      "readerTakeawaySources": [
+        "I150-S018",
+        "I150-S019",
+        "CWI-S001",
+        "I150-S015",
+        "I150-S013",
+        "I150-S016",
+        "I150-S073"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "sony-kv-1310",
+          "sourceIds": [
+            "I150-S015",
+            "I150-S013"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "sony-xel-1",
+          "sourceIds": [
+            "I150-S016",
+            "I150-S073"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "samsung-the-frame-ls003",
+      "year": 2017,
+      "name": "The Frame 55 LS003",
+      "brand": "Samsung",
+      "category": "display",
+      "museumCategory": "display",
+      "categoryLabel": "电视与显示",
+      "aliases": [
+        "Samsung The Frame 55 LS003"
+      ],
+      "tags": [
+        "电视与显示",
+        "2017"
+      ],
+      "summary": "2017年重印评测描述，短按遥控器待机键可进入Art Mode，选择照片或画作。LS003将艺术显示、画框外观与One Connect连接盒组合。",
+      "context": "2017年的The Frame LS003把55英寸4K电视与画框式呈现结合。本稿用英国同期已可购买公告确认商品时间，用德国重印资料核同代型号与操作；不同地区调谐配置不合并。它面对的问题来自一台大屏在房间里的长期存在：节目结束后，屏幕仍占据墙面。产品提出的选择是切换到Art Mode显示艺术或照片，让显示器在非节目观看时继续承担一个明确任务。这个任务与普通开关机不同，也不能把“待机艺术显示”理解为机器已经没有耗电；显示画面的状态仍属于电子设备运行。",
+      "design": "LS003将艺术显示、画框外观与One Connect连接盒组合。把部分连接集中到外置盒，让显示面周围可以安排得更像画框，但设备并未因此只剩下一块无配套屏幕。传感器和亮度控制参与艺术模式，使图像呈现适应房间，而框架提供的是轮廓与摆放语境。硬件分置也带来另一项考虑：连接盒必须有容身位置，设备之间的线仍需规划。设计不是简单贴上装饰边，而是在电视观看、静态展示、外部连接与室内布置之间分配任务；想把电视当作画挂起的人，同时需要考虑它仍是一套电器。",
+      "usage": "2017年重印评测描述，短按遥控器待机键可进入Art Mode，选择照片或画作。资料还写到用SmartView应用导入手机图像、调整显示与传感设置，以及经USB使用数字相机照片。这里的真实任务可以是把旅行照片从私人设备放到房间里，先选择文件，再确认显示方式和亮度；与观看节目相比，用户还成为展示内容的选择者。运动与光线感知可参与何时显示画面，但设置要符合人的活动习惯。原文实测的传感组合并非每种情况下都同样可靠，因此适合把自动显示理解为可调辅助，而不是无人配置就一定正确的行为。",
+      "significance": "电视在关闭节目后仍占据墙面，The Frame把这段闲置时间作为设计任务：短按待机按钮进入艺术显示，用户选择图片、调亮度，并考虑与房间的关系。相比LC20C1重点解决薄屏怎么摆，它进一步让屏幕在不看电视时承担图像展示；The Sero则将竖向内容的方向变化带到机械结构。2017年AVFB资料说明Art Mode和个人照片流程，属于Samsung托管的媒体特刊，能核操作但不能当未经选择的独立口碑。它不是消除电视，而是给同一屏幕添加第二种日常状态；持续显示、内容和安装条件仍影响这种便利。",
+      "limitations": "Art Mode仍在发光并消耗电能，不能因为图像像装饰画就称为断电状态。可选图库、应用和个人照片输入各有供应与兼容条件，2017资料中的服务也不能保证今天原样可用。外置连接盒改善部分连线安排，却另占位置；传感设置可能需要根据房间修正，自动化并未取消人的选择。用于操作依据的PDF是厂商托管的杂志特别重印，本文采用其明确描述，不把托管本身当作独立样机复测。型号限LS003，后来的防反射屏、处理器和图库套餐都没有并入；这些边界使画框电视的实际任务保持清楚。",
+      "dateLabel": "2017（英国同期已售公告）",
+      "dateKind": "launch",
+      "regionVersion": "欧洲55英寸LS003；不混后续LS03系列，地区调谐器不合并",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "55英寸4K；Art Mode显示艺术内容。",
+        "外置One Connect连接盒。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2017（英国同期已售公告）",
+          "sourceIds": [
+            "I150-S058"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "欧洲55英寸LS003；不混后续LS03系列，地区调谐器不合并",
+          "sourceIds": [
+            "I150-S058",
+            "I150-S059"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "55英寸4K；Art Mode显示艺术内容。",
+          "sourceIds": [
+            "I150-S059"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "外置One Connect连接盒。",
+          "sourceIds": [
+            "I150-S059"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S058",
+        "I150-S059",
+        "I150-S018",
+        "I150-S019",
+        "CWI-S001",
+        "I150-S060",
+        "I150-S061"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S058",
+          "I150-S059"
+        ],
+        "design": [
+          "I150-S058",
+          "I150-S059"
+        ],
+        "usage": [
+          "I150-S058",
+          "I150-S059"
+        ],
+        "significance": [
+          "I150-S058",
+          "I150-S059",
+          "I150-S018",
+          "I150-S019",
+          "CWI-S001",
+          "I150-S060",
+          "I150-S061"
+        ],
+        "limitations": [
+          "I150-S058",
+          "I150-S059"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-xel-1",
+        "samsung-the-sero-ls05t",
+        "lg-signature-oled-r-rx"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "sony-xel-1",
+        "samsung-the-sero-ls05t",
+        "lg-signature-oled-r-rx"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "display-expanded-3"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "display",
+        "stageId": "display-expanded-3",
+        "title": "屏幕与房间重新组合",
+        "need": "在观看之外安排屏幕的存在。",
+        "turn": "画框、旋转、卷收与便携结构呈现不同选择。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 941,
+      "mediaOpinions": [],
+      "readerTakeaway": "看一次从节目切到Art Mode的动作，再看用户如何挑图片。The Frame值得选，因为它专门处理电视闲置时如何参与房间，而不只提高播放参数。",
+      "readerTakeawaySources": [
+        "I150-S058",
+        "I150-S059",
+        "I150-S018",
+        "I150-S019",
+        "CWI-S001",
+        "I150-S060",
+        "I150-S061"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "sharp-aquos-lc20c1",
+          "sourceIds": [
+            "I150-S018",
+            "I150-S019",
+            "CWI-S001"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "samsung-the-sero-ls05t",
+          "sourceIds": [
+            "I150-S060",
+            "I150-S061"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "samsung-the-sero-ls05t",
+      "year": 2020,
+      "name": "The Sero 43 LS05T",
+      "brand": "Samsung",
+      "category": "display",
+      "museumCategory": "display",
+      "categoryLabel": "电视与显示",
+      "aliases": [
+        "Samsung The Sero 43 LS05T"
+      ],
+      "tags": [
+        "电视与显示",
+        "2020"
+      ],
+      "summary": "法国原公告描述，使用者可通过遥控器专门按键、手机或Bixby语音改变方向；Tap View用于连接兼容手机以分享内容。Sero将旋转显示面放在竖向支承结构上，屏幕转向时整机需要为运动留下空间。",
+      "context": "2020年的43英寸The Sero LS05T让电视显示面可以在横向与竖向之间旋转。法国六月公告确认当时已售，本稿把欧洲同代型号作为范围，不用奥地利尾码替法国设备规定所有区域配置。它回应的具体任务是把手机上的竖向内容带到较大屏幕，而不是只放大传统横屏节目。面对竖视频，观众可以调整的是显示面的方向，内容不必总在横向矩形中缩成中间一条。产品因而把一种观看格式问题变成机械结构和控制任务，改变的不只是菜单里的显示比例。",
+      "design": "Sero将旋转显示面放在竖向支承结构上，屏幕转向时整机需要为运动留下空间。43英寸4K显示与可转动结构相接，设计同时面对横向电影和竖向手机内容。支架不只是装饰，它维持屏幕在两种方向中的位置，并让转动成为重复使用的动作。代价也从这里出现：墙面或家具必须为完整旋转轮廓留余地，不能按照一个静止横屏矩形计算空间。方向改变适应内容，但不会改善源视频本身的细节；一段较低分辨率的手机画面被放大后，仍依赖原始拍摄和传输质量。",
+      "usage": "法国原公告描述，使用者可通过遥控器专门按键、手机或Bixby语音改变方向；Tap View用于连接兼容手机以分享内容。一次使用任务可以从自己的竖向录像开始：先连接手机，让内容进入电视，再选择竖向显示，使人物和画面顺序按拍摄时的构图出现。要看横向电影时，再把屏幕转回横向。方向选择与内容选择是两步，不等于机器能理解任何视频应该怎样裁切。公告还列待机展示方式，使屏幕转向后可以承担照片或时钟等任务；每一种模式都应按该版本功能理解，不能借今天的应用界面代替当时操作。",
+      "significance": "手机上的竖向内容放到横向电视时，观看方向和画面范围会冲突。The Sero用可旋转屏幕与底座回应这个具体任务：选择合适连接，把屏幕转成竖向，让手机内容获得对应方向。The Frame主要改变电视闲置时显示什么，The Sero则改变显示面本身的朝向；StanbyME Go后来又把横竖、桌面位置和携带箱结合。原厂法国销售与操作说明确认商品及旋转入口，未证明所有人都会频繁竖看电视。它的关键差异是内容格式推动机械动作，使用价值仍依赖手机兼容、实际片源、空间和用户愿意进行的切换。",
+      "limitations": "可转动并不代表电视能在任何贴墙或狭小位置旋转，使用前需要为支架和显示面预留运动空间。Tap View、手机控制和语音功能有兼容设备、网络及地区服务条件，本稿不把三个入口说成所有用户一定都能使用。4K是显示器能力，不能把手机原有竖视频自动称为原生4K；放大与提高信息量是两回事。本文限2020 LS05T，不引用后续机器的软件与画质处理作为首发功能。方向切换便利分享，也增加结构、摆放与使用准备，理解这一代价才能判断它是否适合某个实际房间和观看习惯。",
+      "dateLabel": "2020（法国已售公告、欧洲型号档案）",
+      "dateKind": "launch",
+      "regionVersion": "欧洲LS05T 43英寸；奥地利后缀仅核该地区版本",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "43英寸4K；可由横向转为竖向显示。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2020（法国已售公告、欧洲型号档案）",
+          "sourceIds": [
+            "I150-S060"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "欧洲LS05T 43英寸；奥地利后缀仅核该地区版本",
+          "sourceIds": [
+            "I150-S060",
+            "I150-S061"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "43英寸4K；可由横向转为竖向显示。",
+          "sourceIds": [
+            "I150-S060"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S060",
+        "I150-S061",
+        "I150-S058",
+        "I150-S059",
+        "L:AMG01",
+        "L:AMG02",
+        "L:AMG03"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S060",
+          "I150-S061"
+        ],
+        "design": [
+          "I150-S060",
+          "I150-S061"
+        ],
+        "usage": [
+          "I150-S060",
+          "I150-S061"
+        ],
+        "significance": [
+          "I150-S060",
+          "I150-S061",
+          "I150-S058",
+          "I150-S059",
+          "L:AMG01",
+          "L:AMG02",
+          "L:AMG03"
+        ],
+        "limitations": [
+          "I150-S060",
+          "I150-S061"
+        ]
+      },
+      "relatedSlugs": [
+        "samsung-the-frame-ls003",
+        "lg-signature-oled-r-rx"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "samsung-the-frame-ls003",
+        "lg-signature-oled-r-rx"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "display-expanded-3"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "display",
+        "stageId": "display-expanded-3",
+        "title": "屏幕与房间重新组合",
+        "need": "在观看之外安排屏幕的存在。",
+        "turn": "画框、旋转、卷收与便携结构呈现不同选择。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 934,
+      "mediaOpinions": [],
+      "readerTakeaway": "注意手机内容怎样连接，以及屏幕转动前后改变了什么。The Sero把横竖方向变成物理操作，适合从内容格式理解它的选择。",
+      "readerTakeawaySources": [
+        "I150-S060",
+        "I150-S061",
+        "I150-S058",
+        "I150-S059",
+        "L:AMG01",
+        "L:AMG02",
+        "L:AMG03"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "samsung-the-frame-ls003",
+          "sourceIds": [
+            "I150-S058",
+            "I150-S059"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "lg-stanbyme-go-27lx5qkna",
+          "sourceIds": [
+            "L:AMG01",
+            "L:AMG02",
+            "L:AMG03"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "lg-signature-oled-r-rx",
+      "year": 2020,
+      "name": "SIGNATURE OLED R (RX)",
+      "brand": "LG",
+      "category": "display",
+      "museumCategory": "display",
+      "categoryLabel": "电视与显示",
+      "aliases": [
+        "LG SIGNATURE OLED R (RX)"
+      ],
+      "tags": [
+        "电视与显示",
+        "2020"
+      ],
+      "summary": "一个清楚的使用任务是看电影时选择Full View，让整个显示面展开；不再需要大画面时切换到Line View或Zero View。RX的65英寸OLED显示面可以卷入底座，产品提供Full View、Line View和Zero View三种展开安排。",
+      "context": "LG于2020年十月二十日在韩国首批店铺销售65英寸RX卷屏电视。本稿用这一实际销售事件，而不是较早展会演示，作为年代锚点。产品针对的任务十分具体：需要大画面时让屏幕出现，不看时减少显示面在房间里的存在。它没有让电视系统消失，而是改变屏幕展开的状态；底座、声音与供电仍然属于房间中的物件。把已售商品与此前概念展示分开，能使观众看到柔性面板怎样和驱动、支撑及机壳组成可使用设备，而不把可弯的一块材料直接等同完整电视。",
+      "design": "RX的65英寸OLED显示面可以卷入底座，产品提供Full View、Line View和Zero View三种展开安排。底座兼容纳卷屏机构与音响，所以屏幕收起后仍留下一件有体积的设备。柔性显示让一块大显示面获得较小的收纳轮廓，机械运动则承担了反复展开、定位和收回的工作。设计取舍不是“大屏或小屏”二选一，而是在不同任务之间选择展开程度：完整画面用于观看，窄条用于部分信息，隐藏用于不需要显示时。代价是将原本固定的显示面变成依赖运动部件的系统，房间仍需容纳底座和展开时的高度。",
+      "usage": "一个清楚的使用任务是看电影时选择Full View，让整个显示面展开；不再需要大画面时切换到Line View或Zero View。欧洲RX9LA产品页说明，条状显示可用于音乐、时钟或照片等特定任务，完全收起后仍可利用声音功能。这里采用同代RX的共通结构，不把欧洲调谐器与服务套给韩国版本。用户改变的不只是当前播放内容，还包括设备露出的显示面积，因而需要先决定这次活动是否需要画面。声音任务允许屏幕退出视线，但不会使底座、电源与音响停止存在；这一分工是卷屏电视能够被理解的日常操作。",
+      "significance": "屏幕在观看之外怎样退出房间，是OLED R与普通薄屏不同的问题。RX通过升起、部分露出和完全收回三个状态，把屏幕面积变成随任务变化的结构：看节目用完整显示，较少信息可用Line View，不显示时留底座承担其他功能。XEL-1展示OLED薄屏可以成为明确商品，RX则进一步利用形体变化；The Frame让闲置屏幕展示艺术，RX选择把画面收起来。原厂页面确认这些状态与音乐、时钟等入口，未提供长期机构寿命或家庭采用数据。它提供一个具体的空间取舍，同时保留价格、体积和机械耐久需要判断的条件。",
+      "limitations": "收卷的是显示面，不是整机，底座仍需固定空间、供电和可展开的上方区域。三个视图模式也不是任意裁成任何高度，而是产品明确安排的任务状态。机械运动使外形能够变化，同时增加了长期运行时需要考虑的驱动与卷屏部件；本文没有用静态产品页推断其寿命或可靠性。韩国销售信息与欧洲RX9LA结构资料承担不同作用，软件、广播配置和区域服务不混用。官方页面中的画质及豪华定位属于宣传，本文不据此替用户评价价格或效果；RX的已核价值是大显示面的可收纳结构与对应使用任务。",
+      "dateLabel": "2020-10-20（韩国首批店铺实际销售）",
+      "dateKind": "launch",
+      "regionVersion": "韩国65英寸RX；波兰RX9LA仅共通结构参考",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "65英寸4K可卷OLED；Full/Line/Zero View三种展开模式。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2020-10-20（韩国首批店铺实际销售）",
+          "sourceIds": [
+            "I150-S062"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "韩国65英寸RX；波兰RX9LA仅共通结构参考",
+          "sourceIds": [
+            "I150-S062",
+            "I150-S063"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "65英寸4K可卷OLED；Full/Line/Zero View三种展开模式。",
+          "sourceIds": [
+            "I150-S062"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S062",
+        "I150-S063",
+        "CWI-S002",
+        "I150-S016",
+        "I150-S073",
+        "I150-S058",
+        "I150-S059"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S062",
+          "I150-S063",
+          "CWI-S002"
+        ],
+        "design": [
+          "I150-S062",
+          "I150-S063",
+          "CWI-S002"
+        ],
+        "usage": [
+          "I150-S062",
+          "I150-S063",
+          "CWI-S002"
+        ],
+        "significance": [
+          "I150-S062",
+          "I150-S063",
+          "CWI-S002",
+          "I150-S016",
+          "I150-S073",
+          "I150-S058",
+          "I150-S059"
+        ],
+        "limitations": [
+          "I150-S062",
+          "I150-S063",
+          "CWI-S002"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-xel-1",
+        "samsung-the-frame-ls003",
+        "samsung-the-sero-ls05t"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "sony-xel-1",
+        "samsung-the-frame-ls003",
+        "samsung-the-sero-ls05t"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "display-expanded-3"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "display",
+        "stageId": "display-expanded-3",
+        "title": "屏幕与房间重新组合",
+        "need": "在观看之外安排屏幕的存在。",
+        "turn": "画框、旋转、卷收与便携结构呈现不同选择。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 947,
+      "mediaOpinions": [],
+      "readerTakeaway": "观察Full、Line与Zero三个状态分别保留什么。OLED R值得选，因为它让“不看屏幕时怎么办”成为可见的机械与界面方案。",
+      "readerTakeawaySources": [
+        "I150-S062",
+        "I150-S063",
+        "CWI-S002",
+        "I150-S016",
+        "I150-S073",
+        "I150-S058",
+        "I150-S059"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "sony-xel-1",
+          "sourceIds": [
+            "I150-S016",
+            "I150-S073"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "samsung-the-frame-ls003",
+          "sourceIds": [
+            "I150-S058",
+            "I150-S059"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "epson-vpj-700",
+      "year": 1989,
+      "name": "VPJ-700",
+      "brand": "Epson",
+      "category": "projectors",
+      "museumCategory": "projectors",
+      "categoryLabel": "投影设备",
+      "aliases": [
+        "Epson VPJ-700"
+      ],
+      "tags": [
+        "投影设备",
+        "1989"
+      ],
+      "summary": "它的真实任务是把输入画面投到另一个表面供人观看。VPJ-700用红、绿、蓝三片TFT参与图像形成，再将光投出机身。",
+      "context": "1989年一月上市的VPJ-700，是Epson将液晶图像投向外部显示面的真实商品。与有固定屏幕的电视不同，它把成像机器和观看面分开：买到投影器以后，还要决定画面落在哪里。原厂逐型号历史列出三片TFT、灯源、亮度与机身重量，使它能够按完整电器理解，而不是只有一个实验面板。它面对的任务是用相对集中放置的机器形成较大外部画面，房间因此同时容纳设备、光路和观看者。这个背景说明，投影的便利并非不需要屏幕，而是显示面可以另选，代价是放置工作成为体验的一部分。",
+      "design": "VPJ-700用红、绿、蓝三片TFT参与图像形成，再将光投出机身。原厂记录的100流明、7.6公斤和300瓦灯源，让早期家用投影的尺度与能耗变得具体：显示信息不只由电子线路处理，还依赖一盏灯和一段不被阻挡的光路。三色分别处理是其结构选择，完整机壳又要容纳照明与投射装置。与直接观看显示器相比，观看面离开机器，机身的放置位置却更需要规划。这里的设计取舍可以由部件关系读出：显示面积不被机壳尺寸直接限定，同时亮度、摆放距离和环境光成为不能忽略的条件。",
+      "usage": "它的真实任务是把输入画面投到另一个表面供人观看。准备时需要选好投影器位置与外部观看面，保持二者之间的通路，并使用本日本版本规定的电源；启动后，画面才由机器中的照明和三色成像路径送出。这个操作描述不替未读取的原手册补造按钮名称，也不为1989款添加今天的无线投屏。观看者安排座位时，还需避免挡住投射路径，机器可以换位置，画面的位置和尺寸也要跟着重新考虑。相比把一台电视放上柜子，这套任务把“屏幕在哪里”变成每次布置都可能重新回答的问题。",
+      "significance": "投影要把小型成像器件的结果放到更大的观看面上，同时处理颜色和光路。VPJ-700以三块TFT液晶分别组织红绿蓝，再把图像投出去，用户必须安排机位、投影面与环境光。与630TS的固定机内屏幕相比，观看面来到设备之外；后来The Freestyle进一步围绕可调方向与临时放置缩小这种准备。Epson逐型号档案给出1989年商品及亮度、重量等结构条件，是方案已经交付的证据，并非不同房间的效果试验。它的选择价值在于将液晶用于投影的明确商品路径，照明、光源和空间条件仍决定观看能否满足任务。",
+      "limitations": "100流明是原厂档案指标，不代表今天所有存世机器的输出，也不能忽略外部表面和环境光对可见度的影响。灯源需要能量，机器与光路需要空间，因此投影带来的大画面并不免费换来方便。7.6公斤说明移动有实体负担，但本文没有以重量直接判定某人能否携带。日本AC100V版本与别的地区电源不可混用；本稿也不承诺未核接口和自动梯形校正。与当代投影器的比较保留这些条件，既能看到它把显示面移出机身的选择，也能看到观看任务仍依赖房间布置而不能只靠机器独立完成。",
+      "dateLabel": "1989-01（原厂上市档案）",
+      "dateKind": "launch",
+      "regionVersion": "日本AC100V VPJ-700",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "三片TFT对应红绿蓝；厂商列100lm、7.6kg。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1989-01（原厂上市档案）",
+          "sourceIds": [
+            "I150-S068"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "日本AC100V VPJ-700",
+          "sourceIds": [
+            "I150-S068",
+            "I150-S069"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "三片TFT对应红绿蓝；厂商列100lm、7.6kg。",
+          "sourceIds": [
+            "I150-S068"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S068",
+        "I150-S069",
+        "I150-S011",
+        "I150-S012",
+        "I150-S070",
+        "I150-S071"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S068",
+          "I150-S069"
+        ],
+        "design": [
+          "I150-S068",
+          "I150-S069"
+        ],
+        "usage": [
+          "I150-S068",
+          "I150-S069"
+        ],
+        "significance": [
+          "I150-S068",
+          "I150-S069",
+          "I150-S011",
+          "I150-S012",
+          "I150-S070",
+          "I150-S071"
+        ],
+        "limitations": [
+          "I150-S068",
+          "I150-S069"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-xel-1",
+        "samsung-the-freestyle-2022"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "sony-xel-1",
+        "samsung-the-freestyle-2022"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "display-expanded-2"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "display",
+        "stageId": "display-expanded-2",
+        "title": "投影与平板显示",
+        "need": "为画面安排不同显示面和摆放位置。",
+        "turn": "投影、液晶与OLED提供不同整机形态。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 955,
+      "mediaOpinions": [],
+      "readerTakeaway": "先找设备与观看面之间的距离，再理解三块液晶各负责一种颜色。VPJ-700说明大画面并不都来自更大的实体显示屏。",
+      "readerTakeawaySources": [
+        "I150-S068",
+        "I150-S069",
+        "I150-S011",
+        "I150-S012",
+        "I150-S070",
+        "I150-S071"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "rca-630ts",
+          "sourceIds": [
+            "I150-S011",
+            "I150-S012"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "samsung-the-freestyle-2022",
+          "sourceIds": [
+            "I150-S070",
+            "I150-S071"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    },
+    {
+      "slug": "samsung-the-freestyle-2022",
+      "year": 2022,
+      "name": "The Freestyle (2022)",
+      "brand": "Samsung",
+      "category": "projectors",
+      "museumCategory": "projectors",
+      "categoryLabel": "投影设备",
+      "aliases": [
+        "Samsung The Freestyle (2022)"
+      ],
+      "tags": [
+        "投影设备",
+        "2022"
+      ],
+      "summary": "一次明确的使用任务可以是临时在房间里观看视频。初代Freestyle的机身以可转向支架组织投射方向，原厂介绍自动梯形校正与水平调整。",
+      "context": "2022年初代The Freestyle是Samsung将小型投影器组织为临时观看工具的商品。本稿用马来西亚七月已经店售的公告确认商品化，不把三月预订计划直接写作全球首售，也不混2023二代。它要解决的是没有固定电视位置时怎样形成画面：一件可以改变朝向的小投影器，加上供电和可投射的表面，组成一次观看布置。用户可以选择把画面带进另一个空间，产品不必占住同一面墙。然而“拿来就放”的便利仍有条件，外部显示面与房间光线并没有被收进设备中，实际任务必须包含这些准备。",
+      "design": "初代Freestyle的机身以可转向支架组织投射方向，原厂介绍自动梯形校正与水平调整。支架承担的是把光路朝向目标表面的任务，软件调整则尝试处理临时摆放导致的几何问题；两者不是同一项功能。这样的组合降低了布置时某些反复手调工作，但不能让遮挡的光路畅通，也不会自动找到每个房间中最合适的表面。设计把小机身、支承和调整功能集中，使临时使用更容易开始，代价是观看效果比固定屏幕更直接地受到场地影响。画面是否值得看，仍是位置、环境与源内容共同决定的。",
+      "usage": "一次明确的使用任务可以是临时在房间里观看视频。使用者先选择表面，将投影器放稳并转向目标位置，再接入适合本版本的供电和内容，观察自动校正后画面是否满足需要。若光路被家具或人挡住，改动机身位置仍然比等待算法更有效；如果墙面不适合，选择另一处也是任务的一部分。原厂称可投到最大100英寸，但最大画面不意味着每次都应投到那个尺寸。人可以在面积、亮度感受与摆放距离之间作实际选择，临时投影的便利来自可重新安排，而不是保证一个预先给定的最好位置。",
+      "significance": "临时投影的麻烦包括放哪里、朝哪里以及画面如何校正。The Freestyle用可转动支架与自动调整功能，把移动后重新安排画面的部分工作交给整机；用户选择投射方向，再确认结果与内容。VPJ-700代表需要安排机位与光路的较大液晶投影方案，Freestyle更强调带到另一位置继续用；StanbyME Go则携带实体屏幕，免去投影面的要求。原厂公告和使用资料支持这些操作组合，没有替各种墙面或光线做效果保证。它值得选的是减少临时设置的具体方案，自动校正仍换不来不受环境光与表面限制的观看。",
+      "limitations": "自动校正服务几何形状，不能提高源视频的信息量或抵消所有环境光影响。表面颜色、遮挡、供电与内容连接都可能改变实际观看效果，临时布置便利同时意味着需要重新确认这些条件。马来西亚原公告中的上市范围不代表所有地区同日可购，产品计划与已售事件在本稿分开。初代没有被补上二代Gaming Hub功能；电源入口也不采用某篇地区宣传中含混的表述推断。这里不作独立画质或长期运行测量，限制段保留的是投影任务本身的取舍：机器较容易换位置，画面则依然需要一个合适的外部环境。",
+      "dateLabel": "2022（7月马来西亚已售公告）",
+      "dateKind": "launch",
+      "regionVersion": "马来西亚2022初代；不混2023二代GamingHub",
+      "significanceLabel": "操作变化与设计取舍",
+      "features": [
+        "自动梯形校正与水平调整；厂商称最大100英寸。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2022（7月马来西亚已售公告）",
+          "sourceIds": [
+            "I150-S070"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "马来西亚2022初代；不混2023二代GamingHub",
+          "sourceIds": [
+            "I150-S070",
+            "I150-S071"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "自动梯形校正与水平调整；厂商称最大100英寸。",
+          "sourceIds": [
+            "I150-S071"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S070",
+        "I150-S071",
+        "I150-S068",
+        "I150-S069",
+        "L:AMG01",
+        "L:AMG02",
+        "L:AMG03"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S070",
+          "I150-S071"
+        ],
+        "design": [
+          "I150-S070",
+          "I150-S071"
+        ],
+        "usage": [
+          "I150-S070",
+          "I150-S071"
+        ],
+        "significance": [
+          "I150-S070",
+          "I150-S071",
+          "I150-S068",
+          "I150-S069",
+          "L:AMG01",
+          "L:AMG02",
+          "L:AMG03"
+        ],
+        "limitations": [
+          "I150-S070",
+          "I150-S071"
+        ]
+      },
+      "relatedSlugs": [
+        "epson-vpj-700",
+        "lg-stanbyme-go-27lx5qkna"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "epson-vpj-700",
+        "lg-stanbyme-go-27lx5qkna"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "display-expanded-3"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "display",
+        "stageId": "display-expanded-3",
+        "title": "屏幕与房间重新组合",
+        "need": "在观看之外安排屏幕的存在。",
+        "turn": "画框、旋转、卷收与便携结构呈现不同选择。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 972,
+      "mediaOpinions": [],
+      "readerTakeaway": "注意转动支架与校正画面的分工。The Freestyle的价值是较快安排临时投影，但真正的观看面和房间条件仍在设备外。",
+      "readerTakeawaySources": [
+        "I150-S070",
+        "I150-S071",
+        "I150-S068",
+        "I150-S069",
+        "L:AMG01",
+        "L:AMG02",
+        "L:AMG03"
+      ],
+      "comparisonEvidence": [
+        {
+          "slug": "epson-vpj-700",
+          "sourceIds": [
+            "I150-S068",
+            "I150-S069"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        },
+        {
+          "slug": "lg-stanbyme-go-27lx5qkna",
+          "sourceIds": [
+            "L:AMG01",
+            "L:AMG02",
+            "L:AMG03"
+          ],
+          "scope": "仅对应正文明确操作/结构比较，非销量或影响因果证据"
+        }
+      ],
+      "editorialRevision": "explanatory-significance-and-reader-takeaway"
+    }
+  ],
+  "sources": [
+    {
+      "id": "C:TXE01",
+      "title": "RCA Radiola III (type R1) radio receiver — 另一件同型号馆藏",
+      "publisher": "Smithsonian",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1341347",
+      "supports": "同型号 Type R1 的再生检波、一级音频放大及灯丝、再生、选台控制；不能视为 nmah_1941972 的同一实物。",
+      "checkedOn": "2026-10-04",
+      "verification": "原机构搜索索引记录已读；原网页正文未成功读取；具体实物身份严格区分。",
+      "originalId": "TXE01",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "CWI-S001",
+      "title": "AQUOS C1 design archive",
+      "publisher": "JAPAN Design Resource Database / Sharp Museum",
+      "url": "https://designdesigndesign.jp/en/database/24-03/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "LC20C1、支架、提手及不含台架的尺寸",
+      "verificationMethod": "机构产品档案检索摘录",
+      "limits": "档案引据原厂与原手册；不借后来LC20FE1无线能力。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测"
+    },
+    {
+      "id": "CWI-S002",
+      "title": "OLED65RX9LA view modes",
+      "publisher": "LG",
+      "url": "https://www.lg.com/lv/televizori/lg-oled65rx9la",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "RX9LA的Full/Line/Zero View、条状模式及隐藏后音响",
+      "verificationMethod": "原厂型号页检索摘录",
+      "limits": "欧洲RX9LA仅用于RX共通展开结构，不套韩国调谐器或服务。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测"
+    },
+    {
+      "id": "I150-S011",
+      "title": "RCA tabletop 630TS, 1946–1948",
+      "publisher": "The Henry Ford",
+      "url": "https://www.thehenryford.org/collections/explore/artifact/178373",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object",
+      "verifiedScope": "具体藏品00.4.4595；630TS桌面形态、1946–1948制造、115V/60Hz铭牌",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "独立博物馆实物编目；与RCA原手册不同角色",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S011",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S012",
+      "title": "RCA 630TS Instructions",
+      "publisher": "RCA / Early Television Foundation mirror",
+      "url": "https://www.earlytelevision.org/pdf/rca_630TS_instruction_manual.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-mirror",
+      "verifiedScope": "电源/音量旋钮、频道窗口、15–20秒预热、声音微调和画面调整",
+      "verificationMethod": "原RCA手册第5页操作段检索索引摘录；PDF正文零行、截图Cache miss",
+      "limits": "未通读图像PDF；仅采用清楚的操作段摘录。",
+      "independence": "原厂说明书镜像；不是第二篇独立研究",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S012",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S013",
+      "title": "Television milestones",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-c.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "TV8-301 1960；KV-1310 1968；晶体管便携机与Trinitron结构",
+      "verificationMethod": "网页正文（型号段）",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S013",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S014",
+      "title": "Time Capsule Vol.21",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/capsule/21/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1960年5月、8英寸便携电视",
+      "verificationMethod": "正文读取，TV8-301产品段",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S014",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S015",
+      "title": "Sony corporate chronology",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/ja/SonyInfo/CorporateInfo/History/company/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1968年KV-1310推出；不把Trinitron技术团队奖当单机设计奖",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S015",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S016",
+      "title": "Sony Launches OLED TV",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/News/Press/200710/07-1001E/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2007-10-01公告、日本计划12-01；11英寸/最薄3mm/无背光/侧臂与遥控",
+      "verificationMethod": "网页正文：型号、特点、设计概念",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S016",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S018",
+      "title": "2001 Debut of AQUOS",
+      "publisher": "Sharp",
+      "url": "https://global.sharp/corporate/info/his/h_company/2001/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2001-01-01 LC20C1推出，喜多俊之设计；13C1另在2月",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S018",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S019",
+      "title": "AQUOS LC20C1/15C1/13C1 product story",
+      "publisher": "Sharp",
+      "url": "https://global.sharp/corporate/info/his/only_one/item/t36.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "指定AQUOS初代系列、450cd/m2原厂指标与设计者",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S019",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S058",
+      "title": "The Frame now available in UK",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/uk/samsungs-the-frame-now-available-in-the-uk",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2017-07-17 UK已可购55/65英寸Frame",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S058",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S059",
+      "title": "The Frame LS003 brochure",
+      "publisher": "AUDIO VIDEO FOTO BILD；Samsung托管重印",
+      "url": "https://images.samsung.com/is/content/samsung/p5/de/tvs/theframe/Sonderbeilage_AV.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "editorial-reprint",
+      "verifiedScope": "2017 LS003评测中的ArtMode操作、传感器、OneConnect",
+      "verificationMethod": "PDF正文第1–3页",
+      "limits": "厂商选择托管的杂志重印；不视为厂商手册，不扩展到后代。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商托管特别重印，原编辑部实测；样机供给/重印费用未核。",
+      "originalId": "I150-S059",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S060",
+      "title": "The Sero disponible en France",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/fr/the-sero-disponible-en-france",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2020法国43英寸已售；旋转遥控/Bixby、TapView与待机模式",
+      "verificationMethod": "法国原公告正文",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S060",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S061",
+      "title": "43 The Sero LS05T 2020",
+      "publisher": "Samsung",
+      "url": "https://www.samsung.com/at/lifestyle-tvs/the-sero/ls05t-43-inch-the-sero-4k-smart-tv-navy-blue-qe43ls05tauxzg/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "QE43LS05TAUXZG 2020欧洲43英寸4K型号",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S061",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S062",
+      "title": "Rollable OLED TV launch release, archive",
+      "publisher": "LG",
+      "url": "https://www.lgnewsroom.com/page/77/?f=rmluywxft2n0yw5lx0rhdgfzagvldc5wzgy%3D&p=l3jlc291cmnll3bvc3qvmtexmc9gaw5hbf9py3rhbmvfrgf0yxnozwv0lnbkzg%3D%3D",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2020-10-20韩国七店已售65英寸RX，三种展开模式",
+      "verificationMethod": "厂商归档检索正文摘录",
+      "limits": "原独立新闻URL直接读取失败；使用含该新闻全文索引的分页归档。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S062",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S063",
+      "title": "OLED65RX9LA product archive",
+      "publisher": "LG",
+      "url": "https://www.lg.com/pl/telewizory-i-soundbary/oled/oled65rx9la/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "65英寸4K可卷屏电视型号及结构",
+      "verificationMethod": "索引摘录",
+      "limits": "波兰RX9LA只能核共通卷屏结构，不把其调谐器规格用于韩国版。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S063",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S068",
+      "title": "VPJ-700 milestone",
+      "publisher": "Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/1989-1-vpj700.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1989年1月上市，3TFT RGB投影、100lm、7.6kg",
+      "verificationMethod": "正文读取",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S068",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S069",
+      "title": "Milestone products index",
+      "publisher": "Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1989年1月VPJ-700归档索引",
+      "verificationMethod": "索引摘录",
+      "limits": "索引与详细档案关联同一原厂历史记录；不独立证实。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S069",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S070",
+      "title": "Freestyle officially available in stores",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/my/samsung-the-freestyle-is-now-officially-available-at-the-nearest-stores-near-you",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2022-07-07马来西亚已在店销售，初代Freestyle",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S070",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S071",
+      "title": "Freestyle preorder announcement",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/my/pre-order-the-all-new-samsung-freestyle-at-just-rm4999-and-receive-gifts-bundle-worth-up-to-rm1496-from-7-to-31-march-2022",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2022-03首发预订，自动校正与最大100英寸",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测",
+      "originalId": "I150-S071",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S073",
+      "title": "XEL-1 Manual de instrucciones",
+      "publisher": "Sony",
+      "url": "https://pro.sony/s3/cms-static-content/operation-manual/3282657311.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "XEL1共同屏幕保养、静态图像残留；西语美洲版",
+      "verificationMethod": "PDF正文：第3与31页（零基）",
+      "limits": "地区版本不同，不把ATSC/QAM、MemoryStick或菜单配置直接用于日本2007款。日本原手册3210556041重定向失败；此资料仅核OLED共通保养风险。",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案",
+      "originalId": "I150-S073",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "L:AMG01",
+      "title": "LG takes TV beyond the living room with StanbyME Go",
+      "publisher": "LG USA Newsroom",
+      "url": "https://www.lg.com/us/newsroom/media-entertainment/lg-takes-tv-beyond-the-living-room-with-standbyme-go",
+      "publishedOn": "2023-08-15",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "27英寸触屏、提箱/可调支架/电池、三种放置方式与地区计划",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "2023原公告正文与脚注",
+      "limits": "三小时为厂商上限，脚注取决网络与应用；不把预计发货当实际。",
+      "originalId": "AMG01",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:AMG02",
+      "title": "LG StanbyME Go 27 Inch Briefcase Design Touch Screen",
+      "publisher": "LG USA",
+      "url": "https://www.lg.com/us/tvs/lg-27lx5qkna",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "型号27LX5QKNA、1080p触控、旋转与平放、HDMI/USB及联网内容。电池最高3小时附条件；未称每次3小时。",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMG02",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:AMG03",
+      "title": "LG StanbyME Go",
+      "publisher": "Red Dot",
+      "url": "https://www.red-dot.org/project/lg-stanbyme-go-70394",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原数据库Product Design 2024、普通Red Dot标识、产品与韩国品牌信用字段；未把其他分类重复条目计为多个产品。",
+      "sourceType": "工业设计奖原始数据库",
+      "independence": "评奖机构原记录",
+      "commercialDisclosure": "具体参赛与推广关系未核实",
+      "verificationMethod": "原机构项目字段/标识核查，年/级别/型号与访问限制逐项见verifiedScope",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMG03",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:ER13",
+      "title": "Recorder & Player milestones — SL-6300",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-d.html",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "1975 SL-6300为Sony首台Beta系统VCR；半英寸磁带、卡带和时移宣传。",
+      "sourceType": "manufacturer-history",
+      "independence": "Sony",
+      "commercialDisclosure": "厂商来源，存在产品宣传利益",
+      "verificationMethod": "原网页正文",
+      "limits": "不是图片转载许可，也不是独立用户效果研究。",
+      "originalId": "ER13",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:ER14",
+      "title": "Beta and microMV cassette shipment termination notice",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/ja/SonyInfo/News/Press/201511/15-1110/",
+      "publishedOn": "2015-11-10",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "2015公告回顾1975 SL-6300及30/60分钟K-30/K-60卡带；2016年3月计划结束Beta卡带出货不等于1975机器停产日期。",
+      "sourceType": "manufacturer-announcement",
+      "independence": "Sony",
+      "commercialDisclosure": "厂商来源，存在产品宣传利益",
+      "verificationMethod": "原网页正文",
+      "limits": "不是图片转载许可，也不是独立用户效果研究。",
+      "originalId": "ER14",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:ER15",
+      "title": "Sony Annual Report 1975",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/IR/library/ar/1975-E.pdf",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "1975-04-16介绍Betamax系统；当时日本有三种系统，美国仅销售电视与录像机组合机。不能将系统公布日无条件等同SL-6300全球零售日。",
+      "sourceType": "manufacturer-report",
+      "independence": "Sony",
+      "commercialDisclosure": "厂商来源，存在产品宣传利益",
+      "verificationMethod": "原PDF正文",
+      "limits": "不是图片转载许可，也不是独立用户效果研究。",
+      "originalId": "ER15",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    }
+  ],
+  "validation": {
+    "uniqueSlugs": true,
+    "fiveSectionsAtLeast825Han": true,
+    "allNestedSourcesClosed": true,
+    "comparisonsHaveNamedProductSources": true,
+    "mediaOpinionsPreserved": true,
+    "exactAssigned53AcrossSixPackages": true,
+    "readerTakeawayTwoOrThreeSentences": true,
+    "identityEventVersionAndStagePreserved": true,
+    "original40SourcesPrefixedCAndPreserved": true
+  },
+  "scope": "原medium代理解释性修订；不新增选录，不改代码/共享文件；仅原短8补足正文，其余保留身份与五节范围",
+  "executionDeclaration": "按父任务要求沿用原medium代理；未调用模型切换或创建子代理；不冒称low。",
+  "verificationNotes": [
+    "复用已核型号与操作来源；本轮复读Sony 1999 Walkman回顾、Koss历史、初代iPod/AirPods公告、AirPods5产品页、QV10原手册与Holt/Feldman同期CDP101材料。",
+    "未新增唯一外部来源，因此无ERI-S新ID；既有ID不重复造源。",
+    "Smithsonian Radiola Type R1当前读取返回500，保留原40既有核查记录，不宣称本轮重读成功。",
+    "媒体意见保留作者、日期、确切型号、测试/借测及商业/阅读深度条件；无UP主视频观看或全分页阅读声明。",
+    "未实测产品或量化未核采用影响；厂商推广意图、实际商品节点与使用差异分别理解。"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "query": "LG StanbyME Go",
+  "checkedOn": "2026-10-15",
+  "result_count": 2,
+  "page_count": 1,
+  "page_size": 20,
+  "page": 1,
+  "results": [
+    {
+      "id": "f65c5fd0-5d60-4086-80a2-e9bfaae67ab9",
+      "title": "[사진1] LG 스탠바이미(StanbyME) Go, 사전 판매서 ‘10분만에 완판’",
+      "indexed_on": "2023-06-09T00:06:27.862687Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/32985045@N08/52959162760",
+      "url": "https://live.staticflickr.com/65535/52959162760_c55404d87d_b.jpg",
+      "creator": "LGEPR",
+      "creator_url": "https://www.flickr.com/photos/32985045@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": "photograph",
+      "filesize": null,
+      "filetype": "jpg",
+      "tags": [
+        {
+          "name": "electronics",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "lg",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "lg전자",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "엘",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"[사진1] LG 스탠바이미(StanbyME) Go, 사전 판매서 ‘10분만에 완판’\" by LGEPR is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 724,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/f65c5fd0-5d60-4086-80a2-e9bfaae67ab9/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/f65c5fd0-5d60-4086-80a2-e9bfaae67ab9/",
+      "related_url": "https://api.openverse.org/v1/images/f65c5fd0-5d60-4086-80a2-e9bfaae67ab9/related/",
+      "unstable__sensitivity": []
+    },
+    {
+      "id": "44ac62d3-123c-47a5-95e6-97246f82be57",
+      "title": "[사진2] LG 스탠바이미(StanbyME) Go, 사전 판매서 ‘10분만에 완판’",
+      "indexed_on": "2023-06-09T00:06:27.862687Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/32985045@N08/52958774871",
+      "url": "https://live.staticflickr.com/65535/52958774871_a86bf44323_b.jpg",
+      "creator": "LGEPR",
+      "creator_url": "https://www.flickr.com/photos/32985045@N08",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": "photograph",
+      "filesize": null,
+      "filetype": "jpg",
+      "tags": [
+        {
+          "name": "electronics",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "lg",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "lg전자",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "엘",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"[사진2] LG 스탠바이미(StanbyME) Go, 사전 판매서 ‘10분만에 완판’\" by LGEPR is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 652,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/44ac62d3-123c-47a5-95e6-97246f82be57/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/44ac62d3-123c-47a5-95e6-97246f82be57/",
+      "related_url": "https://api.openverse.org/v1/images/44ac62d3-123c-47a5-95e6-97246f82be57/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

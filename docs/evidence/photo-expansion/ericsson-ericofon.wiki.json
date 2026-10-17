@@ -1,0 +1,95 @@
+{
+  "slug": "ericsson-ericofon",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Ericofon 1953.jpg",
+      "pageid": 2491358,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ericofon_1953.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ericofon_1953.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Ericofon_1953.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2007-07-31 16:08:47",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Ericofon 1953",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Konica Minolta Dimage X50|PD-user|Ericsson Ericofon|Red telephones|Telephones in the 1950s",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Ericofon \"Cobra\" von 1953",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "<p>23 June 2007 (original upload date)<br>\n</p>\n(<span lang=\"en\" dir=\"ltr\">Original text: <i><bdi lang=\"\">2007</bdi></i></span>)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\">Self-photographed</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<p><a href=\"https://en.wikipedia.org/wiki/de:User:Holger.Ellgaard\" class=\"extiw\" title=\"w:de:User:Holger.Ellgaard\">Holger.Ellgaard</a> at <a href=\"https://en.wikipedia.org/wiki/de:\" class=\"extiw\" title=\"w:de:\">German Wikipedia</a><br>\n</p>\n(<span lang=\"en\" dir=\"ltr\">Original text: <i><bdi lang=\"\"><a href=\"https://de.wikipedia.org/wiki/Benutzer:Holger.Ellgaard\" class=\"extiw\" title=\"de:Benutzer:Holger.Ellgaard\">Holger.Ellgaard</a> 11:25, 23. Jun. 2007 (CEST)</bdi></i></span>)",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "selbst hochgeladen",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Ericofon \"Cobra\" von 1953",
+      "artist": "Holger.Ellgaard  at  German Wikipedia  \n \n( Original text:    Holger.Ellgaard  11:25, 23. Jun. 2007 (CEST)   )",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "23 June 2007 (original upload date) \n \n( Original text:   2007   )"
+    }
+  ]
+}

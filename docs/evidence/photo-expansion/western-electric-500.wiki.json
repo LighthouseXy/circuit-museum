@@ -1,0 +1,82 @@
+{
+  "slug": "western-electric-500",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Model500Telephone1951.jpg",
+      "pageid": 4446413,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Model500Telephone1951.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/21/Model500Telephone1951.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Model500Telephone1951.jpg/960px-Model500Telephone1951.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2008-07-26 10:49:13",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Model500Telephone1951",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-user|Files with no machine-readable author|Files with no machine-readable source|1951 in technology|Media lacking author information|Images without source|Black rotary dial telephones|Western Electric rotary dial telephones|Model 500 telephone",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A 1951 <a href=\"https://en.wikipedia.org/wiki/Model_500_telephone\" class=\"extiw\" title=\"en:Model 500 telephone\">en:Model 500 telephone</a> from my own collection. Taken by ProhibitOnions, 2007.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-07-13",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "A 1951  en:Model 500 telephone  from my own collection. Taken by ProhibitOnions, 2007.",
+      "artist": "",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "2007-07-13"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "samsung-galaxy-xr",
+  "checkedOn": "2026-10-15",
+  "candidates": [
+    {
+      "slug": "samsung-galaxy-xr",
+      "provider": "samsung-newsroom-kr",
+      "title": "Galaxy XR 韩国发布现场展示原始照片14（2025-10-23）",
+      "sourcePage": "https://news.samsung.com/kr/%EB%AC%B4%ED%95%9C%EC%9C%BC%EB%A1%9C-%ED%99%95%EC%9E%A5%ED%95%98%EB%8A%94-%EA%B0%80%EB%8A%A5%EC%84%B1%C2%B7%C2%B7%C2%B7-%EC%82%BC%EC%84%B1%EC%9D%98-%EC%B2%AB-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4",
+      "original": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2025/10/22181415/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B0%A4%EB%9F%AD%EC%8B%9C-XR-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9CXR-%EB%AF%B8%EB%94%94%EC%96%B4%EB%B8%8C%EB%A6%AC%ED%95%91-14.jpg",
+      "thumbnail": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2025/10/22181415/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B0%A4%EB%9F%AD%EC%8B%9C-XR-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9CXR-%EB%AF%B8%EB%94%94%EC%96%B4%EB%B8%8C%EB%A6%AC%ED%95%91-14.jpg",
+      "artist": "Samsung Electronics / Samsung Newsroom Korea",
+      "creator": "Samsung Electronics / Samsung Newsroom Korea",
+      "license": "Samsung Newsroom Korea 原图转载许可（禁止改动）",
+      "licenseUrl": "https://news.samsung.com/kr/삼성전자-뉴스룸-콘텐츠-이용에-대한-안내",
+      "description": "2025年10月22日首尔三星江南Galaxy XR商用发布活动现场展示；原稿于10月23日刊登，照片本身为原始双视角组合。",
+      "publicationDate": "2025-10-23",
+      "originalSha256": "1272583677b73bc02ca7a98d49a437c7b7e0465c0aee6a8c4a3f73abea17b503",
+      "localFile": "docs/evidence/photo-expansion/round3/samsung-galaxy-xr-original.jpg",
+      "metadata": {
+        "Artist": {
+          "value": "Samsung Electronics / Samsung Newsroom Korea"
+        },
+        "ObjectName": {
+          "value": "Galaxy XR launch briefing original photograph 14"
+        }
+      },
+      "caption": "2025年10月韩国Galaxy XR商用发布现场的实物展示；原图含两个角度，保持三星发布的原始JPEG，不裁切、转码或改画。",
+      "modelVerification": "原稿明确10月22日韩国首次商用产品发布活动，末幅图注为三星江南媒体简报展示的Galaxy XR。原图展台印有Galaxy XR，机身传感器、镜片和头带可见，排除2024 Project Moohan原型资料。",
+      "visualReview": "亲自单张查看1000×333原始JPEG：展台实拍的两个角度组成原图；无底部SamsungNewsroom受限水印，无外部署名或外部图片来源标记。未进行任何图像加工。",
+      "primaryLicenseVerification": {
+        "checkedOn": "2026-10-15",
+        "directProductionVerified": true,
+        "noRestrictedWatermarkVerified": true,
+        "noExternalBylineVerified": true,
+        "preserveOriginal": true,
+        "termsArchive": "docs/evidence/photo-expansion/round3/samsung-kr-content-permission.html",
+        "termsSha256": "6231743d49858dd74157efa2b473b7eb531ae405cca452b75aeebb63d0c7fdf2",
+        "sourcePageArchive": "docs/evidence/photo-expansion/round3/samsung-galaxy-xr-source.html",
+        "scope": "原稿说明新闻室编辑亲赴现场并包含文尾自制文章与图片自由使用说明；页面作者为三星电子新闻室，无标题旁外部署名。按KR指南逐图排除底部受限水印。不得加工，必须原字节转载。"
+      },
+      "status": "approved-candidate"
+    }
+  ]
+}

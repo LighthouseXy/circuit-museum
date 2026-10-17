@@ -1,0 +1,1073 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-11",
+  "status": "complete-text-validated-not-imported",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ]
+  },
+  "exhibits": [
+    {
+      "slug": "nikon-f3",
+      "year": 1980,
+      "name": "F3",
+      "brand": "Nikon",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Nikon F3"
+      ],
+      "tags": [
+        "摄影与视频",
+        "1980"
+      ],
+      "summary": "一个具体任务是在需要控制景深的胶片拍摄中使用光圈优先。F3采用电子控制的水平走帘快门，光圈优先与手动曝光并存，取景信息加入液晶显示。",
+      "context": "一九八〇年三月的标准F3把电子自动曝光带进Nikon旗舰单反的使用逻辑。此前专业机的可靠性常与机械控制联系在一起，厂商历史说明开发团队需要同时考虑电子功能与实际信赖。该型号仍用三十五毫米胶片和可更换镜头，但摄影者选择光圈后，相机能够配合测光安排快门。记录是黑色标准F3，不把后来的高眼点取景器或航天定制机功能归进来。电子化并没有使它变成数码相机，影像材料和曝光控制仍属于不同环节。",
+      "design": "F3采用电子控制的水平走帘快门，光圈优先与手动曝光并存，取景信息加入液晶显示。厂商选择液晶的背景包括耗电考虑，电子显示不只是给机身装饰新技术名称。Giugiaro参与外观，前方握持凹部与红色线条把抓握和识别带到表面。开发时还考虑机身与MD-4马达驱动的组合，但附件方案不能等同于每台标准机默认配置。光学、机械、测光与电源在一件机身中合作，摄影者看到的简洁操作，是内部系统分工后的结果。",
+      "usage": "一个具体任务是在需要控制景深的胶片拍摄中使用光圈优先。摄影者准备胶片与电池，装好兼容镜头，选择需要的光圈，在取景器中对焦并观察曝光信息，然后稳定持机释放快门。选择小光圈时，自动安排的快门可能变慢，这时仍要判断手持是否合适；需要明确的时间控制则可改用手动曝光。下一张照片继续涉及胶片推进，使用可选马达与标准手动方式应分别考虑。自动曝光协助的是一组参数配合，而不是替摄影者判断主体、焦点和运动是否符合意图。",
+      "significance": "与AE-1的快门优先并置，F3呈现的是另一种自动化分工：用户把决定光圈的任务留在手中，时间配合交由电子系统。对于希望控制背景清晰程度的人，这样的分工有实际意义。取景液晶和机身握持设计又表明摄影便利不只来自曝光算法，反馈能否读清、相机能否稳定拿住也参与体验。它可以在馆中说明专业设备如何接受电子化，同时保留胶片和可配置附件的工作方式，不需要借航天定制品的特殊经历替普通商品抬高资格。",
+      "limitations": "电子曝光需要电池，而胶片装载、镜头适配、对焦和稳定持机仍是独立责任。厂商关于可靠性的设计目标不能直接证明今天任何一台旧F3都处于良好状态，老机的电路、机构和电池接触需要另行检查。本文没有把MD-4驱动速度写成标准裸机自动连拍，也没有借用F3HP或NASA机的配置。光圈优先在低照度下可能给出不适合手持的快门，自动并不等于不会模糊。最终照片还需要冲洗才能查看，液晶显示的曝光信息不能替代成片核查和胶片保存。",
+      "dateLabel": "1980-03（原厂上市历史）",
+      "dateKind": "launch",
+      "regionVersion": "标准F3黑机身；不混F3HP或NASA定制品",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "采用电子光圈优先自动曝光，需要电池。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1980-03（原厂上市历史）",
+          "sourceIds": [
+            "I150-S041"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "标准F3黑机身；不混F3HP或NASA定制品",
+          "sourceIds": [
+            "I150-S041",
+            "I150-S040"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "采用电子光圈优先自动曝光，需要电池。",
+          "sourceIds": [
+            "I150-S041"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S041",
+        "I150-S040"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S041",
+          "I150-S040"
+        ],
+        "design": [
+          "I150-S041",
+          "I150-S040"
+        ],
+        "usage": [
+          "I150-S041",
+          "I150-S040"
+        ],
+        "significance": [
+          "I150-S041",
+          "I150-S040"
+        ],
+        "limitations": [
+          "I150-S041",
+          "I150-S040"
+        ]
+      },
+      "relatedSlugs": [
+        "kodak-dcs-1991"
+      ],
+      "deferredRelatedSlugs": [
+        "canon-ae-1"
+      ],
+      "relatedModelProposals": [
+        "canon-ae-1",
+        "kodak-dcs-1991"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-1",
+        "title": "电子控制与录像介质",
+        "need": "控制拍摄，并将画面保存在介质上。",
+        "turn": "胶片相机的电子部件与录像设备分别解决任务。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 867,
+      "mediaOpinions": []
+    },
+    {
+      "slug": "sony-ccd-v8",
+      "year": 1985,
+      "name": "CCD-V8",
+      "brand": "Sony",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Sony CCD-V8"
+      ],
+      "tags": [
+        "摄影与视频",
+        "1985"
+      ],
+      "summary": "拍摄一个现场活动时，使用者准备合适电源与八毫米带盒，在取景器中找到主体，调整焦点和画面范围，然后开始与停止录制。原厂记录的二十五万像素CCD成为图像感知部件，马达驱动的六倍变焦镜头与录像机构协作。",
+      "context": "一九八五年一月二十一日日本销售的CCD-V8，把摄像与八毫米磁带录像放进一台可以携带的设备。任务是自己拍下移动影像，而不只是把已经播出的电视节目保存下来。镜头获取现场画面，机内记录机构把连续内容留在磁带上，这种结合改变了摄像机和录像机原本分开的准备方式。它仍是需要供电、带盒和后续播放条件的系统，不是今天手机视频的等价物。记录对应原CCD-V8，没有把自动对焦版本V8AF或未商品化展示机算作同一型号。",
+      "design": "原厂记录的二十五万像素CCD成为图像感知部件，马达驱动的六倍变焦镜头与录像机构协作。与把不同设备连接起来相比，整合让拍摄者在移动中同时取景和记录，但镜头、磁带传送和电池仍产生明显的体积及负担。数字数量描述的是CCD结构，不应误解为记录到磁带上的视频已经成为数码文件。原机保留对焦和变焦控制，使主体清晰度和取景范围仍可由手来调整；电子成像与模拟磁带记录在这台商品里并存。",
+      "usage": "拍摄一个现场活动时，使用者准备合适电源与八毫米带盒，在取景器中找到主体，调整焦点和画面范围，然后开始与停止录制。原手册镜像的逐页摘录确认原机有对焦环、手动变焦和START/STOP操作，不应套用V8AF的自动对焦。若希望画面中的人物清晰，拍摄者仍要观察焦点并稳定持机；变焦还会改变取景范围和抖动的可见程度。完成拍摄后，需要通过兼容的播放与显示连接观看素材，带盒本身也需要标记和保存，以便区分不同时间的记录。",
+      "significance": "CCD-V8可以说明视频进入便携整机时，成像器件与记录媒体并没有同时变成同一种“数字化”。摄像过程采用固态感知，保存过程仍沿用磁带逻辑，二者结合满足的是可移动拍摄任务。与Betamax家用录像机并置，区别落在用户是否同时制造画面；与后来的DV机并置，则能比较记录方式的变化。它的价值不依赖夸大轻便程度：一件明确可购买、能在一体设备中完成取景和记录的商品，已能展示当时用户面对的实际便利与准备成本。",
+      "limitations": "磁带是顺序媒体，找到片段和后续整理不同于按文件名浏览。原机的手动对焦也意味着镜头靠近或远离主体时，需要重新判断清晰程度；整合没有消除持机和供电的负担。本文使用日本销售事件，手册镜像涉及美国附件的部分不用于补写日本电源或调谐配置。没有将CCD像素数当作最终视频文件的尺寸，也没有引入V8AF能力。如今保存或使用旧带还涉及媒体和机械状态，能否顺利播放需要另行验证，本条不把产品历史当成某台实物的可用性证明。",
+      "dateLabel": "1985-01-21（日本销售）",
+      "dateKind": "launch",
+      "regionVersion": "原CCD-V8；不混V8AF或实验VideoMovie",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "CCD摄像与8mm磁带录制集成，250000像素。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1985-01-21（日本销售）",
+          "sourceIds": [
+            "I150-S037"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "原CCD-V8；不混V8AF或实验VideoMovie",
+          "sourceIds": [
+            "I150-S037",
+            "I150-S036"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "CCD摄像与8mm磁带录制集成，250000像素。",
+          "sourceIds": [
+            "I150-S036"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S037",
+        "I150-S036",
+        "CWI-S006"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S037",
+          "I150-S036",
+          "CWI-S006"
+        ],
+        "design": [
+          "I150-S037",
+          "I150-S036",
+          "CWI-S006"
+        ],
+        "usage": [
+          "I150-S037",
+          "I150-S036",
+          "CWI-S006"
+        ],
+        "significance": [
+          "I150-S037",
+          "I150-S036",
+          "CWI-S006"
+        ],
+        "limitations": [
+          "I150-S037",
+          "I150-S036",
+          "CWI-S006"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-ccd-tr55"
+      ],
+      "deferredRelatedSlugs": [
+        "sony-betamax-sl-6300"
+      ],
+      "relatedModelProposals": [
+        "sony-betamax-sl-6300",
+        "sony-ccd-tr55"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-1",
+        "title": "电子控制与录像介质",
+        "need": "控制拍摄，并将画面保存在介质上。",
+        "turn": "胶片相机的电子部件与录像设备分别解决任务。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 864,
+      "mediaOpinions": []
+    },
+    {
+      "slug": "canon-rc-701",
+      "year": 1986,
+      "name": "RC-701",
+      "brand": "Canon",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Canon RC-701"
+      ],
+      "tags": [
+        "摄影与视频",
+        "1986"
+      ],
+      "summary": "一个具体任务是拍摄供快速交付使用的静态图像。CCD负责把光学图像变成电子信号，SV软盘承担保存，专用卡口则提供可更换镜头的拍摄关系。",
+      "context": "一九八六年七月在日本上市的RC-701，回应的是拍完照片后尽快交付影像的工作需求。它以电子方式感知静态画面，并写到Still Video软盘上，路线与胶片冲洗不同，也与后来存储图像文件的数码相机不同。名字中的电子影像不意味着记录是数字文件：这一型号采用模拟静态视频记录。Canon历史将商业化设备与此前实验机区分，本条沿用实际商品日期。理解它应从取景、保存和输出的整套任务入手，而不是仅按外形把它归为现代数码单反的直接缩小版。",
+      "design": "CCD负责把光学图像变成电子信号，SV软盘承担保存，专用卡口则提供可更换镜头的拍摄关系。厂商记录三种专用镜头，并允许经适配器使用FD镜头，说明机身可以连接不同取景需求；适配器不能被略去，普通FD镜头也不能描述为直接装上即可。可沿用部分闪光系统进一步连接既有摄影器材。这样的兼容设计减少了与胶片系统完全割裂的程度，但新记录媒体和输出系统仍要求新的设备关系，镜头熟悉不代表整个后期流程都和胶片相同。",
+      "usage": "一个具体任务是拍摄供快速交付使用的静态图像。摄影者选择兼容镜头及必要适配器，准备SV软盘，在取景过程中决定画面与曝光，记录后使用配套的播放或输出流程取得影像。没有冲洗这一环节，意味着取得电子信号的路线发生变化；但软盘并不等于今天能直接插进电脑读出的标准图片文件。实际任务要连同接收或显示设备理解。对于换镜头拍摄，所用镜头与适配关系还要在出发前确认，不能因为品牌相同就假设所有现有镜头都能无条件工作。",
+      "significance": "RC-701有助于把“电子摄影”从一个笼统标签拆开。电子感知、模拟保存、可更换镜头和输出交付可以在同一件产品中成立，数码文件不是它们出现的先决条件。与AE-1并置，可比较拍完后是否必须等待冲洗；与PowerShot等数字记录机并置，则可比较媒体里的信号形式。这条路线值得保留，也无需把它写成后来产品失败前的错误尝试。对于当时的明确任务，省去某些胶片处理步骤本身可以有价值，而其价值仍受配套设备和所需输出品质影响。",
+      "limitations": "SV软盘中的模拟记录不宜被称作无损数字档案，也不能假设今天的常规电脑能够直接读取。输出质量和工作便利要看整套配套条件，而不只是机身内是否有CCD。本文不把一九八四年的实验机展示日期当作RC-701上市，也不把FD适配器或专用镜头列表写成默认包装内容。原厂博物馆与产品史属于同一机构的材料，能确认身份与结构，但不足以替所有用户证明工作效果。长年保存后的软盘、机身和输出设备是否还能协作，需要实物检验，历史型号资料无法代替这项检查。",
+      "dateLabel": "1986-07（日本上市档案）",
+      "dateKind": "launch",
+      "regionVersion": "日本市场档案；RC-701非1984实验机",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "CCD记录到Still Video软盘，属于模拟记录。",
+        "专用卡口，可经适配器用FD镜头。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1986-07（日本上市档案）",
+          "sourceIds": [
+            "I150-S001"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "日本市场档案；RC-701非1984实验机",
+          "sourceIds": [
+            "I150-S001",
+            "I150-S002"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "CCD记录到Still Video软盘，属于模拟记录。",
+          "sourceIds": [
+            "I150-S002"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "专用卡口，可经适配器用FD镜头。",
+          "sourceIds": [
+            "I150-S001"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S001",
+        "I150-S002"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S001",
+          "I150-S002"
+        ],
+        "design": [
+          "I150-S001",
+          "I150-S002"
+        ],
+        "usage": [
+          "I150-S001",
+          "I150-S002"
+        ],
+        "significance": [
+          "I150-S001",
+          "I150-S002"
+        ],
+        "limitations": [
+          "I150-S001",
+          "I150-S002"
+        ]
+      },
+      "relatedSlugs": [],
+      "deferredRelatedSlugs": [
+        "canon-ae-1",
+        "canon-powershot-600"
+      ],
+      "relatedModelProposals": [
+        "canon-ae-1",
+        "canon-powershot-600"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-1",
+        "title": "电子控制与录像介质",
+        "need": "控制拍摄，并将画面保存在介质上。",
+        "turn": "胶片相机的电子部件与录像设备分别解决任务。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 898,
+      "mediaOpinions": []
+    },
+    {
+      "slug": "canon-eos-650",
+      "year": 1987,
+      "name": "EOS 650",
+      "brand": "Canon",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Canon EOS 650"
+      ],
+      "tags": [
+        "摄影与视频",
+        "1987"
+      ],
+      "summary": "开始拍摄时，用户装入合适的2CR5电池，将胶片片头对齐指定标记，再合上后盖，由机内机构完成装载。EF卡口在镜头与机身之间交换电子信号，自动对焦马达位于镜头内，而不是只靠机身机械轴来驱动。",
+      "context": "一九八七年三月的EOS 650将自动对焦与新的EF镜头连接方式放进胶片单反。此前AE-1已经协助曝光判断，但焦点仍主要由摄影者转动镜头环控制；EOS 650让机身感知焦点并向镜头发送控制信号。任务并非取消摄影选择，而是重新安排对焦、曝光和输片中的部分工作。记录对应原EOS 650，九月的QD日期背是另外的版本事件，不把日期背功能默认放进三月机型。拍摄材料仍是三十五毫米胶片，不因为使用电子控制就归为数码成像。",
+      "design": "EF卡口在镜头与机身之间交换电子信号，自动对焦马达位于镜头内，而不是只靠机身机械轴来驱动。机内相位检测支持单次和连续对焦，电子快门、曝光模式及马达输片又把多个环节整合到操作流程中。顶部液晶反馈设置与胶片状态。新的连接方式为系统扩展建立统一关系，也意味着已有FD镜头不能按相同的直接安装方式沿用。机身、镜头与电池共同完成自动功能，因此“自动对焦相机”应被理解为一个镜头系统，而不仅是机身上的一个按钮。",
+      "usage": "开始拍摄时，用户装入合适的2CR5电池，将胶片片头对齐指定标记，再合上后盖，由机内机构完成装载。拍摄一个静止人物，可以使用单次自动对焦并选取合适的曝光方式，观察取景器的对焦与曝光反馈，稳定持机后释放快门。拍完一张由马达推进，整卷结束也可以自动倒片。需要不同的运动表现，则在快门优先、光圈优先或手动等模式中安排参数。自动化减少手动过片和部分对焦劳动，但不会替用户决定拍什么、何时按下以及焦点是否落在预期主体上。",
+      "significance": "EOS 650可用于比较胶片摄影里自动化的不同层次。与AE-1相比，变化可以落实到对焦和过片步骤，而不是把两台都笼统称为“自动相机”。全电子的镜头通信又提示系统设计会影响器材继承：一个接口决定未来镜头如何协作，也决定过去设备如何被重新评估。对于日常拍摄，顺畅完成装片、合焦、曝光与推进本身就是使用价值。这里不采用厂商关于对焦“无可比拟”的评价，而以已明确的控制结构解释便利，让产品资料与宣传赞语保持可辨认的距离。",
+      "limitations": "自动对焦仍受主体、光线和模式选择影响，对焦指示与实际意图可能不同；曝光自动化也不会消除持机模糊。胶片必须装载正确，供电负责的不只是液晶，还包括多项自动机构。采用EF系统意味着镜头兼容需要重新确认，不能把旧FD镜头直接当作可用配置。本文没有将所有EF镜头都写成采用USM，也没有将QD日期背归给初代标准机。原厂手册PDF可打开但未获得可解析正文，使用流程采用博物馆的完整型号规格；这能说明功能分工，不能作为某台旧相机维修和电路健康的证明。",
+      "dateLabel": "1987-03（日本上市）",
+      "dateKind": "launch",
+      "regionVersion": "原EOS650；不混EOS650 QD日期背",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "EF卡口只在镜头与机身间交换电子信号。",
+        "电子快门、自动输片、6V 2CR5供电。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1987-03（日本上市）",
+          "sourceIds": [
+            "I150-S003"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "原EOS650；不混EOS650 QD日期背",
+          "sourceIds": [
+            "I150-S003",
+            "I150-S004"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "EF卡口只在镜头与机身间交换电子信号。",
+          "sourceIds": [
+            "I150-S003"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "电子快门、自动输片、6V 2CR5供电。",
+          "sourceIds": [
+            "I150-S003"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S003",
+        "I150-S004"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S003",
+          "I150-S004"
+        ],
+        "design": [
+          "I150-S003",
+          "I150-S004"
+        ],
+        "usage": [
+          "I150-S003",
+          "I150-S004"
+        ],
+        "significance": [
+          "I150-S003",
+          "I150-S004"
+        ],
+        "limitations": [
+          "I150-S003",
+          "I150-S004"
+        ]
+      },
+      "relatedSlugs": [],
+      "deferredRelatedSlugs": [
+        "canon-ae-1",
+        "canon-eos-5d-mark-ii"
+      ],
+      "relatedModelProposals": [
+        "canon-ae-1",
+        "canon-eos-5d-mark-ii"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-1",
+        "title": "电子控制与录像介质",
+        "need": "控制拍摄，并将画面保存在介质上。",
+        "turn": "胶片相机的电子部件与录像设备分别解决任务。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 893,
+      "mediaOpinions": []
+    },
+    {
+      "slug": "sony-ccd-tr55",
+      "year": 1989,
+      "name": "CCD-TR55",
+      "brand": "Sony",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Sony CCD-TR55"
+      ],
+      "tags": [
+        "摄影与视频",
+        "1989"
+      ],
+      "summary": "实际任务可以是随身记录一次旅行中的短片：出发前准备兼容带盒和供电，握住机身的握持部分，通过取景判断主体与画面边界，在现场开始和结束录制。设计将镜头放在一侧，把磁带仓所在部分作为握持区域。",
+      "context": "一九八九年的CCD-TR55针对的是带着摄像机外出记录的日常负担。Sony设计档案给出七百九十克机身，并解释镜头和磁带仓的布置如何服务握持；这里讨论日本CCD-TR55，不沿用地区尾缀机或名称相近的TR5配置。它延续摄像与录像整合的路线，但将“能拍”进一步落实到“能否方便拿着拍”。缩小产品不只是把内部零件按比例缩小，还要重新决定手放在哪里、镜头朝向如何稳定、记录媒体占据的空间能否同时承担外部使用任务。",
+      "design": "设计将镜头放在一侧，把磁带仓所在部分作为握持区域。必须保留的记录机构于是参与塑造手掌接触的形体，而不是被单独包在一个与使用无关的盒子里。这样的安排让器件布局与外观握持共同工作；减小体积仍需要容纳镜头、带盒和供电。七百九十克是原厂档案的机身口径，不等于带齐每一种电池或附件后的全部携带重量。产品没有把视频变成即时可分享的文件，设计重点是让已有的磁带记录任务更适合随身使用。",
+      "usage": "实际任务可以是随身记录一次旅行中的短片：出发前准备兼容带盒和供电，握住机身的握持部分，通过取景判断主体与画面边界，在现场开始和结束录制。镜头与握持区的相对布置帮助解释手如何支撑设备，而持续持机的稳定性仍取决于使用者。拍完需要通过兼容播放条件查看并整理带盒，标记时间和内容可以减少之后寻找片段的困难。这里采用可核的设备形态和记录任务，不从后来的Handycam推入触摸屏、翻转液晶或特定自动对焦、按钮与菜单操作。",
+      "significance": "CCD-TR55说明消费影像设备的改进可以发生在外形与内部布局之间。与CCD-V8相比，便携性讨论不必停留在重量数字：磁带仓与握持的合并，是可以理解并比较的设计取舍。对于不想为每次外出背负更大器材的人，能较方便地携带与拿稳本身有意义，普通生活记录不需要被写成专业电影的替代。它也提醒读者，机械媒体并不必然阻止紧凑形态，工程可以围绕固定尺寸重新安排其他部件，留下一个具体商品方案供观察。",
+      "limitations": "轻一些的机身仍需要电池、磁带与播放设备，完整携带负担不能仅由机身重量决定。磁带的顺序访问与长期保存问题没有因握持优化而消失，移动拍摄时的手抖也需要实际判断。原厂设计档案能解释布局意图，却没有在本轮提供独立的长时间使用测试；因此没有把“好拿”写成所有手型都获得相同舒适的结论。本文严格使用CCD-TR55的身份与形态，不混TR55E地区制式或后代显示和菜单配置。旧机和旧带如今能否配合工作，需要另外检查机械、电源与媒体状态。",
+      "dateLabel": "1989（原厂历史与设计档案）",
+      "dateKind": "launch",
+      "regionVersion": "日本CCD-TR55；不混TR5/TR55E",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "机身790g；镜头置于一侧，磁带仓作为握持部。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1989（原厂历史与设计档案）",
+          "sourceIds": [
+            "I150-S036"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "日本CCD-TR55；不混TR5/TR55E",
+          "sourceIds": [
+            "I150-S036",
+            "I150-S047"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "机身790g；镜头置于一侧，磁带仓作为握持部。",
+          "sourceIds": [
+            "I150-S047"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S036",
+        "I150-S047"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S036",
+          "I150-S047"
+        ],
+        "design": [
+          "I150-S036",
+          "I150-S047"
+        ],
+        "usage": [
+          "I150-S036",
+          "I150-S047"
+        ],
+        "significance": [
+          "I150-S036",
+          "I150-S047"
+        ],
+        "limitations": [
+          "I150-S036",
+          "I150-S047"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-ccd-v8"
+      ],
+      "deferredRelatedSlugs": [
+        "sony-dcr-vx1000"
+      ],
+      "relatedModelProposals": [
+        "sony-ccd-v8",
+        "sony-dcr-vx1000"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-1"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-1",
+        "title": "电子控制与录像介质",
+        "need": "控制拍摄，并将画面保存在介质上。",
+        "turn": "胶片相机的电子部件与录像设备分别解决任务。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 871,
+      "mediaOpinions": []
+    },
+    {
+      "slug": "kodak-dcs-1991",
+      "year": 1991,
+      "name": "Professional Digital Camera System (DCS; later DCS 100)",
+      "brand": "Kodak / Nikon",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Kodak / Nikon Professional Digital Camera System (DCS; later DCS 100)"
+      ],
+      "tags": [
+        "摄影与视频",
+        "1991"
+      ],
+      "summary": "一个具体任务是拍摄新闻现场并把影像交给后续数字处理。系统以Nikon F3为拍摄基础，Kodak数字背承担图像感知，外部Digital Storage Unit承担存储与相关电子功能，两者通过电缆连接。",
+      "context": "Kodak在一九九一年推出DCS，目标包含新闻摄影中尽快取得可处理影像的需要。Science Museum Group保存的一套DC3数字背、Nikon F3与数字存储单元，制造记录为一九九〇年；实物制造和商品推出是不同事件，本条以一九九一年排列，不强行合成一天。最早产品名称与后来常用DCS 100称呼也保留区别。它的数字化不是把现有胶片相机外形全部重新设计，而是将成熟机身和新增的电子记录系统组合，使摄影者的拍摄动作与后续交付路线分别改变。",
+      "design": "系统以Nikon F3为拍摄基础，Kodak数字背承担图像感知，外部Digital Storage Unit承担存储与相关电子功能，两者通过电缆连接。博物馆馆藏还列出电池等部件，说明“相机”在这里不是只指手中那块机身。熟悉的取景与镜头关系可以保留，但记录所需的装置和携带方式扩大到机身之外。Kodak里程碑给出一百三十万像素，这是早期系统的记录能力，不能套用后来一体式数码机的屏幕、存储卡和续航。模块组合的便利与负担同时可见。",
+      "usage": "一个具体任务是拍摄新闻现场并把影像交给后续数字处理。摄影者准备兼容的F3机身、镜头、数字背、连接线和存储单元，完成取景与曝光后由系统保存数据，再通过配套流程取出供编辑使用。与胶片摄影相比，目标是免去冲洗作为取得数字影像的必经环节；与后来的小型数码相机相比，出发时必须把外置单元和供电也列入器材检查。本文不写未核的按钮、存储容量或传输协议，而明确实际任务中存在机身之外的系统环节，避免用现代相机的直觉省略它们。",
+      "significance": "DCS可以帮助理解数字摄影为何先以系统形式出现。拍摄与存储不必在一开始就装进同一个小盒子，借用既有光学和机械平台能够为新的记录路线建立入口。与标准F3比较，相似机身下的影像材料和交付路径不同；与后来的Nikon D1比较，外置记录和一体化之间的差别也容易观察。这件产品值得保存的是这种清楚的组合及任务，不需要依靠未经核实的全球唯一首创或数量排名。新闻用途来自原厂记录，具体机构的工作效率仍需独立材料才能量化。",
+      "limitations": "外置存储和电缆增加了需要携带、供电与保护的部件，数字化不意味着拍摄系统立即变得轻便。镜头取景、曝光控制与实际感知面积的关系也不能从胶片F3直接无条件继承。本文区分一般商品DCS身份与博物馆那套带HP F3、DC3背的实物，具体组合仍需铭牌逐项确认，不把馆藏的一九九〇制造年改成上市年。没有补入后代的机背液晶和存储卡流程。如今能否正常取得文件取决于设备、软件和接口状态，本条没有运行原系统，因此历史结构说明不等于可用性验收。",
+      "dateLabel": "1991 年（Kodak发布DCS）；馆藏样机制造记录为1990",
+      "dateKind": "launch",
+      "regionVersion": "Kodak数字背与存储系统配Nikon F3；具体实物组合待铭牌核定",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1991 年（Kodak发布DCS）；馆藏样机制造记录为1990",
+          "sourceIds": [
+            "L:H11A"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "Kodak数字背与存储系统配Nikon F3；具体实物组合待铭牌核定",
+          "sourceIds": [
+            "L:H11A",
+            "L:H11B"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "L:H11A",
+        "L:H11B"
+      ],
+      "paragraphSources": {
+        "context": [
+          "L:H11A",
+          "L:H11B"
+        ],
+        "design": [
+          "L:H11A",
+          "L:H11B"
+        ],
+        "usage": [
+          "L:H11A",
+          "L:H11B"
+        ],
+        "significance": [
+          "L:H11A",
+          "L:H11B"
+        ],
+        "limitations": [
+          "L:H11A",
+          "L:H11B"
+        ]
+      },
+      "relatedSlugs": [
+        "nikon-f3"
+      ],
+      "deferredRelatedSlugs": [
+        "nikon-d1"
+      ],
+      "relatedModelProposals": [
+        "nikon-f3",
+        "nikon-d1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-2"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-2",
+        "title": "数字记录与图像查看",
+        "need": "把影像转为可处理的记录。",
+        "turn": "相机、扫描与不同记录格式并行发展。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 873,
+      "mediaOpinions": []
+    },
+    {
+      "slug": "nikon-coolscan-ls-10",
+      "year": 1993,
+      "name": "COOLSCAN LS-10",
+      "brand": "Nikon",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Nikon COOLSCAN LS-10"
+      ],
+      "tags": [
+        "摄影与视频",
+        "1993"
+      ],
+      "summary": "实际任务是将一张已处理完成的胶片图像转成电脑中的文件。LS-10以LED光源照明胶片并扫描，原厂记录二千七百dpi的扫描能力。",
+      "context": "一九九三年的COOLSCAN LS-10处理的是已经拍在三十五毫米胶片上的影像，而不是在现场重新拍摄。个人或出版工作者想把旧照片带入电脑管理与编辑时，胶片必须经过一个输入环节；直接拥有胶片并不等于已经拥有图像文件。产品史给出LS-10的年份与规格，原手册又区分内置LS-10和外置LS-10E，避免把名称接近的机器形态混合。它保留胶片摄影的前段，同时为后段建立数字入口，展示模拟素材和数字工作能够在一个流程里相接。",
+      "design": "LS-10以LED光源照明胶片并扫描，原厂记录二千七百dpi的扫描能力。LED方案服务于体积、热量与光源维护的取舍，颜色则需要与照明光谱和处理配合，并非单凭“LED”就自动准确。内置型号装进电脑驱动器槽，通过相应供电和SCSI连接加入系统；外置LS-10E是另一种安装形态。扫描器因此兼有精密光学输入与电脑外围设备的特点，入口尺寸围绕胶片决定，数据使用则围绕电脑软件决定，不能把后代扫描器的接口与自动处理能力倒填进去。",
+      "usage": "实际任务是将一张已处理完成的胶片图像转成电脑中的文件。用户先确认内置安装、SCSI连接和所用电脑软件条件，按胶片类型准备合适的装载方式，在软件中进行扫描，再核查所得画面用于归档或编辑。胶片上的灰尘、位置与原始曝光会影响输入结果，所以准备素材和检查文件都是工作的一部分。原手册明确涉及内置安装与接口配置，说明它不是插上现代USB就完成的设备。最终可以给文件命名和整理，但原胶片仍是独立载体，是否保留也属于后续档案选择。",
+      "significance": "COOLSCAN把数字化呈现为一种输入服务：不必先买数码相机，过去拍过的胶片也能进入电脑流程。与F3或AE-1并置，可以把完整任务连起来看；与直接数字记录的相机并置，则能比较数字文件在何时产生。它的使用价值在个人整理、图像编辑与出版输入上都能具体说明，不要求产品具有全民普及的证据。LED和电脑内置形态又展示工业技术如何落实到日常外围设备，便利发生在影像转换与使用方式上，而不仅是扫描参数增加。",
+      "limitations": "扫描分辨率不是原胶片细节的无条件保证，镜头、曝光、胶片状态与扫描准备都会参与最终结果。旧接口和软件要求也会限制今天的直接使用，不能从一九九三年的兼容系统推断现代电脑即插即用。本文不混LS-1000等后代设备，也不把LS-10E的独立外壳和电源写进内置LS-10。Nikon托管的历史文章有署名编辑团队，但属于厂商项目，未冒称独立评测。原手册本轮读取封面、目录与原文摘录，单页缓存限制已保留，具体维护和装载步骤应回到完整操作资料确认。",
+      "dateLabel": "1993（逐型号产品史）",
+      "dateKind": "launch",
+      "regionVersion": "35mm LS-10；不混LS-1000",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "2700dpi，LED照明，35mm胶片扫描器。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "1993（逐型号产品史）",
+          "sourceIds": [
+            "I150-S042"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "35mm LS-10；不混LS-1000",
+          "sourceIds": [
+            "I150-S042",
+            "I150-S046"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "2700dpi，LED照明，35mm胶片扫描器。",
+          "sourceIds": [
+            "I150-S042"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S042",
+        "I150-S046",
+        "CWI-S007"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S042",
+          "I150-S046",
+          "CWI-S007"
+        ],
+        "design": [
+          "I150-S042",
+          "I150-S046",
+          "CWI-S007"
+        ],
+        "usage": [
+          "I150-S042",
+          "I150-S046",
+          "CWI-S007"
+        ],
+        "significance": [
+          "I150-S042",
+          "I150-S046",
+          "CWI-S007"
+        ],
+        "limitations": [
+          "I150-S042",
+          "I150-S046",
+          "CWI-S007"
+        ]
+      },
+      "relatedSlugs": [
+        "nikon-f3"
+      ],
+      "deferredRelatedSlugs": [
+        "nikon-d1"
+      ],
+      "relatedModelProposals": [
+        "nikon-f3",
+        "nikon-d1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-2"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-2",
+        "title": "数字记录与图像查看",
+        "need": "把影像转为可处理的记录。",
+        "turn": "相机、扫描与不同记录格式并行发展。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "awaiting-coordinator-assignment",
+      "contentStatus": "complete-text-validated-not-imported",
+      "chineseCharactersInFiveSections": 865,
+      "mediaOpinions": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "CWI-S006",
+      "title": "Sony CCD-V8 Operating Instructions（原手册镜像索引）",
+      "publisher": "Sony / ManualOwl镜像",
+      "url": "https://www.manualowl.com/m/Sony/CCD-V8/Manual/480227",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "CCD-V8原手册页15、19索引：对焦环、变焦、START/STOP；非V8AF",
+      "verificationMethod": "原手册逐页摘录索引；具体页另开Cache miss",
+      "limits": "只用共有基本拍摄动作；镜像含美国附件标记，不转用其电源/调谐附件于日本配置。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测"
+    },
+    {
+      "id": "CWI-S007",
+      "title": "Nikon COOLSCAN LS-10E / LS-10 Instruction Manual",
+      "publisher": "Nikon / ManualsLib镜像",
+      "url": "https://www.manualslib.com/manual/478093/Nikon-Coolscan-Ls-10e.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "标题区分LS-10内置与LS-10E外置；原手册目录/摘录的SCSI和装入驱动器槽",
+      "verificationMethod": "手册封面正文、目录与逐页原文摘录；单页另开Cache miss",
+      "limits": "不使用平台问答作证；不混LS-1000后代；未逐页阅读全文。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测"
+    },
+    {
+      "id": "I150-S001",
+      "title": "RC-701",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/product/svc443.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1986年7月上市、CCD、SV软盘、专用卡口",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S001",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S002",
+      "title": "1976–1986 history",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/history/story06.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "RC-701商业化；模拟磁记录静态视频路线",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S002",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S003",
+      "title": "EOS 650 / EOS 650 QD",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/product/film122.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1987年3月EOS650，QD同年9月；EF全电子联接与自动输片",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S003",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S004",
+      "title": "EOS 620/650 Instruction Manual",
+      "publisher": "Canon",
+      "url": "https://global.canon/ja/c-museum/wp-content/uploads/2017/01/film122-manual-en.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual",
+      "verifiedScope": "标题明确EOS620/650；操作手册原机构索引",
+      "verificationMethod": "原PDF可打开88页，但无可解析正文；尝试两页截图未获得可读图像；操作采用I150-S003博物馆完整规格。",
+      "limits": "未据此手册推断细节；保留原厂手册索引作用。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。",
+      "originalId": "I150-S004",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S036",
+      "title": "Video camera milestones",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/SonyInfo/CorporateInfo/History/sonyhistory-f.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "CCD-V8 1985年1月上市、250000像素CCD、8mm；CCDTR55 1989",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S036",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S037",
+      "title": "Early Stages Imaging Business",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-06.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "CCD-V8于1985-01-21销售、8mm格式竞争；CCDTR55 1989公告",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。",
+      "originalId": "I150-S037",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S040",
+      "title": "Corporate History",
+      "publisher": "Nikon",
+      "url": "https://www.nikon.com/company/corporate/history/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "F3 1980；COOLPIX300 1997；D1 1999年9月上市",
+      "verificationMethod": "正文读取",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S040",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S041",
+      "title": "Debut of Nikon F3",
+      "publisher": "Nikon",
+      "url": "https://imaging.nikon.com/imaging/information/chronicle/history-f3/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1980年3月F3上市，电子光圈优先曝光、SR44电源",
+      "verificationMethod": "正文读取",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S041",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S042",
+      "title": "Our Product History: 1990s",
+      "publisher": "Nikon",
+      "url": "https://imaging.nikon.com/imaging/information/products_history/1990/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "COOLPIX300/900、D1、LS-10各年条目及规格",
+      "verificationMethod": "正文读取；逐型号段落",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S042",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S046",
+      "title": "Frontier 04: COOLSCAN",
+      "publisher": "Nikon",
+      "url": "https://www.nikon.com/company/corporate/history/frontier/04/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1993COOLSCAN，LED照明胶片扫描",
+      "verificationMethod": "检索索引摘录",
+      "limits": "厂商委托WIRED Japan内容，不计独立媒体评测。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S046",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "I150-S047",
+      "title": "CCD-TR55 design gallery",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/design/gallery/CCD-TR55/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1989 CCD-TR55、790g、磁带仓兼握持部",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S047",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json"
+    },
+    {
+      "id": "L:H11A",
+      "title": "Kodak Milestones — 1991",
+      "publisher": "Eastman Kodak",
+      "url": "https://www.kodak.com/zh/company/page/milestones/",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "1991 DCS推出、1.3MP、Nikon F3基础及新闻用途；原始名称DCS，不将后称DCS100写成唯一首发名。",
+      "sourceType": "厂家历史档案",
+      "independence": "厂家第一方",
+      "commercialDisclosure": "企业里程碑宣传，不据此采用世界第一措辞。",
+      "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+      "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "originalId": "H11A",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:H11B",
+      "title": "Kodak DC3 camera back with Nikon HP F3 and Digital Storage Unit",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co423951",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "馆藏实物制造1990、DC3数字背、Nikon HP F3、Digital Storage Unit、电缆及电池；制造年不取代1991上市年。",
+      "sourceType": "馆藏实物记录",
+      "independence": "独立机构第一手实物编目",
+      "commercialDisclosure": "馆藏照片有权利人及商业许可渠道；开放数据和文字许可不自动覆盖照片。",
+      "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+      "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+      "originalId": "H11B",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    }
+  ],
+  "importInstructions": [
+    "只为已选清单补正文，不扩大216集合。",
+    "ID由主线程分配；category采用museumCategory。",
+    "chronicleIds按expanded-page-plan现有阶段，不修改布局。",
+    "deferredRelatedSlugs导入前不得生成链接。"
+  ],
+  "blocked": [],
+  "validation": {
+    "checkedOn": "2026-10-11",
+    "batchUniqueSlugs": true,
+    "fiveSectionsAtLeast825HanCharacters": true,
+    "allNestedSourceReferencesClosed": true,
+    "safeRelationsClosedAgainstBase40Ready14AndThisBatch": true,
+    "deferredRelationsBelongToFrozenSelected216": true,
+    "exactFrozenEventVersionCategoryAndStage": true,
+    "noOverlapWithOriginalComplete14": true,
+    "allSixBatchesCoverAssigned42Exactly": true,
+    "mediaFallbackOnly": true
+  }
+}

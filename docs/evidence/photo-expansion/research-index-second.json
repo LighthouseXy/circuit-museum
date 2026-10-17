@@ -1,0 +1,858 @@
+{
+  "checkedOn": "2026-10-13",
+  "requestedProducts": 142,
+  "items": [
+    {
+      "slug": "koss-sp3",
+      "query": "intitle:\"SP/3\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "hamilton-pulsar-p1",
+      "query": "intitle:\"Pulsar P1\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "motorola-dynatac-8000x",
+      "query": "intitle:\"DynaTAC 8000X\"",
+      "candidates": 1,
+      "error": null
+    },
+    {
+      "slug": "amazon-kindle-1",
+      "query": "intitle:\"Kindle\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "ipad-1",
+      "query": "intitle:\"iPad\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "macbook-air-m5-2026",
+      "query": "intitle:\"MacBook Air M5\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "xiaomi-smart-band-11-active",
+      "query": "intitle:\"Xiaomi Smart Band 11 Active\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "sony-cdp-101",
+      "query": "intitle:\"CDP-101\"",
+      "candidates": 2,
+      "error": null
+    },
+    {
+      "slug": "casio-f91w",
+      "query": "intitle:\"F-91W\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "ibm-thinkpad-701c",
+      "query": "intitle:\"ThinkPad 701C\"",
+      "candidates": 1,
+      "error": null
+    },
+    {
+      "slug": "nokia-3310-2000",
+      "query": "intitle:\"Nokia 3310\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "logitech-mx-master-3",
+      "query": "intitle:\"MX Master 3\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "framework-laptop-13-2021",
+      "query": "intitle:\"Framework laptop\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "osborne-1",
+      "query": "intitle:\"Osborne 1\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "epson-ep101",
+      "query": "intitle:\"EP-101\"",
+      "candidates": 7,
+      "error": null
+    },
+    {
+      "slug": "toshiba-er4",
+      "query": "intitle:\"ER-4\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "ericsson-ericofon",
+      "query": "intitle:\"Ericofon\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-xel-1",
+      "query": "intitle:\"XEL-1\"",
+      "candidates": 3,
+      "error": null
+    },
+    {
+      "slug": "sony-playstation-vr-cuh-zvr1",
+      "query": "intitle:\"PlayStation VR\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nintendo-switch-2",
+      "query": "intitle:\"Nintendo Switch 2\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-playstation-5-pro",
+      "query": "intitle:\"PlayStation 5 Pro\"",
+      "candidates": 2,
+      "error": null
+    },
+    {
+      "slug": "hp-65",
+      "query": "intitle:\"HP-65\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "roland-tr808",
+      "query": "intitle:\"TR-808\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "roland-tb303",
+      "query": "intitle:\"TB-303\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "yamaha-dx7",
+      "query": "intitle:\"DX7\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "teac-portastudio144",
+      "query": "intitle:\"Portastudio 144\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "hp-laserjet-1984",
+      "query": "intitle:\"LaserJet\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "apple-newton-messagepad-1993",
+      "query": "intitle:\"MessagePad\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "iomega-zip100",
+      "query": "intitle:\"Zip 100\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "pfu-scansnap-fi4110eox",
+      "query": "intitle:\"ScanSnap fi-4110EOX\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "logitech-k380-2015",
+      "query": "intitle:\"K380\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "kobo-touch-2011",
+      "query": "intitle:\"Kobo Touch\"",
+      "candidates": 4,
+      "error": null
+    },
+    {
+      "slug": "samsung-t7-2020",
+      "query": "intitle:\"Samsung T7\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "sony-playstation-2",
+      "query": "intitle:\"PlayStation 2\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-psp-1000",
+      "query": "intitle:\"PSP-1000\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-playstation-3",
+      "query": "intitle:\"PlayStation 3\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-playstation-vita",
+      "query": "intitle:\"PlayStation Vita\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-playstation-4",
+      "query": "intitle:\"PlayStation 4\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-playstation-4-pro",
+      "query": "intitle:\"PlayStation 4 Pro\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-playstation-5",
+      "query": "intitle:\"PlayStation 5\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nintendo-switch-2017",
+      "query": "intitle:\"Nintendo Switch\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nintendo-super-famicom",
+      "query": "intitle:\"Super Famicom\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nintendo-64",
+      "query": "intitle:\"Nintendo 64\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nintendo-game-boy-color",
+      "query": "intitle:\"Game Boy Color\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nintendo-game-boy-advance",
+      "query": "intitle:\"Game Boy Advance\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nintendo-gamecube",
+      "query": "intitle:\"Nintendo GameCube\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nintendo-3ds",
+      "query": "intitle:\"Nintendo 3DS\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nintendo-wii-u",
+      "query": "intitle:\"Wii U\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nintendo-switch-lite",
+      "query": "intitle:\"Nintendo Switch Lite\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "kitchenaid-h5",
+      "query": "intitle:\"H-5\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "toastmaster-1a1",
+      "query": "intitle:\"Toastmaster 1A1\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "kenwood-chef-a700",
+      "query": "intitle:\"Chef A700\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "national-ec36",
+      "query": "intitle:\"EC-36\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "sharp-r10",
+      "query": "intitle:\"R-10\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "dyson-dc01",
+      "query": "intitle:\"DC01\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "western-electric-500",
+      "query": "intitle:\"Western Electric 500\"",
+      "candidates": 1,
+      "error": null
+    },
+    {
+      "slug": "hoover-constellation-444",
+      "query": "intitle:\"Hoover Constellation\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "braun-hl1",
+      "query": "intitle:\"HL1\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "braun-sixtant-sm31",
+      "query": "intitle:\"Sixtant SM 31\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "motorola-pageboy-i",
+      "query": "intitle:\"Pageboy\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "western-electric-picturephone-mod-ii",
+      "query": "intitle:\"Picturephone\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "omron-hem1",
+      "query": "intitle:\"HEM-1\"",
+      "candidates": 7,
+      "error": null
+    },
+    {
+      "slug": "magellan-nav1000",
+      "query": "intitle:\"Magellan NAV\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "garmin-gps155-tso",
+      "query": "intitle:\"Garmin GPS 155\"",
+      "candidates": 2,
+      "error": null
+    },
+    {
+      "slug": "husqvarna-solar-mower-1995",
+      "query": "intitle:\"Solar Mower\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "apple-airport-1999",
+      "query": "intitle:\"AirPort\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-aibo-ers110",
+      "query": "intitle:\"AIBO ERS-110\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "irobot-roomba-2002",
+      "query": "intitle:\"Roomba\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "avm-fritzbox-2004",
+      "query": "intitle:\"FRITZ!Box\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "tomtom-go-2004",
+      "query": "intitle:\"TomTom GO\"",
+      "candidates": 1,
+      "error": null
+    },
+    {
+      "slug": "violet-nabaztag-v1",
+      "query": "intitle:\"Nabaztag\"",
+      "candidates": 5,
+      "error": null
+    },
+    {
+      "slug": "philips-airfryer-hd9220",
+      "query": "intitle:\"Airfryer HD9220/40\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "rca-630ts",
+      "query": "intitle:\"630TS\"",
+      "candidates": 1,
+      "error": null
+    },
+    {
+      "slug": "sony-kv-1310",
+      "query": "intitle:\"KV-1310\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "sharp-aquos-lc20c1",
+      "query": "intitle:\"AQUOS LC-20C1\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "samsung-the-frame-ls003",
+      "query": "intitle:\"Samsung Frame\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "samsung-the-sero-ls05t",
+      "query": "intitle:\"Samsung Sero\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "lg-signature-oled-r-rx",
+      "query": "intitle:\"LG OLED R\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "epson-vpj-700",
+      "query": "intitle:\"VPJ-700\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "samsung-the-freestyle-2022",
+      "query": "intitle:\"Samsung Freestyle\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "lg-stanbyme-go-27lx5qkna",
+      "query": "intitle:\"StanbyME Go\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "lg-oled-evo-m5-65",
+      "query": "intitle:\"LG M5\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "samsung-micro-rgb-r95h-65",
+      "query": "intitle:\"Samsung R95H\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "htc-vive-2016",
+      "query": "intitle:\"HTC Vive\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "microsoft-hololens-2",
+      "query": "intitle:\"HoloLens 2\"",
+      "candidates": 2,
+      "error": null
+    },
+    {
+      "slug": "oculus-quest-2019",
+      "query": "intitle:\"Oculus Quest\"",
+      "candidates": 6,
+      "error": null
+    },
+    {
+      "slug": "meta-quest-3",
+      "query": "intitle:\"Meta Quest 3\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-playstation-vr2",
+      "query": "intitle:\"PlayStation VR2\"",
+      "candidates": 3,
+      "error": null
+    },
+    {
+      "slug": "apple-vision-pro-m2",
+      "query": "intitle:\"Apple Vision Pro\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "samsung-galaxy-xr",
+      "query": "intitle:\"Galaxy XR\"",
+      "candidates": 1,
+      "error": null
+    },
+    {
+      "slug": "sony-betamax-sl-6300",
+      "query": "intitle:\"SL-6300\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "canon-ae-1",
+      "query": "intitle:\"AE-1\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nikon-f3",
+      "query": "intitle:\"F3\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-ccd-v8",
+      "query": "intitle:\"CCD-V8\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "canon-rc-701",
+      "query": "intitle:\"RC-701\"",
+      "candidates": 3,
+      "error": null
+    },
+    {
+      "slug": "canon-eos-650",
+      "query": "intitle:\"EOS 650\"",
+      "candidates": 7,
+      "error": null
+    },
+    {
+      "slug": "sony-ccd-tr55",
+      "query": "intitle:\"CCD-TR55\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "kodak-dcs-1991",
+      "query": "intitle:\"Kodak DCS\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nikon-coolscan-ls-10",
+      "query": "intitle:\"COOLSCAN LS-10\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "nintendo-color-tv-game-15",
+      "query": "intitle:\"Color TV-Game 15\"",
+      "candidates": 7,
+      "error": null
+    },
+    {
+      "slug": "nintendo-game-watch-ball-1980",
+      "query": "intitle:\"Game Watch Ball\"",
+      "candidates": 4,
+      "error": null
+    },
+    {
+      "slug": "nintendo-virtual-boy-jp",
+      "query": "intitle:\"Virtual Boy\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sega-dreamcast-jp",
+      "query": "intitle:\"Dreamcast\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "xbox-adaptive-controller",
+      "query": "intitle:\"Xbox Adaptive Controller\"",
+      "candidates": 5,
+      "error": null
+    },
+    {
+      "slug": "valve-steam-controller-2015",
+      "query": "intitle:\"Steam Controller\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-access-controller",
+      "query": "intitle:\"PlayStation Access\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "nest-learning-thermostat-1",
+      "query": "intitle:\"Nest Thermostat\"",
+      "candidates": 4,
+      "error": null
+    },
+    {
+      "slug": "perkins-smart-brailler",
+      "query": "intitle:\"Smart Brailler\"",
+      "candidates": 1,
+      "error": null
+    },
+    {
+      "slug": "philips-hue-2012",
+      "query": "intitle:\"Philips Hue\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nest-protect-1",
+      "query": "intitle:\"Nest Protect\"",
+      "candidates": 3,
+      "error": null
+    },
+    {
+      "slug": "amazon-echo-1",
+      "query": "intitle:\"Amazon Echo\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "vorwerk-thermomix-tm5",
+      "query": "intitle:\"Thermomix TM5\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "google-home-2016",
+      "query": "intitle:\"Google Home\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sony-aibo-ers-1000",
+      "query": "intitle:\"aibo ERS-1000\"",
+      "candidates": 2,
+      "error": null
+    },
+    {
+      "slug": "sony-dcr-vx1000",
+      "query": "intitle:\"DCR-VX1000\"",
+      "candidates": 2,
+      "error": null
+    },
+    {
+      "slug": "canon-powershot-600",
+      "query": "intitle:\"PowerShot 600\"",
+      "candidates": 1,
+      "error": null
+    },
+    {
+      "slug": "nikon-coolpix-300",
+      "query": "intitle:\"COOLPIX 300\"",
+      "candidates": 1,
+      "error": null
+    },
+    {
+      "slug": "canon-xl1",
+      "query": "intitle:\"XL1\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "nikon-coolpix-900",
+      "query": "intitle:\"COOLPIX 900\"",
+      "candidates": 4,
+      "error": null
+    },
+    {
+      "slug": "nikon-d1",
+      "query": "intitle:\"D1\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "canon-eos-5d-mark-ii",
+      "query": "intitle:\"EOS 5D Mark II\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "sourcenext-pocketalk-w",
+      "query": "intitle:\"POCKETALK W\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "roborock-s7",
+      "query": "intitle:\"Roborock S7\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "ikea-dirigera",
+      "query": "intitle:\"DIRIGERA Hub\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "aqara-presence-fp2",
+      "query": "intitle:\"Presence Sensor FP2\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "humanware-victor-reader-stream-3",
+      "query": "intitle:\"Victor Reader Stream\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "switchbot-s10",
+      "query": "intitle:\"SwitchBot S10\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "aqara-spatial-fp400",
+      "query": "intitle:\"Spatial Multi-Sensor FP400\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "sony-playstation-portal",
+      "query": "intitle:\"PlayStation Portal\"",
+      "candidates": 3,
+      "error": null
+    },
+    {
+      "slug": "asus-rog-ally-2023",
+      "query": "intitle:\"ROG Ally\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "lenovo-legion-go-2023",
+      "query": "intitle:\"Legion Go\"",
+      "candidates": 2,
+      "error": null
+    },
+    {
+      "slug": "msi-claw-a1m",
+      "query": "intitle:\"MSI Claw\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "asus-rog-xbox-ally-x",
+      "query": "intitle:\"ROG Xbox Ally X\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "valve-steam-controller-2026",
+      "query": "intitle:\"Steam Controller 2026\"",
+      "candidates": 1,
+      "error": null
+    },
+    {
+      "slug": "valve-steam-machine-2026",
+      "query": "intitle:\"Steam Machine 2026\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "panasonic-lumix-dmc-g1",
+      "query": "intitle:\"LUMIX DMC-G1\"",
+      "candidates": 3,
+      "error": null
+    },
+    {
+      "slug": "olympus-pen-e-p1",
+      "query": "intitle:\"PEN E-P1\"",
+      "candidates": 0,
+      "error": null
+    },
+    {
+      "slug": "fujifilm-finepix-x100",
+      "query": "intitle:\"FinePix X100\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "dji-phantom-2013",
+      "query": "intitle:\"DJI Phantom\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "ricoh-gr-iii",
+      "query": "intitle:\"GR III\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "insta360-x5",
+      "query": "intitle:\"Insta360 X5\"",
+      "candidates": 8,
+      "error": null
+    },
+    {
+      "slug": "panasonic-lumix-dc-tz300",
+      "query": "intitle:\"LUMIX DC-TZ300\"",
+      "candidates": 0,
+      "error": null
+    }
+  ]
+}

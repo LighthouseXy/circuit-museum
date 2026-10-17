@@ -1,0 +1,90 @@
+{
+  "slug": "nokia-3310-2000",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Nokia 3310 logo.svg",
+      "pageid": 162518370,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nokia_3310_logo.svg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nokia_3310_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Nokia_3310_logo.svg/960px-Nokia_3310_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-03-20 17:42:12",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nokia 3310 logo",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "With trademark|PD textlogo|SVG text logos|SVG logos of Nokia",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Nokia 3310 logo",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2000",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://static.wikia.nocookie.net/logopedia/images/4/45/Nokia_3310.svg/revision/latest?cb=20241221133146\">https://static.wikia.nocookie.net/logopedia/images/4/45/Nokia_3310.svg/revision/latest?cb=20241221133146</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Nokia",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "trademarked",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Nokia 3310 logo",
+      "artist": "Nokia",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "2000"
+    }
+  ]
+}

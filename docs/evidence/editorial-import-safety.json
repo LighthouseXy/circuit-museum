@@ -1,0 +1,10 @@
+{
+  "checkedAt": "2026-10-13T02:38:50.417Z",
+  "idempotentRerun": true,
+  "conflictingSourceRejectedBeforeWrite": true,
+  "formalDataUnchangedAfterRejection": true,
+  "formalHashes": [
+    "6979ee762d35229091682e3a93f111cc5c82f5ac848594a9737b1b7339f67d13",
+    "8343d9ec6b649eaeb122d595c7911dac94d43dff30d50af9c3bb35b41e5e9d1a"
+  ]
+}

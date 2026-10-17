@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:MacBook_white_transparency.png",
+  "creator": "Jean-Pierre Louis；透明背景版本由原文件衍生",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "alt": "2006 年白色 MacBook，展开的屏幕与白色聚碳酸酯机身",
+  "path": "/images/macbook-2006.webp",
+  "changes": "WebP 转码；原 Commons 文件已去除背景",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/a/a4/MacBook_white_transparency.png",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 518,
+  "originalHeight": 424,
+  "output": {
+    "format": "webp",
+    "width": 518,
+    "height": 424,
+    "channels": 4,
+    "premultiplied": false,
+    "hasAlpha": true,
+    "size": 11332
+  }
+}

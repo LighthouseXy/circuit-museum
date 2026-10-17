@@ -1,0 +1,935 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-11",
+  "status": "editorial-explanatory-revision-ready-for-review",
+  "reasoningEffort": "medium (inherited; unchanged)",
+  "base": {
+    "preservedCollection": "docs/expansion/base-40-preserved.json",
+    "selection": "docs/expansion/selection-150.json"
+  },
+  "exhibits": [
+    {
+      "id": "42",
+      "slug": "casio-f91w",
+      "year": 1989,
+      "name": "F-91W（593模块，标准黑色款）",
+      "brand": "Casio",
+      "category": "wearable",
+      "categoryLabel": "穿戴与沉浸",
+      "aliases": [
+        "F-91W（593模块，标准黑色款）",
+        "Casio"
+      ],
+      "tags": [
+        "穿戴与沉浸",
+        "Casio",
+        "日常工具"
+      ],
+      "summary": "三个按钮在读时、闹钟和秒表之间切换，让基本时间任务集中到腕上。",
+      "context": "Casio的腕表年代档案把F-91W的推出放在1989年。它以读时、日历、闹钟和秒表组织日常需求，标准黑色款的树脂外形将显示与按钮集中在腕上。设计师Ryusuke Moriai在原始访谈中回顾，这项设计来自追求小而扁平的目标，也要回应内部电池、石英部件的形状。这里展示的是原F-91W产品线，现行593模块手册帮助解释操作；照片和现行规格并不等于1989制造批次。这样处理年代与实物身份，能够让观众认识长时间存在的产品形态，同时保留不同生产版本需要进一步核对的空间。",
+      "design": "矩形LCD、边框上的功能标记和三个侧面按钮共同组织操作。读时状态让时间直接可见，进入闹钟、秒表或设置模式后，同一个按钮承担不同动作。设计师的回忆把外壳尺寸与部件安排联系起来，提醒观众薄型外观包含内部布局的约束。树脂表壳与表带形成轻巧的腕戴物，界面则用少数状态表达功能。策展上可以把外形、按钮位置和模式提示同时放大，观察使用者如何从标记判断下一步：小尺寸给佩戴带来便利，也让功能说明必须借助固定符号和操作顺序完成。",
+      "usage": "593模块指南描述了从日常读时进入闹钟、秒表和时间日历设置的顺序。使用者可以选择12或24小时表示，设置每日提醒，或在秒表里开始、暂停与记录分段时间；不同模式中的按键分工并不完全相同。展览可以据此重建一次看时间、定提醒和测量间隔的流程。CROWN作者另回忆自己在新加坡服役时使用F-91W，这提供了一位使用者的具体生活场景，却不足以证明军队普遍配发或全体使用。将操作说明与有限的个人见证并置，可以同时说明产品能做什么，以及我们知道哪些实际使用经历。",
+      "significance": "每天看时间、定提醒和量一段间隔，并不一定需要手机账户或持续网络。F-91W将这些任务留给LCD与三按钮，593模块手册支持读时、闹钟和秒表之间的切换，品牌年代档案则定位原产品线。与Pulsar P1按键唤出红色数字相比，它的日常读时直接可见；与初代Apple Watch的应用、触觉提示及手机配合相比，它选择较少而独立的腕上任务。CROWN设计师访谈解释扁平形态与内部部件的取舍，作者Alvin Wong的服役用表回忆只提供一个具体使用场景，不能扩成军队普遍采用。选择它，是因为基本工具的价值能由按钮和状态持续讲清，不必追求每代增加更多信息。少量键需要复用、日期仍有人工调整边界，简洁并不等于完全不用学习。证据支持操作、形态和个人见证，尚不能证明所有生产批次耐用程度；现行593说明也不能假装成一九八九年实物的全部配置。",
+      "limitations": "少量按钮复用多个功能，设置时间或提醒需要辨认当前模式并记住步骤。现行规格中的日历把二月按28日处理，提醒使用者自动显示也有需要人工照看的边界。厂商只标示Water Resistant，展览不会把它改写成潜水深度或极端运动耐久保证；宣传中的电池时长也有使用条件。基本任务集中带来简洁，同时留下看懂标记、调整日期和维护电池的工作。个人使用回忆与编辑设计评价都不构成可靠性统计，观众据此可以讨论取舍，但不能从一个熟悉的外形推断所有批次和所有环境的表现。",
+      "dateLabel": "1989年（原F-91W推出年份；具体日未核定）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "三个按钮在读时、闹钟和秒表之间切换，让基本时间任务集中到腕上。",
+        "标准黑色树脂款与593模块；历史年份不等于每张照片的制造年份。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1989年（原F-91W推出年份；具体日未核定）",
+          "sourceIds": [
+            "B:EA02-C01"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "穿戴与沉浸",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "B:EA02-C01",
+        "B:EA02-C04",
+        "B:EA02-C03",
+        "B:EA02-C02",
+        "B:EA02-C05",
+        "C:CH02",
+        "C:S38",
+        "C:CH03"
+      ],
+      "paragraphSources": {
+        "context": [
+          "B:EA02-C01",
+          "B:EA02-C04",
+          "B:EA02-C03"
+        ],
+        "design": [
+          "B:EA02-C02",
+          "B:EA02-C03",
+          "B:EA02-C04"
+        ],
+        "usage": [
+          "B:EA02-C03",
+          "B:EA02-C04"
+        ],
+        "significance": [
+          "B:EA02-C05",
+          "B:EA02-C03",
+          "C:CH02",
+          "C:S38",
+          "C:CH03"
+        ],
+        "limitations": [
+          "B:EA02-C02",
+          "B:EA02-C03"
+        ]
+      },
+      "heroMediaId": null,
+      "videoIds": [],
+      "relatedSlugs": [
+        "hamilton-pulsar-p1",
+        "apple-watch-1"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-photo-license-candidate-verified",
+      "chronicleIds": [
+        "watches"
+      ],
+      "dateKind": "launch",
+      "regionVersion": "原F-91W产品线；展示黑色标准款，现行规格和照片不冒充1989制造实物",
+      "idStatus": "proposed-only-after-import",
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported",
+      "relatedModelProposals": [
+        "hamilton-pulsar-p1",
+        "apple-watch-1"
+      ],
+      "deferredRelatedSlugs": [],
+      "museumCategory": "watches",
+      "chineseCharactersInFiveSections": 1037,
+      "readerTakeaway": "先看持续显示，再用三个按钮切到闹钟和秒表。它让较少而独立的时间任务成为一种完整腕上选择。",
+      "editorialRevisionScope": "具体时代任务、关键动作、逐型操作差异、证据与取舍",
+      "readerTakeawaySources": [
+        "B:EA02-C05",
+        "B:EA02-C03",
+        "C:CH02",
+        "C:S38",
+        "C:CH03"
+      ]
+    },
+    {
+      "id": "44",
+      "slug": "nokia-3310-2000",
+      "year": 2000,
+      "name": "Nokia 3310（2000年原版）",
+      "brand": "Nokia",
+      "category": "mobile",
+      "categoryLabel": "移动与阅读",
+      "aliases": [
+        "Nokia 3310（2000年原版）",
+        "Nokia"
+      ],
+      "tags": [
+        "移动与阅读",
+        "Nokia",
+        "日常工具"
+      ],
+      "summary": "数字键、Navi键与短信聊天，把号码和短文字组织成随身联系工具。",
+      "context": "Nokia在2000年9月1日公布原版3310，发布稿把供货安排在当年第四季度。它面向GSM 900/1800网络，把通话之外的文字联系放进掌中：聊天仍经由短信通道，收件人不必拥有同样的聊天界面。英国科学博物馆保存的一部带O2 SIM卡的3310，使这款手机有可核对的实物身份。这里的年代对应产品发布，馆藏则记录一部具体设备；二者共同支持型号定位，尚不能确定每个地区的首次购买日。观众可以从它看见短信、号码簿与运营商网络如何形成一套移动联系工具。",
+      "design": "屏幕下方的Navi键配合数字键和菜单文字完成选择，天线藏入机身，前后外壳可以更换。联系人、短信与小游戏共享这一组实体控制，使用者从屏幕提示辨认当前按键的作用。后盖、电池和SIM卡的安装结构又把外观、能源与身份接入分成可接触的部分。更换外壳改变握在手中的物件，更换电池维持工作，SIM卡联系服务账号；这些动作有各自的对象。策展上可以沿着一次装卡、开机和发消息的过程展示机身，让观众把个性化外表和实际通信条件联系起来，而不只认出熟悉的轮廓。",
+      "usage": "按照原型号用户手册，使用者可以从号码簿选择联系人，拨号通话，或在短信菜单里输入、检查并发送文字。数字键承担多个字母，传统输入需要连续按键，预测输入则按词组织候选；确认和修改仍由屏幕提示与实体键完成。聊天界面把消息排成往返记录，底层仍是短信。这是一条依据手册重建的典型操作，不代表所有人的熟练程度。把输入、选收件人和确认发送分别展示，能够让观众体验文字联系如何被分配到有限的键上，也看见“随身交流”需要经过哪些可学习的动作。",
+      "significance": "声音通话之外，人还需要在不同时刻读到一段短文字，有限数字键便要承担字母输入。原版3310用Navi键与屏幕提示选择，用多次按键或预测输入编写短信，聊天界面再将往返消息组织成记录，底层仍是短信服务。原发布稿与确切型号手册支持这一工作链，英国馆藏提供一件实际设备的身份。与8000X以实体数字键和红色显示确认通话号码相比，3310把文字处理带入联系任务；与初代iPhone的软件键盘相比，它的输入空间固定，使用者在按键、候选和确认之间配合。选择它，是为了把普通短信手机当作有完整结构的工具，而不是只当后代前史。可更换外壳、电池和SIM各有目的，个性化外表不替代网络条件。原移动交互实验还提示步行情境与实验室发现的问题不同，体验必须放回现场；“摔不坏”传说没有替代原手册的维护条件。",
+      "limitations": "通话和短信依赖兼容网络、SIM卡以及运营商提供的服务，说明书也区分设备功能与网络条件。小屏和数字键要求输入、修改、选择之间不断配合，预测文字并不消除确认工作。原始移动交互研究把3310纳入实验，发现步行街与实验室模拟情境识别的问题并不一致，提醒我们把操作放回使用环境。这个范围有限的研究不能推出所有用户体验。原手册还要求避免潮湿与跌落，因此展览不采用“摔不坏”的网络传说；设备维护条件与通信操作一样，是理解这部手机的一部分。",
+      "dateLabel": "2000年9月1日（发布；原稿计划第四季度供货）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "数字键、Navi键与短信聊天，把号码和短文字组织成随身联系工具。",
+        "可更换前后外壳、内置天线与可拆电池。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "2000年9月1日（发布；原稿计划第四季度供货）",
+          "sourceIds": [
+            "B:EA01-N01"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "移动与阅读",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "B:EA01-N01",
+        "B:EA01-N02",
+        "B:EA01-N03",
+        "B:EA01-N04",
+        "C:S16",
+        "C:TXM13A",
+        "C:TXM13B",
+        "C:S25",
+        "C:S33",
+        "C:TXL01"
+      ],
+      "paragraphSources": {
+        "context": [
+          "B:EA01-N01",
+          "B:EA01-N02"
+        ],
+        "design": [
+          "B:EA01-N01",
+          "B:EA01-N03"
+        ],
+        "usage": [
+          "B:EA01-N03",
+          "B:EA01-N01"
+        ],
+        "significance": [
+          "B:EA01-N02",
+          "B:EA01-N01",
+          "C:S16",
+          "C:TXM13A",
+          "C:TXM13B",
+          "C:S25",
+          "C:S33",
+          "C:TXL01"
+        ],
+        "limitations": [
+          "B:EA01-N03",
+          "B:EA01-N04"
+        ]
+      },
+      "heroMediaId": null,
+      "videoIds": [],
+      "relatedSlugs": [
+        "motorola-dynatac-8000x",
+        "palmpilot-professional",
+        "iphone-1"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-photo-license-candidate-verified",
+      "chronicleIds": [
+        "phones"
+      ],
+      "dateKind": "announcement",
+      "regionVersion": "GSM 900/1800 原版；馆藏参考为带O2 SIM的英国使用实物，排除3390及2017复刻",
+      "idStatus": "proposed-only-after-import",
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported",
+      "relatedModelProposals": [
+        "motorola-dynatac-8000x",
+        "palmpilot-professional",
+        "iphone-1"
+      ],
+      "deferredRelatedSlugs": [],
+      "museumCategory": "phones",
+      "chineseCharactersInFiveSections": 1029,
+      "readerTakeaway": "在有限数字键上写一条短信，再确认收件人与发送。它让随身文字联系的学习动作与网络条件都清楚可见。",
+      "editorialRevisionScope": "具体时代任务、关键动作、逐型操作差异、证据与取舍",
+      "readerTakeawaySources": [
+        "B:EA01-N02",
+        "B:EA01-N01",
+        "C:S16",
+        "C:TXM13A",
+        "C:TXM13B",
+        "C:S25",
+        "C:S33",
+        "C:TXL01"
+      ]
+    },
+    {
+      "id": "50",
+      "slug": "ericsson-ericofon",
+      "name": "Ericofon",
+      "brand": "Ericsson",
+      "year": 1956,
+      "dateLabel": "1956年量产（1954试产；1953展示不等同销售）",
+      "dateKind": "manufacture",
+      "regionVersion": "早期两半壳Ericofon，主要讨论瑞典生产；不混1958单件注塑改型",
+      "productFamily": "固定电话",
+      "categoryProposal": "通信与接入",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "把听筒与拨盘合为一体，解释放置动作和通信线路的关系。",
+      "keyFacts": [
+        {
+          "text": "原厂记1954试产、1956–1982 Karlskrona生产；MoMA实物年代1949–1959不能作为1956全球首发。",
+          "sourceIds": [
+            "HC150-S019",
+            "HC150-S020"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S019",
+        "HC150-S020",
+        "HC150-S017",
+        "HC150-S018",
+        "C:S16",
+        "C:TXM13A",
+        "C:TXM13B",
+        "C:S25"
+      ],
+      "identitySourceIds": [
+        "HC150-S019"
+      ],
+      "dateSourceIds": [
+        "HC150-S019"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "通信与接入；把听筒与拨盘合为一体，解释放置动作和通信线路的关系。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-ready-license-candidate-not-imported",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      },
+      "category": "communication",
+      "categoryLabel": "通信与接入",
+      "aliases": [
+        "Ericsson Ericofon"
+      ],
+      "tags": [
+        "固定电话",
+        "1956",
+        "日常设备"
+      ],
+      "summary": "把拨盘和听筒放入同一外壳，Ericofon使拿起与放下也成为通信操作的一部分。",
+      "context": "Ericofon来自将固定电话整合为一体的长期设计过程。原厂历史分别记录一九五四年试制和一九五六年开始的Karlskrona生产，本条以量产为年代锚；MoMA所藏实物的一九四九至一九五九年范围承担另一种登记作用。拨盘和听筒不再分别留在机座与手中，使用者拿起的是同一外壳。电话仍要接到相应线路，通信位置并没有因为外观整合就自动跟人移动。早期两半壳体与一九五八年的单件注塑改型分别处理，形态看似相近，材料制造与部件配置仍各有版本。",
+      "design": "原厂说明其概念是让桌面电话站在拨盘上，并在拨盘中央设置控制断路的按钮。听筒和拨号装置因而进入同一个外壳，底部不再只是摆放的支点，也是操作界面的一部分。厂商历史记录了模型试作和人体使用试验，以及在投产时采用ABS热塑性材料的选择；MoMA实物记录又提供材料与设计者信息作为另一种核对。展览解读的重点可以放在形态如何对应动作：弯曲外壳让握持部、听筒位置和桌面支撑发生联系。这里不把形态的醒目等同于每个人都感到舒适，也不将原厂所说的耐冲击和颜色优势转换成未经量测的耐用排名。",
+      "usage": "一次联系可以从拿起外壳、翻看底面找到拨盘、逐位拨号，再将听说部位安排到耳与口之间展开。号码输入和通话姿态使用同一件物体，却不是同一方向，使用者需要转动与重新握持。结束时将设备放回桌面，底部中央按钮把姿态与断路控制相接；桌面于是既是支撑位置，也参与结束动作。原厂曾描述将铃声机构放入独立墙盒的概念，所以铃声来源不能只从机身外观推定，也不能假定各地区配置一致。人在使用时需辨认自己的线路、铃与壳体阶段，原设计动作可以据档案理解，接线和今天的网络适配仍需对应实机资料。",
+      "significance": "桌面电话通常把拨号留在机座，把说听留在拿起的听筒，两个位置要求一串转移。Ericofon把听筒与底部拨盘合进同一外壳，中央断路按钮又让放置姿态参与线路控制，原厂历史明确说明这些设计关系。与Model 500外围字码、桌面拨盘和独立听筒相比，人需要拿起并翻看底部，再拨号和重新放下；与8000X的正面键盘及手持通话相比，两件虽然都可握持，Ericofon仍连到固定线路，便携网络不能由一体外形推出来。选择它，是因为控制界面改变位置时，最平常的拿、看、转动与放下也跟着重排。MoMA材料与设计者记录帮助确认实物，原厂人体试验叙述提供设计过程，二者都没有证明每个人更舒适。不同铃声和壳体阶段仍需对应，证据能解释已核一体结构的动作，不应把醒目造型或品牌赞语直接写成社会效果。",
+      "limitations": "一体式结构减少了分开的机座与听筒，却要求拿起后辨认底面并改变握持。拨盘的位置不保证每个人都更方便，原厂试验与材质优势描述也没有给出可通用于所有人的测量结论。早期两半壳、后来的改型及不同铃声配置需要逐型核对，配色本身不新增工作路线。固定线路继续限制使用位置，塑料、触点和电线状态则关系到具体存世机器，未做运行检查就不能承诺可靠性。量产起年与设计年代范围也不能替代出口市场首售；这些未知不改变已核布局，却限定能够讨论的产品版本和动作。",
+      "features": [
+        "原厂记1954试产、1956–1982 Karlskrona生产；MoMA实物年代1949–1959不能作为1956全球首发。"
+      ],
+      "facts": [
+        {
+          "label": "已核事实1",
+          "value": "原厂记1954试产、1956–1982 Karlskrona生产；MoMA实物年代1949–1959不能作为1956全球首发。",
+          "sourceIds": [
+            "HC150-S019",
+            "HC150-S020"
+          ]
+        }
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S019",
+          "HC150-S020"
+        ],
+        "design": [
+          "HC150-S019",
+          "HC150-S020"
+        ],
+        "usage": [
+          "HC150-S019",
+          "HC150-S020"
+        ],
+        "significance": [
+          "HC150-S019",
+          "HC150-S020",
+          "HC150-S017",
+          "HC150-S018",
+          "C:S16",
+          "C:TXM13A",
+          "C:TXM13B",
+          "C:S25"
+        ],
+        "limitations": [
+          "HC150-S019",
+          "HC150-S020"
+        ]
+      },
+      "relatedSlugs": [
+        "iphone-1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chronicleNodeProposal": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      },
+      "idStatus": "proposed-only-after-import",
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported",
+      "relatedModelProposals": [
+        "western-electric-500",
+        "iphone-1"
+      ],
+      "deferredRelatedSlugs": [
+        "western-electric-500"
+      ],
+      "museumCategory": "telephony",
+      "chineseCharactersInFiveSections": 1082,
+      "readerTakeaway": "翻看底部拨盘，再看放回桌面怎样接到断路按钮。它让外壳姿态成为通信界面的一部分。",
+      "editorialRevisionScope": "具体时代任务、关键动作、逐型操作差异、证据与取舍",
+      "readerTakeawaySources": [
+        "HC150-S019",
+        "HC150-S020",
+        "HC150-S017",
+        "HC150-S018",
+        "C:S16",
+        "C:TXM13A",
+        "C:TXM13B",
+        "C:S25"
+      ]
+    },
+    {
+      "id": "49",
+      "slug": "toshiba-er4",
+      "name": "ER-4",
+      "brand": "东京芝浦电气（Toshiba）",
+      "year": 1955,
+      "dateLabel": "1955-12-10（日本发售）",
+      "dateKind": "launch",
+      "regionVersion": "日本ER-4；排除ER-8与RC-10K",
+      "productFamily": "自动炊饭",
+      "categoryProposal": "家务与食物",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "间接加热与水蒸发控制，补足米食地区家务路线。",
+      "keyFacts": [
+        {
+          "text": "三重锅结构，外锅水蒸发后温控器切断；量产品，1955-12-10发售。",
+          "sourceIds": [
+            "HC150-S005",
+            "HC150-S006"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S005",
+        "HC150-S006",
+        "HC150-S007",
+        "HC150-S008",
+        "HC150-S061",
+        "HC150-S062"
+      ],
+      "identitySourceIds": [
+        "HC150-S005"
+      ],
+      "dateSourceIds": [
+        "HC150-S005"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "家务与食物；间接加热与水蒸发控制，补足米食地区家务路线。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-ready-license-candidate-not-imported",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      },
+      "category": "home",
+      "categoryLabel": "家务与食物",
+      "aliases": [
+        "东京芝浦电气（Toshiba） ER-4"
+      ],
+      "tags": [
+        "自动炊饭",
+        "1955",
+        "日常设备"
+      ],
+      "summary": "以外锅水的蒸发组织炊饭结束，ER-4将米食准备与自动断电相接。",
+      "context": "ER-4在日本于一九五五年十二月十日发售，国立科学博物馆产业技术史数据库将其列为量产品，条目由电机行业协会调查填报，所在地记录为东芝未来科学馆。厂商技术史又将其置于自动炊饭器发展中。厨房以米饭为重复任务时，需要处理的不只是把热送到食物，还包括米与水怎样到达合适过程并停止供热。ER-4用间接加热与外锅水参与判断，器具的任务因此可从材料、锅体和控制配合来理解。数据库登记有机构与产业填报背景，型号和日期的核定作用不等于独立家庭成效研究。",
+      "design": "三重锅结构把盛米的部分与外锅水的物理过程关联起来。预定外锅水在加热过程中蒸发，温控器在相应条件切断，水因而既是人要准备的材料，也是机器回应的控制媒介。它不是直接读取任意食材成熟度，而是先组织一个能到达明确状态的过程。内外容器、供热与温控不能单独拆开评价：只有准备关系成立，结束判断才有具体对象。与直接让内锅接触加热板的结构相比，间接路径使外锅水留在工作链中。所核历史资料可说明这种关系，未给出全部电路与温控数值，不能用后来保温菜单或现代传感方式填满早期配置。",
+      "usage": "人先准备米和水，并安排内外锅各自承担的材料，使外锅水能够参与预定的蒸发过程。电热提供持续能量，水的变化与温控将其中一段结束判断交给装置；人不需要把每一个结束动作都留在手动热源上，材料准备却不能因此略过。完成后还要开盖、盛取、处理残留并清理接触食物的容器，为下一次重建相同工作关系。这个流程说明自动结束发生在何处，而不是给出存世旧机操作处方。现有来源没有足够逐步原说明书，米量、计量杯刻度、开关和精确装填顺序仍未核，不能把理解结构当成可直接运行的完整步骤。",
+      "significance": "米饭烹制要管理供热，也要判断何时结束，操作者原本需要持续关注锅中的过程。ER-4将预定外锅水的蒸发与温控断电接起来，三重锅结构让材料本身成为控制媒介，逐型产业档案与原厂技术史支持这一关系及日本发售节点。与次年EC-36内锅直接接触加热板、恒温器和重盖的路径相比，两件围绕同一米食任务，热与控制信号却安排不同；与TM5的食谱芯片和触屏步骤引导相比，ER-4自动承接的是一段热过程的结束，而非整套配方内容。选择它，是因为家庭自动化可以从水、容器与温控之间的物理配合看懂，并不一定先有复杂软件。人仍准备米与内外锅的水，盛取和清理也保留，外锅水不能当无关附件。档案可证明量产品与结构，不足以证明所有家庭省下多少时间；不同环境、米量与水状态如何影响结果，需要原版操作或实测进一步限定。",
+      "limitations": "外锅水参与控制，准备变化就可能改变过程，间接加热的结果也需要与米、分量和环境条件一起理解。现有资料未提供可对比的食物结果与温控精度实测，自动断电不等于每一锅都达到同一种口感。两份主要来源分别承担逐型登记与技术回顾，均与产业或品牌记录有关，不能当成两次独立家庭效果测量。日本发售节点不替代其他市场日期，后来的保温型也有自己的结构。量产可以确认它已成为产品，家庭普及、购买经验与劳动时间仍是需要另外证据的问题；这些边界保留了自动结束的具体意义，不将整顿饭都交给机器。",
+      "features": [
+        "三重锅结构，外锅水蒸发后温控器切断；量产品，1955-12-10发售。"
+      ],
+      "facts": [
+        {
+          "label": "已核事实1",
+          "value": "三重锅结构，外锅水蒸发后温控器切断；量产品，1955-12-10发售。",
+          "sourceIds": [
+            "HC150-S005",
+            "HC150-S006"
+          ]
+        }
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S005",
+          "HC150-S006"
+        ],
+        "design": [
+          "HC150-S005",
+          "HC150-S006"
+        ],
+        "usage": [
+          "HC150-S005",
+          "HC150-S006"
+        ],
+        "significance": [
+          "HC150-S005",
+          "HC150-S006",
+          "HC150-S007",
+          "HC150-S008",
+          "HC150-S061",
+          "HC150-S062"
+        ],
+        "limitations": [
+          "HC150-S005",
+          "HC150-S006"
+        ]
+      },
+      "relatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chronicleNodeProposal": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      },
+      "idStatus": "proposed-only-after-import",
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported",
+      "relatedModelProposals": [
+        "national-ec36",
+        "vorwerk-thermomix-tm5"
+      ],
+      "deferredRelatedSlugs": [
+        "national-ec36",
+        "vorwerk-thermomix-tm5"
+      ],
+      "museumCategory": "kitchen",
+      "chineseCharactersInFiveSections": 1129,
+      "readerTakeaway": "看外锅水怎样从操作材料变成结束控制的媒介。它展示米食家务中的自动化，可以由容器、材料和温控共同实现。",
+      "editorialRevisionScope": "具体时代任务、关键动作、逐型操作差异、证据与取舍",
+      "readerTakeawaySources": [
+        "HC150-S005",
+        "HC150-S006",
+        "HC150-S007",
+        "HC150-S008",
+        "HC150-S061",
+        "HC150-S062"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "B:EA01-N01",
+      "title": "Nokia introduces mobile chat with the Nokia 3310",
+      "publisher": "Nokia Oyj / GlobeNewswire",
+      "url": "https://www.globenewswire.com/fr/news-release/2000/09/01/1845525/0/en/Nokia-introduces-mobile-chat-with-the-Nokia-3310.html",
+      "publishedOn": "2000-09-01",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读原发布稿：9月1日发布；第四季度为计划供货，非已证实首次零售日；GSM 900/1800、Navi Key、内置天线、短信聊天、可换前后壳。",
+      "sourceType": "品牌当时发布稿",
+      "independence": "型号/发布事实一手；不是独立使用或口碑证据",
+      "commercialDisclosure": "品牌发布稿，功能与市场定位带推广目的。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读原发布稿：9月1日发布；第四季度为计划供货，非已证实首次零售日；GSM 900/1800、Navi Key、内置天线、短信聊天、可换前后壳。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA01-N01",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "B:EA01-N02",
+      "title": "Nokia 3310 dual-band mobile cellular telephone with O2 SIM card",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8226943/nokia-3310-dual-band-mobile-cellular-telephone-with-o2-sim-card",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读馆藏2011-4：原3310、2000年、双频、可换外壳及扩展短信；实物记录不能推出所有地区首售日或用户群体比例。",
+      "sourceType": "博物馆实物目录",
+      "independence": "独立收藏机构的型号/年代记录",
+      "commercialDisclosure": "照片CC BY-NC-SA 4.0；非商业条款须另审，不据元数据许可推定可商业发布。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读馆藏2011-4：原3310、2000年、双频、可换外壳及扩展短信；实物记录不能推出所有地区首售日或用户群体比例。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA01-N02",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "B:EA01-N03",
+      "title": "Nokia 3310 User’s Guide（原型号后期修订，©2004）",
+      "publisher": "Nokia；InstructionsManuals 镜像",
+      "url": "https://www.instructionsmanuals.com/sites/default/files/2019-05/Nokia-3310-en.pdf",
+      "publishedOn": "2004",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读文字输入、Navi键、SIM/电池安装及保养章节：传统/预测输入、菜单确认、运营商服务条件、拆换电池。此2004版不单独证明2000首发时每项软件功能。",
+      "sourceType": "原厂用户手册镜像",
+      "independence": "操作说明一手；同品牌，非独立实测",
+      "commercialDisclosure": "手册©Nokia；链接与原创概述，不复制页面。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读文字输入、Navi键、SIM/电池安装及保养章节：传统/预测输入、菜单确认、运营商服务条件、拆换电池。此2004版不单独证明2000首发时每项软件功能。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA01-N03",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "B:EA01-N04",
+      "title": "Designing Mobile Interactions: The continual convergence of form and context, Volume 2",
+      "publisher": "Jesper Kjeldskov / Aalborg University",
+      "url": "https://vbn.aau.dk/ws/portalfiles/portal/74627193/Designing_Mobile_Interactions_vol_2.pdf",
+      "publishedOn": "2013",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读作者稿元数据及PDF第24页实验结果：3310与5510用于移动可用性实验，实验室舞垫与步行街条件发现的问题不同；仅引用情境差异，不推广成全体用户结论，也不比较型号总体优劣。",
+      "sourceType": "原始研究汇编/作者稿",
+      "independence": "大学研究者一手实验；不是品牌宣传",
+      "commercialDisclosure": "仓储页保留作者版权，仅链接和少量原创概述。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读作者稿元数据及PDF第24页实验结果：3310与5510用于移动可用性实验，实验室舞垫与步行街条件发现的问题不同；仅引用情境差异，不推广成全体用户结论，也不比较型号总体优劣。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA01-N04",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "B:EA02-C01",
+      "title": "CASIO Watch Heritage: 1980s — F-91W (1989)",
+      "publisher": "Casio",
+      "url": "https://www.casio.com/intl/watches/Heritage/1980s/",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读官方年代史：1989年F-91W推出；计时/闹钟/照明等基本配置。品牌销量与“长期畅销”叙述不作独立市场证据。",
+      "sourceType": "品牌档案",
+      "independence": "发布年份一手；采用/口碑不独立",
+      "commercialDisclosure": "品牌历史页面，带品牌推广目的。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读官方年代史：1989年F-91W推出；计时/闹钟/照明等基本配置。品牌销量与“长期畅销”叙述不作独立市场证据。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA02-C01",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "B:EA02-C02",
+      "title": "F-91W-1 — Specifications",
+      "publisher": "Casio",
+      "url": "https://www.casio.com/mea-en/watches/casio/product.F-91W-1/",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读现行标准黑色F-91W-1页面：树脂、闹钟、整点声、秒表、LED、12/24小时、日历二月固定28日；仅称Water Resistant，未给30m/50m。现行规格不证明每个1989批次完全相同。",
+      "sourceType": "原厂确切型号规格",
+      "independence": "原厂功能说明；非独立耐久实测",
+      "commercialDisclosure": "产品销售页，现行规格及电池寿命为厂商条件下声明。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读现行标准黑色F-91W-1页面：树脂、闹钟、整点声、秒表、LED、12/24小时、日历二月固定28日；仅称Water Resistant，未给30m/50m。现行规格不证明每个1989批次完全相同。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA02-C02",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "B:EA02-C03",
+      "title": "Operation Guide 10B+7L(Ver.C), Module 593",
+      "publisher": "Casio",
+      "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读593模块操作指南一页：三个按钮、读时/闹钟/秒表/设置模式、分段计时、12/24小时与月份日期设置。文件未列1989出版日，不能当首年批次说明书。",
+      "sourceType": "原厂模块操作手册",
+      "independence": "操作方法一手；非独立使用史",
+      "commercialDisclosure": "原厂手册版权保留，仅作链接/原创说明。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读593模块操作指南一页：三个按钮、读时/闹钟/秒表/设置模式、分段计时、12/24小时与月份日期设置。文件未列1989出版日，不能当首年批次说明书。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA02-C03",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "B:EA02-C04",
+      "title": "Meet The Man Who Designs Your Casio G-Shocks",
+      "publisher": "Alvin Wong / CROWN",
+      "url": "https://www.crownwatchblog.com/in-depth/meet-the-man-who-designs-your-casio-g-shocks",
+      "publishedOn": "2018-12-10",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读对Ryusuke Moriai的原始访谈：F-91W扁平小巧设计、部件形状和外壳取舍。作者回忆新加坡服役时自己用表，为个人见证，非军队全体采用调查。文首early 1990s与官方1989冲突，年份采用品牌档案。",
+      "sourceType": "设计师原始访谈/作者个人使用见证",
+      "independence": "记者原始采访；设计师为品牌员工，回忆不等于客观销量/可靠性统计",
+      "commercialDisclosure": "页面未见该文赞助标识；受访者为Casio员工，设计说明是品牌当事人回忆。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读对Ryusuke Moriai的原始访谈：F-91W扁平小巧设计、部件形状和外壳取舍。作者回忆新加坡服役时自己用表，为个人见证，非军队全体采用调查。文首early 1990s与官方1989冲突，年份采用品牌档案。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA02-C04",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "B:EA02-C05",
+      "title": "The Consumer Electronics Hall of Fame: Casio F-91W Wristwatch",
+      "publisher": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/the-consumer-electronics-hall-of-fame-casio-f91w-wristwatch",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读编辑回顾：把基本功能、足够使用与长期形态作为设计讨论。文中产量估计未追至原数据，未采用；Hall of Fame文章不冒充颁奖机构产品设计大奖。",
+      "sourceType": "独立编辑设计回顾",
+      "independence": "独立媒体策展观点；非原始用户群体统计",
+      "commercialDisclosure": "页面未见该篇商业赞助披露；不使用未经复核的市场数量。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读编辑回顾：把基本功能、足够使用与长期形态作为设计讨论。文中产量估计未追至原数据，未采用；Hall of Fame文章不冒充颁奖机构产品设计大奖。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA02-C05",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "C:CH02",
+      "title": "The Hamilton PSR",
+      "publisher": "Swatch Group / Hamilton",
+      "url": "https://www.swatchgroup.com/en/services/archive/2020/hamilton-psr",
+      "supports": "1970 年原型公开、1972 年 P1 上市、金质表壳表链与红色数字读时；原型、P2 和 2020 PSR 的功能分别处理。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:CH03",
+      "title": "Fitbit announces new activity tracker – the Fitbit Flex",
+      "publisher": "Fitbit / Google",
+      "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-announces-new-activity-tracker-the-fitbit-flex/",
+      "supports": "2013-01-07发布正文已读，5灯进度、活动与睡眠、蓝牙同步和春季发货计划可确认；日期只用发布口径，实际操作与感测机制用FB401原厂手册。",
+      "checkedOn": "2026-10-04",
+      "verification": "2013-01-07发布正文已读，5灯进度、活动与睡眠、蓝牙同步和春季发货计划可确认；日期只用发布口径，实际操作与感测机制用FB401原厂手册。"
+    },
+    {
+      "id": "C:S16",
+      "title": "Cell Phone Development — Motorola Solutions",
+      "publisher": "Motorola Solutions",
+      "url": "https://www.motorolasolutions.com/en_xp/about/history/explore-motorola-heritage/cell-phone-development.html",
+      "supports": "1973年演示原型、便携蜂窝系统的研发与1983年9月21日8000X获得FCC批准；支持通话设备与网络共同构成移动性的背景。代表性段落为原创策展解读。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页正文中DynaTAC开发及获批段落；没有用厂家第一或销量叙述扩展结论。"
+    },
+    {
+      "id": "C:S25",
+      "title": "PalmPilot Professional — Centre for Computing History",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/63131/PalmPilot-Professional/",
+      "supports": "1997 PalmPilot Professional的掌上资料管理定位，背光显示、Windows/Macintosh连接、底座与可选调制解调器，1MB内存及两节AAA电池。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取博物馆正文。具体日期沿用展品已有的年份口径，未采用馆方单一精确日期覆盖原数据的资料分歧说明。"
+    },
+    {
+      "id": "C:S33",
+      "title": "Apple Reinvents the Phone with iPhone — Apple",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "supports": "重核2007-01-09原公告正文：3.5英寸、多点触控、EDGE/Wi-Fi、iTunes同步及三种用途；2008年App Store另有TXL01。未采用全球第一和销量话语。",
+      "checkedOn": "2026-10-04",
+      "verification": "重核2007-01-09原公告正文：3.5英寸、多点触控、EDGE/Wi-Fi、iTunes同步及三种用途；2008年App Store另有TXL01。未采用全球第一和销量话语。"
+    },
+    {
+      "id": "C:S38",
+      "title": "Apple Watch Available in Nine Countries on April 24 — Apple",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2015/03/09Apple-Watch-Available-in-Nine-Countries-on-April-24/",
+      "supports": "重核2015-03-09原公告全文：2015-04-24首批发售、38/42mm、Crown、Force Touch、Taptic Engine、三圈、借用iPhone GPS/Wi-Fi、18小时与iPhone/iOS条件；不套用后代独立GPS、蜂窝、ECG与SpO2。",
+      "checkedOn": "2026-10-04",
+      "verification": "重核2015-03-09原公告全文：2015-04-24首批发售、38/42mm、Crown、Force Touch、Taptic Engine、三圈、借用iPhone GPS/Wi-Fi、18小时与iPhone/iOS条件；不套用后代独立GPS、蜂窝、ECG与SpO2。"
+    },
+    {
+      "id": "C:TXL01",
+      "title": "iPhone 3G on Sale Tomorrow",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2008/07/10iPhone-3G-on-Sale-Tomorrow/",
+      "supports": "初代iPhone的2008年iPhone 2.0升级与App Store时间边界。",
+      "checkedOn": "2026-10-04",
+      "verification": "正文明确2008年7月11日起原iPhone用户可免费取得2.0软件；不把App Store放入2007年上市体验。"
+    },
+    {
+      "id": "C:TXM13A",
+      "title": "Motorola DynaTAC 8000X (US-Version) mit Tischladestation — MSPT",
+      "publisher": "Museumsstiftung Post und Telekommunikation",
+      "url": "https://onlinesammlung.museumsstiftung.de/detail/collection/bbfa7483-f8a1-4431-b90f-514197cc4c56",
+      "supports": "型号明确的博物馆藏品记录；红色LED号码显示、30个电话号码存储、约800克、约半小时通话与十小时充电，美国AMPS制式及地区兼容条件；区分1983获批与1984销售。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取正文及对象登记字段；藏品制造时间为1984年7月。正文价格与销量有明显排版/数字异常，未采用；重量仅使用约数。"
+    },
+    {
+      "id": "C:TXM13B",
+      "title": "Motorola DynaTAC 8000X — Mobile Phone Museum",
+      "publisher": "Mobile Phone Museum",
+      "url": "https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x",
+      "supports": "1983年FCC批准、1984年商业销售、3995美元价格，以及约30分钟通话与10小时充电的使用条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页正文。历史金额保留原当年美元值，未采用通胀换算、文化标签、第一或销量结论。"
+    },
+    {
+      "id": "HC150-S005",
+      "title": "自动式电气釜ER-4 100611940014",
+      "publisher": "国立科学博物馆产业技术史数据库",
+      "url": "https://sts.kahaku.go.jp/sts/detail.php?c=&city=&id=&no=100611940014&org=&p=116&pref=&word=&y1=&y2=",
+      "checkedOn": "2026-10-11",
+      "sourceType": "机构产业实物档案",
+      "verifiedScope": "精确型号、量产身份、发售日期与控制原理；调查方日本电机工业会",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "机构托管；调查来源行业组织，不冒称完全独立实验",
+      "commercialDisclosure": "记录页未核到商业披露",
+      "originalId": "HC150-S005",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S006",
+      "title": "PRODUCT HISTORY 炊饭器",
+      "publisher": "Toshiba Lifestyle",
+      "url": "https://www.toshiba-lifestyle.com/jp/corporate/rd/research/history/ricecooker/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "1955 ER-4身份",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "原厂",
+      "commercialDisclosure": "品牌历史宣传",
+      "originalId": "HC150-S006",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S007",
+      "title": "1956 Panasonic Group History",
+      "publisher": "Panasonic Holdings",
+      "url": "https://holdings.panasonic/global/corporate/about/history/chronicle/1956.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "1956 EC-36上市与直接加热结构",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌历史宣传",
+      "originalId": "HC150-S007",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S008",
+      "title": "Panasonic 100-Year Journey",
+      "publisher": "Panasonic Holdings",
+      "url": "https://holdings.panasonic/global/corporate/about/history/chronicle.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂年表",
+      "verifiedScope": "1956自动炊饭器背景；不独立确认EC-36操作",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌历史宣传",
+      "originalId": "HC150-S008",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S017",
+      "title": "Give Me a Ring gallery",
+      "publisher": "SFO Museum",
+      "url": "https://www.sfomuseum.org/exhibitions/telephone-retrospective/gallery",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆设计史",
+      "verifiedScope": "500日期、拨盘布局及Henry Dreyfuss",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "不同机构",
+      "commercialDisclosure": "展览；未核到商业披露",
+      "originalId": "HC150-S017",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S018",
+      "title": "Western Electric model500 exhibit",
+      "publisher": "Westport Tech Museum",
+      "url": "https://www.westporttechmuseum.com/products/rotary-dial-phones-1970",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆实物展品页",
+      "verifiedScope": "500实物展出身份和1949年份；不采纳近乎不坏夸张",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "不同机构；社会普及说法未独立验证",
+      "commercialDisclosure": "非售卖博物馆；部分照片背景由Gemini处理",
+      "originalId": "HC150-S018",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S019",
+      "title": "Ericofon design and innovation journey",
+      "publisher": "Ericsson",
+      "url": "https://www.ericsson.com/en/about-us/history/products/the-telephones/the-ericofon--cobra-1956-1954",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "试产/生产分界、ABS与结构开发",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "原厂历史；与MoMA不同作用",
+      "commercialDisclosure": "品牌历史宣传",
+      "originalId": "HC150-S019",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S020",
+      "title": "Ericofon Telephone",
+      "publisher": "MoMA",
+      "url": "https://www.moma.org/collection/works/1151",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型档案",
+      "verifiedScope": "实物身份、材料与作品年代1949–1959",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "独立实物编目",
+      "commercialDisclosure": "Design Store链接；馆藏非奖项",
+      "originalId": "HC150-S020",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S061",
+      "title": "Thermomix TM5 September 2014 market introduction",
+      "publisher": "Vorwerk",
+      "url": "https://www.vorwerk-group.com/de/presse/publikationen/Vorwerk-Annual-Report-2014-Web-Version.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂年度报告",
+      "verifiedScope": "年报p14、17：2014年9月市场推出；触屏、食谱芯片、步骤引导",
+      "verificationMethod": "PDF正文相关页",
+      "limits": "年报中的媒体赞誉属转述，不列独立意见。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S061",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S062",
+      "title": "Die Thermomix Erfolgsgeschichte",
+      "publisher": "Vorwerk",
+      "url": "https://www.vorwerk.com/de/de/c/home/rezepte-und-ideen/ideenreich/thermomix/lifestyle/die-thermomix-erfolgsgeschichte",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "TM5 2014；后续Cook-Key属另一步而非首发配置",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S062",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    }
+  ],
+  "validation": {
+    "exhibits": 4,
+    "uniqueSlugs": true,
+    "allFiveSectionHanAtLeast825": true,
+    "allNestedSourceReferencesClosed": true,
+    "productionFilesEdited": false,
+    "minHanCharacters": 1029,
+    "maxHanCharacters": 1129
+  },
+  "limitations": [
+    "沿用已核身份与日期，不把本轮文字修订称作所有来源重新核读。",
+    "比较只陈述可确认的操作和结构差异，未核采用率与长期影响不填。"
+  ]
+}

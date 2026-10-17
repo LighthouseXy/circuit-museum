@@ -1,0 +1,705 @@
+{
+  "slug": "hamilton-pulsar-p1",
+  "name": "Pulsar P1",
+  "regionVersion": null,
+  "query": "Pulsar AND \"P1\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Pulsar-timing-array-schematic.svg",
+      "pageid": 133833588,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pulsar-timing-array-schematic.svg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Pulsar-timing-array-schematic.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Pulsar-timing-array-schematic.svg/960px-Pulsar-timing-array-schematic.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-07-01 19:43:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pulsar-timing-array-schematic",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Pulsars|Gravitational waves|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The sketch shows the detection of a <a href=\"https://en.wikipedia.org/wiki/Gravitational_wave\" class=\"extiw\" title=\"en:Gravitational wave\">en:Gravitational wave</a> with a <a href=\"https://en.wikipedia.org/wiki/Pulsar_timing_array\" class=\"extiw\" title=\"en:Pulsar timing array\">en:Pulsar timing array</a> in a schematic way. The <a href=\"https://en.wikipedia.org/wiki/Pulsar\" class=\"extiw\" title=\"en:Pulsar\">pulsars</a> P1 ... Pn are sending signals periodically, which are received on Earth. A gravitational wave (GW) changes the distance, earth (E) - pulsar; while the distance changes, also the time between pulses change. By measuring the changes in the pulse parameters and their correlations, a gravitational wave can be detected.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-07-01",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Hfst\" title=\"User:Hfst\">Hfst</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The sketch shows the detection of a  en:Gravitational wave  with a  en:Pulsar timing array  in a schematic way. The  pulsars  P1 ... Pn are sending signals periodically, which are received on Earth. A gravitational wave (GW) changes the distance, earth (E) - pulsar; while the distance changes, also the time between pulses change. By measuring the changes in the pulse parameters and their correlations, a gravitational wave can be detected.",
+      "artist": "Hfst",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-07-01"
+    },
+    {
+      "title": "File:Quantum entanglement vs classical correlation video short.gif",
+      "pageid": 97191638,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Quantum_entanglement_vs_classical_correlation_video_short.gif",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Quantum_entanglement_vs_classical_correlation_video_short.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Quantum_entanglement_vs_classical_correlation_video_short.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-12-11 11:45:19",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Quantum entanglement vs classical correlation video short",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Quantum entanglement|Animated GIF files|Self-published work|Animations of quantum physics",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "This video demonstrates the difference between entangled and classically correlated quantum states when the polarization of photons is considered. In the scene on the left, the source produces photon pairs in a singlet state, which is maximally entangled. In the scene on the right, the photon pairs are created in a dephased singlet state, which is mixed and only classically correlated. In both scenes, there is a source of photon pairs in the center. One photon of each pair propagates to the detection station on the left and its partner photon propagates to the detection station on the right. Each detection station consists of a polarizing beam splitter and two detection screens. The detection stations can measure the polarization of incoming photons in different linearly-polarized bases. The video comprises three parts. In the first part, the photons are measured in the H/V basis. Both entangled and classically correlated states give rise to the same measurement results (up to random fluctuations that are intrinsic to the quantum measurements). In the second part, the measurements are performed in different bases, where the difference between the two states becomes apparent. In the third part, only the probabilities of photon detections are plotted and the detection stations are rotated smoothly over the entire range of linear polarizations. Even though the probabilities for the classically correlated state vary as the rotation angle increases, the probabilities for the entangled singlet state remain constant.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2020-12-01",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JozumBjada&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JozumBjada (page does not exist)\">JozumBjada</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "This video demonstrates the difference between entangled and classically correlated quantum states when the polarization of photons is considered. In the scene on the left, the source produces photon pairs in a singlet state, which is maximally entangled. In the scene on the right, the photon pairs are created in a dephased singlet state, which is mixed and only classically correlated. In both scenes, there is a source of photon pairs in the center. One photon of each pair propagates to the detection station on the left and its partner photon propagates to the detection station on the right. Each detection station consists of a polarizing beam splitter and two detection screens. The detection stations can measure the polarization of incoming photons in different linearly-polarized bases. The video comprises three parts. In the first part, the photons are measured in the H/V basis. Both entangled and classically correlated states give rise to the same measurement results (up to random fluctuations that are intrinsic to the quantum measurements). In the second part, the measurements are performed in different bases, where the difference between the two states becomes apparent. In the third part, only the probabilities of photon detections are plotted and the detection stations are rotated smoothly over the entire range of linear polarizations. Even though the probabilities for the classically correlated state vary as the rotation angle increases, the probabilities for the entangled singlet state remain constant.",
+      "artist": "JozumBjada",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2020-12-01"
+    },
+    {
+      "title": "File:PhysRevC.99.064907.pdf",
+      "pageid": 79935015,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PhysRevC.99.064907.pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/ff/PhysRevC.99.064907.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/PhysRevC.99.064907.pdf/page1-960px-PhysRevC.99.064907.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2019-06-25 06:47:10",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "PhysRevC.99.064907",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Quark-gluon plasma|2019-06-24|Media from Physical Review C",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A new mechanism of photon emission in the quark-gluon plasma is proposed. Photon dispersion relation in the presence of the CP-odd topological regions generated by the chiral anomaly acquires an imaginary mass. It allows photon radiation through the decay q→qγ and annihilation q¯q→γ processes closely related to the chiral Cherenkov radiation. Unlike previous proposals this mechanism does not require an external magnetic field. The differential photon emission rate per unit volume is computed and shown to be comparable to the rate of photon emission in conventional processes.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-06-24",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.99.064907\">https://journals.aps.org/prc/abstract/10.1103/PhysRevC.99.064907</a>\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.1103/PhysRevC.99.064907\">https://doi.org/10.1103/PhysRevC.99.064907</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Kirill Tuchin",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "A new mechanism of photon emission in the quark-gluon plasma is proposed. Photon dispersion relation in the presence of the CP-odd topological regions generated by the chiral anomaly acquires an imaginary mass. It allows photon radiation through the decay q→qγ and annihilation q¯q→γ processes closely related to the chiral Cherenkov radiation. Unlike previous proposals this mechanism does not require an external magnetic field. The differential photon emission rate per unit volume is computed and shown to be comparable to the rate of photon emission in conventional processes.",
+      "artist": "Kirill Tuchin",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "date": "2019-06-24"
+    },
+    {
+      "title": "File:Moeller-Scattering u-channel.pdf",
+      "pageid": 83041504,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Moeller-Scattering_u-channel.pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/84/Moeller-Scattering_u-channel.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Moeller-Scattering_u-channel.pdf/page1-250px-Moeller-Scattering_u-channel.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2019-10-12 19:50:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Moeller-Scattering u-channel",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Feynman diagrams|Self-published work|VectorPDF that can be converted to SVG",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "This is the u-channel Feynman Diagram of electron-electron scattering via one intermediate photon.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-10-12",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:TDF\" title=\"User:TDF\">TDF</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "This is the u-channel Feynman Diagram of electron-electron scattering via one intermediate photon.",
+      "artist": "TDF",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2019-10-12"
+    },
+    {
+      "title": "File:Quantum measurement of polarization.gif",
+      "pageid": 110755943,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Quantum_measurement_of_polarization.gif",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Quantum_measurement_of_polarization.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Quantum_measurement_of_polarization.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2021-10-05 19:35:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Quantum measurement of polarization",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Quantum measurement|Self-published work|Animations of quantum mechanics",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A quantum measurement of polarization of single photons, where individual photons are injected into a polarizing beam splitter, which transmits the horizontal and reflects the vertical polarization. A horizontally polarized (H) photon reaches the right-hand side detector, a vertically polarized (V) photon reaches the left-hand side detector, and a diagonally polarized (D) photon leaves the beam splitter in a coherent superposition of H and V. It propagates in this form till it reaches both detectors, at which moment the photon's wave function collapses into a well-defined polarization. In the animation the photon finally \"chooses\" the horizontal polarization, but it could have chosen with the same probability the vertical one.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2021-10-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:JozumBjada&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:JozumBjada (page does not exist)\">JozumBjada</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "A quantum measurement of polarization of single photons, where individual photons are injected into a polarizing beam splitter, which transmits the horizontal and reflects the vertical polarization. A horizontally polarized (H) photon reaches the right-hand side detector, a vertically polarized (V) photon reaches the left-hand side detector, and a diagonally polarized (D) photon leaves the beam splitter in a coherent superposition of H and V. It propagates in this form till it reaches both detectors, at which moment the photon's wave function collapses into a well-defined polarization. In the animation the photon finally \"chooses\" the horizontal polarization, but it could have chosen with the same probability the vertical one.",
+      "artist": "JozumBjada",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2021-10-05"
+    },
+    {
+      "title": "File:PhysRevC.100.025202.pdf",
+      "pageid": 81092417,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PhysRevC.100.025202.pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PhysRevC.100.025202.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/PhysRevC.100.025202.pdf/page1-960px-PhysRevC.100.025202.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2019-08-07 07:08:05",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "PhysRevC.100.025202",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Hadron physics|2019-08-01|Media from Physical Review C",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "General expressions for the unpolarized differential cross section and for various polarization observables in coherent pseudoscalar meson photo- and electroproduction on a deuteron target have been obtained in the one-photon-exchange approximation. The spin structure of the matrix element is explicitly derived in terms of structure functions. The correspondence with the helicity amplitudes is given. The polarization effects have been investigated for the case of a longitudinally polarized electron beam and a vector or tensor polarized deuteron target. The polarization (vector or tensor) of the scattered deuteron for the case of an unpolarized or a longitudinally polarized electron beam is also considered. In the case of the photoproduction reaction, we consider a linearly, circularly, or elliptically polarized photon beam. Numerical estimations have been done for the unpolarized differential cross section and for some polarization observables.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-08-01",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://journals.aps.org/prc/abstract/10.1103/PhysRevC.100.025202\">https://journals.aps.org/prc/abstract/10.1103/PhysRevC.100.025202</a>\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.1103/PhysRevC.100.025202\">https://doi.org/10.1103/PhysRevC.100.025202</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "G. I. Gakh, A. G. Gakh, and E. Tomasi-Gustafsson",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "General expressions for the unpolarized differential cross section and for various polarization observables in coherent pseudoscalar meson photo- and electroproduction on a deuteron target have been obtained in the one-photon-exchange approximation. The spin structure of the matrix element is explicitly derived in terms of structure functions. The correspondence with the helicity amplitudes is given. The polarization effects have been investigated for the case of a longitudinally polarized electron beam and a vector or tensor polarized deuteron target. The polarization (vector or tensor) of the scattered deuteron for the case of an unpolarized or a longitudinally polarized electron beam is also considered. In the case of the photoproduction reaction, we consider a linearly, circularly, or elliptically polarized photon beam. Numerical estimations have been done for the unpolarized differential cross section and for some polarization observables.",
+      "artist": "G. I. Gakh, A. G. Gakh, and E. Tomasi-Gustafsson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "date": "2019-08-01"
+    },
+    {
+      "title": "File:S750loops.svg",
+      "pageid": 50313582,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:S750loops.svg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c8/S750loops.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/S750loops.svg/960px-S750loops.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2016-07-24 13:14:06",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "S750loops",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|SVG Feynman diagrams with 4 legs",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Feynman diagram of a possible Digamma production process",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-07-24",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Maximilian_Reininghaus&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Maximilian Reininghaus (page does not exist)\">Maximilian Reininghaus</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Feynman diagram of a possible Digamma production process",
+      "artist": "Maximilian Reininghaus",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2016-07-24"
+    },
+    {
+      "title": "File:The Event Horizon Telescope Collaboration 2019 ApJL 875 L4.pdf",
+      "pageid": 77917348,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Event_Horizon_Telescope_Collaboration_2019_ApJL_875_L4.pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/bd/The_Event_Horizon_Telescope_Collaboration_2019_ApJL_875_L4.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/The_Event_Horizon_Telescope_Collaboration_2019_ApJL_875_L4.pdf/page1-960px-The_Event_Horizon_Telescope_Collaboration_2019_ApJL_875_L4.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2019-04-10 14:32:33",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "The Event Horizon Telescope Collaboration 2019 ApJL 875 L4",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "First image of a black hole|Files from external sources with reviewed licenses|2019-04-10|Files with derivative versions|Media from The Astrophysical Journal Letters",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "We present the first Event Horizon Telescope (EHT) images of M87, using observations from April 2017 at 1.3 mm wavelength. These images show a prominent ring with a diameter of ~40 μas, consistent with the size and shape of the lensed photon orbit encircling the \"shadow\" of a supermassive black hole. The ring is persistent across four observing nights and shows enhanced brightness in the south. To assess the reliability of these results, we implemented a two-stage imaging procedure. In the first stage, four teams, each blind to the others' work, produced images of M87 using both an established method (CLEAN) and a newer technique (regularized maximum likelihood). This stage allowed us to avoid shared human bias and to assess common features among independent reconstructions. In the second stage, we reconstructed synthetic data from a large survey of imaging parameters and then compared the results with the corresponding ground truth images. This stage allowed us to select parameters objectively to use when reconstructing images of M87. Across all tests in both stages, the ring diameter and asymmetry remained stable, insensitive to the choice of imaging technique. We describe the EHT imaging procedures, the primary image features in M87, and the dependence of these features on imaging assumptions.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-04-10",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://iopscience.iop.org/article/10.3847/2041-8213/ab0e85\">https://iopscience.iop.org/article/10.3847/2041-8213/ab0e85</a>\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.3847/2041-8213/ab0e85\">https://doi.org/10.3847/2041-8213/ab0e85</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "The Event Horizon Telescope Collaboration",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "We present the first Event Horizon Telescope (EHT) images of M87, using observations from April 2017 at 1.3 mm wavelength. These images show a prominent ring with a diameter of ~40 μas, consistent with the size and shape of the lensed photon orbit encircling the \"shadow\" of a supermassive black hole. The ring is persistent across four observing nights and shows enhanced brightness in the south. To assess the reliability of these results, we implemented a two-stage imaging procedure. In the first stage, four teams, each blind to the others' work, produced images of M87 using both an established method (CLEAN) and a newer technique (regularized maximum likelihood). This stage allowed us to avoid shared human bias and to assess common features among independent reconstructions. In the second stage, we reconstructed synthetic data from a large survey of imaging parameters and then compared the results with the corresponding ground truth images. This stage allowed us to select parameters objectively to use when reconstructing images of M87. Across all tests in both stages, the ring diameter and asymmetry remained stable, insensitive to the choice of imaging technique. We describe the EHT imaging procedures, the primary image features in M87, and the dependence of these features on imaging assumptions.",
+      "artist": "The Event Horizon Telescope Collaboration",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "date": "2019-04-10"
+    }
+  ]
+}

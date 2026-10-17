@@ -1,0 +1,40 @@
+{
+  "query": "Aibo ERS-110",
+  "checkedOn": "2026-10-15",
+  "result_count": 1,
+  "page_count": 1,
+  "page_size": 20,
+  "page": 1,
+  "results": [
+    {
+      "id": "b91379e8-9dc3-496c-b2f1-d052a0a6555e",
+      "title": "Red Dot Award Product Design 2000-2018 Aibos (cropped)",
+      "indexed_on": "2025-09-14T00:16:38.851461Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=174971843",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Red_Dot_Award_Product_Design_2000-2018_Aibos_%28cropped%29.jpg",
+      "creator": "Marco Wydmuch",
+      "creator_url": null,
+      "license": "by-sa",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 195009,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"Red Dot Award Product Design 2000-2018 Aibos (cropped)\" by Marco Wydmuch is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 1507,
+      "width": 1249,
+      "thumbnail": "https://api.openverse.org/v1/images/b91379e8-9dc3-496c-b2f1-d052a0a6555e/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/b91379e8-9dc3-496c-b2f1-d052a0a6555e/",
+      "related_url": "https://api.openverse.org/v1/images/b91379e8-9dc3-496c-b2f1-d052a0a6555e/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

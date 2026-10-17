@@ -1,0 +1,72 @@
+{
+  "checkedOn": "2026-10-15",
+  "newlyVerified": [
+    "hp-laserjet-1984",
+    "nest-protect-1",
+    "braun-sixtant-sm31",
+    "motorola-pageboy-i",
+    "amazon-echo-1",
+    "nest-learning-thermostat-1",
+    "logitech-mx-master-3",
+    "lg-stanbyme-go-27lx5qkna",
+    "valve-steam-machine-2026",
+    "sony-access-controller"
+  ],
+  "excludedCandidates": [
+    {
+      "slug": "microsoft-hololens-2",
+      "title": "File:Microsoft HoloLens 2.webp",
+      "discovery": "Openverse result points to an obsolete Commons record",
+      "verdict": "not-reusable-permission-unverified",
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/User_talk:ErnestKid",
+      "reason": "Commons original uploader talk page records missing copyright-holder permission and probable deletion; Openverse license index is insufficient."
+    },
+    {
+      "slug": "braun-hl1",
+      "title": "Cooper Hewitt HL1 chndm_2017-51-9",
+      "verdict": "not-open-image-license-confirmed",
+      "evidenceUrl": "https://www.si.edu/object/hl1:chndm_2017-51-9",
+      "reason": "Image specifically says Usage Conditions Apply, not an open license."
+    },
+    {
+      "slug": "toastmaster-1a1",
+      "title": "Toastmaster 1A1 nmah_1118367",
+      "verdict": "not-open-image-license-confirmed",
+      "evidenceUrl": "https://www.si.edu/object/toastmaster-1a1-electric-toaster:nmah_1118367",
+      "reason": "CC0 applies to metadata; image specifically says Usage Conditions Apply. No image permission inferred from record metadata."
+    },
+    {
+      "slug": "logitech-mx-master-3",
+      "title": "新玩意 罗技MX Master3",
+      "verdict": "restricted-noncommercial-no-derivatives",
+      "evidenceUrl": "https://juemuren4449.com/archives/logitech-mx-master-3",
+      "reason": "Author site declares CC BY-NC-ND 4.0; not treated as unrestricted CC BY for this site."
+    },
+    {
+      "slug": "teac-portastudio144",
+      "title": "My Setup",
+      "evidenceUrl": "https://www.flickr.com/photos/23767648@N04/2553268953",
+      "verdict": "wrong-product-type",
+      "reason": "1024px candidate photo inspected: small silver USB audio interface beside computer, not the cassette-and-fader 144 Portastudio recorder."
+    },
+    {
+      "slug": "national-ec36",
+      "title": "0144 National Panasonic",
+      "evidenceUrl": "https://www.flickr.com/photos/23807199@N00/29199793401",
+      "verdict": "exact-model-unverified",
+      "reason": "681x1024 candidate photo inspected: National-branded cooker with Cook/Keep Warm front panel, but no EC-36 identification or evidence connecting it to the 1956 model."
+    },
+    {
+      "slug": "lg-oled-r",
+      "evidenceUrl": "https://www.flickr.com/photos/189730524@N06/50328543353/",
+      "verdict": "all-rights-reserved",
+      "reason": "Original Flickr page inspected: NexBridge Technologies, all rights reserved. Discovery result does not establish permission."
+    },
+    {
+      "slug": "nintendo-virtual-boy-jp",
+      "evidenceUrl": "https://commons.wikimedia.org/wiki/File:Virtualboyinashopinjapan-oct2012.jpg",
+      "verdict": "regional-model-unverified",
+      "reason": "Actual Japanese shop kiosk photograph inspected, but no device regional model label visible. Japanese signage or location alone is insufficient for exact Japanese edition."
+    }
+  ]
+}

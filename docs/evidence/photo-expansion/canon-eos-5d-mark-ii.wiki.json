@@ -1,0 +1,94 @@
+{
+  "slug": "canon-eos-5d-mark-ii",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Canon EOS 5D Mark II with 50mm 1.4 edit1.jpg",
+      "pageid": 16793091,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Canon_EOS_5D_Mark_II_with_50mm_1.4_edit1.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Canon_EOS_5D_Mark_II_with_50mm_1.4_edit1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Canon_EOS_5D_Mark_II_with_50mm_1.4_edit1.jpg/960px-Canon_EOS_5D_Mark_II_with_50mm_1.4_edit1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2011-09-30 11:31:18",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Canon EOS 5D Mark II with 50mm 1.4 edit1",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Canon EOS 5D|Canon EOS 5D Mark II|Images with opaque backgrounds|Location not applicable|Canon EF 50mm F1.4 USM|With trademark|License migration redundant|Self-published work|Featured pictures on Wikipedia, English|Featured pictures on Wikipedia, Persian|Cameras and lenses on white background|Photographs by Ktoya in India",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Canon EOS 5D Mark II camera, with Canon EF 50mm f/1.4 USM lens (fitted with a B+W 010 UV-Haze 58mm filter).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2008-12-11",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Charles.lanteigne\" title=\"User:Charles.lanteigne\">Charles Lanteigne</a>; edited by <a href=\"//commons.wikimedia.org/wiki/User:Jjron\" title=\"User:Jjron\">jjron</a> (increased canvas size)",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "trademarked",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Canon EOS 5D Mark II camera, with Canon EF 50mm f/1.4 USM lens (fitted with a B+W 010 UV-Haze 58mm filter).",
+      "artist": "Charles Lanteigne ; edited by  jjron  (increased canvas size)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2008-12-11"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "title": "产品编年史",
+  "status": "ready",
+  "checkedThrough": "2026-10-03",
+  "collectionTarget": 40,
+  "retainedRequiredSlugs": [
+    "sony-tps-l2",
+    "macbook-2006",
+    "iphone-4"
+  ],
+  "removedSlugs": [
+    "marconi-702",
+    "sony-tv8-301",
+    "philips-el3300",
+    "olivetti-programma-101",
+    "sony-d50",
+    "nokia-9000",
+    "tamagotchi",
+    "sony-aibo-ers110",
+    "amazon-echo-1",
+    "htc-vive"
+  ],
+  "addedSlugs": [
+    "koss-sp3",
+    "hamilton-pulsar-p1",
+    "fitbit-flex",
+    "xiaomi-mi-band-1",
+    "airpods-1",
+    "macbook-air-m5-2026",
+    "iphone-18-pro",
+    "apple-watch-series-12",
+    "airpods-5",
+    "xiaomi-smart-band-11-active"
+  ],
+  "collection": [
+    {
+      "slug": "radiola-iii",
+      "year": 1924,
+      "name": "Radiola III",
+      "brand": "RCA",
+      "category": "audio"
+    },
+    {
+      "slug": "regency-tr1",
+      "year": 1954,
+      "name": "Regency TR-1",
+      "brand": "Regency",
+      "category": "audio"
+    },
+    {
+      "slug": "koss-sp3",
+      "year": 1958,
+      "name": "SP/3",
+      "brand": "Koss",
+      "category": "audio"
+    },
+    {
+      "slug": "hamilton-pulsar-p1",
+      "year": 1972,
+      "name": "Pulsar P1",
+      "brand": "Hamilton",
+      "category": "wearable"
+    },
+    {
+      "slug": "hp-35",
+      "year": 1972,
+      "name": "HP-35",
+      "brand": "Hewlett-Packard",
+      "category": "computing"
+    },
+    {
+      "slug": "magnavox-odyssey",
+      "year": 1972,
+      "name": "Odyssey",
+      "brand": "Magnavox",
+      "category": "gaming"
+    },
+    {
+      "slug": "altair-8800",
+      "year": 1975,
+      "name": "Altair 8800",
+      "brand": "MITS",
+      "category": "computing"
+    },
+    {
+      "slug": "apple-1",
+      "year": 1976,
+      "name": "Apple-1",
+      "brand": "Apple",
+      "category": "computing"
+    },
+    {
+      "slug": "atari-vcs",
+      "year": 1977,
+      "name": "Atari Video Computer System",
+      "brand": "Atari",
+      "category": "gaming"
+    },
+    {
+      "slug": "speak-and-spell",
+      "year": 1978,
+      "name": "Speak & Spell",
+      "brand": "Texas Instruments",
+      "category": "home"
+    },
+    {
+      "slug": "sony-tps-l2",
+      "year": 1979,
+      "name": "Walkman TPS-L2",
+      "brand": "Sony",
+      "category": "audio"
+    },
+    {
+      "slug": "ibm-pc-5150",
+      "year": 1981,
+      "name": "IBM PC 5150",
+      "brand": "IBM",
+      "category": "computing"
+    },
+    {
+      "slug": "commodore-64",
+      "year": 1982,
+      "name": "Commodore 64",
+      "brand": "Commodore",
+      "category": "computing"
+    },
+    {
+      "slug": "motorola-dynatac-8000x",
+      "year": 1983,
+      "name": "DynaTAC 8000X",
+      "brand": "Motorola",
+      "category": "mobile"
+    },
+    {
+      "slug": "nintendo-famicom",
+      "year": 1983,
+      "name": "Family Computer",
+      "brand": "Nintendo",
+      "category": "gaming"
+    },
+    {
+      "slug": "macintosh-128k",
+      "year": 1984,
+      "name": "Macintosh 128K",
+      "brand": "Apple",
+      "category": "computing"
+    },
+    {
+      "slug": "game-boy",
+      "year": 1989,
+      "name": "Game Boy DMG-01",
+      "brand": "Nintendo",
+      "category": "gaming"
+    },
+    {
+      "slug": "sony-playstation",
+      "year": 1994,
+      "name": "PlayStation",
+      "brand": "Sony Computer Entertainment",
+      "category": "gaming"
+    },
+    {
+      "slug": "casio-qv10",
+      "year": 1995,
+      "name": "QV-10",
+      "brand": "Casio",
+      "category": "imaging"
+    },
+    {
+      "slug": "palmpilot-professional",
+      "year": 1997,
+      "name": "PalmPilot Professional",
+      "brand": "Palm",
+      "category": "mobile"
+    },
+    {
+      "slug": "imac-g3",
+      "year": 1998,
+      "name": "iMac G3",
+      "brand": "Apple",
+      "category": "computing"
+    },
+    {
+      "slug": "ipod-1",
+      "year": 2001,
+      "name": "iPod 第一代",
+      "brand": "Apple",
+      "category": "audio"
+    },
+    {
+      "slug": "nintendo-ds",
+      "year": 2004,
+      "name": "Nintendo DS",
+      "brand": "Nintendo",
+      "category": "gaming"
+    },
+    {
+      "slug": "macbook-2006",
+      "year": 2006,
+      "name": "MacBook 第一代",
+      "brand": "Apple",
+      "category": "computing"
+    },
+    {
+      "slug": "nintendo-wii",
+      "year": 2006,
+      "name": "Wii",
+      "brand": "Nintendo",
+      "category": "gaming"
+    },
+    {
+      "slug": "amazon-kindle-1",
+      "year": 2007,
+      "name": "Kindle 第一代",
+      "brand": "Amazon",
+      "category": "mobile"
+    },
+    {
+      "slug": "iphone-1",
+      "year": 2007,
+      "name": "iPhone 第一代",
+      "brand": "Apple",
+      "category": "mobile"
+    },
+    {
+      "slug": "ipad-1",
+      "year": 2010,
+      "name": "iPad 第一代",
+      "brand": "Apple",
+      "category": "computing"
+    },
+    {
+      "slug": "iphone-4",
+      "year": 2010,
+      "name": "iPhone 4",
+      "brand": "Apple",
+      "category": "mobile"
+    },
+    {
+      "slug": "raspberry-pi-model-b",
+      "year": 2012,
+      "name": "Raspberry Pi Model B",
+      "brand": "Raspberry Pi Foundation",
+      "category": "making"
+    },
+    {
+      "slug": "fitbit-flex",
+      "year": 2013,
+      "name": "Flex",
+      "brand": "Fitbit",
+      "category": "wearable"
+    },
+    {
+      "slug": "xiaomi-mi-band-1",
+      "year": 2014,
+      "name": "小米手环 第一代",
+      "brand": "Xiaomi",
+      "category": "wearable"
+    },
+    {
+      "slug": "apple-watch-1",
+      "year": 2015,
+      "name": "Apple Watch 第一代",
+      "brand": "Apple",
+      "category": "wearable"
+    },
+    {
+      "slug": "airpods-1",
+      "year": 2016,
+      "name": "AirPods 第一代",
+      "brand": "Apple",
+      "category": "audio"
+    },
+    {
+      "slug": "steam-deck-lcd",
+      "year": 2022,
+      "name": "Steam Deck LCD",
+      "brand": "Valve",
+      "category": "gaming"
+    },
+    {
+      "slug": "airpods-5",
+      "year": 2026,
+      "name": "AirPods 5",
+      "brand": "Apple",
+      "category": "audio"
+    },
+    {
+      "slug": "apple-watch-series-12",
+      "year": 2026,
+      "name": "Apple Watch Series 12",
+      "brand": "Apple",
+      "category": "wearable"
+    },
+    {
+      "slug": "iphone-18-pro",
+      "year": 2026,
+      "name": "iPhone 18 Pro",
+      "brand": "Apple",
+      "category": "mobile"
+    },
+    {
+      "slug": "macbook-air-m5-2026",
+      "year": 2026,
+      "name": "MacBook Air 13英寸（M5）",
+      "brand": "Apple",
+      "category": "computing"
+    },
+    {
+      "slug": "xiaomi-smart-band-11-active",
+      "year": 2026,
+      "name": "Xiaomi Smart Band 11 Active",
+      "brand": "Xiaomi",
+      "category": "wearable"
+    }
+  ],
+  "chronicleTypes": [
+    {
+      "id": "phones",
+      "label": "手机"
+    },
+    {
+      "id": "computers",
+      "label": "电脑"
+    },
+    {
+      "id": "watches",
+      "label": "手表"
+    },
+    {
+      "id": "bands",
+      "label": "手环"
+    },
+    {
+      "id": "headphones",
+      "label": "耳机"
+    }
+  ],
+  "note": "40件与collection.json一致。29个编年史节点区分展品及背景；ready仅指文案和引用完成，网站实现与视觉验收另行记录。"
+}

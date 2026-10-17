@@ -1,0 +1,96 @@
+{
+  "checkedOn": "2026-10-11",
+  "scope": "研究/交付数据完整性与主整合修正；不是硬件、网页实现或所有外链可用性验收。",
+  "checks": [
+    {
+      "name": "JSON解析",
+      "status": "pass",
+      "details": "8个研究/交付JSON（含本核查记录）；最终总览生成后再次解析通过"
+    },
+    {
+      "name": "候选去重",
+      "status": "pass",
+      "details": "53原研究条目，合并Fairphone2与Roomba后51件"
+    },
+    {
+      "name": "原40件基线未改变",
+      "status": "pass",
+      "details": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a"
+    },
+    {
+      "name": "编年史提议基线",
+      "status": "pass",
+      "details": "现29节点，提议未导入"
+    },
+    {
+      "name": "统计一致",
+      "status": "pass",
+      "details": "现40件矩阵与51件候选状态均一致"
+    },
+    {
+      "name": "候选来源与方法字段",
+      "status": "pass",
+      "details": "149来源记录逐项保留范围/读取方式/限制，未抬高为全文核查"
+    },
+    {
+      "name": "首批名单与追加身份",
+      "status": "pass",
+      "details": "6件；41–46仅在基线未变化时预留"
+    },
+    {
+      "name": "六件五节与引用",
+      "status": "pass",
+      "details": {
+        "sourceCount": 29,
+        "chineseCharacters": {
+          "sony-cdp-101": 1044,
+          "casio-f91w": 945,
+          "ibm-thinkpad-701c": 934,
+          "nokia-3310-2000": 932,
+          "logitech-mx-master-3": 969,
+          "framework-laptop-13-2021": 906
+        },
+        "threshold": 825
+      }
+    },
+    {
+      "name": "首批媒体回退",
+      "status": "pass",
+      "details": "6件均无导入图片、无视频ID；许可候选不等于资产已发布"
+    },
+    {
+      "name": "编年史位置引用",
+      "status": "pass",
+      "details": "4个内容提议；CDP-101/MX Master3仅馆藏"
+    },
+    {
+      "name": "公开奖项限定",
+      "status": "pass",
+      "details": "仅Framework2022最高等级与MX Master3 2020普通奖；未知等级不进入公开标签"
+    },
+    {
+      "name": "文档内部链接",
+      "status": "pass",
+      "details": "现有Markdown相对文件链接可解析；外部URL没有全量联网重开"
+    }
+  ],
+  "mediumReadOnlyReview": {
+    "agent": "/root/expansion_evidence_review_medium",
+    "reasoningEffortRequested": "medium",
+    "scope": "框架、缺口及四份研究，未审当时尚未生成的canonical pool/first-batch",
+    "findingsHandled": [
+      "统一verificationMethod/limits且保留实际读取范围",
+      "合并Fairphone2与Roomba两项重复",
+      "补Framework铝壳/磁吸/QR与原样机游戏用途来源范围",
+      "补年度选品作者/类别核查层级/价格范围/佣金披露",
+      "修正现有品类标签并核编年史原节点"
+    ]
+  },
+  "limitations": [
+    "没有导入正式馆藏或修改网站代码；没有对扩充后的页面运行build/浏览器测试。",
+    "没有验证图片像素或下载导入素材，所有首批使用合法文字回退。",
+    "没有逐一重开149个外部URL；源记录中的403、索引和原手册镜像限制均保留。",
+    "没有实机操作、故障率、寿命或群体使用效果核验。"
+  ],
+  "finalDocumentLinkCheck": "包括交付README在内的Markdown内部文件链接可解析"
+}

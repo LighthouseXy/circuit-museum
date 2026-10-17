@@ -1,0 +1,1035 @@
+{
+  "status": "editorial-revision-for-review",
+  "note": "Existing slugs are revisions, not new exhibit count. Production original40 remains unchanged. No new firsthand validation claimed.",
+  "exhibits": [
+    {
+      "id": "05",
+      "slug": "hp-35",
+      "year": 1972,
+      "name": "HP-35",
+      "brand": "Hewlett-Packard",
+      "category": "computing",
+      "categoryLabel": "个人计算",
+      "aliases": [
+        "HP-35",
+        "Hewlett-Packard",
+        "惠普"
+      ],
+      "tags": [
+        "个人计算",
+        "Hewlett-Packard"
+      ],
+      "summary": "三十五个按键把三角、对数和指数运算装进衣袋，堆栈保留中间结果，按键分组组织计算步骤，使科学计算能够跟随使用者到现场。",
+      "context": "HP-35 于 1972 年推出，名称来自机身上的三十五个按键。HP 的档案把它的目标追溯到 Bill Hewlett 提出的要求：将桌面科学计算能力做成能放进衬衫口袋的设备。它所面对的任务超出四则运算，包括三角函数、对数和指数等计算。IEEE 的里程碑记录也将这些功能与普通便携计算器区分，支持把它放在科学计算工具从桌面转向随身使用的章节中。",
+      "design": "小机身把显示区和计算键排列在同一个操作面上。IEEE 的说明记载了按功能组织的按键、尺寸与色彩区分，以及逆波兰表示法和运算堆栈。用户先提交操作数，再执行对应运算，中间结果保留在堆栈内供下一步使用。LED 显示呈现有限位数的当前值，并用科学记数法表达不同量级。复杂任务由一连串明确操作完成，界面通过按键分组引导选择，通过当前数值反馈进度，完整推导则仍由使用者掌握。",
+      "significance": "HP-35把科学函数带到现场：工程计算中的三角、对数和指数步骤不再必须回到桌面设备。用户仍须选好角度单位、组织堆栈并判断结果，便携改变的是工作地点，准确的方法仍由人负责。与HP-65相比，HP-35主要由用户逐步按键；HP-65能把重复步骤保存为程序，再用磁卡调用。两者的差别因此不是简单的按键数量，而是每次重新组织计算，还是先检查一套方法再反复运行。IEEE的历史认可支持它在科学计算工具发展中的地位，原操作资料则把这种地位落实到具体函数和输入方式。",
+      "dateLabel": "1972 年（推出）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "35 个按键将科学计算的常用功能集中在掌中，LED 数字显示提供即时结果反馈。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1972 年（推出）",
+          "sourceIds": [
+            "C:S07"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "个人计算",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S07",
+        "C:TD03",
+        "C:TXE03",
+        "C:CH02",
+        "CM150-S007",
+        "CM150-S008",
+        "CWC-S001"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S07",
+          "C:TXE03"
+        ],
+        "design": [
+          "C:TXE03"
+        ],
+        "usage": [
+          "C:TXE03"
+        ],
+        "significance": [
+          "C:S07",
+          "C:TXE03",
+          "C:CH02",
+          "CM150-S007",
+          "CM150-S008",
+          "CWC-S001"
+        ],
+        "limitations": [
+          "C:TXE03"
+        ],
+        "readerTakeaway": [
+          "C:S07",
+          "C:TXE03",
+          "C:CH02",
+          "CM150-S007",
+          "CM150-S008",
+          "CWC-S001"
+        ]
+      },
+      "heroMediaId": "M02",
+      "videoIds": [],
+      "relatedSlugs": [
+        "altair-8800",
+        "apple-1"
+      ],
+      "reviewedOn": "2026-10-04",
+      "mediaStatus": "photo-source-verified",
+      "teardown": {
+        "title": "从焊接面观察紧凑布局",
+        "summary": "这张开放许可实物照片展示 HP-35 主板的焊接面，可配合整机照片观察电路、键盘与显示空间之间的关系。",
+        "points": [
+          "照片可用于观察走线与焊点；单凭此面不标注未经确认的芯片型号、层数或制造工艺。"
+        ],
+        "sourceIds": [
+          "C:TD03"
+        ],
+        "mediaIds": [
+          "M25"
+        ],
+        "rightsNote": "M25 可按 CC BY-SA 4.0 使用；这是一张内部细节图，不是完整拆机教程。"
+      },
+      "editorialNotes": {
+        "design": "专用功能键与 LED 数字显示把计算过程集中在掌中；首批照片可见开关旁的红点。"
+      },
+      "chronicleIds": [],
+      "usage": "做连续计算时，用户先输入所需数值，将操作数放入堆栈，再按加、乘或相应函数键，读取结果后继续把它用于下一步。计算角度、对数或指数时，不必先把任务拆成大量四则运算再逐一抄写。这样的动作减少了手工转录步骤，但仍要求使用者理解问题、选择正确运算并核对单位；机器负责执行所选择的数值运算，并不替代数学判断。\n\n使用三角函数时，先判断题目采用角度还是弧度，再把数值送入相应函数；计算得到的数字必须与这个前提一起解释。组合运算则要安排哪个结果留在堆栈、下一步输入什么，不是把完整纸面公式照着从左到右按完。以连续求取中间值的工程问题为例，按键和显示负责执行，人仍要记录每个结果代表的量、单位和用途。携带到现场省去了回到固定设备的距离，却没有省去这些检查。读者因此可以从一次具体计算看出，科学函数、堆栈和使用者的步骤安排怎样共同组成工具。",
+      "limitations": "逆波兰输入与通常书写的代数表达顺序不同，初次使用需要学习堆栈和中间结果的处理。显示位数与数值精度有限，屏幕呈现当前结果，使用者仍要掌握整体计算过程并检查单位。科学函数减少手工步骤，也把任务转成一连串按键操作；正确选择运算依然依赖人的数学判断。",
+      "readerTakeaway": "HP-35把科学函数带到现场：工程计算中的三角、对数和指数步骤不再必须回到桌面设备。用户仍须选好角度单位、组织堆栈并判断结果，便携改变的是工作地点，准确的方法仍由人负责。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "hp-65",
+        "original40": true,
+        "sourceBase": "base-40-preserved.json"
+      }
+    },
+    {
+      "id": "07",
+      "slug": "altair-8800",
+      "year": 1975,
+      "name": "Altair 8800",
+      "brand": "MITS",
+      "category": "computing",
+      "categoryLabel": "个人计算",
+      "aliases": [
+        "Altair 8800",
+        "MITS"
+      ],
+      "tags": [
+        "个人计算",
+        "MITS"
+      ],
+      "summary": "前面板拨杆把二进制数据送入内存，指示灯显示机器状态；用户逐字节写程序、运行并检查结果，让个人电脑成为可学习和改造的对象。",
+      "context": "Altair 8800 随 1975 年《Popular Electronics》的介绍进入个人计算机爱好者视野，MITS 提供套件与组装方案。Computer History Museum 将它与后来出现的 BASIC 软件及早期微机社群联系起来。基础机器以拨杆和灯组织交互，购买者需要理解机器状态与程序操作；个人拥有、动手装配和软件学习在这里成为同一段使用经历。",
+      "design": "原始操作手册的转录解释了前面板逻辑：拨杆位置表示二进制的零与一，灯显示相应地址或数据。EXAMINE 查看指定地址，DEPOSIT 将所设置的数据写入内存，连续写入可以沿地址向后推进。RUN、STOP 等控制决定程序是否运行。面板把计算机内部动作变成手势与灯光，地址选择、数据写入和执行控制分别有明确入口；使用者能从一次次操作中认识字节、内存和程序之间的关系。",
+      "significance": "Altair让个人取得和改造计算机成为一项可实行的活动，代价是使用者要承担大量组装与操作学习。面板上的拨杆和灯将地址、数据与运行状态直接呈现出来，逐字节写入也让程序的物理过程可见。与Apple-1的键盘和文字输出相比，Altair基础面板要求用户先处理按位设置；后者将这部分往来放到可阅读的文字界面中。计算机历史博物馆关于Altair与BASIC的记录支持个人计算社群和软件工具的历史联系；面板手册解释用户怎样真正进入机器，二者共同说明拥有硬件和方便使用是分别发生的变化。",
+      "dateLabel": "1975 年（套件进入公众视野）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "前面板的成排开关和指示灯，使输入与状态直接呈现；它不是附带图形桌面的完整消费电脑。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1975 年（套件进入公众视野）",
+          "sourceIds": [
+            "C:S09"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "个人计算",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S09",
+        "C:TXE05",
+        "C:S10",
+        "C:TXE06"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S09",
+          "C:TXE05"
+        ],
+        "design": [
+          "C:TXE05"
+        ],
+        "usage": [
+          "C:TXE05"
+        ],
+        "significance": [
+          "C:S09",
+          "C:TXE05",
+          "C:S10",
+          "C:TXE06"
+        ],
+        "limitations": [
+          "C:S09",
+          "C:TXE05"
+        ],
+        "readerTakeaway": [
+          "C:S09",
+          "C:TXE05",
+          "C:S10",
+          "C:TXE06"
+        ]
+      },
+      "heroMediaId": "M23",
+      "videoIds": [],
+      "relatedSlugs": [
+        "hp-35",
+        "apple-1"
+      ],
+      "reviewedOn": "2026-10-04",
+      "mediaStatus": "photo-source-verified",
+      "chronicleIds": [
+        "computers"
+      ],
+      "usage": "输入短程序时，用户选择目标地址，逐字节设置数据拨杆并执行写入，完成后让机器从相应位置运行。停止后，再检查内存中的结果；若发现错误，就回到地址和数据逐项查找。手册练习围绕查看、写入、运行和核对组织，将程序操作拆成可以重复的步骤。扩展键盘与终端后，输入和反馈入口能够变化，但这些仍建立在同一套机器状态之上。\n\n面板操作把程序输入拆成地址选择、数据写入和状态检查。使用者需要知道准备修改哪一个内存位置，拨杆当前代表地址还是数据，并在执行前确认写入的内容。若程序没有得到预期结果，灯和面板提供的是机器状态线索，用户还要回到步骤本身排查。这个过程与直接选择一个现成应用不同：数据和指令都必须先进入机器，运行才有对象。断电后易失性内容需要重新准备，也使记录代码与保存输入步骤成为实际工作。观察这一流程，能够理解面板为何同时是控制界面与学习计算机内部关系的入口。",
+      "limitations": "基础面板操作要求理解二进制和内存地址，也需要逐字节输入的耐心。手册明确提示断电后内存内容会丢失，输入完成的程序还需要另行保存。键盘、显示终端与更多内存能够改变操作和任务范围，也会增加系统配置工作；用户取得机器之后，仍要继续建立适合自己的完整环境。",
+      "readerTakeaway": "Altair让个人取得和改造计算机成为一项可实行的活动，代价是使用者要承担大量组装与操作学习。面板上的拨杆和灯将地址、数据与运行状态直接呈现出来，逐字节写入也让程序的物理过程可见。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "apple-1",
+        "original40": true,
+        "sourceBase": "base-40-preserved.json"
+      }
+    },
+    {
+      "id": "08",
+      "slug": "apple-1",
+      "year": 1976,
+      "name": "Apple-1",
+      "brand": "Apple",
+      "category": "computing",
+      "categoryLabel": "个人计算",
+      "aliases": [
+        "Apple-1",
+        "Apple",
+        "苹果"
+      ],
+      "tags": [
+        "个人计算",
+        "Apple"
+      ],
+      "summary": "把计算电路、键盘接口和文字显示放到已组装单板上，用户能输入、检查并运行程序；补齐外设后，机器操作进入键盘与屏幕之间。",
+      "context": "Apple-1 于 1976 年出现，由 Steve Wozniak 设计，Steve Jobs 推向爱好者市场。它以已组装单板的形式提供，原始说明书要求用户另外准备键盘、视频显示和相应电源。主板已完成组装测试，系统仍待使用者补齐，这使它处在套件文化与完整家用电脑之间。下一年 Apple II 的出现进一步改变整机形态，也让 Apple-1 的过渡位置更容易理解。",
+      "design": "主板使用 6502 处理器，组合计算部分、内存、键盘接口和视频文字显示电路。说明书列出四十列、二十四行的文字显示与自动卷屏，并提供驻留监控程序来查看、写入、调试和运行机器程序。集成输入输出接口减少了另配打印式终端的需要，文字反馈能直接送到外接显示设备。主板同时留出扩展连接与实验区域，使已组装的核心仍可以继续改造；键盘、显示和电源则继续作为独立部件组成系统。",
+      "significance": "Apple-1的具体变化，是把已组装并测试的计算电路、键盘接口和文字显示放在一块板上。用户省去部分终端与电路准备，仍须补齐键盘、显示设备、电源等条件。与Altair基础面板逐位设置数据相比，键盘输入和屏幕文字让检查地址、输入程序与读取结果有了连续的阅读入口。它的意义在于重新分配组建系统的工作：哪些连接预先做好，哪些设备仍由个人选择。原广告与操作资料能支持这些结构和动作，不能单凭一块板子推出所有使用者都获得相同的便利；补齐外设与掌握程序仍是实际成本。",
+      "dateLabel": "1976 年（推出）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "装配好的电路板是产品核心，用户另配键盘、显示设备和外壳，把板卡组成可使用的计算系统。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1976 年（推出）",
+          "sourceIds": [
+            "C:S10"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "个人计算",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S10",
+        "C:TXE06",
+        "C:S09",
+        "C:TXE05"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S10",
+          "C:TXE06"
+        ],
+        "design": [
+          "C:TXE06"
+        ],
+        "usage": [
+          "C:TXE06"
+        ],
+        "significance": [
+          "C:S09",
+          "C:TXE05",
+          "C:S10",
+          "C:TXE06"
+        ],
+        "limitations": [
+          "C:TXE06"
+        ],
+        "readerTakeaway": [
+          "C:S09",
+          "C:TXE05",
+          "C:S10",
+          "C:TXE06"
+        ]
+      },
+      "heroMediaId": "M24",
+      "videoIds": [],
+      "relatedSlugs": [
+        "hp-35",
+        "altair-8800"
+      ],
+      "reviewedOn": "2026-10-04",
+      "mediaStatus": "photo-source-verified",
+      "editorialNotes": {
+        "design": "产品核心是装配好的板卡，照片中的外壳、键盘不应自动视为统一原厂套装。"
+      },
+      "chronicleIds": [
+        "computers"
+      ],
+      "usage": "用户准备相应外部设备后，复位进入提示状态，用键盘输入十六进制地址与数据，查看指定位置，再发出运行命令。原始手册的测试程序会在屏幕上持续输出字符，复位可以终止。输入、执行和文字反馈由此连成可见循环：修改的数据可以被查看，运行的结果可以被阅读，用户在键盘与屏幕之间反复核对程序，逐步认识机器怎样工作。\n\n文字界面使地址和内容可以被连续阅读，使用者不必把每次面板状态单独转换成笔记；但屏幕出现文字，还不是获得完整应用。键盘输入、显示输出和计算程序仍各自承担不同任务。用户先确认外设和供电已准备好，再通过监控程序查看内容、写入数据或启动代码。遇到结果不符时，可以返回相应地址核查，而不是仅凭一次运行判定程序正确。这个动作链说明已测试主板整合的是哪些准备：它缩短电路和终端搭建工作，保留了程序输入与检查的参与。单板外形因此不能直接等同于今天开箱即可使用的整机。",
+      "limitations": "已组装主板仍需外接键盘、视频显示与相应电源，使用者要准备这些部件才能完成系统。驻留工具提供机器程序的输入、检查和运行，储存与更多功能则依赖后续配置。它减少了一部分装配工作，同时保留了组建电脑的责任：购买核心电路和拥有完整可用设备之间，仍有外设准备与操作学习。",
+      "readerTakeaway": "Apple-1的具体变化，是把已组装并测试的计算电路、键盘接口和文字显示放在一块板上。用户省去部分终端与电路准备，仍须补齐键盘、显示设备、电源等条件。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "altair-8800",
+        "original40": true,
+        "sourceBase": "base-40-preserved.json"
+      }
+    },
+    {
+      "id": "12",
+      "slug": "ibm-pc-5150",
+      "year": 1981,
+      "name": "IBM PC 5150",
+      "brand": "IBM",
+      "category": "computing",
+      "categoryLabel": "个人计算",
+      "aliases": [
+        "IBM PC 5150",
+        "IBM"
+      ],
+      "tags": [
+        "个人计算",
+        "IBM"
+      ],
+      "summary": "独立键盘、可扩展主机与公开技术资料组成工作系统，用户按任务选择外设，第三方开发围绕共同接口展开，电脑能力随配置继续扩充。",
+      "context": "IBM 于 1981 年 8 月 12 日发布型号 5150 的 Personal Computer。开发采用现成部件，并为外部软件与外设提供机会。主机、键盘、显示、存储和打印设备能够按任务组合，技术资料又向开发者说明接口。它适合展示个人电脑如何形成协作平台：用户选择系统配置，其他厂商围绕公开结构提供产品，硬件购买之后仍有继续扩充的路径。",
+      "design": "主机使用 Intel 8088 处理器，内部留有扩展槽，键盘通过线缆独立放置。1981 年操作手册列出八十三键键盘、数字键区和十个功能键；显示、存储和打印设备则以不同选配方式组成系统。手册专门区分设置、操作、检查与选件安装，也表明扩展并非只是营销口号，而是用户会遇到的真实任务。IBM 公开电路和代码相关技术资料，为外部开发提供接口依据；这个结构不能被简化为一个内置全部设备的封闭盒子。",
+      "significance": "IBM 5150把电脑能力组织为可组合的主机、选件、软件与公开技术资料。用户按任务选择显示、存储或打印设备，接口说明让其他开发者知道怎样与系统配合。与开机进入BASIC、利用家用显示设备的C64相比，它要求先决定配置与运行环境，却也给后续扩充留下明确位置。代表性因此落在部件协作上：处理器不能独自完成办公任务，软件、外设和文档共同决定用户能做什么。原技术资料支持这种可扩展结构；厂商历史记录补充其商业背景。这个案例能解释PC为何是一套持续组合的系统，而不只是一台性能固定的盒子。",
+      "dateLabel": "1981 年（8 月发布）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "主机箱、独立键盘和显示设备组成可扩展系统，部件分工不同于一体机。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1981 年（8 月发布）",
+          "sourceIds": [
+            "C:S14"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "个人计算",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S14",
+        "C:TXE12",
+        "C:TXE06",
+        "C:S15",
+        "C:TXE11",
+        "C:S11"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S14",
+          "C:TXE12"
+        ],
+        "design": [
+          "C:S14",
+          "C:TXE12"
+        ],
+        "usage": [
+          "C:TXE12"
+        ],
+        "significance": [
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ],
+        "limitations": [
+          "C:S14",
+          "C:TXE12"
+        ],
+        "readerTakeaway": [
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ]
+      },
+      "heroMediaId": "M21",
+      "videoIds": [],
+      "relatedSlugs": [
+        "hp-35",
+        "commodore-64"
+      ],
+      "reviewedOn": "2026-10-04",
+      "mediaStatus": "photo-source-verified",
+      "chronicleIds": [
+        "computers"
+      ],
+      "usage": "用户按所购配置连接键盘、显示和其他设备，完成启动检查。装有磁盘驱动器并购买 DOS 的系统，可以从对应磁盘启动，按提示输入命令、装载程序或管理文件；连接打印设备后，还能取得纸面输出。原厂手册也提供 BASIC 入口。实际可做的任务由配置、软件与外设共同决定，使用者在提示符下选择命令，再通过显示或打印核对结果。\n\n配置选择会落实为不同的开机路径：使用磁盘系统，需要相应驱动器、介质和软件；采用ROM中的BASIC入口，则面对另一种程序准备方式。显示、打印和存储选件也必须与具体任务相配，增加一块部件不会自动把应用需求全部补齐。公开接口与电路资料的作用，在于让连接者能够查到约定，再按约定开发或配置。对于用户，一份文档从准备、运行到输出的完整过程，既经过主机，也经过程序和外设。把这些环节分别指认出来，比只观察主机外壳更能理解这套电脑如何继续扩充。",
+      "limitations": "基础配置并不包含全部显示、磁盘与打印设备，完成具体任务还需要相应选件和软件。扩展能力给用户更多选择，也带来设置、连接和装载的工作。系统的可用范围随配置变化，同一个 5150 型号可以组成不同环境；用户要根据手头设备与程序决定操作路径，开放结构也需要配套知识。",
+      "readerTakeaway": "IBM 5150把电脑能力组织为可组合的主机、选件、软件与公开技术资料。用户按任务选择显示、存储或打印设备，接口说明让其他开发者知道怎样与系统配合。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "commodore-64",
+        "original40": true,
+        "sourceBase": "base-40-preserved.json"
+      }
+    },
+    {
+      "id": "13",
+      "slug": "commodore-64",
+      "year": 1982,
+      "name": "Commodore 64",
+      "brand": "Commodore",
+      "category": "computing",
+      "categoryLabel": "个人计算",
+      "aliases": [
+        "Commodore 64",
+        "Commodore"
+      ],
+      "tags": [
+        "个人计算",
+        "Commodore"
+      ],
+      "summary": "键盘与电脑装进同一机身，接上显示设备即进入 BASIC；家庭用户既能装载软件，也能输入程序并立即尝试，创作入口就在开机之后。",
+      "context": "Commodore 64 于 1982 年出现，六十四 KB 内存与图形能力是它的重要特征。原厂用户指南给出明确入口：连接电视或显示器后，开机先看到 BASIC 提示，用户可以直接输入命令。家庭使用因此包含运行现成软件与自己的程序探索。键盘机身利用外部显示完成反馈，开机环境又鼓励反复尝试，这些条件共同解释了它为何适合用于家用电脑的展览。",
+      "design": "键盘与主要计算电路装在同一机身，显示设备与存储设备则另接。原厂指南介绍颜色、图形与精灵的操作，但许多图形控制通过向指定内存位置写入数值完成，不是点选画笔按钮。启动画面写着六十四 KB 的系统内存，同时显示 BASIC 可用空间为三万八千九百一十一字节，这两个数字不能混为一谈。这样的设计让用户很快得到编程入口，却仍需要逐步理解命令、程序与硬件地址之间的关系。",
+      "significance": "C64把编程入口放在家庭用户开机后首先面对的位置。键盘、计算电路与BASIC环境构成一个直接尝试的循环：输入程序、运行、观察，再改下一次。与IBM 5150按任务选配主机与运行环境的方式相比，C64用键盘机身和家用显示设备提供另一条进入电脑世界的路线。64KB是硬件条件，BASIC可用空间和装载方式才进一步决定用户如何工作。原手册中的程序、图形和存储动作支持这一解释；它能够显示家庭电脑让用户参与制作的入口，却不意味着每个购买者都编程，也不以单项容量代替实际学习条件。",
+      "dateLabel": "1982 年（推出）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "主体与键盘合一，显示和存储外接，使电脑以紧凑的输入设备形态占据桌面。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1982 年（推出）",
+          "sourceIds": [
+            "C:S15"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "个人计算",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S15",
+        "C:TXE11",
+        "C:S11",
+        "C:S14",
+        "C:TXE12",
+        "C:TXE06"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S15",
+          "C:TXE11"
+        ],
+        "design": [
+          "C:TXE11"
+        ],
+        "usage": [
+          "C:TXE11"
+        ],
+        "significance": [
+          "C:S15",
+          "C:TXE11",
+          "C:S11",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06"
+        ],
+        "limitations": [
+          "C:TXE11"
+        ],
+        "readerTakeaway": [
+          "C:S15",
+          "C:TXE11",
+          "C:S11",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06"
+        ]
+      },
+      "heroMediaId": null,
+      "videoIds": [],
+      "relatedSlugs": [
+        "hp-35",
+        "ibm-pc-5150"
+      ],
+      "reviewedOn": "2026-10-04",
+      "mediaStatus": "photo-not-yet-registered",
+      "chronicleIds": [],
+      "usage": "用户开机后可以直接输入 BASIC 命令看到结果，也可以按行号写下多行程序，再输入 RUN 运行。使用磁带或磁盘软件时，先连接相应外部设备，再按指南执行 LOAD；磁带方式还要配合播放器上的实体播放键。装载完毕后再运行程序，自己写的内容也需要外部介质保存。输入、尝试、修改和再次运行构成一条很短的反馈路径，家庭电脑既是播放器，也是编写程序的工具。\n\n在BASIC提示下，用户可以输入立即执行的命令，也能用行号组织需要反复运行的程序。输入文本与保存程序是两件事：屏幕上出现代码之后，还要按所用存储设备的规则装载或记录。图形和声音实验同样要把看到、听到的结果与所修改的位置联系起来，修改一次再运行，才能判断变化来自哪里。说明书中的例子提供尝试入口，使用者则通过核对输入和结果逐渐理解规则。开机提供编程环境让这条学习链更短，却没有取消外部显示与存储准备，也没有把任何一段键入的代码自动变成可用的软件。",
+      "limitations": "六十四 KB 不能全部用作 BASIC 程序空间，图形中的内存地址和 POKE 操作也需要额外学习。保存和装载依赖外接磁带机、磁盘驱动器等设备。开机即可尝试程序，长期保留和交换内容却需要存储介质；家用电脑把创作入口放到面前，也把编程与外设操作一并交给使用者。",
+      "readerTakeaway": "C64把编程入口放在家庭用户开机后首先面对的位置。键盘、计算电路与BASIC环境构成一个直接尝试的循环：输入程序、运行、观察，再改下一次。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "ibm-pc-5150",
+        "original40": true,
+        "sourceBase": "base-40-preserved.json"
+      }
+    },
+    {
+      "id": "16",
+      "slug": "macintosh-128k",
+      "year": 1984,
+      "name": "Macintosh 128K",
+      "brand": "Apple",
+      "category": "computing",
+      "categoryLabel": "个人计算",
+      "aliases": [
+        "Macintosh 128K",
+        "Apple",
+        "苹果"
+      ],
+      "tags": [
+        "个人计算",
+        "Apple"
+      ],
+      "summary": "把黑白屏幕、软盘驱动器、键盘和单键鼠标组织成一套图形桌面，让开文件、写文字和画图都获得看得见的操作对象。",
+      "context": "1984年推出的初代Macintosh，将图形界面与鼠标放进一台紧凑的个人电脑。128K指原机内存，也标明这件展品在Macintosh家族中的位置。它面对的任务很具体：写一份文稿、画一张图、给文件起名并存到磁盘。主机、键盘和鼠标共同支持这些工作；当时使用鼠标仍需要从头学习，原版手册带着用户练习指向、点击、拖动，并把这些动作与管理文档联系起来。",
+      "design": "主机把显示器、处理器和软盘驱动器收在一个竖直机身中，键盘负责文字，单键鼠标负责选择与移动，三者分工清晰。屏幕里的图标代表磁盘、程序和文档，窗口给这些内容划出边界，菜单把可执行的动作集中列出。用户既能双击图标，也能先选中再调用菜单；同一件事有可见的替代路径。机身内的统一配置支持这种连贯体验，同时把扩展空间与存储安排收得很紧。",
+      "significance": "Macintosh 128K把打开文件、整理位置、编辑文字和画图变成屏幕上可见的对象与动作。单键鼠标、菜单和应用之间的共同规则，让学过的操作能够在另一项任务中继续使用。与IBM 5150资料中需要配置运行环境、使用文字命令的路径相比，这台机器把更多选择放到图形桌面上。原用户指南支持这种软硬件共同组织的流程，不能据此把它说成图形界面的首次发明。128KB内存和软盘交换也把简单界面的成本保留下来：用户仍要管理保存位置、空间和换盘。它的重要性来自操作语言的整合，而不是将复杂工作完全消除。",
+      "dateLabel": "1984 年（初代推出）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "显示器和主机合一，键盘与鼠标独立；紧凑机身把图形交互、文字输入和指针控制组织在同一张桌面上。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1984 年（初代推出）",
+          "sourceIds": [
+            "C:S18"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "个人计算",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S18",
+        "C:TXM15A",
+        "C:TXM15B",
+        "C:S14",
+        "C:TXE12",
+        "C:TXE06",
+        "C:S15",
+        "C:TXE11",
+        "C:S11"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S18",
+          "C:TXM15A",
+          "C:TXM15B"
+        ],
+        "design": [
+          "C:TXM15A",
+          "C:TXM15B"
+        ],
+        "summary": [
+          "C:S18",
+          "C:TXM15B"
+        ],
+        "usage": [
+          "C:TXM15B"
+        ],
+        "significance": [
+          "C:S18",
+          "C:TXM15B",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ],
+        "limitations": [
+          "C:TXM15A",
+          "C:TXM15B"
+        ],
+        "readerTakeaway": [
+          "C:S18",
+          "C:TXM15B",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ]
+      },
+      "heroMediaId": "M04",
+      "videoIds": [],
+      "relatedSlugs": [
+        "hp-35",
+        "commodore-64"
+      ],
+      "reviewedOn": "2026-10-04",
+      "mediaStatus": "photo-source-verified",
+      "editorialNotes": {
+        "design": "显示器和主机合一，键盘与鼠标独立；128K 用于区分后续机型，不能以 Macintosh Plus 代图。",
+        "significance": "它的意义在于组织了连贯的整机体验，不应被简化成“发明了鼠标”或“首创图形界面”。"
+      },
+      "chronicleIds": [
+        "computers"
+      ],
+      "usage": "开机后插入启动和应用所需的软盘，桌面出现磁盘图标。用户移动鼠标指针，双击图标打开窗口或程序；在MacWrite里用键盘写字，在MacPaint里拖动鼠标画线。整理时可以拖动文档图标放入文件夹，编辑时从菜单选择复制与粘贴。工作完成要主动选择Save，把内存中的修改存到磁盘，再退出程序并推出磁盘。屏幕上的文件图像对应着磁盘里的真实记录，保存是完成工作的必要动作。\n\n选择图标、打开窗口和拖动对象，分别组织文件在哪里、当前看什么以及准备怎样处理。编辑时可以借菜单选择动作，而保存时还要确认目标磁盘与可用空间。窗口里的修改属于当前工作内容，软盘上的文稿才承担下一次再次打开的保存任务。原机的换盘需求让这种区别变成手上的实际动作：桌面对象再直观，也不能替用户准备正确介质。文字与绘图共享部分操作规则，有利于重复使用已学动作；与此同时，文件、程序和存储空间的区别仍需要学习，图形界面把这些关系可视化，而不是让它们消失。",
+      "limitations": "128KB内存没有内置扩展槽，机内也没有硬盘，400KB软盘同时承担程序和文件存储。单驱动器工作时，跨盘复制或切换软件可能需要反复换盘；原手册专门建议安排应用与文档的位置以减少换盘。正在内存里编辑的内容必须主动保存，断电不会替用户保留最新修改。图形操作降低了部分记忆负担，资源管理仍是使用者的工作。",
+      "readerTakeaway": "Macintosh 128K把打开文件、整理位置、编辑文字和画图变成屏幕上可见的对象与动作。单键鼠标、菜单和应用之间的共同规则，让学过的操作能够在另一项任务中继续使用。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "ibm-pc-5150",
+        "original40": true,
+        "sourceBase": "base-40-preserved.json"
+      }
+    },
+    {
+      "id": "21",
+      "slug": "imac-g3",
+      "year": 1998,
+      "name": "iMac G3",
+      "brand": "Apple",
+      "category": "computing",
+      "categoryLabel": "个人计算",
+      "aliases": [
+        "iMac G3",
+        "Apple",
+        "苹果"
+      ],
+      "tags": [
+        "个人计算",
+        "Apple"
+      ],
+      "summary": "半透明的邦迪蓝外壳把主机、屏幕与联网部件装进一体机，让初次把电脑搬回家的人先认识一个清晰可辨的桌面物件。",
+      "context": "1998 年推出的 iMac G3，是 Apple 面向家庭使用的一体式桌面电脑；本展品锁定最初的 Bondi Blue 版本。它在一套机身里装入显示器、扬声器和调制解调器，同时提供以太网连接。同期产品资料把上网与简化安装放在显著位置，并随机器提供浏览器、电子邮件和办公软件。乔布斯回到 Apple 后，这台电脑为消费机型带来新的外观和接口组合。",
+      "design": "邦迪蓝半透明外壳让电脑的厚度与内部轮廓成为可见的形态，显示器和主机共用一个外壳，桌面上仍保留独立键盘与鼠标。十五英寸标称的显像管屏幕占据正面，扬声器和光驱随主机一起布置，机身提手便于搬动整台机器。键盘与鼠标改用 USB，机身另有网络与电话线接口。这套整合方式把许多原本需要分别摆放、接线的部件收拢起来；半透明外壳负责识别，固定的部件关系负责减少用户面对的连接选择。",
+      "significance": "iMac G3把显示、主机、声音和联网部件预先放进一个桌面成品，让首次布置家用电脑时要理解的盒子和连接减少。与Macintosh 128K的一体布局相比，延续的是集中摆放，新增的使用环境则围绕网络入口与USB外设展开。半透明外壳使这个组合有清晰可辨的家庭物件形象，但浏览网页仍需要账户和网络条件。发布资料与原操作指南支持预整合部件和接口迁移的事实；旧ADB、SCSI与软盘设备的衔接问题说明简化不是免费发生。它值得阅读的地方，是外观、连线准备和外设选择由同一个设计方案共同改变。",
+      "dateLabel": "1998 年（初版推出）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "Bondi Blue 半透明外壳将主机与显示器整合成轮廓鲜明的物件，外露的材质和颜色成为产品识别的一部分。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1998 年（初版推出）",
+          "sourceIds": [
+            "C:S26"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "个人计算",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S26",
+        "C:TXM20A",
+        "C:TXM20C",
+        "C:TXM20B",
+        "C:S18",
+        "C:TXM15A",
+        "C:TXM15B",
+        "C:S14",
+        "C:TXE12",
+        "C:TXE06",
+        "C:S15",
+        "C:TXE11",
+        "C:S11"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S26",
+          "C:TXM20A"
+        ],
+        "design": [
+          "C:TXM20A",
+          "C:TXM20B",
+          "C:TXM20C"
+        ],
+        "summary": [
+          "C:S26",
+          "C:TXM20A",
+          "C:TXM20C"
+        ],
+        "usage": [
+          "C:TXM20A",
+          "C:TXM20B"
+        ],
+        "significance": [
+          "C:S26",
+          "C:TXM20A",
+          "C:TXM20B",
+          "C:S18",
+          "C:TXM15A",
+          "C:TXM15B",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ],
+        "limitations": [
+          "C:TXM20A",
+          "C:TXM20B"
+        ],
+        "readerTakeaway": [
+          "C:S26",
+          "C:TXM20A",
+          "C:TXM20B",
+          "C:S18",
+          "C:TXM15A",
+          "C:TXM15B",
+          "C:S14",
+          "C:TXE12",
+          "C:TXE06",
+          "C:S15",
+          "C:TXE11",
+          "C:S11"
+        ]
+      },
+      "heroMediaId": "M22",
+      "videoIds": [],
+      "relatedSlugs": [
+        "hp-35",
+        "macbook-2006"
+      ],
+      "reviewedOn": "2026-10-04",
+      "mediaStatus": "photo-source-verified",
+      "editorialNotes": {
+        "design": "半透明蓝色外壳将主机与显示器整合成可辨认的物件，后续多色机型不另行计数。"
+      },
+      "chronicleIds": [
+        "computers"
+      ],
+      "usage": "使用时把 USB 键盘和鼠标接入机器，接上电源，再按联网条件连接电话线或以太网。拨号上网需要互联网服务账户，不能仅靠内置调制解调器完成。进入随附的 Mac OS 系统后，用户通过键盘输入、鼠标点击来打开浏览器、邮件或办公软件，也可由光驱读取软件光盘。电脑因此同时承担文档处理与联网入口；一体机减少了显示器的单独连接，但日常操作仍建立在桌面、窗口与键鼠之上。\n\n把机器放到桌上以后，用户仍需连接输入设备与电源，再按上网服务的条件准备账号和网络连接。预装联网部件解决的是机器端的准备，不能单独提供可用的外部服务。USB外设则要按兼容条件连接，旧设备原有的接头不会因为新机一体化而自然适配。由此可以把开箱动作分成整机已经完成的连接、用户要完成的外部连接以及服务端的准备。透明外壳让电脑具有容易辨认的形象，实际工作仍沿这些连接发生；省去内部盒子之间的布置，与取消所有安装和迁移工作，具有不同含义。",
+      "limitations": "初版不带软驱，也没有 ADB 与 SCSI 接口，已有的软盘和相应旧外设不能直接沿用，需要另找传输或连接方式。显示器与主机固定在一起，摆放和搬动的是整台机器，而非分开的屏幕与机箱。内置拨号设备也没有免去服务账户和线路条件。这些取舍说明，安装步骤的减少来自整合与接口选择，并不等于所有旧资源都获得无缝兼容。",
+      "readerTakeaway": "iMac G3把显示、主机、声音和联网部件预先放进一个桌面成品，让首次布置家用电脑时要理解的盒子和连接减少。与Macintosh 128K的一体布局相比，延续的是集中摆放，新增的使用环境则围绕网络入口与USB外设展开。",
+      "editorialRevision": {
+        "scope": "museum explanation only",
+        "identityPreserved": true,
+        "productionMutation": false,
+        "comparisonSlug": "macintosh-128k",
+        "original40": true,
+        "sourceBase": "base-40-preserved.json"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "C:CH02",
+      "title": "The Hamilton PSR",
+      "publisher": "Swatch Group / Hamilton",
+      "url": "https://www.swatchgroup.com/en/services/archive/2020/hamilton-psr",
+      "supports": "1970 年原型公开、1972 年 P1 上市、金质表壳表链与红色数字读时；原型、P2 和 2020 PSR 的功能分别处理。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:S07",
+      "title": "HP-35 handheld scientific calculator — HP Virtual Museum",
+      "publisher": "HP Virtual Museum",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/personalsystems/0023/index.html",
+      "supports": "1972 年 HP-35、35 键名称、衣袋科学计算的开发目标及科学函数。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:S09",
+      "title": "Altair 8800 — CHM Revolution",
+      "publisher": "CHM Revolution",
+      "url": "https://www.computerhistory.org/revolution/personal-computers/17/312/1140",
+      "supports": "1975 年 Altair 8800、MITS 套件/组装形式、Popular Electronics 和 BASIC 的历史联系；馆藏内存配置不作所有型号标准配置。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:S10",
+      "title": "1976 Timeline: Apple-1 — CHM",
+      "publisher": "CHM",
+      "url": "https://www.computerhistory.org/timeline/1976/",
+      "supports": "1976 年 Apple-1 的已组装单板形式、Wozniak/Jobs 分工及随后 Apple II 的完整产品形态。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:S11",
+      "title": "1977 Timeline: Atari VCS — CHM",
+      "publisher": "CHM",
+      "url": "https://www.computerhistory.org/timeline/1977/",
+      "supports": "1977 年 Atari VCS、后来 Atari 2600 名称与工厂写入 ROM 的可换游戏卡带。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:S14",
+      "title": "The IBM PC — IBM History",
+      "publisher": "IBM History",
+      "url": "https://www.ibm.com/history/personal-computer",
+      "supports": "1981-08-12 IBM 5150、8088 与现成部件、公开技术资料及第三方生态、基础配置与选件区别。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:S15",
+      "title": "1982 Timeline: Commodore 64 — CHM",
+      "publisher": "CHM",
+      "url": "https://www.computerhistory.org/timeline/1982/",
+      "supports": "1982 年 Commodore 64、64 KB 内存与图形能力；不使用争议性累计销量作为选品依据。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:S18",
+      "title": "Apple Macintosh personal computer, 1984 — SMG",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co459306/apple-macintosh-personal-computer-1984",
+      "supports": "1984年Macintosh及键盘、鼠标、软盘附件的对象记录；图标和视觉指示的图形交互背景。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取对象与附件正文；该馆对象为预生产评估机，不把其流转史当成零售机经历，也未采用GUI第一的概括。"
+    },
+    {
+      "id": "C:S26",
+      "title": "Timeline of Computer History — 1998: iMac",
+      "publisher": "Computer History Museum",
+      "url": "https://www.computerhistory.org/timeline/1998/",
+      "supports": "1998年初版Bondi Blue iMac、G3处理器、CD-ROM与15英寸显示器，以及乔布斯回归后Apple产品路线的历史位置。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取1998时间线的iMac正文；仅采用产品形态、年份和硬件事实，没有采用营销排名或公司经营评价。"
+    },
+    {
+      "id": "C:TD03",
+      "title": "HP-35 Main Board solder side.jpg",
+      "publisher": "Mister rf / Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:HP-35_Main_Board_solder_side.jpg",
+      "supports": "HP-35 焊接面实物照片；可见形态观察，不支持推测元件型号。",
+      "checkedOn": "2026-10-03",
+      "verification": "原拆解正文或图像文件页已核查"
+    },
+    {
+      "id": "C:TXE03",
+      "title": "Milestones: Development of the HP-35, the First Handheld Scientific Calculator, 1972",
+      "publisher": "IEEE Engineering and Technology History Wiki",
+      "url": "https://ethw.org/Milestones:Development_of_the_HP-35,_the_First_Handheld_Scientific_Calculator,_1972",
+      "supports": "科学函数、RPN 与堆栈、显示和科学记数法、按键功能分组与尺寸/颜色区分。",
+      "checkedOn": "2026-10-04",
+      "verification": "网页正文已读；IEEE 里程碑的历史技术说明，不作当前古董实测。"
+    },
+    {
+      "id": "C:TXE05",
+      "title": "MITS Altair 8800 Operator’s Manual — Part 3: Operation",
+      "publisher": "MITS（第三方手册转录）",
+      "url": "https://ubuntourist.codeberg.page/Altair-8800/part-3.html",
+      "supports": "EXAMINE/DEPOSIT/RUN/STOP、二进制拨杆、读写地址与断电丢失内存内容的原手册操作说明。",
+      "checkedOn": "2026-10-04",
+      "verification": "网页手册转录正文已读；未校验原始整册影印件，不采用基础容量作为所有机器配置。"
+    },
+    {
+      "id": "C:TXE06",
+      "title": "Apple-1 Operation Manual（1976）",
+      "publisher": "Apple Computer Company（Computer History Museum 藏）",
+      "url": "https://d1yx3ys82bpsa0.cloudfront.net/brochures/apple.applei.1976.102646518.pdf",
+      "supports": "已组装主板、6502、键盘/视频与电源外接条件、40×24 文字显示、驻留监控程序及输入/检查/运行练习。",
+      "checkedOn": "2026-10-04",
+      "verification": "CHM 目录与原始说明书 PDF 提取正文已读；没有完成全部页面的视觉校验。目录：https://www.computerhistory.org/brochures/doc-43729572afbd3/"
+    },
+    {
+      "id": "C:TXE11",
+      "title": "Commodore 64 User’s Guide（1982）— Project 64 转录",
+      "publisher": "Commodore Business Machines（Zimmers / Project 64 存档）",
+      "url": "https://www.zimmers.net/anonftp/pub/cbm/c64/manuals/c64-manual.txt",
+      "supports": "电视/显示与外部存储连接、BASIC 启动画面及 38911 可用字节、LOAD/RUN、磁带物理播放步骤、POKE 控制颜色/图形。",
+      "checkedOn": "2026-10-04",
+      "verification": "原厂用户指南的文字转录已读；存档目录明确这是原手册 e-text，未声称扫描图像逐页校验。"
+    },
+    {
+      "id": "C:TXE12",
+      "title": "IBM Personal Computer Guide to Operations — First Edition, August 1981",
+      "publisher": "IBM（Minus Zero Degrees 存档）",
+      "url": "https://www.minuszerodegrees.net/manuals/IBM/IBM_5150_Guide_to_Operations_6025000_AUG81.pdf",
+      "supports": "5150 的扩展槽、83 键布局、显示/存储/打印选件、设置、DOS/BASIC 操作与配置条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "原厂 1981 年操作指南 PDF 提取正文及同文 OCR 转录已读；未完成整册图像逐页校验，不借用 XT 资料。"
+    },
+    {
+      "id": "C:TXM15A",
+      "title": "Macintosh 128K: Technical Specifications",
+      "publisher": "Apple",
+      "url": "https://support.apple.com/en-ca/112190",
+      "supports": "1984年1月24日推出，128KB内存无内置扩展槽，400KB软盘与无内置硬盘等原机资源边界。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取官方规格正文。页面显示模式表有泛化字段，采用独立明确的内存、软盘、机内硬盘与日期记录，不据异常模式表推断显示能力。"
+    },
+    {
+      "id": "C:TXM15B",
+      "title": "Macintosh (1984) Owner's Manual — online scan transcript",
+      "publisher": "Apple Computer (original manual; Scribd mirror)",
+      "url": "https://www.scribd.com/document/808426629/Macintosh-Manual-1984",
+      "supports": "1984原说明书中主机/键盘/鼠标分工，点击/双击/拖动、Finder文件夹、MacWrite/MacPaint、主动保存以及单软驱换盘安排。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页所呈现的原说明书正文转录，包括1984版权页、第1/2/3章；OCR有杂字符，只采用语义清楚的操作段落。未绕过下载或登录限制。"
+    },
+    {
+      "id": "C:TXM20A",
+      "title": "Apple iMac 产品资料（July 1998，L03115A）",
+      "publisher": "Apple Computer（Washington Apple Pi 保存）",
+      "url": "https://www.wap.org/events/imacspecs.pdf",
+      "supports": "1998年初版M6709LL/A的显示器、扬声器、调制解调器、USB键鼠、机身提手、以太网、电话线连接、随附软件，以及互联网服务账户条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取两页原始Apple产品PDF正文，版权1998、July 1998、L03115A；网站是原件保存方。未照抄宣传词或长规格表。"
+    },
+    {
+      "id": "C:TXM20B",
+      "title": "iMac (Original) — Technical Specifications",
+      "publisher": "Apple Support",
+      "url": "https://support.apple.com/en-ph/112281",
+      "supports": "初版iMac的上市时间、USB键鼠与网络接口，以及不配软驱、ADB和SCSI的连接取舍。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取Apple技术规格正文；核对为Original型号。不同资料中的重量与内存细节未用于正文。"
+    },
+    {
+      "id": "C:TXM20C",
+      "title": "Tiny Computer Gallery: iMac G3 (1998)",
+      "publisher": "University of Waterloo Computer Museum",
+      "url": "https://uwaterloo.ca/computer-museum/exhibits/tiny-computer-gallery",
+      "supports": "1998年Bondi Blue半透明外壳和15英寸CRT形态。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取画廊中iMac段落正文。该页展示缩小模型，不能用作项目实物藏品来源；未采用其中审美标签或第一性判断。"
+    },
+    {
+      "id": "CM150-S007",
+      "title": "HP-65 programmable pocket calculator, 1974",
+      "publisher": "HP",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/personalsystems/0024/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "HP-65身份、1974年、磁卡编程。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S007",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "HP-65身份、1974年、磁卡编程。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "厂商自身材料；与同厂其他页面不独立",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ],
+      "supports": "HP-65身份、1974年、磁卡编程。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CM150-S008",
+      "title": "HP-65 Programmable Calculator",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/31306/HP-65-Programmable-Calculator/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object-record",
+      "verifiedScope": "1974推出，内置磁卡读写器。",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "独立于HP；博物馆自己馆藏条目",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S008",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1974推出，内置磁卡读写器。",
+          "verificationMethod": "原机构检索摘录",
+          "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+          "independence": "独立于HP；博物馆自己馆藏条目",
+          "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ],
+      "supports": "1974推出，内置磁卡读写器。",
+      "verification": "原机构检索摘录；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CWC-S001",
+      "title": "HP-65原厂实物历史",
+      "publisher": "HP",
+      "url": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/personalsystems/0024/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-primary",
+      "verifiedScope": "1974；磁卡读写、自编及品牌程序卡、显示下方参考卡槽、编程/运行滑动开关。",
+      "verificationMethod": "原厂历史正文28行；不采用世界第一和历史价格",
+      "independence": "品牌原始或回顾材料；非独立口碑",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "1974；磁卡读写、自编及品牌程序卡、显示下方参考卡槽、编程/运行滑动开关。",
+      "verification": "原厂历史正文28行；不采用世界第一和历史价格；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "verificationRecords": [
+        {
+          "verifiedScope": "1974；磁卡读写、自编及品牌程序卡、显示下方参考卡槽、编程/运行滑动开关。",
+          "verificationMethod": "原厂历史正文28行；不采用世界第一和历史价格",
+          "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+          "independence": "品牌原始或回顾材料；非独立口碑",
+          "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+          "packet": "complete-wave-compute-01.json"
+        }
+      ]
+    }
+  ]
+}

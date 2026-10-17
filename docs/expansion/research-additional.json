@@ -1,0 +1,493 @@
+{
+  "checkedOn": "2026-10-11",
+  "scope": "主线程补充：办公/声音工具、印度接入、无障碍、家务与影像；没有首批ready，不修改网站。",
+  "candidates": [
+    {
+      "id": "ROOT01",
+      "slug": "creative-sound-blaster-1",
+      "model": "Sound Blaster 1.0",
+      "brand": "Creative",
+      "regionVersion": "初代声卡；CT1320主板修订和销售地区待原手册/实物核对",
+      "year": 1989,
+      "dateLabel": "1989年11月（厂商历史发布记录）",
+      "dateKind": "announcement",
+      "category": "audio",
+      "status": "待核查",
+      "rationale": "在现有便携播放器与耳机之外，解释PC声音从单纯输出走向合成、采集和外设连接，补入工具而非又一件播放器。",
+      "rationaleKind": "策展判断",
+      "problemAndTradeoffs": "FM合成与数字音频是不同环节，声卡依赖电脑、软件和驱动；初代1.0与后续Pro/16不能合并规格。",
+      "gapFilled": [
+        "G05",
+        "G09"
+      ],
+      "sources": [
+        {
+          "id": "ER01",
+          "title": "Creative milestones 1986–1990",
+          "publisher": "Creative",
+          "url": "https://www.creative.com/corporate/milestones/?year=1986+-+1990",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "1989年11月推出Sound Blaster；11声部FM、数字语音输入输出及MIDI/游戏杆接口，限原机构历史索引。",
+          "sourceType": "manufacturer-history",
+          "independence": "Creative",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "原机构搜索索引；正文读取失败",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。"
+        },
+        {
+          "id": "ER02",
+          "title": "Sound Blaster Our Story",
+          "publisher": "Creative",
+          "url": "https://us.creative.com/soundblaster/ourstory/",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "公司将初代Sound Blaster记为1989；不采用所有PC此前只会蜂鸣或销量冠军主张。",
+          "sourceType": "manufacturer-history",
+          "independence": "Creative",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "原机构搜索索引",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：所列范围内已核，关键未决项见下",
+      "openQuestions": [
+        "取得原初代说明书和主板修订照片；不把CT1320A当已核定身份。",
+        "补博物馆或独立软件/使用史，核对DOS兼容与实际任务。"
+      ],
+      "media": {
+        "imageStatus": "未导入",
+        "videoStatus": "未登记",
+        "modelMatch": "正式使用前逐件核对原型/修订/地区；当前没有图片资产",
+        "rights": "未取得复制许可；仅登记文字来源",
+        "fallback": "heroMediaId:null，videoIds:[]；显示实物照片待补及真实文字，不用同家族错图或生成仿真图"
+      },
+      "chroniclePlacement": {
+        "kind": "内容位置建议，未改编年史数据或布局",
+        "summary": "在现有便携播放器与耳机之外，解释PC声音从单纯输出走向合成、采集和外设连接，补入工具而非又一件播放器。"
+      }
+    },
+    {
+      "id": "ROOT02",
+      "slug": "asus-eee-pc-701",
+      "model": "Eee PC 701",
+      "brand": "ASUS",
+      "regionVersion": "2007初代；4G/Linux与地区型号仍待核，非后来的900/1000系列",
+      "year": 2007,
+      "dateLabel": "2007年（官方型号历史表）；10月台湾推出只核到系列层面",
+      "dateKind": "launch",
+      "category": "computing",
+      "status": "待核查",
+      "rationale": "补入消费笔记本之外的低门槛小电脑路线，用屏幕、键盘、系统与携带成本讨论另一种便携取舍。",
+      "rationaleKind": "策展判断",
+      "problemAndTradeoffs": "小体积与低成本不能直接等于适合所有任务；正式稿需原手册确认显示、存储和软件，不采用厂商世界首款netbook的无范围断言。",
+      "gapFilled": [
+        "G02",
+        "G09"
+      ],
+      "sources": [
+        {
+          "id": "ER03",
+          "title": "ASUS commercial product guide 2025, Vietnam",
+          "publisher": "ASUS",
+          "url": "https://www.asus.com/event/brochure/vn/commercial_product_guide_2025_vn.pdf",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "产品史表将Eee PC 701记为2007；不能单凭该表确定Linux 4G地区版本或全球首发日期。",
+          "sourceType": "manufacturer-history",
+          "independence": "ASUS",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "官方PDF的搜索索引；PDF正文读取失败",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。"
+        },
+        {
+          "id": "ER04",
+          "title": "ASUS Annual Report 2016 historical table",
+          "publisher": "ASUS",
+          "url": "https://www.asus.com/EVENT/Investor/Content/attachment_en/20170614180848496941490_en.pdf",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "历史表将Eee PC系列在台湾推出记为2007年10月；型号细节仍待核。",
+          "sourceType": "manufacturer-report",
+          "independence": "ASUS",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "官方PDF搜索索引",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：所列范围内已核，关键未决项见下",
+      "openQuestions": [
+        "取得明确701 4G/Linux地区原手册；核实实际首售而非系列日期。",
+        "补独立同时代使用史，不由台湾品牌推断全球学生采用。"
+      ],
+      "media": {
+        "imageStatus": "未导入",
+        "videoStatus": "未登记",
+        "modelMatch": "正式使用前逐件核对原型/修订/地区；当前没有图片资产",
+        "rights": "未取得复制许可；仅登记文字来源",
+        "fallback": "heroMediaId:null，videoIds:[]；显示实物照片待补及真实文字，不用同家族错图或生成仿真图"
+      },
+      "chroniclePlacement": {
+        "kind": "内容位置建议，未改编年史数据或布局",
+        "summary": "补入消费笔记本之外的低门槛小电脑路线，用屏幕、键盘、系统与携带成本讨论另一种便携取舍。"
+      }
+    },
+    {
+      "id": "ROOT03",
+      "slug": "jio-phone-2017",
+      "model": "JioPhone 第一代",
+      "brand": "Jio / Reliance Retail",
+      "regionVersion": "印度2017运营商功能机；多硬件制造版本/型号未统一",
+      "year": 2017,
+      "dateLabel": "2017-07-21（公布；beta、预订和计划交付分别记载）",
+      "dateKind": "announcement",
+      "category": "mobile",
+      "status": "待核查",
+      "rationale": "把按键手机与网络、资费、押金和内容服务作为一个使用条件来研究，补入印度市场和智能手机之外的接入路线。",
+      "rationaleKind": "策展判断",
+      "problemAndTradeoffs": "公告中的零元是有效成本宣传，仍有1500卢比押金与当时退还条件；网络、套餐和设备相互依赖，目标受众不证明实际脱离数字排斥。",
+      "gapFilled": [
+        "G01",
+        "G09"
+      ],
+      "sources": [
+        {
+          "id": "ER05",
+          "title": "Chairman’s statement / AGM Speech 2017",
+          "publisher": "Reliance Industries",
+          "url": "https://www.ril.com/sites/default/files/2023-01/AGM%20SPEECH%20-%202017-final.pdf",
+          "publishedOn": "2017-07-21",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2017-07-21公布JioPhone；计划8月15日beta、8月24日预订、9月起交付；1500卢比可退押金和资费条件为当时公告。",
+          "sourceType": "manufacturer-announcement",
+          "independence": "Reliance Industries",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "原PDF正文，页1、5–7",
+          "limits": "宣传中的改变全民生活是目标，不当实际效果；不是所有硬件修订的手册。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：所列范围内已核，关键未决项见下",
+      "openQuestions": [
+        "确定首代具体硬件型号并补原说明书；不能混入2018 JioPhone2或2021 Next。",
+        "核查2017实际交付日及当年最终押金条款；公告计划与执行分开。",
+        "补独立当地使用研究，不把运营商用户数量当教育/收入效果。"
+      ],
+      "media": {
+        "imageStatus": "未导入",
+        "videoStatus": "未登记",
+        "modelMatch": "正式使用前逐件核对原型/修订/地区；当前没有图片资产",
+        "rights": "未取得复制许可；仅登记文字来源",
+        "fallback": "heroMediaId:null，videoIds:[]；显示实物照片待补及真实文字，不用同家族错图或生成仿真图"
+      },
+      "chroniclePlacement": {
+        "kind": "内容位置建议，未改编年史数据或布局",
+        "summary": "把按键手机与网络、资费、押金和内容服务作为一个使用条件来研究，补入印度市场和智能手机之外的接入路线。"
+      }
+    },
+    {
+      "id": "ROOT04",
+      "slug": "humanware-braillenote-touch-32",
+      "model": "BrailleNote Touch 32（原版）",
+      "brand": "HumanWare",
+      "regionVersion": "2016原Touch，32单元；非Touch Plus，具体语言版待核",
+      "year": 2016,
+      "dateLabel": "2016年（厂商经理回顾市场年份；精确发布日待核）",
+      "dateKind": "brand-history",
+      "category": "computing",
+      "status": "待核查",
+      "rationale": "让计算史包含盲文输入、触觉输出和共同课堂阅读，解释视觉屏幕以外的完整信息操作，而不是只在主流电脑旁补一个附件。",
+      "rationaleKind": "策展判断",
+      "problemAndTradeoffs": "硬件输入、KeySoft、第三方Android应用与教师可见的屏幕共同构成任务；历史FAQ也显示应用更新可能破坏无障碍体验，不能把当时承诺说成当前支持。",
+      "gapFilled": [
+        "G02",
+        "G07",
+        "G09"
+      ],
+      "sources": [
+        {
+          "id": "ER06",
+          "title": "BrailleNote Touch — Product manager interview",
+          "publisher": "HumanWare",
+          "url": "https://www.humanware.com/interview/",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "厂商经理回顾BrailleNote Touch进入市场的年份为2016；不以回顾稿证明全部真实使用效果。",
+          "sourceType": "manufacturer-history",
+          "independence": "HumanWare",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "原网页正文",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。"
+        },
+        {
+          "id": "ER07",
+          "title": "BrailleNote Touch — FAQ",
+          "publisher": "HumanWare",
+          "url": "https://www.humanware.com/microsite/bntouch/faq.php",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原Touch使用Android 4.4 Kitkat及KeySoft；历史FAQ包含第三方应用更新后无障碍问题，不移用到Touch Plus。",
+          "sourceType": "manufacturer-support",
+          "independence": "HumanWare",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "原网页正文",
+          "limits": "历史FAQ的当时支持承诺不代表2026服务/安全更新现状。"
+        },
+        {
+          "id": "ER08",
+          "title": "BrailleNote Touch — Smart Design",
+          "publisher": "HumanWare",
+          "url": "https://www.humanware.com/microsite/bntouch/design.php",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原Touch有18/32盲文单元版本，键盘盖可移除；这里候选为32单元，尚需独立使用与原手册。",
+          "sourceType": "manufacturer-product",
+          "independence": "HumanWare",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "原网页正文",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：所列范围内已核，关键未决项见下",
+      "openQuestions": [
+        "取得2016原手册/同时代发布并明确32单元语言版；不使用Plus说明书。",
+        "补使用者或原始无障碍教学研究；厂商示范不是学习效果。",
+        "如提奖项，须找到原数据库 exact model/年份；当前不记任何奖项。"
+      ],
+      "media": {
+        "imageStatus": "未导入",
+        "videoStatus": "未登记",
+        "modelMatch": "正式使用前逐件核对原型/修订/地区；当前没有图片资产",
+        "rights": "未取得复制许可；仅登记文字来源",
+        "fallback": "heroMediaId:null，videoIds:[]；显示实物照片待补及真实文字，不用同家族错图或生成仿真图"
+      },
+      "chroniclePlacement": {
+        "kind": "内容位置建议，未改编年史数据或布局",
+        "summary": "让计算史包含盲文输入、触觉输出和共同课堂阅读，解释视觉屏幕以外的完整信息操作，而不是只在主流电脑旁补一个附件。"
+      }
+    },
+    {
+      "id": "ROOT05",
+      "slug": "irobot-roomba-2002",
+      "model": "Roomba Intelligent FloorVac 第一代",
+      "brand": "iRobot",
+      "regionVersion": "2002初代；Smithsonian第一代藏品为结构锚点，不混500系列及后代建图",
+      "year": 2002,
+      "dateLabel": "2002年（第一代上市，原厂与Smithsonian记录）",
+      "dateKind": "launch",
+      "category": "home",
+      "status": "适合入选",
+      "rationale": "补足当前home只有教学玩具的缺口，把传感器、碰撞、方向变化和房间边界放进日常清洁，而非用智慧家居口号代替动作。",
+      "rationaleKind": "策展判断",
+      "problemAndTradeoffs": "第一代传感器反应与虚拟墙应按实物档案解释，不能套用后来地图、手机控制或自动集尘；实际效率和用户维护尚须原手册/研究。",
+      "gapFilled": [
+        "G04"
+      ],
+      "sources": [
+        {
+          "id": "ER09",
+          "title": "Roomba Robot Vacuum Cleaner, nmah_1448432",
+          "publisher": "Smithsonian National Museum of American History",
+          "url": "https://americanhistory.si.edu/collections/object/nmah_1448432",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "档案明确第一代Roomba、2002年上市，传感器/碰撞转向和虚拟墙的操作；藏品入藏编号2013.0158不作发布年。",
+          "sourceType": "museum-object",
+          "independence": "Smithsonian National Museum of American History",
+          "commercialDisclosure": "机构藏品档案；不据此假定所有图片开放",
+          "verificationMethod": "原网页正文",
+          "limits": "图片标Usage Conditions Apply；元数据开放不等于图片开放。"
+        },
+        {
+          "id": "ER10",
+          "title": "iRobot History",
+          "publisher": "iRobot",
+          "url": "https://about.irobot.com/history",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "公司历史表列2002推出Roomba；不把家族后来功能归给初代。",
+          "sourceType": "manufacturer-history",
+          "independence": "iRobot",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "原机构搜索索引；当前正文返回空白",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中高：身份与部分日期有直接来源；正文交付未完成",
+      "openQuestions": [
+        "补2002原使用手册，完成集尘、充电、虚拟墙和使用限制长文。",
+        "机构照片受限制，默认无图可实施；权利明确前不下载。",
+        "补独立家用观察若要写实际家务变化；不把品牌家族销量移给初代。"
+      ],
+      "media": {
+        "imageStatus": "未导入",
+        "videoStatus": "未登记",
+        "modelMatch": "正式使用前逐件核对原型/修订/地区；当前没有图片资产",
+        "rights": "未取得复制许可；仅登记文字来源",
+        "fallback": "heroMediaId:null，videoIds:[]；显示实物照片待补及真实文字，不用同家族错图或生成仿真图"
+      },
+      "chroniclePlacement": {
+        "kind": "内容位置建议，未改编年史数据或布局",
+        "summary": "补足当前home只有教学玩具的缺口，把传感器、碰撞、方向变化和房间边界放进日常清洁，而非用智慧家居口号代替动作。"
+      }
+    },
+    {
+      "id": "ROOT06",
+      "slug": "dji-phantom-2013",
+      "model": "Phantom 第一代",
+      "brand": "DJI",
+      "regionVersion": "2013初代含GoPro安装架；不是Vision或内置云台相机的后代",
+      "year": 2013,
+      "dateLabel": "2013-01-07（美国Austin发布公告，含经销商购买入口）",
+      "dateKind": "announcement",
+      "category": "imaging",
+      "status": "适合入选",
+      "rationale": "补入相机之外的影像平台：飞控、遥控器、安装架和LED方向提示共同改变摄影者与拍摄机位的关系。",
+      "rationaleKind": "策展判断",
+      "problemAndTradeoffs": "原版提供GoPro安装架，不把其写成后来一体相机；GPS与失联返航是公告功能，不能据此保证所有环境安全、准确或人人能用。",
+      "gapFilled": [
+        "G03",
+        "G09"
+      ],
+      "sources": [
+        {
+          "id": "ER11",
+          "title": "Phantom consumer quadcopter announcement",
+          "publisher": "DJI",
+          "url": "https://www.dji.com/media-center/announcements/dji-launches-industry-best-easiest-to-fly-quadcopter-for-consumer-use",
+          "publishedOn": "2013-01-07",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2013-01-07发布初代Phantom；GPS Naza-M、遥控器、GoPro安装架、两种姿态模式及失联返航说明；不写无条件安全或所有人容易飞。",
+          "sourceType": "manufacturer-announcement",
+          "independence": "DJI",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "原网页正文",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。"
+        },
+        {
+          "id": "ER12",
+          "title": "All-in-one ready-to-fly Phantom announcement",
+          "publisher": "DJI",
+          "url": "https://www.dji.com/mt/newsroom/news/dji-releases-all-in-one-solution-read-to-fly-phantom-quadcopter",
+          "publishedOn": "2013-01-07",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "同日厂商说明初代Phantom用于航拍；是同机构交叉页面，非独立媒体。",
+          "sourceType": "manufacturer-announcement",
+          "independence": "DJI",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "原机构搜索索引",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中高：身份与部分日期有直接来源；正文交付未完成",
+      "openQuestions": [
+        "补初代原手册确认摄像附件、校准、失联返航条件及飞行准备。",
+        "补独立早期使用材料；两条DJI公告同属厂家，不算独立核查。",
+        "明确图像为初代，不能取Phantom2 Vision/3/4照片。"
+      ],
+      "media": {
+        "imageStatus": "未导入",
+        "videoStatus": "未登记",
+        "modelMatch": "正式使用前逐件核对原型/修订/地区；当前没有图片资产",
+        "rights": "未取得复制许可；仅登记文字来源",
+        "fallback": "heroMediaId:null，videoIds:[]；显示实物照片待补及真实文字，不用同家族错图或生成仿真图"
+      },
+      "chroniclePlacement": {
+        "kind": "内容位置建议，未改编年史数据或布局",
+        "summary": "补入相机之外的影像平台：飞控、遥控器、安装架和LED方向提示共同改变摄影者与拍摄机位的关系。"
+      }
+    },
+    {
+      "id": "ROOT07",
+      "slug": "sony-betamax-sl-6300",
+      "model": "Betamax SL-6300",
+      "brand": "Sony",
+      "regionVersion": "1975日本独立录像机；不混美国电视组合机或带调谐器SL-7300",
+      "year": 1975,
+      "dateLabel": "1975年（SL-6300推出）；4月16日为Betamax系统介绍日期",
+      "dateKind": "launch",
+      "category": "imaging",
+      "status": "适合入选",
+      "rationale": "解释广播时间与家庭观看时间分离，以及卡带格式的不同取舍。它能连接现有广播收听和后来的数字内容，但不把格式竞争写成单一技术参数胜负。",
+      "rationaleKind": "策展判断",
+      "problemAndTradeoffs": "磁带容量、机器兼容与节目记录构成体验；1975系统、具体机型及地区销售分开，2016卡带出货终止不当该机器停产。",
+      "gapFilled": [
+        "G03",
+        "G08"
+      ],
+      "sources": [
+        {
+          "id": "ER13",
+          "title": "Recorder & Player milestones — SL-6300",
+          "publisher": "Sony",
+          "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-d.html",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "1975 SL-6300为Sony首台Beta系统VCR；半英寸磁带、卡带和时移宣传。",
+          "sourceType": "manufacturer-history",
+          "independence": "Sony",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "原网页正文",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。"
+        },
+        {
+          "id": "ER14",
+          "title": "Beta and microMV cassette shipment termination notice",
+          "publisher": "Sony",
+          "url": "https://www.sony.com/ja/SonyInfo/News/Press/201511/15-1110/",
+          "publishedOn": "2015-11-10",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2015公告回顾1975 SL-6300及30/60分钟K-30/K-60卡带；2016年3月计划结束Beta卡带出货不等于1975机器停产日期。",
+          "sourceType": "manufacturer-announcement",
+          "independence": "Sony",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "原网页正文",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。"
+        },
+        {
+          "id": "ER15",
+          "title": "Sony Annual Report 1975",
+          "publisher": "Sony",
+          "url": "https://www.sony.com/en/SonyInfo/IR/library/ar/1975-E.pdf",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "1975-04-16介绍Betamax系统；当时日本有三种系统，美国仅销售电视与录像机组合机。不能将系统公布日无条件等同SL-6300全球零售日。",
+          "sourceType": "manufacturer-report",
+          "independence": "Sony",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "verificationMethod": "原PDF正文",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中高：身份与部分日期有直接来源；正文交付未完成",
+      "openQuestions": [
+        "补SL-6300原手册，核清是否需外接调谐及定时附件；不能借SL-7300内置调谐功能。",
+        "补独立格式/使用史，才可解释竞争结局及原因。",
+        "官方pressroom图片有联系要求，默认文字回退而非自动转载。"
+      ],
+      "media": {
+        "imageStatus": "未导入",
+        "videoStatus": "未登记",
+        "modelMatch": "正式使用前逐件核对原型/修订/地区；当前没有图片资产",
+        "rights": "未取得复制许可；仅登记文字来源",
+        "fallback": "heroMediaId:null，videoIds:[]；显示实物照片待补及真实文字，不用同家族错图或生成仿真图"
+      },
+      "chroniclePlacement": {
+        "kind": "内容位置建议，未改编年史数据或布局",
+        "summary": "解释广播时间与家庭观看时间分离，以及卡带格式的不同取舍。它能连接现有广播收听和后来的数字内容，但不把格式竞争写成单一技术参数胜负。"
+      }
+    }
+  ],
+  "integrationReview": {
+    "checkedOn": "2026-10-11",
+    "reviewer": "主整合，响应显式medium只读复核",
+    "changes": "统一verificationMethod/limits并保留原限制；ready品类标签沿用现有分类；Framework具体来源范围和年度媒体披露补齐。",
+    "limit": "没有把来源层级提升为全文核查；候选身份和未决项原样保留。"
+  }
+}

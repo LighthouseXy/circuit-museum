@@ -1,0 +1,95 @@
+{
+  "slug": "asus-rog-xbox-ally-x",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:ROG Xbox Ally.png",
+      "pageid": 180712967,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ROG_Xbox_Ally.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ec/ROG_Xbox_Ally.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/ROG_Xbox_Ally.png/960px-ROG_Xbox_Ally.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-12-26 15:30:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "ROG Xbox Ally",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Text logos|GFDL|With trademark|License migration redundant|CC-BY-SA-4.0,3.0,2.5,2.0,1.0|PD textlogo|Self-published work|ROG Xbox Ally X|ROG Xbox Ally handheld",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "ROG Xbox Ally / ROG Xbox Ally X",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-12-25",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<ul><li><a href=\"//commons.wikimedia.org/wiki/File:ASUS_ROG_logo.svg\" title=\"File:ASUS ROG logo.svg\">ASUS ROG logo.svg</a></li>\n<li><a href=\"//commons.wikimedia.org/wiki/File:Xbox_Logo.svg\" title=\"File:Xbox Logo.svg\">Xbox Logo.svg</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:%CE%A7%CE%92%CE%9F%CE%A7_360_%CE%9F%CE%9D%CE%95&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:ΧΒΟΧ 360 ΟΝΕ (page does not exist)\">XBOX 360 ONE</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<i>This logo image consists only of simple geometric shapes or text. It <b>does not meet the <a href=\"//commons.wikimedia.org/wiki/Commons:Threshold_of_originality\" title=\"Commons:Threshold of originality\">threshold of originality</a></b> needed for copyright protection, and is therefore in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"w:public domain\">public domain</a></b>. Although it is free of copyright restrictions, this image may still be subject to <a href=\"//commons.wikimedia.org/wiki/Commons:Non-copyright_restrictions\" title=\"Commons:Non-copyright restrictions\">other restrictions</a>. See <a href=\"https://en.wikipedia.org/wiki/Wikipedia:Public_domain#Fonts_and_typefaces\" class=\"extiw\" title=\"w:Wikipedia:Public domain\">WP:PD § Fonts and typefaces</a> or <a href=\"//commons.wikimedia.org/wiki/Template_talk:PD-textlogo\" title=\"Template talk:PD-textlogo\">Template talk:PD-textlogo</a> for more information.</i>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "trademarked",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "ROG Xbox Ally / ROG Xbox Ally X",
+      "artist": "XBOX 360 ONE",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "2025-12-25"
+    }
+  ]
+}

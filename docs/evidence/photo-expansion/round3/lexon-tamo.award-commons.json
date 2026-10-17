@@ -1,0 +1,1203 @@
+{
+  "slug": "lexon-tamo",
+  "query": "\"Tamo\"",
+  "checkedOn": "2026-10-15",
+  "data": {
+    "batchcomplete": "",
+    "continue": {
+      "gsroffset": 12,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": {
+        "110517621": {
+          "pageid": 110517621,
+          "ns": 6,
+          "title": "File:0964.a.2825.tif",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/0964.a.2825.tif/lossy-page1-960px-0964.a.2825.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1789,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/0964.a.2825.tif/lossy-page1-1920px-0964.a.2825.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/0964.a.2825.tif/lossy-page1-960px-0964.a.2825.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1789,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/0964.a.2825.tif/lossy-page1-1920px-0964.a.2825.tif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/0964.a.2825.tif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:0964.a.2825.tif",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=110517621",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-09-28 12:33:32",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "0964.a.2825",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "20th-century photographs of China|Media from Etnografiska museet|CC-Zero|Bodhidharma|Media from the National Museums of World Culture|Template Unknown (author)|Content made available through Wikimedia Sverige partnerships|Svenska missionsförbundet, Picture archive, 0964",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "China. Picture from the archive of Mission Covenant Church of Sweden.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "20th century, first half",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<table style=\"width:100%; clear: both; text-align: center; margin: 0.5em auto; background-color: var(--background-color-interactive-subtle, #f9f9f9); color: inherit; border: 2px solid var(--border-color-muted, #e0e0e0); \" dir=\"ltr\" lang=\"en\" class=\"layouttemplate partnershiptemplate \" role=\"presentation\">\n<tbody><tr><td style=\"width:100px;\"><span typeof=\"mw:File\" data-mw='{\"caption\":\"Världskulturmuseerna\"}'><a href=\"https://commons.wikimedia.org/wiki/Commons:V%C3%A4rldskulturmuseerna\" title=\"Världskulturmuseerna\"><img resource=\"https://commons.wikimedia.org/wiki/File:Världskulturmuseerna.jpg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/V%C3%A4rldskulturmuseerna.jpg/330px-V%C3%A4rldskulturmuseerna.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/V%C3%A4rldskulturmuseerna.jpg/960px-V%C3%A4rldskulturmuseerna.jpg?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" alt=\"Världskulturmuseerna\" data-file-width=\"2000\" data-file-height=\"614\" data-file-type=\"bitmap\" height=\"89\" width=\"290\" class=\"mw-file-element\"></a></span></td>\n<td>This file was provided to Wikimedia Commons by the <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/Commons:V%C3%A4rldskulturmuseerna\" title=\"Commons:Världskulturmuseerna\"><bdi lang=\"en\">Museum of Ethnography</bdi></a> in cooperation with <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/Commons:WMSE\" title=\"Commons:WMSE\" class=\"mw-redirect\">Wikimedia Sverige</a>.</td>\n<td style=\"width:60px\"><span typeof=\"mw:File\" data-mw='{\"caption\":\"Wikimedia Sverige\"}'><a href=\"https://commons.wikimedia.org/wiki/Commons:Wikimedia_Sverige\" title=\"Wikimedia Sverige\"><img resource=\"https://commons.wikimedia.org/wiki/File:Wikimedia_Sverige_logo.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/120px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Wikimedia_Sverige_logo_-_vertical.svg/250px-Wikimedia_Sverige_logo_-_vertical.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" alt=\"Wikimedia Sverige\" data-file-width=\"581\" data-file-height=\"435\" data-file-type=\"drawing\" height=\"89\" width=\"119\" class=\"mw-file-element\"></a></span></td></tr>\n</tbody></table><span class=\"mw-empty-elt\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Media_from_Etnografiska_museet#0964.a.2825.tif\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Media_from_the_National_Museums_of_World_Culture#0964.a.2825.tif\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Content_made_available_through_Wikimedia_Sverige_partnerships#SMVK-0964.a.2825.tif\"></span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "400536": {
+          "pageid": 400536,
+          "ns": 6,
+          "title": "File:Bodhidarma.jpg",
+          "index": 6,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bodhidarma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 900,
+              "thumbheight": 2000,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bodhidarma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 2000
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bodhidarma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bodhidarma.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=400536",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-03-17 04:20:41",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Bodhidarma",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Hakuin|Files with no machine-readable author|Files with no machine-readable source|Japanese calligraphy|Zen painting and calligraphy|PD-Art (PD-Japan)|Artworks missing infobox template|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Buddhist calligraphy of Japan|Paintings of Bodhidharma",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "3928979": {
+          "pageid": 3928979,
+          "ns": 6,
+          "title": "File:Bodhidharma.and.Huike-Sesshu.Toyo.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bodhidharma.and.Huike-Sesshu.Toyo.jpg/960px-Bodhidharma.and.Huike-Sesshu.Toyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1456,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bodhidharma.and.Huike-Sesshu.Toyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Bodhidharma.and.Huike-Sesshu.Toyo.jpg/960px-Bodhidharma.and.Huike-Sesshu.Toyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1456,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bodhidharma.and.Huike-Sesshu.Toyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Bodhidharma.and.Huike-Sesshu.Toyo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bodhidharma.and.Huike-Sesshu.Toyo.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3928979",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-05-07 17:48:56",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<i><b>Huike Offering His Arm to Bodhidharma</b></i>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-Art (PD-old-100)|PD-Art (PD-US)|PD-Art (PD-Japan)|Artworks with Wikidata item|CC-PD-Mark|Huike Offering His Arm to Bodhidharma by Sesshū Tōyō|Artworks digital representation of 2D work|Artworks with digital representation of different depicts",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Sessh%C5%AB_T%C5%8Dy%C5%8D\" class=\"extiw\" title=\"w:en:Sesshū Tōyō\"><span title=\"Japanese artist (1420-1506)\">Sesshū Tōyō</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "Huike Offering His Arm to Bodhidharma (1496) by Sesshū",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1496<div style=\"display: none;\">date QS:P571,+1496-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://images.rollbamaroll.com/images/admin/sesshu1.jpg\">http://images.rollbamaroll.com/images/admin/sesshu1.jpg</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "280892": {
+          "pageid": 280892,
+          "ns": 6,
+          "title": "File:BodhidharmaYoshitoshi1887.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/BodhidharmaYoshitoshi1887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 900,
+              "thumbheight": 1298,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/BodhidharmaYoshitoshi1887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1298
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/BodhidharmaYoshitoshi1887.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:BodhidharmaYoshitoshi1887.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=280892",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-09-07 03:29:05",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\n<div style=\"font-weight:bold;display:inline-block;\"><div style=\"display:inline-block\" dir=\"ltr\" lang=\"en\"><i>The moon through a crumbling window</i></div></div><div style=\"display: none;\">label QS:Len,\"The moon through a crumbling window\"</div><div style=\"display: none;\">label QS:Lja,\"破窓月\"</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "1887 in Japan|Daruma|Buddhist meditation|PD-Art (PD-Japan)|Artworks with Wikidata item|Images with extracted images|People with the Moon in art|1887 woodcuts of Japan|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Artworks digital representation of 2D work|Artworks with digital representation of different depicts|Headscarves in art|Tsuki hyakushi 30 (Bodhidharma through broken window)|Buddhist woodcuts of Japan|Paintings of Bodhidharma",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Tsukioka_Yoshitoshi\" class=\"extiw\" title=\"w:en:Tsukioka Yoshitoshi\"><span title=\"Japanese artist and printmaker (1839–1892)\">Yoshitoshi</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "\"The moon through a crumbling window\" in the \"A Hundred Aspects of the Moon\" series. <a href=\"//commons.wikimedia.org/wiki/Bodhidharma\" class=\"mw-redirect\" title=\"Bodhidharma\">Bodhidharma</a>, by <a href=\"//commons.wikimedia.org/w/index.php?title=Yoshitoshi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yoshitoshi (page does not exist)\">Yoshitoshi</a>, 1887.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1887<div style=\"display: none;\">date QS:P571,+1887-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "1. <a href=\"https://en.wikipedia.org/wiki/en:Image:BodhidharmaYoshitoshi1887.jpg\" class=\"extiw\" title=\"w:en:Image:BodhidharmaYoshitoshi1887.jpg\">en.wikipedia</a> 2. <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://sumally.com/p/908652\">[1]</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "27933961": {
+          "pageid": 27933961,
+          "ns": 6,
+          "title": "File:Bodhidharma Shaolinsi.JPG",
+          "index": 11,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Bodhidharma_Shaolinsi.JPG/960px-Bodhidharma_Shaolinsi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1344,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Bodhidharma_Shaolinsi.JPG/1920px-Bodhidharma_Shaolinsi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Bodhidharma_Shaolinsi.JPG/960px-Bodhidharma_Shaolinsi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1344,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Bodhidharma_Shaolinsi.JPG/1920px-Bodhidharma_Shaolinsi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bodhidharma_Shaolinsi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bodhidharma_Shaolinsi.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=27933961",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-08-29 13:01:07",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Bodhidharma Shaolinsi",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Nikon D80|Self-published work|Images with extracted images|Bodhidharma Stele at Shaolin Monastery",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Bodhidharma monument in Songshan Shaolin Si Monastery",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2011-03-30 08:35:14",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Jiulongtang?action=edit&amp;redlink=1\" title=\"User:Jiulongtang (page does not exist)\" class=\"new\" typeof=\"mw:LocalizedAttrs\" data-mw-i18n='{\"title\":{\"lang\":\"x-page\",\"key\":\"red-link-title\",\"params\":[\"User:Jiulongtang\"]}}'>Jiulongtang</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "58336520": {
+          "pageid": 58336520,
+          "ns": 6,
+          "title": "File:Dalma, 달마 그림, 달마도.jpg",
+          "index": 7,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Dalma%2C_%EB%8B%AC%EB%A7%88_%EA%B7%B8%EB%A6%BC%2C_%EB%8B%AC%EB%A7%88%EB%8F%84.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 900,
+              "thumbheight": 1286,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Dalma%2C_%EB%8B%AC%EB%A7%88_%EA%B7%B8%EB%A6%BC%2C_%EB%8B%AC%EB%A7%88%EB%8F%84.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1286
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Dalma%2C_%EB%8B%AC%EB%A7%88_%EA%B7%B8%EB%A6%BC%2C_%EB%8B%AC%EB%A7%88%EB%8F%84.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dalma,_%EB%8B%AC%EB%A7%88_%EA%B7%B8%EB%A6%BC,_%EB%8B%AC%EB%A7%88%EB%8F%84.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58336520",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-04-27 04:26:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Dalma, 달마 그림, 달마도",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Collections of the National Museum of Korea|PD-Art (PD-old-100)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Buddhist art in Korea|Paintings of Bodhidharma",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "dalma-do(17th century)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2012-12-05 13:51:03",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p>National Museum of Korea</p>\n<a rel=\"mw:ExtLink nofollow\" href=\"http://www.museum.go.kr/site/main/relic/search/view?relicId=766#\" class=\"external free\">http://www.museum.go.kr/site/main/relic/search/view?relicId=766#</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "김명국(金明國)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "93653678": {
+          "pageid": 93653678,
+          "ns": 6,
+          "title": "File:Daruma-Bodhidharma.jpg",
+          "index": 9,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Daruma-Bodhidharma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 900,
+              "thumbheight": 1135,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Daruma-Bodhidharma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1135
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Daruma-Bodhidharma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Daruma-Bodhidharma.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93653678",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-08-29 14:16:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Daruma-Bodhidharma",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Paintings of Japan|Miyamoto Musashi|Daruma|Heiho Niten Ichi Ryu Memorial|PD-old-100-expired|PD-Art (PD-old-auto-expired)|CC-PD-Mark|Paintings by Miyamoto Musashi|Paintings of Bodhidharma",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Daruma, Bodhidharma, painted by Miyamoto Musashi",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1999-03-04",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Calligraphy by Miyamoto Musashi",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:Miyamoto%20Musashi\" title=\"w:en:Miyamoto Musashi\" class=\"extiw\"><span title=\"Japanese swordsman, philosopher, strategist, writer, artist, and rōnin (1584–1645)\">Miyamoto Musashi</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "58155778": {
+          "pageid": 58155778,
+          "ns": 6,
+          "title": "File:Himeji-jo-112113.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Himeji-jo-112113.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 900,
+              "thumbheight": 1200,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Himeji-jo-112113.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1200
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Himeji-jo-112113.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Himeji-jo-112113.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58155778",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-04-19 10:49:22",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Himeji-jo-112113",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-BY-SA-3.0-IGO|Daruma|Images from UNESCO 2017-04|Content made available through Connected Open Heritage|World Heritage Site photographs produced by UNESCO|Photographs produced by UNESCO|Media files produced by UNESCO needing additional categorisation|Interior of Himeji Castle Keep Tower",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "34.8333333300",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "134.7000000000",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Himeji-jo (Japan)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2005-01-01",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "This file has been provided by <a href=\"https://en.wikipedia.org/wiki/UNESCO\" class=\"extiw\" title=\"w:UNESCO\">UNESCO</a> (<a rel=\"nofollow\" class=\"external text\" href=\"http://unesco.org/\">unesco.org</a>) as part of a GLAM-Wiki partnership.\nIt is also <a rel=\"nofollow\" class=\"external text\" href=\"http://whc.unesco.org/en/documents/112113\">available on the UNESCO website</a>.",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Giovanni Boccardi",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0 igo",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0 igo",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "37215037": {
+          "pageid": 37215037,
+          "ns": 6,
+          "title": "File:Le patriarche Bodhidharma (V&A Museum) (9471398169).jpg",
+          "index": 8,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Le_patriarche_Bodhidharma_%28V%26A_Museum%29_%289471398169%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 900,
+              "thumbheight": 1349,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Le_patriarche_Bodhidharma_%28V%26A_Museum%29_%289471398169%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1349
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Le_patriarche_Bodhidharma_%28V%26A_Museum%29_%289471398169%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Le_patriarche_Bodhidharma_(V%26A_Museum)_(9471398169).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=37215037",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-12-09 16:01:01",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Le patriarche Bodhidharma (V&A Museum) (9471398169)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Images with opaque backgrounds|Flickr images reviewed by FlickreviewR|Photographs by Jean-Pierre Dalbéra|Files with coordinates missing SDC location of creation (51° N, 1° W)|Seated Bodhidharma, V&A London",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.496547",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "-0.171697",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p><b>Bodhidharma assis</b>\n1484\nDynastie Ming\nNord de la Chine\ngrès avec glaçures vertes et marrons</p>\n\n<p>Cette sculpture de taille réelle représente Bodhidharma (Da Mo), un moine indien bouddhiste qui est arrivé en Chine vers 520 et qui y a introduit le Bouddhisme. Il est considéré comme le fondateur du bouddhisme Chan (ou Zen) </p>\n\n<p>Article de Wikipedia sur Bodhidharma</p>\n<pre><a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/fr:Bodhidharma\" title=\"w:fr:Bodhidharma\" class=\"extiw\">fr.wikipedia.org/wiki/Bodhidharma</a></pre>                               \n\n<p>Site du Victoria and Albert Museum (V&amp;A Museum, Londres)</p>\n<a rel=\"mw:ExtLink nofollow\" href=\"http://www.vam.ac.uk/\" class=\"external text\">www.vam.ac.uk/</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2013-02-09 19:10",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/photos/dalbera/9471398169/\" class=\"external text\">Le patriarche Bodhidharma (V&amp;A Museum)</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.flickr.com/people/72746018@N00\" class=\"external text\">Jean-Pierre Dalbéra</a> from Paris, France",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 2.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 2.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/2.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-2.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "57867511": {
+          "pageid": 57867511,
+          "ns": 6,
+          "title": "File:MET 212165.jpg",
+          "index": 10,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/MET_212165.jpg/960px-MET_212165.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1135,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/MET_212165.jpg/1920px-MET_212165.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/MET_212165.jpg/960px-MET_212165.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1135,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/MET_212165.jpg/1920px-MET_212165.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/MET_212165.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:MET_212165.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=57867511",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-04-09 23:44:49",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nBodhidharma Seated in Meditation</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "CC-Zero|Files with no machine-readable author|Artworks without Wikidata item|Artworks with known accession number|Images from Metropolitan Museum of Art|GWToolset Batch Upload|Buddhist sculptures from China in the Metropolitan Museum of Art|Buddhist sculptures of the Ming Dynasty|Statues of Bodhidharma",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nChina; Figure; Sculpture</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Ming dynasty (1368–1644)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "This file was donated to Wikimedia Commons as part of a project by the <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/Commons:Met\" title=\"Commons:Met\">Metropolitan Museum of Art</a>. See the <a rel=\"mw:ExtLink nofollow\" href=\"https://metmuseum.org/about-the-met/policies-and-documents/image-resources\" class=\"external text\">Image and Data Resources Open Access Policy</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border:var(--border-subtle, 2px solid #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\"> \n<tbody><tr><td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\" data-mw='{\"caption\":\"Creative Commons\"}'><span title=\"Creative Commons\"><img resource=\"https://commons.wikimedia.org/wiki/File:Cc.logo.circle.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" alt=\"Creative Commons\" data-file-width=\"64\" data-file-height=\"64\" data-file-type=\"drawing\" height=\"28\" width=\"28\" class=\"mw-file-element\"></span></span><span typeof=\"mw:Entity\"> </span><span class=\"skin-invert\" typeof=\"mw:File\" data-mw='{\"caption\":\"CC-Zero\"}'><span title=\"CC-Zero\"><img resource=\"https://commons.wikimedia.org/wiki/File:Cc-zero.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" alt=\"CC-Zero\" data-file-width=\"64\" data-file-height=\"64\" data-file-type=\"drawing\" height=\"28\" width=\"28\" class=\"mw-file-element\"></span></span></td>\n<td>This file is made available under the <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:Creative%20Commons\" title=\"w:en:Creative Commons\" class=\"extiw\">Creative Commons</a> <a rel=\"mw:WikiLink/Interwiki\" href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" title=\"ccorg:publicdomain/zero/1.0/deed.en\" class=\"extiw\">CC0 1.0 Universal Public Domain Dedication</a>.</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:public%20domain\" title=\"w:en:public domain\" class=\"extiw\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span></p></td></tr>\n</tbody></table><span class=\"mw-empty-elt\"><link rel=\"mw:PageProp/Category\" href=\"./Category:CC-Zero#MET%20212165.jpg\"></span>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Zero, Public Domain Dedication",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "89877143": {
+          "pageid": 89877143,
+          "ns": 6,
+          "title": "File:No. 68 Moriyama 守山 (BM 2008,3037.14769).jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/No._68_Moriyama_%E5%AE%88%E5%B1%B1_%28BM_2008%2C3037.14769%29.jpg/960px-No._68_Moriyama_%E5%AE%88%E5%B1%B1_%28BM_2008%2C3037.14769%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1316,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/5/52/No._68_Moriyama_%E5%AE%88%E5%B1%B1_%28BM_2008%2C3037.14769%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/No._68_Moriyama_%E5%AE%88%E5%B1%B1_%28BM_2008%2C3037.14769%29.jpg/960px-No._68_Moriyama_%E5%AE%88%E5%B1%B1_%28BM_2008%2C3037.14769%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1316,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/52/No._68_Moriyama_%E5%AE%88%E5%B1%B1_%28BM_2008%2C3037.14769%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/No._68_Moriyama_%E5%AE%88%E5%B1%B1_%28BM_2008%2C3037.14769%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:No._68_Moriyama_%E5%AE%88%E5%B1%B1_(BM_2008,3037.14769).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=89877143",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-05-05 11:01:44",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nNo. 68 Moriyama 守山</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Daruma|Artworks without Wikidata item|Kiso-kaidō 69 tsugi no uchi by Utagawa Kuniyoshi|PD Old|PD-scan (PD-old-70)|Artworks with known accession number|CC-PD-Mark|Uploads by copyfraud|PD-old missing SDC copyright status|Japanese prints in the British Museum|Moriyama-juku in ukiyo-e",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nPrint artist:   Utagawa Kuniyoshi (歌川国芳)</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "Woodblock print, oban tate-e. Moriyama Station. The Indian monk Bodhidharma (Jp. Daruma) eating mounded dishes of soba noodles in a riverside noodle shop, a shop assistant watching in disbelief (Inset: travelers on the road between tall trees).",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1852 (7th month)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.britishmuseum.org/collection/object/A_2008-3037-14769\">https://www.britishmuseum.org/collection/object/A_2008-3037-14769</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "© The Trustees of the British Museum, released as CC BY-NC-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "128366808": {
+          "pageid": 128366808,
+          "ns": 6,
+          "title": "File:吴彬达摩图轴.jpg",
+          "index": 12,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%E5%90%B4%E5%BD%AC%E8%BE%BE%E6%91%A9%E5%9B%BE%E8%BD%B4.jpg/960px-%E5%90%B4%E5%BD%AC%E8%BE%BE%E6%91%A9%E5%9B%BE%E8%BD%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1961,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%E5%90%B4%E5%BD%AC%E8%BE%BE%E6%91%A9%E5%9B%BE%E8%BD%B4.jpg/1920px-%E5%90%B4%E5%BD%AC%E8%BE%BE%E6%91%A9%E5%9B%BE%E8%BD%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%E5%90%B4%E5%BD%AC%E8%BE%BE%E6%91%A9%E5%9B%BE%E8%BD%B4.jpg/960px-%E5%90%B4%E5%BD%AC%E8%BE%BE%E6%91%A9%E5%9B%BE%E8%BD%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1961,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%E5%90%B4%E5%BD%AC%E8%BE%BE%E6%91%A9%E5%9B%BE%E8%BD%B4.jpg/1920px-%E5%90%B4%E5%BD%AC%E8%BE%BE%E6%91%A9%E5%9B%BE%E8%BD%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/%E5%90%B4%E5%BD%AC%E8%BE%BE%E6%91%A9%E5%9B%BE%E8%BD%B4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E5%90%B4%E5%BD%AC%E8%BE%BE%E6%91%A9%E5%9B%BE%E8%BD%B4.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128366808",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2023-02-03 10:35:57",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nChinese<span typeof=\"mw:Entity\">:</span>  <div style=\"display:inline-block\" dir=\"ltr\" lang=\"zh\">《吴彬达摩图轴》</div><div style=\"display: none;\">label QS:Lzh,\"吴彬达摩图轴\"</div></div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Wu Bin|PD-Art (PD-old-100)|Artworks with Wikidata item|Artworks with known accession number|CC-PD-Mark|Artworks with accession number from Wikidata|Artworks digital representation of 2D work|Paintings of the Ming Dynasty in the Palace Museum|Buddhist paintings of the Ming Dynasty|Religious paintings in the Palace Museum|Paintings of Bodhidharma",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:Wu%20Bin%20(painter)\" title=\"w:en:Wu Bin (painter)\" class=\"extiw\"><span title=\"Chinese painter (1573-1620)\">Wu Bin</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.dpm.org.cn/collection/paint/232865.html\" class=\"external free\">https://www.dpm.org.cn/collection/paint/232865.html</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

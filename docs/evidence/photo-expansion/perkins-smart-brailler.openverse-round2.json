@@ -1,0 +1,40 @@
+{
+  "query": "Perkins SMART Brailler",
+  "checkedOn": "2026-10-15",
+  "result_count": 1,
+  "page_count": 1,
+  "page_size": 20,
+  "page": 1,
+  "results": [
+    {
+      "id": "1e9eb09e-8323-48aa-acda-4194d4de8fcc",
+      "title": "Perkins SMART brailler",
+      "indexed_on": "2020-07-30T13:52:31.448887Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=19779492",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Perkins_SMART_brailler.jpg",
+      "creator": "Movierain",
+      "creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Movierain&action=edit&redlink=1",
+      "license": "by-sa",
+      "license_version": "3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 43391,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"Perkins SMART brailler\" by Movierain is licensed under CC BY-SA 3.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/3.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 382,
+      "width": 500,
+      "thumbnail": "https://api.openverse.org/v1/images/1e9eb09e-8323-48aa-acda-4194d4de8fcc/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/1e9eb09e-8323-48aa-acda-4194d4de8fcc/",
+      "related_url": "https://api.openverse.org/v1/images/1e9eb09e-8323-48aa-acda-4194d4de8fcc/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

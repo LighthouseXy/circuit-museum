@@ -1,0 +1,1835 @@
+{
+  "checkedOn": "2026-10-11",
+  "scope": {
+    "project": "Circuit Museum",
+    "collectionBaseline": "docs/collection.json：当前40件，只读；本文件没有并入正式馆藏。",
+    "candidateCount": 15,
+    "readyCount": 2,
+    "researchType": "年度科技媒体/博主选择与工业设计奖交叉研究；覆盖维修、输入、创作、辅助技术、耳机与家用产品。",
+    "selectionRule": "获奖、销量、第一或品牌知名度都不能自动入选；产品事实、选择证据、观点与策展判断分开。",
+    "annualMediaRule": "截至2026-10-11只记录已发布资料；不把未发布的2026年终奖当事实。TIME与Popular Science为已核独立年度视角；MKBHD原视频标题/章节可读，具体赢家原片段待核。",
+    "awardRule": "日本JDP GOOD DESIGN与Chicago GOOD DESIGN分开；精确型号、年份、等级分别记录，品牌汇总和索引不代替完整数据库。",
+    "readyRule": "两件采用现有展品schema，五节中文正文合计至少825字符，来源分散；无许可素材使用纯文字回退。",
+    "wordLimitRule": "原创简述，未复制评委评语；媒体年度条目只支撑选品关注度，技术事实来自厂商、操作指南及实操资料。",
+    "overlapWithBaseline": [],
+    "unverifiedSourceRule": "403、动态空壳、索引片段和转载逐条明示可核范围，未核披露不推断无商业关系。"
+  },
+  "candidates": [
+    {
+      "id": "AM-01",
+      "slug": "framework-laptop-13-2021",
+      "model": "Framework Laptop（首代13.5英寸／后称Laptop 13）",
+      "brand": "Framework",
+      "regionVersion": "2021年第11代Intel Core；美国5月、加拿大6月开放预售，地区实际收货另核；DIY与预装版分列说明",
+      "year": 2021,
+      "dateLabel": "2021年7月首批出货（2月25日公布）",
+      "dateKind": "首批出货",
+      "category": "computing",
+      "status": "首批ready",
+      "rationale": "策展判断：它把拆装入口、接口模块和后续主板兼容组织成消费笔记本的日常使用承诺，补充现有馆藏以外的维修与持续占有问题。TIME年度选品与设计奖提供当时关注度线索，实际升级记录才支持承诺是否落地。",
+      "problemAndTradeoffs": "部件可换降低部分维修门槛；操作仍需阅读指南、处理脆弱连接件，长期收益依赖兼容零件供给。未作本项目耐久、碳排或长期可用性实测。",
+      "gapFilled": "计算设备从整机更新到保留机身升级；可维修消费产品",
+      "sources": [
+        {
+          "id": "AMF01",
+          "title": "Introducing the Framework Laptop",
+          "publisher": "Framework",
+          "url": "https://frame.work/blog/introducing-the-framework-laptop",
+          "publishedOn": "2021-02-25",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2021年原始公布；第11代Intel、13.5英寸3:2屏、四个扩展卡槽、可替换部件及DIY版本。网页导航现含后续产品，未将其规格归给本件。 原公告正文另核铝制壳体、磁吸边框与部件QR码通向指南/零件商店；这些是结构与文档安排，不证明实际寿命或减排效果。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原2021-02-25公告正文；主整合重读材料/磁吸边框/QR标识段落，排除当前导航的后代规格",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMF02",
+          "title": "The Framework Laptop is now shipping, and press reviews are up!",
+          "publisher": "Framework",
+          "url": "https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews",
+          "publishedOn": "2021-07-22",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "正文称首批订单当日送达、7月批次正在出货；所引媒体好评为品牌筛选，未作为独立来源。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原厂2021-07-22交付公告正文所述首批送达和批次，不将品牌筛选评测当独立意见",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMF03",
+          "title": "Framework Laptop 13 (11th Gen and 12th Gen Intel Core) DIY Edition Quick Start Guide",
+          "publisher": "Framework Guides",
+          "url": "https://guides.frame.work/Guide/Framework+Laptop+13+(11th+Gen+and+12th+Gen+Intel+Core)+DIY+Edition+Quick+Start+Guide/57",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "适用第11与12代Intel；组装内存、SSD、无线网卡、输入盖排线及驱动提示。可见2023-11-02修订及未发布Release提示，不能称2021年原版说明书。",
+          "sourceType": "厂商操作指南",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "官方维修/DIY指南指定步骤和版本说明；现版本覆盖第11/12代，不称2021原版手册",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMF04",
+          "title": "Framework Laptop—A Framework For A Repairable Future",
+          "publisher": "iFixit",
+          "url": "https://www.ifixit.com/News/63257/framework-laptop-a-framework-for-a-repairable-future",
+          "publishedOn": "2022-08-04",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "作者实际将11代i7主板换为12代i5-1240P，并更换上盖；核实后续兼容升级已发生，不能据此将2022处理器写进2021本件。",
+          "sourceType": "独立机构实操及观点",
+          "independence": "非Framework作者；iFixit从事维修工具与零件销售，持维修倡议立场",
+          "commercialDisclosure": "页面有自营工具零件商城；该篇是否收取品牌报酬未核实",
+          "verificationMethod": "第三方实际升级记录的正文；仅此样机及替换过程",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMF05",
+          "title": "Framework Laptop",
+          "publisher": "Red Dot",
+          "url": "https://www.red-dot.org/project/framework-laptop-55668",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原数据库Product Design 2022；型号Framework Laptop；标识Red Dot: Best of the Best。评委赞语属于设计评价。",
+          "sourceType": "工业设计奖原始数据库",
+          "independence": "评奖机构原始记录；不是独立性能试验",
+          "commercialDisclosure": "评奖体系存在参赛和推广商业关系；本页面未核实具体费用",
+          "verificationMethod": "Red Dot具体项目原页面型号、2022产品设计及Best of the Best标识；只读复核再次打开确认",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMF06",
+          "title": "A Notebook You Can Repair: Framework Laptop — Best Inventions 2021",
+          "publisher": "TIME",
+          "url": "https://time.com/collections/best-inventions-2021/6112625/framework-laptop/",
+          "publishedOn": "2021-11-10",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "TIME Best Inventions 2021的Framework Laptop独立年度条目已读；结尾Don Steinberg署名，页面抬头TIME Staff；含当时价格与佣金披露。未复现年度目录类别，不以“消费者电子”为已核TIME类别；不是技术测试或设计奖等级。",
+          "sourceType": "媒体年度编辑评选",
+          "independence": "独立媒体编辑条目；不是品牌新闻稿",
+          "commercialDisclosure": "含Buy Now及站级可能获得商品链接佣金披露；单篇付费合作未见，未核实",
+          "verificationMethod": "研究者及只读复核已读原年度条目、署名和佣金披露；主整合当前再次访问跳至tollbit，不声称本次刷新通读",
+          "limits": "年度编辑选择的观点范围；本包不采用当时价格数值或当前售价；主整合再次访问返回tollbit，由原研究和只读复核的指定正文核查支持。"
+        },
+        {
+          "id": "AMF07",
+          "title": "Framework’s new lightweight modular laptop delivers on its promises",
+          "publisher": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2021/07/frameworks-new-lightweight-modular-laptop-delivers-on-its-promises/",
+          "publishedOn": "2021-07-27",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "Jim Salter于2021-07-27对i7-1185G7、32GiB、1TB SSD首代样机作第一手评测；Performance (gaming)单列集成Iris Xe与独显游戏笔记本的比较，普通计算与游戏用途不能合并判断。只采用这一用途边界，不外推性能数值、所有配置或长期可靠性。",
+          "sourceType": "媒体单件评测",
+          "independence": "媒体作者Jim Salter的一手评测",
+          "commercialDisclosure": "该篇赞助、联盟链接及样机关系未完整核实",
+          "verificationMethod": "2021 Jim Salter原始样机评测正文；主整合重读测试配置与Performance (gaming)章节",
+          "limits": "单件首代i7样机及当时系统/测试条件；样机关系和该篇赞助/联盟披露未完整核实；本文不是年度奖或群体寿命证据。"
+        },
+        {
+          "id": "AMF08",
+          "title": "Framework Laptop wins two design awards",
+          "publisher": "Framework",
+          "url": "https://frame.work/blog/framework-laptop-wins-two-design-awards",
+          "publishedOn": "2022-04-29",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "品牌报告2022 Red Dot Best of the Best与iF奖；Red Dot已另核原数据库，iF详情页403，不能把品牌自述当原数据库核实。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "地址或原机构索引/页面壳定位；正文或关键字段读取受限，详见verifiedScope",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMF09",
+          "title": "Framework Laptop — iF project 331893",
+          "publisher": "iF Design",
+          "url": "https://ifdesign.com/en/winner-ranking/project/framework-laptop/331893",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "已尝试访问原始项目页，返回403；仅完成地址定位，正文、等级与字段未核实。",
+          "sourceType": "工业设计奖数据库访问受限",
+          "independence": "评奖机构原地址，正文不可读",
+          "commercialDisclosure": "未核实",
+          "verificationMethod": "地址或原机构索引/页面壳定位；正文或关键字段读取受限，详见verifiedScope",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMF10",
+          "title": "Expansion Card Developer Program & Canada Launch",
+          "publisher": "Framework",
+          "url": "https://frame.work/blog/expansion-card-developer-program--canada-launch",
+          "publishedOn": "2021-06-10",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "加拿大当日开放预售，计划交货批次与美国相同；这是预售计划，不证明每个地区当日实际收货。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方商业公告",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [
+        {
+          "system": "Red Dot Award: Product Design",
+          "awardName": "Red Dot",
+          "level": "Best of the Best",
+          "awardYear": 2022,
+          "exactModel": "Framework Laptop",
+          "databaseUrl": "https://www.red-dot.org/project/framework-laptop-55668",
+          "verifiedScope": "原数据库年份、产品名与最高产品设计等级标识已读；2022为获奖年，2021为首代出货年。",
+          "status": "已核实原数据库正文"
+        },
+        {
+          "system": "iF Design Award",
+          "awardName": "iF Design Award",
+          "level": "普通奖（品牌自述；原数据库等级未读）",
+          "awardYear": 2022,
+          "exactModel": "Framework Laptop",
+          "databaseUrl": "https://ifdesign.com/en/winner-ranking/project/framework-laptop/331893",
+          "verifiedScope": "品牌公告称获奖；原数据库403，禁止呈现为原数据库已核。",
+          "status": "待核查"
+        }
+      ],
+      "confidence": "高：首代日期、结构、操作及后续升级有多个原始来源；iF与素材许可保留缺口",
+      "openQuestions": [
+        "本研究ready是可并入文本馆藏的编辑就绪，不表示已有获准图片或实体藏品。",
+        "后续地区上市与不同DIY配置另建版本记录；不得混入2023 AMD、2026 Pro规格。",
+        "iF项目详情需补可读原始字段。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [
+        {
+          "claim": "2021-02-25公布；品牌2021-07-22报告首批订单送达。",
+          "sourceIds": [
+            "AMF01",
+            "AMF02"
+          ]
+        },
+        {
+          "claim": "首代13.5英寸3:2屏、11代Intel与四个Expansion Card槽。",
+          "sourceIds": [
+            "AMF01"
+          ]
+        },
+        {
+          "claim": "2022年iFixit实际进行11代主板到12代主板的更换。",
+          "sourceIds": [
+            "AMF04"
+          ]
+        }
+      ],
+      "annualMediaSelections": [
+        {
+          "sourceId": "AMF06",
+          "year": 2021,
+          "selection": "TIME Best Inventions 2021",
+          "scope": "本型号年度编辑选品；未设本条目金银等级",
+          "status": "已核原文",
+          "title": "A Notebook You Can Repair: Framework Laptop — Best Inventions 2021",
+          "url": "https://time.com/collections/best-inventions-2021/6112625/framework-laptop/",
+          "checkedOn": "2026-10-11",
+          "commercialDisclosure": "含Buy Now及站级可能获得商品链接佣金披露；单篇付费合作未见，未核实",
+          "verificationDepth": "研究者及只读复核已读原年度条目、署名和佣金披露；主整合当前再次访问跳至tollbit，不声称本次刷新通读；TIME Best Inventions 2021的Framework Laptop独立年度条目已读；结尾Don Steinberg署名，页面抬头TIME Staff；含当时价格与佣金披露。未复现年度目录类别，不以“消费者电子”为已核TIME类别；不是技术测试或设计奖等级。",
+          "priceScope": "原条目含当时价格；本研究不采用价格数字，不推广到所有配置或2026市场。",
+          "sampleScope": "本型号年度编辑选品；未设本条目金银等级",
+          "author": "Don Steinberg（条目结尾）；TIME Staff（页面抬头）",
+          "category": "年度发明条目；TIME年度目录细分类未复现，不发布该分类结论"
+        }
+      ],
+      "readyExhibit": {
+        "id": "AM-01",
+        "slug": "framework-laptop-13-2021",
+        "year": 2021,
+        "name": "Framework Laptop（首代13.5英寸／后称Laptop 13）",
+        "brand": "Framework",
+        "category": "computing",
+        "categoryLabel": "个人计算",
+        "aliases": [
+          "Framework Laptop",
+          "Framework Laptop 13",
+          "第十一代Intel首代"
+        ],
+        "tags": [
+          "可维修",
+          "模块化接口",
+          "便携计算"
+        ],
+        "summary": "可更换接口与内部部件，将维护和后续升级纳入一台便携电脑的使用过程。",
+        "context": "首代Framework Laptop于2021年公布并在7月开始交付，采用第十一代Intel处理器。它进入馆藏的理由，是把维修与升级放进日常笔记本的产品安排：购买一台电脑之后，使用者仍能更换部件、选择接口，并继续利用原有机身。TIME将其列入当年发明选品，说明这种安排得到编辑关注；本馆则把它放在便携计算的长期使用问题中理解。观众可以从同一台设备需要如何保养与更新出发，观察购买、操作和维护怎样成为连续的使用过程，而非只比较上市时的计算性能。",
+        "design": "铝制机身内，内存、存储和无线模块采用可拆换结构，四个Expansion Card槽让接口配置可以改变。屏幕边框以磁力固定，厂商还提供部件识别与操作指南。这些安排把通常藏在外壳内的维护入口组织成可寻找的部位。2022年iFixit实际将首代机的第十一代主板换成第十二代主板，提供了兼容升级的一手例子。这里要观察的结构关系，是新部件如何接回已有屏幕、输入盖与机身；展示首代时仍需保留其原有处理器和屏幕信息，避免把成功升级后的配置当作首发规格。",
+        "significance": "与馆内MacBook 2006并置，可以把便携电脑的讨论从随身打开与工作方式延伸到使用多年后的部件选择；与Raspberry Pi并置，则可比较成品笔记本和开放制作平台给用户的不同参与入口。这是策展上的关系判断，不能据此把其他馆藏概括成不能维修。Red Dot在2022年授予本型号Best of the Best，记录了设计机构的认可。入选仍以具体结构与已发生的升级为依据，奖项帮助定位当时的讨论。它让观众把产品寿命理解为部件、文档、供给和使用者行动共同维持的关系。",
+        "usage": "预装版可以作为普通笔记本使用，DIY版则让购买者参与内存、存储和无线模块的安装，再完成系统与驱动配置。官方指南要求先阅读步骤和图片，输入盖翻开后仍连着触控板排线，细小天线接头也需要对准。这些细节说明可维修不等于所有操作都可凭直觉完成。接口卡用于连接所需外设，拆装则发生在故障或更新需求出现时。本馆用这些动作说明用户怎样从操作屏幕扩展到照管内部部件，强调指南和部件标识对参与维护的作用；本段并不是替代厂商手册的现场维修指令。",
+        "limitations": "维修入口需要与兼容零件、文档和供货同时成立，能够打开外壳并不保证任意第三方部件都能接入。指南特别提示排线和连接件的脆弱性，说明维护仍存在操作代价。iFixit的主板更换记录证明一次后续升级可行，不能替代多年故障率或每位用户的经验；本馆没有完成实机耐久及环境影响测试。Ars Technica的同期评测还把其一般计算用途与游戏性能分开。它应被理解为持续使用的一种设计路线，购买成本、零件可得性与个人技能仍需在具体地区和配置下评估。",
+        "dateLabel": "2021年7月首批出货（2月25日公布）",
+        "significanceLabel": "策展解读",
+        "features": [
+          "可替换接口卡与插槽式部件形成维护入口。",
+          "2022年第三方实际将首代机升级到下一代主板。"
+        ],
+        "facts": [
+          {
+            "label": "首批交付",
+            "value": "2021年7月；品牌7月22日报道首批送达",
+            "sourceIds": [
+              "AMF02"
+            ]
+          },
+          {
+            "label": "首代结构",
+            "value": "13.5英寸3:2屏，第11代Intel，四个Expansion Card槽",
+            "sourceIds": [
+              "AMF01"
+            ]
+          },
+          {
+            "label": "后续升级记录",
+            "value": "2022年iFixit实际更换为第12代主板",
+            "sourceIds": [
+              "AMF04"
+            ]
+          },
+          {
+            "label": "产品类型",
+            "value": "可维修便携计算设备",
+            "isEditorialClassification": true
+          }
+        ],
+        "sourceIds": [
+          "AMF01",
+          "AMF02",
+          "AMF06",
+          "AMF03",
+          "AMF04",
+          "AMF05",
+          "AMF07"
+        ],
+        "paragraphSources": {
+          "context": [
+            "AMF01",
+            "AMF02",
+            "AMF06"
+          ],
+          "design": [
+            "AMF01",
+            "AMF03",
+            "AMF04"
+          ],
+          "significance": [
+            "AMF04",
+            "AMF05"
+          ],
+          "usage": [
+            "AMF03"
+          ],
+          "limitations": [
+            "AMF03",
+            "AMF04",
+            "AMF07"
+          ]
+        },
+        "heroMediaId": null,
+        "videoIds": [],
+        "relatedSlugs": [
+          "macbook-2006",
+          "raspberry-pi-model-b"
+        ],
+        "reviewedOn": "2026-10-11",
+        "mediaStatus": "text-only-rights-pending",
+        "chronicleIds": [
+          "computers"
+        ]
+      },
+      "readyValidation": {
+        "sectionChineseCharacters": {
+          "context": 176,
+          "design": 181,
+          "significance": 170,
+          "usage": 195,
+          "limitations": 184
+        },
+        "totalChineseCharacters": 906,
+        "minimumTotalChineseCharacters": 825,
+        "mediaFallbackPermitted": true
+      },
+      "chroniclePlacement": {
+        "categoryId": "computers",
+        "placement": "接在馆内便携电脑段后，作为保留机身、维护部件与跨代升级的支线；不把性能参数当转折。",
+        "stageTransition": "从购买和携带整机，转向持续照管部件与决定何时升级。",
+        "comparison": "MacBook 2006用于比较便携工作入口；Raspberry Pi用于比较成品维护与开放制作，两者不被概括为相同目的。",
+        "duplicatePolicy": "同一首代产品只计一件，后续主板升级作事件或资料，不自动新增产品。"
+      }
+    },
+    {
+      "id": "AM-02",
+      "slug": "logitech-mx-master-3",
+      "model": "MX Master 3",
+      "brand": "Logitech",
+      "regionVersion": "2019原版右手办公鼠标；Unifying，不是2022 MX Master 3S或Mac专版",
+      "year": 2019,
+      "dateLabel": "2019年9月4日公布（销售月份为当时计划）",
+      "dateKind": "产品公布",
+      "category": "computing",
+      "status": "首批ready",
+      "rationale": "策展判断：将输入设备作为可观察的工作界面：纵横滚动、应用设置与多设备切换安排具体动作，而不只展览主机处理器。它的价值在于解释手、软件与桌面的协同，获奖不是入选的唯一理由。",
+      "problemAndTradeoffs": "功能密度高但需软件设置；右手外形和较大体积不适合所有人。无线连接、充电及跨机软件依赖是使用代价，不能从人体工学宣传推断医疗效果。",
+      "gapFilled": "输入设备与办公动作；2010年代多设备桌面",
+      "sources": [
+        {
+          "id": "AMM01",
+          "title": "Logitech Enables Advanced Users to Achieve Peak Performance with MX Master 3 and MX Keys",
+          "publisher": "Logitech",
+          "url": "https://news.logitech.com/press-releases/news-details/2019/Logitech-Enables-Advanced-Users-to-Achieve-Peak-Performance-with-MX-Master-3-and-MX-Keys/default.aspx",
+          "publishedOn": "2019-09-04",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2019-09-04公告原版MX Master 3；电磁滚轮、4000 DPI、USB-C充电；9月网络销售、10月门店为当时计划，未用计划代替实际零售证据。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "2019原始品牌公布稿指定型号、日期和销售计划字段",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMM02",
+          "title": "Getting Started — MX Master 3",
+          "publisher": "Logitech Support",
+          "url": "https://support.logi.com/hc/en-gb/articles/360035271133-Getting-Started-MX-Master-3",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原版MX Master 3：Unifying接收器/蓝牙无线连接、三设备Easy-Switch、棘轮/自由滚动、拇指轮、软件设置、Flow须两机安装软件；USB-C为充电。历史软件说明不能保证当前OS兼容性。",
+          "sourceType": "厂商操作指南",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "官方原型号入门支持页中的连接、切换、滚轮、Flow与充电条件；不承诺2026系统支持",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMM03",
+          "title": "Logitech MX Master 3",
+          "publisher": "Red Dot",
+          "url": "https://www.red-dot.org/project/logitech-mx-master-3-46382",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "Product Design 2020；普通Red Dot标识；产品不是3S，不把鼠标包装或家族其他型号奖项转给本件。",
+          "sourceType": "工业设计奖原始数据库",
+          "independence": "评奖机构记录；评委舒适性意见不是医学证明",
+          "commercialDisclosure": "评奖商业关系存在；具体参赛或授权费用未核实",
+          "verificationMethod": "Red Dot具体项目原页面型号、2020产品设计及普通奖标识；只读复核再次打开确认",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMM04",
+          "title": "Logitech MX Master 3 Review",
+          "publisher": "RTINGS",
+          "url": "https://www.rtings.com/mouse/reviews/logitech/mx-master-3",
+          "publishedOn": "2019-12-11",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原始评测2019-12-11，现页面方法2026-03-10更新。较大、较重、右手取向，手型影响握持；办公配置与游戏评价分开；未引用当前隐藏或归零分数。",
+          "sourceType": "媒体单件实测",
+          "independence": "媒体自有评测；2019发布与2026方法更新分开",
+          "commercialDisclosure": "站点说明会员资助与联盟购物佣金；该单篇付费合作未见，未核实",
+          "verificationMethod": "RTINGS原型号实测页的握持/重量/用途论述；记录原评测与后来方法更新，不引用隐藏评分",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMM05",
+          "title": "Logitech Wins 25 Design Awards From Leading Organizations",
+          "publisher": "Logitech",
+          "url": "https://news.logitech.com/press-releases/news-details/2020/Logitech-Wins-25-Design-Awards-From-Leading-Organizations/default.aspx",
+          "publishedOn": "2020-02-10",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "品牌iF及Chicago GOOD DESIGN获奖汇总；鼠标产品与包装各有条目，未将包装奖归给鼠标。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "品牌奖项汇总正文中的产品/包装分别列项；不是主办方数据库核实",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMM06",
+          "title": "Logitech MX Master 3 — iF project 280654",
+          "publisher": "iF Design",
+          "url": "https://ifdesign.com/en/winner-ranking/project/logitech-mx-master-3/280654",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "尝试原项目页返回403，仅定位地址。",
+          "sourceType": "工业设计奖数据库访问受限",
+          "independence": "评奖机构原地址，正文不可读",
+          "commercialDisclosure": "未核实",
+          "verificationMethod": "原项目地址定位；正文403，未读奖项字段",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [
+        {
+          "system": "Red Dot Award: Product Design",
+          "awardName": "Red Dot",
+          "level": "Red Dot（普通奖）",
+          "awardYear": 2020,
+          "exactModel": "Logitech MX Master 3",
+          "databaseUrl": "https://www.red-dot.org/project/logitech-mx-master-3-46382",
+          "verifiedScope": "产品设计2020与普通奖标识已读，非Best of the Best。",
+          "status": "已核实原数据库正文"
+        },
+        {
+          "system": "iF Design Award",
+          "awardName": "iF Design Award",
+          "level": "未核原数据库等级",
+          "awardYear": 2020,
+          "exactModel": "Logitech MX Master 3",
+          "databaseUrl": "https://ifdesign.com/en/winner-ranking/project/logitech-mx-master-3/280654",
+          "verifiedScope": "品牌汇总包括鼠标；数据库403，包装条目另计。",
+          "status": "待核查"
+        },
+        {
+          "system": "GOOD DESIGN — Chicago Athenaeum / European Centre",
+          "awardName": "GOOD DESIGN",
+          "level": "品牌声称获奖；原数据库待补",
+          "awardYear": 2019,
+          "exactModel": "MX Master 3",
+          "databaseUrl": null,
+          "verifiedScope": "这是Chicago体系，不能写成日本JDP Good Design；当前仅品牌原始公告。",
+          "status": "待核查"
+        }
+      ],
+      "confidence": "高：公布、操作与Red Dot原记录可读；握持限制有一手评测；其他奖项待核",
+      "openQuestions": [
+        "USB-C不能写作有线数据连接。",
+        "后续Logi Options+及操作系统支持须按展览时版本再次核对。",
+        "Chicago GOOD DESIGN与iF待补原数据库记录，正式展签只使用已核Red Dot。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [
+        {
+          "claim": "原版2019-09-04公布。",
+          "sourceIds": [
+            "AMM01"
+          ]
+        },
+        {
+          "claim": "电磁滚轮及4000 DPI传感器见当时厂商资料。",
+          "sourceIds": [
+            "AMM01"
+          ]
+        },
+        {
+          "claim": "以Unifying接收器或蓝牙传输；USB-C用于充电；最多配对三台设备。",
+          "sourceIds": [
+            "AMM02"
+          ]
+        }
+      ],
+      "annualMediaSelections": [],
+      "readyExhibit": {
+        "id": "AM-02",
+        "slug": "logitech-mx-master-3",
+        "year": 2019,
+        "name": "MX Master 3",
+        "brand": "Logitech",
+        "category": "computing",
+        "categoryLabel": "个人计算",
+        "aliases": [
+          "Logitech MX Master 3",
+          "罗技MX Master 3"
+        ],
+        "tags": [
+          "输入设备",
+          "办公动作",
+          "多设备"
+        ],
+        "summary": "纵横滚轮、软件设置与多机切换，把常见桌面动作组织在右手可触及的位置。",
+        "context": "Logitech在2019年9月公布MX Master 3，面向需要较多桌面操作的使用者，产品本身是无线鼠标。本馆选它，是为了让计算设备的故事包含手如何指向、滚动与切换工作对象。现有馆藏中，IBM PC与Macintosh分别提供理解桌面计算和图形界面的入口；这件输入设备继续追问，人们面对更复杂的软件与多台电脑时，哪些动作被安排在手边。这里不把高功能数量视为自然进步，而观察功能是否围绕明确任务组织，使主机以外的外围设备也能成为解释工作习惯变化的展品。",
+        "design": "电磁滚轮是厂商公布资料中的关键结构，主滚轮可以在有段落的滚动与自由滚动之间切换。拇指侧另有横向滚轮、按键与手势操作入口，机身轮廓面向右手握持。Red Dot的2020原始记录展示同一型号及普通产品设计奖，评委意见体现设计评价，不能当作缓解手腕问题的医学证据。策展时可以让观众从一项动作对应一个控制部位开始读懂外形：不同滚动方向与切换动作被放在不同手指可触及的位置。这种安排也让外形与软件设置紧密相关，脱离具体任务就难以判断每个按钮的价值。",
+        "significance": "它把输入设备由单一指针工具扩展为可配置的工作入口。与Macintosh的图形界面叙事比较，可以讨论屏幕对象越来越丰富时，怎样用滚动和快捷动作减少反复移动；与IBM PC比较，则能提醒观众，桌面计算体验也由主机之外的部件共同组成。这些关联是本馆的解释，不表示本型号首先发明了横向滚动或多机切换。设计奖提供当时被关注的证据，入选依据仍是操作结构清晰且能展示取舍。它还提供一个有用的判断问题：控制项增加以后，使用者得到的便利是否足以承担学习与设置所花的时间。",
+        "usage": "用户可通过随附Unifying接收器或蓝牙建立无线连接，Easy-Switch用于在已配对的设备间选择。软件允许为应用安排按钮和滚轮用途；Flow跨电脑功能需要两台电脑各自安装相应软件，不能仅靠鼠标硬件实现。USB-C接口用于充电，不能据它推断有线传输指针数据。日常使用因此包括连接、选机、配置与滚动几个环节。本馆以这些动作说明多设备桌面如何被一个输入工具串起，同时保留软件的参与条件。当前系统与软件兼容情况需要再次查询支持资料，本段采用的是原型号功能边界，不承诺旧系统仍获得支持。",
+        "limitations": "较大的右手机身与较高功能密度都有适用范围。RTINGS对该型号的一手评测指出，手型影响握持，较大较重的办公取向也需要与快速游戏动作分别评价。可配置按钮的便利依赖使用者愿意设置和记住用途；多设备功能还需要匹配的连接与软件环境。无线设备仍要充电，充电口存在也没有提供有线数据连接。本馆没有进行人体工学或长时间使用试验，因此不宣称它能预防劳损或适合每个人。它的局限帮助观众看到输入设计的不同目标：精细工作、移动速度、握持舒适与功能数量之间需要作具体选择。",
+        "dateLabel": "2019年9月4日公布（销售月份为当时计划）",
+        "significanceLabel": "策展解读",
+        "features": [
+          "电磁主滚轮、拇指横向滚轮与软件配置形成动作分工。",
+          "接收器或蓝牙进行无线连接，USB-C仅用于充电。"
+        ],
+        "facts": [
+          {
+            "label": "公布",
+            "value": "2019年9月4日；当时计划9月网络与10月门店销售",
+            "sourceIds": [
+              "AMM01"
+            ]
+          },
+          {
+            "label": "连接",
+            "value": "Unifying或蓝牙；最多配对三设备；USB-C充电",
+            "sourceIds": [
+              "AMM02"
+            ]
+          },
+          {
+            "label": "原始设计奖",
+            "value": "Red Dot Product Design 2020普通奖",
+            "sourceIds": [
+              "AMM03"
+            ]
+          },
+          {
+            "label": "产品类型",
+            "value": "办公输入设备",
+            "isEditorialClassification": true
+          }
+        ],
+        "sourceIds": [
+          "AMM01",
+          "AMM02",
+          "AMM03",
+          "AMM04"
+        ],
+        "paragraphSources": {
+          "context": [
+            "AMM01"
+          ],
+          "design": [
+            "AMM01",
+            "AMM02",
+            "AMM03"
+          ],
+          "significance": [
+            "AMM02",
+            "AMM03"
+          ],
+          "usage": [
+            "AMM02"
+          ],
+          "limitations": [
+            "AMM02",
+            "AMM04"
+          ]
+        },
+        "heroMediaId": null,
+        "videoIds": [],
+        "relatedSlugs": [
+          "macintosh-128k",
+          "ibm-pc-5150"
+        ],
+        "reviewedOn": "2026-10-11",
+        "mediaStatus": "text-only-rights-pending",
+        "chronicleIds": []
+      },
+      "readyValidation": {
+        "sectionChineseCharacters": {
+          "context": 174,
+          "design": 196,
+          "significance": 197,
+          "usage": 198,
+          "limitations": 204
+        },
+        "totalChineseCharacters": 969,
+        "minimumTotalChineseCharacters": 825,
+        "mediaFallbackPermitted": true
+      },
+      "chroniclePlacement": {
+        "categoryId": null,
+        "placement": "馆藏only：现五类编年史没有输入设备类别，暂不将鼠标强塞进电脑主机主线。",
+        "stageTransition": "内容上承接图形界面之后的滚动、快捷操作与多设备工作问题。",
+        "comparison": "与Macintosh 128K和IBM PC 5150设置关联阅读，从主机与界面转向外围输入动作；不宣称本型号发明这些动作。",
+        "duplicatePolicy": "2019原版和3S不得混型号、图片、接收器或奖项；未来是否另增3S由新设计问题决定。"
+      }
+    },
+    {
+      "id": "AM-03",
+      "slug": "fairphone-2",
+      "model": "Fairphone 2",
+      "brand": "Fairphone",
+      "regionVersion": "2015欧洲首代；2016新外壳版本暂不归入本件",
+      "year": 2015,
+      "dateLabel": "2015年12月上市（2016年品牌回顾）",
+      "dateKind": "上市年月回顾",
+      "category": "mobile",
+      "status": "适合入选",
+      "rationale": "策展判断：用可替换模块说明手机寿命与供应链责任如何被组织成产品；与馆内触屏及整机迭代叙事形成比较。",
+      "problemAndTradeoffs": "拆装结构并不自动解决软件维护、零件供应或原料责任；这些需要各自证据。",
+      "gapFilled": "可维修手机；欧洲社会设计路线",
+      "sources": [
+        {
+          "id": "AMP01",
+          "title": "Fairphone 2 — D&AD Awards Archive",
+          "publisher": "D&AD",
+          "url": "https://www.dandad.org/work/d-ad-awards-archive/fairphone-2",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2016档案、型号、Impact与Product Design分类可读；白/石墨/木色Pencil图示可见，但图示与各类别的对应关系未完整展开。",
+          "sourceType": "设计奖原始数据库",
+          "independence": "评奖机构原档案",
+          "commercialDisclosure": "具体参赛及推广关系未核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMP02",
+          "title": "Fairphone 2 refreshes its long-lasting modular design with a brand-new look",
+          "publisher": "Fairphone",
+          "url": "https://www.fairphone.com/wp-content/uploads/2016/10/Pressrelease.Fairphone2refreshesitslong-lastingmodulardesignwithabrand-newlook.pdf",
+          "publishedOn": "2016-10-18",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2016发布稿回顾2015年12月进入市场，并介绍2016新盖板；不能将新外壳当首代原貌。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMP03",
+          "title": "Fairphone 2",
+          "publisher": "Seymourpowell",
+          "url": "https://www.seymourpowell.com/case-studies/fairphone-2",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "设计参与方案例，用于模块化手机设计过程；所述其他奖项未另核数据库。",
+          "sourceType": "设计参与方案例",
+          "independence": "参与产品设计，非独立评价",
+          "commercialDisclosure": "设计公司自我宣传",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [
+        {
+          "system": "D&AD Awards",
+          "awardName": "D&AD Pencil",
+          "level": "档案有多个Pencil图示；类别与等级配对待核",
+          "awardYear": 2016,
+          "exactModel": "Fairphone 2",
+          "databaseUrl": "https://www.dandad.org/work/d-ad-awards-archive/fairphone-2",
+          "verifiedScope": "已读年份、型号及类别；不从图片顺序推测每项等级。",
+          "status": "部分核实；等级映射待核"
+        }
+      ],
+      "confidence": "中；待补版本与长期使用证据",
+      "openQuestions": [
+        "补2015原版说明书、第三方拆解、软件支持结束及可换模块清单。",
+        "UK是档案设计信用字段，不能当Fairphone品牌所在地或制造地。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": []
+    },
+    {
+      "id": "AM-04",
+      "slug": "nothing-ear-1",
+      "model": "Ear (1)",
+      "brand": "Nothing",
+      "regionVersion": "2021首代透明TWS；不是Ear (a)、Ear或Ear (open)",
+      "year": 2021,
+      "dateLabel": "2021年7月（同期采访日期可核，厂商精确公布日待补）",
+      "dateKind": "同期媒体记录",
+      "category": "audio",
+      "status": "待核查",
+      "rationale": "策展判断：可把透明外壳放在观看技术与实际维修能力的差异中讨论，与AirPods并列可见品牌如何建立识别。",
+      "problemAndTradeoffs": "透明并不证明可修复；密封、电池维护、佩戴及降噪需版本对应的一手资料。",
+      "gapFilled": "非Apple真无线耳机；外观叙事与内部维护",
+      "sources": [
+        {
+          "id": "AMN01",
+          "title": "Ear (1)",
+          "publisher": "Nothing",
+          "url": "https://checkout-us.nothing.tech/products/ear-1",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "可读旧型号官方页面的透明外观及产品说明；当前价格不能回填2021首发价格。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMN02",
+          "title": "Nothing Ear (1) Wants to Be an AirPods Killer",
+          "publisher": "WIRED",
+          "url": "https://www.wired.com/story/nothing-ear-1-apple-airpods/",
+          "publishedOn": "2021-07-28",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2021同期设计采访与编辑观点，包含对营销节奏的观察；不是年度评选，也未核设计奖。",
+          "sourceType": "媒体设计采访及观点",
+          "independence": "独立媒体采访，含品牌受访者自述",
+          "commercialDisclosure": "该篇联盟链接、样机及赞助未核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中；待补版本与长期使用证据",
+      "openQuestions": [
+        "未找到可确认本精确型号的设计奖原数据库；不得挪用Ear (a)或Ear (open)奖。",
+        "补厂商发布资料与独立拆解后再决定是否与Ear (open)二选一。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": []
+    },
+    {
+      "id": "AM-05",
+      "slug": "teenage-engineering-op-1",
+      "model": "OP-1 original",
+      "brand": "Teenage Engineering",
+      "regionVersion": "2011原版；明确排除2022 OP-1 field",
+      "year": 2011,
+      "dateLabel": "2011年首台出货（品牌十周年回顾）",
+      "dateKind": "首批出货年份回顾",
+      "category": "audio",
+      "status": "适合入选",
+      "rationale": "策展判断：将合成、采样和录音组织进可携带的独立乐器，补充馆藏以播放和聆听为主的声音路线。",
+      "problemAndTradeoffs": "磁带式四轨隐喻既限制工作流程，也引导创作；价格与小键盘并不适合每种制作方式。",
+      "gapFilled": "声音制作；专用创作界面",
+      "sources": [
+        {
+          "id": "AMO01",
+          "title": "OP-1 original overview",
+          "publisher": "Teenage Engineering",
+          "url": "https://teenage.engineering/products/op-1/original/overview",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "明确original产品线；合成、采样、四轨磁带与彩色旋钮界面，未合并field规格。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMO02",
+          "title": "Ten years of OP-1",
+          "publisher": "Teenage Engineering",
+          "url": "https://teenage.engineering/products/op-1/original/anniversary",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "11—21标识与首台出货十周年回顾，支持2011出货年份；不是同时期日级上市记录。",
+          "sourceType": "品牌历史回顾",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMO03",
+          "title": "Teenage Engineering OP1",
+          "publisher": "Sound On Sound",
+          "url": "https://www.soundonsound.com/reviews/teenage-engineering-op1",
+          "publishedOn": "2012-01",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "Paul Nagle同期一手评测，讨论合成与录音工作流程；不是年度奖。",
+          "sourceType": "媒体单件评测",
+          "independence": "音乐技术媒体作者的一手体验",
+          "commercialDisclosure": "样机、联盟链接及赞助未核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中；待补版本与长期使用证据",
+      "openQuestions": [
+        "Design S获奖传闻尚无已读原始档案；不能作为已核奖项。",
+        "OP-1 field的博物馆商店页面不能证明original进入永久馆藏。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": []
+    },
+    {
+      "id": "AM-06",
+      "slug": "dyson-supersonic-2016",
+      "model": "Supersonic original",
+      "brand": "Dyson",
+      "regionVersion": "2016首代；HD01及电压地区版本待补，排除Nural与2026Travel",
+      "year": 2016,
+      "dateLabel": "2016年（品牌发明史及日本2016获奖展览）",
+      "dateKind": "产品出现年份回顾",
+      "category": "home",
+      "status": "适合入选",
+      "rationale": "策展判断：把风道、电机位置与握持关系带入家用电器叙事，补充目前家居设备极少的偏差。",
+      "problemAndTradeoffs": "手柄电机改变配重组织；温控宣传需要辨别测温与实际护发效果，附件、噪声及地区电压仍需实测或说明书。",
+      "gapFilled": "护理家电；结构位置影响动作",
+      "sources": [
+        {
+          "id": "AMD01",
+          "title": "Invention: A Life, chapter 7",
+          "publisher": "Dyson",
+          "url": "https://www.dyson.co.uk/james-dyson/invention-a-life/07",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "品牌回顾2016首代、V9电机置于手柄及该版本温度采样说明；不把新款频率回填首代。",
+          "sourceType": "品牌发明历史回顾",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMD02",
+          "title": "GOOD DESIGN EXHIBITION 2017: GOOD DESIGN BEST 100 of 2016",
+          "publisher": "GOOD DESIGN Marunouchi / JDP",
+          "url": "https://marunouchi.g-mark.org/exhibition24_1.html",
+          "publishedOn": "2017-05",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2017年5月官方展览列出2016 BEST100的Dyson Supersonic；展览年与获奖年分开，未读取单项获奖编号。",
+          "sourceType": "设计奖官方展览档案",
+          "independence": "日本Good Design机构资料",
+          "commercialDisclosure": "奖项展览推广；具体参赛与收费关系未核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [
+        {
+          "system": "GOOD DESIGN AWARD — Japan Institute of Design Promotion",
+          "awardName": "GOOD DESIGN AWARD",
+          "level": "BEST 100",
+          "awardYear": 2016,
+          "exactModel": "Dyson Supersonic",
+          "databaseUrl": null,
+          "verifiedScope": "2016 BEST100官方展览清单确认；单项数据库及型号编号待补，不称2017金奖。",
+          "status": "官方清单已核；单项数据库待补"
+        }
+      ],
+      "confidence": "中；待补版本与长期使用证据",
+      "openQuestions": [
+        "补原始发布稿、首代使用手册、独立试用与精确地区型号。",
+        "没有已核iF 2017 Gold证据；不得加入该声称。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": []
+    },
+    {
+      "id": "AM-07",
+      "slug": "roborock-s7",
+      "model": "Roborock S7",
+      "brand": "Roborock",
+      "regionVersion": "2021原版S7；排除S7 MaxV及Ultra基站套装",
+      "year": 2021,
+      "dateLabel": "2021年1月11日公布（品牌时间轴）；实际地区销售日待补",
+      "dateKind": "产品公布",
+      "category": "home",
+      "status": "适合入选",
+      "rationale": "策展判断：将吸尘与拖地共用路径中遇到地毯的矛盾具体化，代表家庭自动化如何处理真实房间的边界。",
+      "problemAndTradeoffs": "拖布抬升处理部分混合地面；抬升条件、地毯厚度、清洁维护和地图设置仍影响结果，不能说无需照管。",
+      "gapFilled": "中国品牌家用机器人；自动化与环境适配",
+      "sources": [
+        {
+          "id": "AMR01",
+          "title": "About Roborock — company milestones",
+          "publisher": "Roborock",
+          "url": "https://global.roborock.com/pages/about-us",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "品牌时间轴记录2021-01-11 S7；用作公布日期线索而非各国已实际销售日期。",
+          "sourceType": "品牌时间轴",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMR02",
+          "title": "Roborock S7",
+          "publisher": "Roborock",
+          "url": "https://global.roborock.com/pages/roborock-s7",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "精确原版S7的声波拖地、拖布抬升与地面感应产品资料；营销清洁百分比未当独立实测。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMR03",
+          "title": "The 100 greatest innovations of 2021 — Best of What’s New",
+          "publisher": "Popular Science",
+          "url": "https://www.popsci.com/technology/best-of-whats-new-2021/",
+          "publishedOn": "2021-12-01",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2021年度Best of What’s New家居条目包含S7。是当年编辑选品；本条目不能称家居Grand Award。",
+          "sourceType": "媒体年度编辑评选",
+          "independence": "独立媒体年度编辑选择",
+          "commercialDisclosure": "可见购物及联盟跳转链接；该条目赞助关系未核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMR04",
+          "title": "Roborock S7",
+          "publisher": "Red Dot",
+          "url": "https://www.red-dot.org/project/roborock-s7-53189",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原数据库搜索索引读到Product Design 2021及型号；直接页面缓存访问失败，未完整读取等级标识。",
+          "sourceType": "设计奖原数据库索引",
+          "independence": "评奖机构索引正文片段",
+          "commercialDisclosure": "具体参赛和推广关系未核实",
+          "verificationMethod": "搜索索引/可读摘要核查；已取得正文的部分另见verifiedScope，不声称全文已读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMR05",
+          "title": "Roborock S7 review",
+          "publisher": "TechRadar",
+          "url": "https://www.techradar.com/reviews/roborock-s7-vacuum-review",
+          "publishedOn": "2021-04-08",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "David Nield的一手单件评测；不是TechRadar Choice年度奖。",
+          "sourceType": "媒体单件评测",
+          "independence": "独立媒体评测",
+          "commercialDisclosure": "媒体可收取联盟购物佣金；单篇付费合作未核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [
+        {
+          "system": "Red Dot Award: Product Design",
+          "awardName": "Red Dot",
+          "level": "未读完整等级标识",
+          "awardYear": 2021,
+          "exactModel": "Roborock S7",
+          "databaseUrl": "https://www.red-dot.org/project/roborock-s7-53189",
+          "verifiedScope": "原始索引型号与年已读；直接正文未成功加载，不能称Best of the Best。",
+          "status": "索引部分核实；等级待核"
+        }
+      ],
+      "confidence": "中；待补版本与长期使用证据",
+      "openQuestions": [
+        "独立测试不同地毯、维护步骤及本地区上市版本待补。",
+        "未找到原始证据确认其获TechRadar Choice 2021奖，不写入。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": [
+        {
+          "sourceId": "AMR03",
+          "year": 2021,
+          "selection": "Popular Science Best of What’s New",
+          "scope": "S7具体条目，普通年度选择；不是Grand Award",
+          "status": "已核原文",
+          "title": "The 100 greatest innovations of 2021 — Best of What’s New",
+          "url": "https://www.popsci.com/technology/best-of-whats-new-2021/",
+          "checkedOn": "2026-10-11",
+          "commercialDisclosure": "可见购物及联盟跳转链接；该条目赞助关系未核实",
+          "verificationDepth": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读；2021年度Best of What’s New家居条目包含S7。是当年编辑选品；本条目不能称家居Grand Award。",
+          "priceScope": "本研究不采用价格数字；历史价格不作2026购买价格，版本/样机条件依原条目。",
+          "sampleScope": "S7具体条目，普通年度选择；不是Grand Award",
+          "author": "年度编辑团队；S7子条目个人署名未核",
+          "category": "Home（家居）；S7子条目，不是该类Grand Award"
+        }
+      ]
+    },
+    {
+      "id": "AM-08",
+      "slug": "remarkable-2",
+      "model": "reMarkable 2",
+      "brand": "reMarkable",
+      "regionVersion": "2020第二代黑白电子纸；排除Paper Pro及后续订阅功能倒填",
+      "year": 2020,
+      "dateLabel": "2020年3月17日公布",
+      "dateKind": "产品公布",
+      "category": "computing",
+      "status": "适合入选",
+      "rationale": "策展判断：以书写为主要任务的屏幕设备，补充现有iPad和Kindle之间的目的差异。",
+      "problemAndTradeoffs": "聚焦纸笔体验会限制通用应用、颜色与动态内容；云同步和订阅需按时间版本分别讨论。",
+      "gapFilled": "挪威电子纸书写；专用与通用屏幕",
+      "sources": [
+        {
+          "id": "AME01",
+          "title": "reMarkable 2: the next-generation paper tablet",
+          "publisher": "reMarkable",
+          "url": "https://remarkable.com/blog/remarkable-2-the-next-generation-paper-tablet",
+          "publishedOn": "2020-03-17",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2020-03-17第二代公布，纸笔任务及电子纸体验；营销比较不当实测。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AME02",
+          "title": "Inside reMarkable 2, chapter 3: the hardware",
+          "publisher": "reMarkable",
+          "url": "https://remarkable.com/blog/inside-remarkable-2-chapter-3-the-hardware",
+          "publishedOn": "2020-09-18",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2020硬件设计采访；材质、结构及手写目标。",
+          "sourceType": "品牌设计采访",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AME03",
+          "title": "reMarkable 2",
+          "publisher": "Red Dot",
+          "url": "https://www.red-dot.org/project/remarkable-2-53696",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原数据库Product Design 2021及普通Red Dot标识可读；不是Best of the Best。",
+          "sourceType": "工业设计奖原始数据库",
+          "independence": "评奖机构原记录",
+          "commercialDisclosure": "具体参赛与推广关系未核实",
+          "verificationMethod": "原机构项目字段/标识核查，年/级别/型号与访问限制逐项见verifiedScope",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AME04",
+          "title": "reMarkable 2 in TIME’s top 100",
+          "publisher": "reMarkable",
+          "url": "https://remarkable.com/blog/remarkable-2-in-time-top-100",
+          "publishedOn": "2020-11-20",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "品牌声称入选TIME2020，尚未读取对应TIME原文；不列入已核年度媒体选择。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [
+        {
+          "system": "Red Dot Award: Product Design",
+          "awardName": "Red Dot",
+          "level": "Red Dot（普通奖）",
+          "awardYear": 2021,
+          "exactModel": "reMarkable 2",
+          "databaseUrl": "https://www.red-dot.org/project/remarkable-2-53696",
+          "verifiedScope": "原页面年份、型号与普通奖标识已读。",
+          "status": "已核实原数据库正文"
+        }
+      ],
+      "confidence": "中；待补版本与长期使用证据",
+      "openQuestions": [
+        "补实际首批交付日期、同期独立书写评测和2020版软件边界。",
+        "TIME2020原条目待补，品牌公告不是独立年度来源。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": []
+    },
+    {
+      "id": "AM-09",
+      "slug": "xbox-adaptive-controller",
+      "model": "Xbox Adaptive Controller",
+      "brand": "Microsoft / Xbox",
+      "regionVersion": "2018 Xbox One / Windows 10版辅助控制器；不混后续第三方适配开关",
+      "year": 2018,
+      "dateLabel": "2018年9月4日上市",
+      "dateKind": "实际上市",
+      "category": "gaming",
+      "status": "适合入选",
+      "rationale": "策展判断：从预设握持动作转向让玩家布置输入，补充馆内以一般控制器和娱乐性能为主的游戏设备。",
+      "problemAndTradeoffs": "可配置底座需要外接适配开关和个别设置；同一方案不适用于所有人的身体与环境。",
+      "gapFilled": "辅助技术；参与式控制器设计",
+      "sources": [
+        {
+          "id": "AMX01",
+          "title": "Gaming Gets More Inclusive With The Launch Of The Xbox Adaptive Controller",
+          "publisher": "Xbox Wire",
+          "url": "https://news.xbox.com/en-us/2018/09/04/gaming-gets-more-inclusive-with-the-launch-of-the-xbox-adaptive-controller/",
+          "publishedOn": "2018-09-04",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "品牌发布明确2018-09-04起可购买，兼容当时Xbox One及Windows10；合作开发与包装分列，不称所有人都可直接使用。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMX02",
+          "title": "Xbox Adaptive Controller — IDEA Gallery",
+          "publisher": "IDSA",
+          "url": "https://www.idsa.org/awards-recognition/idea/idea-gallery/xbox-adaptive-controller/",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原始索引年份为2021及微软设计团队，直接正文403。",
+          "sourceType": "设计奖原数据库索引",
+          "independence": "评奖机构原索引",
+          "commercialDisclosure": "具体参赛及推广关系未核实",
+          "verificationMethod": "搜索索引/可读摘要核查；已取得正文的部分另见verifiedScope，不声称全文已读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMX03",
+          "title": "2021 International Design Excellence Awards honor world’s best designs",
+          "publisher": "IDSA",
+          "url": "https://www.idsa.org/2021-international-design-excellence-awards-idea-honor-worlds-best-designs/",
+          "publishedOn": "2021-09-21",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "主办方原始索引明确2021 Consumer Technology Gold和Best in Show；正文403，页面全部字段未读。",
+          "sourceType": "设计奖主办方结果公告索引",
+          "independence": "评奖机构原索引",
+          "commercialDisclosure": "具体参赛及推广关系未核实",
+          "verificationMethod": "搜索索引/可读摘要核查；已取得正文的部分另见verifiedScope，不声称全文已读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMX04",
+          "title": "Xbox Adaptive Controls: Which Switch Is Best?",
+          "publisher": "PL Tech Reviews / Phoebs Lyle",
+          "url": "https://pltechreviews.co.uk/2019/07/19/xbox-adaptive-controls-which-switch-is-best/",
+          "publishedOn": "2019-07-19",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "残障用户博主讲述自购外接开关与个人操作；一手个人体验，不是年度奖，也不能代表所有障碍类型。",
+          "sourceType": "博主个人使用与评论",
+          "independence": "用户第一人称；文章2023-01-21有更新",
+          "commercialDisclosure": "可见自购表述；未找到完整赞助或联盟披露，未核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMX05",
+          "title": "Xbox Adaptive Controller wins top design prize at D&AD Festival",
+          "publisher": "Microsoft UK",
+          "url": "https://ukstories.microsoft.com/features/xbox-adaptive-controller-wins-top-design-prize-at-dad-festival/",
+          "publishedOn": "2019-05-24",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "品牌报告2019 D&AD Black Pencil；对应D&AD原数据库尚未补。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原机构项目字段/标识核查，年/级别/型号与访问限制逐项见verifiedScope",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [
+        {
+          "system": "IDEA — Industrial Designers Society of America",
+          "awardName": "IDEA",
+          "level": "Consumer Technology Gold；Best in Show",
+          "awardYear": 2021,
+          "exactModel": "Xbox Adaptive Controller",
+          "databaseUrl": "https://www.idsa.org/awards-recognition/idea/idea-gallery/xbox-adaptive-controller/",
+          "verifiedScope": "两个IDSA原始索引相互确认年、奖类与型号；正文403，需补全记录。获奖年2021，不是2019。",
+          "status": "原始索引已核；正文受限"
+        },
+        {
+          "system": "D&AD Awards",
+          "awardName": "D&AD Pencil",
+          "level": "Black Pencil（品牌报告）",
+          "awardYear": 2019,
+          "exactModel": "Xbox Adaptive Controller",
+          "databaseUrl": null,
+          "verifiedScope": "微软官方报道；原奖项数据库未读。",
+          "status": "待核查"
+        }
+      ],
+      "confidence": "中；待补版本与长期使用证据",
+      "openQuestions": [
+        "补原版输入端口说明和可配置范围；不把底座与外接配件作为同一件产品。",
+        "IDEA及D&AD需要可读原数据库字段才能进入最终奖项标签。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": []
+    },
+    {
+      "id": "AM-10",
+      "slug": "nintendo-labo-toy-con-01",
+      "model": "Nintendo Labo Toy-Con 01: Variety Kit",
+      "brand": "Nintendo",
+      "regionVersion": "欧洲2018版；以官方欧洲上市日期定位，不合并Robot/Vehicle/VR套件",
+      "year": 2018,
+      "dateLabel": "2018年4月27日欧洲上市（澳洲页面为4月20日）",
+      "dateKind": "地区实际上市",
+      "category": "making",
+      "status": "适合入选",
+      "rationale": "策展判断：让纸板结构、组装与屏幕反馈连接起来，提供制作和游戏之间的具体例子。",
+      "problemAndTradeoffs": "需要Nintendo Switch和指定Joy-Con；纸板占用时间与空间，后来的OLED机身与部分Toy-Con不兼容。",
+      "gapFilled": "日本纸板交互；让机构可见的制作教育",
+      "sources": [
+        {
+          "id": "AML01",
+          "title": "Make, play and discover — Nintendo Labo launches in Europe today",
+          "publisher": "Nintendo UK",
+          "url": "https://www.nintendo.com/en-gb/News/2018/April/Make-play-and-discover-Nintendo-Labo-launches-in-Europe-today-1372012.html",
+          "publishedOn": "2018-04-27",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2018-04-27欧洲已上市，Toy-Con01五类作品与需Switch明确；地区日期不套用日本/美国。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AML02",
+          "title": "Nintendo Labo Variety Kit",
+          "publisher": "Nintendo Australia",
+          "url": "https://www.nintendo.com/au/games/nintendo-switch/nintendo-labo-variety-kit",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "澳洲发行日期2018-04-20，当前官方兼容提示OLED不适用Toy-Con Piano/Bike；后续兼容说明不当2018已知事实。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AML03",
+          "title": "Nintendo Labo — Best Inventions 2018",
+          "publisher": "TIME",
+          "url": "https://time.com/collections/best-inventions-2018/5454313/nintendo-labo/",
+          "publishedOn": "2018-11-15",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2018年度Best Inventions条目针对Labo系列，含piano与Robot等示例；不能说Toy-Con01单独获奖。",
+          "sourceType": "媒体年度编辑评选",
+          "independence": "独立媒体年度编辑选择",
+          "commercialDisclosure": "站级可能获得商品链接佣金；单篇赞助与联盟链接未完整核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AML04",
+          "title": "Nintendo Labo review",
+          "publisher": "TIME",
+          "url": "https://time.com/5244911/nintendo-labo-review/",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "Lisa Eadicicco单件试用Variety Kit；与年度系列选择分开。",
+          "sourceType": "媒体单件评测",
+          "independence": "独立媒体一手试用",
+          "commercialDisclosure": "该篇联盟、样机与赞助关系未核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中；待补版本与长期使用证据",
+      "openQuestions": [
+        "未找到日本Good Design2018本精确型号原始记录；不据品牌其他奖项列表推断。",
+        "组装手册、红外读取原理和可替换纸板官方资料待补。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": [
+        {
+          "sourceId": "AML03",
+          "year": 2018,
+          "selection": "TIME Best Inventions 2018",
+          "scope": "Labo系列年度条目，涵盖Variety Kit内容；不是本套件独立奖项",
+          "status": "系列范围已核",
+          "title": "Nintendo Labo — Best Inventions 2018",
+          "url": "https://time.com/collections/best-inventions-2018/5454313/nintendo-labo/",
+          "checkedOn": "2026-10-11",
+          "commercialDisclosure": "站级可能获得商品链接佣金；单篇赞助与联盟链接未完整核实",
+          "verificationDepth": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读；2018年度Best Inventions条目针对Labo系列，含piano与Robot等示例；不能说Toy-Con01单独获奖。",
+          "priceScope": "本研究不采用价格数字；历史价格不作2026购买价格，版本/样机条件依原条目。",
+          "sampleScope": "Labo系列年度条目，涵盖Variety Kit内容；不是本套件独立奖项",
+          "author": "原年度条目个人署名未核；不补造",
+          "category": "Labo系列年度发明条目；Toy-Con01不是单独获奖对象"
+        }
+      ]
+    },
+    {
+      "id": "AM-11",
+      "slug": "asus-zenfone-10",
+      "model": "Zenfone 10",
+      "brand": "ASUS",
+      "regionVersion": "2023全球5.9英寸版；具体地区SKU待补，排除Zenfone9/11Ultra",
+      "year": 2023,
+      "dateLabel": "2023年6月29日公布",
+      "dateKind": "产品公布",
+      "category": "mobile",
+      "status": "待核查",
+      "rationale": "策展判断：用台湾品牌的小尺寸旗舰讨论同一时期屏幕扩大的另一条选择，补充手机馆藏尺寸策略的比较。",
+      "problemAndTradeoffs": "较小机身与操作范围有关系，但是否便于单手使用需个体手型；性能和续航宣传不能代替实测。",
+      "gapFilled": "台湾品牌；小尺寸旗舰策略",
+      "sources": [
+        {
+          "id": "AMZ01",
+          "title": "ASUS unveils the mighty new Zenfone 10",
+          "publisher": "ASUS",
+          "url": "https://press.asus.com/news/press-releases/asus-unveils-the-mighty-new-zenfone10",
+          "publishedOn": "2023-06-29",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2023-06-29公布，5.9英寸与Snapdragon8Gen2、加入Qi充电；高刷新率条件未展开，不写无条件144Hz。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMZ02",
+          "title": "Smartphone Awards 2023!",
+          "publisher": "Marques Brownlee / MKBHD",
+          "url": "https://www.youtube.com/watch?v=JkRXhe3KaPE",
+          "publishedOn": "2023-12-19",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原视频日期标题、设备清单和3:55 Best Compact Phone章节可读；没有逐帧或字幕核验该段具体获奖者。",
+          "sourceType": "博主年度视频评选",
+          "independence": "博主个人年度判断；不是工业设计奖",
+          "commercialDisclosure": "含产品链接和自营周边线索；该期赞助、联盟关系未完整核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMZ03",
+          "title": "MKBHD Smartphone Awards 2023 thread mirror",
+          "publisher": "Thread Reader（转录MKBHD帖子）",
+          "url": "https://threadreaderapp.com/thread/1737497889784352948",
+          "publishedOn": "2023-12-20",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "转载线程明列Best Compact Phone为Asus Zenfone10；原Twitter帖子403。只作年度赢家核查线索，未采用帖子技术描述。",
+          "sourceType": "作者年度观点的转载线索",
+          "independence": "非原帖平台，不与MKBHD算两家独立来源",
+          "commercialDisclosure": "镜像站商业关系与该年度视频披露未核实",
+          "verificationMethod": "地址或原机构索引/页面壳定位；正文或关键字段读取受限，详见verifiedScope",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中；待补版本与长期使用证据",
+      "openQuestions": [
+        "观看原视频3:55片段或读取原帖，核实具体赢家后才写已核年度奖。",
+        "本型号设计奖原数据库未找到；不得套用同家其他产品。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": [
+        {
+          "sourceId": "AMZ02",
+          "year": 2023,
+          "selection": "MKBHD Smartphone Awards: Best Compact Phone",
+          "scope": "原视频年度与章节已核；具体Zenfone10赢家经作者线程镜像，原片段待核",
+          "status": "部分核实，不作最终获奖标签",
+          "title": "Smartphone Awards 2023!",
+          "url": "https://www.youtube.com/watch?v=JkRXhe3KaPE",
+          "checkedOn": "2026-10-11",
+          "commercialDisclosure": "含产品链接和自营周边线索；该期赞助、联盟关系未完整核实",
+          "verificationDepth": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读；原视频日期标题、设备清单和3:55 Best Compact Phone章节可读；没有逐帧或字幕核验该段具体获奖者。",
+          "priceScope": "原年度清单价格及比较条件未逐项核查；不用于技术或价格结论。",
+          "sampleScope": "原视频年度与章节已核；具体Zenfone10赢家经作者线程镜像，原片段待核",
+          "author": "Marques Brownlee / MKBHD",
+          "category": "Best Compact Phone（原视频3:55章节）"
+        }
+      ]
+    },
+    {
+      "id": "AM-12",
+      "slug": "lg-stanbyme-go-27lx5qkna",
+      "model": "LG StanbyME Go 27LX5QKNA",
+      "brand": "LG",
+      "regionVersion": "2023美国27LX5QKNA；其他地区尾码待核，排除StandbyME/StanbyME2",
+      "year": 2023,
+      "dateLabel": "2023年8月15日美国公布（8月预售与交货为当时计划）",
+      "dateKind": "地区产品公布",
+      "category": "home",
+      "status": "适合入选",
+      "rationale": "策展判断：把屏幕、支架、电池和运输箱合并，讨论家庭电视如何从固定摆放转向临时布置。",
+      "problemAndTradeoffs": "所谓便携需要搬运整套箱体，续航随应用和网络改变，联网与订阅也影响使用；不从宣传推导户外防水。",
+      "gapFilled": "韩国屏幕家电；场所与运输结构",
+      "sources": [
+        {
+          "id": "AMG01",
+          "title": "LG takes TV beyond the living room with StanbyME Go",
+          "publisher": "LG USA Newsroom",
+          "url": "https://www.lg.com/us/newsroom/media-entertainment/lg-takes-tv-beyond-the-living-room-with-standbyme-go",
+          "publishedOn": "2023-08-15",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2023-08-15美国发布及预售计划，27英寸可调屏、运输箱、电池与webOS；计划交货不等于已交付。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMG02",
+          "title": "LG StanbyME Go 27 Inch Briefcase Design Touch Screen",
+          "publisher": "LG USA",
+          "url": "https://www.lg.com/us/tvs/lg-27lx5qkna",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "型号27LX5QKNA、1080p触控、旋转与平放、HDMI/USB及联网内容。电池最高3小时附条件；未称每次3小时。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMG03",
+          "title": "LG StanbyME Go",
+          "publisher": "Red Dot",
+          "url": "https://www.red-dot.org/project/lg-stanbyme-go-70394",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原数据库Product Design 2024、普通Red Dot标识、产品与韩国品牌信用字段；未把其他分类重复条目计为多个产品。",
+          "sourceType": "工业设计奖原始数据库",
+          "independence": "评奖机构原记录",
+          "commercialDisclosure": "具体参赛与推广关系未核实",
+          "verificationMethod": "原机构项目字段/标识核查，年/级别/型号与访问限制逐项见verifiedScope",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [
+        {
+          "system": "Red Dot Award: Product Design",
+          "awardName": "Red Dot",
+          "level": "Red Dot（普通奖）",
+          "awardYear": 2024,
+          "exactModel": "LG StanbyME Go",
+          "databaseUrl": "https://www.red-dot.org/project/lg-stanbyme-go-70394",
+          "verifiedScope": "原记录年份、品牌、产品名与普通奖标识已读；地区SKU由美国官方商品页补足。",
+          "status": "已核实原数据库正文"
+        }
+      ],
+      "confidence": "中；待补版本与长期使用证据",
+      "openQuestions": [
+        "补独立搬运、触控与电池使用评测；尺寸及重量需要本SKU规格表。",
+        "年度媒体评选本型号未核实；工业设计奖与使用测试分开。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": []
+    },
+    {
+      "id": "AM-13",
+      "slug": "sony-aibo-ers-1000",
+      "model": "aibo ERS-1000",
+      "brand": "Sony",
+      "regionVersion": "日本2018第二轮aibo产品；排除1999 ERS-110与后续地区服务版本",
+      "year": 2018,
+      "dateLabel": "2017年11月1日公布；日本2018年1月11日上市",
+      "dateKind": "地区上市",
+      "category": "home",
+      "status": "适合入选",
+      "rationale": "策展判断：展示家用机器人以回应、动作和外形维持关系的设计目标，与清洁机器人任务导向形成比较。",
+      "problemAndTradeoffs": "情感互动不能当疗效；联网服务、持续照料、维护和用户理解会影响体验。",
+      "gapFilled": "日本社交机器人；家庭关系与自动化",
+      "sources": [
+        {
+          "id": "AMA01",
+          "title": "Sony launches new aibo entertainment robot",
+          "publisher": "Sony",
+          "url": "https://www.sony.com/en/SonyInfo/News/Press/201711/17-105E/",
+          "publishedOn": "2017-11-01",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原始2017-11-01公告，ERS-1000与日本2018-01-11发售；不把ERS-110历史转作本件日期。",
+          "sourceType": "品牌原始资料",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMA02",
+          "title": "GOOD DESIGN EXHIBITION 2018 award list",
+          "publisher": "JDP / Good Design",
+          "url": "https://archive.g-mark.org/gde/2018/",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "官方2018展览清单明确aibo为金奖；大奖另为其他项目，不能写aibo大奖。",
+          "sourceType": "设计奖官方获奖展览清单",
+          "independence": "日本奖项主办方原始档案",
+          "commercialDisclosure": "奖项展示推广；具体参赛与费用未核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMA03",
+          "title": "Entertainment robot — Good Design gallery",
+          "publisher": "JDP / Good Design",
+          "url": "https://www.g-mark.org/gallery/winners/9df096c4-803d-11ed-af7e-0242ac130002",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "已尝试动态单项数据库；只读到标题壳，年份等级型号字段未呈现。",
+          "sourceType": "设计奖数据库动态详情受限",
+          "independence": "原数据库地址，非完整字段核验",
+          "commercialDisclosure": "未核实",
+          "verificationMethod": "地址或原机构索引/页面壳定位；正文或关键字段读取受限，详见verifiedScope",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMA04",
+          "title": "Focused Issues 2018: aibo design interview",
+          "publisher": "Good Design Journal",
+          "url": "https://journal.g-mark.org/en/posts/focusedissues2018_001",
+          "publishedOn": "2018-12-31",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "2018设计者访谈，说明外形与动作的关系；访谈者自述和编辑解释分开，不作使用疗效证明。",
+          "sourceType": "奖项机构设计访谈",
+          "independence": "主办方编辑采访品牌设计者；不是独立使用试验",
+          "commercialDisclosure": "奖项机构推广语境；单篇商业关系未核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [
+        {
+          "system": "GOOD DESIGN AWARD — Japan Institute of Design Promotion",
+          "awardName": "GOOD DESIGN AWARD",
+          "level": "Gold Award（金奖）",
+          "awardYear": 2018,
+          "exactModel": "aibo；ERS-1000由Sony原始发布资料校准",
+          "databaseUrl": "https://www.g-mark.org/gallery/winners/9df096c4-803d-11ed-af7e-0242ac130002",
+          "verifiedScope": "2018金奖在官方展览清单核实；动态单项数据库字段未读，不声称完整数据库复核。",
+          "status": "官方清单核实；动态详情待补"
+        }
+      ],
+      "confidence": "中；待补版本与长期使用证据",
+      "openQuestions": [
+        "补日本软件服务条件、维护说明与用户评论；不要推导陪伴能替代医疗或照护。",
+        "单项数据库的获奖编号与精确型号字段待取得可读文本。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": []
+    },
+    {
+      "id": "AM-14",
+      "slug": "irobot-roomba-2002",
+      "model": "Roomba（first-generation）",
+      "brand": "iRobot",
+      "regionVersion": "2002第一代美国产品；具体型号编号与实物差异待补",
+      "year": 2002,
+      "dateLabel": "2002年（Smithsonian馆藏记录的上市年份）",
+      "dateKind": "博物馆记录上市年",
+      "category": "home",
+      "status": "待核查",
+      "rationale": "策展判断：为2021 S7提供早期家庭自动清洁比较：能否自主移动与能否理解复杂地面是不同阶段的问题。",
+      "problemAndTradeoffs": "早期碰撞与边界控制仍需要布置环境和维护；具体算法不得由馆藏外观推断。",
+      "gapFilled": "2000年代家居电子；家用机器人历史",
+      "sources": [
+        {
+          "id": "AMQ01",
+          "title": "Roomba Robotic Vacuum Cleaner",
+          "publisher": "Smithsonian National Museum of American History",
+          "url": "https://www.si.edu/object/nmah_1448432",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "第一代Roomba、2002进入市场、碰撞/红外及Virtual Wall描述可读；该馆藏记录不是地区型号完整说明书。",
+          "sourceType": "博物馆实物记录",
+          "independence": "第三方博物馆馆藏说明",
+          "commercialDisclosure": "馆藏为赠与；记录元数据CC0，照片明确Usage Conditions Apply，不能推导照片CC0",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中低：只有一份原始博物馆记录，适合历史池，未就绪",
+      "openQuestions": [
+        "补2002原版厂商说明书、精确型号编号及同期评测。",
+        "同馆藏在americanhistory.si.edu的镜像不算第二个独立来源。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": []
+    },
+    {
+      "id": "AM-15",
+      "slug": "nothing-ear-open",
+      "model": "Ear (open)",
+      "brand": "Nothing",
+      "regionVersion": "开放耳挂式；具体地区SKU与2024首次公布日期待核",
+      "year": 2024,
+      "dateLabel": "2024年（二手发现线索；原始发布年份待补）",
+      "dateKind": "待核查公布年份",
+      "category": "audio",
+      "status": "待核查",
+      "rationale": "策展判断：与入耳降噪形成可解释的目标差异：持续听见环境、佩戴与泄漏声音之间如何取舍。与Ear(1)不宜只因同品牌同时入选。",
+      "problemAndTradeoffs": "耳道开放与隔绝环境是不同设计目标；音质、漏音、佩戴稳定和耳型差异需要独立实测，不接受评委无损音质赞语作事实。",
+      "gapFilled": "开放式无线耳机；环境听觉与个人声音",
+      "sources": [
+        {
+          "id": "AMU01",
+          "title": "Nothing Ear (open)",
+          "publisher": "Red Dot",
+          "url": "https://www.red-dot.org/project/nothing-ear-open-78389",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "同一原数据库搜索索引明确Back Product Design 2025 Nothing Ear (open)；直接页可见普通Red Dot标识。年份由项目索引核实，并非只取页面颁奖页眉。评委音质与舒适赞语不当测试事实。",
+          "sourceType": "工业设计奖原始数据库",
+          "independence": "评奖机构记录；声音与舒适赞语是评委意见",
+          "commercialDisclosure": "具体参赛与推广关系未核实",
+          "verificationMethod": "搜索索引/可读摘要核查；已取得正文的部分另见verifiedScope，不声称全文已读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMU02",
+          "title": "Nothing Ear (open) support",
+          "publisher": "Nothing",
+          "url": "https://support.nothing.tech/hc/en-us/categories/28228456535185-Nothing-Ear-open",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "官方说明耳挂调整、耳型差异及充电方式；未采用其排除全部健康风险的宣传表达。",
+          "sourceType": "厂商支持文档",
+          "independence": "品牌自述；非独立评测",
+          "commercialDisclosure": "品牌官方页面；商业目的明确",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMU03",
+          "title": "Ear (open)",
+          "publisher": "Nothing.wiki",
+          "url": "https://nothing.wiki/hardware/ear_open",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "仅用作发现2024-09-24公布和2024-10-01销售线索；未取得原始发布稿，不将日级日期列为已核。",
+          "sourceType": "二手发现线索",
+          "independence": "社区资料，不是品牌原稿",
+          "commercialDisclosure": "商业关系未核实",
+          "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        },
+        {
+          "id": "AMU04",
+          "title": "Nothing Ear (open) — iF project 714657",
+          "publisher": "iF Design",
+          "url": "https://ifdesign.com/en/winner-ranking/project/nothing-ear-open/714657",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "索引定位到型号；原始获奖年份等级未完整读取，不能发布已核奖。",
+          "sourceType": "工业设计奖数据库线索",
+          "independence": "评奖机构地址，字段待核",
+          "commercialDisclosure": "未核实",
+          "verificationMethod": "搜索索引/可读摘要核查；已取得正文的部分另见verifiedScope，不声称全文已读",
+          "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。"
+        }
+      ],
+      "awards": [
+        {
+          "system": "Red Dot Award: Product Design",
+          "awardName": "Red Dot",
+          "level": "Red Dot（普通奖）",
+          "awardYear": 2025,
+          "exactModel": "Nothing Ear (open)",
+          "databaseUrl": "https://www.red-dot.org/project/nothing-ear-open-78389",
+          "verifiedScope": "精确型号和普通Red Dot标识由原页面核实；Product Design 2025由同一原数据库项目索引复核。",
+          "status": "已核原页面型号等级及原始项目索引年份"
+        },
+        {
+          "system": "iF Design Award",
+          "awardName": "iF Design Award",
+          "level": "未核",
+          "awardYear": null,
+          "exactModel": "Nothing Ear (open)",
+          "databaseUrl": "https://ifdesign.com/en/winner-ranking/project/nothing-ear-open/714657",
+          "verifiedScope": "原始字段待核，搜索发现不替代完整记录。",
+          "status": "待核查"
+        }
+      ],
+      "confidence": "中；待补版本与长期使用证据",
+      "openQuestions": [
+        "补原始2024发布稿、具体区域版本与独立开放耳机评测。",
+        "与Ear(1)按填补缺口二选一或分别说明不同设计问题，不能按获奖数量入选。"
+      ],
+      "media": {
+        "imageStatus": "未登记可发布图片",
+        "videoStatus": "未登记可嵌入视频",
+        "modelMatch": "图片及视频需单独确认本型号、地区版本和年代",
+        "rights": "来源可读不等于素材可转载；未取得图片或视频使用授权",
+        "fallback": "纯文字展签；heroMediaId=null，videoIds=[]，不得以其他代产品图片代替"
+      },
+      "verifiedFacts": [],
+      "annualMediaSelections": []
+    }
+  ],
+  "integrationReview": {
+    "checkedOn": "2026-10-11",
+    "reviewer": "主整合，响应显式medium只读复核",
+    "changes": "统一verificationMethod/limits并保留原限制；ready品类标签沿用现有分类；Framework具体来源范围和年度媒体披露补齐。",
+    "limit": "没有把来源层级提升为全文核查；候选身份和未决项原样保留。"
+  }
+}

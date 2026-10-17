@@ -1,0 +1,110 @@
+{
+  "checkedOn": "2026-10-15",
+  "scope": "Only five requested models; no Commons requests; no Freestyle duplicate",
+  "acceptedCandidateCount": 1,
+  "reviews": [
+    {
+      "slug": "samsung-galaxy-xr",
+      "status": "approved",
+      "candidate": {
+        "slug": "samsung-galaxy-xr",
+        "provider": "samsung-newsroom-kr",
+        "title": "Galaxy XR 韩国发布现场展示原始照片14（2025-10-23）",
+        "sourcePage": "https://news.samsung.com/kr/%EB%AC%B4%ED%95%9C%EC%9C%BC%EB%A1%9C-%ED%99%95%EC%9E%A5%ED%95%98%EB%8A%94-%EA%B0%80%EB%8A%A5%EC%84%B1%C2%B7%C2%B7%C2%B7-%EC%82%BC%EC%84%B1%EC%9D%98-%EC%B2%AB-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4",
+        "original": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2025/10/22181415/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B0%A4%EB%9F%AD%EC%8B%9C-XR-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9CXR-%EB%AF%B8%EB%94%94%EC%96%B4%EB%B8%8C%EB%A6%AC%ED%95%91-14.jpg",
+        "thumbnail": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2025/10/22181415/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EB%AA%A8%EB%B0%94%EC%9D%BC-%EA%B0%A4%EB%9F%AD%EC%8B%9C-XR-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9CXR-%EB%AF%B8%EB%94%94%EC%96%B4%EB%B8%8C%EB%A6%AC%ED%95%91-14.jpg",
+        "artist": "Samsung Electronics / Samsung Newsroom Korea",
+        "creator": "Samsung Electronics / Samsung Newsroom Korea",
+        "license": "Samsung Newsroom Korea 原图转载许可（禁止改动）",
+        "licenseUrl": "https://news.samsung.com/kr/삼성전자-뉴스룸-콘텐츠-이용에-대한-안내",
+        "description": "2025年10月22日首尔三星江南Galaxy XR商用发布活动现场展示；原稿于10月23日刊登，照片本身为原始双视角组合。",
+        "publicationDate": "2025-10-23",
+        "originalSha256": "1272583677b73bc02ca7a98d49a437c7b7e0465c0aee6a8c4a3f73abea17b503",
+        "localFile": "docs/evidence/photo-expansion/round3/samsung-galaxy-xr-original.jpg",
+        "metadata": {
+          "Artist": {
+            "value": "Samsung Electronics / Samsung Newsroom Korea"
+          },
+          "ObjectName": {
+            "value": "Galaxy XR launch briefing original photograph 14"
+          }
+        },
+        "caption": "2025年10月韩国Galaxy XR商用发布现场的实物展示；原图含两个角度，保持三星发布的原始JPEG，不裁切、转码或改画。",
+        "modelVerification": "原稿明确10月22日韩国首次商用产品发布活动，末幅图注为三星江南媒体简报展示的Galaxy XR。原图展台印有Galaxy XR，机身传感器、镜片和头带可见，排除2024 Project Moohan原型资料。",
+        "visualReview": "亲自单张查看1000×333原始JPEG：展台实拍的两个角度组成原图；无底部SamsungNewsroom受限水印，无外部署名或外部图片来源标记。未进行任何图像加工。",
+        "primaryLicenseVerification": {
+          "checkedOn": "2026-10-15",
+          "directProductionVerified": true,
+          "noRestrictedWatermarkVerified": true,
+          "noExternalBylineVerified": true,
+          "preserveOriginal": true,
+          "termsArchive": "docs/evidence/photo-expansion/round3/samsung-kr-content-permission.html",
+          "termsSha256": "6231743d49858dd74157efa2b473b7eb531ae405cca452b75aeebb63d0c7fdf2",
+          "sourcePageArchive": "docs/evidence/photo-expansion/round3/samsung-galaxy-xr-source.html",
+          "scope": "原稿说明新闻室编辑亲赴现场并包含文尾自制文章与图片自由使用说明；页面作者为三星电子新闻室，无标题旁外部署名。按KR指南逐图排除底部受限水印。不得加工，必须原字节转载。"
+        },
+        "status": "approved-candidate"
+      }
+    },
+    {
+      "slug": "samsung-micro-rgb-r95h-65",
+      "status": "unresolved-exact-size",
+      "queries": [
+        "site:news.samsung.com/kr R95H",
+        "site:news.samsung.com/kr R95H 65형",
+        "site:news.samsung.com/kr R95H 65"
+      ],
+      "sourcePages": [
+        "https://news.samsung.com/kr/삼성전자-마이크로-rgb-tv-눈-안전성-생체-리",
+        "https://news.samsung.com/global/samsung-unveils-worlds-first-130-inch-micro-rgb-tv-featuring-next-generation-color-and-bold-new-design",
+        "https://news.samsung.com/us/samsung-new-standard-color-micro-rgb-tv-lineup/"
+      ],
+      "obstacle": "KR检索返回R95H系列认证和评奖图，没有照片明确65寸证据。CES图明确130寸；US上市表证实65寸存在，但不能把系列场景图当作65寸实物。未下载不合尺寸候选。"
+    },
+    {
+      "slug": "samsung-the-sero-ls05t",
+      "status": "unresolved-generation",
+      "queries": [
+        "site:news.samsung.com/kr LS05T",
+        "site:news.samsung.com/kr 더 세로 2020 43",
+        "site:news.samsung.com/kr 2020 더 세로 스페이스 화이트 사진"
+      ],
+      "sourcePages": [
+        "https://news.samsung.com/kr/삼성전자-2020년형-qled-tv-국내-출시",
+        "https://news.samsung.com/kr/핫-플레이스에서-만나는-삼성전자-라이프스타일-tv"
+      ],
+      "obstacle": "2020发布稿证明当年Sero为43寸并新增白色，但配图为QLED8K而非Sero。2020店内场景仅标43寸Sero，未证LS05T而非2019LS05R，故不进口。"
+    },
+    {
+      "slug": "lg-signature-oled-r-rx",
+      "status": "licensed-photo-but-model-and-artwork-unresolved",
+      "queries": [
+        "LG OLED R RX 2020 LGEPR Flickr",
+        "site:flickr.com/photos/lge 롤러블 2020",
+        "site:flickr.com/photos/lge LG 시그니처 올레드 R"
+      ],
+      "sourcePage": "https://www.flickr.com/photos/lge/52426213324/",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "primaryLicenseVerification": "亲自读取LGEPR官方Flickr原页，Some rights reserved链接明确到CC BY2.0；已存原页HTML。",
+      "sourcePageArchive": "docs/evidence/photo-expansion/round3/lg-signature-oled-r-flickr-source.html",
+      "reviewImage": "docs/evidence/photo-expansion/round3/lg-signature-oled-r-review.jpg",
+      "visualReview": "亲自查看1024px下载图，2022 Frieze London大面积装置艺术场景，多个卷轴屏幕，非2020原始RX展台铭牌。",
+      "obstacle": "原描述只有LG SIGNATURE OLED R而未写RX型号；装置艺术占画面主体，照片CC许可不充分说明底层艺术权利。保留证据，不核准进口。"
+    },
+    {
+      "slug": "lg-oled-evo-m5-65",
+      "status": "unresolved-exact-model-size",
+      "queries": [
+        "LG OLED M5 65 LGEPR Flickr",
+        "site:flickr.com/photos/lge M5 65",
+        "site:flickr.com/photos/lge 올레드 M5",
+        "site:flickr.com/photos/lge 올레드 2025 무선 65"
+      ],
+      "sourcePages": [
+        "https://www.lge.co.kr/business/care-solutions/tvs/oled65m5kna-wall2"
+      ],
+      "obstacle": "原厂产品页可确认OLED65M5KNA存在，但定向Flickr查询未找到明确M5且65寸的获许可实拍；不取其他97寸艺术展或83M5 CES图替代。"
+    }
+  ]
+}

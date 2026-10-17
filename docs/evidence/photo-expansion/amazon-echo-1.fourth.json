@@ -1,0 +1,670 @@
+{
+  "slug": "amazon-echo-1",
+  "name": "Echo（初代）",
+  "regionVersion": "美国初代黑色圆柱；排除2017日本第二代",
+  "query": "\"Amazon\" AND \"Echo\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Amazon Echo Dot 5 mit Uhr.jpg",
+      "pageid": 131602870,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Amazon_Echo_Dot_5_mit_Uhr.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Amazon_Echo_Dot_5_mit_Uhr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Amazon_Echo_Dot_5_mit_Uhr.jpg/960px-Amazon_Echo_Dot_5_mit_Uhr.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-05-06 15:40:08",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Amazon Echo Dot 5 mit Uhr",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Amazon Alexa|Amazon Echo|Self-published work|Uploaded with Mobile/Android|Photographs taken on 2023-05-06",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Amazon Echo Dot 5 mit Uhr <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Amazon_Echo_Dot_5_mit_Uhr.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "6 May 2023 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Aktulisert&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Aktulisert (page does not exist)\">Aktulisert</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Amazon Echo Dot 5 mit Uhr",
+      "artist": "Aktulisert",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "6 May 2023 (according to   Exif   data)"
+    },
+    {
+      "title": "File:Echo Show 5 2. Gen..jpg",
+      "pageid": 131603072,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Echo_Show_5_2._Gen..jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Echo_Show_5_2._Gen..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Echo_Show_5_2._Gen..jpg/960px-Echo_Show_5_2._Gen..jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-05-06 15:46:45",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Echo Show 5 2. Gen.",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Amazon Alexa|Amazon Echo|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|Photographs taken on 2023-05-06",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "37.361997",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-152.336925",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Echo Show 5 2. Gen.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "6 May 2023 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Aktulisert&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Aktulisert (page does not exist)\">Aktulisert</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Echo Show 5 2. Gen.",
+      "artist": "Aktulisert",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "6 May 2023 (according to   Exif   data)"
+    },
+    {
+      "title": "File:EUR 1992-1970.pdf",
+      "pageid": 99603573,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:EUR_1992-1970.pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/EUR_1992-1970.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/EUR_1992-1970.pdf/page1-960px-EUR_1992-1970.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2021-02-05 20:23:59",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nCommission Regulation (EEC) No 1970-92 of 30 June 1992 amending Council Regulation (EEC) No 3626-82 on the implementation in the Community of the Convention on international trade in endangered species of wild fauna and flora</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "OGL v3.0|Files with no machine-readable author|European Union Regulations|Images uploaded by Fæ|Books without Wikidata item",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Commission Regulation (EEC) No 1970-92 of 30 June 1992 amending Council Regulation (EEC) No 3626-82 on the implementation in the Community of the Convention on international trade in endangered species of wild fauna and flora",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"http://www.legislation.gov.uk/id/eur/1992/1970\">http://www.legislation.gov.uk/id/eur/1992/1970</a>\n</p>\n<dl><dd>PDF: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.legislation.gov.uk/eur/1992/1970/pdfs/eur_19921970_adopted_en.pdf\">http://www.legislation.gov.uk/eur/1992/1970/pdfs/eur_19921970_adopted_en.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "OGL 3",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Open Government License 3",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        }
+      },
+      "description": "Commission Regulation (EEC) No 1970-92 of 30 June 1992 amending Council Regulation (EEC) No 3626-82 on the implementation in the Community of the Convention on international trade in endangered species of wild fauna and flora",
+      "artist": "",
+      "license": "OGL 3",
+      "licenseUrl": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "date": ""
+    },
+    {
+      "title": "File:The Pope anthology - 1701-1744 (IA popeanthology00arbe).pdf",
+      "pageid": 96134278,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Pope_anthology_-_1701-1744_(IA_popeanthology00arbe).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/The_Pope_anthology_-_1701-1744_%28IA_popeanthology00arbe%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/The_Pope_anthology_-_1701-1744_%28IA_popeanthology00arbe%29.pdf/page1-500px-The_Pope_anthology_-_1701-1744_%28IA_popeanthology00arbe%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-11-14 20:37:20",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nThe Pope anthology : 1701-1744</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Edward Arber|Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books published in London|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|PD-US missing SDC copyright status",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nArber, Edward, 1836-1912</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nSubjects: English poetry</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/popeanthology00arbe\" class=\"extiw\" title=\"iarchive:popeanthology00arbe\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: popeanthology00arbe</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/popeanthology00arbe/popeanthology00arbe.pdf\">https://archive.org/download/popeanthology00arbe/popeanthology00arbe.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Subjects: English poetry",
+      "artist": "Arber, Edward, 1836-1912",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:Catalogue of the Linonian and Brothers' library (IA catalogueoflinon00yalerich).pdf",
+      "pageid": 94906645,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Catalogue_of_the_Linonian_and_Brothers%27_library_(IA_catalogueoflinon00yalerich).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Catalogue_of_the_Linonian_and_Brothers%27_library_%28IA_catalogueoflinon00yalerich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Catalogue_of_the_Linonian_and_Brothers%27_library_%28IA_catalogueoflinon00yalerich%29.pdf/page1-500px-Catalogue_of_the_Linonian_and_Brothers%27_library_%28IA_catalogueoflinon00yalerich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-10-09 23:10:21",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nCatalogue of the Linonian and Brothers' library</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Linonian Society|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nYale university. Library. Linonian and Brothers' library</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nSubjects:</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/catalogueoflinon00yalerich\" class=\"extiw\" title=\"iarchive:catalogueoflinon00yalerich\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: catalogueoflinon00yalerich</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/catalogueoflinon00yalerich/catalogueoflinon00yalerich.pdf\">https://archive.org/download/catalogueoflinon00yalerich/catalogueoflinon00yalerich.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Subjects:",
+      "artist": "Yale university. Library. Linonian and Brothers' library",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:The Laurentians, the hills of the habitant (IA laurentianshills01long).pdf",
+      "pageid": 93310710,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Laurentians,_the_hills_of_the_habitant_(IA_laurentianshills01long).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ef/The_Laurentians%2C_the_hills_of_the_habitant_%28IA_laurentianshills01long%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Laurentians%2C_the_hills_of_the_habitant_%28IA_laurentianshills01long%29.pdf/page1-500px-The_Laurentians%2C_the_hills_of_the_habitant_%28IA_laurentianshills01long%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-08-19 19:18:33",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nThe Laurentians, the hills of the habitant</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress|IA books of at least 500 pages|Books from the United States PDF files|PD-US missing SDC copyright status|Thomas Morris Longstreth",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nLongstreth, Thomas Morris, 1886-</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nSubjects:</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/laurentianshills01long\" class=\"extiw\" title=\"iarchive:laurentianshills01long\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: laurentianshills01long</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/laurentianshills01long/laurentianshills01long.pdf\">https://archive.org/download/laurentianshills01long/laurentianshills01long.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Subjects:",
+      "artist": "Longstreth, Thomas Morris, 1886-",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:Extension service review (IA CAT10252415122).pdf",
+      "pageid": 93018942,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Extension_service_review_(IA_CAT10252415122).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Extension_service_review_%28IA_CAT10252415122%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Extension_service_review_%28IA_CAT10252415122%29.pdf/page1-960px-Extension_service_review_%28IA_CAT10252415122%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-08-17 03:39:42",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nExtension service review</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD US Government|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Extension Service Review, 1941|Internet Archive (redundant cover page removed)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\n<dl><dd>United States. Extension Service</dd>\n<dd>United States. Federal Extension Service</dd></dl></div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<dl><dd>Title from cover</dd>\n<dd>Some issues published in combined form</dd>\n<dd>Issued by: the Extension Service, 1930-Nov. 1954; the Federal Extension Service, Dec. 1954-Mar. 1970; the Extension Service, Apr. 1970-1978</dd>\n<dd>Formed by the merger of: Boys' and girls' 4-H club leader; Home demonstration review, and: This looks good</dd></dl>\n<br>Subjects: Agricultural extension work Periodicals; Agricultural extension work United States Periodicals</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/CAT10252415122\" class=\"extiw\" title=\"iarchive:CAT10252415122\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: CAT10252415122</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/CAT10252415122/CAT10252415122.pdf\">https://archive.org/download/CAT10252415122/CAT10252415122.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "The contributing institution believes that this item is not in copyright.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Title from cover \n Some issues published in combined form \n Issued by: the Extension Service, 1930-Nov. 1954; the Federal Extension Service, Dec. 1954-Mar. 1970; the Extension Service, Apr. 1970-1978 \n Formed by the merger of: Boys' and girls' 4-H club leader; Home demonstration review, and: This looks good  \n Subjects: Agricultural extension work Periodicals; Agricultural extension work United States Periodicals",
+      "artist": "United States. Extension Service \n United States. Federal Extension Service",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:Lorline (IA lorline00jaro).pdf",
+      "pageid": 92117518,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lorline_(IA_lorline00jaro).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Lorline_%28IA_lorline00jaro%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Lorline_%28IA_lorline00jaro%29.pdf/page1-500px-Lorline_%28IA_lorline00jaro%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-07-11 11:32:44",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nLorline</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Books in the Library of Congress",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nJarow, Joseph. [from old catalog]</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\nSubjects:</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/lorline00jaro\" class=\"extiw\" title=\"iarchive:lorline00jaro\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: lorline00jaro</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/lorline00jaro/lorline00jaro.pdf\">https://archive.org/download/lorline00jaro/lorline00jaro.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Subjects:",
+      "artist": "Jarow, Joseph. [from old catalog]",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    }
+  ]
+}

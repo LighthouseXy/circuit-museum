@@ -1,0 +1,13 @@
+{
+  "checkedOn": "2026-10-15",
+  "selectionPolicy": "以2020—2025年的实体电子、电器与辅助设备为重点；逐项核对奖项、年份、级别和型号。获奖年与上市年分别记录；概念作品不混写为量产产品。同型号不同颜色、容量和重复获奖不增加产品件数。",
+  "programs": [
+    {"id":"if","name":"iF DESIGN AWARD","organizer":"iF International Forum Design","focus":"从创意、形态、功能、差异性和可持续性等角度观察产品设计；产品设计与专业概念分开核查。","levels":"iF DESIGN AWARD、iF gold 等级按具体获奖记录标注","url":"https://ifdesign.com/en/if-design-award-and-jury","criteriaUrl":"https://ifdesign.com/en/if-magazine/newsroom/if-design-award-2025-the-winners"},
+    {"id":"red-dot","name":"Red Dot Award: Product Design","organizer":"Red Dot","focus":"关注功能、形式吸引力、使用与责任；与 Design Concept 概念奖分别记录。","levels":"Red Dot、Red Dot: Best of the Best 分别标注","url":"https://www.red-dot.org/pd","criteriaUrl":"https://www.red-dot.org/magazine/the-red-dot-jury-2025"},
+    {"id":"idea","name":"International Design Excellence Awards（IDEA）","organizer":"Industrial Designers Society of America（IDSA）","focus":"综合观察设计创新、用户获益、品牌获益、社会获益与适切的美学。","levels":"Gold、Silver、Bronze、Finalist 不互相替代","url":"https://www.idsa.org/idea","criteriaUrl":"https://www.idsa.org/idearesources/"},
+    {"id":"g-mark","name":"GOOD DESIGN AWARD（日本）","organizer":"Japan Institute of Design Promotion（JDP）","focus":"从人、产业、社会与时间等视角考察设计；适合发现日本家电、影像工具和无障碍设备。","levels":"普通受赏、BEST 100及特别奖依记录区分","url":"https://www.g-mark.org/en","criteriaUrl":"https://www.g-mark.org/en/learn/past-awards/gda-2025/outlines"},
+    {"id":"ces","name":"CES Innovation Awards","organizer":"Consumer Technology Association（CTA）","focus":"关注工程与功能、美学与设计、独特性与创新；适合观察新型硬件及使用场景。","levels":"Honoree 与 Best of Innovation 分开记录","url":"https://www.ces.tech/innovation","criteriaUrl":"https://www.ces.tech/innovation","boundary":"CTA明确说明不测试或背书获奖产品；入选不能代替独立性能测试，展出或获奖也不能单独证明已经交付。"},
+    {"id":"australian-good-design","name":"Australian Good Design Awards","organizer":"Good Design Australia","focus":"从良好设计、设计创新、设计影响三个角度评审；关注使用过程、可及性与实际问题。","levels":"Good Design Award、Gold及其他特别奖依作品页标注","url":"https://good-design.org/","criteriaUrl":"https://good-design.org/australian-good-design-awards/categories-criteria/"},
+    {"id":"german-design","name":"German Design Award","organizer":"German Design Council","focus":"关注整体概念、设计质量、功能、情境与可持续性；优先查看 Excellent Product Design 实体产品。","levels":"Winner、Gold、Special Mention 按记录分别标注","url":"https://www.german-design-award.com/en/","criteriaUrl":"https://www.german-design-award.com/en/faq"}
+  ]
+}

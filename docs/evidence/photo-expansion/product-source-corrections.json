@@ -1,0 +1,709 @@
+{
+  "checkedOn": "2026-10-13",
+  "reviewedProducts": 142,
+  "changedProductSourceUrls": 116,
+  "all142CsvAndJsonRowsMatchReviewedSourceIds": true,
+  "sourceOrderIndependent": true,
+  "missingSelectionOrChangedEvidenceLeavesBlank": true,
+  "protectedFilesVerifiedUnchanged": 435,
+  "totalIllustratedProducts": 119,
+  "pending": 57,
+  "changes": [
+    {
+      "slug": "sony-cdp-101",
+      "previousUrl": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-07.html",
+      "selectedSourceId": "B:H16B",
+      "selectedUrl": "https://www.manualslib.com/manual/3991316/Sony-Cdp-101.html"
+    },
+    {
+      "slug": "osborne-1",
+      "previousUrl": "https://www.computerhistory.org/timeline/1977/",
+      "selectedSourceId": "CM150-S009",
+      "selectedUrl": "https://www.computerhistory.org/revolution/mobile-computing/18/316/1759"
+    },
+    {
+      "slug": "epson-ep101",
+      "previousUrl": "https://corporate.epson/en/about/history/timeline/",
+      "selectedSourceId": "CM150-S043",
+      "selectedUrl": "https://corporate.epson/en/about/history/milestone-products/1968-9-ep-101.html"
+    },
+    {
+      "slug": "ericsson-ericofon",
+      "previousUrl": "https://www.motorolasolutions.com/en_xp/about/history/explore-motorola-heritage/cell-phone-development.html",
+      "selectedSourceId": "HC150-S019",
+      "selectedUrl": "https://www.ericsson.com/en/about-us/history/products/the-telephones/the-ericofon--cobra-1956-1954"
+    },
+    {
+      "slug": "sony-xel-1",
+      "previousUrl": "https://designdesigndesign.jp/en/database/24-03/",
+      "selectedSourceId": "I150-S016",
+      "selectedUrl": "https://www.sony.com/en/SonyInfo/News/Press/200710/07-1001E/"
+    },
+    {
+      "slug": "sony-playstation-vr-cuh-zvr1",
+      "previousUrl": "https://www.vive.com/us/support/vive/category_howto/setting-up-for-the-first-time.html",
+      "selectedSourceId": "I150-S026",
+      "selectedUrl": "https://blog.playstation.com/2016/10/13/playstation-vr-launches-today-across-the-united-states-and-canada/"
+    },
+    {
+      "slug": "nintendo-switch-2",
+      "previousUrl": "https://www.nintendo.com/sg/support/switch/playmode/index.html",
+      "selectedSourceId": "G150-S017",
+      "selectedUrl": "https://www.nintendo.co.jp/corporate/release/en/2025/250402.html"
+    },
+    {
+      "slug": "sony-playstation-5-pro",
+      "previousUrl": "https://www.playstation.com/en-us/playstation-history/2020-ps5-ps-vr2/",
+      "selectedSourceId": "G150-S007",
+      "selectedUrl": "https://sonyinteractive.com/en/press-releases/2024/sony-interactive-entertainment-launches-playstation-5-pro/"
+    },
+    {
+      "slug": "hp-65",
+      "previousUrl": "https://www.swatchgroup.com/en/services/archive/2020/hamilton-psr",
+      "selectedSourceId": "CM150-S007",
+      "selectedUrl": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/personalsystems/0024/index.html"
+    },
+    {
+      "slug": "roland-tr808",
+      "previousUrl": "https://www.roland.com/ca/promos/roland_tr-808/?lang=en-CA",
+      "selectedSourceId": "CWC-S002",
+      "selectedUrl": "https://www.roland.com/uk/promos/roland_tr-808/?lang=en-GB"
+    },
+    {
+      "slug": "roland-tb303",
+      "previousUrl": "https://www.roland.com/ca/promos/roland_tr-808/?lang=en-CA",
+      "selectedSourceId": "CM150-S033",
+      "selectedUrl": "https://www.roland.com/RolandComSite/media/global/release/pdf/2019/20190303_1_RolandCloud_TB-303.pdf"
+    },
+    {
+      "slug": "yamaha-dx7",
+      "previousUrl": "https://www.roland.com/ca/promos/roland_tr-808/?lang=en-CA",
+      "selectedSourceId": "CM150-S038",
+      "selectedUrl": "https://www.yamaha.com/en/tech-design/design/insights/id_009/"
+    },
+    {
+      "slug": "teac-portastudio144",
+      "previousUrl": "https://www.roland.com/ca/promos/roland_tr-808/?lang=en-CA",
+      "selectedSourceId": "CWC-S005",
+      "selectedUrl": "https://www.preservationsound.com/wp-content/uploads/2013/06/Tascam_144_Catalog.pdf"
+    },
+    {
+      "slug": "hp-laserjet-1984",
+      "previousUrl": "https://corporate.epson/en/about/history/milestone-products/1968-9-ep-101.html",
+      "selectedSourceId": "CM150-S047",
+      "selectedUrl": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/imagingprinting/0018/index.html"
+    },
+    {
+      "slug": "apple-newton-messagepad-1993",
+      "previousUrl": "https://www.computerhistory.org/timeline/1977/",
+      "selectedSourceId": "CM150-S022",
+      "selectedUrl": "https://www.computinghistory.org.uk/det/51131/Apple-Newton-MessagePad/"
+    },
+    {
+      "slug": "pfu-scansnap-fi4110eox",
+      "previousUrl": "https://corporate.epson/en/about/history/milestone-products/1968-9-ep-101.html",
+      "selectedSourceId": "CWC-S009",
+      "selectedUrl": "https://www.pfu.ricoh.com/global/scanners/scansnap/downloads/jp/jscan/manual/P3PC-E312-04.pdf"
+    },
+    {
+      "slug": "logitech-k380-2015",
+      "previousUrl": "https://www.computerhistory.org/timeline/1977/",
+      "selectedSourceId": "CM150-S064",
+      "selectedUrl": "https://news.logitech.com/press-releases/news-details/2015/Create-and-Communicate-on-Any-Device-with-Logitechs-New-Bluetooth-Keyboard-and-Mouse/default.aspx"
+    },
+    {
+      "slug": "kobo-touch-2011",
+      "previousUrl": "https://www.computerhistory.org/timeline/1977/",
+      "selectedSourceId": "CM150-S068",
+      "selectedUrl": "https://www.kobo.com/news/kobo-launches-the-all-new-kobo-ereader-touch-edition"
+    },
+    {
+      "slug": "samsung-t7-2020",
+      "previousUrl": "https://www.computerhistory.org/revolution/cycle-of-computers/9/101/1082",
+      "selectedSourceId": "CM150-S062",
+      "selectedUrl": "https://news.samsung.com/us/samsungs-t7-portable-ssd-now-available/?na=s"
+    },
+    {
+      "slug": "sony-playstation-2",
+      "previousUrl": "https://www.sony.com/ja/SonyInfo/CorporateInfo/History/SonyHistory/2-09.html",
+      "selectedSourceId": "G150-S001",
+      "selectedUrl": "https://www.playstation.com/en-us/playstation-history/2000-ps2-psp/"
+    },
+    {
+      "slug": "sony-psp-1000",
+      "previousUrl": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy/Game-Boy-627031.html",
+      "selectedSourceId": "CWG-S002",
+      "selectedUrl": "https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/psp-docs/JA_PSP-1000_WEB.pdf"
+    },
+    {
+      "slug": "sony-playstation-3",
+      "previousUrl": "https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/ps2-docs/JA_SCPH-10000_WEB.pdf",
+      "selectedSourceId": "G150-S002",
+      "selectedUrl": "https://www.playstation.com/en-us/playstation-history/2007-ps3-ps-vita/"
+    },
+    {
+      "slug": "sony-playstation-vita",
+      "previousUrl": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/ds_english",
+      "selectedSourceId": "G150-S002",
+      "selectedUrl": "https://www.playstation.com/en-us/playstation-history/2007-ps3-ps-vita/"
+    },
+    {
+      "slug": "sony-playstation-4",
+      "previousUrl": "https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/ps3-docs/JA_PS3-00-1.0_2_WEB.pdf",
+      "selectedSourceId": "G150-S003",
+      "selectedUrl": "https://www.playstation.com/en-us/playstation-history/2013-ps4-ps-vr/"
+    },
+    {
+      "slug": "sony-playstation-4-pro",
+      "previousUrl": "https://manuals.playstation.net/document/en/ps4/basic/usecontroller.html",
+      "selectedSourceId": "G150-S005",
+      "selectedUrl": "https://blog.playstation.com/2016/11/10/playstation-4-pro-launches-today/"
+    },
+    {
+      "slug": "sony-playstation-5",
+      "previousUrl": "https://manuals.playstation.net/document/en/ps4/basic/usecontroller.html",
+      "selectedSourceId": "G150-S004",
+      "selectedUrl": "https://www.playstation.com/en-us/playstation-history/2020-ps5-ps-vr2/"
+    },
+    {
+      "slug": "nintendo-super-famicom",
+      "previousUrl": "https://www.nintendo.com/jp/famicom/hardware/index.html",
+      "selectedSourceId": "CWG-S008",
+      "selectedUrl": "https://www.nintendo.com/en-gb/News/2017/September/Nintendo-Classic-Mini-SNES-developer-interview-Volume-1-Star-Fox-Star-Fox-2-1273086.html"
+    },
+    {
+      "slug": "nintendo-64",
+      "previousUrl": "https://www.nintendo.com/en-gb/News/2017/September/Nintendo-Classic-Mini-SNES-developer-interview-Volume-1-Star-Fox-Star-Fox-2-1273086.html",
+      "selectedSourceId": "G150-S012",
+      "selectedUrl": "https://www.nintendo.co.jp/corporate/history/index.html"
+    },
+    {
+      "slug": "nintendo-game-boy-color",
+      "previousUrl": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy/Game-Boy-627031.html",
+      "selectedSourceId": "G150-S013",
+      "selectedUrl": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-History-625945.html"
+    },
+    {
+      "slug": "nintendo-game-boy-advance",
+      "previousUrl": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/ds_english",
+      "selectedSourceId": "CWG-S012",
+      "selectedUrl": "https://www.nintendo.com/eu/media/downloads/support_1/game_boy_advance_4/GBA_Manual_UK_DE_FR.pdf"
+    },
+    {
+      "slug": "nintendo-gamecube",
+      "previousUrl": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/Wii_Wii_Sports",
+      "selectedSourceId": "CWG-S013",
+      "selectedUrl": "https://www.nintendo.co.jp/ngc/disk/index.html"
+    },
+    {
+      "slug": "nintendo-3ds",
+      "previousUrl": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/ds_english",
+      "selectedSourceId": "CWG-S016",
+      "selectedUrl": "https://support.nintendo.com/jp/3ds/pdf/3dsmanual.pdf"
+    },
+    {
+      "slug": "nintendo-wii-u",
+      "previousUrl": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/Wii_Wii_Sports",
+      "selectedSourceId": "CWG-S017",
+      "selectedUrl": "https://www.nintendo.com/eu/media/downloads/support_1/wii_u_3/WiiU_OperationsManual_EN.pdf"
+    },
+    {
+      "slug": "nintendo-switch-lite",
+      "previousUrl": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy/Game-Boy-627031.html",
+      "selectedSourceId": "G150-S015",
+      "selectedUrl": "https://www.nintendo.co.jp/corporate/release/2019/190710.html"
+    },
+    {
+      "slug": "toastmaster-1a1",
+      "previousUrl": "https://americanhistory.si.edu/collections/object/nmah_324284",
+      "selectedSourceId": "HC150-S003",
+      "selectedUrl": "https://americanhistory.si.edu/collections/object/nmah_1118367"
+    },
+    {
+      "slug": "kenwood-chef-a700",
+      "previousUrl": "https://www.kitchenaid.com/100year/history.html",
+      "selectedSourceId": "HC150-S011",
+      "selectedUrl": "https://www.kenwoodworld.com/it-it/faqs/Qual-%C3%A8-l%E2%80%99et%C3%A0-del-mio-Chef/a/2910"
+    },
+    {
+      "slug": "national-ec36",
+      "previousUrl": "https://sts.kahaku.go.jp/sts/detail.php?c=&city=&id=&no=100611940014&org=&p=116&pref=&word=&y1=&y2=",
+      "selectedSourceId": "HC150-S007",
+      "selectedUrl": "https://holdings.panasonic/global/corporate/about/history/chronicle/1956.html"
+    },
+    {
+      "slug": "sharp-r10",
+      "previousUrl": "https://note.com/sharp/n/n73b739e7adba",
+      "selectedSourceId": "HC150-S009",
+      "selectedUrl": "https://global.sharp/corporate/info/his/only_one/item/t06.html"
+    },
+    {
+      "slug": "western-electric-500",
+      "previousUrl": "https://www.motorolasolutions.com/en_xp/about/history/explore-motorola-heritage/cell-phone-development.html",
+      "selectedSourceId": "HC150-S018",
+      "selectedUrl": "https://www.westporttechmuseum.com/products/rotary-dial-phones-1970"
+    },
+    {
+      "slug": "hoover-constellation-444",
+      "previousUrl": "https://www.dyson.ie/content/dam/dyson/maintenance/user-guides/en_GB/vacuumcleaners/uprights/dc01/00800-01.pdf",
+      "selectedSourceId": "HC150-S015",
+      "selectedUrl": "https://collections.lacma.org/object/284108"
+    },
+    {
+      "slug": "braun-hl1",
+      "previousUrl": "https://support.google.com/googlehome/answer/16233096?hl=en-EE",
+      "selectedSourceId": "HC150-S013",
+      "selectedUrl": "https://www.moma.org/collection/works/2495?classifications=any&date_begin=Pre-1850&date_end=2018&locale=en&page=1&q=fan&with_images=1"
+    },
+    {
+      "slug": "braun-sixtant-sm31",
+      "previousUrl": "https://www.moma.org/collection/works/2495?classifications=any&date_begin=Pre-1850&date_end=2018&locale=en&page=1&q=fan&with_images=1",
+      "selectedSourceId": "L:H04A",
+      "selectedUrl": "https://jmapps.ne.jp/musabi_art_lib/det.html?data_id=1062"
+    },
+    {
+      "slug": "motorola-pageboy-i",
+      "previousUrl": "https://www.motorolasolutions.com/en_xp/about/history/explore-motorola-heritage/cell-phone-development.html",
+      "selectedSourceId": "HC150-S026",
+      "selectedUrl": "https://www.westporttechmuseum.com/collections/technological-firsts/products/motorola-pageboy-i-1964-1975"
+    },
+    {
+      "slug": "western-electric-picturephone-mod-ii",
+      "previousUrl": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "selectedSourceId": "HC150-S032",
+      "selectedUrl": "https://www.videocall50th.com/picturephone"
+    },
+    {
+      "slug": "omron-hem1",
+      "previousUrl": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-announces-new-activity-tracker-the-fitbit-flex/",
+      "selectedSourceId": "HC150-S051",
+      "selectedUrl": "https://healthcare.omron.com/about/our-history"
+    },
+    {
+      "slug": "garmin-gps155-tso",
+      "previousUrl": "https://americanhistory.si.edu/collections/object/nmah_1405613",
+      "selectedSourceId": "HC150-S037",
+      "selectedUrl": "https://www.garmin.com/en-US/newsroom/press-release/aviation/2014-garmin-recognizes-a-gps-milestone-in-aviation/"
+    },
+    {
+      "slug": "irobot-roomba-2002",
+      "previousUrl": "https://www.dyson.ie/content/dam/dyson/maintenance/user-guides/en_GB/vacuumcleaners/uprights/dc01/00800-01.pdf",
+      "selectedSourceId": "L:ER09",
+      "selectedUrl": "https://americanhistory.si.edu/collections/object/nmah_1448432"
+    },
+    {
+      "slug": "avm-fritzbox-2004",
+      "previousUrl": "https://www.apple.com/ca/fr/press/1999/07/airport.html",
+      "selectedSourceId": "HC150-S029",
+      "selectedUrl": "https://about.fritz.com/en/press/press-releases/2024/03/20-years-of-fritzbox-the-heart-of-the-digital-home-is-celebrating-its-birthday"
+    },
+    {
+      "slug": "tomtom-go-2004",
+      "previousUrl": "https://americanhistory.si.edu/collections/object/nmah_1405613",
+      "selectedSourceId": "HC150-S023",
+      "selectedUrl": "https://corporate.tomtom.com/static-files/17232660-32c7-4fde-9fdb-791b82902f51"
+    },
+    {
+      "slug": "violet-nabaztag-v1",
+      "previousUrl": "https://blog.hnf.de/und-es-hat-piep-gemacht-die-geschichte-des-pagers/",
+      "selectedSourceId": "HC150-S053",
+      "selectedUrl": "https://www.vam.ac.uk/blog/museum-life/going-down-the-rabbit-hole-revisiting-the-nabaztag"
+    },
+    {
+      "slug": "philips-airfryer-hd9220",
+      "previousUrl": "https://note.com/sharp/n/n73b739e7adba",
+      "selectedSourceId": "HC150-S067",
+      "selectedUrl": "https://www.philips.com/consumerfiles/newscenter/main/shared/assets/at/Downloadablefile/presse/22042011viva/20110413_Datenblatt_Airfryer%20HD9220.pdf"
+    },
+    {
+      "slug": "rca-630ts",
+      "previousUrl": "https://americanhistory.si.edu/collections/object/nmah_1341347",
+      "selectedSourceId": "I150-S011",
+      "selectedUrl": "https://www.thehenryford.org/collections/explore/artifact/178373"
+    },
+    {
+      "slug": "sony-kv-1310",
+      "previousUrl": "https://designdesigndesign.jp/en/database/24-03/",
+      "selectedSourceId": "I150-S013",
+      "selectedUrl": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-c.html"
+    },
+    {
+      "slug": "sharp-aquos-lc20c1",
+      "previousUrl": "https://designdesigndesign.jp/en/database/24-03/",
+      "selectedSourceId": "I150-S019",
+      "selectedUrl": "https://global.sharp/corporate/info/his/only_one/item/t36.html"
+    },
+    {
+      "slug": "samsung-the-frame-ls003",
+      "previousUrl": "https://designdesigndesign.jp/en/database/24-03/",
+      "selectedSourceId": "I150-S059",
+      "selectedUrl": "https://images.samsung.com/is/content/samsung/p5/de/tvs/theframe/Sonderbeilage_AV.pdf"
+    },
+    {
+      "slug": "samsung-the-sero-ls05t",
+      "previousUrl": "https://news.samsung.com/uk/samsungs-the-frame-now-available-in-the-uk",
+      "selectedSourceId": "I150-S061",
+      "selectedUrl": "https://www.samsung.com/at/lifestyle-tvs/the-sero/ls05t-43-inch-the-sero-4k-smart-tv-navy-blue-qe43ls05tauxzg/"
+    },
+    {
+      "slug": "lg-signature-oled-r-rx",
+      "previousUrl": "https://www.lg.com/lv/televizori/lg-oled65rx9la",
+      "selectedSourceId": "I150-S063",
+      "selectedUrl": "https://www.lg.com/pl/telewizory-i-soundbary/oled/oled65rx9la/"
+    },
+    {
+      "slug": "epson-vpj-700",
+      "previousUrl": "https://www.thehenryford.org/collections/explore/artifact/178373",
+      "selectedSourceId": "I150-S068",
+      "selectedUrl": "https://corporate.epson/en/about/history/milestone-products/1989-1-vpj700.html"
+    },
+    {
+      "slug": "samsung-the-freestyle-2022",
+      "previousUrl": "https://corporate.epson/en/about/history/milestone-products/1989-1-vpj700.html",
+      "selectedSourceId": "I150-S070",
+      "selectedUrl": "https://news.samsung.com/my/samsung-the-freestyle-is-now-officially-available-at-the-nearest-stores-near-you"
+    },
+    {
+      "slug": "lg-stanbyme-go-27lx5qkna",
+      "previousUrl": "https://news.samsung.com/fr/the-sero-disponible-en-france",
+      "selectedSourceId": "L:AMG02",
+      "selectedUrl": "https://www.lg.com/us/tvs/lg-27lx5qkna"
+    },
+    {
+      "slug": "lg-oled-evo-m5-65",
+      "previousUrl": "https://www.sony.com/en/SonyInfo/News/Press/200710/07-1001E/",
+      "selectedSourceId": "I150-S065",
+      "selectedUrl": "https://www.lgnewsroom.com/page/2/?p=l3jlc291cmnll3bvc3qvnduxmy9mr19hm18xlkpqrw%3D%3D"
+    },
+    {
+      "slug": "samsung-micro-rgb-r95h-65",
+      "previousUrl": "https://www.sony.com/en/SonyInfo/News/Press/200710/07-1001E/",
+      "selectedSourceId": "I150-S067",
+      "selectedUrl": "https://www.samsung.com/us/tvs/micro-rgb/65-inch-micro-rgb-4k-tv-r95h-sku-mrn65r95hafxza/?r=true"
+    },
+    {
+      "slug": "htc-vive-2016",
+      "previousUrl": "https://www.vive.com/us/support/vive/category_howto/setting-up-for-the-first-time.html",
+      "selectedSourceId": "I150-S020",
+      "selectedUrl": "https://www.htc.com/cn/newsroom/2016-04-06/"
+    },
+    {
+      "slug": "microsoft-hololens-2",
+      "previousUrl": "https://www.vive.com/us/support/vive/category_howto/setting-up-for-the-first-time.html",
+      "selectedSourceId": "CWI-S004",
+      "selectedUrl": "https://learn.microsoft.com/en-us/hololens/hololens2-basic-usage"
+    },
+    {
+      "slug": "oculus-quest-2019",
+      "previousUrl": "https://www.vive.com/us/support/vive/category_howto/setting-up-for-the-first-time.html",
+      "selectedSourceId": "I150-S023",
+      "selectedUrl": "https://ai.meta.com/blog/powered-by-ai-oculus-insight/"
+    },
+    {
+      "slug": "meta-quest-3",
+      "previousUrl": "https://learn.microsoft.com/en-us/hololens/hololens2-basic-usage",
+      "selectedSourceId": "I150-S024",
+      "selectedUrl": "https://about.fb.com/ja/news/2023/10/meta-quest-3-popup-event-shibuya-shinjuku/"
+    },
+    {
+      "slug": "sony-playstation-vr2",
+      "previousUrl": "https://www.vive.com/us/support/vive/category_howto/setting-up-for-the-first-time.html",
+      "selectedSourceId": "I150-S028",
+      "selectedUrl": "https://blog.playstation.com/2023/02/06/playstation-vr2-the-ultimate-faq/?sf264031684=1"
+    },
+    {
+      "slug": "apple-vision-pro-m2",
+      "previousUrl": "https://learn.microsoft.com/en-us/hololens/hololens2-basic-usage",
+      "selectedSourceId": "I150-S033",
+      "selectedUrl": "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/"
+    },
+    {
+      "slug": "samsung-galaxy-xr",
+      "previousUrl": "https://about.fb.com/ja/news/2023/10/meta-quest-3-popup-event-shibuya-shinjuku/",
+      "selectedSourceId": "I150-S034",
+      "selectedUrl": "https://news.samsung.com/us/introducing-galaxy-xr-opening-new-worlds/"
+    },
+    {
+      "slug": "sony-betamax-sl-6300",
+      "previousUrl": "https://www.manualowl.com/m/Sony/CCD-V8/Manual/480227",
+      "selectedSourceId": "L:ER13",
+      "selectedUrl": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-d.html"
+    },
+    {
+      "slug": "nikon-f3",
+      "previousUrl": "https://www.cameramanuals.org/canon_pdf/canon_ae-1_pt1.pdf",
+      "selectedSourceId": "I150-S041",
+      "selectedUrl": "https://imaging.nikon.com/imaging/information/chronicle/history-f3/index.html"
+    },
+    {
+      "slug": "canon-rc-701",
+      "previousUrl": "https://www.cameramanuals.org/canon_pdf/canon_ae-1_pt1.pdf",
+      "selectedSourceId": "I150-S001",
+      "selectedUrl": "https://global.canon/en/c-museum/product/svc443.html"
+    },
+    {
+      "slug": "canon-eos-650",
+      "previousUrl": "https://www.cameramanuals.org/canon_pdf/canon_ae-1_pt1.pdf",
+      "selectedSourceId": "I150-S003",
+      "selectedUrl": "https://global.canon/en/c-museum/product/film122.html"
+    },
+    {
+      "slug": "sony-ccd-tr55",
+      "previousUrl": "https://www.manualowl.com/m/Sony/CCD-V8/Manual/480227",
+      "selectedSourceId": "I150-S047",
+      "selectedUrl": "https://www.sony.com/en/SonyInfo/design/gallery/CCD-TR55/"
+    },
+    {
+      "slug": "kodak-dcs-1991",
+      "previousUrl": "https://download.nikonimglib.com/archive2/wBjvj00BJbiD01qylIB455Pafk66/D1_(En)03.pdf",
+      "selectedSourceId": "L:H11A",
+      "selectedUrl": "https://www.kodak.com/zh/company/page/milestones/"
+    },
+    {
+      "slug": "nikon-coolscan-ls-10",
+      "previousUrl": "https://www.cameramanuals.org/canon_pdf/canon_ae-1_pt1.pdf",
+      "selectedSourceId": "CWI-S007",
+      "selectedUrl": "https://www.manualslib.com/manual/478093/Nikon-Coolscan-Ls-10e.html"
+    },
+    {
+      "slug": "nintendo-color-tv-game-15",
+      "previousUrl": "https://americanhistory.si.edu/ne/collections/object-groups/the-father-of-the-video-game-the-ralph-baer-prototypes-and-electronic-games/video-game-history",
+      "selectedSourceId": "CWG-S019",
+      "selectedUrl": "https://collection.sciencemuseumgroup.org.uk/objects/co8086582/nintendo-color-tv-game-15-console-1977"
+    },
+    {
+      "slug": "nintendo-game-watch-ball-1980",
+      "previousUrl": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy/Game-Boy-627031.html",
+      "selectedSourceId": "G150-S014",
+      "selectedUrl": "https://www.nintendo.co.jp/n10/interview/game_and_watch/vol1/index2.html"
+    },
+    {
+      "slug": "nintendo-virtual-boy-jp",
+      "previousUrl": "https://www.sony.com/ja/SonyInfo/CorporateInfo/History/SonyHistory/2-09.html",
+      "selectedSourceId": "L:EA05-V01",
+      "selectedUrl": "https://www.nintendo.co.jp/3ds/interview/hardware/vol1/index2.html"
+    },
+    {
+      "slug": "sega-dreamcast-jp",
+      "previousUrl": "https://www.manualslib.com/manual/4045608/Sony-Playstation-Scph-1001.html",
+      "selectedSourceId": "CWG-S021",
+      "selectedUrl": "https://www.sega.jp/history/hard/column/column_06.html"
+    },
+    {
+      "slug": "valve-steam-controller-2015",
+      "previousUrl": "https://nintendosegajapan.com/2016/08/20/nintendo-color-tv-game-15-%E3%82%AB%E3%83%A9%E3%83%BC-%E3%83%86%E3%83%AC%E3%83%93%E3%82%B2%E3%83%BC%E3%83%A015/",
+      "selectedSourceId": "G150-S020",
+      "selectedUrl": "https://store.steampowered.com/app/353370/Steam_Controller_2015/?l=english"
+    },
+    {
+      "slug": "sony-access-controller",
+      "previousUrl": "https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller",
+      "selectedSourceId": "G150-S011",
+      "selectedUrl": "https://blog.playstation.com/?p=387113"
+    },
+    {
+      "slug": "perkins-smart-brailler",
+      "previousUrl": "https://www.ti.com/about-ti/behind-chip/articles/uncovering-the-legacy-of-DSP-technology-how-a-childrens-toy-sparked-the-edge-AI-revolution.html",
+      "selectedSourceId": "HC150-S039",
+      "selectedUrl": "https://brailler.perkins.org/pages/perkins-overview"
+    },
+    {
+      "slug": "philips-hue-2012",
+      "previousUrl": "https://www.moma.org/collection/works/2495?classifications=any&date_begin=Pre-1850&date_end=2018&locale=en&page=1&q=fan&with_images=1",
+      "selectedSourceId": "HC150-S043",
+      "selectedUrl": "https://www.signify.com/global/our-company/news/press-release-archive/2012/20121029-introducing-philips-hue"
+    },
+    {
+      "slug": "nest-protect-1",
+      "previousUrl": "https://support.google.com/googlehome/answer/16233096?hl=en-EE",
+      "selectedSourceId": "HC150-S049",
+      "selectedUrl": "https://www.cpsc.gov/Recalls/2014/Nest-Labs-Recalls-to-Repair-Nest-Protect-Smoke-CO-Alarms"
+    },
+    {
+      "slug": "amazon-echo-1",
+      "previousUrl": "https://www.ti.com/about-ti/behind-chip/articles/uncovering-the-legacy-of-DSP-technology-how-a-childrens-toy-sparked-the-edge-AI-revolution.html",
+      "selectedSourceId": "HC150-S046",
+      "selectedUrl": "https://press.aboutamazon.com/2015/6/amazon-echo-now-available-to-all-customers"
+    },
+    {
+      "slug": "vorwerk-thermomix-tm5",
+      "previousUrl": "https://www.kitchenaid.com/100year/history.html",
+      "selectedSourceId": "HC150-S061",
+      "selectedUrl": "https://www.vorwerk-group.com/de/presse/publikationen/Vorwerk-Annual-Report-2014-Web-Version.pdf"
+    },
+    {
+      "slug": "google-home-2016",
+      "previousUrl": "https://www.signify.com/global/our-company/news/press-release-archive/2012/20121029-introducing-philips-hue",
+      "selectedSourceId": "HC150-S047",
+      "selectedUrl": "https://blog.google/products-and-platforms/products/home/make-yourself-home-google-home/"
+    },
+    {
+      "slug": "sony-aibo-ers-1000",
+      "previousUrl": "https://www.sony.com/en/SonyInfo/News/Press/199905/99-046/",
+      "selectedSourceId": "L150-S001",
+      "selectedUrl": "https://www.sony.com/ja/SonyInfo/News/Press/201805/18-040/"
+    },
+    {
+      "slug": "sony-dcr-vx1000",
+      "previousUrl": "https://www.manualowl.com/m/Sony/CCD-V8/Manual/480227",
+      "selectedSourceId": "CWI-S009",
+      "selectedUrl": "https://upload.cyfrowe.pl/cyfrowe/instrukcje/kamery/sony/instrukcja_sony_vx1000_eng.pdf"
+    },
+    {
+      "slug": "canon-powershot-600",
+      "previousUrl": "https://world.casio.com/corporate/history1/chapter03/",
+      "selectedSourceId": "I150-S005",
+      "selectedUrl": "https://global.canon/en/c-museum/product/dcc451.html"
+    },
+    {
+      "slug": "nikon-coolpix-300",
+      "previousUrl": "https://global.canon/en/c-museum/product/dcc451.html",
+      "selectedSourceId": "I150-S043",
+      "selectedUrl": "https://www.nikon.com/company/corporate/history/frontier/02/"
+    },
+    {
+      "slug": "canon-xl1",
+      "previousUrl": "https://upload.cyfrowe.pl/cyfrowe/instrukcje/kamery/sony/instrukcja_sony_vx1000_eng.pdf",
+      "selectedSourceId": "I150-S007",
+      "selectedUrl": "https://global.canon/en/c-museum/product/dvc666.html"
+    },
+    {
+      "slug": "nikon-coolpix-900",
+      "previousUrl": "https://world.casio.com/corporate/history1/chapter03/",
+      "selectedSourceId": "I150-S044",
+      "selectedUrl": "https://www.nikon.com/company/corporate/history/frontier/07/"
+    },
+    {
+      "slug": "canon-eos-5d-mark-ii",
+      "previousUrl": "https://asia.canon/en/support/8200359800",
+      "selectedSourceId": "I150-S009",
+      "selectedUrl": "https://global.canon/en/c-museum/product/dslr800.html"
+    },
+    {
+      "slug": "sourcenext-pocketalk-w",
+      "previousUrl": "https://blog.hnf.de/und-es-hat-piep-gemacht-die-geschichte-des-pagers/",
+      "selectedSourceId": "HC150-S063",
+      "selectedUrl": "https://sourcenext.co.jp/pressrelease_html/JS/2018/2018090702"
+    },
+    {
+      "slug": "roborock-s7",
+      "previousUrl": "https://blog.switch-bot.com/six-newcomers-to-the-switchbot-family-youre-gonna-love-these/",
+      "selectedSourceId": "L:AMR02",
+      "selectedUrl": "https://global.roborock.com/pages/roborock-s7"
+    },
+    {
+      "slug": "ikea-dirigera",
+      "previousUrl": "https://www.signify.com/global/our-company/news/press-release-archive/2012/20121029-introducing-philips-hue",
+      "selectedSourceId": "HC150-S057",
+      "selectedUrl": "https://www.ikea.com/nl/nl/newsroom/corporate-news/ikea-introduceert-dirigera-hub-om-slimme-apparaten-mee-te-bedienen-pub8d094e00/"
+    },
+    {
+      "slug": "aqara-presence-fp2",
+      "previousUrl": "https://support.google.com/googlehome/answer/16233096?hl=en-EE",
+      "selectedSourceId": "HC150-S059",
+      "selectedUrl": "https://www.aqara.com/us/news-us/aqara-adds-presence-sensor-fp2-to-its-smart-sensor-portfolio/"
+    },
+    {
+      "slug": "humanware-victor-reader-stream-3",
+      "previousUrl": "https://www.aboutamazon.com/news/devices/a-look-back-at-10-years-of-the-amazon-kindle",
+      "selectedSourceId": "HC150-S065",
+      "selectedUrl": "https://store.humanware.com/hus/victor-reader-stream-handheld-media-player.html"
+    },
+    {
+      "slug": "switchbot-s10",
+      "previousUrl": "https://www.dyson.ie/content/dam/dyson/maintenance/user-guides/en_GB/vacuumcleaners/uprights/dc01/00800-01.pdf",
+      "selectedSourceId": "HC150-S070",
+      "selectedUrl": "https://ca.switch-bot.com/pages/switchbot-floor-cleaning-robot-s10"
+    },
+    {
+      "slug": "aqara-spatial-fp400",
+      "previousUrl": "https://www.ikea.com/nl/nl/newsroom/corporate-news/ikea-introduceert-dirigera-hub-om-slimme-apparaten-mee-te-bedienen-pub8d094e00/",
+      "selectedSourceId": "HC150-S072",
+      "selectedUrl": "https://www.aqara.com/eu/news-eu/spatial-multi-sensor-fp400-availability-announcement/"
+    },
+    {
+      "slug": "sony-playstation-portal",
+      "previousUrl": "https://www.nintendo.com/eu/media/downloads/support_1/wii_u_3/WiiU_OperationsManual_EN.pdf",
+      "selectedSourceId": "G150-S010",
+      "selectedUrl": "https://blog.playstation.com/?p=383588"
+    },
+    {
+      "slug": "asus-rog-ally-2023",
+      "previousUrl": "https://www.steamdeck.com/en/tech/deck",
+      "selectedSourceId": "CWG-S027",
+      "selectedUrl": "https://www.asus.com/global/support/faq/1050220/"
+    },
+    {
+      "slug": "lenovo-legion-go-2023",
+      "previousUrl": "https://www.asus.com/global/support/faq/1050220/",
+      "selectedSourceId": "CWG-S028",
+      "selectedUrl": "https://download.lenovo.com/pccbbs/pubs/legion_go_8apu1/user_guide/en/index.html"
+    },
+    {
+      "slug": "msi-claw-a1m",
+      "previousUrl": "https://www.asus.com/global/support/faq/1050220/",
+      "selectedSourceId": "CWG-S029",
+      "selectedUrl": "https://us.msi.com/faq/faq-10734"
+    },
+    {
+      "slug": "asus-rog-xbox-ally-x",
+      "previousUrl": "https://www.steamdeck.com/en/tech/deck",
+      "selectedSourceId": "CWG-S030",
+      "selectedUrl": "https://rog.asus.com/articles/guides/how-to-get-to-the-windows-desktop-on-the-rog-xbox-ally-and-rog-xbox-ally-x/"
+    },
+    {
+      "slug": "valve-steam-controller-2026",
+      "previousUrl": "https://www.steamdeck.com/en/tech/deck",
+      "selectedSourceId": "CWG-S031",
+      "selectedUrl": "https://store.steampowered.com/hardware/steamcontroller?l=english"
+    },
+    {
+      "slug": "valve-steam-machine-2026",
+      "previousUrl": "https://www.steamdeck.com/en/tech/deck",
+      "selectedSourceId": "G150-S022",
+      "selectedUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/GDC_2026_HWTalk.pdf"
+    },
+    {
+      "slug": "panasonic-lumix-dmc-g1",
+      "previousUrl": "https://asia.canon/en/support/8200359800",
+      "selectedSourceId": "I150-S049",
+      "selectedUrl": "https://www.panasonic.com/content/dam/Panasonic/support_manual/Digital_Still_Camera/English_02-vqt3-vqt9_other/DMC-G1K%20_vqt1u50_OI.pdf"
+    },
+    {
+      "slug": "olympus-pen-e-p1",
+      "previousUrl": "https://www.olympus.co.jp/jp/news/2009a/nr090616ep1j.html?page=ir",
+      "selectedSourceId": "I150-S050",
+      "selectedUrl": "https://olycojp.olympus-global.com/jp/news/2009a/nr090616ep1j.html"
+    },
+    {
+      "slug": "fujifilm-finepix-x100",
+      "previousUrl": "https://www.olympus.co.jp/jp/news/2009a/nr090616ep1j.html?page=ir",
+      "selectedSourceId": "CWI-S012",
+      "selectedUrl": "https://dl.fujifilm-x.com/support/manual/x/finepix_x100_manual_en.pdf"
+    },
+    {
+      "slug": "dji-phantom-2013",
+      "previousUrl": "https://upload.cyfrowe.pl/cyfrowe/instrukcje/kamery/sony/instrukcja_sony_vx1000_eng.pdf",
+      "selectedSourceId": "L:ER11",
+      "selectedUrl": "https://www.dji.com/media-center/announcements/dji-launches-industry-best-easiest-to-fly-quadcopter-for-consumer-use"
+    },
+    {
+      "slug": "ricoh-gr-iii",
+      "previousUrl": "https://dl.fujifilm-x.com/support/manual/x/finepix_x100_manual_en.pdf",
+      "selectedSourceId": "I150-S074",
+      "selectedUrl": "https://news.ricoh-imaging.co.jp/rim_info2/2019/20190222_019929.html"
+    },
+    {
+      "slug": "insta360-x5",
+      "previousUrl": "https://upload.cyfrowe.pl/cyfrowe/instrukcje/kamery/sony/instrukcja_sony_vx1000_eng.pdf",
+      "selectedSourceId": "I150-S076",
+      "selectedUrl": "https://www.insta360.com/blog/news/insta360-launches-X5-360-action-cam.html"
+    },
+    {
+      "slug": "panasonic-lumix-dc-tz300",
+      "previousUrl": "https://global.canon/en/c-museum/product/dcc451.html",
+      "selectedSourceId": "I150-S089",
+      "selectedUrl": "https://www.panasonic.com/de/corporate/presse/alle-meldungen/44-fy2025-lumix-tz300.html"
+    }
+  ]
+}

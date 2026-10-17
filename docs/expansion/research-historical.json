@@ -1,0 +1,1282 @@
+{
+  "checkedOn": "2026-10-11",
+  "scope": {
+    "project": "Circuit Museum",
+    "ownership": "只写research-historical.json与research-historical.md；不修改40件现馆藏、五类编年史或网站代码",
+    "focus": [
+      "欧洲工业设计",
+      "日常电动产品",
+      "办公与输入",
+      "非Apple笔记本",
+      "摄影的模拟／电子／数字分界"
+    ],
+    "candidateCount": 16,
+    "readyMeaning": "正文、日期、事实与出处可审核的研究包；不代表已导入馆藏、已发布或媒体完成",
+    "excludedCounting": "容量／颜色变体不重复计数；Alto只作Star的原型背景；Valentine与MAVICA保留范围待核，不自动计作上市电子商品",
+    "bodyBaseline": "按协调方最新要求，每件ready五节正文合计不少于825中文字符；原创策展判断与来源事实分开。",
+    "sourcePolicy": "技术事实优先原手册、厂家原档案和开发者原始论文；独立馆藏核对实物／设计与日期，独立同期评测只表达特定使用或测试。不可读详情不支撑ready关键事实。",
+    "awardPolicy": "具体型号、级别、年均有主办方原资料才记录；馆藏、展览、原型及公司整体奖不当具体型号产品奖。"
+  },
+  "candidates": [
+    {
+      "id": "HC01",
+      "slug": "braun-t3",
+      "model": "Pocket Radio T3",
+      "brand": "Braun",
+      "regionVersion": "德国型号T3；未限定出口地区或电路批次",
+      "year": 1958,
+      "dateLabel": "1958 年（MoMA设计／实物编目年代，非已核定全球上市日）",
+      "dateKind": "design",
+      "category": "audio",
+      "status": "适合入选",
+      "rationale": "补充德国现代工业设计与随身收听，能与TR-1比较同一功能的不同形式组织；不把与后来iPod的外观相似写成影响链。",
+      "problemAndTradeoffs": "口袋收音机需要在携带、扬声器与调谐控制之间组织有限表面。此处为策展判断；频段、电池与接收性能尚未核定。",
+      "gapFilled": "现有早期音频偏美国与日本，缺欧洲的便携产品设计。",
+      "sources": [
+        {
+          "id": "H01A",
+          "title": "Pocket Radio (model T3), 1958",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/collection/works/4134",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "T3、1958、Dieter Rams与乌尔姆设计学院、Braun制造、塑料外壳；馆藏由厂家捐赠。未把馆藏年代等同首次零售日期。",
+          "sourceType": "馆藏实物记录",
+          "independence": "独立机构；实物记录为第一手编目",
+          "commercialDisclosure": "厂家捐赠馆藏；页面有Design Store商品链接，编目与商店展示分开处理。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：型号与年代有可读记录，使用细节及媒体仍需补查",
+      "openQuestions": [
+        "寻找T3原使用说明书，核定频段、电池及地区版本。",
+        "补独立的同期使用资料；MoMA图片需另行许可。",
+        "没有核定具体型号、级别、年度的设计奖，awards保持空。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "Pocket Radio T3",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC02",
+      "slug": "braun-sk4",
+      "model": "Radio-Phonograph SK 4",
+      "brand": "Braun",
+      "regionVersion": "德国SK 4；不混用SK 4/1、SK 4/10的年份和照片",
+      "year": 1956,
+      "dateLabel": "1956 年（馆藏制作年代）",
+      "dateKind": "manufacture",
+      "category": "audio",
+      "status": "适合入选",
+      "rationale": "补欧洲家庭音响从家具到可辨识设备的设计叙事；与T3不是颜色或容量变体，使用空间与功能组合不同。",
+      "problemAndTradeoffs": "将收音与唱片播放集中在家用机体；便利的组合仍需要分别理解广播选择与唱片操作。材料和透明盖的技术细节待原资料复核。",
+      "gapFilled": "缺欧洲1950年代家用组合音响与Hans Gugelot的设计贡献。",
+      "sources": [
+        {
+          "id": "H02A",
+          "title": "SK 4 / Radio with phonograph",
+          "publisher": "武藏野美术大学美术馆·图书馆",
+          "url": "https://jmapps.ne.jp/musabi_art_lib/det.html?data_id=1494",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "型号SK 4、1956、Hans Gugelot与Dieter Rams、收音机与唱机组合。该条解说后半出现T3描述，不将其误当SK 4技术证据。",
+          "sourceType": "馆藏实物记录",
+          "independence": "独立机构；实物记录为第一手编目",
+          "commercialDisclosure": "未见单篇付费合作声明；不能据此推断不存在商业关系",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：型号与年代有可读记录，使用细节及媒体仍需补查",
+      "openQuestions": [
+        "原说明书与厂家档案需补读；不沿用页面中疑似误并入的T3说明。",
+        "核对SK 4与SK 4/1的结构和图片铭牌。",
+        "没有核得具体设计奖条目。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "Radio-Phonograph SK 4",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC03",
+      "slug": "philips-philishave-7730",
+      "model": "Philishave 7730",
+      "brand": "Philips",
+      "regionVersion": "荷兰1939年7730；不使用后续双头、三头型号替代",
+      "year": 1939,
+      "dateLabel": "1939-03-14（乌得勒支春季博览会演示；7730编目为1939）",
+      "dateKind": "demonstration",
+      "category": "home",
+      "status": "适合入选",
+      "rationale": "补荷兰品牌和日常个人护理，让馆藏不只围绕计算机、娱乐与通信。",
+      "problemAndTradeoffs": "旋转刀头把剃须变成电机驱动的日常操作；本轮只核到原理与公开演示，不将舒适度、皮肤效果或安全效果当已验证结论。",
+      "gapFilled": "缺战前欧洲电动日用品与非屏幕式交互。",
+      "sources": [
+        {
+          "id": "H03A",
+          "title": "Philips Shavers",
+          "publisher": "Philips Company Archives / Philips Museum",
+          "url": "https://www.philips.nl/en/a-w/philips-museum/stories/philips-shavers.html",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "1939-03-14首次六台演示；Horowitz与Lex van Dam、旋转切削发展；图片说明明确Folder Philishave type 7730 (1939)。",
+          "sourceType": "品牌档案／企业博物馆",
+          "independence": "厂家关联机构，非独立历史评价",
+          "commercialDisclosure": "品牌历史宣传；未见外部赞助披露，图片未给出通用再利用许可。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：型号与年代有可读记录，使用细节及媒体仍需补查",
+      "openQuestions": [
+        "演示日期不是完整量产供货时间；需原1939技术评论或销售资料补齐。",
+        "确定本展品对应7730荷兰型及其电压，不能套后续出口版本。",
+        "官方媒体库的Photo: Royal Philips署名要求不构成完整开放许可。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "Philishave 7730",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC04",
+      "slug": "braun-sixtant-sm31",
+      "model": "Sixtant SM 31",
+      "brand": "Braun",
+      "regionVersion": "德国SM 31，非后续Sixtant系列",
+      "year": 1962,
+      "dateLabel": "1962 年（两家设计机构对应具体型号的年代）",
+      "dateKind": "design",
+      "category": "home",
+      "status": "适合入选",
+      "rationale": "黑银外观与剃须表面的关系可以和Philishave旋转方案对照；通过不同机构的实物与策展资料补欧洲日用品。",
+      "problemAndTradeoffs": "壳体的握持、刀网与清洁需要在有限体积中安排；对实际剃须效果、耐久与维修成本不作无测试推断。",
+      "gapFilled": "缺德国个人护理产品与Gugelot、Gerd Alfred Müller合作。",
+      "sources": [
+        {
+          "id": "H04A",
+          "title": "sixtant SM 31",
+          "publisher": "武藏野美术大学美术馆·图书馆",
+          "url": "https://jmapps.ne.jp/musabi_art_lib/det.html?data_id=1062",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "SM31、1962、用途剃须、Gerd Alfred Müller和Hans Gugelot、Braun制造、馆藏编号200514000600。",
+          "sourceType": "馆藏实物记录",
+          "independence": "独立机构；实物记录为第一手编目",
+          "commercialDisclosure": "未见单篇付费合作声明；不能据此推断不存在商业关系",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H04B",
+          "title": "70 Years of Design: Masterpieces Selected by Peter Zec — exhibition flyer",
+          "publisher": "Red Dot Design Museum",
+          "url": "https://www.red-dot-design-museum.org/fileadmin/essen/Ausstellungen_etc/2025/2025_70_Years/PR/70_Years_Exhibition_Flyer_FINAL.pdf",
+          "publishedOn": "2025",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "PDF p.3列Sixtant SM31、1962、设计者与黑银反差、六角刀网；p.7给2025-10-07至2026-02-01展期。展览入选不证明1962获Red Dot奖。",
+          "sourceType": "设计机构原始展览目录",
+          "independence": "奖项主办机构的策展选择；有自身品牌与奖项推广立场",
+          "commercialDisclosure": "展览宣传文件，未据此推断获奖或销量。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：型号与年代有可读记录，使用细节及媒体仍需补查",
+      "openQuestions": [
+        "补原说明书核定驱动、刀网清洁及电源版本。",
+        "Red Dot 70周年展选择不是该型号获奖证明，awards保持空。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "Sixtant SM 31",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC05",
+      "slug": "philips-el3300",
+      "model": "EL3300 compact cassette recorder",
+      "brand": "Philips",
+      "regionVersion": "荷兰品牌，项目由比利时Hasselt团队开发；EL3300初代",
+      "year": 1963,
+      "dateLabel": "1963 年（柏林IFA公开展示，未核到具体上市日）",
+      "dateKind": "announcement",
+      "category": "audio",
+      "status": "适合入选",
+      "rationale": "补录音而非只播放的便携设备，也补比利时研发节点。可和Walkman讨论同一磁带格式的不同任务。",
+      "problemAndTradeoffs": "把家庭录音做成小型电池设备；格式兼容的推广与具体机器的录放功能分开，后期混音带文化不直接套作1963实际普及程度。",
+      "gapFilled": "缺Compact Cassette标准形成、欧洲便携录音与用户自录内容。",
+      "sources": [
+        {
+          "id": "H05A",
+          "title": "Soundtrack to people’s lives",
+          "publisher": "Philips Company Archives / Philips Museum",
+          "url": "https://www.philips.nl/en/a-w/philips-museum/stories/soundtrack-to-peoples-lives.html",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "1961年Hasselt小型电池磁带机开发；1963柏林IFA展示EL3300和EL1903磁带；兼容格式的免费许可策略。未据此断言全球第一或销量。",
+          "sourceType": "品牌档案／企业博物馆",
+          "independence": "厂家关联机构；作者为Philips档案人员",
+          "commercialDisclosure": "品牌历史宣传，非独立市场效果证明。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：型号与年代有可读记录，使用细节及媒体仍需补查",
+      "openQuestions": [
+        "补EL3300原手册与独立同期评测；地区电压、配件和最早销售日待核。",
+        "旧馆藏移除过该型号，本候选是重新核实的研究建议，不自动恢复既有条目。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "EL3300 compact cassette recorder",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC06",
+      "slug": "ibm-selectric-721",
+      "model": "Selectric Model 721",
+      "brand": "IBM",
+      "regionVersion": "美国初代11英寸纸宽Model721；不合并725、Correcting Selectric或MT/ST",
+      "year": 1961,
+      "dateLabel": "1961-07-31（IBM发布）",
+      "dateKind": "launch",
+      "category": "office",
+      "status": "适合入选",
+      "rationale": "从电动打字到图形工作站的输入链补办公设备。不同于电脑键盘，它将按键直接转为纸上的字符。",
+      "problemAndTradeoffs": "可更换球形字头降低换字形门槛；纸张输出仍要求操作者处理排版和错误。1964磁带存储与1973纠错机型不能回填1961初代。",
+      "gapFilled": "缺Eliot Noyes、纸质办公与电动文字输入。",
+      "sources": [
+        {
+          "id": "H06A",
+          "title": "The IBM Selectric",
+          "publisher": "IBM History",
+          "url": "https://www.ibm.com/history/selectric",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "1961-07-31推出；721纸宽11英寸、725纸宽15英寸；球形字头倾转选择字符、字体可换；Eliot Noyes。后续MT/ST与纠错机型年代明确不同。",
+          "sourceType": "厂家历史档案",
+          "independence": "厂家第一方回顾，有企业历史叙述立场",
+          "commercialDisclosure": "品牌宣传，销量与市场占比不作为入选根据。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H06B",
+          "title": "Eliot Noyes — Selectric Typewriter, 1961",
+          "publisher": "San Francisco Museum of Modern Art",
+          "url": "https://www.sfmoma.org/artwork/2010.39/",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "Selectric、1961、Eliot Noyes与IBM的独立馆藏编目；未明确721配置，故只支撑设计收藏。",
+          "sourceType": "馆藏实物记录",
+          "independence": "独立机构；实物记录为第一手编目",
+          "commercialDisclosure": "未见单篇付费合作声明；不能据此推断不存在商业关系",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：型号与年代有可读记录，使用细节及媒体仍需补查",
+      "openQuestions": [
+        "补721使用手册、照片铭牌与纠错操作；不能使用Selectric II图片。",
+        "电动打字机是否新增office类别由总方案决定，当前不修改分类。",
+        "没有核定可记录的具体设计奖。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "Selectric Model 721",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC07",
+      "slug": "olivetti-valentine",
+      "model": "Valentine portable mechanical typewriter",
+      "brand": "Olivetti",
+      "regionVersion": "意大利Valentine机械打字机；并非电子打字机",
+      "year": 1969,
+      "dateLabel": "1969 年（产品上市）；MoMA另记1968设计年代",
+      "dateKind": "launch",
+      "category": "office",
+      "status": "待核查",
+      "rationale": "具有明确设计与奖项证据，但它是机械产品。建议作为输入设备比较背景，是否扩展电子产品馆藏边界须先决定，不能靠名气凑入电子数量。",
+      "problemAndTradeoffs": "ABS提箱与机体让纸质输入能被携带；这解决携行和收纳，并不意味着具有存储或电子编辑功能。",
+      "gapFilled": "可补意大利设计与便携办公的背景，当前电子主体范围仍有边界。",
+      "sources": [
+        {
+          "id": "H07A",
+          "title": "Ettore Sottsass, Perry King — Valentine Typewriter",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/collection/works/4576",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "设计年代1968、两位设计者、ABS与钢、Olivetti制造，不能据此把零售上市改成1968。",
+          "sourceType": "馆藏实物记录",
+          "independence": "独立机构；实物记录为第一手编目",
+          "commercialDisclosure": "厂家捐赠馆藏，图片需机构许可。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H07B",
+          "title": "Valentine",
+          "publisher": "Museo Tattile Statale Omero",
+          "url": "https://museoomero.it/en/opere/valentine/",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "1969上市、机械打字机和ABS提箱。其Awards栏称1970 Compasso d’Oro，级别以ADI主办方原目录为准。",
+          "sourceType": "馆藏实物记录",
+          "independence": "独立机构；实物记录为第一手编目",
+          "commercialDisclosure": "未见单篇付费合作声明；不能据此推断不存在商业关系",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H07C",
+          "title": "Italia Geniale — ADI catalogue, Valentine pp.108–109",
+          "publisher": "ADI — Associazione per il Disegno Industriale",
+          "url": "https://www.adi-design.org/upl/ADI%20MOSTRE%20CATALOGHI/Italia_Geniale_CATALOGO-CATALOGUE.pdf",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "PDF零基页54，印刷页108–109：Valentine、Menzione d’onore / Honourable Mention、1970。可读原目录确证级别，不记作金奖。",
+          "sourceType": "奖项主办方原始目录",
+          "independence": "主办方第一方奖项记录，具自身奖项推广立场",
+          "commercialDisclosure": "目录推广设计藏品；未见单条付费合作披露。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "主办方原目录确证1970荣誉提名；在线逐条数据库未复现。不能改写为Compasso d’Oro金奖。",
+          "limits": "主办方原目录确证1970荣誉提名；在线逐条数据库未复现。不能改写为Compasso d’Oro金奖。"
+        }
+      ],
+      "awards": [
+        {
+          "name": "Compasso d’Oro ADI",
+          "level": "Menzione d’onore / Honourable Mention（荣誉提名）",
+          "year": 1970,
+          "edition": "第十届",
+          "model": "Valentine",
+          "sourceIds": [
+            "H07C"
+          ],
+          "verification": "主办方原始目录印刷页108–109确证；不是Compasso d’Oro金奖，在线逐条数据库仍待复现"
+        }
+      ],
+      "confidence": "高：型号、机械性质及荣誉提名可核；入选边界待决",
+      "openQuestions": [
+        "馆藏范围是否允许机械输入背景成为正式展品；未决定前不ready。",
+        "主办方在线第十届数据库页未复现具体Valentine条目，当前用原始目录证明荣誉提名。",
+        "MoMA设计年1968和博物馆上市年1969须同时保留。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "Valentine portable mechanical typewriter",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC08",
+      "slug": "xerox-8010-star",
+      "model": "8010 Star Information System",
+      "brand": "Xerox",
+      "regionVersion": "美国1981初代8010 Star；与1973 Alto研究原型分开",
+      "year": 1981,
+      "dateLabel": "1981-04（正式推出8010 Star；未用原型年份代替商品年份）",
+      "dateKind": "launch",
+      "category": "computing",
+      "status": "适合入选",
+      "rationale": "补图形办公系统与网络工作流，不把Macintosh当作全部图形界面的起点。Alto作为本条背景研究，不另充消费商品数量。",
+      "problemAndTradeoffs": "桌面、鼠标和共享打印把文档任务连起来；作者回顾明确Star面向固定办公应用集，不能用今天开放平台的能力解释它。",
+      "gapFilled": "缺Xerox、联网办公与从研究原型到商业系统的区别。",
+      "sources": [
+        {
+          "id": "H08A",
+          "title": "The Xerox Star: A Retrospective, IEEE Computer, September 1989",
+          "publisher": "Jeff Johnson等原开发者 / IEEE；DigiBarn镜像",
+          "url": "https://digibarn.com/friends/curbow/star/retrospect/",
+          "publishedOn": "1989-09",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原开发者论文明确1981年4月推出8010、办公文档任务、共享文件和打印、固定应用集、两键鼠标；镜像版权与论文年代可读。",
+          "sourceType": "原开发者论文／原始历史资料",
+          "independence": "第一手开发者回顾；有项目参与立场，非完全独立成败评价",
+          "commercialDisclosure": "论文未见单篇商业赞助披露；网页为档案镜像。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H08B",
+          "title": "Xerox Star Runs One More",
+          "publisher": "Computer History Museum",
+          "url": "https://computerhistory.org/events/xerox-star-runs-one-more/",
+          "publishedOn": "1998-06-17",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "1998-06-17原团队示范活动与原1981宣传册摘述；作为历史操作及系统定位证据，不把1998修复情况当1981故障率。",
+          "sourceType": "历史博物馆活动档案",
+          "independence": "独立博物馆活动，开发者演示仍有参与立场",
+          "commercialDisclosure": "未见活动付费产品宣传披露。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H08C",
+          "title": "Xerox Alto Source Code",
+          "publisher": "Computer History Museum / Paul McJones",
+          "url": "https://computerhistory.org/blog/xerox-alto-source-code/",
+          "publishedOn": "2014-10-21",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "Alto为1970年代PARC研究原型，未零售；1976年作者亲用的图形、鼠标、Ethernet和共享打印经历。只作为Star之前的背景，不等同8010配置。",
+          "sourceType": "第一手使用回忆／博物馆历史档案",
+          "independence": "作者为历史参与者；博物馆机构独立于厂家",
+          "commercialDisclosure": "源代码许可只覆盖相应代码，不能推及照片。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：型号与年代有可读记录，使用细节及媒体仍需补查",
+      "openQuestions": [
+        "补1981原用户手册与具体硬件配置。",
+        "Alto需要单列背景节点时，应标research prototype，不能称1973上市个人电脑。",
+        "8010实物与后来的ViewPoint照片需要分开。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "8010 Star Information System",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC09",
+      "slug": "canon-ae-1",
+      "model": "AE-1",
+      "brand": "Canon",
+      "regionVersion": "日本1976初代AE-1，非1981 AE-1 Program",
+      "year": 1976,
+      "dateLabel": "1976-04（Canon资料的Marketed时间）",
+      "dateKind": "launch",
+      "category": "imaging",
+      "status": "适合入选",
+      "rationale": "补胶片曝光自动化，使QV-10前面存在摄影操作的历史层次，而不直接从模拟跳到数码。",
+      "problemAndTradeoffs": "快门优先自动曝光把一部分曝光计算交给电子控制；手动过片和FD镜头操作仍留给拍摄者，不等同自动对焦或程序曝光。",
+      "gapFilled": "缺日本大众胶片相机、电子曝光与机械操作共存。",
+      "sources": [
+        {
+          "id": "H09A",
+          "title": "AE-1 — Canon Camera Museum",
+          "publisher": "Canon",
+          "url": "https://global.canon/en/c-museum/product/film93.html",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "1976年4月、35mm SLR、FD卡口、快门优先AE与手动、电子控制快门、手动过片及选配Winder A；不套AE-1 Program功能。",
+          "sourceType": "厂家产品原始规格档案",
+          "independence": "厂家档案，非独立使用评价",
+          "commercialDisclosure": "品牌博物馆宣传；成本与量产效果只视为厂家叙述。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：型号与年代有可读记录，使用细节及媒体仍需补查",
+      "openQuestions": [
+        "补原使用手册及独立同期使用记录。",
+        "相机镜头、Winder等附件不能当默认标配。",
+        "图片核对AE-1而不是AE-1 Program。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "AE-1",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC10",
+      "slug": "olympus-om-1-film",
+      "model": "OM-1 (film camera; initially M-1)",
+      "brand": "Olympus",
+      "regionVersion": "日本胶片OM-1，排除2022 OM SYSTEM同名数码机",
+      "year": 1973,
+      "dateLabel": "1973 年（M-1改名OM-1）；1972 年为M-1起点",
+      "dateKind": "renaming",
+      "category": "imaging",
+      "status": "待核查",
+      "rationale": "补摄影器材小型化，与AE-1的曝光电子化形成不同解决路径。型号改名和机械相机的电子馆藏边界需明确。",
+      "problemAndTradeoffs": "小型SLR的携行与拍摄控制可比较；尚未读原手册，不从后继机或同名2022机补入电池、快门与测光细节。",
+      "gapFilled": "缺Olympus、胶片便携设计及同名／改名日期处理。",
+      "sources": [
+        {
+          "id": "H10A",
+          "title": "OM-1 — Product History",
+          "publisher": "OM Digital Solutions",
+          "url": "https://www.om-digitalsolutions.com/en/product-history/om-1/",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "官方历史明确1972以M-1发布、1973改名OM-1；小型化理念。这里只核姓名时间线，不据此引用后继数码规格。",
+          "sourceType": "品牌产品历史档案",
+          "independence": "后继品牌第一方历史回顾，非独立评价",
+          "commercialDisclosure": "品牌宣传；耐久数字未作为已核定使用结果。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：名称沿革清楚，商品地区与原始手册尚未核定",
+      "openQuestions": [
+        "原始Olympus说明书和1973改名资料待补；展品年份应是OM-1名称采用，不写1972 OM-1上市。",
+        "另一个官方英文历史页面存在年份括注歧义；暂不采用其具体月份。",
+        "机械摄影与电池测光的电子范围须界定。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "OM-1 (film camera; initially M-1)",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC11",
+      "slug": "kodak-dcs-1991",
+      "model": "Professional Digital Camera System (DCS; later DCS 100)",
+      "brand": "Kodak / Nikon",
+      "regionVersion": "Kodak数字背与存储系统配Nikon F3；具体实物组合待铭牌核定",
+      "year": 1991,
+      "dateLabel": "1991 年（Kodak发布DCS）；馆藏样机制造记录为1990",
+      "dateKind": "launch",
+      "category": "imaging",
+      "status": "适合入选",
+      "rationale": "补专业数码摄影在口袋相机前的阶段，重点讲系统而不只讲相机机身。外置存储的负担使数字化代价具体可见。",
+      "problemAndTradeoffs": "数字背、胶片SLR主体和外部存储组成系统；无需冲洗的链路仍伴随额外设备与连接。不能把后期集成式数码机的工作方式套入。",
+      "gapFilled": "缺美国专业影像与模拟机身改装到数字系统的桥梁。",
+      "sources": [
+        {
+          "id": "H11A",
+          "title": "Kodak Milestones — 1991",
+          "publisher": "Eastman Kodak",
+          "url": "https://www.kodak.com/zh/company/page/milestones/",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "1991 DCS推出、1.3MP、Nikon F3基础及新闻用途；原始名称DCS，不将后称DCS100写成唯一首发名。",
+          "sourceType": "厂家历史档案",
+          "independence": "厂家第一方",
+          "commercialDisclosure": "企业里程碑宣传，不据此采用世界第一措辞。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H11B",
+          "title": "Kodak DC3 camera back with Nikon HP F3 and Digital Storage Unit",
+          "publisher": "Science Museum Group Collection",
+          "url": "https://collection.sciencemuseumgroup.org.uk/objects/co423951",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "馆藏实物制造1990、DC3数字背、Nikon HP F3、Digital Storage Unit、电缆及电池；制造年不取代1991上市年。",
+          "sourceType": "馆藏实物记录",
+          "independence": "独立机构第一手实物编目",
+          "commercialDisclosure": "馆藏照片有权利人及商业许可渠道；开放数据和文字许可不自动覆盖照片。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：型号与年代有可读记录，使用细节及媒体仍需补查",
+      "openQuestions": [
+        "补DCS原手册，核定存储、连接、传输流程与具体型号。",
+        "1990实物制造与1991商品推出并存，不能简单取较早值。",
+        "媒体必须同时呈现数字背和外置系统，不能用裸Nikon F3代替。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "Professional Digital Camera System (DCS; later DCS 100)",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC12",
+      "slug": "sony-mavica-1981-prototype",
+      "model": "MAVICA electronic still-video prototype (1981)",
+      "brand": "Sony",
+      "regionVersion": "日本1981原型；非1997 Digital Mavica商品",
+      "year": 1981,
+      "dateLabel": "1981 年（原型公布）；8月开发公布仅有年报检索线索待阅读全文",
+      "dateKind": "prototype",
+      "category": "imaging",
+      "status": "待核查",
+      "rationale": "补拍摄不使用胶片但仍记录电视信号的中间阶段；明确是原型，不能充作上市数码照相机。",
+      "problemAndTradeoffs": "CCD、磁盘记录和电视回放重新连接摄影与视频；无胶片不自动等于数字照片文件，后来的软盘数字Mavica不能替代其性质。",
+      "gapFilled": "缺静态视频摄影与数字文件相机之间的区别。",
+      "sources": [
+        {
+          "id": "H12A",
+          "title": "Sony History — Mavica development",
+          "publisher": "Sony Group",
+          "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-g.html",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "1981 MAVICA原型、CCD、两英寸MaviPak及信号回放；后文涉及后续原型与1984使用，未回填1981具体样机。",
+          "sourceType": "厂家历史档案",
+          "independence": "厂家第一方回顾",
+          "commercialDisclosure": "品牌历史宣传；未采用世界第一或市场成功判断。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H12B",
+          "title": "Sony Annual Report 1981",
+          "publisher": "Sony Corporation",
+          "url": "https://www.sony.com/en/SonyInfo/IR/library/ar/1981-E.pdf",
+          "publishedOn": "1981",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "检索摘要给1981年8月开发公布；本轮未完成年报正文逐页复核，故具体月份不作为已确证事实。",
+          "sourceType": "原年报地址线索（未完成正文核读）",
+          "independence": "厂家原始财报；读取不足",
+          "commercialDisclosure": "企业投资者材料，营销描述不作为独立技术评价。",
+          "verificationMethod": "搜索索引／摘要和地址定位；详情原文未完整读取",
+          "verificationLimits": "仅证明线索存在；未读部分不支持确定事实，不进入ready正文sourceIds。",
+          "limits": "仅证明线索存在；未读部分不支持确定事实，不进入ready正文sourceIds。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中偏低：原型年可核，准确月份与原始信号规格仍待读",
+      "openQuestions": [
+        "需要完整读取1981年报原文与原技术资料，具体月份暂保留为待查。",
+        "原型只建议背景使用，不能记1981零售或使用未来上市预测。",
+        "确认静态视频记录性质；禁止配1990年代Digital Mavica照片。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "MAVICA electronic still-video prototype (1981)",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC13",
+      "slug": "sinclair-zx-spectrum-48k",
+      "model": "ZX Spectrum 48K",
+      "brand": "Sinclair",
+      "regionVersion": "英国48K初代代表；16K/48K合算同一候选，不以容量重复计数",
+      "year": 1982,
+      "dateLabel": "1982-04-23（Centre for Computing History的产品日期；原发布文书待补）",
+      "dateKind": "launch",
+      "category": "computing",
+      "status": "适合入选",
+      "rationale": "补英国低成本家庭计算，和Commodore 64对照不同键盘与BASIC入口。",
+      "problemAndTradeoffs": "紧凑键盘与关键词输入形成学习和日常操作的特殊门槛；本轮不采用未读原手册的硬件时序或可靠性结论。",
+      "gapFilled": "缺英国品牌、家用编程与游戏并存的计算路线。",
+      "sources": [
+        {
+          "id": "H13A",
+          "title": "Sinclair ZX Spectrum 48k",
+          "publisher": "Centre for Computing History",
+          "url": "https://www.computinghistory.org.uk/det/424/Sinclair-ZX-Spectrum-48k/default.htm",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "实物条目指定48K并列1982-04-23日期、橡胶键与BASIC关键词；具体上市日仍待同期原发布资料交叉核。",
+          "sourceType": "馆藏实物记录",
+          "independence": "独立机构；实物记录为第一手编目",
+          "commercialDisclosure": "未见单篇付费合作声明；不能据此推断不存在商业关系",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中：型号与年代有可读记录，使用细节及媒体仍需补查",
+      "openQuestions": [
+        "补Sinclair原BASIC／用户手册及发布材料；硬件技术事实以原手册为准。",
+        "照片核对48K橡胶键初代，排除Spectrum+与后期128K。",
+        "不把16K与48K拆成两件扩充数量。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "ZX Spectrum 48K",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC14",
+      "slug": "logitech-logimouse-c7",
+      "model": "Logimouse C7",
+      "brand": "Logitech",
+      "regionVersion": "瑞士品牌，1985美国零售语境；生产地未核定",
+      "year": 1985,
+      "dateLabel": "1985-12（Logitech历史记首次零售销售月）",
+      "dateKind": "launch",
+      "category": "computing",
+      "status": "待核查",
+      "rationale": "补非电脑本体的输入设备与瑞士品牌；让鼠标成为独立操作对象，避免把外设只当机身附属。",
+      "problemAndTradeoffs": "鼠标在手部移动和屏幕定位之间建立关系；原C7技术手册未读，按钮、接口及内部传感形式不能从收藏者文章或后继型号补入。",
+      "gapFilled": "缺瑞士、独立外设与指针输入产品。",
+      "sources": [
+        {
+          "id": "H14A",
+          "title": "About Logitech — company history, 1985",
+          "publisher": "Logitech",
+          "url": "https://logistart.logitech.com/about-us",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "C7为品牌首件零售鼠标、美国价格语境与1985年12月首次销售月；未用于证明具体传感器或协议。",
+          "sourceType": "厂家历史档案",
+          "independence": "厂家第一方，页面为官方Logitech子域",
+          "commercialDisclosure": "品牌回顾；首月销售数量未采用。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H14B",
+          "title": "Logimouse C7 Firmware Revision 3.0, January 1986",
+          "publisher": "Logitech；Bitsavers镜像",
+          "url": "https://bitsavers.org/pdf/logitech/mouse/Logitech_Logimouse_C7_Firmware_Rev_3.0_Jan86.pdf",
+          "publishedOn": "1986-01",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原技术手册地址已发现，但读取失败；不作为规格依据，故保持待核查。",
+          "sourceType": "原手册地址线索（不可读）",
+          "independence": "厂家原资料的第三方档案镜像；正文未核",
+          "commercialDisclosure": "未见商业披露；无法读取不等于已核定。",
+          "verificationMethod": "搜索索引／摘要和地址定位；详情原文未完整读取",
+          "verificationLimits": "仅证明线索存在；未读部分不支持确定事实，不进入ready正文sourceIds。",
+          "limits": "仅证明线索存在；未读部分不支持确定事实，不进入ready正文sourceIds。"
+        }
+      ],
+      "awards": [],
+      "confidence": "中偏低：零售年代可核，技术和使用资料不可读",
+      "openQuestions": [
+        "读取原C7手册，核定按钮、接口、传感与主机兼容。",
+        "地区机型与底部铭牌待比对；不使用Logitech公司后来获奖替代C7产品奖。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "Logimouse C7",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      }
+    },
+    {
+      "id": "HC15",
+      "slug": "ibm-thinkpad-701c",
+      "model": "ThinkPad 701C (Type 2630-UT5)",
+      "brand": "IBM",
+      "regionVersion": "美国75MHz、540MB UT5；不混701CS被动矩阵屏或50MHz UT2",
+      "year": 1995,
+      "dateLabel": "1995-03（美国2630-UT5可售）；1995-12撤售",
+      "dateKind": "launch",
+      "category": "computing",
+      "status": "首批ready",
+      "rationale": "补非Apple笔记本与机械变形输入。在电脑编年史里填补1984桌面机到1998iMac之间的便携形态变化，入选来自明确的问题与取舍，不依赖未经读到级别的iF奖。",
+      "problemAndTradeoffs": "小屏机身收纳全尺寸键盘，以机构运动换取展开操作面积；更大屏幕机身的市场方向削弱了这一方案的必要性。",
+      "gapFilled": "缺1990年代非Apple笔记本、TrackPoint与可变形键盘。",
+      "sources": [
+        {
+          "id": "H15A",
+          "title": "ThinkPad — The butterfly takes flight",
+          "publisher": "IBM History",
+          "url": "https://www.ibm.com/history/thinkpad",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "1995年701C、John Karidis两片键盘随开合伸出、10.4英寸屏幕背景、生产延迟和屏幕增长、同年推出并撤售。",
+          "sourceType": "厂家历史档案",
+          "independence": "厂家第一方回顾，不是独立市场评价",
+          "commercialDisclosure": "企业品牌史宣传；MoMA收藏独立核对，未采用销量或奖项。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H15B",
+          "title": "ThinkPad 701 Portable Computer, 1995",
+          "publisher": "The Museum of Modern Art",
+          "url": "https://www.moma.org/collection/works/2168",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "701系列设计、1995、Sam Lucente、John Karidis、Robert P. Tennant、Richard Sapper、IBM与厂家捐赠馆藏112.1996；没有确认UT5具体配置。",
+          "sourceType": "馆藏实物记录",
+          "independence": "独立机构；实物记录为第一手编目",
+          "commercialDisclosure": "厂家捐赠；图像权利列设计者／IBM，未取得复制许可。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H15C",
+          "title": "IBM ThinkPad online reference — 701C/701CS, compiled June 1996",
+          "publisher": "IBM / Roger Dodson；IBMfiles镜像",
+          "url": "https://www.ibmfiles.com/ibmfiles/powerpc/thinkpad_online_reference.pdf",
+          "publishedOn": "1996-06",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "PDF零基页32（第33页）：UT5 75MHz/540MB、美国美元价格、可售Mar95、701C主动矩阵TFT10.4英寸640×480、85键全尺寸键盘、TrackPointIII、外置软驱与MultiPortII、待机／挂起／休眠、Dec95 withdrawn；手册覆盖多配置，UT5字段单独取值。",
+          "sourceType": "厂家原始产品参考文件／档案镜像",
+          "independence": "IBM原稿，第三方保管；与厂家历史不是独立评价来源",
+          "commercialDisclosure": "原参考文档含商业产品配置和价格，第三方镜像没有改变原稿性质。",
+          "verificationMethod": "读取第三方镜像中的原厂／原刊正文或OCR，并区分原作者与保管站",
+          "verificationLimits": "镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。",
+          "limits": "镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。"
+        },
+        {
+          "id": "H15D",
+          "title": "iF Design — IBM ThinkPad 701, project 20531",
+          "publisher": "iF Design",
+          "url": "https://ifdesign.com/en/winner-ranking/project/ibm-thinkpad-701/20531",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "具体项目地址及型号名称从索引发现，详情正文读取失败；获奖年与级别未核实，绝不作获奖依据。",
+          "sourceType": "奖项数据库线索（正文不可读）",
+          "independence": "奖项主办机构；本轮证据读取不足",
+          "commercialDisclosure": "数据库宣传设计奖，未见单条付费合作披露。",
+          "verificationMethod": "搜索索引／摘要和地址定位；详情原文未完整读取",
+          "verificationLimits": "iF年份及奖项级别未知；awards空，H15D未进入ready公开展品sourceIds。",
+          "limits": "iF年份及奖项级别未知；awards空，H15D未进入ready公开展品sourceIds。"
+        }
+      ],
+      "awards": [],
+      "confidence": "高：1995美国UT5配置与设计可交叉核；奖项和媒体仍为空",
+      "openQuestions": [
+        "iF记录存在但年份／等级未读，不写1996金奖或Top Ten，也不以MoMA收藏代替奖项。",
+        "MoMA记录701系列，不能单独证明本展品UT5配置。",
+        "媒体尚无完成授权且型号核对的照片，ready仅指正文与事实准备完成。"
+      ],
+      "media": {
+        "imageStatus": "仅有资料页图片线索，尚未导入或完成许可核对",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "ThinkPad 701C (Type 2630-UT5)",
+        "rights": "未取得图片或视频复制许可；馆藏公开展示不等于开放授权",
+        "fallback": "使用文字与明确型号标签；不以相近机型、生成图或跨地区照片冒充实物"
+      },
+      "readyExhibit": {
+        "slug": "ibm-thinkpad-701c",
+        "year": 1995,
+        "name": "ThinkPad 701C",
+        "brand": "IBM",
+        "category": "computing",
+        "categoryLabel": "个人计算",
+        "aliases": [
+          "IBM ThinkPad 701C",
+          "ThinkPad Butterfly",
+          "2630-UT5"
+        ],
+        "tags": [
+          "笔记本",
+          "可变形键盘",
+          "TrackPoint",
+          "美国",
+          "1990年代"
+        ],
+        "summary": "开盖时，两片键盘伸到机身两侧；合盖时，它们退回小机身。701C让携带尺寸与打字面积分开，也记录了机械巧思与更大屏幕路线之间的取舍。",
+        "context": "1995年，IBM把701C的键盘做成会移动的部件。美国UT5配置在三月可售，机身配10.4英寸屏幕；厂商回顾把它的问题说得很具体：小型笔记本要容纳足够大的键盘，而屏幕又限定了箱体轮廓。这里选取有原始配置记录的75MHz版本，避免将同系列不同屏幕和处理器拼成一台机器。与馆中的IBM PC及2006年MacBook并列，可以把观察焦点从软件与运算转向手、屏幕和行李空间之间的关系。便携并不只有减少重量一条路径，也可以重新分配设备在收纳和工作时占用的面积。",
+        "design": "701C的键盘分成两片，开盖时随机构运动向两侧展开，合盖时收回。IBM将这一结构归于John Karidis；原参考文件另列85键全尺寸键盘与TrackPoint III。设计把携带状态和打字状态分开：盖住屏幕时追求紧凑，开始工作时再取得手指需要的横向距离。指点杆位于键盘之中，使输入文字与移动指针保持在同一片操作区域。由此可见，机构、按键与指针设备共同组织了人的动作；展览应同时呈现展开和收起的状态，单看合上的黑色盒子会漏掉设计要解决的核心问题。",
+        "significance": "MoMA将1995年的ThinkPad 701纳入设计馆藏，编目列出Sam Lucente、John Karidis、Robert P. Tennant、Richard Sapper与IBM。这个记录确认了系列设计进入博物馆的事实，并不单独证明本展品的UT5配置，也不代表获得某一级别的设计奖。它适合在计算机发展中提出一个具体问题：熟悉的输入工具能否保留尺寸，却改变收纳方法？把它与固定键盘的笔记本比较，观众能观察解决便携问题时不同部件承担的代价。这里的代表性在于这种可解释的选择，而不是把罕见结构、机构复杂度或收藏地位直接等同为更好的使用结果。",
+        "usage": "操作者掀开屏幕后，展开的键盘用于打字，TrackPoint用于指针操作。原参考文件还列出外置软驱与MultiPort II，后者为外接显示器、键盘及串并行设备提供连接；因此移动时的机身和桌面工作时的配套设备需要一起理解。一次办公过程既可以围绕笔记本本身展开，也可能在固定位置接入较大的输入与显示工具。待机、挂起和休眠是原文件区分的状态，说明合上盖、暂离机器和结束工作不是同一种动作。展品讲解可沿着开盖、输入、接入桌面设备和收纳的顺序，解释便携如何与原有办公习惯协商，而非只展示开合机构的表演。",
+        "limitations": "IBM回顾提到生产延迟，以及产品推出时笔记本屏幕已经变大；原始参考文件记载701C在1995年十二月撤售。大屏幕为机身带来更宽的边界，也会改变展开键盘是否必要这一前提。短暂的销售周期因此应与这种需求变化一起阅读，不能仅凭撤售推断键盘故障、使用失败或消费者拒绝。维护今天的旧机还需要另查实物机构和维修材料，本轮没有运行或耐久测试。它展示了精巧方案依赖具体约束：当约束改变，增加活动部件所换来的空间收益也可能减少；这是一项策展判断，不是对所有变形设备可靠性的结论。",
+        "dateLabel": "1995-03（美国2630-UT5可售）；1995-12撤售",
+        "features": [
+          "两片键盘随屏幕开合展开与收纳。",
+          "美国2630-UT5为75MHz、540MB配置；701C使用主动矩阵TFT。",
+          "TrackPoint III与MultiPort II连接移动机身和桌面设备。"
+        ],
+        "facts": [
+          {
+            "label": "美国配置",
+            "value": "ThinkPad 701C Type 2630-UT5，75MHz，540MB；1995年3月可售",
+            "sourceIds": [
+              "H15C"
+            ]
+          },
+          {
+            "label": "屏幕",
+            "value": "10.4英寸主动矩阵TFT，640×480；701CS的屏幕规格不混入",
+            "sourceIds": [
+              "H15C"
+            ]
+          },
+          {
+            "label": "键盘与指针",
+            "value": "85键全尺寸可展开键盘、TrackPoint III",
+            "sourceIds": [
+              "H15A",
+              "H15C"
+            ]
+          },
+          {
+            "label": "设计馆藏",
+            "value": "MoMA ThinkPad 701 Portable Computer，1995，馆藏112.1996；系列记录",
+            "sourceIds": [
+              "H15B"
+            ]
+          },
+          {
+            "label": "撤售",
+            "value": "1995年12月（原IBM参考文档）",
+            "sourceIds": [
+              "H15C"
+            ]
+          }
+        ],
+        "sourceIds": [
+          "H15A",
+          "H15B",
+          "H15C"
+        ],
+        "paragraphSources": {
+          "context": [
+            "H15A",
+            "H15C"
+          ],
+          "design": [
+            "H15A",
+            "H15C"
+          ],
+          "significance": [
+            "H15B",
+            "H15C"
+          ],
+          "usage": [
+            "H15C"
+          ],
+          "limitations": [
+            "H15A",
+            "H15C"
+          ]
+        },
+        "relatedSlugs": [
+          "ibm-pc-5150",
+          "macintosh-128k",
+          "macbook-2006"
+        ],
+        "heroMediaId": null,
+        "videoIds": [],
+        "reviewedOn": "2026-10-11",
+        "mediaStatus": "text-ready-photo-pending"
+      },
+      "chroniclePlacement": [
+        {
+          "type": "computers",
+          "position": "1995；Macintosh 128K（1984）之后、iMac G3（1998）之前；同年新增品按正式时间另排序",
+          "summary": "以可展开键盘让小机身在工作时获得全尺寸输入区域。",
+          "change": "从桌面整体机转向移动设备中收纳面积与操作面积的分离；只提出内容位置，不涉及页面设计。"
+        }
+      ]
+    },
+    {
+      "id": "HC16",
+      "slug": "sony-cdp-101",
+      "model": "CDP-101",
+      "brand": "Sony",
+      "regionVersion": "1982日本首发作为年代锚；英文原手册与美国评测只支持通用操作，不套日本电源规格",
+      "year": 1982,
+      "dateLabel": "1982-10-01（日本首发；其他市场日期另核）",
+      "dateKind": "launch",
+      "category": "audio",
+      "status": "首批ready",
+      "rationale": "补固定家用数字播放与音乐介质变化；有厂家史、原操作／维修资料及两份同期第一手评测。它不是耳机发展节点，应先只入馆藏。",
+      "problemAndTradeoffs": "标准化数字光盘、机械装载、控制与唱片供给共同构成体验；无接触读取并不等于无需介质保养或任意碟片兼容。",
+      "gapFilled": "缺模拟磁带到数字光盘、家用播放组件与Sony—Philips标准合作。",
+      "sources": [
+        {
+          "id": "H16A",
+          "title": "Digitizing Music — Sony History, Volume 2 Chapter 7",
+          "publisher": "Sony Group",
+          "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-07.html",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "CD标准由Sony与Philips合作，16bit/44.1kHz；CDP-101于1982-10-01推出、168000日元、唱片供给及元件开发背景；日本地区由H16G原文补充。未采用世界第一和销量。",
+          "sourceType": "厂家历史档案",
+          "independence": "厂家第一方回顾，具有品牌成功叙事立场",
+          "commercialDisclosure": "企业宣传；不当独立音质或市场影响测量。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H16B",
+          "title": "Sony CDP-101 Operating Instructions, 1982, 14 pages",
+          "publisher": "Sony Corporation；ManualsLib镜像",
+          "url": "https://www.manualslib.com/manual/3991316/Sony-Cdp-101.html",
+          "publishedOn": "1982",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原稿©1982 Sony；目录和摘要可读：第4页持盘边缘／避免触及彩色表面，第6页控制，第8页放盘／播放，第9页寻曲，第10页重复，第13页遥控；不推日本电压。",
+          "sourceType": "厂家原使用说明书／档案镜像",
+          "independence": "Sony原稿，第三方托管；不算独立使用评价",
+          "commercialDisclosure": "托管站带广告；说明书内容与站点推广分开。",
+          "verificationMethod": "读取原手册封面、目录与全册页面摘要；另读第9页寻曲原文OCR。",
+          "verificationLimits": "第8和13页单页抓取失败；装盘方向由同期直接使用记录H16D支持，其他操作限于已读摘要／原文。未核日本首发电源。",
+          "limits": "第8和13页单页抓取失败；装盘方向由同期直接使用记录H16D支持，其他操作限于已读摘要／原文。未核日本首发电源。"
+        },
+        {
+          "id": "H16C",
+          "title": "Sony CDP-101 Service Manual — US, Canadian, UK, AEP models",
+          "publisher": "Sony Corporation；ManualsLib镜像",
+          "url": "https://www.manualslib.com/manual/3344799/Sony-Cdp-101.html",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原服务资料首页列16bit线性、44.1kHz、耳机／线路输出及地区版本；非日本首发电源证明。",
+          "sourceType": "厂家原服务手册／档案镜像",
+          "independence": "Sony原稿，第三方托管；与品牌史不是独立来源",
+          "commercialDisclosure": "托管站带广告；未据此虚构原稿版权许可。",
+          "verificationMethod": "读取第三方镜像中的原厂／原刊正文或OCR，并区分原作者与保管站",
+          "verificationLimits": "镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。",
+          "limits": "镜像不构成额外独立来源；地区、版本和样机范围按verifiedScope限定。"
+        },
+        {
+          "id": "H16D",
+          "title": "Sony CDP-101 Compact Disc Player — J. Gordon Holt",
+          "publisher": "Stereophile",
+          "url": "https://stereophile.com/content/sony-cdp-101-compact-disc-player",
+          "publishedOn": "1983-01-23（原刊）；1995-01-23（网页）",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "First Published 1983-01-23，网上标1995-01-23；美国试用：水平抽屉、标签朝上、寻曲与重复、遥控直选号、红外需指向、样机当时没有说明书。仅为该作者和该样机经历。",
+          "sourceType": "同期第一手产品评测",
+          "independence": "独立媒体作者直接使用；不是厂家技术保证",
+          "commercialDisclosure": "广告支持媒体，页面有Media Kits；样机提供方未完整披露，未见单篇付费合作声明，不能推断完全无商业关系。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H16E",
+          "title": "Equipment Profile: Sony CDP-101 Digital Audio Disc Player — Leonard Feldman, Audio Jan.1983 pp.64–66",
+          "publisher": "Audio magazine；Retronik/Silicium档案镜像",
+          "url": "https://retronik.silicium.org/DOCUMENTS/Audiovideo/Sony/Sony-CDP-101-TEST-1983-01-4-us.pdf",
+          "publishedOn": "1983-01",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "原作者复测第一手仪器记录；说明Sony借出YEDS2测试碟且播放器借回再测，数据属于当时样机及测试条件；不把阈值以下等同零失真。",
+          "sourceType": "同期第一手仪器测试原稿",
+          "independence": "独立杂志测量；厂商提供测试介质形成条件依赖",
+          "commercialDisclosure": "原文明确Sony出借测试碟，借回播放器；原页有广告，未据此认定付费评测。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H16F",
+          "title": "File: CDP101a.jpg",
+          "publisher": "Wikimedia Commons / Atreyu, later edit by Ukexpat",
+          "url": "https://commons.wikimedia.org/wiki/File:CDP101a.jpg",
+          "publishedOn": "2008-05-14；现版本2013-10-01",
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "文件页描述Sony CDP-101、2008-05-14自摄、作者Atreyu、2013-10-01 Ukexpat裁切与调整；CC BY3.0明确。未下载／未视觉比对，不确认日本背部铭牌。",
+          "sourceType": "作者自摄媒体及原许可记录",
+          "independence": "摄影者自有作品；型号仅在元数据层核对",
+          "commercialDisclosure": "未见商业赞助披露；仅适用本文件的许可，不推及官网照片。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        },
+        {
+          "id": "H16G",
+          "title": "CD的诞生 — 索尼故事",
+          "publisher": "Sony China",
+          "url": "https://www.sony.com.cn/aboutsony/1214.htm",
+          "publishedOn": null,
+          "checkedOn": "2026-10-11",
+          "verifiedScope": "官方中文史正文明确1982-10-01向日本市场推出CDP-101；只用于地区和首发日。文本的50首／50张与价格译法有歧义，其他数量、音质和普及判断不采用。",
+          "sourceType": "厂家历史档案",
+          "independence": "厂家第一方，与英文品牌史不是独立来源",
+          "commercialDisclosure": "品牌历史宣传；旧文中强烈评价不作为客观性能证据。",
+          "verificationMethod": "读取所列URL正文／馆藏编目／原目录；未仅依靠检索标题",
+          "verificationLimits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。",
+          "limits": "仅用于verifiedScope列明的事实；编目年、制造年、发布年和售卖日不互换；图片另核许可。"
+        }
+      ],
+      "awards": [],
+      "confidence": "高：发布年日与通用格式／操作有原资料，独立同期观察可核；媒体尚未导入",
+      "openQuestions": [
+        "1982日本日期不表示美国或欧洲同日开售；地区电压必须另查。",
+        "首发标题／价格来自厂家史，不据此声称全体消费者都昂贵或立即普及。",
+        "可许可照片需要最终画面与铭牌核对，并落实作者、修改者、许可链接和变更说明。",
+        "无已核定奖项；博物馆历史注册旧链接跳转，未用作事实或奖项依据。"
+      ],
+      "media": {
+        "imageStatus": "可许可候选文件页已核；尚未下载、视觉核对或导入",
+        "videoStatus": "未核得可使用的型号匹配视频",
+        "modelMatch": "Commons文字元数据匹配CDP-101；照片尚未视觉核对，日本首发地区铭牌未确认",
+        "rights": {
+          "status": "candidate-license-verified",
+          "filePage": "https://commons.wikimedia.org/wiki/File:CDP101a.jpg",
+          "license": "CC BY 3.0 Unported",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "author": "Atreyu",
+          "modifications": "2013-10-01 Ukexpat裁切空白、调整色阶、锐化",
+          "creditPlan": "Atreyu / Wikimedia Commons，CC BY 3.0；注明Ukexpat及本站额外改动",
+          "scope": "仅限此照片；未赋予Sony标志、官网照片或视频其他权利"
+        },
+        "fallback": "在照片完成型号／授权落实前保留无图文字展品，heroMediaId为null"
+      },
+      "readyExhibit": {
+        "slug": "sony-cdp-101",
+        "year": 1982,
+        "name": "CDP-101",
+        "brand": "Sony",
+        "category": "audio",
+        "categoryLabel": "声音与聆听",
+        "aliases": [
+          "Sony CDP-101",
+          "CDP101"
+        ],
+        "tags": [
+          "CD",
+          "数字音频",
+          "家用音响",
+          "日本",
+          "1980年代"
+        ],
+        "summary": "将数字音乐光盘放入水平抽屉，再用按键与遥控器选择曲目。CDP-101把新介质变成可操作的家用组件，聆听也依赖唱片供给、格式和装载机构共同成立。",
+        "context": "1982年十月一日，Sony在日本推出CDP-101。此前，Sony与Philips共同制定数字音乐光盘格式，最终采用16位与44.1千赫的参数；播放器之外，还要让唱片能够生产和供应。厂商历史记录了元件改进与制碟准备，这提醒我们，一种新介质不能只凭一台机器进入家庭。展览可以把它放在磁带播放设备和后来随身数字音乐之间，观察固定音响如何获得另一种内容载体。这里关注的是硬件、标准与作品供给彼此相接的过程，不把首发日期直接当成整个家庭市场已经更换介质的证明，也不把品牌叙事中的成功等同于所有人的使用体验。",
+        "design": "CDP-101将光盘平放在前面板伸出的抽屉中。原服务资料列出数字音频格式、线路输出与耳机输出，操作手册则把播放、暂停、寻曲和重复等功能安排为按钮。外形因此同时容纳两组任务：装入一件实体介质，以及在已记录的曲目中选择时间位置。抽屉延续了把物件交给机器的动作，曲号与时间显示帮助人确认读取状态。与手动把唱针放到目标位置相比，选择更依赖已记录的曲目信息和控制逻辑。这个对照是策展解读；它不声称按键消除了所有等待，也不以数字格式参数推断任意录音的音质。",
+        "significance": "两份同期文章让新介质的体验有了可追溯的观察。J. Gordon Holt在1983年评测中记录遥控器能按编号直接选曲；Leonard Feldman则在同年《Audio》中用测试碟和仪器复测播放器。这些材料分别展示操作与量测怎样参与认识新设备，但都依赖具体样机和条件。展品的意义可以由这两种证据展开：听众获得按曲目组织聆听的方式，评价者也需要新的介质与工具检验机器。与Walkman比较时，变化并非简单的便携升级，而是载体、选曲动作与播放空间的重新组合。这里保留不同观察的边界，让技术标准、测量结果与个人喜好各自承担能够支持的结论。",
+        "usage": "播放时，使用者先接入对应的音响输入并选择输入源，打开抽屉，将光盘标签朝上放入，再开始播放。原手册说明了寻曲和重复操作；同期评测还描述遥控器可以直接选择曲号，让人在座位上改变播放内容。拿取光盘时，手册要求握住边缘，避免触摸读取面，说明无唱针接触不等于介质可以任意处理。一次聆听由准备音响、装盘、确认曲目和调整播放组成，机器在读取与定位之间承接这些动作。它保留了实体收藏的可见性，同时把曲目位置交给按钮和显示来管理；展览可据此比较磁带倒带、光盘寻曲和后来屏幕列表所需要的不同操作。",
+        "limitations": "当年的Holt评测指出，红外遥控器需要指向主机；作者收到的试用机没有说明书，部分功能因而尚未理解。这是特定评测的经历，不是所有零售机都缺少说明书的证明。Feldman的测量又明确使用Sony借出的测试碟，并借回播放器复测；结果有测试条件，不能推作今天所有存世机器的状态。原资料还区分地区版本，日本首发日期也不能替代其他市场的发售与电源信息。对于展览，最有用的取舍是便利仍依赖格式、介质和操作知识：直接选曲缩短寻找过程，却没有取消装盘、保养与系统连接。是否适合现代使用，仍需另做实物检查，本轮研究没有这样的运行验证。",
+        "dateLabel": "1982-10-01（日本首发；其他市场日期另核）",
+        "features": [
+          "水平抽屉装载实体光盘，按键选择播放与重复。",
+          "数字音频采用16位、44.1kHz格式；服务资料区分地区版本。",
+          "遥控器可按曲号选择；同期评测说明了其指向要求。"
+        ],
+        "facts": [
+          {
+            "label": "首发日期",
+            "value": "1982-10-01，日本（未代替其他市场日期）",
+            "sourceIds": [
+              "H16A",
+              "H16G"
+            ]
+          },
+          {
+            "label": "音频格式",
+            "value": "16bit线性、44.1kHz",
+            "sourceIds": [
+              "H16A",
+              "H16C"
+            ]
+          },
+          {
+            "label": "装载与操作",
+            "value": "水平抽屉、标签朝上；播放、寻曲与重复",
+            "sourceIds": [
+              "H16B",
+              "H16D"
+            ]
+          },
+          {
+            "label": "同期使用记录",
+            "value": "J. Gordon Holt，Stereophile，原刊1983-01-23",
+            "sourceIds": [
+              "H16D"
+            ]
+          },
+          {
+            "label": "同期测试记录",
+            "value": "Leonard Feldman，Audio，1983年1月；厂家借出测试碟",
+            "sourceIds": [
+              "H16E"
+            ]
+          }
+        ],
+        "sourceIds": [
+          "H16A",
+          "H16B",
+          "H16C",
+          "H16D",
+          "H16E",
+          "H16G"
+        ],
+        "paragraphSources": {
+          "context": [
+            "H16A",
+            "H16C",
+            "H16G"
+          ],
+          "design": [
+            "H16B",
+            "H16C",
+            "H16D"
+          ],
+          "significance": [
+            "H16D",
+            "H16E"
+          ],
+          "usage": [
+            "H16B",
+            "H16D"
+          ],
+          "limitations": [
+            "H16B",
+            "H16C",
+            "H16D",
+            "H16E"
+          ]
+        },
+        "relatedSlugs": [
+          "sony-tps-l2",
+          "ipod-1",
+          "radiola-iii"
+        ],
+        "heroMediaId": null,
+        "videoIds": [],
+        "reviewedOn": "2026-10-11",
+        "mediaStatus": "text-ready-license-candidate-not-imported"
+      },
+      "chroniclePlacement": [],
+      "chroniclePlacementNote": "只建议加入audio馆藏。现有五类是手机、电脑、手表、手环、耳机；CD播放组件不应硬塞入耳机编年史。未来若独立增加音频介质脉络，再研究内容位置。"
+    }
+  ],
+  "integrationReview": {
+    "checkedOn": "2026-10-11",
+    "reviewer": "主整合，响应显式medium只读复核",
+    "changes": "统一verificationMethod/limits并保留原限制；ready品类标签沿用现有分类；Framework具体来源范围和年度媒体披露补齐。",
+    "limit": "没有把来源层级提升为全文核查；候选身份和未决项原样保留。"
+  }
+}

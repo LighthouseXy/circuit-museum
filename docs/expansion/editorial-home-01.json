@@ -1,0 +1,1165 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-11",
+  "status": "editorial-explanatory-revision-ready-for-review",
+  "reasoningEffort": "medium (inherited; unchanged)",
+  "base": {
+    "preservedCollection": "docs/expansion/base-40-preserved.json",
+    "selection": "docs/expansion/selection-150.json"
+  },
+  "exhibits": [
+    {
+      "slug": "hamilton-pulsar-p1",
+      "year": 1972,
+      "name": "Pulsar P1",
+      "brand": "Hamilton",
+      "category": "wearable",
+      "categoryLabel": "穿戴与沉浸",
+      "aliases": [
+        "Pulsar P1",
+        "Hamilton"
+      ],
+      "tags": [
+        "穿戴与沉浸",
+        "Hamilton"
+      ],
+      "summary": "按键点亮红色数字的金质腕表，把读时组织成按下、显示和阅读三个动作；新型电子界面与贵金属佩戴形式在同一件产品中结合。",
+      "context": "Hamilton 在 1970 年公开展示 Pulsar 的电子数字显示构想，量产 P1 于 1972 年上市。P1 采用十八开黄金表壳与表链，将新型电子计时与贵金属腕表形式结合。产品的变化首先发生在读时界面：佩戴者看到红色数字，按键也参与查询时间。它适合展示电子技术怎样进入已经成熟的随身物品，以及外壳形式与内部结构怎样以不同速度演变。",
+      "design": "P1 的外观由垫形表壳、表链和红色数字显示区组成。显示方式取代了传统表盘上的连续指针，表侧按钮成为请求时间的入口。官方回顾以按下按钮后出现数字的演示解释这套界面：用户、控制和显示之间形成明确顺序。黄金外壳保留腕表作为佩戴物的材质语言，数字显示则使内部电子结构直接影响外观。它同时让人看到产品的两个层次：如何被佩戴，以及如何把正在计量的时间交给佩戴者阅读。",
+      "significance": "机械指针表把时间连续摆在表面，电子数字显示则要解决怎样把内部计量转成佩戴者一眼能读的内容。P1选择红色数字，但读时从直接看表变成按键唤出：手指发出请求，眼睛读取回应。这一变化由Hamilton的原型与量产回顾明确呈现，所能证明的是界面和动作改变。与F-91W的持续数字显示相比，数字腕表并没有只有一种用法；与第一代Apple Watch的抬腕提示相比，P1还只围绕取时间组织交互，没有消息与应用的负担。黄金表壳和当年二千一百美元价格又把新显示放进昂贵腕表的购买条件中。选择它，是因为技术进入成熟物品时，先改变了最普通的一次查询，同时保留佩戴与材质的传统。按键多出的动作与高价取得门槛，是这条早期路线的具体代价；后来的普及程度不能仅由它的上市证明。",
+      "dateLabel": "1972年（P1上市；不同于1970年原型）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "按键唤出LED数字时间，取代以指针位置读时的方式。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1972年（P1上市；不同于1970年原型）",
+          "sourceIds": [
+            "C:CH02"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "穿戴与沉浸",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:CH02",
+        "C:S38",
+        "C:CH03",
+        "B:EA02-C01",
+        "B:EA02-C04",
+        "B:EA02-C03",
+        "B:EA02-C02",
+        "B:EA02-C05"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:CH02"
+        ],
+        "design": [
+          "C:CH02"
+        ],
+        "usage": [
+          "C:CH02"
+        ],
+        "significance": [
+          "C:CH02",
+          "C:S38",
+          "C:CH03",
+          "B:EA02-C01",
+          "B:EA02-C04",
+          "B:EA02-C03",
+          "B:EA02-C02",
+          "B:EA02-C05"
+        ],
+        "limitations": [
+          "C:CH02"
+        ]
+      },
+      "heroMediaId": null,
+      "videoIds": [],
+      "relatedSlugs": [
+        "fitbit-flex",
+        "xiaomi-mi-band-1"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-pending",
+      "editorialNotes": [
+        "新增图像须核对确切型号与复制许可；不得套用相似型号。"
+      ],
+      "id": "04",
+      "chronicleIds": [
+        "watches"
+      ],
+      "usage": "佩戴者想查看时间时，按动表侧按钮，读取显示区出现的红色数字，再将手放回日常姿势。抬腕、按键和阅读成为相互配合的动作，表面显示也由这次请求唤出。对于熟悉指针的人，这要求建立另一种读时习惯：手指参与查询，眼睛读取数字，动作完成后继续活动。这一描述围绕官方回顾明确呈现的界面展开，具体调校仍需相应 P1 说明书。\n\n反复查看时，每次都从按键开始；电子计时并没有把所有动作一并自动化。表壳和表链承担佩戴，按钮与红色窗口承担查询，两组部件需要一起观察，才能理解为什么数字技术可以进入腕表，却仍保留金属首饰的外形。",
+      "limitations": "显示由按钮唤出，佩戴者查看时间需要配合手指操作，读时比直接观察指针多一个动作。P1 采用十八开黄金表壳和表链，当时售价为 2,100 美元，新技术首先结合了较高的获得门槛。电子结构带来新的读时界面，也与特定材质和市场定位联系在一起，便利与普及并非同步发生。",
+      "readerTakeaway": "最该看的是按键之后数字才出现的顺序。P1让一次普通读时显出电子显示如何改变手与眼的配合。",
+      "editorialRevisionScope": "具体问题、动作、逐型比较及证据范围",
+      "mediaOpinions": [],
+      "chineseCharactersInFiveSections": 892,
+      "readerTakeawaySources": [
+        "C:CH02",
+        "C:S38",
+        "C:CH03",
+        "B:EA02-C01",
+        "B:EA02-C04",
+        "B:EA02-C03",
+        "B:EA02-C02",
+        "B:EA02-C05"
+      ],
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported"
+    },
+    {
+      "id": "10",
+      "slug": "speak-and-spell",
+      "year": 1978,
+      "name": "Speak & Spell",
+      "brand": "Texas Instruments",
+      "category": "home",
+      "categoryLabel": "生活与电子玩具",
+      "aliases": [
+        "Speak & Spell",
+        "Texas Instruments"
+      ],
+      "tags": [
+        "生活与电子玩具",
+        "Texas Instruments"
+      ],
+      "summary": "语音合成提出拼写问题，孩子用字母键提交答案，再收到声音与显示反馈；专用电路把听、输入和检查组织成可反复使用的学习流程。",
+      "context": "Texas Instruments 于 1978 年推出 Speak & Spell，把实时数字语音处理用于儿童拼写学习。设备读出词语，使用者按字母键回答，再收到反馈。TI 的回顾将其与早期数字信号处理工作相连，IEEE 则记录专用芯片在语音生成上的作用。声音在这里成为练习过程的一部分，既提出任务，也回应操作，专用电子产品由此进入家庭学习场景。",
+      "design": "设备将字母输入、字符显示、题目存储和语音输出整合在同一个工具中。语音合成电路利用保存的语音参数生成声音，免去逐个词依赖机械录音播放的结构。出题、接收答案和反馈成为相连的处理环节：键盘给出明确字母，电路检查输入，声音和屏幕再把状态交还使用者。TI 同期学习装置专利也描述了这样的流程，为理解交互结构提供线索；产品的核心价值落在一套能够反复执行的练习循环上。",
+      "significance": "家庭拼写练习需要有人读出词语、等待答案并告诉孩子对错，单向播放录音只能覆盖其中一部分。Speak & Spell把这几个动作连成有限而清楚的循环：芯片生成语音，孩子按字母键回答，设备按存储任务给出反馈。TI回顾和IEEE逐项说明语音生成及键盘回答，影响的证据首先落在这套实际交互结构。与Echo初代通过麦克风接收口语请求相比，它的声音是输出，答案仍由手指输入；这一区别把发声、听懂与处理任务拆开，避免把所有能说话的机器归成同一种技术。它入选的理由是日常学习用品已经能够按操作状态产生不同声音，而无需通用计算机承担每一步。练习词库与规则事先限定，孩子仍要读懂反馈，学习效果也不能由芯片功能直接推出。产品把成人组织练习的一部分步骤交给电路，却没有接管学习的全部过程。",
+      "dateLabel": "1978 年（推出）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "字母键盘、文字显示与合成语音构成问答循环；它不是磁带课程播放器。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1978 年（推出）",
+          "sourceIds": [
+            "C:S12"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "生活与电子玩具",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S12",
+        "C:TXE08",
+        "C:TXE09",
+        "HC150-S045",
+        "HC150-S046"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S12",
+          "C:TXE08"
+        ],
+        "design": [
+          "C:S12",
+          "C:TXE08",
+          "C:TXE09"
+        ],
+        "usage": [
+          "C:TXE08",
+          "C:TXE09"
+        ],
+        "significance": [
+          "C:S12",
+          "C:TXE08",
+          "C:TXE09",
+          "HC150-S045",
+          "HC150-S046"
+        ],
+        "limitations": [
+          "C:TXE08",
+          "C:TXE09"
+        ]
+      },
+      "heroMediaId": null,
+      "videoIds": [
+        "V04"
+      ],
+      "relatedSlugs": [
+        "raspberry-pi-model-b",
+        "hp-35"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-not-yet-registered",
+      "chronicleIds": [],
+      "relatedRationale": "教育用途与专用便携电子设备：Raspberry Pi用于学习与创造，HP-35体现专用电子运算工具。",
+      "usage": "孩子选择拼写练习，先听设备读出词语，再依次按下对应字母，将答案提交检查。屏幕帮助确认字母输入，语音反馈帮助判断回答结果，随后可以继续另一道题。使用过程由听觉任务开始，经由手指完成拼写，再回到声音与显示的反馈。每个阶段都有具体动作，使用者可以根据回应重试；答案通过键盘进入设备，发声部分承担提示和反馈。\n\n若输入有误，使用者需要根据反馈重新辨认词语与字母；机器的回应把错误放回练习流程，而不是结束学习。字符显示用于核对刚按了什么，语音用于给出任务与回应，两种输出在同一轮练习中承担不同角色。",
+      "limitations": "答案经键盘进入设备，语音合成负责生成提示与反馈。词语和练习范围受所存数据与具体版本限制，学习过程围绕设备预设任务展开。它能组织反复练习，也要求孩子理解按键、拼写和提交之间的关系；发声能力使交互更易听见，但词语内容与练习形式仍需要明确设计。",
+      "readerTakeaway": "看一次听词、按字母、收到反馈的循环。它的重点是声音怎样随操作变化，答案并不是用语音说给机器听。",
+      "editorialRevisionScope": "具体问题、动作、逐型比较及证据范围",
+      "mediaOpinions": [],
+      "chineseCharactersInFiveSections": 894,
+      "readerTakeawaySources": [
+        "C:S12",
+        "C:TXE08",
+        "C:TXE09",
+        "HC150-S045",
+        "HC150-S046"
+      ],
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported"
+    },
+    {
+      "id": "14",
+      "slug": "motorola-dynatac-8000x",
+      "year": 1983,
+      "name": "DynaTAC 8000X",
+      "brand": "Motorola",
+      "category": "mobile",
+      "categoryLabel": "移动与阅读",
+      "aliases": [
+        "DynaTAC 8000X",
+        "Motorola",
+        "摩托罗拉"
+      ],
+      "tags": [
+        "移动与阅读",
+        "Motorola"
+      ],
+      "summary": "把蜂窝通话从汽车带到个人手中：高挑机身、外置天线和红色号码显示，记录了随身电话仍需向电池与网络妥协的阶段。",
+      "context": "早期移动电话常与汽车里的设备相连，要让人走出车辆仍能通话，既要缩小无线电装置，也要建设能随移动切换连接的网络。Motorola从1973年的演示原型继续开发，DynaTAC 8000X于1983年9月21日获美国FCC批准。1984年进入商业销售。手持机与可用网络逐步凑齐，人们才获得实际可使用的移动通话服务。",
+      "design": "整支电话围绕握持和通话排列：长机身两端对应耳朵与嘴，天线伸出顶部，数字键盘放在机身正面，小型LED显示器用红色数字反馈输入的号码。它没有把屏幕做成内容入口，而是给传统拨号增加一个可检查的窗口。无线收发、电池、听筒与操作键被收进同一件物体，省去了汽车里的固定安装；约八百克的体量也让这份独立性直接表现为手中的重量。",
+      "significance": "把电话从车内带到人身上，需要同时移动收发装置、电池与话筒，而网络仍必须覆盖使用地点。8000X用一整支可握持机身完成这个动作，红色号码显示和数字键保留拨号的熟悉顺序。Motorola研发档案与美国版馆藏证明了获批、商业销售以及实际体量，变化可由离开固定车辆后仍能携带通话设备解释。与WE500的桌面听筒、转盘和线路相比，通话准备从固定安装转到电池与蜂窝覆盖；与PalmPilot Professional相比，它携带的是通话能力，后者主要携带记录并回到电脑同步。两种便携性解决不同任务。入选8000X，不需要把昂贵重机身解释成所有人的日常用品：约八百克重量、半小时通话和十小时充电使使用者必须安排携带和补给。可移动的位置扩大了，随时可用的程度却继续由网络、电力和费用共同决定。",
+      "dateLabel": "1983 年（FCC 批准，不等于所有市场零售日）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "高挑机身、外置天线和数字键盘体现早期手持设备的工程限制；它不同于 1973 年演示原型。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1983 年（FCC 批准，不等于所有市场零售日）",
+          "sourceIds": [
+            "C:S16"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "移动与阅读",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S16",
+        "C:TXM13A",
+        "C:TXM13B",
+        "C:S25",
+        "HC150-S017",
+        "HC150-S018",
+        "C:TXM19A"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S16",
+          "C:TXM13A",
+          "C:TXM13B"
+        ],
+        "design": [
+          "C:TXM13A"
+        ],
+        "summary": [
+          "C:S16",
+          "C:TXM13A"
+        ],
+        "usage": [
+          "C:TXM13A"
+        ],
+        "significance": [
+          "C:S16",
+          "C:TXM13A",
+          "C:S25",
+          "HC150-S017",
+          "HC150-S018",
+          "C:TXM19A"
+        ],
+        "limitations": [
+          "C:TXM13A",
+          "C:TXM13B"
+        ]
+      },
+      "heroMediaId": null,
+      "videoIds": [],
+      "relatedSlugs": [
+        "palmpilot-professional",
+        "amazon-kindle-1"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-not-yet-registered",
+      "chronicleIds": [
+        "phones"
+      ],
+      "usage": "使用者先给电池充电，并在兼容蜂窝网络服务的覆盖范围内开机。拨号时按实体数字键，查看红色显示上的号码，再发起通话，把整支机身举到耳边；号码也可存入机内，再从号码记忆中调用。通话结束后仍需管理剩余电力，不能把它当作随时在线的资料终端。桌面充电座与外出的手持通话构成一套循环，电话可以离开车辆，充电却仍牵着它回到固定地点。\n\n号码记忆减少重复拨键，但没有改变充电与覆盖的条件。外出前准备电量，通话时确认号码，结束后安排下一次补给，这些步骤构成手持电话的实际使用链；能拿走与能持续使用是两件需要分别完成的事情。",
+      "limitations": "便携并不等于轻便。它提供约半小时通话后需要约十小时充电，售价3995美元也限制了获得门槛。美国版使用AMPS模拟蜂窝制式，不能直接接入当时德国的C网；地区兼容性与覆盖都影响能否通话。它带来的个人移动自由，建立在重量、短通话时间、长充电时间和网络条件的共同取舍上。",
+      "readerTakeaway": "观察拨号、举到耳边，再回到充电座这三个动作。它把通话设备交到个人手中，也把重量和补电交给个人管理。",
+      "editorialRevisionScope": "具体问题、动作、逐型比较及证据范围",
+      "mediaOpinions": [],
+      "chineseCharactersInFiveSections": 859,
+      "readerTakeawaySources": [
+        "C:S16",
+        "C:TXM13A",
+        "C:S25",
+        "HC150-S017",
+        "HC150-S018",
+        "C:TXM19A"
+      ],
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported"
+    },
+    {
+      "id": "20",
+      "slug": "palmpilot-professional",
+      "year": 1997,
+      "name": "PalmPilot Professional",
+      "brand": "Palm",
+      "category": "mobile",
+      "categoryLabel": "移动与阅读",
+      "aliases": [
+        "PalmPilot Professional",
+        "Palm"
+      ],
+      "tags": [
+        "移动与阅读",
+        "Palm"
+      ],
+      "summary": "用触笔、固定手写区和应用快捷键随身管理日程，再按底座按钮同步到电脑：PalmPilot让个人资料在两件设备之间流动。",
+      "context": "1997年的PalmPilot Professional属于个人数字助理，主要工作是把日程、联系人、待办和简短笔记带到身边。它承接此前Pilot设备，加入背光等配置，并通过底座连接桌面电脑。使用者在外面记录一条约会，回到电脑旁又能继续使用同一份资料；桌面上整理好的联系人也能带出去查看。个人信息在掌上与桌面之间往返，构成这台设备的日常位置。",
+      "design": "正面上部是单色触控屏，下部留下固定的Graffiti书写区，文字与数字分别有对应区域；触笔既用于点选屏幕，也按约定笔画输入字符。应用实体键把常用任务放在机身前沿，按下可以直接打开相应应用，减少先开机再寻找程序的步骤。背光帮助在较暗环境阅读，侧面仍有对比度调节。底座不只是放置机器的支架，它通过电脑串口与HotSync软件，把随身设备接回桌面的资料系统。",
+      "significance": "个人日程既要在桌面整理，又要在外出时能查到，手写纸本和电脑文件之间常要由人反复搬运信息。PalmPilot Professional把这一问题拆成两个界面：机身应用键直接打开高频任务，Graffiti区承接短输入，底座HotSync按钮把资料送回电脑。原手册明确规定配对、用户名及同步顺序，所能确认的是一套可重复的数据交换动作。与8000X靠蜂窝网络传递声音相比，它主要让个人记录跟人走；与初代iPhone在机内浏览邮件和网页相比，它更依赖回桌面的周期同步。它因此值得保留为一种两设备协作的随身计算路线，而不只是智能手机之前的过渡物。约会在外面记下，桌面继续整理，电脑中的联系人又能随人带走，价值落在这条往返链条。规定笔画、串口底座和相容软件是链条的成本，离开这些准备条件，掌中数据不会自动成为各处都更新的同一份资料。",
+      "dateLabel": "1997 年（具体日期资料有分歧）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "触笔、手写输入区与快捷键围绕常用任务排列，使它成为电脑的随身伴侣。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "1997 年（具体日期资料有分歧）",
+          "sourceIds": [
+            "C:S25"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "移动与阅读",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S25",
+        "C:TXM19A",
+        "C:S16",
+        "C:TXM13A",
+        "C:TXM13B",
+        "C:S33",
+        "C:TXL01"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S25",
+          "C:TXM19A"
+        ],
+        "design": [
+          "C:S25",
+          "C:TXM19A"
+        ],
+        "summary": [
+          "C:S25",
+          "C:TXM19A"
+        ],
+        "usage": [
+          "C:TXM19A"
+        ],
+        "significance": [
+          "C:S25",
+          "C:TXM19A",
+          "C:S16",
+          "C:TXM13A",
+          "C:TXM13B",
+          "C:S33",
+          "C:TXL01"
+        ],
+        "limitations": [
+          "C:S25",
+          "C:TXM19A"
+        ]
+      },
+      "heroMediaId": "M06",
+      "videoIds": [
+        "V02"
+      ],
+      "relatedSlugs": [
+        "motorola-dynatac-8000x",
+        "amazon-kindle-1"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-source-verified",
+      "chronicleIds": [],
+      "usage": "按日程等应用键打开任务，用触笔点选日期或输入位置，在Graffiti区按约定笔画写入，字母用左区、数字用右区，也可点选屏幕键盘。需要同步时，在电脑上安装PalmPilot Desktop并运行HotSync Manager，把底座接到串口，开机后放入设备并按底座的HotSync按钮。桌面与掌上记录由同步流程交换；首次同步还要设定自己的用户名。\n\n同步按钮应在电脑端软件已经准备好时使用，用户名让桌面资料与个人设备建立对应关系。书写、保存和交换各有入口；随身记录可以在外面完成，资料汇合则留给回到电脑旁的时刻，这种节奏决定了它适合怎样的日常任务。",
+      "limitations": "Graffiti按规定笔画识别字符，需要学习它的笔画与输入区域；小屏幕适合短记录，不适合长篇输入。资料同步依赖底座、串口、桌面软件及相应设置，使用可选调制解调器也需额外设备。随时更新资料仍取决于外部连接条件。两节AAA电池与背光还要由用户管理，便利仍建立在日常维护和同步习惯上。",
+      "readerTakeaway": "先看应用键如何直达任务，再看底座的一次HotSync。它入选是为了展示个人资料在掌上与桌面之间往返的具体方法。",
+      "editorialRevisionScope": "具体问题、动作、逐型比较及证据范围",
+      "mediaOpinions": [],
+      "chineseCharactersInFiveSections": 884,
+      "readerTakeawaySources": [
+        "C:S25",
+        "C:TXM19A",
+        "C:S16",
+        "C:TXM13A",
+        "C:TXM13B",
+        "C:S33",
+        "C:TXL01"
+      ],
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported"
+    },
+    {
+      "id": "26",
+      "slug": "amazon-kindle-1",
+      "year": 2007,
+      "name": "Kindle 第一代",
+      "brand": "Amazon",
+      "category": "mobile",
+      "categoryLabel": "移动与阅读",
+      "aliases": [
+        "Kindle 第一代",
+        "Amazon",
+        "亚马逊"
+      ],
+      "tags": [
+        "移动与阅读",
+        "Amazon"
+      ],
+      "summary": "电子纸、实体键盘和无线书店围绕持续阅读组成一台专用设备，让找书、下载、翻页与批注可以在同一个手持物件上完成。",
+      "context": "Amazon 于 2007 年 11 月 19 日推出初代 Kindle。它把电子纸阅读器与无线内容服务一起提供，用户可以直接在设备上浏览商店、购买和接收书籍，而不必先在电脑下载再同步。当时的 Whispernet 利用蜂窝数据网络，不以寻找无线热点为购书前提。持续阅读的舒适度与书籍取得方式被放在一起处理，实体键盘与选择轮承担搜索、批注和选择操作。",
+      "design": "初代 Kindle 的楔形机身在屏幕下方排列斜向的矩形键盘按键，两侧设翻页控制，右侧另有游标条和可按下的选择轮。用户转动轮子把游标移动到相应行，再按轮确认，键盘用于搜索或输入批注。电子纸以环境光显示黑白文字，没有背光，阅读正文可调整字号。背面把电源与无线开关分开，使已经下载的内容能够在关闭无线时继续阅读。这套分工将连续翻页、输入文字与选择链接安排到不同部件，减少它们争用一个屏幕的需要。",
+      "significance": "长篇电子阅读有两个相连的困难：页面需要容易连续看，想到一本书时也要能取得内容。初代Kindle把无背光电子纸、实体翻页键与蜂窝Whispernet书店接在一起。原发布资料和使用手册支持设备内选书、接收、搜索与批注，改变可落到少一次电脑下载与传入的过程。与PalmPilot Professional靠底座回桌面交换个人资料相比，Kindle把一部分获取书籍的操作直接放进阅读器；与后来的Kobo Touch用手指点选页面相比，初代仍把选行交给游标条与选择轮，把文字输入交给键盘。阅读、选项和输入各占一个部件，体现同一任务可以采用不同控制组合。选择它，重点是内容取得与持续阅读怎样连成路线，而不是用服务规模代替机身解释。环境光、账户和当时蜂窝覆盖仍参与这条路线；关闭无线能继续读已下载书籍，却无法沿原路径继续收新内容。",
+      "dateLabel": "2007 年（11 月推出）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "实体键盘与翻页控制围绕电子纸屏幕排列，让查找书籍、输入与连续阅读共用同一机身。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "2007 年（11 月推出）",
+          "sourceIds": [
+            "C:S32"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "移动与阅读",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S32",
+        "C:TXM25A",
+        "C:TXM25C",
+        "C:TXM25B",
+        "C:S25",
+        "C:TXM19A",
+        "C:S16",
+        "CM150-S068",
+        "CWC-S011"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S32",
+          "C:TXM25A",
+          "C:TXM25B"
+        ],
+        "design": [
+          "C:TXM25A",
+          "C:TXM25B",
+          "C:TXM25C"
+        ],
+        "summary": [
+          "C:TXM25A",
+          "C:TXM25C"
+        ],
+        "usage": [
+          "C:TXM25A",
+          "C:TXM25C"
+        ],
+        "significance": [
+          "C:S32",
+          "C:TXM25A",
+          "C:TXM25C",
+          "C:S25",
+          "C:TXM19A",
+          "C:S16",
+          "CM150-S068",
+          "CWC-S011"
+        ],
+        "limitations": [
+          "C:TXM25A",
+          "C:TXM25C"
+        ]
+      },
+      "heroMediaId": null,
+      "videoIds": [],
+      "relatedSlugs": [
+        "motorola-dynatac-8000x",
+        "iphone-1"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-not-yet-registered",
+      "editorialNotes": {
+        "design": "实体键盘与翻页控制围绕显示区安排；不能把后续型号的触屏、前光照明写回初代。"
+      },
+      "chronicleIds": [],
+      "usage": "先接上电源充电并开启机器，已有账户注册信息时，可直接进入无线商店选书和下载。阅读时按左右两侧的下一页键前进，用上一页键返回；查找项目或链接则转动选择轮，让右侧游标与目标行对齐，再按轮选取。键盘可输入搜索词和批注，返回键用于退回之前的位置。已下载的书籍在关闭无线后仍可阅读；需要从电脑传入文件时，可连接随附 USB 线，退出驱动器模式后再继续读书。\n\n一段阅读可以先连续翻页，再暂停搜索或输入批注；不同部件把这些动作分开安排。用USB传文件时应先结束驱动器模式才能回到阅读，说明同一设备仍有互相切换的工作状态，连接电脑并不等于一边传输一边照常翻书。",
+      "limitations": "屏幕没有背光，暗处阅读需要外部照明；可调字号也不能套用到所有菜单和商店界面。无线购书依赖当时 Whispernet 的覆盖，关闭无线后可阅读已下载内容，却不能继续接收新书。连接电脑进入 USB 驱动器模式时，无线服务关闭，机器也暂时不能用于阅读。查找链接需要转动选择轮并确认，翻页与文字输入则分由按键和键盘完成。",
+      "readerTakeaway": "最值得看选择轮如何对齐一行，再看无线选书怎样接到翻页。它把取得内容和读内容放到同一件设备里。",
+      "editorialRevisionScope": "具体问题、动作、逐型比较及证据范围",
+      "mediaOpinions": [],
+      "chineseCharactersInFiveSections": 948,
+      "readerTakeawaySources": [
+        "C:S32",
+        "C:TXM25A",
+        "C:TXM25C",
+        "C:S25",
+        "C:TXM19A",
+        "C:S16",
+        "CM150-S068",
+        "CWC-S011"
+      ],
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported"
+    },
+    {
+      "id": "27",
+      "slug": "iphone-1",
+      "year": 2007,
+      "name": "iPhone 第一代",
+      "brand": "Apple",
+      "category": "mobile",
+      "categoryLabel": "移动与阅读",
+      "aliases": [
+        "iPhone 第一代",
+        "Apple",
+        "苹果"
+      ],
+      "tags": [
+        "移动与阅读",
+        "Apple"
+      ],
+      "summary": "把拨号、音乐、照片与网页放进同一块多点触控屏，用随任务变化的界面重新组织口袋里的操作。",
+      "context": "2007年1月的发布公告把iPhone定位为手机、宽屏iPod和互联网通信设备的组合。它面对的具体问题是：联系人、音乐库、邮件和网页需要不同的操作方式，却要装进同一件随身物品。初代以3.5英寸屏幕集中这些任务，用户从拨号转到浏览时，改变的是屏幕上的界面。2007年的上市体验仍以预装程序和网页为主；原机可使用的App Store随2008年软件升级才到来。",
+      "design": "正面的主要操作面是一块多点触控屏。联系人呈现为可滚动名单，音乐可以显示专辑封面，网页则允许手指移动和缩放：同一片玻璃为不同内容提供不同大小的按钮。屏幕键盘在需要文字时出现，输入完成后让出显示空间。加速度计支持横竖方向转换，接近传感器在手机贴近耳朵时关闭屏幕，环境光传感器调节亮度。这些部件把握持姿态、距离和手指动作接入界面，使整机操作围绕使用情境展开。",
+      "significance": "把电话、音乐和网页装进同一件物品，首先会遇到固定按键怎样分配的问题：拨号要数字，写邮件要字母，浏览又需要显示面积。初代iPhone把这一分配交给触控屏上的软件，按钮在任务改变时重新排列，键盘只在输入时出现。原公告明确演示点按、滑动与缩放，能证明的是几种日常任务共用同一组直接操作。与PalmPilot Professional保留固定Graffiti区和应用键相比，它将更多输入空间变成可变化的画面；与iPhone 4的前后摄像头和高密度屏相比，初代重点仍是建立这套操作入口，后者再增加内容细节与视频交流。二〇〇八年的App Store扩展另有软件节点，不应倒写成首发能力。选择初代，是因为界面可随任务变形的好处和代价在机身上同时可见：玻璃给内容让出空间，也让手指遮住一部分画面，电脑同步及EDGE或Wi-Fi继续承担连接条件。",
+      "dateLabel": "2007-01-09（发布，同年销售）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "大面积屏幕和少量实体键让用途共享可变化的界面；后来的 App Store 不属于 2007 年首发功能。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "2007-01-09（发布，同年销售）",
+          "sourceIds": [
+            "C:S33"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "移动与阅读",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S33",
+        "C:TXL01",
+        "C:S25",
+        "C:TXM19A",
+        "C:S16",
+        "C:S35",
+        "C:TD01"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S33",
+          "C:TXL01"
+        ],
+        "design": [
+          "C:S33"
+        ],
+        "summary": [
+          "C:S33"
+        ],
+        "usage": [
+          "C:S33"
+        ],
+        "significance": [
+          "C:S33",
+          "C:TXL01",
+          "C:S25",
+          "C:TXM19A",
+          "C:S16",
+          "C:S35",
+          "C:TD01"
+        ],
+        "limitations": [
+          "C:S33",
+          "C:TXL01"
+        ]
+      },
+      "heroMediaId": "M08",
+      "videoIds": [],
+      "relatedSlugs": [
+        "motorola-dynatac-8000x",
+        "amazon-kindle-1"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-source-verified",
+      "chronicleIds": [
+        "phones"
+      ],
+      "usage": "用户先通过Mac或PC上的iTunes同步音乐与资料，再从屏幕进入电话、iPod、照片或Safari。拨电话时点选联系人；听语音留言时直接选择一条；听音乐时滑动列表或翻看专辑封面。打开照片后滑动翻页，横放机身改变方向，选中照片可通过邮件发送。查网页时拖动页面并放大局部。不同任务共用“看见对象、直接点它”的动作，网络接入和电脑同步则承担部分准备。\n\n在同一任务中，点选对象、滑动列表和缩放局部也有不同目的：选择决定进入哪里，滑动改变位置，缩放改变可看的细节。内容和控制共享屏幕，用户每次操作都要从画面辨认当前对象，这正是软件界面灵活性所要求的注意。",
+      "limitations": "初代联网采用EDGE和Wi-Fi，不能套用下一代的3G能力；2007年也没有后来随处安装原生应用的体验。音乐等内容的准备仍明显依赖电脑和iTunes。软键盘节省实体键的位置，却把输入与显示安排在同一块屏上，手指会占用部分视野，也没有实体键的触感。这些取舍解释了触控整合的便利为何需要配合软件、网络与同步流程才能成立。",
+      "readerTakeaway": "在拨号、音乐和网页之间切换，看屏幕上的控制怎样重新排布。它最关键的动作是直接触碰内容，首发与后来应用商店要分开理解。",
+      "editorialRevisionScope": "具体问题、动作、逐型比较及证据范围",
+      "mediaOpinions": [],
+      "chineseCharactersInFiveSections": 923,
+      "readerTakeawaySources": [
+        "C:S33",
+        "C:TXL01",
+        "C:S25",
+        "C:TXM19A",
+        "C:S16",
+        "C:S35",
+        "C:TD01"
+      ],
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported"
+    },
+    {
+      "id": "29",
+      "slug": "iphone-4",
+      "year": 2010,
+      "name": "iPhone 4",
+      "brand": "Apple",
+      "category": "mobile",
+      "categoryLabel": "移动与阅读",
+      "aliases": [
+        "iPhone 4",
+        "Apple",
+        "苹果",
+        "苹果4",
+        "爱疯4"
+      ],
+      "tags": [
+        "移动与阅读",
+        "Apple"
+      ],
+      "summary": "把高密度屏、前后摄像头和玻璃钢框集中在小机身中，让阅读、自拍视频通话与现场记录更紧密相连。",
+      "context": "iPhone 4在2010年6月发布，首批市场于6月24日发售。相较2007年初代，它进一步关注显示细节、视频拍摄与远程交流：Retina屏、前置摄像头、FaceTime以及720p视频构成主要变化。同步介绍的iOS 4加入多任务和文件夹，触控手机开始需要管理更多程序与内容。功能增长同时要求薄机身重新安排屏幕、天线、摄像头和电池的位置。",
+      "design": "3.5英寸屏幕提升到960×640，像素密度为326ppi，细小文字和照片能在相同面积中显示更多细节。玻璃前后板与不锈钢框组成外壳，钢框还参与天线结构；正面的摄像头负责面对使用者，背面的500万像素摄像头配有LED闪光灯，可拍摄720p视频。陀螺仪让程序读取机身旋转。拆解还显示，电池使用连接器，后盖可从独立路径拆下；前部显示与玻璃则结合为一体，外部整洁的表面在维修时对应着不同的组件边界。",
+      "significance": "初代iPhone已把多种任务交给同一触控面，iPhone 4继续处理小屏上能看清多少、镜头能向谁、视频怎样在现场完成的问题。同样三点五英寸面积提高到九百六十乘六百四十像素，前置镜头面向使用者，后摄面向现场，首发Wi-Fi FaceTime让两种视角进入交流。原公告支持拍摄、查看及另购iMovie编辑的流程，结构拆解则说明前玻璃与显示组成一体。与初代主要建立触控入口相比，这一代扩大了入口中内容的细节和制作能力；与iPhone 18 Pro可变主摄光圈相比，后来控制进一步进入成像条件内部。能确认的影响是记录、检查、剪辑与分享在掌中接续，而非所有人因此改变制作习惯。集成也有维护代价：前部损坏面对总成，后盖和电池却有较独立路径。它入选是因为内容处理的连贯性与维修边界，可以在同一台设备上具体对照。",
+      "dateLabel": "2010-06-07（发布；首批发售 06-24）",
+      "significanceLabel": "策展解读",
+      "features": [
+        "平整玻璃表面与不锈钢边框形成鲜明轮廓，前置摄像头将面对面视频通话纳入设备体验。"
+      ],
+      "facts": [
+        {
+          "label": "年代",
+          "value": "2010-06-07（发布；首批发售 06-24）",
+          "sourceIds": [
+            "C:S35"
+          ]
+        },
+        {
+          "label": "产品类型",
+          "value": "移动与阅读",
+          "isEditorialClassification": true
+        }
+      ],
+      "sourceIds": [
+        "C:S35",
+        "C:TD01",
+        "C:S33",
+        "C:TXL01",
+        "C:CH08",
+        "C:CH09",
+        "C:TXL15"
+      ],
+      "paragraphSources": {
+        "context": [
+          "C:S35"
+        ],
+        "design": [
+          "C:S35",
+          "C:TD01"
+        ],
+        "summary": [
+          "C:S35"
+        ],
+        "usage": [
+          "C:S35"
+        ],
+        "significance": [
+          "C:S35",
+          "C:TD01",
+          "C:S33",
+          "C:TXL01",
+          "C:CH08",
+          "C:CH09",
+          "C:TXL15"
+        ],
+        "limitations": [
+          "C:S35",
+          "C:TD01"
+        ]
+      },
+      "heroMediaId": "M11",
+      "videoIds": [],
+      "relatedSlugs": [
+        "motorola-dynatac-8000x",
+        "amazon-kindle-1"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "photo-source-verified",
+      "teardown": {
+        "title": "玻璃与钢框之内",
+        "summary": "iFixit 对 2010 年 iPhone 4 的实物拆解显示，外观材料同时参与结构与射频设计。",
+        "points": [
+          "不锈钢边框兼作结构支撑和天线，外壳不是与功能无关的装饰。",
+          "电池通过连接器接入主板；后盖可以单独移除，正面组件的拆装路径更复杂。"
+        ],
+        "sourceIds": [
+          "C:TD01"
+        ],
+        "mediaIds": [],
+        "rightsNote": "原创简述并外链原拆解；本轮不转载 iFixit 图片。"
+      },
+      "editorialNotes": {
+        "significance": "它的独立入选理由是工业设计与显示、视频交互的结合，不是用容量或颜色变体增加数量。"
+      },
+      "chronicleIds": [
+        "phones"
+      ],
+      "usage": "用户阅读邮件或网页时仍以滑动、点按和缩放操作屏幕，高密度显示让相同尺寸中的文字更清楚。发起FaceTime时把前置摄像头对着自己，也能切换后摄像头让对方看见眼前的物品。现场拍摄视频时点选画面中的主体调整对焦，随后可用另购的iMovie剪辑与分享。程序增多后，用文件夹整理入口，并通过iOS 4的多任务界面切换。阅读、拍摄、剪辑和传送开始在同一件随身设备内衔接。\n\n切换镜头改变传给对方的视角，点选对焦改变拍摄中的注意对象；这些操作不应混作同一种镜头控制。另购编辑程序又把片段组织放回屏幕，拍摄并不是流程终点，查看、选择和整理仍由人完成。",
+      "limitations": "首发时FaceTime依靠Wi-Fi，用户需要在有相应网络的地方发起视频交流。前玻璃和显示屏结合，损坏玻璃往往意味着更换整个前部组件；后盖和电池的拆卸则相对独立。不同部件有不同的维护路径，整洁的外表并不能说明内部都同样容易处理。高密度显示扩大了小屏可呈现的细节，较长内容仍要在3.5英寸画面上滚动和缩放。",
+      "readerTakeaway": "看前后镜头切换怎样把自己与现场交给对方。再看前玻璃与显示总成，内容集成与维修取舍都落在具体结构上。",
+      "editorialRevisionScope": "具体问题、动作、逐型比较及证据范围",
+      "mediaOpinions": [],
+      "chineseCharactersInFiveSections": 899,
+      "readerTakeawaySources": [
+        "C:S35",
+        "C:TD01",
+        "C:S33",
+        "C:TXL01",
+        "C:CH08",
+        "C:CH09",
+        "C:TXL15"
+      ],
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported"
+    }
+  ],
+  "sources": [
+    {
+      "id": "B:EA02-C01",
+      "title": "CASIO Watch Heritage: 1980s — F-91W (1989)",
+      "publisher": "Casio",
+      "url": "https://www.casio.com/intl/watches/Heritage/1980s/",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读官方年代史：1989年F-91W推出；计时/闹钟/照明等基本配置。品牌销量与“长期畅销”叙述不作独立市场证据。",
+      "sourceType": "品牌档案",
+      "independence": "发布年份一手；采用/口碑不独立",
+      "commercialDisclosure": "品牌历史页面，带品牌推广目的。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读官方年代史：1989年F-91W推出；计时/闹钟/照明等基本配置。品牌销量与“长期畅销”叙述不作独立市场证据。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA02-C01",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "B:EA02-C02",
+      "title": "F-91W-1 — Specifications",
+      "publisher": "Casio",
+      "url": "https://www.casio.com/mea-en/watches/casio/product.F-91W-1/",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读现行标准黑色F-91W-1页面：树脂、闹钟、整点声、秒表、LED、12/24小时、日历二月固定28日；仅称Water Resistant，未给30m/50m。现行规格不证明每个1989批次完全相同。",
+      "sourceType": "原厂确切型号规格",
+      "independence": "原厂功能说明；非独立耐久实测",
+      "commercialDisclosure": "产品销售页，现行规格及电池寿命为厂商条件下声明。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读现行标准黑色F-91W-1页面：树脂、闹钟、整点声、秒表、LED、12/24小时、日历二月固定28日；仅称Water Resistant，未给30m/50m。现行规格不证明每个1989批次完全相同。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA02-C02",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "B:EA02-C03",
+      "title": "Operation Guide 10B+7L(Ver.C), Module 593",
+      "publisher": "Casio",
+      "url": "https://www.casio.com/content/dam/casio/global/support/manuals/watches/pdf/5/593/qw593_EN.pdf",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读593模块操作指南一页：三个按钮、读时/闹钟/秒表/设置模式、分段计时、12/24小时与月份日期设置。文件未列1989出版日，不能当首年批次说明书。",
+      "sourceType": "原厂模块操作手册",
+      "independence": "操作方法一手；非独立使用史",
+      "commercialDisclosure": "原厂手册版权保留，仅作链接/原创说明。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读593模块操作指南一页：三个按钮、读时/闹钟/秒表/设置模式、分段计时、12/24小时与月份日期设置。文件未列1989出版日，不能当首年批次说明书。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA02-C03",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "B:EA02-C04",
+      "title": "Meet The Man Who Designs Your Casio G-Shocks",
+      "publisher": "Alvin Wong / CROWN",
+      "url": "https://www.crownwatchblog.com/in-depth/meet-the-man-who-designs-your-casio-g-shocks",
+      "publishedOn": "2018-12-10",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读对Ryusuke Moriai的原始访谈：F-91W扁平小巧设计、部件形状和外壳取舍。作者回忆新加坡服役时自己用表，为个人见证，非军队全体采用调查。文首early 1990s与官方1989冲突，年份采用品牌档案。",
+      "sourceType": "设计师原始访谈/作者个人使用见证",
+      "independence": "记者原始采访；设计师为品牌员工，回忆不等于客观销量/可靠性统计",
+      "commercialDisclosure": "页面未见该文赞助标识；受访者为Casio员工，设计说明是品牌当事人回忆。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读对Ryusuke Moriai的原始访谈：F-91W扁平小巧设计、部件形状和外壳取舍。作者回忆新加坡服役时自己用表，为个人见证，非军队全体采用调查。文首early 1990s与官方1989冲突，年份采用品牌档案。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA02-C04",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "B:EA02-C05",
+      "title": "The Consumer Electronics Hall of Fame: Casio F-91W Wristwatch",
+      "publisher": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/the-consumer-electronics-hall-of-fame-casio-f91w-wristwatch",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "已读编辑回顾：把基本功能、足够使用与长期形态作为设计讨论。文中产量估计未追至原数据，未采用；Hall of Fame文章不冒充颁奖机构产品设计大奖。",
+      "sourceType": "独立编辑设计回顾",
+      "independence": "独立媒体策展观点；非原始用户群体统计",
+      "commercialDisclosure": "页面未见该篇商业赞助披露；不使用未经复核的市场数量。",
+      "verificationMethod": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "supports": "已读编辑回顾：把基本功能、足够使用与长期形态作为设计讨论。文中产量估计未追至原数据，未采用；Hall of Fame文章不冒充颁奖机构产品设计大奖。",
+      "verification": "研究者已读原来源所列指定章节/字段；不是对全部文件和全部历史版本的核查；仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "EA02-C05",
+      "sourceFile": "docs/expansion/first-batch.json"
+    },
+    {
+      "id": "C:CH02",
+      "title": "The Hamilton PSR",
+      "publisher": "Swatch Group / Hamilton",
+      "url": "https://www.swatchgroup.com/en/services/archive/2020/hamilton-psr",
+      "supports": "1970 年原型公开、1972 年 P1 上市、金质表壳表链与红色数字读时；原型、P2 和 2020 PSR 的功能分别处理。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:CH03",
+      "title": "Fitbit announces new activity tracker – the Fitbit Flex",
+      "publisher": "Fitbit / Google",
+      "url": "https://blog.google/products-and-platforms/devices/fitbit/fitbit-announces-new-activity-tracker-the-fitbit-flex/",
+      "supports": "2013-01-07发布正文已读，5灯进度、活动与睡眠、蓝牙同步和春季发货计划可确认；日期只用发布口径，实际操作与感测机制用FB401原厂手册。",
+      "checkedOn": "2026-10-04",
+      "verification": "2013-01-07发布正文已读，5灯进度、活动与睡眠、蓝牙同步和春季发货计划可确认；日期只用发布口径，实际操作与感测机制用FB401原厂手册。"
+    },
+    {
+      "id": "C:CH08",
+      "title": "Get ready to experience iPhone 18 Pro, the next generation of Apple Watch, and AirPods 5",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/",
+      "supports": "2026-09-11官方正文已读，明确三条产品线2026-09-18发售；当代三件主要功能得到对应产品页复核。Siri AI等测试版/地区条件和部分年内未来功能未写作当前通用能力。",
+      "checkedOn": "2026-10-04",
+      "verification": "2026-09-11官方正文已读，明确三条产品线2026-09-18发售；当代三件主要功能得到对应产品页复核。Siri AI等测试版/地区条件和部分年内未来功能未写作当前通用能力。"
+    },
+    {
+      "id": "C:CH09",
+      "title": "The latest iPhone, Apple Watch, and AirPods lineups arrive in stores worldwide",
+      "publisher": "Apple",
+      "url": "https://images.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+      "supports": "web解析间歇Internal Error，直接读取相同URL的HTTP 200 HTML正文，标题和日期为2026-09-18，正文明确iPhone 18 Pro、Series 12与AirPods 5到店；没有仅靠标题或路径推断发售。",
+      "checkedOn": "2026-10-04",
+      "verification": "web解析间歇Internal Error，直接读取相同URL的HTTP 200 HTML正文，标题和日期为2026-09-18，正文明确iPhone 18 Pro、Series 12与AirPods 5到店；没有仅靠标题或路径推断发售。"
+    },
+    {
+      "id": "C:S12",
+      "title": "Uncovering the legacy of DSP technology — TI",
+      "publisher": "TI",
+      "url": "https://www.ti.com/about-ti/behind-chip/articles/uncovering-the-legacy-of-DSP-technology-how-a-childrens-toy-sparked-the-edge-AI-revolution.html",
+      "supports": "1978 年 Speak & Spell、实时数字语音处理和语音合成的开发背景；不支持语音识别输入。",
+      "checkedOn": "2026-10-04",
+      "verification": "本次读取并核查网页正文；来源支持具体史实，比较与意义为原创策展解读；不表示媒体复制授权。"
+    },
+    {
+      "id": "C:S16",
+      "title": "Cell Phone Development — Motorola Solutions",
+      "publisher": "Motorola Solutions",
+      "url": "https://www.motorolasolutions.com/en_xp/about/history/explore-motorola-heritage/cell-phone-development.html",
+      "supports": "1973年演示原型、便携蜂窝系统的研发与1983年9月21日8000X获得FCC批准；支持通话设备与网络共同构成移动性的背景。代表性段落为原创策展解读。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页正文中DynaTAC开发及获批段落；没有用厂家第一或销量叙述扩展结论。"
+    },
+    {
+      "id": "C:S25",
+      "title": "PalmPilot Professional — Centre for Computing History",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/63131/PalmPilot-Professional/",
+      "supports": "1997 PalmPilot Professional的掌上资料管理定位，背光显示、Windows/Macintosh连接、底座与可选调制解调器，1MB内存及两节AAA电池。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取博物馆正文。具体日期沿用展品已有的年份口径，未采用馆方单一精确日期覆盖原数据的资料分歧说明。"
+    },
+    {
+      "id": "C:S32",
+      "title": "A look back at 10 years of the Amazon Kindle",
+      "publisher": "Amazon",
+      "url": "https://www.aboutamazon.com/news/devices/a-look-back-at-10-years-of-the-amazon-kindle",
+      "supports": "2007年初代Kindle的持续阅读设计目标、无线获取、搜索和字典，以及实体阅读器与内容服务的关系。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取Amazon回顾正文的初代部分；未采用销量、售罄叙述，亦未把后续文字转语音、触屏、前光或应用写回首代。"
+    },
+    {
+      "id": "C:S33",
+      "title": "Apple Reinvents the Phone with iPhone — Apple",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+      "supports": "重核2007-01-09原公告正文：3.5英寸、多点触控、EDGE/Wi-Fi、iTunes同步及三种用途；2008年App Store另有TXL01。未采用全球第一和销量话语。",
+      "checkedOn": "2026-10-04",
+      "verification": "重核2007-01-09原公告正文：3.5英寸、多点触控、EDGE/Wi-Fi、iTunes同步及三种用途；2008年App Store另有TXL01。未采用全球第一和销量话语。"
+    },
+    {
+      "id": "C:S35",
+      "title": "Apple Presents iPhone 4 — Apple",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
+      "supports": "重核2010-06-07原公告正文：发布/首批销售安排、960×640屏、前后摄像头、Wi-Fi FaceTime、720p视频与iOS 4；未采用最薄等比较级宣传。",
+      "checkedOn": "2026-10-04",
+      "verification": "重核2010-06-07原公告正文：发布/首批销售安排、960×640屏、前后摄像头、Wi-Fi FaceTime、720p视频与iOS 4；未采用最薄等比较级宣传。"
+    },
+    {
+      "id": "C:S38",
+      "title": "Apple Watch Available in Nine Countries on April 24 — Apple",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2015/03/09Apple-Watch-Available-in-Nine-Countries-on-April-24/",
+      "supports": "重核2015-03-09原公告全文：2015-04-24首批发售、38/42mm、Crown、Force Touch、Taptic Engine、三圈、借用iPhone GPS/Wi-Fi、18小时与iPhone/iOS条件；不套用后代独立GPS、蜂窝、ECG与SpO2。",
+      "checkedOn": "2026-10-04",
+      "verification": "重核2015-03-09原公告全文：2015-04-24首批发售、38/42mm、Crown、Force Touch、Taptic Engine、三圈、借用iPhone GPS/Wi-Fi、18小时与iPhone/iOS条件；不套用后代独立GPS、蜂窝、ECG与SpO2。"
+    },
+    {
+      "id": "C:TD01",
+      "title": "iPhone 4 Teardown",
+      "publisher": "iFixit / Walter Galan and contributors",
+      "url": "https://www.ifixit.com/Teardown/iPhone+4+Teardown/3130",
+      "supports": "原iPhone 4拆解正文重核，步骤14钢框天线、步骤6电池连接器及结论前玻璃/LCD总成；仅采用实际结构，不采用评论及通信改进猜测。",
+      "checkedOn": "2026-10-04",
+      "verification": "原iPhone 4拆解正文重核，步骤14钢框天线、步骤6电池连接器及结论前玻璃/LCD总成；仅采用实际结构，不采用评论及通信改进猜测。"
+    },
+    {
+      "id": "C:TXE08",
+      "title": "Milestones: Speak & Spell, the First Use of a Digital Signal Processing IC for Speech Generation, 1978",
+      "publisher": "IEEE Engineering and Technology History Wiki",
+      "url": "https://ethw.org/Milestones:Speak_&_Spell,_the_First_Use_of_a_Digital_Signal_Processing_IC_for_Speech_Generation,_1978",
+      "supports": "1978 年语音生成芯片、存储语音参数与拼写学习的键盘回答流程；页面个别宽泛“recognition”措辞不采用为产品语音输入证据。",
+      "checkedOn": "2026-10-04",
+      "verification": "网页正文已读；采用语音生成和键盘交互事实，不将其写成语音识别玩具。"
+    },
+    {
+      "id": "C:TXE09",
+      "title": "US4516260A — Electronic learning aid",
+      "publisher": "Texas Instruments 原始专利（Google Patents）",
+      "url": "https://patents.google.com/patent/US4516260A/en",
+      "supports": "优先权 1978-04-28 的学习装置实施例，键盘拼写答案、声音反馈及语音合成结构。",
+      "checkedOn": "2026-10-04",
+      "verification": "专利正文已读；专利实施例不是上市型号完整功能清单，未把所有模式与硬件细节等同初代产品。"
+    },
+    {
+      "id": "C:TXL01",
+      "title": "iPhone 3G on Sale Tomorrow",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2008/07/10iPhone-3G-on-Sale-Tomorrow/",
+      "supports": "初代iPhone的2008年iPhone 2.0升级与App Store时间边界。",
+      "checkedOn": "2026-10-04",
+      "verification": "正文明确2008年7月11日起原iPhone用户可免费取得2.0软件；不把App Store放入2007年上市体验。"
+    },
+    {
+      "id": "C:TXL15",
+      "title": "iPhone 18 Pro",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/iphone-18-pro/",
+      "supports": "48MP主摄四档可变光圈与相机Pro控制，及Pro/Pro Max的型号区分。",
+      "checkedOn": "2026-10-04",
+      "verification": "现有官方产品正文已读。f/1.48、f/1.8、f/2.8、f/4仅归主摄；不把Pro Max续航、固定光圈辅摄或测试版AI推广为该馆藏共有能力。"
+    },
+    {
+      "id": "C:TXM13A",
+      "title": "Motorola DynaTAC 8000X (US-Version) mit Tischladestation — MSPT",
+      "publisher": "Museumsstiftung Post und Telekommunikation",
+      "url": "https://onlinesammlung.museumsstiftung.de/detail/collection/bbfa7483-f8a1-4431-b90f-514197cc4c56",
+      "supports": "型号明确的博物馆藏品记录；红色LED号码显示、30个电话号码存储、约800克、约半小时通话与十小时充电，美国AMPS制式及地区兼容条件；区分1983获批与1984销售。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取正文及对象登记字段；藏品制造时间为1984年7月。正文价格与销量有明显排版/数字异常，未采用；重量仅使用约数。"
+    },
+    {
+      "id": "C:TXM13B",
+      "title": "Motorola DynaTAC 8000X — Mobile Phone Museum",
+      "publisher": "Mobile Phone Museum",
+      "url": "https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x",
+      "supports": "1983年FCC批准、1984年商业销售、3995美元价格，以及约30分钟通话与10小时充电的使用条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页正文。历史金额保留原当年美元值，未采用通胀换算、文化标签、第一或销量结论。"
+    },
+    {
+      "id": "C:TXM19A",
+      "title": "PalmPilot Professional Handbook (1997) — original manual",
+      "publisher": "3Com (original handbook; ManualsLib mirror)",
+      "url": "https://www.manualslib.com/manual/303168/3com-Palmpilot-Professional.html",
+      "supports": "原手册的应用实体键、触笔、Graffiti左右输入区、屏幕键盘、背光、两节AAA、串口底座与HotSync同步；可选调制解调器并非机内蜂窝通信。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取原手册首页转录、1997版权及第1/2/9/10章相关正文摘录，另完整读取网页第146页HotSync操作正文。部分单页URL不可读，所用笔画与控制资料来自首页提供的原手册摘录，不引用平台自动问答。"
+    },
+    {
+      "id": "C:TXM25A",
+      "title": "Introducing Amazon Kindle",
+      "publisher": "Amazon",
+      "url": "https://press.aboutamazon.com/2007/11/introducing-amazon-kindle",
+      "supports": "2007年11月19日发布、EVDO蜂窝Whispernet、不经电脑无线购书、反射式无背光黑白电子纸、翻页键、键盘、字号、搜索、字典、批注和关闭无线后阅读。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取2007年原始发布公告正文；蜂窝服务写作当时产品条件，不推断现今仍可用。没有采用销售和第一性营销结论。"
+    },
+    {
+      "id": "C:TXM25B",
+      "title": "Identify Your Kindle E-Reader",
+      "publisher": "Amazon Customer Service",
+      "url": "https://digprjsurvey.amazon.com/csad/help/node/GK33S847NN4V6Y83",
+      "supports": "2007年初代Kindle楔形机身、斜向矩形键盘、游标条和选择轮、背面电源与无线开关，用于锁定型号。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取官方机型识别正文，核对First Generation 2007部分；没有沿用后代方向控制、触屏或前光。"
+    },
+    {
+      "id": "C:TXM25C",
+      "title": "About Your Kindle（2007，P/N 3A2200100-G6T-N）",
+      "publisher": "Amazon（Manualzilla 转录保存）",
+      "url": "https://manualzilla.com/doc/7380166/amazon-kindle---1st-generation-user-s-guide",
+      "supports": "初代游标条与银色选择轮转动定位/按下确认、翻页键、键盘、返回键、背面独立开关、充电、注册、字号范围及USB驱动器模式暂不能阅读。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取原始About Your Kindle手册的HTML转录正文，版权2007、P/N 3A2200100-G6T-N，并与官方首发公告及识别页交叉核对。此为初代入门手册转录，非完整电子版User's Guide；不引用平台问答。"
+    },
+    {
+      "id": "CM150-S068",
+      "title": "Kobo Launches eReader Touch Edition",
+      "publisher": "Kobo",
+      "url": "https://www.kobo.com/news/kobo-launches-the-all-new-kobo-ereader-touch-edition",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-history",
+      "verifiedScope": "2011年5月23日公告和北美预订；计划6月初商店销售、7月全球供货；红外触控和Pearl电子纸。",
+      "verificationMethod": "正文",
+      "limits": "本轮只核所列范围；未核全球销量、长期可靠性及图片许可。",
+      "independence": "厂商自身材料；与同厂其他页面不独立",
+      "commercialDisclosure": "厂商自有历史或产品宣传；不作为独立口碑",
+      "originalId": "CM150-S068",
+      "sourceFile": "docs/expansion/research-150-compute-media.json",
+      "supports": "2011年5月23日公告和北美预订；计划6月初商店销售、7月全球供货；红外触控和Pearl电子纸。",
+      "verification": "正文；本轮只核所列范围；未核全球销量、长期可靠性及图片许可。"
+    },
+    {
+      "id": "CWC-S011",
+      "title": "Kobo launches eReader Touch Edition",
+      "publisher": "Kobo",
+      "url": "https://www.kobo.com/news/kobo-launches-the-all-new-kobo-ereader-touch-edition",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-primary",
+      "verifiedScope": "2011-05-23公告与北美预订；六月商店供货计划；6英寸Pearl电子纸/红外触控/Home/字体字号/长按词典标记/WiFiUSB/EPUBPDF。",
+      "verificationMethod": "原公告正文；不采用健康、首创及普遍舒适宣传，不推断计划实际执行",
+      "independence": "品牌原始或回顾材料；非独立口碑",
+      "commercialDisclosure": "品牌用途或馆藏史料，不假定无其他商业关系",
+      "limits": "只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。",
+      "supports": "2011-05-23公告与北美预订；六月商店供货计划；6英寸Pearl电子纸/红外触控/Home/字体字号/长按词典标记/WiFiUSB/EPUBPDF。",
+      "verification": "原公告正文；不采用健康、首创及普遍舒适宣传，不推断计划实际执行；只支持本条登记的型号、版本与事实；不自动授予图片视频转载许可，不证明当前可购、长期可靠性或全球影响。"
+    },
+    {
+      "id": "HC150-S017",
+      "title": "Give Me a Ring gallery",
+      "publisher": "SFO Museum",
+      "url": "https://www.sfomuseum.org/exhibitions/telephone-retrospective/gallery",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆设计史",
+      "verifiedScope": "500日期、拨盘布局及Henry Dreyfuss",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "不同机构",
+      "commercialDisclosure": "展览；未核到商业披露",
+      "originalId": "HC150-S017",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S018",
+      "title": "Western Electric model500 exhibit",
+      "publisher": "Westport Tech Museum",
+      "url": "https://www.westporttechmuseum.com/products/rotary-dial-phones-1970",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆实物展品页",
+      "verifiedScope": "500实物展出身份和1949年份；不采纳近乎不坏夸张",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "不同机构；社会普及说法未独立验证",
+      "commercialDisclosure": "非售卖博物馆；部分照片背景由Gemini处理",
+      "originalId": "HC150-S018",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S045",
+      "title": "Alexa what's the latest",
+      "publisher": "Amazon",
+      "url": "https://www.aboutamazon.com/news/devices/alexa-whats-the-latest",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂回顾",
+      "verifiedScope": "首代Echo2014年11月及TTS历史",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传",
+      "originalId": "HC150-S045",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S046",
+      "title": "Echo available to all customers 2015",
+      "publisher": "Amazon",
+      "url": "https://press.aboutamazon.com/2015/6/amazon-echo-now-available-to-all-customers",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "邀请销售、初代七麦克风/云端、2015公开订购",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业公告；用户好评引述不作独立评测",
+      "originalId": "HC150-S046",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    }
+  ],
+  "validation": {
+    "exhibits": 7,
+    "uniqueSlugs": true,
+    "allFiveSectionHanAtLeast825": true,
+    "allNestedSourceReferencesClosed": true,
+    "productionFilesEdited": false,
+    "minHanCharacters": 859,
+    "maxHanCharacters": 948
+  },
+  "limitations": [
+    "沿用已核身份与日期，不把本轮文字修订称作所有来源重新核读。",
+    "比较只陈述可确认的操作和结构差异，未核采用率与长期影响不填。"
+  ]
+}

@@ -1,0 +1,683 @@
+{
+  "slug": "garmin-gps155-tso",
+  "name": "GPS 155 TSO",
+  "regionVersion": "美国FAA批准飞机面板155；排除不同安装宽度165",
+  "query": "\"Garmin\" AND \"GPS\" AND \"155\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Garmin GPS 155, Prototype - DPLA - 811bd94ee3c50b4486e3c6b264bc7f87 (page 1).jpg",
+      "pageid": 169580261,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Garmin_GPS_155,_Prototype_-_DPLA_-_811bd94ee3c50b4486e3c6b264bc7f87_(page_1).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/Garmin_GPS_155%2C_Prototype_-_DPLA_-_811bd94ee3c50b4486e3c6b264bc7f87_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Garmin_GPS_155%2C_Prototype_-_DPLA_-_811bd94ee3c50b4486e3c6b264bc7f87_%28page_1%29.jpg/960px-Garmin_GPS_155%2C_Prototype_-_DPLA_-_811bd94ee3c50b4486e3c6b264bc7f87_%28page_1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-07-09 21:03:11",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Garmin GPS 155, Prototype - DPLA - 811bd94ee3c50b4486e3c6b264bc7f87 (page 1)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Files with no machine-readable author|Media contributed by the Digital Public Library of America|Digital Public Library of America files missing creator|Media contributed by National Air and Space Museum|Media contributed by the Smithsonian Institution",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Aluminum chassis, digital display plate, circuit cards with integrated circuits, rechargable battery pack, 3 connectors on back face plate, front case has control knobs and 10 keys.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1994",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/40px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/60px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"20\" data-file-height=\"20\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://ids.si.edu/ids/deliveryService?id=NASM-NASM2012-02110\">File URL</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/40px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/60px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://n2t.net/ark:/65665/nv99b5eb5cf-4d5b-4cec-8656-38ac40942b67\">Catalog record</a></span>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border:var(--border-subtle, 2px solid #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"Creative Commons\"><img alt=\"Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"CC-Zero\"><img alt=\"CC-Zero\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Aluminum chassis, digital display plate, circuit cards with integrated circuits, rechargable battery pack, 3 connectors on back face plate, front case has control knobs and 10 keys.",
+      "artist": "",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "1994"
+    },
+    {
+      "title": "File:Existing physicochemical condition and elutriate testing of Missouri River alluvial sediments from Fort Randall Dam to Ponca, Nebraska as an indicator of the potential water quality impacts posed ... - USACE-p266001coll1-2192.pdf",
+      "pageid": 153190539,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Existing_physicochemical_condition_and_elutriate_testing_of_Missouri_River_alluvial_sediments_from_Fort_Randall_Dam_to_Ponca,_Nebraska_as_an_indicator_of_the_potential_water_quality_impacts_posed_..._-_USACE-p266001coll1-2192.pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Existing_physicochemical_condition_and_elutriate_testing_of_Missouri_River_alluvial_sediments_from_Fort_Randall_Dam_to_Ponca%2C_Nebraska_as_an_indicator_of_the_potential_water_quality_impacts_posed_..._-_USACE-p266001coll1-2192.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Existing_physicochemical_condition_and_elutriate_testing_of_Missouri_River_alluvial_sediments_from_Fort_Randall_Dam_to_Ponca%2C_Nebraska_as_an_indicator_of_the_potential_water_quality_impacts_posed_..._-_USACE-p266001coll1-2192.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-09-26 15:04:01",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Water quality special report: Existing physicochemical condition and elutriate testing of Missouri River alluvial sediments from Fort Randall Dam to Ponca, Nebraska as an indicator of the potential water quality impacts posed by dredging these sediments to construct emergent sandbar habitat – Report",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Uploaded with OpenRefine|PD US Army USACE|Books without Wikidata item|Images from USACE to check|Images from USACE, Technical reports collection",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "United States. Army. Corps of Engineers. Omaha District",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://usace.contentdm.oclc.org/digital/collection/p266001coll1/id/2192\">https://usace.contentdm.oclc.org/digital/collection/p266001coll1/id/2192</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "",
+      "artist": "United States. Army. Corps of Engineers. Omaha District",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:Differential solutions using long-range, dual-frequency GPS correction data (IA differentialsolu109459802).pdf",
+      "pageid": 92329610,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Differential_solutions_using_long-range,_dual-frequency_GPS_correction_data_(IA_differentialsolu109459802).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Differential_solutions_using_long-range%2C_dual-frequency_GPS_correction_data_%28IA_differentialsolu109459802%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Differential_solutions_using_long-range%2C_dual-frequency_GPS_correction_data_%28IA_differentialsolu109459802%29.pdf/page1-960px-Differential_solutions_using_long-range%2C_dual-frequency_GPS_correction_data_%28IA_differentialsolu109459802%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-07-17 11:06:43",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\nDifferential solutions using long-range, dual-frequency GPS correction data</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD US Government|FEDLINK - United States Federal Collection|Academic theses and dissertations of the Naval Postgraduate School|Documents from the US Naval Postgraduate School Library|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nLindy, Fred L.</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<p>Military applications of space-based navigation systems have led to important enhancements to our fighting capability and are being applied to many phases of operations. The Global Positioning System (GPS) is a key factor for making this a reality. GPS provides accurate position, velocity and time information. Stand-alone GPS receivers may not provide the requisite accuracy to fulfill mission requirements. This thesis focused on the accuracy and relevance of applying dual-frequency GPS correction data to compute differential GPS (DGPS) solutions. Analysis was performed to assess the viability of using correction data from reference receivers at extended ranges, 2000-3000 km away, to perform after-the-fact positioning by analyzing stand-alone GPS accuracy versus dual-frequency corrected techniques. This could be extended to real-time operations. The differentially-corrected technique produced more accurate results than stand-alone GPS at all ranges. The stand-alone GPS horizontal root mean square (RMS) accuracy was 5.9 meters while the differentially-corrected RMS accuracy was under 1.5 meters to 2000 kilometers and under 3.0 meters to 3200 kilometers. The process has applicability in determining GPS solutions for long-range military uses. It is possible to use U.S. or Allied GPS assets at long distances from areas of operations to prosecute targets of high interest.\n</p>\n<br>Subjects: Global Positioning System.; GPS; DGPS; Stand-Alone GPS; Differential Corrections; Long-Range Correction Data</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/differentialsolu109459802\" class=\"extiw\" title=\"iarchive:differentialsolu109459802\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: differentialsolu109459802</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/differentialsolu109459802/differentialsolu109459802.pdf\">https://archive.org/download/differentialsolu109459802/differentialsolu109459802.pdf</a></dd></dl>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "This publication is a work of the U.S. Government as defined in Title 17, United States Code, Section 101. As such, it is in the public domain, and under the provisions of Title 17, United States Code, Section 105, may not be copyrighted.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Military applications of space-based navigation systems have led to important enhancements to our fighting capability and are being applied to many phases of operations. The Global Positioning System (GPS) is a key factor for making this a reality. GPS provides accurate position, velocity and time information. Stand-alone GPS receivers may not provide the requisite accuracy to fulfill mission requirements. This thesis focused on the accuracy and relevance of applying dual-frequency GPS correction data to compute differential GPS (DGPS) solutions. Analysis was performed to assess the viability of using correction data from reference receivers at extended ranges, 2000-3000 km away, to perform after-the-fact positioning by analyzing stand-alone GPS accuracy versus dual-frequency corrected techniques. This could be extended to real-time operations. The differentially-corrected technique produced more accurate results than stand-alone GPS at all ranges. The stand-alone GPS horizontal root mean square (RMS) accuracy was 5.9 meters while the differentially-corrected RMS accuracy was under 1.5 meters to 2000 kilometers and under 3.0 meters to 3200 kilometers. The process has applicability in determining GPS solutions for long-range military uses. It is possible to use U.S. or Allied GPS assets at long distances from areas of operations to prosecute targets of high interest.\n \n Subjects: Global Positioning System.; GPS; DGPS; Stand-Alone GPS; Differential Corrections; Long-Range Correction Data",
+      "artist": "Lindy, Fred L.",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:Fmars-10-1141160.pdf",
+      "pageid": 131223802,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fmars-10-1141160.pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/Fmars-10-1141160.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Fmars-10-1141160.pdf/page1-960px-Fmars-10-1141160.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-04-27 09:53:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fmars-10-1141160",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media from Frontiers in Marine Science|Taam ja' Blue Hole|2023-02-23",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Coastal karst formations may remain unexplored by the global marine scientific research community. Knowledge provided by fishermen coupled with scientific research on karstic formations prompted us to explore the geomorphometric and physicochemical features of a submerged blue hole in the large tropical estuary of Chetumal Bay in the southeastern coast of the Yucatán Peninsula, Mexico. Differently from the well-known literature on cenotes in the Yucatán Peninsula, no references are made to blue holes in the region. Sampling and surveying of the blue hole were conducted in September 2021 by scuba, echosounders, CTD profilers, and the collection of water samples. This study revealed a previously unknown maximum water depth for the Taam ja’ Blue Hole, as it is now named, of 274.4 meters below sea level (mbsl), making it the second deepest known blue hole in the world. The Taam ja’ Blue Hole has a nearly circular shape at its surface, encompassing an area of ~13,690 m2. The sides of the blue hole are steep, with slopes &gt;80° that form a large conic structure covered by biofilms, sediments, limestone, and gypsum ledges. The blue hole mouth locates at ~4.5-5.0 mbsl, at which water properties change significantly with temperature and salinity gradients of 4.9°C/m and 9.8 PSU/m, respectively. Hydrographic profiles show a stratified water column inside the blue hole consisting of a hypoxic layer (5-20 mbsl), a chemocline (50-80 mbsl), and an anoxic layer (&gt;110 mbsl). Evaluation of anions and cations indicated that the water inside corresponds mainly to that of diluted seawater.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-02-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.frontiersin.org/articles/10.3389/fmars.2023.1141160/full\">https://www.frontiersin.org/articles/10.3389/fmars.2023.1141160/full</a>\n</p>\n<a rel=\"nofollow\" class=\"external free\" href=\"https://doi.org/10.3389/fmars.2023.1141160\">https://doi.org/10.3389/fmars.2023.1141160</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Juan C. Alcérreca-Huerta, Teresa Álvarez-Legorreta, Laura Carrillo, Laura M. Flórez-Franco, Oscar F. Reyes-Mendoza and Joan A. Sánchez-Sánchez",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Coastal karst formations may remain unexplored by the global marine scientific research community. Knowledge provided by fishermen coupled with scientific research on karstic formations prompted us to explore the geomorphometric and physicochemical features of a submerged blue hole in the large tropical estuary of Chetumal Bay in the southeastern coast of the Yucatán Peninsula, Mexico. Differently from the well-known literature on cenotes in the Yucatán Peninsula, no references are made to blue holes in the region. Sampling and surveying of the blue hole were conducted in September 2021 by scuba, echosounders, CTD profilers, and the collection of water samples. This study revealed a previously unknown maximum water depth for the Taam ja’ Blue Hole, as it is now named, of 274.4 meters below sea level (mbsl), making it the second deepest known blue hole in the world. The Taam ja’ Blue Hole has a nearly circular shape at its surface, encompassing an area of ~13,690 m2. The sides of the blue hole are steep, with slopes >80° that form a large conic structure covered by biofilms, sediments, limestone, and gypsum ledges. The blue hole mouth locates at ~4.5-5.0 mbsl, at which water properties change significantly with temperature and salinity gradients of 4.9°C/m and 9.8 PSU/m, respectively. Hydrographic profiles show a stratified water column inside the blue hole consisting of a hypoxic layer (5-20 mbsl), a chemocline (50-80 mbsl), and an anoxic layer (>110 mbsl). Evaluation of anions and cations indicated that the water inside corresponds mainly to that of diluted seawater.",
+      "artist": "Juan C. Alcérreca-Huerta, Teresa Álvarez-Legorreta, Laura Carrillo, Laura M. Flórez-Franco, Oscar F. Reyes-Mendoza and Joan A. Sánchez-Sánchez",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "date": "2023-02-23"
+    },
+    {
+      "title": "File:Schlussbericht 1674 der Eidgenössischen Flugunfallkommission.pdf",
+      "pageid": 71840915,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Schlussbericht_1674_der_Eidgen%C3%B6ssischen_Flugunfallkommission.pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Schlussbericht_1674_der_Eidgen%C3%B6ssischen_Flugunfallkommission.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Schlussbericht_1674_der_Eidgen%C3%B6ssischen_Flugunfallkommission.pdf/page1-960px-Schlussbericht_1674_der_Eidgen%C3%B6ssischen_Flugunfallkommission.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2018-08-21 18:15:04",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Schlussbericht 1674 der Eidgenössischen Flugunfallkommission",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Aviation accidents and incidents in 1995|PH-DAK (aircraft)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Schlussbericht der Eidgenössischen Flugunfallkommission über den Unfall des Flugzeugs PH-DAK vom 5. Juli 1995 im Eigental / LU",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1995-07-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.sust.admin.ch/inhalte/AV-berichte/1674.pdf\">https://www.sust.admin.ch/inhalte/AV-berichte/1674.pdf</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Aircraft Accident Investigation Bureau",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Schlussbericht der Eidgenössischen Flugunfallkommission über den Unfall des Flugzeugs PH-DAK vom 5. Juli 1995 im Eigental / LU",
+      "artist": "Aircraft Accident Investigation Bureau",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "1995-07-05"
+    },
+    {
+      "title": "File:Garmin GPS 155, Prototype - DPLA - 811bd94ee3c50b4486e3c6b264bc7f87 (page 2).jpg",
+      "pageid": 169580268,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Garmin_GPS_155,_Prototype_-_DPLA_-_811bd94ee3c50b4486e3c6b264bc7f87_(page_2).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Garmin_GPS_155%2C_Prototype_-_DPLA_-_811bd94ee3c50b4486e3c6b264bc7f87_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Garmin_GPS_155%2C_Prototype_-_DPLA_-_811bd94ee3c50b4486e3c6b264bc7f87_%28page_2%29.jpg/960px-Garmin_GPS_155%2C_Prototype_-_DPLA_-_811bd94ee3c50b4486e3c6b264bc7f87_%28page_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-07-09 21:03:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Garmin GPS 155, Prototype - DPLA - 811bd94ee3c50b4486e3c6b264bc7f87 (page 2)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Files with no machine-readable author|Media contributed by the Digital Public Library of America|Digital Public Library of America files missing creator|Media contributed by National Air and Space Museum|Media contributed by the Smithsonian Institution",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Aluminum chassis, digital display plate, circuit cards with integrated circuits, rechargable battery pack, 3 connectors on back face plate, front case has control knobs and 10 keys.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1994",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/40px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/60px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"20\" data-file-height=\"20\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://ids.si.edu/ids/deliveryService?id=NASM-A19950010000cp05\">File URL</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/40px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/60px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://n2t.net/ark:/65665/nv99b5eb5cf-4d5b-4cec-8656-38ac40942b67\">Catalog record</a></span>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table style=\"width:100%; clear:both; text-align:center; margin:0.5em auto; background-color:var(--background-color-neutral-subtle, #f8f9fa); border:var(--border-subtle, 2px solid #c8ccd1); padding: 0; border-spacing: 8px; color:var(--color-base, #202122);\" dir=\"ltr\" class=\"layouttemplate licensetpl\" lang=\"en\">\n<tbody><tr>\n<td style=\"width:90px;\" rowspan=\"2\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"Creative Commons\"><img alt=\"Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/40px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Cc.logo.circle.svg/60px-Cc.logo.circle.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span> <span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"CC-Zero\"><img alt=\"CC-Zero\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/40px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"28\" height=\"28\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Cc-zero.svg/60px-Cc-zero.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span>\n</td>\n<td>This file is made available under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"https://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/zero/1.0/deed.en\">CC0 1.0 Universal Public Domain Dedication</a>.\n</td></tr>\n<tr style=\"text-align:left;\">\n<td>The person who associated a work with this deed has dedicated the work to the <a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a> by waiving all of their rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law. You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.\n<p><span class=\"licensetpl_link\" style=\"display:none;\">http://creativecommons.org/publicdomain/zero/1.0/deed.en</span><span class=\"licensetpl_short\" style=\"display:none;\">CC0</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Zero, Public Domain Dedication</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>\n</p>\n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Aluminum chassis, digital display plate, circuit cards with integrated circuits, rechargable battery pack, 3 connectors on back face plate, front case has control knobs and 10 keys.",
+      "artist": "",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "1994"
+    },
+    {
+      "title": "File:3-2010 Cessna Citation 500 VP-BGE 30 March 2008.pdf",
+      "pageid": 129393252,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:3-2010_Cessna_Citation_500_VP-BGE_30_March_2008.pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/3-2010_Cessna_Citation_500_VP-BGE_30_March_2008.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/3-2010_Cessna_Citation_500_VP-BGE_30_March_2008.pdf/page1-960px-3-2010_Cessna_Citation_500_VP-BGE_30_March_2008.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-03-08 04:04:59",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "3-2010 Cessna Citation 500 VP-BGE 30 March 2008",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "OGL v3.0|AAIB aircraft accident PDF files|2008 Biggin Hill Cessna Citation crash",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "AIRCRAFT ACCIDENT REPORT 3/2010\n<p>Air Accidents Investigation Branch\nDepartment for Transport\nReport on the accident to\nCessna Citation 500\nregistration VP-BGE\n2nm NNE of Biggin Hill Airport\n</p>\n30 March 2008",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-05-21",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20081218142016/http://www.aaib.gov.uk/cms_resources/2008%2D04%2D01%20%2D%20Cessna%20VP%2DBGE%20%2D%20AAIB%20statement%2Epdf\">https://web.archive.org/web/20081218142016/http://www.aaib.gov.uk/cms_resources/2008%2D04%2D01%20%2D%20Cessna%20VP%2DBGE%20%2D%20AAIB%20statement%2Epdf</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "AAIB (UK)",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "OGL 3",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Open Government License 3",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        }
+      },
+      "description": "AIRCRAFT ACCIDENT REPORT 3/2010\n Air Accidents Investigation Branch\nDepartment for Transport\nReport on the accident to\nCessna Citation 500\nregistration VP-BGE\n2nm NNE of Biggin Hill Airport\n \n30 March 2008",
+      "artist": "AAIB (UK)",
+      "license": "OGL 3",
+      "licenseUrl": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+      "date": "2010-05-21"
+    },
+    {
+      "title": "File:Mapa Rodoviário do Estado de São Paulo 2025.pdf",
+      "pageid": 179528935,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mapa_Rodovi%C3%A1rio_do_Estado_de_S%C3%A3o_Paulo_2025.pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Mapa_Rodovi%C3%A1rio_do_Estado_de_S%C3%A3o_Paulo_2025.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Mapa_Rodovi%C3%A1rio_do_Estado_de_S%C3%A3o_Paulo_2025.pdf/page1-960px-Mapa_Rodovi%C3%A1rio_do_Estado_de_S%C3%A3o_Paulo_2025.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-12-06 23:05:36",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Mapa Rodoviário do Estado de São Paulo 2025",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD other reasons|Maps of São Paulo (state)|PD other reasons new",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Mapa de todas as vias de maior tráfego do Estado de São Paulo",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.der.sp.gov.br/website/Documentos/mapas.aspx\">https://www.der.sp.gov.br/website/Documentos/mapas.aspx</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Departamento de Estradas de Rodagem do Estado de São Paulo (DER-SP)",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Mapa de todas as vias de maior tráfego do Estado de São Paulo",
+      "artist": "Departamento de Estradas de Rodagem do Estado de São Paulo (DER-SP)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "2025"
+    }
+  ]
+}

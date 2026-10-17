@@ -1,0 +1,84 @@
+{
+  "checkedAt": "2026-10-11T05:19:50.181Z",
+  "status": "first-published-subset-verified",
+  "scope": {
+    "actualExhibits": 54,
+    "newExhibits": 14,
+    "originalExhibitsPreserved": 40,
+    "originalChronicleNodesPreserved": 29,
+    "readingLines": 16,
+    "stages": 45,
+    "nonemptyStages": 28,
+    "photographs": 33,
+    "withoutPhotographs": 21
+  },
+  "navigation": [
+    "首页",
+    "馆藏",
+    "产品编年史",
+    "关于"
+  ],
+  "detailReading": [
+    "顶部入藏理由摘要",
+    "代表性",
+    "时代背景",
+    "设计与技术",
+    "使用方式",
+    "取舍与边界",
+    "引用与依据"
+  ],
+  "verification": {
+    "build": "passed",
+    "syntaxChecks": "passed",
+    "unitTests": {
+      "passed": 12,
+      "failed": 0
+    },
+    "browser": {
+      "result": "passed in recorded phases",
+      "evidence": "expanded-browser-results.json",
+      "recordedChecks": 30,
+      "errors": [],
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ],
+      "resumedFrom": {
+        "testedAt": "2026-10-11T05:03:16.200Z",
+        "completedChecks": [
+          "No horizontal overflow and primary images render at 320px on all page types",
+          "No horizontal overflow and primary images render at 390px on all page types",
+          "No horizontal overflow and primary images render at 768px on all page types",
+          "No horizontal overflow and primary images render at 1440px on all page types",
+          "Homepage has the ordered four-item navigation and a usable collection entry; homepage and chronicles remain independent destinations",
+          "All current chronicles: ordered sourced nodes, dates, media and usable first screens at 390px",
+          "All current chronicles: ordered sourced nodes, dates, media and usable first screens at 1440px",
+          "Type links, keyboard, share URL, reload and browser history retain the selected chronicle",
+          "Each chronicle detail returns to its type and node; direct detail does not inherit stale chronicle context",
+          "A shared chronicle-detail URL restores context in a fresh browser session; plain detail has a safe default",
+          "Unknown type has a recoverable empty state; legacy timeline opens product chronicles",
+          "Search model normalization, combined empty state and reset",
+          "Filter share URL, reload, detail and return retain combined filters",
+          "Descending sort and Chinese brand aliases",
+          "All 54 direct detail URLs, content and citations; 33 photographs decode; absent photographs explicitly labeled",
+          "All public exhibits have sourced substantive narratives; the reading navigation reaches the usage section",
+          "3 optional internal-observation sections render only for their matched exhibits",
+          "Failed media shows named fallback and source in both detail and chronicle; text and dates remain usable",
+          "Unknown exhibit and 10 withdrawn detail URLs respond with useful 404",
+          "Skip link, no automatic video requests, reduced motion and 640px reflow"
+        ],
+        "failure": "AssertionError [ERR_ASSERTION]: gaming-expanded-5: stage heading enters viewport\n    at file:///Users/xyu/Program/circuit-museum/tests/expanded-browser.mjs:359:7"
+      }
+    }
+  },
+  "boundaries": [
+    "Only complete-batch-14 imported on top of preserved original 40",
+    "No aggregate research selection treated as published products",
+    "Final 150-exhibit objective remains incomplete",
+    "New 14 main photographs remain pending",
+    "No deployment or claim of physical product testing",
+    "Bilibili search-index candidates are not full-video verification"
+  ]
+}

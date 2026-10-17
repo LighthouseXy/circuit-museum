@@ -1,0 +1,126 @@
+{
+  "sony-playstation-2": {
+    "summary": "将DVD播放与游戏放进同一台家用主机，同时保留读取初代PlayStation游戏光盘的能力。"
+  },
+  "sony-psp-1000": {
+    "summary": "用UMD光盘与Memory Stick Duo分别承接游戏、影音和保存数据，将PlayStation的使用场景带到手中。"
+  },
+  "sony-playstation-3": {
+    "summary": "通过XMB分类界面组织Blu-ray游戏、影音和系统任务，并以无线SIXAXIS手柄提供动作输入。"
+  },
+  "sony-playstation-vita": {
+    "summary": "在OLED屏幕、双摇杆之外加入前触屏与背触摸板，让同一台掌机提供不同位置的输入。"
+  },
+  "sony-playstation-4": {
+    "summary": "DualShock 4把分享、系统选项与触摸输入分开安排，让记录游戏过程成为手边的操作。"
+  },
+  "sony-playstation-4-pro": {
+    "summary": "在PS4同一游戏平台内增强硬件，画面与性能改善取决于具体游戏、模式和显示条件。"
+  },
+  "sony-playstation-5": {
+    "summary": "原光盘版以SSD内容读取、DualSense触觉和自适应扳机共同组织新一代家庭游戏体验。"
+  },
+  "nintendo-switch-2017": {
+    "summary": "可滑脱Joy-Con、带支架的屏幕与电视底座，使同一台主机能在手持、桌面和电视之间重新组合。"
+  },
+  "nintendo-super-famicom": {
+    "summary": "四个彩色正面按键与肩键扩展手指分工，部分游戏卡带还将辅助处理硬件带入系统。"
+  },
+  "nintendo-64": {
+    "summary": "模拟摇杆改变三维游戏中的方向与幅度控制；存档方式和扩展附件则依游戏分别安排。"
+  },
+  "nintendo-game-boy-color": {
+    "summary": "在原Game Boy路线中引入彩色显示，同时通过卡带类型区分旧机兼容与彩屏专用内容。"
+  },
+  "nintendo-game-boy-advance": {
+    "summary": "反射型彩色屏幕与ABLR按键构成横向掌机，让双手同时承担方向、正面和肩部输入。"
+  },
+  "nintendo-gamecube": {
+    "summary": "小尺寸专用光盘与突出A键的手柄共同形成使用入口，模拟扳机提供有行程变化的输入。"
+  },
+  "nintendo-3ds": {
+    "summary": "上方裸眼立体屏、下方触屏与Slide Pad并置，让观看深度、触控和连续方向输入各自承担任务。"
+  },
+  "nintendo-wii-u": {
+    "summary": "GamePad结合触屏和双摇杆，与独立主机构成双屏系统；手持屏幕本身并不独立执行主机游戏。"
+  },
+  "nintendo-switch-lite": {
+    "summary": "将控制器固定在机身两侧，聚焦手持游戏，省去电视输出，并保留软件支持与外接输入的使用条件。"
+  },
+  "nintendo-color-tv-game-15": {
+    "summary": "以可分离的有线旋钮和实体设置控制球拍游戏，展示专用游戏机如何用有限输入形成多人互动。"
+  },
+  "nintendo-game-watch-ball-1980": {
+    "summary": "用专用LCD图形表现接球动作，让得分、游戏与数字时钟共享掌中屏幕。"
+  },
+  "nintendo-virtual-boy-jp": {
+    "summary": "通过双眼观察口提供立体画面，将观看位置与光学调节变成开始游戏前的重要动作。"
+  },
+  "sega-dreamcast-jp": {
+    "summary": "日本初售版把光盘游戏、33.6kbps通信与带屏幕的Visual Memory存储附件组织在同一系统内。"
+  },
+  "xbox-adaptive-controller": {
+    "summary": "将辅助开关和摇杆接入统一控制中心，再以软件映射把不同身体动作对应到游戏命令。"
+  },
+  "valve-steam-controller-2015": {
+    "summary": "用双触摸板、触觉反馈和可编辑映射，把部分键鼠式操作转移到握持的控制器上。"
+  },
+  "sony-access-controller": {
+    "summary": "通过可替换按钮帽、摇杆帽、摆放方向和PS5映射设置，组合适合不同动作能力的输入方案。"
+  },
+  "sony-playstation-portal": {
+    "summary": "将PS5 Remote Play的屏幕与手柄组合到手中；串流功能仍依赖执行端、网络和相应服务条件。"
+  },
+  "asus-rog-ally-2023": {
+    "summary": "原Z1 Extreme款将Windows触屏电脑与一体手柄结合，用户在桌面配置和实体游戏输入之间切换。"
+  },
+  "lenovo-legion-go-2023": {
+    "summary": "8.8英寸屏幕、背部支架与可拆控制器组成多种摆放方式，右控制器还可配合底座用于FPS输入。"
+  },
+  "msi-claw-a1m": {
+    "summary": "原A1M将Intel Core Ultra平台、7英寸触屏与实体手柄放进掌机，MSI Center M承担设备与输入设置。"
+  },
+  "asus-rog-xbox-ally-x": {
+    "summary": "Xbox全屏入口与Windows桌面共存，让手持PC在游戏优先界面和通用电脑任务之间切换。"
+  },
+  "valve-steam-controller-2026": {
+    "summary": "以双TMR摇杆、双触摸板和Steam Input配置结合传统与可编辑输入，并通过Puck安排无线连接和充电。"
+  },
+  "valve-steam-machine-2026": {
+    "summary": "Valve的立方体SteamOS电脑在本地执行游戏，通过外接显示器与控制器组织大屏游玩场景。"
+  },
+  "lg-stanbyme-go-27lx5qkna": {
+    "designDetails": [
+      "箱内支架支持倾斜、旋转和升降，屏幕可横向、竖向或平放使用。",
+      "箱体兼作运输保护与展开底座，提手和附件收纳组织携带动作。",
+      "内置电池支持离开固定插座的一段使用，仍需安排充电。"
+    ]
+  },
+  "sony-betamax-sl-6300": {
+    "designDetails": [
+      "半英寸磁带收进盒式载体，录像可以作为独立物件取放和收纳。",
+      "独立录像机与电视组合使用，将影像记录和画面显示分开安排。"
+    ]
+  },
+  "canon-ae-1": {
+    "designDetails": [
+      "FD镜头系统与电子控制快门、机内测光结合，自动曝光与手动对焦分别承担任务。",
+      "裂像与微棱镜在取景器内辅助手动对焦，镜头环仍由使用者操作。",
+      "过片杆和倒片机构处理胶片移动，电子控制没有取消胶片介质。"
+    ]
+  },
+  "kodak-dcs-1991": {
+    "designDetails": [
+      "Nikon F3机身提供拍摄基础，Kodak数字背负责图像感知。",
+      "外部Digital Storage Unit通过电缆连接，存储与电子部件扩展到机身之外。",
+      "相机、电池、线缆与存储单元需要作为一套系统携带。"
+    ]
+  },
+  "dji-phantom-2013": {
+    "designDetails": [
+      "四旋翼机体整合Naza-M飞控与GPS模块，遥控器承担操纵。",
+      "安装架为外部GoPro留下位置，拍摄记录仍需相机及相应挂载。",
+      "GPS姿态模式需要卫星和指南针状态支持，定位与画面稳定是不同任务。"
+    ]
+  }
+}

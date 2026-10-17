@@ -1,0 +1,94 @@
+{
+  "slug": "macbook-air-m5-2026",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Macbook Air 15 inch - 2 (blurred).jpg",
+      "pageid": 143995953,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Macbook_Air_15_inch_-_2_(blurred).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/46/Macbook_Air_15_inch_-_2_%28blurred%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Macbook_Air_15_inch_-_2_%28blurred%29.jpg/960px-Macbook_Air_15_inch_-_2_%28blurred%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-01-15 05:46:09",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Macbook Air 15 inch - 2 (blurred)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "15 inches|Apple Stores in 2023|Images containing blurring of copyright material|Apple Nagoya Sakae|MacBook Air M2|Computers running macOS",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Blurred, copyright-free version of <a href=\"//commons.wikimedia.org/w/index.php?title=File:Macbook_Air_15_inch_-_2.jpg&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"File:Macbook Air 15 inch - 2.jpg (page does not exist)\">File:Macbook Air 15 inch - 2.jpg</a>.\nOriginal description:  Macbook Air 15インチモデル。名古屋市中区のApple Store名古屋栄で撮影。",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-01-15",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=File:Macbook_Air_15_inch_-_2.jpg&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"File:Macbook Air 15 inch - 2.jpg (page does not exist)\">File:Macbook Air 15 inch - 2.jpg</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "User:KKPCW",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Blurred, copyright-free version of  File:Macbook Air 15 inch - 2.jpg .\nOriginal description:  Macbook Air 15インチモデル。名古屋市中区のApple Store名古屋栄で撮影。",
+      "artist": "User:KKPCW",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2024-01-15"
+    }
+  ]
+}

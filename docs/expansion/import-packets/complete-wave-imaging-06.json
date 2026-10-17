@@ -1,0 +1,1355 @@
+{
+  "schemaVersion": 2,
+  "checkedOn": "2026-10-11",
+  "status": "reviewed-staged-import-packet",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ],
+    "snapshotPath": "docs/expansion/base-40-preserved.json"
+  },
+  "exhibits": [
+    {
+      "slug": "panasonic-lumix-dmc-g1",
+      "year": 2008,
+      "name": "LUMIX DMC-G1",
+      "brand": "Panasonic",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Panasonic LUMIX DMC-G1"
+      ],
+      "tags": [
+        "摄影与视频",
+        "2008"
+      ],
+      "summary": "一个具体任务是拍摄景物并在不同高度构图。四分之三规格Live MOS感知器件与一千二百一十万有效像素提供图像，电子取景器和可转动LCD承担构图与反馈。",
+      "context": "二〇〇八年十月日本上市的DMC-G1，将可更换镜头与电子取景组织成一台相机。它的任务仍是认真构图和控制曝光，但不再要求借助单反式反光镜把镜头画面送到眼前。原厂后来上市回顾确认时间，英文G1K套装手册用于核机身共通操作，不把套装地区和镜头默认配置混进日本机身。对于希望保留贴眼取景、又使用新型紧凑系统的人，电子显示是连接现有拍摄姿态与新内部结构的办法；“无反”应通过取景链路理解，而不只是当作一个流行分类。",
+      "design": "四分之三规格Live MOS感知器件与一千二百一十万有效像素提供图像，电子取景器和可转动LCD承担构图与反馈。镜头经Micro Four Thirds卡口连接，画面不必通过反光镜和五棱镜进入眼睛。可更换镜头保留光学选择，显示则把传感器输出带到取景界面；两者协作仍需要电池和处理。机身提供自动及参数控制方式，既可降低部分准备负担，也可让摄影者明确选择。省去一种机械结构不等于整套器材没有体积，镜头仍决定实际携带和取景范围。",
+      "usage": "一个具体任务是拍摄景物并在不同高度构图。使用者准备电池和兼容存储卡，装上合适镜头，选择贴眼电子取景器或调整LCD方向观察画面；选择自动或适合任务的曝光方式，半按快门对焦，再按到底拍摄。原手册同时提供单次、连续和手动对焦方式，具体选择随主体而变。拍完在机身回放，检查画面再决定是否重拍。对于低位置构图，可调LCD让身体不必完全跟随镜头高度；对于习惯贴眼持机的人，电子取景器保留一个明确的观察和支撑方式。",
+      "significance": "G1可解释从单反到无反时，改变的不只是体积。取景从直接光学传递变成传感器和电子显示协作，同时仍保留换镜头与曝光选择。和D1或5D Mark II比较，可以把光学取景与电子取景的责任分开；和E-P1比较，则能看到相同系统标准下不同的外部形态。产品的价值可以是提供一种好理解的拍摄工具组合，不必为每个功能争夺全球第一。对于用户，是否喜欢贴眼查看、屏幕构图和电子反馈，是实际任务选择，不能仅用一个“新架构”词替代。",
+      "limitations": "电子取景和LCD依赖持续供电，显示状态也影响如何观察现场；系统标准不代表所有转接镜头都具有相同自动功能。可调屏幕有利于改变姿态，但不能替代稳定持机或判断焦点。本文不将GH系列视频能力加入原G1，也不把英文套装镜头与地区电源作为日本机身默认配置。原手册能确认共通操作，本条没有实测显示延迟、续航或旧机健康。使用旧器材时还需判断镜头、卡和电池状态，电子化不会取消这些条件；选择一件相机仍应连同整套光学与实际任务考虑。",
+      "dateLabel": "2008-10（日本原厂上市回顾）",
+      "dateKind": "launch",
+      "regionVersion": "日本G1机身；英文G1K套装手册仅核共通规格",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "采用4/3 Live MOS、1210万有效像素，电子取景器。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2008-10（日本原厂上市回顾）",
+          "sourceIds": [
+            "I150-S048"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "日本G1机身；英文G1K套装手册仅核共通规格",
+          "sourceIds": [
+            "I150-S048",
+            "I150-S049"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "采用4/3 Live MOS、1210万有效像素，电子取景器。",
+          "sourceIds": [
+            "I150-S049"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S048",
+        "I150-S049"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S048",
+          "I150-S049"
+        ],
+        "design": [
+          "I150-S048",
+          "I150-S049"
+        ],
+        "usage": [
+          "I150-S048",
+          "I150-S049"
+        ],
+        "significance": [
+          "I150-S048",
+          "I150-S049"
+        ],
+        "limitations": [
+          "I150-S048",
+          "I150-S049"
+        ]
+      },
+      "relatedSlugs": [
+        "olympus-pen-e-p1",
+        "canon-eos-5d-mark-ii"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "olympus-pen-e-p1",
+        "canon-eos-5d-mark-ii"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-3"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-3",
+        "title": "视频、无反与随身摄影",
+        "need": "在携带、取景和不同拍摄任务间选择。",
+        "turn": "具体型号组合不同传感、镜头与显示安排。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 879,
+      "mediaOpinions": [],
+      "deliveryPacket": "complete-wave-imaging-06.json",
+      "evidenceLimits": [],
+      "id": "170"
+    },
+    {
+      "slug": "olympus-pen-e-p1",
+      "year": 2009,
+      "name": "PEN E-P1",
+      "brand": "Olympus",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Olympus PEN E-P1"
+      ],
+      "tags": [
+        "摄影与视频",
+        "2009"
+      ],
+      "summary": "拍摄一次外出见闻时，使用者选择合适的Micro Four Thirds镜头，准备电池和存储，利用LCD构图。无反内部结构减少反光镜箱的要求，四分之三Live MOS提供一千二百三十万有效像素，LCD负责Live View与设置反馈。",
+      "context": "二〇〇九年的PEN E-P1把Micro Four Thirds可换镜头系统放进较平直的金属机身，回应的是愿意带相机日常出门的需求。六月公告给出未来销售安排，十一月同期公告已经明确产品在销售，所以本记录保留可核的年份，不把计划日期直接写成实际首售。PEN名称引用过去的品牌记忆，但这台商品使用电子感知与显示，不能当作纯机械复古相机。对于想换镜头又不偏好传统单反隆起形态的人，外观和操控一起构成产品入口。",
+      "design": "无反内部结构减少反光镜箱的要求，四分之三Live MOS提供一千二百三十万有效像素，LCD负责Live View与设置反馈。金属外装呈现既有PEN的视觉联系，而Live Control通过屏幕图标与拨盘组织操作；图标显示不意味着屏幕具有触摸输入。机身支持自动场景识别和七百二十线视频，使日常照片与短片可以共用器材。去掉单反取景结构给外形更多选择，但用户需要接受以电子画面查看和控制的关系，紧凑机身也不能消除所用镜头的体积。",
+      "usage": "拍摄一次外出见闻时，使用者选择合适的Micro Four Thirds镜头，准备电池和存储，利用LCD构图。可以选择iAUTO让相机识别场景，也可以在Live Control显示的图标中用拨盘调整设置，再观察变化对画面的影响。需要记录短片时，采用机身提供的视频功能，而不是另拿一台录像设备。这个流程的要点是看屏幕和改变设置可以在同一界面中连续进行，实际操作由按钮和拨盘完成。拍摄者仍须确认主体、焦点和持机稳定，自动场景选择并不代替自己的观察。",
+      "significance": "E-P1说明新取景结构可以承载不同于单反的消费形态。与同系统G1比较，两台都可更换镜头，却通过不同机身表面与观察方式接近日常摄影；名称的复古联系与内部的电子成像也同时存在。普通用户愿意随身携带、能够在屏幕反馈中调整并拍摄，是足够具体的产品价值，不必强写它改变了所有人的习惯。Live Control还展示自动与手动之间可以有渐进入口：先拍，再在看得见的反馈中认识参数，便利与学习任务能够在同一设备上共存。",
+      "limitations": "紧凑外观不能保证带上每一支镜头都同样轻便，LCD构图也受光线和拿持条件影响。厂商关于画质、最小与最轻的措辞带有当时比较范围，本文没有把这些排名转为无限期事实。自动识别场景需要实际适用条件，视频与静态模式的防抖、滤镜等也不应不加区别地混合。本文没有把后来的PEN电子取景附件或触摸操作写进原E-P1，亦不将销售计划当成实售凭证。原厂备用地址的完整公告与旧档案同篇，交叉读取能补操作证据，却不会增加一个独立评测来源。",
+      "dateLabel": "2009（11月同期公告确认已售）",
+      "dateKind": "launch",
+      "regionVersion": "日本E-P1；首发机身/套装不把计划日期当实售日",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "1230万像素Live MOS、Micro Four Thirds，可拍720p视频。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2009（11月同期公告确认已售）",
+          "sourceIds": [
+            "I150-S051"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "日本E-P1；首发机身/套装不把计划日期当实售日",
+          "sourceIds": [
+            "I150-S050",
+            "I150-S051"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "1230万像素Live MOS、Micro Four Thirds，可拍720p视频。",
+          "sourceIds": [
+            "I150-S050"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S050",
+        "I150-S051",
+        "CWI-S011"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S050",
+          "I150-S051",
+          "CWI-S011"
+        ],
+        "design": [
+          "I150-S050",
+          "I150-S051",
+          "CWI-S011"
+        ],
+        "usage": [
+          "I150-S050",
+          "I150-S051",
+          "CWI-S011"
+        ],
+        "significance": [
+          "I150-S050",
+          "I150-S051",
+          "CWI-S011"
+        ],
+        "limitations": [
+          "I150-S050",
+          "I150-S051",
+          "CWI-S011"
+        ]
+      },
+      "relatedSlugs": [
+        "panasonic-lumix-dmc-g1",
+        "fujifilm-finepix-x100"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "panasonic-lumix-dmc-g1",
+        "fujifilm-finepix-x100"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-3"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-3",
+        "title": "视频、无反与随身摄影",
+        "need": "在携带、取景和不同拍摄任务间选择。",
+        "turn": "具体型号组合不同传感、镜头与显示安排。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 848,
+      "mediaOpinions": [],
+      "deliveryPacket": "complete-wave-imaging-06.json",
+      "evidenceLimits": [],
+      "id": "171"
+    },
+    {
+      "slug": "fujifilm-finepix-x100",
+      "year": 2011,
+      "name": "FinePix X100",
+      "brand": "Fujifilm",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Fujifilm FinePix X100"
+      ],
+      "tags": [
+        "摄影与视频",
+        "2011"
+      ],
+      "summary": "一个实际任务是在街头或旅行中拍摄人物与环境。固定二十三毫米F2镜头与APS-C感知器件共同安排成像，混合取景器允许用户选择光学观察或传感器画面的电子显示。",
+      "context": "初代FinePix X100在二〇一一年三月上市，选择固定镜头与可切换光学、电子画面的混合取景器。它并不以让用户装上所有镜头为目标，而是让一件完整相机围绕特定视角和操作关系工作。上市时间由财报确认，原手册解释取景流程；这里不混X100S或X100VI。对于想随身拍摄、又偏好贴眼观察的人，两种取景方式可以服务不同条件。外观中的传统拨盘并不意味着内部纯机械，数字感知、电子反馈和数据保存构成实际商品的另一半。",
+      "design": "固定二十三毫米F2镜头与APS-C感知器件共同安排成像，混合取景器允许用户选择光学观察或传感器画面的电子显示。光学模式便于直接看现场，电子模式则显示经镜头取得的画面，便于确认构图及曝光等反馈。机身上有取景切换器、快门和光圈控制，参数选择与观察方式相互配合。固定镜头省去换镜头准备，却把视角选择的边界留给摄影者的位置与构图。混合结构不是同时拥有所有方案的全部优点，而是把两种观察关系放在一台设备中，让使用者按任务切换。",
+      "usage": "一个实际任务是在街头或旅行中拍摄人物与环境。用户准备电池和存储，依据意图选择光圈与快门，使用取景切换器决定看光学场景还是电子画面，然后对焦拍摄。需要更准确确认镜头所见范围时，可以使用电子方式；近距离拍摄还要留意光学取景窗口与镜头之间的视差。原手册说明微距模式会切换到电子取景，正是为处理这类差别。拍完可在显示中回看；若想改变主体大小，固定镜头要求重新考虑站位与距离，而不是默认转一个变焦环即可。",
+      "significance": "X100呈现固定镜头相机仍可以提供丰富而明确的选择。它没有通过无限扩展镜头建立价值，而是在一件可携带商品里安排视角、手动控制与双重取景。与可换镜头E-P1或G1比较，准备器材的复杂度和视角灵活性形成不同取舍；与GR III比较，固定镜头也可以对应不同焦段和观察习惯。其意义可以是普通摄影者找到适合自己的任务入口，不必宣称复古外观天然更专业。真正值得理解的是操作与反馈如何组合，而不是把风格照片当作内部功能的证据。",
+      "limitations": "固定镜头限制了可直接选择的视角，面对无法靠近的主体与狭小空间时，需要调整构图预期。光学取景存在视差，电子取景也有显示与供电条件，切换不是对所有场景的无条件解决。原手册描述电子预览可能有少量显示延迟，因此本文没有把它写成与直接观看完全一样。记录严格对应初代FinePix X100，不补后代的防抖、分辨率或新增取景形式。二〇一一年生产背景与上市日期分别处理，也没有根据品牌系列延续推断原机当前仍在售或受支持；旧机实际状态需另行核查。",
+      "dateLabel": "2011-03（财报确认上市）",
+      "dateKind": "launch",
+      "regionVersion": "初代FinePix X100，不混X100S或X100VI",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "可切换光学与电子显示的混合取景器。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2011-03（财报确认上市）",
+          "sourceIds": [
+            "I150-S052"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "初代FinePix X100，不混X100S或X100VI",
+          "sourceIds": [
+            "I150-S052",
+            "I150-S053"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "可切换光学与电子显示的混合取景器。",
+          "sourceIds": [
+            "I150-S053"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S052",
+        "I150-S053",
+        "CWI-S012"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S052",
+          "I150-S053",
+          "CWI-S012"
+        ],
+        "design": [
+          "I150-S052",
+          "I150-S053",
+          "CWI-S012"
+        ],
+        "usage": [
+          "I150-S052",
+          "I150-S053",
+          "CWI-S012"
+        ],
+        "significance": [
+          "I150-S052",
+          "I150-S053",
+          "CWI-S012"
+        ],
+        "limitations": [
+          "I150-S052",
+          "I150-S053",
+          "CWI-S012"
+        ]
+      },
+      "relatedSlugs": [
+        "olympus-pen-e-p1",
+        "ricoh-gr-iii"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "olympus-pen-e-p1",
+        "ricoh-gr-iii"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-3"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-3",
+        "title": "视频、无反与随身摄影",
+        "need": "在携带、取景和不同拍摄任务间选择。",
+        "turn": "具体型号组合不同传感、镜头与显示安排。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 902,
+      "mediaOpinions": [],
+      "deliveryPacket": "complete-wave-imaging-06.json",
+      "evidenceLimits": [],
+      "id": "172"
+    },
+    {
+      "slug": "dji-phantom-2013",
+      "year": 2013,
+      "name": "Phantom 第一代",
+      "brand": "DJI",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "DJI Phantom 第一代"
+      ],
+      "tags": [
+        "摄影与视频",
+        "2013"
+      ],
+      "summary": "一个具体任务是在合适的开阔位置，用正确安装的外部相机取得俯瞰片段。内置Naza-M飞控与GPS模块，遥控器提供操纵，机体以四旋翼和起落架组织结构，安装架给外部GoPro留下位置。",
+      "context": "二〇一三年一月七日Austin发布的初代Phantom，提供一套面向消费者的四旋翼平台，并附GoPro安装架。它的任务是把可以携带的相机带到空中，以不同位置取得画面；相机并不是机身内置的一部分，不能把Vision或后来有云台的Phantom当作原款。发布公告带经销商购买入口，这一具体事件保留在日期中，不补未经核实的全球首售。商品将飞控、定位与遥控关系组合好，减少从零搭建的部分工作，但飞行和影像仍是需要分别准备的两项任务。",
+      "design": "内置Naza-M飞控与GPS模块，遥控器提供操纵，机体以四旋翼和起落架组织结构，安装架给外部GoPro留下位置。GPS姿态模式与姿态控制模式处理的条件不同：定位能力要依赖实际卫星和指南针状态，不能把模式名称当作在任何地点都自动定点。平台提供整合的飞控入口，同时把相机型号、记录与挂载条件留在系统外部。没有原厂内置云台意味着飞行平台和画面稳定不是同一件事，操纵与载荷还需一起衡量，外形完整不等于用户没有装配工作。",
+      "usage": "一个具体任务是在合适的开阔位置，用正确安装的外部相机取得俯瞰片段。飞行前要完成相机自身记录准备，并检查旋翼、起落架、供电、遥控和指南针条件；上电时等待自检，使用GPS相关模式还需确认定位状态，再进行起飞和操纵。初代后期快启手册明确这些共同准备要求，不把它的新固件选项倒填到首发。相机开始记录和飞行开始不是天然同一个动作，用户要分开确认。完成任务后降落并检查素材，不能假设后代App直播画面或一键相机控制原本就存在。",
+      "significance": "Phantom让空中影像的准备集中到一件明确的飞行平台，但没有把整个摄影任务全部内置。它与地面摄像机的差别不只是视角高一些：相机位置由动力与控制系统维持，影像采集要和飞行资源共同安排。与后来的全景运动相机并置，还能比较改变相机位置和事后改变观看方向这两种方法。普通用户获得可组合的航拍入口是具体价值，不必照搬“人人容易飞”的宣传。保留初代安装架与外部相机关系，也能看出产品之后怎样逐步整合不同环节。",
+      "limitations": "GPS模式和失联返回都具有定位、指南针及系统状态前提，不能承诺所有场地或所有故障都能自动安全返回。手册说明GPS丢失会切换姿态模式，电量也影响可继续执行的任务；返航说明不是障碍识别或避障能力的证明。本文没有把后代内置相机、云台、手机图传与智能电池加入初代。较晚的初代手册只补共通准备边界，不作为一月首发固件全功能清单。飞行平台和相机各有状态需要检查，本条描述产品结构与任务关系，不提供对任何具体地点、旧电池或实物的飞行适宜性判定。",
+      "dateLabel": "2013-01-07（美国Austin发布公告，含经销商购买入口）",
+      "dateKind": "announcement",
+      "regionVersion": "2013初代含GoPro安装架；不是Vision或内置云台相机的后代",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2013-01-07（美国Austin发布公告，含经销商购买入口）",
+          "sourceIds": [
+            "L:ER11"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "2013初代含GoPro安装架；不是Vision或内置云台相机的后代",
+          "sourceIds": [
+            "L:ER11"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "L:ER11",
+        "L:ER12",
+        "CWI-S013"
+      ],
+      "paragraphSources": {
+        "context": [
+          "L:ER11",
+          "L:ER12",
+          "CWI-S013"
+        ],
+        "design": [
+          "L:ER11",
+          "L:ER12",
+          "CWI-S013"
+        ],
+        "usage": [
+          "L:ER11",
+          "L:ER12",
+          "CWI-S013"
+        ],
+        "significance": [
+          "L:ER11",
+          "L:ER12",
+          "CWI-S013"
+        ],
+        "limitations": [
+          "L:ER11",
+          "L:ER12",
+          "CWI-S013"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-dcr-vx1000",
+        "insta360-x5"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "sony-dcr-vx1000",
+        "insta360-x5"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-3"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-3",
+        "title": "视频、无反与随身摄影",
+        "need": "在携带、取景和不同拍摄任务间选择。",
+        "turn": "具体型号组合不同传感、镜头与显示安排。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 899,
+      "mediaOpinions": [],
+      "deliveryPacket": "complete-wave-imaging-06.json",
+      "evidenceLimits": [],
+      "id": "173"
+    },
+    {
+      "slug": "ricoh-gr-iii",
+      "year": 2019,
+      "name": "GR III",
+      "brand": "Ricoh",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Ricoh GR III"
+      ],
+      "tags": [
+        "摄影与视频",
+        "2019"
+      ],
+      "summary": "一个实际任务是外出散步时拍摄街景或近处见闻。标准机采用APS-C约二千四百二十四万有效像素，固定镜头提供二十八毫米等效视角和F2.8最大光圈，机内加入感知器件移动防抖。",
+      "context": "二〇一九年二月二十二日公布的标准GR III，把较大感知器件与固定广角镜头放进可随身携带的机身，任务定位是日常快拍。日期保留原公告事件，没有把三月计划自动改成实际销售日；GR IIIx、HDF和特别外观版本不是这条的默认配置。对希望出门时减少器材准备的人，固定镜头相机可以作为完整工具使用。DPReview的具体评测提供口袋尺寸与图像质量的正面意见，同时指出电池和无闪光的取舍；这些观点明确归给作者，不写成本馆实测结论。",
+      "design": "标准机采用APS-C约二千四百二十四万有效像素，固定镜头提供二十八毫米等效视角和F2.8最大光圈，机内加入感知器件移动防抖。触摸LCD可用于移动对焦框、选择设置和回放操作，而镜头选择被收在整机设计中。这样的整合把便携与记录能力放到同一商品内，也放弃通过换镜头或光学变焦适应所有距离的方案。防抖处理相机的一部分运动，不会冻结移动主体；尺寸较小也意味着电池和控制空间需要取舍，不能只从像素推断一天拍摄的全部体验。",
+      "usage": "一个实际任务是外出散步时拍摄街景或近处见闻。使用者准备电源和存储，开机后借LCD构图，用触摸移动对焦位置或选择所需模式，再完成拍摄并回看。固定广角适合在画面中同时保留主体与环境，但主体很远时需要改变站位或接受较小的画面占比。机内支持RAW与JPEG，拍完可以按自己对后期的需要保存和处理。需要较长外出时还应安排供电，不能因机身能放入口袋就忽略一天的任务长度；拍摄工具的方便包含携带，也包含真正完成所需照片。",
+      "significance": "GR III的入选不要求它承担一次行业革命。一个容易带走、能够记录高质量日常照片的设备，本身就有可理解的价值。DPReview三位作者在标准GR III评测中肯定口袋尺寸与图像质量，这为正面候选入口提供具体依据；厂商规格则负责确认镜头和感知结构。与X100比较，两者都固定镜头，却在视角、观察方式和形态上选择不同；与长焦TZ300比较，简化镜头准备和扩大取景覆盖又是另一组取舍。读者可以围绕自己的拍摄任务理解，普通好用的产品无需被强行包装为里程碑。",
+      "limitations": "固定二十八毫米等效镜头不提供长焦覆盖，机内裁切也不是更换光学焦距。DPReview指出无内置闪光灯、电池表现以及弱光对焦的条件，这些不足应和正面评价一起读，不因体积与画质受肯定而省去。评测来自实体使用与图像比较，本轮只核到正文和结论索引，未完整逐页复测或确认全部样机利益关系。原厂的后续固件计划没有全部写成公告时已交付能力，标准GR III也不借GR IIIx和HDF特性。是否适合长途、暗处或远距离任务，仍应由实际需要决定。",
+      "dateLabel": "2019-02-22（公告；非3月计划等同实售）",
+      "dateKind": "announcement",
+      "regionVersion": "标准GRIII，非GRIIIx/HDF/Street Edition",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "APS-C约2424万有效像素，固定28mm等效F2.8镜头。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2019-02-22（公告；非3月计划等同实售）",
+          "sourceIds": [
+            "I150-S074"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "标准GRIII，非GRIIIx/HDF/Street Edition",
+          "sourceIds": [
+            "I150-S074"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "2019-02-22原厂公布。",
+          "sourceIds": [
+            "I150-S074"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "APS-C约2424万有效像素，固定28mm等效F2.8镜头。",
+          "sourceIds": [
+            "I150-S074"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S074",
+        "I150-S075"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S074",
+          "I150-S075"
+        ],
+        "design": [
+          "I150-S074",
+          "I150-S075"
+        ],
+        "usage": [
+          "I150-S074",
+          "I150-S075"
+        ],
+        "significance": [
+          "I150-S074",
+          "I150-S075"
+        ],
+        "limitations": [
+          "I150-S074",
+          "I150-S075"
+        ]
+      },
+      "relatedSlugs": [
+        "fujifilm-finepix-x100",
+        "panasonic-lumix-dc-tz300"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "fujifilm-finepix-x100",
+        "panasonic-lumix-dc-tz300"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-3"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-3",
+        "title": "视频、无反与随身摄影",
+        "need": "在携带、取景和不同拍摄任务间选择。",
+        "turn": "具体型号组合不同传感、镜头与显示安排。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 887,
+      "mediaOpinions": [
+        {
+          "media": "DPReview",
+          "author": "Barney Britton / Richard Butler / Carey Rose",
+          "articleDate": "2019-05-14",
+          "exactModelVersion": "标准GRIII",
+          "originalURL": "https://www.dpreview.com/reviews/8690273264/ricoh-gr-iii/",
+          "praise": "作者肯定口袋尺寸与图像质量。",
+          "shortcomings": "无闪光灯与电池表现；弱光对焦有条件。",
+          "evaluationConditions": "实体相机评测，日常快拍与图像比较；未复测。",
+          "commercialDisclosure": "页面未核到样机与利益关系说明。",
+          "verificationDepth": "正文与结论索引；没有全部分页",
+          "sourceId": "I150-S075"
+        }
+      ],
+      "deliveryPacket": "complete-wave-imaging-06.json",
+      "evidenceLimits": [],
+      "id": "174"
+    },
+    {
+      "slug": "insta360-x5",
+      "year": 2025,
+      "name": "X5",
+      "brand": "Insta360",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Insta360 X5"
+      ],
+      "tags": [
+        "摄影与视频",
+        "2025"
+      ],
+      "summary": "一个清楚的任务是独自步行拍摄旅行片段，回到手机上选择观看方向。双镜头与感知器件共同采集全景，后续软件将素材组织为可选择视角的内容。",
+      "context": "二〇二五年四月二十二日原厂宣布可订购的标准X5，用双向采集记录周围空间，让用户在拍完之后再选择要给观众看的方向。它的具体任务可以是一个人旅行或运动时同时保留自己与周围场景，减少现场漏掉某个方向的机会。记录不混BMW或白色限量套装。TechRadar的Sam Kieldsen在试用数日后肯定暗处画质改善与使用灵活性，也指出某些用户无需升级；这里采用署名评测的观点入口，同时仍以原厂资料核型号与记录方式。",
+      "design": "双镜头与感知器件共同采集全景，后续软件将素材组织为可选择视角的内容。原厂八K描述的是全景视频记录，不能直接当作裁切后的单一普通画面八K。标准X5还将镜片可更换作为耐用与维护设计的一部分，需要相应更换套件，不等于受到任何损伤都能自行修好。采集范围扩大，使构图的一部分从现场转移到后期；换来的便利也伴随更大的数据和处理要求。机身、安装配件与编辑软件共同构成实际工具，不能只用两个镜头解释完整体验。",
+      "usage": "一个清楚的任务是独自步行拍摄旅行片段，回到手机上选择观看方向。用户把相机固定到合适配件，开始全景记录，在活动中保留前后场景，之后用App选择视角并导出普通视频。Kieldsen的评测包含自拍杆步行、骑行与车窗外拍摄，再以iPhone 13编辑，说明其意见对应这些条件。原厂也提供InstaFrame同时生成平面和全景素材的模式，用户可以在快速输出与保留后期选择之间安排。拍摄后选择角度不是完全不用构图，位置、距离和相机遮挡仍在现场决定。",
+      "significance": "X5展示一种将方向选择延后的影像任务。与固定方向的摄像机比较，用户可以先尽量保留周围内容，再按观看目标挑选画面；与Phantom比较，它改变的是记录覆盖与后期视角，飞行平台则改变相机位置。两者解决的问题不同，不必靠哪个更先进来排列。具体正面评测肯定低照度改善和灵活性，为普通用户用途提供有限证据；可换镜片又让维护进入消费产品的表面设计。其价值可以是较容易独自取得多种画面，无需声称每个人都需要全景相机。",
+      "limitations": "全景标称分辨率不是裁切画面的同等分辨率，编辑后选择的方向、范围和输出条件都会影响细节。双镜头仍可能遇到遮挡和拼接问题，后期选择也增加素材处理时间。Kieldsen指出刚购买X4的用户未必值得升级，普通单向运动记录还有更便宜简单的选择；这与其正面评价同时保留。评测购物链接可能带来佣金，样机关系未明确核实，本馆没有自行复测。更换镜片需要适当部件与步骤，不代表防水和所有损坏都无条件可恢复；配件、软件和任务应作为一套使用条件理解。",
+      "dateLabel": "2025-04-22（原厂可订购公告）",
+      "dateKind": "launch",
+      "regionVersion": "2025标准X5；非BMW/白色限量套装",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "双向采集360视频；不以8K宣传推定裁切后单视角8K。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2025-04-22（原厂可订购公告）",
+          "sourceIds": [
+            "I150-S076"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "2025标准X5；非BMW/白色限量套装",
+          "sourceIds": [
+            "I150-S076"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "2025-04-22原厂宣布可订购。",
+          "sourceIds": [
+            "I150-S076"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "双向采集360视频；不以8K宣传推定裁切后单视角8K。",
+          "sourceIds": [
+            "I150-S076"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S076",
+        "I150-S077"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S076",
+          "I150-S077"
+        ],
+        "design": [
+          "I150-S076",
+          "I150-S077"
+        ],
+        "usage": [
+          "I150-S076",
+          "I150-S077"
+        ],
+        "significance": [
+          "I150-S076",
+          "I150-S077"
+        ],
+        "limitations": [
+          "I150-S076",
+          "I150-S077"
+        ]
+      },
+      "relatedSlugs": [
+        "dji-phantom-2013",
+        "ricoh-gr-iii"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "dji-phantom-2013",
+        "ricoh-gr-iii"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-4"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-4",
+        "title": "近期拍摄工具",
+        "need": "根据实际拍摄任务理解新设备。",
+        "turn": "媒体试用意见只支持所测版本与条件。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 882,
+      "mediaOpinions": [
+        {
+          "media": "TechRadar",
+          "author": "Sam Kieldsen",
+          "articleDate": "2025-04-22；更新2025-04-30",
+          "exactModelVersion": "标准X5",
+          "originalURL": "https://www.techradar.com/cameras/360-cameras/insta360-x5-review",
+          "praise": "作者肯定暗处画质改善与使用灵活性。",
+          "shortcomings": "刚买X4者未必值得升级；一般单向运动记录有更便宜简单选择。",
+          "evaluationConditions": "试用数日，自拍杆步行/骑行/车窗外拍摄，iPhone13 App编辑。",
+          "commercialDisclosure": "购物链接可产生佣金；样机关系未明确核。",
+          "verificationDepth": "正文测试条件、署名与结论；未自行测试",
+          "sourceId": "I150-S077"
+        }
+      ],
+      "deliveryPacket": "complete-wave-imaging-06.json",
+      "evidenceLimits": [],
+      "id": "175"
+    },
+    {
+      "slug": "panasonic-lumix-dc-tz300",
+      "year": 2026,
+      "name": "LUMIX DC-TZ300",
+      "brand": "Panasonic",
+      "category": "imaging",
+      "museumCategory": "imaging",
+      "categoryLabel": "摄影与视频",
+      "aliases": [
+        "Panasonic LUMIX DC-TZ300"
+      ],
+      "tags": [
+        "摄影与视频",
+        "2026"
+      ],
+      "summary": "一个实际任务是游览时先拍建筑全景，再用长焦记录远处装饰，而不更换镜头。一英寸BSI CMOS与十五倍光学变焦构成核心组合，等效二十四到三百六十毫米范围让镜头承担多个常见视角。",
+      "context": "二〇二六年三月二十四日德国公告的欧洲TZ300，以便携机身和长焦覆盖服务旅行记录。日期是该地区公布事件，不把后续评测自动写成当日全球销售；北美ZS300名称与区域视频格式也分开保留。对于不想在旅途中换镜头的人，从宽场景到远处细节能够在同一台设备中取景，是普通而明确的任务。Timothy Coleman随后在中国旅行中借测两周，肯定长焦、稳定与便携，也指出操控和画质边界，符合本馆保留具体好用产品的入口。",
+      "design": "一英寸BSI CMOS与十五倍光学变焦构成核心组合，等效二十四到三百六十毫米范围让镜头承担多个常见视角。内置镜头减少携带和更换准备，但必须在有限机身体积里平衡长焦、光学表现与操作空间。这一代采用固定屏幕并省去取景器，使LCD成为主要观察入口；USB-C又影响旅行中充电和设备连接的安排。它并不是把旗舰可换镜头系统所有能力缩到口袋里，而是选取适合旅途的一组覆盖，供用户在便携、视角和操作之间作判断。",
+      "usage": "一个实际任务是游览时先拍建筑全景，再用长焦记录远处装饰，而不更换镜头。用户准备电池与存储，通过LCD构图，调整光学变焦到需要的范围，对焦拍摄后回看；长焦时还要特别注意支撑和主体移动。Coleman的具体测试包括旅行中的RAW与JPEG、不同模式、视频及电池记录，说明正面意见来源于一段明确任务，而非只抄发布参数。旅途中可结合USB-C供电条件安排充电，但续航仍取决于拍摄与回看方式。固定屏幕的角度也会影响低位或高位构图的方便程度。",
+      "significance": "TZ300值得保留的理由可以很日常：一件可携带设备为旅行提供较广的光学取景范围，使用者能在一个镜头内完成多种照片。可靠的具体正评足以支持候选，普通好用不需要被写成技术首创。与GR III比较，固定广角的简洁和长焦覆盖的灵活形成清楚差别；与早期PowerShot比较，数字记录之外的观察、供电和旅行任务又更完整。Coleman肯定的便携与稳定是作者在借测条件下的体验，产品正文据此呈现适用场景，不把单篇评价扩大成全体用户共识。",
+      "limitations": "Coleman指出无取景器、固定屏幕、较旧对焦表现和长焦端偏软，并认为价格偏高；这些具体不足需要与长焦便利同时理解。图像防抖不能冻结移动主体，长焦覆盖也不是每个焦段都具有同样画面表现。评测由Panasonic借机两周，文章购物链接可产生佣金，利益条件在媒体字段中保留。本文没有把北美ZS300的地区格式混入欧洲记录，也没有因二〇二六年型号较新就虚构全新对焦系统。公告、作者借测与实际销售是不同节点，未核的地区销售和后续生命周期结束事件不强填。",
+      "dateLabel": "2026-03-24（德国公告）",
+      "dateKind": "announcement",
+      "regionVersion": "欧洲TZ300；ZS300为北美名称，区域视频格式不合并",
+      "significanceLabel": "使用任务与设计取舍",
+      "features": [
+        "15倍光学变焦、24–360mm等效，1英寸BSI CMOS。"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2026-03-24（德国公告）",
+          "sourceIds": [
+            "I150-S089"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "欧洲TZ300；ZS300为北美名称，区域视频格式不合并",
+          "sourceIds": [
+            "I150-S089"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "2026-03-24德国原厂公布TZ300。",
+          "sourceIds": [
+            "I150-S089"
+          ]
+        },
+        {
+          "label": "关键事实",
+          "value": "15倍光学变焦、24–360mm等效，1英寸BSI CMOS。",
+          "sourceIds": [
+            "I150-S089"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S089",
+        "I150-S088"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S089",
+          "I150-S088"
+        ],
+        "design": [
+          "I150-S089",
+          "I150-S088"
+        ],
+        "usage": [
+          "I150-S089",
+          "I150-S088"
+        ],
+        "significance": [
+          "I150-S089",
+          "I150-S088"
+        ],
+        "limitations": [
+          "I150-S089",
+          "I150-S088"
+        ]
+      },
+      "relatedSlugs": [
+        "ricoh-gr-iii",
+        "canon-powershot-600"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "ricoh-gr-iii",
+        "canon-powershot-600"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [
+        "imaging-expanded-4"
+      ],
+      "chroniclePlacement": {
+        "readingLineId": "imaging",
+        "stageId": "imaging-expanded-4",
+        "title": "近期拍摄工具",
+        "need": "根据实际拍摄任务理解新设备。",
+        "turn": "媒体试用意见只支持所测版本与条件。",
+        "isCuratorialReading": true
+      },
+      "idStatus": "proposed-stable-check-live-before-import",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "chineseCharactersInFiveSections": 866,
+      "mediaOpinions": [
+        {
+          "media": "TechRadar",
+          "author": "Timothy Coleman",
+          "articleDate": "2026-04-06",
+          "exactModelVersion": "借测欧洲TZ300，非旧TZ200",
+          "originalURL": "https://www.techradar.com/cameras/compact-cameras/panasonic-lumix-tz300-review",
+          "praise": "作者肯定长焦覆盖、稳定与旅行便携。",
+          "shortcomings": "无取景器、固定屏幕、旧对焦与长焦端偏软；价格偏高。",
+          "evaluationConditions": "Panasonic借机两周，中国旅行、多模式RAW/JPEG/视频与电池记录。",
+          "commercialDisclosure": "明确原厂借测两周，购物链接佣金。",
+          "verificationDepth": "全文相关评测及How I tested正文",
+          "sourceId": "I150-S088"
+        }
+      ],
+      "deliveryPacket": "complete-wave-imaging-06.json",
+      "evidenceLimits": [],
+      "id": "176"
+    }
+  ],
+  "sources": [
+    {
+      "id": "CWI-S011",
+      "title": "E-P1日本原公告（可解析备用原厂地址）",
+      "publisher": "Olympus",
+      "url": "https://www.olympus.co.jp/jp/news/2009a/nr090616ep1j.html?page=ir",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "无反结构、LCD Live Control拨盘操作、iAUTO、720p、机身材质",
+      "verificationMethod": "2009-06-16原厂全文；与I150-S050为同篇不同入口",
+      "limits": "同一原公告不独立；7月3日为当时销售计划，实售年份沿11月公告。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测",
+      "verificationRecords": [
+        {
+          "verifiedScope": "无反结构、LCD Live Control拨盘操作、iAUTO、720p、机身材质",
+          "verificationMethod": "2009-06-16原厂全文；与I150-S050为同篇不同入口",
+          "limits": "同一原公告不独立；7月3日为当时销售计划，实售年份沿11月公告。",
+          "independence": "原厂材料不独立；博物馆档案依其原始记录",
+          "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "无反结构、LCD Live Control拨盘操作、iAUTO、720p、机身材质",
+      "verification": "2009-06-16原厂全文；与I150-S050为同篇不同入口；同一原公告不独立；7月3日为当时销售计划，实售年份沿11月公告。"
+    },
+    {
+      "id": "CWI-S012",
+      "title": "FinePix X100 Owner’s Manual",
+      "publisher": "Fujifilm",
+      "url": "https://dl.fujifilm-x.com/support/manual/x/finepix_x100_manual_en.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "初代X100混合取景切换、光学视差/电子预览、固定23mm镜头与基本拍摄",
+      "verificationMethod": "原厂140页PDF可解析，读取取景器与基本拍摄、规格",
+      "limits": "非X100S/V/VI；不使用后代功能。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测",
+      "verificationRecords": [
+        {
+          "verifiedScope": "初代X100混合取景切换、光学视差/电子预览、固定23mm镜头与基本拍摄",
+          "verificationMethod": "原厂140页PDF可解析，读取取景器与基本拍摄、规格",
+          "limits": "非X100S/V/VI；不使用后代功能。",
+          "independence": "原厂材料不独立；博物馆档案依其原始记录",
+          "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "初代X100混合取景切换、光学视差/电子预览、固定23mm镜头与基本拍摄",
+      "verification": "原厂140页PDF可解析，读取取景器与基本拍摄、规格；非X100S/V/VI；不使用后代功能。"
+    },
+    {
+      "id": "CWI-S013",
+      "title": "Phantom初代 Quick Start Manual v1.7（法文）",
+      "publisher": "DJI",
+      "url": "https://dl.djicdn.com/downloads/phantom/fr/PHANTOM_Quick_Start_Manual_v1.7_fr.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-or-archive",
+      "verifiedScope": "初代的电源自检、指南针/GPS条件、开阔地与失GPS切ATTI",
+      "verificationMethod": "DJI下载中心原21页PDF，初代目录指向；读取准备/校准/试飞条件",
+      "limits": "晚期初代手册，目录2014-02-18；仅核共通准备条件，不将后续固件能力当2013首发承诺。",
+      "independence": "原厂材料不独立；博物馆档案依其原始记录",
+      "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测",
+      "verificationRecords": [
+        {
+          "verifiedScope": "初代的电源自检、指南针/GPS条件、开阔地与失GPS切ATTI",
+          "verificationMethod": "DJI下载中心原21页PDF，初代目录指向；读取准备/校准/试飞条件",
+          "limits": "晚期初代手册，目录2014-02-18；仅核共通准备条件，不将后续固件能力当2013首发承诺。",
+          "independence": "原厂材料不独立；博物馆档案依其原始记录",
+          "commercialDisclosure": "机构档案或原厂使用资料，不当独立评测",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "初代的电源自检、指南针/GPS条件、开阔地与失GPS切ATTI",
+      "verification": "DJI下载中心原21页PDF，初代目录指向；读取准备/校准/试飞条件；晚期初代手册，目录2014-02-18；仅核共通准备条件，不将后续固件能力当2013首发承诺。"
+    },
+    {
+      "id": "I150-S048",
+      "title": "LUMIX G lens announcement retrospective",
+      "publisher": "Panasonic",
+      "url": "https://news.panasonic.com/jp/press/jn170125-3",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "DMC-G1 2008年10月上市回顾",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S048",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "DMC-G1 2008年10月上市回顾",
+          "verificationMethod": "原机构检索索引摘录",
+          "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+          "independence": "同厂商资料，不是独立交叉验证",
+          "commercialDisclosure": "厂商自述；不视作独立评价",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "DMC-G1 2008年10月上市回顾",
+      "verification": "原机构检索索引摘录；只核列出的具体事实，未核独立销量或长期体验。"
+    },
+    {
+      "id": "I150-S049",
+      "title": "DMC-G1 operating instructions",
+      "publisher": "Panasonic",
+      "url": "https://www.panasonic.com/content/dam/Panasonic/support_manual/Digital_Still_Camera/English_02-vqt3-vqt9_other/DMC-G1K%20_vqt1u50_OI.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "原机身1210万像素4/3 Live MOS、EVF",
+      "verificationMethod": "PDF检索索引摘录",
+      "limits": "英文套装手册；只核机身共通规格，没有逐页操作读取。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S049",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "原机身1210万像素4/3 Live MOS、EVF",
+          "verificationMethod": "原厂160页PDF正文可解析；读取G1共通LCD/EVF、装卡、半按对焦与回放。",
+          "limits": "英文G1K/G1W套装说明，仅核G1共通功能；不将地区包装和镜头套装转为日本标准机默认。",
+          "independence": "同厂商资料，不是独立交叉验证",
+          "commercialDisclosure": "厂商自述；不视作独立评价",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "原机身1210万像素4/3 Live MOS、EVF",
+      "verification": "PDF检索索引摘录；英文套装手册；只核机身共通规格，没有逐页操作读取。"
+    },
+    {
+      "id": "I150-S050",
+      "title": "OLYMPUS PEN E-P1 announcement",
+      "publisher": "Olympus",
+      "url": "https://olycojp.olympus-global.com/jp/news/2009a/nr090616ep1j.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2009-06-16公布；1230万像素、MFT、金属机身、720p",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S050",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2009-06-16公布；1230万像素、MFT、金属机身、720p",
+          "verificationMethod": "原机构检索索引摘录",
+          "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+          "independence": "同厂商资料，不是独立交叉验证",
+          "commercialDisclosure": "厂商自述；不视作独立评价",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "2009-06-16公布；1230万像素、MFT、金属机身、720p",
+      "verification": "原机构检索索引摘录；只核列出的具体事实，未核独立销量或长期体验。"
+    },
+    {
+      "id": "I150-S051",
+      "title": "E-P1 campaign announcement",
+      "publisher": "Olympus",
+      "url": "https://olycojp.olympus-global.com/jp/news/2009b/nr091124songj.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2009-11-24明确E-P1已在销售",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S051",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2009-11-24明确E-P1已在销售",
+          "verificationMethod": "原机构检索索引摘录",
+          "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+          "independence": "同厂商资料，不是独立交叉验证",
+          "commercialDisclosure": "厂商自述；不视作独立评价",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "2009-11-24明确E-P1已在销售",
+      "verification": "原机构检索索引摘录；只核列出的具体事实，未核独立销量或长期体验。"
+    },
+    {
+      "id": "I150-S052",
+      "title": "FY2011 earnings presentation notes",
+      "publisher": "Fujifilm",
+      "url": "https://ir.fujifilm.com/en/investors/ir-materials/earnings-presentations/main/010/teaserItems5/0/linkList/00/link/ff_fy_2011q4_001_note.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "FinePix X100于2011年3月上市",
+      "verificationMethod": "PDF索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S052",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "FinePix X100于2011年3月上市",
+          "verificationMethod": "PDF索引摘录",
+          "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+          "independence": "同厂商资料，不是独立交叉验证",
+          "commercialDisclosure": "厂商自述；不视作独立评价",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "FinePix X100于2011年3月上市",
+      "verification": "PDF索引摘录；只核列出的具体事实，未核独立销量或长期体验。"
+    },
+    {
+      "id": "I150-S053",
+      "title": "Sustainability Report 2011",
+      "publisher": "Fujifilm",
+      "url": "https://www.fujifilm.com/files-holdings/en/sustainability/report/2011/sustainability_activity_report_2011_ff_sr_2011_en_all.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "X100混合光学/电子取景器、2011生产受地震影响",
+      "verificationMethod": "PDF索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价",
+      "originalId": "I150-S053",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "X100混合光学/电子取景器、2011生产受地震影响",
+          "verificationMethod": "PDF索引摘录",
+          "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+          "independence": "同厂商资料，不是独立交叉验证",
+          "commercialDisclosure": "厂商自述；不视作独立评价",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "X100混合光学/电子取景器、2011生产受地震影响",
+      "verification": "PDF索引摘录；只核列出的具体事实，未核独立销量或长期体验。"
+    },
+    {
+      "id": "I150-S074",
+      "title": "GR III announcement",
+      "publisher": "Ricoh Imaging",
+      "url": "https://news.ricoh-imaging.co.jp/rim_info2/2019/20190222_019929.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2019-02-22正式公布GRIII；APS-C2424万像素，28mm等效F2.8",
+      "verificationMethod": "检索索引摘录",
+      "limits": "仅上述范围，未读全文。",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案",
+      "originalId": "I150-S074",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2019-02-22正式公布GRIII；APS-C2424万像素，28mm等效F2.8",
+          "verificationMethod": "原厂正文读取；身份、原公告日期及相关规格/操作说明已复核。",
+          "limits": "仅上述范围，未读全文。",
+          "independence": "同厂商资料，不独立",
+          "commercialDisclosure": "厂商宣传或档案",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "2019-02-22正式公布GRIII；APS-C2424万像素，28mm等效F2.8",
+      "verification": "检索索引摘录；仅上述范围，未读全文。"
+    },
+    {
+      "id": "I150-S075",
+      "title": "Ricoh GR III review",
+      "publisher": "DPReview",
+      "url": "https://www.dpreview.com/reviews/8690273264/ricoh-gr-iii/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "media-review",
+      "verifiedScope": "2019-05-14具体GRIII评测，画质与便携正评，电池与无闪光不足",
+      "verificationMethod": "网页正文与产品结论索引",
+      "limits": "未读全部分页或复测样机；出版页写初稿04-21、正式05-14。",
+      "independence": "与Ricoh原厂独立的编辑媒体",
+      "commercialDisclosure": "此次页面未核到样机来源或商业关系，不推定无利益关系。",
+      "originalId": "I150-S075",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2019-05-14具体GRIII评测，画质与便携正评，电池与无闪光不足",
+          "verificationMethod": "网页正文与产品结论索引",
+          "limits": "未读全部分页或复测样机；出版页写初稿04-21、正式05-14。",
+          "independence": "与Ricoh原厂独立的编辑媒体",
+          "commercialDisclosure": "此次页面未核到样机来源或商业关系，不推定无利益关系。",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "2019-05-14具体GRIII评测，画质与便携正评，电池与无闪光不足",
+      "verification": "网页正文与产品结论索引；未读全部分页或复测样机；出版页写初稿04-21、正式05-14。"
+    },
+    {
+      "id": "I150-S076",
+      "title": "Insta360 launches X5",
+      "publisher": "Insta360",
+      "url": "https://www.insta360.com/blog/news/insta360-launches-X5-360-action-cam.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2025-04-22可订购X5，标准型号360相机",
+      "verificationMethod": "检索索引摘录",
+      "limits": "仅上述范围，未读全文。",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案",
+      "originalId": "I150-S076",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2025-04-22可订购X5，标准型号360相机",
+          "verificationMethod": "原厂正文读取；身份、原公告日期及相关规格/操作说明已复核。",
+          "limits": "仅上述范围，未读全文。",
+          "independence": "同厂商资料，不独立",
+          "commercialDisclosure": "厂商宣传或档案",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "2025-04-22可订购X5，标准型号360相机",
+      "verification": "检索索引摘录；仅上述范围，未读全文。"
+    },
+    {
+      "id": "I150-S077",
+      "title": "Insta360 X5 review",
+      "publisher": "TechRadar",
+      "url": "https://www.techradar.com/cameras/360-cameras/insta360-x5-review",
+      "checkedOn": "2026-10-11",
+      "sourceType": "media-review",
+      "verifiedScope": "Sam Kieldsen实测X5，暗处表现与编辑，试用数日",
+      "verificationMethod": "网页正文：署名/更新日/评测与测试条件",
+      "limits": "只测试数日；非长期耐久验证。",
+      "independence": "与Insta360原厂独立的编辑媒体",
+      "commercialDisclosure": "公开购物链接佣金；未核样机是否付费/免费。",
+      "originalId": "I150-S077",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "Sam Kieldsen实测X5，暗处表现与编辑，试用数日",
+          "verificationMethod": "网页正文：署名/更新日/评测与测试条件",
+          "limits": "只测试数日；非长期耐久验证。",
+          "independence": "与Insta360原厂独立的编辑媒体",
+          "commercialDisclosure": "公开购物链接佣金；未核样机是否付费/免费。",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "Sam Kieldsen实测X5，暗处表现与编辑，试用数日",
+      "verification": "网页正文：署名/更新日/评测与测试条件；只测试数日；非长期耐久验证。"
+    },
+    {
+      "id": "I150-S088",
+      "title": "LUMIX TZ300 review",
+      "publisher": "TechRadar",
+      "url": "https://www.techradar.com/cameras/compact-cameras/panasonic-lumix-tz300-review",
+      "checkedOn": "2026-10-11",
+      "sourceType": "media-review",
+      "verifiedScope": "2026-04-06具体旅行评测；长焦便携优点与EVF缺失/旧AF缺点",
+      "verificationMethod": "正文读取",
+      "limits": "只核上述具体范围；未自行复测。",
+      "independence": "编辑媒体与厂商独立",
+      "commercialDisclosure": "购物链接佣金；厂商借机两周。",
+      "originalId": "I150-S088",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2026-04-06具体旅行评测；长焦便携优点与EVF缺失/旧AF缺点",
+          "verificationMethod": "正文读取",
+          "limits": "只核上述具体范围；未自行复测。",
+          "independence": "编辑媒体与厂商独立",
+          "commercialDisclosure": "购物链接佣金；厂商借机两周。",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "2026-04-06具体旅行评测；长焦便携优点与EVF缺失/旧AF缺点",
+      "verification": "正文读取；只核上述具体范围；未自行复测。"
+    },
+    {
+      "id": "I150-S089",
+      "title": "Panasonic announces TZ300",
+      "publisher": "Panasonic",
+      "url": "https://www.panasonic.com/de/corporate/presse/alle-meldungen/44-fy2025-lumix-tz300.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-announcement",
+      "verifiedScope": "2026-03-24德国公告，TZ30015倍24–360mm等效、1英寸传感器",
+      "verificationMethod": "原厂索引摘录",
+      "limits": "只核上述具体范围；未自行复测。",
+      "independence": "原厂资料，不独立",
+      "commercialDisclosure": "原厂宣传",
+      "originalId": "I150-S089",
+      "sourceFile": "docs/expansion/research-150-imaging-display.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2026-03-24德国公告，TZ30015倍24–360mm等效、1英寸传感器",
+          "verificationMethod": "原厂正文读取；身份、原公告日期及相关规格/操作说明已复核。",
+          "limits": "只核上述具体范围；未自行复测。",
+          "independence": "原厂资料，不独立",
+          "commercialDisclosure": "原厂宣传",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "2026-03-24德国公告，TZ30015倍24–360mm等效、1英寸传感器",
+      "verification": "原厂索引摘录；只核上述具体范围；未自行复测。"
+    },
+    {
+      "id": "L:ER11",
+      "title": "Phantom consumer quadcopter announcement",
+      "publisher": "DJI",
+      "url": "https://www.dji.com/media-center/announcements/dji-launches-industry-best-easiest-to-fly-quadcopter-for-consumer-use",
+      "publishedOn": "2013-01-07",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "2013-01-07发布初代Phantom；GPS Naza-M、遥控器、GoPro安装架、两种姿态模式及失联返航说明；不写无条件安全或所有人容易飞。",
+      "sourceType": "manufacturer-announcement",
+      "independence": "DJI",
+      "commercialDisclosure": "厂商来源，存在产品宣传利益",
+      "verificationMethod": "原网页正文",
+      "limits": "不是图片转载许可，也不是独立用户效果研究。",
+      "originalId": "ER11",
+      "sourceFile": "docs/expansion/candidate-pool.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "2013-01-07发布初代Phantom；GPS Naza-M、遥控器、GoPro安装架、两种姿态模式及失联返航说明；不写无条件安全或所有人容易飞。",
+          "verificationMethod": "原网页正文",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。",
+          "independence": "DJI",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "2013-01-07发布初代Phantom；GPS Naza-M、遥控器、GoPro安装架、两种姿态模式及失联返航说明；不写无条件安全或所有人容易飞。",
+      "verification": "原网页正文；不是图片转载许可，也不是独立用户效果研究。"
+    },
+    {
+      "id": "L:ER12",
+      "title": "All-in-one ready-to-fly Phantom announcement",
+      "publisher": "DJI",
+      "url": "https://www.dji.com/mt/newsroom/news/dji-releases-all-in-one-solution-read-to-fly-phantom-quadcopter",
+      "publishedOn": "2013-01-07",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "同日厂商说明初代Phantom用于航拍；是同机构交叉页面，非独立媒体。",
+      "sourceType": "manufacturer-announcement",
+      "independence": "DJI",
+      "commercialDisclosure": "厂商来源，存在产品宣传利益",
+      "verificationMethod": "原机构搜索索引",
+      "limits": "不是图片转载许可，也不是独立用户效果研究。",
+      "originalId": "ER12",
+      "sourceFile": "docs/expansion/candidate-pool.json",
+      "verificationRecords": [
+        {
+          "verifiedScope": "同日厂商说明初代Phantom用于航拍；是同机构交叉页面，非独立媒体。",
+          "verificationMethod": "原机构搜索索引",
+          "limits": "不是图片转载许可，也不是独立用户效果研究。",
+          "independence": "DJI",
+          "commercialDisclosure": "厂商来源，存在产品宣传利益",
+          "packet": "complete-wave-imaging-06.json"
+        }
+      ],
+      "supports": "同日厂商说明初代Phantom用于航拍；是同机构交叉页面，非独立媒体。",
+      "verification": "原机构搜索索引；不是图片转载许可，也不是独立用户效果研究。"
+    }
+  ],
+  "importInstructions": [
+    "按import-manifest.json顺序导入，先校验实际slug和ID，已导入旧14不重复。",
+    "本包关联仅指之前分包和本包；后续完成后可用累计总包补回关联。",
+    "正文保留来源与版本范围，空媒体文字回退；后续规划字段不作当前必填。"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Macintosh_128k_transparency.png",
+  "creator": "All About Apple Museum（allaboutapple.com）；透明版本 Grm wnr",
+  "license": "CC BY-SA 2.5 Italy",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/it/",
+  "alt": "初代 Macintosh 128K，米色一体机及独立键盘鼠标",
+  "path": "/images/macintosh-128k.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Macintosh_128k_transparency.png",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 533,
+  "originalHeight": 625,
+  "output": {
+    "format": "webp",
+    "width": 533,
+    "height": 625,
+    "channels": 4,
+    "premultiplied": false,
+    "hasAlpha": true,
+    "size": 35126
+  }
+}

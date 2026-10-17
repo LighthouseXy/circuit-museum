@@ -1,0 +1,720 @@
+{
+  "slug": "avm-fritzbox-2004",
+  "name": "FRITZ!Box（初代无WLAN）",
+  "regionVersion": "德国初代两LAN口DSL路由器；不混秋季WLAN/Fon版",
+  "query": "intitle:\"FRITZ!Box\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Fritz!Box SL 2012-10-28-0860.jpg",
+      "pageid": 25917514,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fritz!Box_SL_2012-10-28-0860.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Fritz%21Box_SL_2012-10-28-0860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Fritz%21Box_SL_2012-10-28-0860.jpg/960px-Fritz%21Box_SL_2012-10-28-0860.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2013-05-05 16:39:17",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fritz!Box SL 2012-10-28-0860",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Printed circuit board assemblies|Taken with Canon EOS 500D|CC-Zero|Taken with Canon EF-S 60mm F2.8 Macro USM|Self-published work|Files by User:Slick/2012-10 DSL-Router|Disassembled Fritz!Box SL|USB 2 Standard-B receptacles",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "quality",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Fritz!Box SL",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-10-28",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Slick\" title=\"User:Slick\">Slick</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Fritz!Box SL",
+      "artist": "Slick",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2012-10-28"
+    },
+    {
+      "title": "File:FRITZ!Box WLAN 3170 P1110246.jpg",
+      "pageid": 181534004,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:FRITZ!Box_WLAN_3170_P1110246.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/36/FRITZ%21Box_WLAN_3170_P1110246.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/FRITZ%21Box_WLAN_3170_P1110246.jpg/960px-FRITZ%21Box_WLAN_3170_P1110246.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-01-09 20:42:15",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "FRITZ!Box WLAN 3170 P1110246",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Hausfotografie temporärhaus (2026)|Fritz!Box WLAN 3170",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Unterseite einer FRITZ!Box WLAN 3170",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-01-08 20:40:06",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:-stk\" title=\"User:-stk\">-stk</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Unterseite einer FRITZ!Box WLAN 3170",
+      "artist": "-stk",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2026-01-08 20:40:06"
+    },
+    {
+      "title": "File:Fritz!Box 7170v1 Platine hintergrundbeleuchtet und unsegmentiert1.jpg",
+      "pageid": 76534611,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fritz!Box_7170v1_Platine_hintergrundbeleuchtet_und_unsegmentiert1.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Fritz%21Box_7170v1_Platine_hintergrundbeleuchtet_und_unsegmentiert1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Fritz%21Box_7170v1_Platine_hintergrundbeleuchtet_und_unsegmentiert1.jpg/960px-Fritz%21Box_7170v1_Platine_hintergrundbeleuchtet_und_unsegmentiert1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2019-02-12 19:17:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fritz!Box 7170v1 Platine hintergrundbeleuchtet und unsegmentiert1",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Disassembled Fritz!Box 7170",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Fritz!Box 7170v1 Platine hintergrundbeleuchtet und unsegmentiert1",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-01-16 07:25:45",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cmuelle8\" title=\"User:Cmuelle8\">Cmuelle8</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Fritz!Box 7170v1 Platine hintergrundbeleuchtet und unsegmentiert1",
+      "artist": "Cmuelle8",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2019-01-16 07:25:45"
+    },
+    {
+      "title": "File:Fritz!Box 7170v1 Gehäuseinnenseite Monatstabelle.jpg",
+      "pageid": 76534606,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fritz!Box_7170v1_Geh%C3%A4useinnenseite_Monatstabelle.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/37/Fritz%21Box_7170v1_Geh%C3%A4useinnenseite_Monatstabelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Fritz%21Box_7170v1_Geh%C3%A4useinnenseite_Monatstabelle.jpg/960px-Fritz%21Box_7170v1_Geh%C3%A4useinnenseite_Monatstabelle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2019-02-12 19:17:10",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fritz!Box 7170v1 Gehäuseinnenseite Monatstabelle",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Disassembled Fritz!Box 7170",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Fritz!Box 7170v1 Gehäuseinnenseite Monatstabelle",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-01-16 06:56:01",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cmuelle8\" title=\"User:Cmuelle8\">Cmuelle8</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Fritz!Box 7170v1 Gehäuseinnenseite Monatstabelle",
+      "artist": "Cmuelle8",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2019-01-16 06:56:01"
+    },
+    {
+      "title": "File:AVM Fritz!Box 7270 and 7390.jpg",
+      "pageid": 15459970,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AVM_Fritz!Box_7270_and_7390.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/AVM_Fritz%21Box_7270_and_7390.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/AVM_Fritz%21Box_7270_and_7390.jpg/960px-AVM_Fritz%21Box_7270_and_7390.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2011-06-09 20:08:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "AVM Fritz!Box 7270 and 7390",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Sony DSC-W200|CC-Zero|Paper containers|Self-published work|Fritz!Box 7390|Fritz!Box Fon WLAN 7270",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "AVM Fritz!Box Fon WLAN 7270 and 7390 DSL routers. International version (Annex A and B ADSL/VDSL are supported).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2011-06-09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Karsini&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Karsini (page does not exist)\">Karsini</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "AVM Fritz!Box Fon WLAN 7270 and 7390 DSL routers. International version (Annex A and B ADSL/VDSL are supported).",
+      "artist": "Karsini",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2011-06-09"
+    },
+    {
+      "title": "File:Fritz!Box Fon WLAN 7141, branded by 1&1-3743.jpg",
+      "pageid": 45716635,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fritz!Box_Fon_WLAN_7141,_branded_by_1%261-3743.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/72/Fritz%21Box_Fon_WLAN_7141%2C_branded_by_1%261-3743.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Fritz%21Box_Fon_WLAN_7141%2C_branded_by_1%261-3743.jpg/960px-Fritz%21Box_Fon_WLAN_7141%2C_branded_by_1%261-3743.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2015-12-18 18:14:34",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Fritz!Box Fon WLAN 7141, branded by 1&1-3743",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Files by User:Raymond from de.wikipedia/Objects|Information field template with formatting|Uploaded with LrMediaWiki|Fotosession im Lokal K (2015)|Fotosession im Lokal K (IuK-Technik)|Fritz!Box Fon WLAN 7141 (1&1)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "AVM Fritz!Box Fon WLAN 7141, branded by 1&amp;1",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-12-03 16:11:14",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q108103612\" class=\"extiw\" title=\"d:Q108103612\"><span title=\"Wikipedian and OpenStreetMap mapper from Cologne, Open Data activist\">Raimond Spekking</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "Attribution": {
+          "value": "© Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "AVM Fritz!Box Fon WLAN 7141, branded by 1&1",
+      "artist": "Raimond Spekking",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2015-12-03 16:11:14"
+    },
+    {
+      "title": "File:AVM FRITZ!Box 3390 - Top.jpg",
+      "pageid": 128693029,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AVM_FRITZ!Box_3390_-_Top.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/AVM_FRITZ%21Box_3390_-_Top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/AVM_FRITZ%21Box_3390_-_Top.jpg/960px-AVM_FRITZ%21Box_3390_-_Top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-02-13 19:21:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "AVM FRITZ!Box 3390 - Top",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Fritz!Box 3390",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Oberseite einer AVM FRITZ!Box 3390",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Namenloser_Hobbyhistoriker&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Namenloser Hobbyhistoriker (page does not exist)\">Namenloser Hobbyhistoriker</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Oberseite einer AVM FRITZ!Box 3390",
+      "artist": "Namenloser Hobbyhistoriker",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023"
+    },
+    {
+      "title": "File:ADSL spectrum Fritz Box Fon WLAN.png",
+      "pageid": 2663149,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ADSL_spectrum_Fritz_Box_Fon_WLAN.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/ADSL_spectrum_Fritz_Box_Fon_WLAN.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e1/ADSL_spectrum_Fritz_Box_Fon_WLAN.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2007-09-01 10:09:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "ADSL spectrum Fritz Box Fon WLAN",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Fritz!Box|ADSL|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "ADSL frequencies from Fritz! Box Fon WLAN modem, on a Belgian ADSL line (<a rel=\"nofollow\" class=\"external free\" href=\"http://www.edpnet.be\">http://www.edpnet.be</a>), distance to DSLAM is 850 m",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-09-01",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "my own computer screen shoot",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Didier_Misson\" title=\"User:Didier Misson\">Didier Misson</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "licence GFDL",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "ADSL frequencies from Fritz! Box Fon WLAN modem, on a Belgian ADSL line ( http://www.edpnet.be ), distance to DSLAM is 850 m",
+      "artist": "Didier Misson",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "date": "2007-09-01"
+    }
+  ]
+}

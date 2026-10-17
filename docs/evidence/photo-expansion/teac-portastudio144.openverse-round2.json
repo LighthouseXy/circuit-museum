@@ -1,0 +1,115 @@
+{
+  "query": "Tascam 144",
+  "checkedOn": "2026-10-15",
+  "result_count": 1,
+  "page_count": 1,
+  "page_size": 20,
+  "page": 1,
+  "results": [
+    {
+      "id": "868dc339-2f4c-4cca-970c-f4eeca531cc1",
+      "title": "My Setup",
+      "indexed_on": "2020-04-28T05:45:25.565035Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/23767648@N04/2553268953",
+      "url": "https://live.staticflickr.com/3182/2553268953_f27978ca23_b.jpg",
+      "creator": "Racum",
+      "creator_url": "https://www.flickr.com/photos/23767648@N04",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "990",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "imac",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "mxl",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "podcast",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "podcasting",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "setup",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "vmwarefusion",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "business",
+          "accuracy": 0.95064,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "computer",
+          "accuracy": 0.97692,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "desk",
+          "accuracy": 0.91384,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "indoors",
+          "accuracy": 0.92164,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "monitor",
+          "accuracy": 0.9566,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "office",
+          "accuracy": 0.96553,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "screen",
+          "accuracy": 0.96227,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "technology",
+          "accuracy": 0.97365,
+          "unstable__provider": "clarifai"
+        }
+      ],
+      "attribution": "\"My Setup\" by Racum is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description"
+      ],
+      "mature": false,
+      "height": 576,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/868dc339-2f4c-4cca-970c-f4eeca531cc1/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/868dc339-2f4c-4cca-970c-f4eeca531cc1/",
+      "related_url": "https://api.openverse.org/v1/images/868dc339-2f4c-4cca-970c-f4eeca531cc1/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

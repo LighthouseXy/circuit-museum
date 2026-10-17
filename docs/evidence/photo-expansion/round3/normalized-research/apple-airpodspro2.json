@@ -1,0 +1,44 @@
+{
+  "slug": "apple-airpodspro2",
+  "checkedOn": "2026-10-15",
+  "query": "Selected exact licensed physical photograph",
+  "candidates": [
+    {
+      "slug": "apple-airpodspro2",
+      "provider": "commons",
+      "title": "File:AirPods Pro (2nd generation).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AirPods_Pro_(2nd_generation).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2f/AirPods_Pro_%282nd_generation%29.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/2f/AirPods_Pro_%282nd_generation%29.jpg",
+      "creator": "Hajoon0102",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "metadata": {
+        "Artist": {
+          "value": "Hajoon0102"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0"
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0"
+        },
+        "ImageDescription": {
+          "value": "Units and charging case of AirPods Pro (2nd generation)"
+        }
+      },
+      "description": "Units and charging case of AirPods Pro (2nd generation)",
+      "localFile": "docs/evidence/photo-expansion/round3/apple-airpodspro2.jpg",
+      "caption": "第二代AirPods Pro耳机与充电盒实物；此照片2023年5月拍摄，不用于证明后来的USB-C更新。",
+      "modelVerification": "原作者描述明确第二代，2023-05-09拍摄；耳机与充电盒正面实物相符。正面角度看不到挂绳孔及底部接口，代际依据原作者明确标注，不宣称照片独立证明USB-C版。",
+      "visualReview": "亲自单张查看已下载图片；实物环境、细节及型号/代际特征已核对，无生成替代。",
+      "primaryLicenseVerification": {
+        "checkedOn": "2026-10-15",
+        "sourcePageArchive": "docs/evidence/photo-expansion/round3/apple-airpodspro2-source.html",
+        "finding": "原文件页面许可与Own work已核对。"
+      },
+      "status": "approved-candidate",
+      "artist": "Hajoon0102"
+    }
+  ]
+}

@@ -1,0 +1,988 @@
+{
+  "delonghi-la-specialista-maestro-premium-manual-espresso-machine": {
+    "context": "La Specialista Maestro面向愿意参与浓缩咖啡制作、又希望部分准备工作得到辅助的人。它保留粉饼、萃取和奶泡的可见流程，让使用者能够决定在哪些环节亲自动手，以及何时借助机器完成重复动作。",
+    "design": "压粉杆、带LED的旋钮和奶壶在机身上形成不同操作区域，拉丝不锈钢与黑玻璃将这些部件收拢在同一外观中。操作线索没有全部藏进屏幕，用户可以通过部件位置理解从研磨到奶泡制作的工作顺序。",
+    "usage": "用户先以感应磨豆和辅助压粉准备粉饼，再选择萃取设置。制作奶饮时，可在手动蒸汽棒与自动奶系统之间选择；前者保留操控动作，后者承担部分重复处理，使同一设备能够容纳不同熟练程度的操作。",
+    "significance": "它的设计价值在于将辅助与手工参与分配给不同部件。压粉杆为粉饼准备提供身体动作，旋钮给设置一个明确入口，奶系统又保留两种路径，使自动化成为制作过程中的帮助，而非完全隐藏制作。",
+    "limitationsNarrative": "辅助压粉和感应研磨不会替用户完成全部判断，仍需选择研磨条件并熟悉萃取过程。奶系统与粉路也需要在使用后维护；实际准备时间应包括清理和下一杯的整理，不能只计算机器运行的一段时间。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/delonghi-la-specialista-maestro-premium-manual-espresso-machine/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；Smart Tamping Station、Sensor Grinding、Thermoblock、My Latte Art/Lattecrema dual milk。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "jura-z10-automatic-coffee-machine": {
+    "context": "JURA Z10把热咖啡与冷萃饮料放到同一台自动机器中，处理家庭在不同温度饮品之间切换的需求。两类饮品使用不同制作方式，因此菜单选择需要与内部研磨和水流处理建立对应，而非只改变出杯温度。",
+    "design": "凹凸前面板将触屏与旋钮组织成清楚的操作中心，内部磨豆锥体则按所选饮料自动改变研磨粗细。外部界面负责让用户选择饮品，内部结构承担随选择变化的准备工作，两者共同解释自动制作的流程。",
+    "usage": "使用者在触屏和旋钮中选择所需饮料，设备据此调整研磨并执行相应制作。冷萃使用冷水脉冲加压通过咖啡粉，热饮则采用相应流程；饮品切换因此涉及研磨与水路的协同，而不只是端出不同温度的杯子。",
+    "significance": "Z10展示了自动咖啡机怎样把不同制作逻辑放入统一入口。用户面对的是饮料选择，机器需要完成相应研磨和冲煮变化；这种分工将复杂过程留在内部，同时仍让冷热两条制作路径具有可以说明的差异。",
+    "limitationsNarrative": "它的冷水加压流程与传统长时间浸泡冷萃不同，不能把名称相近理解为制作过程完全相同。自动制作仍依赖豆仓、水箱和奶系统的维护，比较饮品时也需要注意咖啡豆、清洁和使用条件的影响。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/jura-z10-automatic-coffee-machine/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；P.R.G recognises product/adjust grind cone、Cold Extraction Process、4.3touch/Rotary Switch；未采用错误的首台全自动宣称。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "gainsborough-freestyle-electronic-trilock": {
+    "context": "Freestyle Electronic Trilock把电子权限管理加入既有机械把手形态，回应家庭成员、访客与日常通行的不同需要。门锁既要允许方便进入，也要保留可以理解的锁定状态，因此数字功能必须与门上的实际动作配合。",
+    "design": "它保留机械Trilock把手的形态，同时加入实体键盘、钥匙和App入口。用户可以在门前使用可触摸部件，也能通过软件管理权限；熟悉的把手与新增电子控制之间保持连续，减少完全重新学习门锁动作的负担。",
+    "usage": "用户根据通行、隐私或双侧锁定需要选择状态，再为不同使用者设置权限和有效时间窗。进入时可以采用键盘、手动钥匙或相应App操作；临时访问因此既涉及开门动作，也涉及授权何时开始和结束。",
+    "significance": "它把门锁从单次解锁扩展为有时间边界的访问管理，同时保留机械操作入口。三种状态回应门在不同生活场景中的用途，分用户授权则把家庭共享和临时访客的差异落实到可以管理的规则中。",
+    "limitationsNarrative": "远程管理需要Wi-Fi Bridge及门传感器，不能仅凭门锁本体推断全部联网功能已具备。安装还要匹配房门条件，状态选择也应结合实际使用场景；数字权限设置不能替代对门是否正确关闭的确认。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/gainsborough-freestyle-electronic-trilock/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；3 modes、keypad/Bluetooth/manual override、up to20users/time windows、WiFi Bridge/door sensor。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "cook4me-touch-wifi": {
+    "context": "Cook4me Touch Wi-Fi把压力烹调与逐步食谱指导放在同一机体上，面向希望减少烹调过程记忆负担的家庭。设备不仅执行加热，也把准备和程序选择排成可查看的步骤，让用户能够跟着界面推进一餐。",
+    "design": "可旋转彩色触屏将食谱步骤带到烹调容器旁，屏幕与多功能容器共同形成操作布局。用户无需把所有指导都放在远处手机上，查看步骤、选择程序和处理食材的动作围绕同一台面位置展开。",
+    "usage": "用户按屏幕提示准备材料并选择压力烹调程序，随后依步骤完成操作。Wi-Fi可同步新食谱，手机可用于查看进度；机身界面承担近处指导，远端查看则帮助用户在离开台面时了解程序推进情况。",
+    "significance": "它将烹调设备的程序控制与食谱解释连在一起，把原本分散在食谱、计时和机身按钮之间的信息放到容器旁。旋转屏幕回应观看角度，联网更新则使指导内容能够继续增加，而非固定在少量机身按键里。",
+    "limitationsNarrative": "联网食谱需要相应服务持续支持，用户仍要完成食材准备、压力相关操作和使用后清洁。屏幕分步指导不能替代产品说明，尤其不能把程序结束直接理解为任何状态下都可以立即开盖处理容器。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/cook4me-touch-wifi/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；swiveling touch screen、step-by-step、smart pressure release、2/4/6 person tailoring、App monitoring。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "the-3x-bluicer-pro": {
+    "context": "3X Bluicer Pro围绕家庭既想榨汁又想制作混合饮品的需求，把两类加工方式放到共用底座上。它要减少台面上并列摆放两台设备的占用，同时保留果汁提取和整体搅拌之间不同的准备与清理动作。",
+    "design": "搅拌与榨汁配件共用单输出动力底座，方案由双输出结构简化而来。底座作为共同动力中心，用户通过更换上部配件选择加工方式；这种组合将空间节省落实到设备结构，而不是只把两套外壳靠在一起。",
+    "usage": "用户根据饮品选择装上Kinetix搅拌或Cold Spin榨汁配件，再准备食材并开始加工。榨出的汁液还可进入后续搅拌流程，组合饮品因此通过前后连续步骤完成，而不是假定两套机构同时由底座驱动。",
+    "significance": "它将功能整合建立在共享动力和可换配件之上。用户用同一底座处理不同饮品任务，减少重复设备体量，同时仍能辨认榨汁与搅拌两种加工路径，说明多功能可以来自重新安排部件分工。",
+    "limitationsNarrative": "切换加工方式仍需拆装相应配件，共用底座不表示榨汁与搅拌能够同时运行。空间节省也伴随配件收纳和清洗工作，日常使用时需要把组装、食材准备与结束后的整理一起纳入操作安排。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/the-3x-bluicer-pro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Gold；Kinetix/Cold Spin、common powerbase、initial dual output changed to single output after user research。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "zebra-technologies-rs2100-wearable-scanner": {
+    "context": "RS2100 Wearable Scanner服务于需要不断抓取和扫描货物的工作场景。手持扫描器会占用一只手，穿戴式结构则尝试把扫描动作放进原有抓取流程，让工作人员在搬动货物时仍有空出的掌心。",
+    "design": "低矮模块安装在手背，食指旁的扳机提供就近触发位置，可更换绑带负责固定。模块、扳机与绑带分工清楚：扫描部件避免堆在掌心，触发位置靠近手指，反复接触身体的固定件可以单独维护。",
+    "usage": "工作人员按左右手选择对应款式，调整绑带与手套的配合后佩戴。抓取货物时将条码置于扫描方向，再以食指附近的扳机触发；扫描因此与拿取动作衔接，减少反复放下和拿起独立扫描器的步骤。",
+    "significance": "它将条码输入嵌入仓储作业的身体动作，掌心保持空出是结构上的关键改变。左右手各一款简化佩戴选择，可换绑带又回应高频摩擦，使效率、握取与维护成为同一穿戴系统中的设计问题。",
+    "limitationsNarrative": "佩戴位置仍需结合左右手、手套和个人手型调整，不能假定戴上后即可获得相同舒适度。绑带会反复摩擦，需要检查和维护；扫描器改善的是输入动作，条码条件与企业业务系统仍需相应配合。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/zebra-technologies-rs2100-wearable-scanner/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；palm free low profile、index finger trigger/no cables、left/right SKUs、replaceable strap。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "zebra-wt6400": {
+    "context": "WT6400将拣货、分类和库存信息移到工作人员手腕上，减少在货物与独立终端之间来回查看的动作。设备需要长时间佩戴，并适应左右手和厚手套操作，因此信息观看与腕部负担必须一起处理。",
+    "design": "倾斜屏幕与二十二度相机角度共同安排腕部设备的体量，屏幕下方键区提供可触摸输入。布局兼顾左右手和厚手套，双按钮电池及快拆腕座则将轮班后的维护动作与日常操作界面区分开来。",
+    "usage": "工作人员佩戴终端后，在腕部查看当前拣货或库存信息，再用下方按键完成所需输入。轮班维护时可处理电池并通过快拆腕座取下设备，使信息终端的交接不必完全重做整套佩戴固定步骤。",
+    "significance": "它把企业计算界面当作穿戴工具设计，屏幕角度、相机方向和实体键区共同回应作业中的姿态。可拆腕座和电池又把交班纳入产品结构，让使用效率不只体现在查看信息，也体现在长期佩戴后的维护。",
+    "limitationsNarrative": "终端需要匹配企业工作系统和具体佩戴配置，硬件本身不会自动建立拣货流程。奖项同时提到WT5400，本条仅采用资料中属于WT6400的细节，不能把同组型号的所有能力和配置合并到一件设备。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/wt6400-wt5400-wearable-computer/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner WT6400/WT5400 group；正文WT6400 camera22°、integrated keypad、gloves、dual-button battery、one-button mount。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "v500-body-camera": {
+    "context": "V500 Body Camera面向现场工作中的影像记录，设备既要固定在身上，也要让佩戴者确认是否正在录制。它将主动按键、状态反馈和系统触发结合，回应忙碌现场中手动操作可能受到限制的情境。",
+    "design": "机身兼容Klick Fast穿戴安装体系，正面突出录制键，让关键操作有明确位置。振动、声音和LED分别提供状态线索，用户不必只依赖一种反馈；固定方式与反馈共同帮助设备进入日常穿戴流程。",
+    "usage": "佩戴者将相机固定在适当位置，可直接按录制键开始记录，也可由配置好的电台、车辆或其他条件触发。LTE、Wi-Fi与蓝牙为现场系统提供连接方式，影像记录由此可以与组织已有设备协同。",
+    "significance": "它将记录动作从单台相机扩展到现场设备系统，同时保留佩戴者可直接控制的入口。多种反馈让设备状态能够在不同现场条件中被察觉，自动触发则尝试减少关键事件中遗漏启动的可能。",
+    "limitationsNarrative": "实时传输受到网络覆盖影响，连接能力不等于任何地点都能稳定回传。组织还需要配置触发条件和证据管理流程，明确何时记录、如何保存及怎样交接，不能把硬件自动触发当作完整管理制度。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/v500-body-camera/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；Klick Fast、prominent Record、LTE/WiFi/BT、automatic triggers、configurable feedback。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "motium-mpp-1227-tuff-panel-pc": {
+    "context": "MPP-1227 TUFF+ Panel PC把触屏计算界面带入条件较严苛的车辆环境。安装后设备要与车辆电源、线缆和驾驶或作业视线相处，因此耐用外壳、散热方式和接口安排都属于同一使用问题。",
+    "design": "铝制外壳结合无风扇散热鳍片，以外部结构处理热量。接口及针脚可以按配置定制，便于复用现有车载线缆；机身因而不仅容纳计算部件，也承担与既有车辆布线和安装条件衔接的任务。",
+    "usage": "操作人员在十二点八英寸触屏上使用车辆所需界面，具体系统由部署配置决定。供电中断时，后备供电帮助设备传送位置信息并关闭系统，把断电时的处理纳入工作过程，而不是只关注正常运行。",
+    "significance": "它的代表性来自车辆系统中的实际衔接：无风扇结构回应环境与维护，接口定制减少重新布线，后备供电处理突然掉电。计算终端因此被作为长期装入车辆的部件，而非临时放入车内的普通屏幕。",
+    "limitationsNarrative": "无线模块和系统需要按实际配置核对，不能由型号名称推断所有连接能力都已具备。车辆安装还应考虑震动、电源和可视位置；后备供电用于有限的断电处理，不能直接理解为无限期离线运行。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/motium-mpp-1227-tuff-panel-pc/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；MPP1227、fanless fins、12.8inch PCAP、custom connectors、UPS shutdown/location。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "cellaed": {
+    "context": "CellAED将急救设备收拢为便携单元，关注紧急情境中怎样让人迅速辨认开启方式。这里的设计重点是减少理解物件和展开部件的负担，使使用者能够尽快进入设备提供的引导流程。",
+    "design": "一体机身将电极片与电源等组合起来，正面三步骤提示以掰开、揭离和粘贴组织开启动作。外部图示与实体分离方式相配合，把准备流程放在设备表面，让使用者能够按顺序找到下一步操作。",
+    "usage": "设备开启后提供语音引导，协助使用者按相应急救流程行动。IoT部分记录准备状态与使用事件数据，侧重设备管理与事件记录；具体使用必须遵循产品说明和现场急救要求，而不是根据展示文字自行推演。",
+    "significance": "它把医疗设备的便携性与紧急操作顺序联系起来，一体结构减少分散部件，三步骤提示将开启动作变成可辨认的连续过程。状态记录还把平时准备和事件后的管理纳入设备生命周期。",
+    "limitationsNarrative": "CellAED属于具有有效期和使用规范的医疗设备，产品介绍不能替代正规训练、紧急呼救或说明书。便携与语音提示只是设计特征，不能据此判断具体事件中是否适用，也不能保证任何使用情形的结果。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/cellaed/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Gold；personal AED、Snap Peel Stick、voice prompts、integrated components、IoT readiness/event data。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "dexcom-g7-receiver": {
+    "context": "G7 Receiver为连续血糖监测系统提供独立查看终端，回应不希望或不便始终依赖手机的人。接收器的角色是把系统数据带到可握持的小设备上，使读取信息有一个专门且容易辨认的入口。",
+    "design": "小型机身以表面纹理帮助握持，四象限实体按键提供可触知的方向。彩屏承担数值与信息呈现，按键承担选择和操作，两者的分工使设备不必完全采用手机式触屏交互来完成查看任务。",
+    "usage": "接收器与G7传感系统配合，接收连续监测数据并在彩色屏幕上显示葡萄糖读数。使用者通过实体按键操作查看界面，从而在没有使用手机作为当前显示终端时，仍有专门的设备承载信息。",
+    "significance": "它保留了医疗信息查看方式的选择：系统可以有独立终端，而不把所有交互都转移到个人手机。机身纹理与方向按键将握持和触觉操作放在设计中，回应查看任务本身对明确入口和可控操作的需要。",
+    "limitationsNarrative": "接收器必须配合G7传感系统，单独拿到机身并不能产生监测数据。读数的解释和医疗决策应遵循产品说明与专业指导；本条说明的是数据接收与界面设计，不提供个人数值判断或处理建议。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/dexcom-g7-receiver/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；CGM receiver、VDI21 surface texture、four-quadrant button、full-color display、non-smartphone option。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "seavu-explorer-underwater-live-view-camera": {
+    "context": "Explorer Underwater Live-View Camera System围绕船上人员希望看到水下画面的需求设计，利用用户已有的运动相机建立观察系统。问题不仅是保护相机，还包括水下部署、线缆整理和把画面送到船上屏幕。",
+    "design": "防护壳容纳兼容运动相机，天线缆、卷盘与模块夹具构成可重新安排的部署部件。卷盘帮助管理长线，夹具为不同固定方式提供连接位置，让同一相机系统能够适应多种水下观察姿态。",
+    "usage": "用户将相机装入防护壳，按观察任务安排线缆与夹具，再在船上手机或平板查看传回画面。不同配件支持漂流、拖行、海底或杆式观察，使观看位置与实际相机所在位置可以分开安排。",
+    "significance": "它把运动相机从独立记录工具扩展成可实时观察的水下系统。保护、连接和部署配件分别处理环境、画面传递与安装问题，使用者能够围绕既有相机构建任务，而非为每种观察方式准备另一台完整设备。",
+    "limitationsNarrative": "系统需要另配兼容运动相机和移动设备，不能把防护壳理解为已经包含全部拍摄与显示部件。部署深度及操作方式还受具体线缆和配件限制，拖行、固定和回收都应遵循相应安装与使用要求。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/seavu-explorer-underwater-live-view-camera/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；action camera enclosure、Passive Extension Antenna、27m tether/reel、modular clip system。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "logitech-g-pro-racing-wheel-pedals": {
+    "context": "G PRO Racing Wheel与Pedals围绕模拟赛车的身体输入建立系统：双手通过方向盘接收反馈，双脚通过踏板表达加速与制动。它要把游戏中的车辆和路面变化转成身体可感知的动作，而非只增加按键数量。",
+    "design": "方向盘直驱电机与TRUEFORCE反馈结合，踏板通过可换弹簧和弹性体改变手感。载荷传感刹车关注踩踏力，使机械阻力、身体动作与电子输入之间形成清楚关系，用户可以按自己的操作习惯安排触感。",
+    "usage": "用户先稳定安装轮盘与踏板，再在兼容游戏中驾驶。方向盘将车辆、路面及电机信息转成力反馈，制动则根据脚施加的力量输入；更换弹簧或弹性体后，踏板触感也需要重新适应和确认。",
+    "significance": "这套设备展示了游戏输入如何由简单开关扩展为力和运动的交互。方向盘输出反馈，踏板读取力量，身体在同一过程里既发送指令也感受状态，使模拟体验建立在硬件结构和游戏数据的协作上。",
+    "limitationsNarrative": "反馈效果取决于游戏和平台实际支持，不能由设备功能名推断所有游戏都有同样体验。轮盘和踏板还需要稳定固定并留出动作空间；调整手感会改变操作习惯，不能把更强阻力直接等同于更合适的设置。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/logitech-g-pro-racing-wheel-pedals/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Gold；direct drive/TRUEFORCE、load cell brake、replaceable springs/elastomers、configurable pedal layout。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "soundblade": {
+    "context": "Soundblade MSB60将显示器底座与桌面声音设备结合，回应工作桌上音箱、支撑与手机充电分别占位的问题。它围绕显示器下方原本就存在的空间组织功能，让声音与屏幕摆放共享一件实体设备。",
+    "design": "低矮机身既容纳扬声器和低音单元，也作为显示器增高底座，上部另留手机无线充电区。不同功能按上下空间分配，使音箱不必额外站在屏幕两侧，手机也有明确停放位置。",
+    "usage": "使用者按承重要求放置显示器，连接HDMI或USB-C等相应音源，再把兼容手机放到充电区域。HDMI可透传内容，USB-C支持音量同步及新音源自动切换，减少多个设备之间手动重设的步骤。",
+    "significance": "它以桌面空间作为整合依据，底座、音箱和充电位置围绕屏幕下方相遇。接口透传和自动音源切换进一步处理实际连线，让产品的组合价值不仅体现在外壳容纳多种功能，也体现在减少操作往返。",
+    "limitationsNarrative": "显示器能否放置需要核对承重和具体安装方式，不能仅凭低矮平台外形推断适用于任何屏幕。接口功能也取决于主机和连接条件，无线充电需要兼容手机；共用机身仍要为线缆和散热留出合理空间。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/soundblade/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；MSB60 monitor riser、low profile/subwoofer60W、wireless charging、HDMI passthrough、USB-C volume sync。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "goki-smartlock-pro": {
+    "context": "SmartLock PRO面向住宿和物业场景中的访问管理，门锁需要同时面对住客、运营人员与既有管理系统。它不仅要让人在门前进入，也要把入住授权和日常电池维护放入可以持续执行的运营流程。",
+    "design": "锁具适配多种门型，并将实体与数字入口组合起来，可充锂电池取代一次性电池维护。外部开门方式与内部电源安排各自回应使用和管理：住客需要方便访问，运营方需要有计划地维持锁具可用。",
+    "usage": "住客可以按授权使用手机、NFC、门码或机械钥匙进入，运营方通过物业管理工具及访客App联动安排入住。权限发放、使用和结束因此形成一条流程，门前解锁只是整个服务过程中的一个动作。",
+    "significance": "它把智能门锁放回住宿运营的完整工作中考虑，数字授权与实体入口共同支持不同住客习惯，可充电池则改变维护物料的组织方式。设计价值需要从入住交接与持续管理来观察，而非只看解锁种类。",
+    "limitationsNarrative": "系统需要配套权限管理和相容物业平台，锁具本体不会自动建立完整入住流程。可充电池仍需运营方安排补电与检查，不能当作免维护；具体门型和安装条件也要逐项确认，不能以多门型适配代替安装核验。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/goki-smartlock-pro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Gold；BLE/NFC/WiFi、DoorCode/Keycard/key、rechargeable Li-ion、Goki dashboard/Guest App。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "blackmagic-studio-camera-6k-pro": {
+    "context": "Studio Camera 6K Pro面向演唱会、体育和电视等现场制作，摄影师需要持续观察画面并快速调整设备。它把摄像、现场控制和远程连接集中起来，减少为了进入直播工作流而额外增加的外围部件。",
+    "design": "大旋钮与功能键安排在握住把手时仍可调整的位置，内置电动ND及直播硬件减少外部附件。操作者的手、机身把持位置与控制布局彼此对应，使调整能够发生在维持现场拍摄姿态的过程中。",
+    "usage": "摄影师安装合适镜头并设置现场机位，通过旋钮和按键调整拍摄参数。六K传感器采集现场画面，设备可利用以太网或USB-C手机连接进入远程直播，让机位输出与制作系统衔接。",
+    "significance": "它把现场相机的设计重点放在持续操作和系统连接上：把手旁控制回应摄影动作，电动ND减少外围调整，直播连接又处理画面离开机身后的路径，使一台相机成为制作链中的可控节点。",
+    "limitationsNarrative": "远程制作仍依赖网络和相容控制系统，支持连接并不保证每个现场都能获得相同稳定性。镜头选择和最终输出条件也会影响画面；六K采集能力不能直接等同于整条直播链始终按相同规格传送。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-studio-camera-6k-pro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；6K sensor/motorized ND、built-in streaming、Ethernet/USB-C mobile、oversized dials、active EF mount。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "blackmagic-atem-television-studio-hd8-iso": {
+    "context": "ATEM Television Studio HD8 ISO将多机位现场制作的控制与处理集中在一台设备中。切换画面、管理声音和与机位人员沟通常常同时发生，因此控制面板与内部制作引擎需要围绕同一节目过程组织。",
+    "design": "切换处理、实体控制面板和直播引擎收拢到单体机身，模块电路板则为局部维修提供较直接的路径。外部整合减少分散设备，内部模块安排回应长期维护，两个层面的结构分别服务使用与维修。",
+    "usage": "制作人员接入各路视频源，安排监看后进行机位切换、音频混音和对讲控制。设备还能录制多路输入，供DaVinci Resolve继续编辑，使现场直播与后续整理之间保留可使用的独立素材。",
+    "significance": "它将现场节目制作与后期工作连接起来，单体控制台承担即时操作，多路录制保留后续修改空间。模块化电路板又把维修考虑放入设备内部，说明专业整合设备仍需要兼顾局部维护与持续服务。",
+    "limitationsNarrative": "现场仍要规划视频源、监看与稳定网络，单体机身不会消除所有外围工作。手机联网受到数据服务和覆盖影响，多路录制也需要安排素材管理；设备能保留输入，不代表节目结束后无需整理与编辑。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-atem-television-studio-hd8-iso/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；all-in-one、streaming/mobile tethering、modular boards、up to8input record into Resolve、talkback/audio。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "blackmagic-camera-zoom-and-focus-demands": {
+    "context": "Camera Zoom and Focus Demands面向三脚架拍摄时需要同时维持构图和调整镜头的操作。摄影师双手经常停留在支架手柄上，控制器因此把变焦与对焦入口移到手边，减少伸手返回镜头的动作。",
+    "design": "夹具和齿盘把两只控制器固定到三脚架手柄，拇指摇杆与带触点的大转环分别表达变焦和对焦。两类动作采用不同触感与运动方式，使摄影师通过手部感觉就能区分正在操作的功能。",
+    "usage": "摄影师按支架与握持习惯安装控制器，以锁定USB接口连接Studio Camera并串接两只控制器。随后可在手不离开支架的情况下遥控兼容镜头，让构图移动与镜头调整在相近位置连续完成。",
+    "significance": "它把相机控制从机身上的按钮扩展到拍摄姿态中最常接触的位置。摇杆和转环不是重复界面，而是让两类镜头动作拥有相应的手部输入；夹持结构则把这种输入安排到既有三脚架系统中。",
+    "limitationsNarrative": "控制器需要匹配相机及可控制的镜头，不能让不兼容镜头自动获得电动变焦。安装位置和线缆也要配合支架运动范围，避免控制部件影响握持；熟悉摇杆与转环响应仍属于实际拍摄前的准备工作。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-camera-zoom-and-focus-demands/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Gold；CNC clamps/rosettes、thumb rocker、focus control pins、lockable USB/daisychain、assignable buttons。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "blackmagic-videohub-80x80-12g": {
+    "context": "Videohub 80×80 12G用于需要在多台设备之间分配视频信号的制作系统。大量输入输出让连接关系难以只靠记忆处理，因此设备把路由选择、信号名称和画面确认一起放到机架前面板。",
+    "design": "机架机身集成LCD、转盘与直接选择键，带电子离合的搜索转盘在列表末端给出阻挡反馈。列表不只停留在屏幕上，手指也能感到选择范围的边界，为密集信号管理增加一种触觉线索。",
+    "usage": "操作人员在前面板选择来源和目的设备，将八十路SDI输入输出按需要路由。LCD同时显示名称和实时画面，便于在确认信号内容后再分配连接，使路由操作可以结合文字识别与实际画面检查。",
+    "significance": "它将难以直接看见的信号连接关系变成可操作的列表与画面。实时预览帮助确认来源，电子离合让转盘范围有触觉反馈，设计因此同时处理大量接口带来的识别负担与操作边界。",
+    "limitationsNarrative": "这是信号路由设备，不能按完成节目转场的切换台理解，路由变化与制作转场属于不同任务。系统仍需整体规划布线和格式，八十路规模也不意味着所有连接条件都可忽略，应核对上下游设备的适配。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-videohub-80x80-12g/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；80 SDI、19inch rack、front LCD/video labels、electronic clutch search dial、direct entry buttons。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "blackmagic-media-dock": {
+    "context": "Media Dock服务于拍摄素材进入多工作站编辑的交接阶段，媒体模块需要被装入、共享并检查状态。设备围绕素材流转组织插槽和网络接口，让存储介质从相机附件转为可以由剪辑系统共同访问的资源。",
+    "design": "三个可热换媒体模块插槽配置锁扣和联锁开关，空槽的弹簧门参与控制散热气流路径。插槽既承担装取，也影响内部通风，使空置和装满状态都被纳入外壳与维护结构的设计。",
+    "usage": "工作人员将兼容媒体模块装入插槽，通过四个十G以太网口让剪辑工作站直接访问素材。HDMI可将存储状态显示到监看屏，便于在多人工作环境里查看设备情况，再安排剪辑、交换与模块取出。",
+    "significance": "它把存储读取、网络共享与状态展示收拢为拍摄后的交接节点。模块锁定关系回应可靠装取，空槽门处理通风，网络接口使素材能够进入多台工作站，说明媒体管理也需要明确的机械和信息界面。",
+    "limitationsNarrative": "Media Dock使用Blackmagic专用媒体模块，不能把插槽当作任意存储介质的通用入口。共享编辑速度仍受网络、存储和工作站能力共同影响，多接口数量也不能代替对实际素材格式与协作负载的评估。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-media-dock/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；3 modules、latch/micro switch、vacant-bay airflow door、4x10G、HDMI status、2RU。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "blackmagic-atem-1-m-e-advanced-panel-20": {
+    "context": "ATEM 1 M/E Advanced Panel 20面向需要直接触摸控制多路来源的节目制作。它作为切换器的实体操作端，将选源、转场和效果调整摆到手边，让制作人员在持续观看节目时仍有固定位置可以操作。",
+    "design": "二十路来源键与动态标签建立输入布局，T形推杆和三轴摇杆分别服务转场与效果。两块五英寸LCD随所选功能改变参数显示，使固定物理控制和可变信息配合，减少在不同操作任务之间寻找入口。",
+    "usage": "制作人员先连接相容ATEM切换器并安排来源标签，随后通过实体键选择输入，用推杆控制转场、摇杆调整相应效果。需要更细设置时查看随功能变化的LCD，使选源和参数操作能够留在同一面板完成。",
+    "significance": "它把节目制作的复杂功能分配给不同类型的物理动作：按键选择、推杆过渡、摇杆调整。动态标签和LCD又让固定面板能够跟随当前节目变化，保留直接操作感，同时表达软件配置的灵活性。",
+    "limitationsNarrative": "面板需要搭配切换器使用，不能单独接入所有摄影机就完成整场制作。二十路键位布局需要相应台面空间和操作学习，制作人员还应规划来源、标签与监看，避免把面板本身误当作完整系统。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-atem-1-m-e-advanced-panel-20/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；20 inputs、scalloped buttons、dynamic labels、2x5inch LCD、T-bar、three-axis DVE。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "blackmagic-atem-1-m-e-advanced-panel-30": {
+    "context": "ATEM 1 M/E Advanced Panel 30面向希望让更多输入保留独立实体键位的现场制作。机位和素材来源增加时，直接可见的选择入口有助于减少翻页寻找，但也需要在面板宽度和操作范围之间作出取舍。",
+    "design": "三十路输入以独立键位呈现，凹面按键减少表面反光，标签与照明可按工作需要配置。手动推杆保持明确的转场动作，让密集选择区与连续速度控制分开，便于建立稳定的手部操作位置。",
+    "usage": "制作人员配置来源标签及照明，再通过实体键选择输入，以手动推杆调整转场速度。面板可保存调用最多十套配置，使不同节目或人员的布局有机会重复使用，减少每次都从头安排控制的工作。",
+    "significance": "它用更宽的实体布局换取更多来源的直接可达性，并通过配置保存回应不同节目的变化。凹面按键、可变标签和手动推杆把视觉辨认与手部控制联系起来，适合从现场连续操作的角度理解。",
+    "limitationsNarrative": "更多键位意味着需要更大的桌面宽度，不能只把通道数量看作没有代价的增加。设备仍需ATEM切换器及节目制作系统配合，配置保存也不替代对来源和监看关系的检查，调用后应确认当前布线一致。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-atem-1-m-e-advanced-panel-30/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；30input、scalloped caps、custom button labels、10 panel setups、T-bar、DVE joystick。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "xbox-adaptive-joystick": {
+    "context": "Xbox Adaptive Joystick面向需要按个人活动范围重新组织游戏输入的人。它把模拟方向与可映射按键集中到单手设备，并允许与其他控制器组合，使操作布局能够围绕身体条件和习惯重新安排。",
+    "design": "左右手均可用的摇杆带有七个可映射按钮，四分之一英寸安装螺孔使它可以固定到支架或轮椅扶手。外壳不只考虑拿在手里，也为固定使用留下接口，让位置选择成为输入设计的重要部分。",
+    "usage": "使用者按自己的活动范围安排安装位置和按钮映射，再以有线方式连接主机或PC输入方向。通过Controller Assist可与其他手柄共同完成操作，将部分任务交给这只摇杆，其他任务留给另一控制器。",
+    "significance": "它把游戏控制器看作能够组合的输入部件，安装与映射允许人先决定怎样够到和按动，再分配游戏任务。单手结构与协作输入共同拓展控制方式，设计的重点因此在于适配具体动作，而非统一握法。",
+    "limitationsNarrative": "安装位置与映射需要依据个人情况调整，左右手通用并不表示所有人都适合同一设置。它属于可组合输入，完整游戏操作可能仍需其他控制器；展示功能不能代替使用者实际试用与逐步确认操作范围。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/xbox-adaptive-joystick/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Gold；ambidextrous/singlehand、7buttons、replaceableUSB、1/4-20 mount、Controller Assist。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "thermomix-tm7": {
+    "context": "Thermomix TM7围绕家庭在同一容器内完成准备和烹调的需求，将电机、加热、称重与食谱指导组合起来。用户需要在处理食材、选择模式和跟随步骤之间切换，因此屏幕与碗体的关系成为操作中心。",
+    "design": "十英寸触屏与隔热不锈钢碗形成新的正面布局，刀组锁定杆帮助拆装，滑动脚则回应整机移动。观看、接触食物和整理设备各有对应部件，避免把所有改进都理解为单纯扩大屏幕尺寸。",
+    "usage": "用户按所选模式或Cookidoo图文步骤准备配料，利用称重、电机和加热协同完成烹调。食谱预设帮助安排操作顺序，结束后再通过锁定杆处理刀组拆装，并按需要移动设备进行台面整理。",
+    "significance": "它将食谱信息与实际容器中的加工动作连起来，屏幕负责解释步骤，碗体完成处理，拆装与移动部件则照顾结束后的工作。多功能整合因此不仅涉及烹调模式，也涉及用户怎样准备、清理和重新摆放。",
+    "limitationsNarrative": "联网食谱和订阅服务需要相应账户条件，一体碗也有容量及模式边界，不能套用到任何食谱和份量。使用者仍需按配方准备材料并遵循容器、刀组与加热操作说明，图文引导不会取消这些基本工作。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/thermomix-tm7/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Gold；10inch multitouch、insulated bowl、knife-lock lever/slider foot、rectangular Varoma、Cookidoo WiFi。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "nama-m1-plant-based-milk-maker": {
+    "context": "Nama M1将植物奶制作中的混合与固液分离放入同一设备，回应坚果、谷物与水混合后还要过滤的操作负担。它把不同阶段安排为可辨认的流程，让接汁、计量和清理与加工一起被考虑。",
+    "design": "高速搅拌和离心过滤采用两段机械处理，接汁壶盖可以兼作量杯，点阵屏在启动后显现。部件复用减少单独计量工具，隐藏显示维持闲置时的简洁外观，工作时再提供需要查看的信息。",
+    "usage": "用户按配方准备坚果或谷物与水，先完成混合，再开启出液口触发旋转过滤。取出内笼时结构会刮除滤壁残渣，收集液体与处理固体因此在连续动作中完成，减少把混合物另外倒入过滤工具的步骤。",
+    "significance": "M1把制作植物奶中的关键转换落在机械分工上，搅拌处理原料，离心过滤处理分离，内笼结构照顾残渣。量杯与壶盖共用又回应台面工具数量，使功能整合具有具体的操作依据。",
+    "limitationsNarrative": "食材种类仍需要对应合适配方，机器不会让所有原料在同一设置下得到相同结果。滤篮和相关部件仍需拆洗，分离后的残渣也要由用户保存或处理；自动分离不等于制作结束后没有整理工作。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/nama-m1-plant-based-milk-maker-2/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 BestinClass；two-stage blend/strain、precision etched filter、scraping cage、jug-lid measure、spout triggers spin。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "zeller-terminal-2": {
+    "context": "Zeller Terminal 2将支付与销售点操作合并到可手持、也可放台面的设备中，适应柜台结账和移动收款之间的切换。它还将收据转为电子取得方式，使交易结束后的信息交付成为界面的一部分。",
+    "design": "六点五英寸触屏承担销售和支付交互，机背标志灯通过颜色与序列提供反馈。显示与灯光分别面向查看和状态感知，机身则在握持与桌面放置之间保持可用，让收款位置不必固定为单一姿态。",
+    "usage": "商户通过内置POS安排交易，顾客使用非接触或EMV芯片方式支付。完成后可通过邮件、短信或二维码取得电子收据；商户因此需要在收款动作之后，继续与顾客确认适合的收据接收方式。",
+    "significance": "它将支付终端从读取卡片的末端扩展为销售与信息交付入口。手持和桌面两种位置支持不同服务方式，灯光反馈与触屏分工，电子收据又减少对本体打印机构的依赖，改变交易结束的动作。",
+    "limitationsNarrative": "支付服务需要符合支持地区、账户与网络条件，不能把终端硬件理解为跨地区即可直接营业。设备没有打印机，顾客需要电子方式取得收据；实际柜台流程应考虑不会或不愿使用这些方式的人。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/zeller-terminal-2/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；6.5inch、rear logo light、POS Lite、contactless/EMV、paperless receipts、WiFi/SIM/Ethernet。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "aqara-smart-lock-u300": {
+    "context": "Aqara Smart Lock U300将多种身份识别与家庭自动化放到把手锁形态中，面向日常出入时不同成员的习惯。用户可能用手指、门码或手机进入，因此电子功能需要与握住把手和开门的动作紧密衔接。",
+    "design": "指纹和键盘整合进把手锁，内部重新安排电机与电池以缩减外形。识别入口和开门部件集中在相近位置，使外部体量不必因增加电子功能而完全脱离把手锁的使用轮廓。",
+    "usage": "使用者安装并配置权限后，可用指纹、PIN、手机或Apple home key解锁。Matter over Thread使门锁参与相容家庭自动化，门前操作与系统联动由此形成两层功能，设置时需要分别确认。",
+    "significance": "U300将身份验证与把手动作结合，同时为家庭系统保留连接路径。外形缩减来自内部部件重新布局，意义不只在于多一种解锁方式，而在于把多种入口安排到日常会接触的同一门锁位置。",
+    "limitationsNarrative": "门型和锁孔必须匹配安装要求，多种解锁方式也需要分别设置和维护。远程或跨平台功能依赖相应Thread及Matter基础设施，不能凭门锁支持协议就推定家中已经具备全部联动条件。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/aqara-smart-lock-u300-enhanced-home-security/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；lever-set、fingerprint/PIN/home key、Matter/Thread、motor/battery redesign。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "poly-studio-x32": {
+    "context": "Poly Studio X32面向小会议空间，将摄像、收音和外放集中在一条设备中。多人坐下后需要让远端看到适当画面、听清发言，因此取景和噪声处理必须与会议室实际布置及平台配置共同工作。",
+    "design": "条形机身尽量降低在会议空间中的视觉干扰，摄像与音频功能集中布置。PoE++供电减少本地独立电源线，配套触控控制器提供会议操作入口，使设备安装位置与人员实际操作位置可以分开安排。",
+    "usage": "管理员先匹配网络、供电和会议平台，再设置适合房间的取景边界。参会者通过触控控制器操作会议，智能取景识别参与者，噪声处理作用于通话声音，减少持续手动调整摄像和声音的需求。",
+    "significance": "它把小会议室的技术准备压缩到一体条形设备和明确控制端，减少分散布置的摄像与声音附件。取景和降噪回应远程沟通，PoE++回应安装连线，使会议体验与空间部署相互配合。",
+    "limitationsNarrative": "一体设备仍需相容网络、供电与会议平台，不能只接上任意网线就假定所有功能可用。管理员还要设置取景边界，智能识别不应被理解为能在任何房间布局中自动获得同样合适的画面与声音。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/poly-studio-x32/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；all-in-one camera/audio、PoE++、DirectorAI boundary/framing、10inch controller/native apps。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "poly-voyager-legend-50": {
+    "context": "Voyager Legend 50 UC以单耳通话为中心，面向在不同位置接听电话的人。它保留另一侧对环境的听取，同时需要在移动中的背景声音与主要发言之间作区分，强调通话连续性而非双耳沉浸播放。",
+    "design": "单耳式结构明确佩戴用途，充电盒兼顾耳机收纳与Qi无线充电。佩戴传感器让设备能够感知是否戴上，耳机与盒子分别承担通话和离开使用状态后的管理，使携带与补电形成固定关系。",
+    "usage": "使用者从盒中取出耳机佩戴并进行通话，NoiseBlockAI在麦克风路径中区分人声和常见背景声。结束后将耳机放回盒中收纳与充电，盒子也可使用Qi补电，让移动使用中的准备动作比较集中。",
+    "significance": "它把单耳通信设备的改进放在声音路径与携行流程中，降噪处理面向远端听到的内容，佩戴感知回应耳机状态，充电盒则减少单独保管的麻烦。设计因此围绕持续通话的一天展开。",
+    "limitationsNarrative": "机器学习降噪对不同背景声音的处理可能不同，不能保证所有现场都只保留目标发言。单耳结构的用途也不同于双耳音乐聆听，选择时应按通话需求理解；无线充电需要合适设备与正确放置。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/poly-voyager-legend-50/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；正文明确UC、singleearBluetooth、NoiseBlockAI、wind reduction/wear sensors、Qi case。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "samsung-hw-qs700f": {
+    "context": "HW-QS700F回应回音壁可能放在电视下方、也可能挂在墙上的安装差异。机身方向改变后，发声通道的作用也会变化，因此设备将摆放识别加入声音组织，而不要求所有家庭采用同一种安装方式。",
+    "design": "陀螺传感器辨认壁挂和桌面方向，再按机身姿态重新分配朝前与朝上的发声通道。外形可以服务两种摆位，内部通道分工随安装变化，让安装方式与声学结构之间建立明确联系。",
+    "usage": "用户按电视与空间选择桌面摆放或壁挂，设备识别方向后处理通道分配。三点一点二声道支持Dolby Atmos，与兼容电视可通过Q-Symphony协同发声，安装完成后仍需核对所连接设备和设置。",
+    "significance": "它将摆放姿态变成声音系统的输入条件，避免把回音壁外壳看作只能朝一个方向使用的固定物件。方向传感和通道重分配连接机械安装与声音处理，为不同家庭布局提供结构上的适应方式。",
+    "limitationsNarrative": "无线Atmos与Q-Symphony需要兼容设备，不能把功能名称直接推广到任意电视。房间高度、墙面和摆位仍会影响反射式环绕听感，自动识别安装方向并不意味着设备能消除所有空间声学差异。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/samsung-q-series-hw-qs700f-convertible-soundbar/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；gyro sensor、convertible fit/table/wall、front/up channel reassignment、3.1.2、compatibleTV。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "ecovacs-deebot-x8-pro-omni": {
+    "context": "DEEBOT X8 PRO OMNI围绕拖地时接触面会逐渐变脏的问题采用滚筒结构，将持续更新清洁面与扫吸结合。它还需要处理墙脚和家具边缘，因此拖地机构既承担清洁动作，也参与机器人靠近边界的方式。",
+    "design": "滚筒拖地机构由十六个清水喷口持续更新，伸缩贴边结构让清洁部件更接近墙脚和家具边缘。基站集中清洗、干燥与集尘，使机身负责移动清洁，停靠设备负责结束后的部分处理。",
+    "usage": "机器人按家庭设置进行扫吸和滚筒拖地，工作中持续自洗接触面，并在靠边时使用伸缩机构。返回基站后进行清洗、热风干燥和集尘，把每次清洁结束后的重复工作转移到停靠流程中。",
+    "significance": "它将拖布状态管理从一次清洁前后的处理延伸到清洁过程本身，持续喷洗和滚动让地面接触面不断变化。贴边结构处理覆盖范围，基站处理维护步骤，几部分共同回应日常拖地的不同问题。",
+    "limitationsNarrative": "滚筒、水箱和基站仍需维护，自动清洗不会让污水与过滤部件永久无需处理。家庭障碍物和地毯情况也要按实际布局设置；伸缩贴边是结构能力，不能保证所有狭窄位置都能覆盖或顺利通过。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/ecovacs-robotics-deebot-x8-pro-omni/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；OZMO ROLLER/16 nozzles、wastewater removal/freshwater replenishment、TruEdge、ZeroTangle、OMNI wash/dry。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "ecovacs-winbot-w2-pro-omni": {
+    "context": "WINBOT W2 PRO OMNI把玻璃清洁机器人与便携基站组成一套系统，面向需要在不同窗面之间转移设备的使用情境。清洁之外还涉及供电、线缆、安全固定和收纳，因此便携基站承担多项准备工作。",
+    "design": "基站集合控制、补电、稳定与收纳，机器人通过三喷嘴雾化和同步带攀爬机构处理玻璃表面。两部分没有简单合成一个物件，而是按照人在室内布置设备和机器人在玻璃上移动的任务分工。",
+    "usage": "用户依说明安放基站与连接安全部件，再让机器人在适用玻璃上工作。传感器识别边缘并规划擦窗，基站可以电池或插电供电；更换窗面时，需要重新确认连接、放置与玻璃边缘条件。",
+    "significance": "它把擦窗系统的便携性落实到基站，控制和收纳集中后，设备在房间间移动更有明确组织。雾化与攀爬机构处理清洁和移动，边缘感知处理路径，使擦窗动作与人的准备工作各有对应结构。",
+    "limitationsNarrative": "电池供电不等于完全无线，机器人和基站之间仍有线缆与安全要求，不能省略固定或连接步骤。适用玻璃和边缘条件也需按说明核对，自动路径规划不能替用户判断任何窗面都适合使用。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/ecovacs-robotics-winbot-w2-pro-omni/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；portable station、110min battery、3nozzle、belt climb、edge sensors、cable retraction/two power modes。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "3i-g10-plus": {
+    "context": "G10+ Robot Vacuum and Mop尝试将储尘管理放在机器人内部，减少对外置集尘站的需求。扫吸结束后灰尘仍要存放，因此它通过压缩改变储存方式，让地面清洁与机内空间利用联系起来。",
+    "design": "机内压尘板与较大尘盒共同组织储尘，透明塑料区域让压缩机构可见，顶部融合提手。透明外壳解释内部动作，提手回应拿起维护，使使用者能够将储尘结构与实际倒尘操作对应起来。",
+    "usage": "机器人扫吸后在机内压缩尘屑，后置水箱为拖地供水，App提供控制入口。用户按清洁需求安排任务，并在储尘达到需要处理的状态后拿起设备倒出尘屑，压缩只改变处理频率而不取消最终清理。",
+    "significance": "它把基站承担的一部分储尘工作移回移动机体，改变了机器人与停靠位置的体量分配。可见压缩结构与融合提手让内部空间策略得到外部解释，设计价值在于重新安排储尘、占地与维护之间的关系。",
+    "limitationsNarrative": "机内储尘最终仍要倒出和清洁，标称六十天取决于灰尘量与使用条件，不能当作每个家庭固定适用的周期。水箱和压缩部件也要维护，减少外置集尘站不等于整套清洁系统没有人工工作。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/g10-worlds-first-robot-vacuum-and-mop-with-debris-compactor/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；internal debris compaction、transparent IML plastic、seamless handle/rear tank、minimal charging station。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "samsung-bespoke-ai-heat-pump-combo": {
+    "context": "Bespoke AI Heat Pump Combo将洗衣与热泵干衣放进同一机体，面向希望减少洗后搬衣动作的家庭。设备需要连接洗涤和干燥两段流程，同时让用户理解两类容量及衣物要求并不完全相同。",
+    "design": "同筒洗烘将两个加工阶段在结构上衔接，七英寸触屏组织程序与反馈。界面需要帮助用户理解选定流程，内部传感器则把织物、重量和脏污等条件带入处理，机身整合与程序组织共同工作。",
+    "usage": "用户先按衣物要求分拣并控制装载量，再通过触屏选择程序，传感器参与调整流程。同筒完成洗涤和干燥减少中间搬运，但连续洗烘仍应以适合干燥的装载和衣物条件为前提来安排。",
+    "significance": "它的核心变化是连接原本需要人在两台设备间完成的交接，热泵干衣与洗衣共用同筒，触屏和传感器继续管理程序。便利性因此来自减少中途操作，而不是取消装载前对衣物和容量的判断。",
+    "limitationsNarrative": "本条获奖规格为十八点五公斤洗涤、十公斤干燥，满载洗涤不能直接等同于满载连续烘干。不同织物仍要按衣物要求处理，传感器与自动调整不能替代分拣，也不能把所有衣物视为适合同一流程。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/samsung-bespoke-ai-heat-pump-combo/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；18.5kgwash/10kgdry、7inch touch、sensors fabric/weight/soil、heat pump、SmartThings。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "swannbuddy4k-video-doorbell": {
+    "context": "SwannBuddy4K with SwannShield把门前视频观察与访客交互结合，关注屋主不在门边时怎样了解来人和包裹。设备既要适应不同供电条件，也要把自动回应放在用户能够设置并介入的范围内。",
+    "design": "摄像门铃可用电池或接现有门铃电源，方形的一百六十五度视野用于观察门口人物和包裹。供电选择回应住宅安装条件，画面构成回应门前上下区域，而不是只把镜头当作独立画质部件。",
+    "usage": "用户按家中布线选择供电方式并配置提醒，热感和运动触发视频记录。SwannShield按设置与访客进行语音交互，屋主仍可介入；观察、提醒和回应由此形成一个需要预先安排规则的访问流程。",
+    "significance": "它把门铃从按响后等待主人回应扩展为可配置的声音交互，同时保留影像和运动提示。电池与现有电源两种路径降低安装方式的单一性，使门前观察和日常接待能够按住宅条件重新组合。",
+    "limitationsNarrative": "云端语音助手和远程接入需要相应网络，自动对话也应由屋主配置并保持可介入。广视野不代表任何门口布局都没有盲区；设备介绍不能代替对供电、拍摄位置及实际访客交互规则的核对。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/swannbuddy4k-video-doorbell-with-swannshield-ai-voice-assistant/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；device March2024/AI October、4K/165°1:1、battery/wired、PIR/motion、personalisedAI/App transcripts。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "uniden-dash-view-40r": {
+    "context": "Uniden Dash View 40R把道路前后与车厢内部纳入同一记录系统，回应驾驶过程中多个方向同时发生事件的需求。多机位记录还需要在车内热环境、线缆安排和素材转移之间取得平衡。",
+    "design": "前、后和车厢三只相机形成不同观察方向，超级电容代替锂电池以应对车内热环境。显示屏与Wi-Fi App分别提供车内查看和后续转移入口，使拍摄布局与记录后的使用动作形成分工。",
+    "usage": "用户安装各机位并准备合适存储介质，系统同步记录前方四K及后方、车内Full HD画面。需要查看或保留片段时，可通过LCD和Wi-Fi App处理素材，将连续记录转为可查找与转移的事件资料。",
+    "significance": "它将行车记录由单一前向视角扩展为三方向系统，电源储能选择回应车内环境，屏幕和App回应素材使用。设计因此不只追求增加摄像头，而是把观察覆盖、热条件和数据取得一起组织。",
+    "limitationsNarrative": "停车录制需要相应硬线套件，不能仅凭三相机配置推断停车后所有功能都已具备。多路同步记录还需要匹配容量和速度的存储介质，用户应安排素材保存和维护，避免把持续录像等同于永久留存。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/uniden-dash-view-40r/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；front4K/rear+cabinFHD、2.85inchLCD、WiFi、GPSalerts、supercapacitor、parking hardwirekit。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "cygnett-thumboost-5000-mah-power-bank": {
+    "context": "ThumBoost五千毫安时移动电源关注随身补电时最常被遗漏或损坏的线缆。它把充电线与携带方式结合，让用户拿起电源时也能带上线，同时保留更换线材的可能，避免整件设备因线缆受损而失去方便性。",
+    "design": "可拆硅胶线穿过机身隧道并兼作挂绳，读数窗与按钮整合到同一部件。线材负责供电连接和携带，显示与操作共用位置，使小型机身上的多个功能有清楚关系，减少分散附件的数量。",
+    "usage": "使用者将随附线材从携带状态取出，通过双USB-C PD接口为设备补电，按按钮查看电量。线损坏后可以更换，也可按需要换成其他连接类型，使补电过程与维护方式都围绕可拆线材展开。",
+    "significance": "它把容易被当作附件的线缆放到产品结构中心，机身隧道使线材获得固定路径，兼作挂绳又回应携带。可拆设计保留维修和接口选择，说明随身电源的便利性也来自连接件怎样被保管与替换。",
+    "limitationsNarrative": "五千毫安时是电芯容量，不能直接当作手机实际可得到的电量或固定充满次数。挂绳兼线缆仍要避免拉扯接口，充电时应让连接件保持合适受力；可更换也需要选择与设备相符的线材。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/cygnett-thumboost-5000-mah-power-bank/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；5000mAh、replaceable silicone cable/lanyard、cable tunnel、dual20W USB-C、combined lens/button。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "hp-z-captis": {
+    "context": "HP Z Captis面向需要把真实材料带入数字设计的工作，处理颜色、纹理和表面细节怎样被记录的问题。实体样品进入数字制作后还要经过软件使用，因此采集设备需要与后续材质工作流衔接。",
+    "design": "偏振与光度立体视觉系统共同捕捉材料细节，紧凑机身和容易接近的接口适应不同工作位置。采集结构围绕实体样品展开，外壳则让设备能够进入设计现场，不必把数字化过程完全固定为远离工作的独立环节。",
+    "usage": "用户准备合适样品并通过设备采集表面信息，将实体材质转换成数字纹理，再与Adobe Substance 3D衔接继续制作。采集和编辑分为相连阶段，设备提供原始材料，软件中还需要安排实际应用与呈现。",
+    "significance": "它在实体材料与数字场景之间建立专门入口，视觉系统处理表面信息，软件连接让结果继续进入设计流程。其代表性在于把材质当作可采集的设计资源，而不是只靠人工寻找相似贴图来表达。",
+    "limitationsNarrative": "数字化效果取决于具体样品和材质特性，不能假定任何表面都能得到相同精度。设备还需要兼容软件与后续渲染工作流，采集结果也要结合实际用途检查，不能把完成扫描等同于最终呈现已准确。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/hp-z-captis/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Gold；digital material capture、polarized/photometric3D、JetsonAGXXavier、AdobeSubstance3D、up to8K。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "hp-series-5-pro-portable-monitor": {
+    "context": "HP Series 5 Pro Portable Monitor为移动电脑提供额外显示空间，面向需要在临时位置同时查看多份内容的人。便携屏除了显示面积，还要处理支撑、横竖切换、连线方向和收纳，才能进入移动工作流程。",
+    "design": "九十度支架支持横屏和竖屏，磁吸屏幕盖兼作鼠标垫，双侧USB-C为线缆选择留出余地。支架、保护盖和接口各自回应摆放、收纳和连接，使携带配件在工作时也能继续发挥作用。",
+    "usage": "用户展开支架并按内容选择横向或竖向，将副屏接到主设备以扩展工作区。屏幕分辨率为二千五百六十乘一千六百，可与兼容HP笔记本同步亮度，也能用侧键调节，方便在不同环境确认显示状态。",
+    "significance": "它把副屏的便携性落实到展开后的实际桌面，保护盖兼鼠标垫减少额外物件，双侧接口减少固定连线方向的限制。横竖支撑又让屏幕能够按文档或其他内容重排，体现移动工作对灵活布置的要求。",
+    "limitationsNarrative": "自动亮度同步需要兼容机型，不能推广为与任意笔记本都能联动。作为外接显示器，它仍依赖主设备提供图像和适当供电；携带到新位置时也需要留出支架展开和线缆连接空间。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/hp-series-5-pro-portable-monitor/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；610g、WQXGA、90degree kickstand、magnetic cover/mousepad、dualUSB-C、manual brightness。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "hp-omnibook-ultra-flip-14": {
+    "context": "OmniBook Ultra Flip 14把移动电脑的键盘输入、触控展示和翻转使用放到同一机身，回应人在书写、观看与会议之间转换的情境。铰链改变屏幕和底座关系，使设备可以随着任务调整姿态。",
+    "design": "三百六十度铰链让键盘底座翻转成支撑，薄铝机壳与触觉触控板组织日常移动输入。铰链决定形态转换，触控板处理传统电脑操作，两种结构让同一设备能够在固定桌面与展示姿态之间连续切换。",
+    "usage": "用户按任务选择笔记本、平板或帐篷形态：键盘输入时展开，展示或触控时调整底座位置。三K OLED显示内容，九百万像素摄像头用于会议；屏幕姿态改变后，实际操作也要随触控与键盘条件调整。",
+    "significance": "它将可转换电脑的价值放在任务和姿态的配合上，底座不只承载键盘，也成为屏幕支撑。显示、摄像与触觉输入共同服务移动工作，设计意义来自减少切换设备，而不是假定单一姿态适合全部任务。",
+    "limitationsNarrative": "不同形态需要相应输入方式，翻转后并不意味着所有桌面软件都自动适合触控。AI功能还需要具体软件支持，不能按产品名称推定任何任务都能自动完成；实际使用应核对应用、姿态和连接条件。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/hp-omnibook-ultra-flip-14/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；360hinge、3KOLED、9MPcamera、haptic touchpad、CNC aluminum；未采用无条件静音/续航保证。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "hp-z2-mini-g1a": {
+    "context": "HP Z2 Mini G1a将工作站计算放进适合多种部署位置的小机体，面向桌面空间受限或需要集中安装的工作环境。缩小体积后，供电、冷却和接口布置更紧密，设备不能只按外壳尺寸理解。",
+    "design": "三升机身内置三百瓦电源，双层格栅前框为空气流动留出通道。供电部件收进机体，减少另置电源的安排，格栅则让冷却需要成为正面结构的一部分，使紧凑体量与工作热量有明确对应。",
+    "usage": "用户根据场地将主机放在桌面、桌下或机架中，连接显示和其他工作设备。AMD Ryzen AI Max+ PRO整合计算与图形，具体任务仍通过所用软件执行；部署时需要为进出风和线缆保留位置。",
+    "significance": "它将小型主机设计推进到供电和部署层面，内置电源减少外部分散部件，多位置安装让计算资源可按空间安排。双层前框又提醒人们，小体积仍需真实气流路径，外壳设计与持续工作条件不可分开。",
+    "limitationsNarrative": "内存和存储能力要按具体配置核对，不能从机型名称推断每台设备完全相同。紧凑机身仍需通风空间，桌下或机架安装也不能遮挡进出风；工作表现应结合软件、配置与实际负载判断。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/hp-z2-mini-g1a/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；3L、300W internalPSU、two-layer lattice bezel、AMD RyzenAIMax+PRO、mounting options。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "hp-zbook-ultra-14-inch-g1a": {
+    "context": "ZBook Ultra 14-inch G1a将工作站定位带入较小的移动电脑，面向需要在不同地点继续创作的人。它要同时处理携带体量、视觉工作区和持续计算产生的热量，便携与负载能力因此构成相互约束的目标。",
+    "design": "十四英寸金属机身采用十六比十OLED屏，为视觉任务保留更多纵向工作空间。内部AMD SoC整合CPU、GPU和NPU，Smart Cooling与Adaptive Dimming分别参与温度与显示状态管理，支持移动工作中的不同条件。",
+    "usage": "用户在电脑上运行相应创作软件，通过屏幕和键盘完成编辑，整合芯片按任务承担不同计算。设备随工作地点移动后，散热和显示管理继续适应使用状态；实际流程仍需要按应用及项目配置资源。",
+    "significance": "它将移动工作站的设计焦点放在同一小机身中的多类资源协调，屏幕比例回应内容布局，整合芯片回应计算体量，冷却与调光回应运行状态。便携性因此不是单一重量指标，而是任务如何持续完成。",
+    "limitationsNarrative": "工作站定位不意味着所有软件获得相同性能，NPU等单元也需要实际应用支持。便携机的热管理与持续负载应结合具体任务判断，不能把短时响应或产品类别直接当作长时间工作的统一表现。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/hp-zbook-ultra-14-inch-g1a/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；14inch/AMD integratedSoC、16:10OLED、recycledaluminum、SmartCooling/AdaptiveDimming。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "omen-max-16": {
+    "context": "OMEN MAX 16围绕高负载游戏电脑的热管理与性能选择设计，用户既需要持续运行游戏，也希望按场景调整模式。外观灯光提供个性化入口，内部散热则决定这些性能设置可以在怎样的条件下工作。",
+    "design": "液态金属导热与均热板共同参与内部热量传递，前缘灯条和逐键RGB照明构成可调外观。散热部件位于内部，灯光位于用户可见表面，两者分别处理运行条件与视觉表达，不能互相替代。",
+    "usage": "用户通过十六英寸高刷新屏进行游戏，在OMEN Gaming Hub中选择适合的性能模式。Fan Cleaner处理积尘，帮助管理散热相关维护；模式选择、供电和清理应作为一套使用过程安排。",
+    "significance": "它把游戏电脑的可调性分到性能、维护和外观几个层面，用户可以改变运行模式和照明，内部导热结构则承担高负载热量。设计价值需要从这些系统如何协同理解，不能仅用发光面积或模式数量衡量。",
+    "limitationsNarrative": "高功率模式依赖供电与散热条件，不能假定电池状态或任何摆放位置都可获得相同表现。现有资料中的可疑笔电风扇尺寸未采用；介绍仅保留已支持的导热、均热板和维护功能，不据此推算其他规格。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/omen-max-16/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；liquidmetal/vaporchamber、Unleashed mode、OMENFanCleaner、frontlightbar/perkeyRGB；未采纳风扇尺寸。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "omnibook-x-14-flip": {
+    "context": "OmniBook X 14 Flip围绕移动工作中的形态转换，将键盘、触屏和可折转机身组合起来。用户有时需要传统输入，有时需要向他人展示或画草图，因此同一设备要能改变屏幕和底座的相对位置。",
+    "design": "三百六十度铰链提供笔记本、帐篷和平板姿态，无栅格键盘与金属外壳形成统一输入表面。铰链决定支撑关系，键盘维持日常打字入口，触屏则给翻转后直接接触内容提供操作方式。",
+    "usage": "使用者展开键盘完成输入，或翻转底座进行触控草图和展示。专用NPU用于兼容应用的本地AI推理，只有软件实际支持时才参与相应任务；形态变化和计算功能需要在具体应用中分别确认。",
+    "significance": "它把电脑灵活性落实在屏幕姿态和输入方式上，让键盘底座同时承担显示支撑。触屏与铰链回应人的动作，NPU回应特定计算任务，两者属于不同层面的设计，组合后扩展了移动工作的选择。",
+    "limitationsNarrative": "NPU功能依赖应用实际支持，不能凭硬件存在就推断任何软件都会加速或自动完成工作。翻转也不会自动改变桌面软件对触控的适用性，用户仍需根据界面、任务和握持方式选择合适姿态。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/omnibook-x-14-flip/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；IntelNPU、360hinge/tablet/tent/stand、latticelesskeyboard、3KOLED/GorillaGlass3、metalchassis。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "omen-35l-gaming-tower": {
+    "context": "OMEN 35L Gaming Tower为桌面游戏和创作安排可见的内部组件与冷却路线，面向需要升级和维护主机的人。机箱既是部件容器，也决定空气怎样通过、用户怎样接近组件，以及设备放在桌边时呈现什么样子。",
+    "design": "高通风前框与前进风、顶排风构成气流路线，透明玻璃侧板展示组件和ARGB照明。前框主要处理空气进入，侧板承担观看与内部呈现，使散热需求和个性化外观在机箱不同表面上分工。",
+    "usage": "用户接入显示与外设后运行游戏或创作软件，需要升级维护时打开机箱接近内部标准部件。可调照明改变可见外观，实际组件选择则影响工作能力；操作前仍需确认空间、连接和供电关系。",
+    "significance": "它将桌面主机的使用延伸到购买之后的维护和升级，标准部件可接近性给用户保留调整路径。明确气流与透明侧板分别处理运行和观看，使机箱不只是包住硬件，也成为长期管理硬件的结构。",
+    "limitationsNarrative": "液冷、风扇与装饰配置需要按具体版本核对，不能把系列展示中的全部部件当作每台标配。可升级仍受机箱空间和电源能力限制，更换部件前需要确认安装与供电，透明展示不等于所有扩展都兼容。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/omen-35l-gaming-tower/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；dual140front intake/top exhaust、airflowbezel、EMIglasspanel、industry-standard upgrades、ARGB。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "hp-omen-transcend-32": {
+    "context": "OMEN Transcend 32把高刷新显示、多电脑连接与外设共享放到一台屏幕中，面向兼顾游戏和创作的桌面。用户可能在不同电脑之间切换，显示器因此不仅呈现画面，也承担整理连接关系的角色。",
+    "design": "三十二英寸四K QD-OLED屏内置KVM，USB-C供电与接口集中安排线缆。屏幕作为桌面中心，显示、供电和外设入口围绕它汇合，使主机切换不必完全依赖反复拔插键盘鼠标。",
+    "usage": "用户将多台相容电脑与外设连接到屏幕，通过OMEN Gear Switch在电脑间共享外设。二百四十赫兹显示服务游戏和创作中的动态呈现，实际切换和供电功能仍需要按连接方式与主机支持情况配置。",
+    "significance": "它将显示器从单一输出端扩展为桌面设备的汇合点，KVM处理输入共享，USB-C处理部分连线与供电。高刷新屏幕与接口整合回应不同任务，使一块屏幕能够参与组织多台电脑的工作关系。",
+    "limitationsNarrative": "KVM、文件传送和供电需要兼容主机及连接条件，不能认为任何线缆都能提供全部功能。冷却设计也不等于OLED永远不会留痕；显示维护应依说明，不能把结构改进写成没有条件的寿命保证。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/the-hp-omen-transcend-32/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；32inch4KQD-OLED240Hz、KVM/GearSwitch、140WUSB-C、monitorcooling；页响应时间冲突未采纳。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "franklin-audio-ss-6-stereo-switching-di": {
+    "context": "Franklin Audio SS-6面向同时拥有多组合成器等音源、需要在其间选择的音频工作台。设备通过实体切换和模拟电路整理连接，让操作者用一个明确旋钮选择来源，而不必频繁重接后方线缆。",
+    "design": "顶置大旋钮以触感选择六组立体声输入，折弯钢外壳的后板容纳十六个端口。上部控制和后部连接分开，手接触的是单一选择入口，复杂线缆则集中在背面，减少演奏和录音时的操作干扰。",
+    "usage": "用户预先接好各组音源与输出，用旋钮选择当前立体声来源。被动变压器平衡电路处理信号，同时提供XLR输出与TS直通路线，让不同设备之间的连接可以围绕既定音频系统进行安排。",
+    "significance": "它通过机械选择与模拟线路解决多音源管理，没有把任务转成屏幕菜单。大旋钮让选择具有位置和触感，后板密集连接维持工作台秩序，展示了专业音频器材中简洁前端与复杂布线的分工。",
+    "limitationsNarrative": "SS-6是被动音频电路设备，没有独立电源和数字处理，不能按数字音频接口或效果器理解。切换之前仍需规划输入与输出连接，端口数量不会自动解决整套系统的信号路径和设备适配问题。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/franklin-audio-ss-6-stereo-switching-di/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；fully passive transformer balanced、6stereoin to stereoXLR/TSthrough、16connectors、custom top knob/serviceable layout。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "3i-s10-ultra": {
+    "context": "3i S10 Ultra把水循环加入地面清洁基站，关注拖地后污水处理和反复补水的工作。它将机器人移动清洁与基站内部水处理分开安排，让清洁系统承担的任务从地面延伸到使用后的液体管理。",
+    "design": "基站利用微型压缩和热分离机构进行水循环，机器人采用伸展式滚筒拖布接近边缘及家具下方。移动部件处理覆盖位置，固定基站处理回收过程，两者通过停靠流程形成一套工作关系。",
+    "usage": "机器人按导航规划清洁地面，滚筒拖布伸展处理相应区域。返回基站后，WaterRecycle从污水回收蒸馏水，固体残留进入尘袋；使用者仍需关注尘袋和水处理相关部件的状态。",
+    "significance": "它把减少补水动作的目标落实到基站内部处理，而不只增加水箱体积。热分离和压缩机构改变清洁后的资源流向，滚筒伸展处理清洁范围，使设备分别回应水的再利用与地面的实际接触。",
+    "limitationsNarrative": "水循环系统仍需要维护尘袋及相关部件，不能写成永不加水或永不清理。回收比例属于参赛资料中的描述，真实用水取决于清洁条件；介绍应将技术过程与实际家庭负载之间的差别保留清楚。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/s10-ultra-worlds-first-waterrecycle-floor-washing-robot-vacuum/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；WaterRecycle/thermal separation/60% reused、atmospheric moisture、residue dustbag、UltraReach roller、ApexVisionLiDAR。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "gilia-turn-tilt-kettle": {
+    "context": "Gilia Turn & Tilt Kettle围绕倾倒热水时需要举起整壶的负担，重新安排水壶与底座的关系。它把倒水动作变为在支撑中转动，同时用触觉、灯光和声音帮助用户确认杯位与加热状态。",
+    "design": "水壶留在摇篮底座内倾倒，防滑硅胶垫上的触觉箭头和杯位帮助对准。支撑结构承担壶体重量，手负责控制倾斜，减少举起整壶的需要，使倒水由完全悬空的动作转为有底座支持的运动。",
+    "usage": "用户把杯子放在对应位置，选择七十、八十、九十或一百度加热，并通过LED颜色和声音了解状态。需要倒水时在摇篮内倾斜壶体，让热水进入已对准的杯中，再将壶回到支撑位置。",
+    "significance": "它通过改变运动方式改善倒水操作，摇篮承担重量，触觉杯位帮助对准，多感官提示表达加热状态。设计没有只扩大按钮或增加握柄，而是重新分配壶、手与台面的受力和信息关系。",
+    "limitationsNarrative": "倾倒机构仍需稳定台面和合适杯位，支撑壶体不会消除热水溅出等全部风险。灯光、声音和触觉提示也需要结合实际使用确认；不同温度选项不意味着任何容器和饮品都适合相同操作。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/gilia-turn-tilt-kettle/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；cradle tilt/pour、thumbgrip、tactilearrows/cup pad、water indicators both sides、colorLED/chime、4temperatures。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "fotile-sd2f-p6-in-sink-dishwasher": {
+    "context": "FOTILE SD2F-P6把水槽、洗碗与果蔬清洗安排在台面高度，回应少量餐具和日常食材处理频繁交替的厨房。它让清洗操作留在同一工作带，同时也改变了传统水槽与独立洗碗机的空间分配。",
+    "design": "三合一布局将不同清洗区整合到台面，双层喷臂混合空气与水喷射。机身设计不只涉及洗碗腔内部，还需与水槽和橱柜连接，使装入餐具、处理食材和日常用水之间拥有相近的操作高度。",
+    "usage": "用户根据需要使用相应清洗区域，少量餐具可选择快速洗程序。结束后自动开门配合余热与PTC加热辅助干燥，让清洗和后续处理相接；餐具摆放与适用程序仍需依说明安排。",
+    "significance": "它将厨房清洁重新组织到台面工作区，减少部分低处装取动作，并让多类清洗任务共享安装位置。自动开门与辅助干燥继续处理结束后的状态，体现一体化设计对日常工作顺序的影响。",
+    "limitationsNarrative": "设备必须匹配橱柜开孔、给排水和安装条件，一体布局会占用并重新安排原有水槽空间。快速洗适合资料所述少量餐具情境，不能据此推断任何装载和污渍都可使用相同程序获得同样效果。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/fotile-3-in-1-in-sink-dishwasher/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Gold；正文锁定Australian SD2F-P6 late2023、sink/dishwasher/producecleaner、autoopen/PTC、HydroJet dual-layer sprayarm。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "blackmagic-ursa-cine-immersive": {
+    "context": "URSA Cine Immersive为双目沉浸影像采集安排两条同步光路，面向需要让观看者在较宽画面中选择视线方向的内容制作。拍摄不再只决定一个平面取景框，还要处理左右眼关系与场景深度。",
+    "design": "双鱼眼镜头各配独立八K传感器与ND滤镜，两条光路校准为左右眼立体视角。镜头与传感器成对工作，结构直接体现立体采集要求，使机身不能简单按一台普通相机加宽视角附件来理解。",
+    "usage": "制作人员围绕Apple Immersive Video流程规划机位与场景，利用双光路采集对应左右眼的内容。宽视野保留观看时的方向选择空间，拍摄时仍需注意场景里人物、物体和遮挡关系的安排。",
+    "significance": "它将沉浸影像的成对视角要求落实为专门硬件，双镜头、独立传感器和ND共同服务同一内容目标。观看者的方向选择被提前带入拍摄设计，说明沉浸制作需要从采集端重新规划场景。",
+    "limitationsNarrative": "设备需要相应后期与播放平台，完成采集并不等于观众可以在任意屏幕获得相同体验。双目拍摄的距离和遮挡也要规划，宽视野不会自动解决立体关系；制作团队仍需验证内容与目标观看条件。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-ursa-cine-immersive/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Gold；Apple collaboration、dual fisheye、each8K sensor/ND、fixedfocal/wideFOV、commercially availablecamera。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "anker-solix-x1-series": {
+    "context": "Anker SOLIX X1将家庭储能设计为可以按需要组合的电源与电池模块系列，回应太阳能利用和停电备电。它需要长期进入住宅电气环境，因此厚度、线缆整理和状态查看与电池能力同样重要。",
+    "design": "一百五十毫米薄型模块以隐藏线缆整合电力部件，显示区域在有人接近时点亮。薄型外壳处理安装占用，隐藏布线保持整体秩序，接近唤醒显示则让日常状态查看不必长期依赖完全显露的控制面板。",
+    "usage": "专业人员按家庭电气条件配置电源和电池模块，系统用于太阳能利用与停电备电。电池模块可独立充放电，用户通过显示区域查看状态；实际容量和工作方式由安装配置与家庭需求共同决定。",
+    "significance": "它把家庭能源设备作为长期安装的模块系统来组织，独立充放电回应配置差异，薄型外壳与隐藏线缆回应住宅空间。状态显示又让内部电力运行保留可见入口，使能源管理与生活环境建立联系。",
+    "limitationsNarrative": "获奖对象是X1电源与电池模块系列，不能把某一种容量写成所有系统共有。安装需要专业人员，并匹配家庭电气和当地要求；模块化提供配置路径，却不意味着用户可以自行任意组合和接入。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/anker-solix-x1-series/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；series PowerModule/BatteryModule、150mm、hiddenwires、proximitydisplay、modular independentcharge/discharge；未采零排放宣称。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "anker-solix-c800-plus-portable-power-station": {
+    "context": "SOLIX C800 Plus将露营供电与照明附件放到一台便携电源的使用场景中，回应到达营地后还要搭灯和整理配件的需求。电池提供能量，收纳与伸缩支撑则决定这些能量怎样进入具体活动。",
+    "design": "机身收纳仓整理供电与照明附件，一米伸缩杆可作为灯架、挂架或拍摄支撑。附件不是完全独立散放，而与电源机体形成收纳和展开关系，使带走设备与到场布置之间有连续的操作路径。",
+    "usage": "用户携带电源到合适位置，为匹配的露营电器供电，再展开伸缩杆安排三模式营灯。需要补能时可使用相应太阳能方式，供电、灯光和支撑围绕露营现场组成可重新摆放的一套设备。",
+    "significance": "它把便携电源的用途延伸到照明和现场布置，收纳仓减少零散附件，伸缩杆提供物理支点。设计价值来自电能、灯和支撑的协作，而不只是把电池做成一个带接口的独立箱体。",
+    "limitationsNarrative": "可供电设备必须匹配功率与接口，不能凭电池存在就认为所有露营电器都适用。伸缩杆和灯需要稳定放置，太阳能补电也受到现场条件影响；实际出行应把负载、照明安排和补能条件一起规划。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/anker-solix-c800-plus-portable-power-station/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；3mode light、100cm retractablepole、storagecompartment、LiFePO4、solar/App。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "swann-maxranger4k": {
+    "context": "Swann MaxRanger4K面向地块较大、摄像机位置较分散的监控场景，把太阳能补电和较远距离无线连接共同纳入系统。它需要让摄像机在合适观察位置运行，而不只是安装在紧邻主机和插座的地方。",
+    "design": "太阳能板融入枪式摄像机外壳，中央集线器带备用电池并连接多只摄像头。外部摄像单元与室内中心分工，补电结构减少对独立太阳能附件位置的依赖，集线器则集中组织多路设备。",
+    "usage": "用户按观察范围和取光条件安装摄像机，通过九百兆赫无线连接集线器。四K视频结合热感、运动和目标提醒，帮助查看相关事件；系统布置仍需要验证各机位连接与实际画面覆盖。",
+    "significance": "它将大范围监控的问题拆成无线传递、机位供电和事件提示，太阳能板与机身整合，集线器管理多摄像头。设计意义在于让观察位置的选择不完全被近距离连线限制，同时保持集中管理入口。",
+    "limitationsNarrative": "六百米是开阔场景下的描述，遮挡和安装方式会改变实际距离，不能直接用于任何建筑环境。太阳能补电也受取光和负载影响，备用电池不等于系统无需检查；机位选择仍要兼顾画面与连接条件。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/swann-maxranger4k/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；900MHz/openair600m/typical200m、integratedsolarpanel、hubbackupbattery/upto8cameras、4K。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "ecovacs-deebot-t30-pro-omni": {
+    "context": "DEEBOT T30 PRO OMNI围绕扫吸、旋转拖地和基站维护组织家庭清洁，重点处理墙脚覆盖与基站占用。机器人需要在家具和边缘之间移动，基站又必须给水箱操作留出实际空间，两者共同影响安装位置。",
+    "design": "可伸缩拖布臂向外接近墙脚，Mini OMNI基站重新安排内部部件并保留水箱维护空间。移动机身处理清洁接触位置，基站处理停靠后的重复维护，使体量缩减仍与人的取放动作相联系。",
+    "usage": "机器人按家庭布局扫吸和旋转拖地，主刷双梳齿减少缠发，靠边时伸展拖布。回站后清洗拖布并烘干，用户再按需要补水和清理相关部件，将自动流程与定期人工维护衔接起来。",
+    "significance": "它把地面覆盖和维护便利分别落实到伸缩拖布与基站布局，主刷结构继续处理毛发问题。各部件回应清洁链中的不同环节，说明机器人体验不仅取决于能否自动移动，也取决于清洁后怎样恢复可用。",
+    "limitationsNarrative": "基站补水仍需要预留上方净空，体量较小不能等同于可以塞进任意封闭角落。自动抬拖布能否保护地毯应结合地毯厚度和设置判断；伸缩结构和减缠发设计也不能取消定期清理检查。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/ecovacs-deebot-t30-pro-omni-mopping-and-vacuuming-robot/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；TruEdge extension、ZeroTangle dualcomb、MiniOMNI30%smaller/60cmclearance、9mmmoplift、wash/dry。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "milieu-climate": {
+    "context": "Milieu Climate将环境感知与空调控制分成可移动Hub和Smart Base，回应人在不同位置查看并调整室内状态的需求。控制端不必完全固定在原有墙面位置，传感与操作也可以围绕实际生活区域安排。",
+    "design": "可移动Hub采用铝制旋钮和彩色玻璃显示面，多种室内传感器放进紧凑机身。旋钮承担直接调整，玻璃面呈现状态，Wi-Fi连接则把可接触的控制端与负责相容HVAC的Smart Base联系起来。",
+    "usage": "用户在合适位置放置Hub，查看温湿度、空气质量、光线和占用等信息，再通过旋钮及系统控制相容HVAC。环境监测与控制动作相接，但具体联动需要按家庭系统和适配条件完成配置。",
+    "significance": "它将恒温控制从固定墙面面板扩展为可移动的感知物件，旋钮保留直接操作，显示面提供环境信息。多个传感器共用机身，使舒适度管理不只围绕温度一个读数，而能呈现更完整的室内状态。",
+    "limitationsNarrative": "HVAC可能需要相应适配套件，不能把Wi-Fi连接理解为与任何空调直接兼容。资料中的二氧化碳相关数值为等效读数，不能写成直接CO2实测；监测信息和实际控制能力应分别按系统条件确认。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/milieu-climate/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 BestinClass；CNCAl hub/tactiledial、SmartBaseWiFi、sensors/VOC/eCO2、HVACadaptor kits。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "latch-intercom": {
+    "context": "Latch Intercom面向公寓楼门口的访客联系与远程开门，设备需要在暴露环境中让陌生访客迅速找到操作入口。它连接门外呼叫与住户电话或App，将楼宇入口的交流和授权放进同一流程。",
+    "design": "七英寸高亮宽视角屏配大尺寸实体键，坚固外形回应门口环境。屏幕承担信息呈现，实体键提供可触摸入口，使访客不必完全依赖细小触控目标；连接则可采用以太网、Wi-Fi或LTE。",
+    "usage": "访客在门口选择相应住户，系统向电话发起语音呼叫，或向Latch App发起视频通话。住户确认后可远程开门，现场面板和远端终端共同完成一次访问，网络接入方式需在安装时配置。",
+    "significance": "它将公寓门禁中的通信与开门授权联系起来，屏幕和实体键照顾门外操作，电话与App照顾不同远端入口。多种网络方式提供部署选择，使门口设备能够按建筑条件进入既有管理系统。",
+    "limitationsNarrative": "设备需要配套楼宇门禁，单独安装面板不会自动完成整栋楼的访问管理。电话号码支持范围涉及地区条件，资料中美国号码的能力不能直接推广到其他国家；网络、住户登记和开门权限均需核对。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/latch-intercom/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；7inch1000nits176degree、large tactilebuttons、Ethernet/WiFi/LTE、USphoneaudio/Appvideo、remoteunlock。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  },
+  "eufy-s1-pro": {
+    "context": "eufy S1 Pro围绕滚筒拖地时清洁接触面需要不断更新的情境设计，并将扫吸和基站维护连接起来。用户希望减少重复洗拖布动作，系统因此同时安排清洁过程中的自洗和回站后的处理。",
+    "design": "持续自清洁滚筒在工作中更新地面接触面，基站将略倾斜LCD与按键放在便于查看的高度。滚筒负责地面动作，显示和按键负责管理入口，使自动化设备仍有可见、可接触的操作位置。",
+    "usage": "机器人自动扫吸拖地，清洁过程持续处理滚筒，随后回站集尘和补水。基站混合清洁液并清洗、干燥滚筒，用户通过显示和按键查看与操作，把地面任务和停靠维护安排成连续流程。",
+    "significance": "它把拖地接触面状态管理放进清洁过程，而不只依靠清洁前后更换拖布。基站继续承担液体和滚筒处理，倾斜控制面回应人的查看动作，说明自动清洁系统也需要把日常管理界面设计清楚。",
+    "limitationsNarrative": "清水、污水与过滤部件仍需人工处理，自动集尘和清洗不会使整套设备永久免维护。此条采用的是二〇二三年获奖记录，不能据此推定各地区实际首售时间；使用边界和时间证据需要分别保留。",
+    "supplementalSources": [],
+    "sourceEvidenceUsed": [
+      {
+        "url": "https://good-design.org/projects/eufy-s1-pro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；AlwaysCleanMop/cleanwhileworks、autostationempty/refill/wash/dry、selfmixsolution、tiltedLCD/buttons。"
+      }
+    ],
+    "narrativeStatus": "逐型号编写，基于已核查资料；操作分析不增添规格"
+  }
+}

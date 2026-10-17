@@ -1,0 +1,34 @@
+{
+  "slug": "logitech-mx-master-3",
+  "query": "Openverse discovery, followed by primary WordPress Photo Directory license and model verification",
+  "checkedOn": "2026-10-15",
+  "candidates": [
+    {
+      "title": "Modern Desk Setup with Tofu 60 and Logitech MX Master 3 and a wooden wrist rest",
+      "sourcePage": "https://wordpress.org/photos/photo/7263ccd59f/",
+      "provider": "wordpress",
+      "original": "https://pd.w.org/2023/01/7263ccd59fdcdec7.24885846.jpg",
+      "thumbnail": "https://pd.w.org/2023/01/7263ccd59fdcdec7.24885846-2048x1171.jpg",
+      "metadata": {
+        "Artist": {
+          "value": "<a href=\"https://wordpress.org/photos/author/shamayel007/\">Shamayel</a>"
+        },
+        "ObjectName": {
+          "value": "Modern Desk Setup with Tofu 60 and Logitech MX Master 3 and a wooden wrist rest"
+        },
+        "PublishedDate": {
+          "value": "2023-01-24"
+        },
+        "PrimaryPageLicense": {
+          "value": "CC0 licensed photo by Shamayel from the WordPress Photo Directory"
+        }
+      },
+      "description": "Modern Desk Setup with Tofu 60 and Logitech MX Master 3 and a wooden wrist rest",
+      "artist": "Shamayel",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "date": "",
+      "primaryLicenseVerification": "2026-10-15 primary WordPress photo page explicitly identifies author Shamayel, exact image, CC0 license and original/large downloads. Published date is not treated as EXIF capture date."
+    }
+  ]
+}

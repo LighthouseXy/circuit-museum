@@ -1,0 +1,96 @@
+{
+  "slug": "ibm-thinkpad-701c",
+  "name": "ThinkPad 701C",
+  "regionVersion": "美国75MHz、540MB UT5；不混701CS被动矩阵屏或50MHz UT2",
+  "query": "intitle:\"ThinkPad 701C\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:IBM ThinkPad 701C keyboard.jpg",
+      "pageid": 42563215,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:IBM_ThinkPad_701C_keyboard.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/IBM_ThinkPad_701C_keyboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/IBM_ThinkPad_701C_keyboard.jpg/960px-IBM_ThinkPad_701C_keyboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2015-08-22 19:21:56",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "IBM ThinkPad 701C keyboard",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|ThinkPad 701|Self-published work|Computer keyboards with QWERTY layout|ThinkPad keyboards",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The 701C ThinkPad keyboard in mid-fold showing the two pieces of the keyboard.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-08-22",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Raymangold22&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Raymangold22 (page does not exist)\">Raymangold22</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The 701C ThinkPad keyboard in mid-fold showing the two pieces of the keyboard.",
+      "artist": "Raymangold22",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2015-08-22"
+    }
+  ]
+}

@@ -1,0 +1,4645 @@
+[
+  {
+    "slug": "anker-solix-f3800-portable-power-station",
+    "name": "SOLIX F3800 Portable Power Station",
+    "brand": "Anker",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/anker-solix-f3800-portable-power-station/"
+    },
+    "productUrl": "https://www.anker.com/",
+    "category": "smart-home",
+    "designDetails": [
+      "立式机身减少地面占用",
+      "上、下提手与伸缩拉杆、滚轮共同处理搬运"
+    ],
+    "functionDetails": [
+      "为家庭停电提供电池备电",
+      "可用市电或太阳能补能"
+    ],
+    "limitations": [
+      "高容量电池仍需考虑搬运重量；轮子不能消除台阶搬运"
+    ],
+    "whyRepresentative": "把储能设备的电气容量与家庭中的收纳、搬运联系起来。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/anker-solix-f3800-portable-power-station/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "标题、2024年、Winner奖标；正文列明立式、三提手、伸缩拉杆、滚轮、3.8kWh及市电/太阳能补能。"
+      }
+    ],
+    "context": "停电备电需要的不只是电池容量。家庭还要决定设备平时放在哪里、断电后怎样接到需要供电的电器，以及楼梯和院子之间怎样搬动。F3800把这些室内外使用情境纳入大容量便携电源的设计。",
+    "design": "立式机身减少地面占用，输入和输出区域区分排列，方便寻找连接位置。上、下提手供抬起时抓握，伸缩拉杆和滚轮则承担平面拖行。不同搬运动作由不同结构接手，而不是让一个提手处理所有场景。",
+    "usage": "使用者先按负载和供电需求安排连接，放稳设备后查看接口与状态。补能可选择市电或太阳能；需要移动时，在平面上展开拉杆拖行，遇到台阶则应重新安排抬举方式，避免把轮子当作越过任何地形的保证。",
+    "significance": "储能设备进入住宅后，容积、连接分区和搬运结构都会影响是否容易使用。F3800的代表性在于让电气功能与家中的实际空间相遇：同一电池设备既需要长期收纳，也可能在停电或露营时临时转移位置。",
+    "limitationsNarrative": "电池容量增加也带来重量，拉杆滚轮只改善部分移动过程。台阶、狭门和车辆装卸仍要考虑抓握与承重条件；可用时间则取决于连接电器的功率和使用方式，不能只按容量名称推定可支撑任何家庭负载。"
+  },
+  {
+    "slug": "eufy-solocam-s340",
+    "name": "SoloCam S340",
+    "brand": "eufy",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/eufy-solocam-s340/"
+    },
+    "productUrl": "https://www.eufy.com/",
+    "category": "smart-home",
+    "designDetails": [
+      "双镜头与可转动云台结合",
+      "可拆太阳能板让取光位置与摄像方向分别安排"
+    ],
+    "functionDetails": [
+      "用广角与放大视图观察室外",
+      "本地保存监控影像"
+    ],
+    "limitations": [
+      "太阳能补电取决于安装处日照",
+      "页面标明2.4GHz Wi-Fi，须匹配网络"
+    ],
+    "whyRepresentative": "展示户外摄像机如何同时处理覆盖角度、布线与数据保存。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/eufy-solocam-s340/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；双摄、pan-and-tilt、可拆太阳能板、充电电池、本地存储、2.4GHz Wi-Fi明确列出。"
+      }
+    ],
+    "context": "室外监控常遇到两个相互牵制的需求：镜头希望看得更广，供电又限制安装位置。SoloCam S340把可转动双摄像头、充电电池和可拆太阳能板组合，让观察方向与补电位置有更大的安排余地。",
+    "design": "两只镜头分担全局观察与细节放大，云台改变拍摄方向。太阳能板可以从摄像头主体分开布置，使寻找合适日照不必完全服从镜头朝向。电池把短时间供能与日常补能连接起来，减少直接拉电线的需求。",
+    "usage": "安装时先选择需要观察的区域，再分别安排摄像头和太阳能板位置。连接家庭网络后，用户可以同时看较宽的场景与放大细节，并采用本地存储。检查取景、信号和日照比只把设备固定到墙上更重要。",
+    "significance": "它呈现了家庭安防从固定镜头向可调整观察范围的变化。双视图帮助用户在整体与局部之间判断，分离式太阳能板则使供电成为安装设计的一部分。摄像、转向、存储和能源共同决定一套监控工具的使用范围。",
+    "limitationsNarrative": "太阳能发电依赖日照与朝向，阴影和频繁活动都可能改变电池补充情况。页面列明使用二点四吉赫兹无线网络，安装前须匹配网络条件；本地存储也仍需管理容量，不能把免订阅理解为完全不需要维护。"
+  },
+  {
+    "slug": "blackmagic-atem-micro-panel",
+    "name": "ATEM Micro Panel",
+    "brand": "Blackmagic Design",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/blackmagic-atem-micro-panel/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "imaging",
+    "designDetails": [
+      "5度倾斜控制面让手指靠近关键键位",
+      "凹面按键降低反光并提供盲操作触感"
+    ],
+    "functionDetails": [
+      "用实体键控制10路视频输入的切换",
+      "内置电池配合蓝牙用于有限空间"
+    ],
+    "limitations": [
+      "它是切换控制面板，需配合制作系统使用"
+    ],
+    "whyRepresentative": "把专业直播中的实时切换操作缩进便携实体界面。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-atem-micro-panel/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；5°面板、scalloped caps、Bluetooth、internal battery、control of 10 video inputs。"
+      }
+    ],
+    "context": "直播切换需要在多个画面之间迅速作决定。小型团队常使用电脑软件控制，却可能在找菜单时错过动作。ATEM Micro Panel把常用切换操作变为一组可随身携带的实体键，面向家中工作室和外场制作。",
+    "design": "面板略微倾斜，前缘留出手部停靠区域，关键功能按层级排列。凹面按键降低反光并给指尖明确触感，帮助操作者把视线留给节目画面。内置电池和蓝牙连接减少狭小制作桌上的供电与数据线安排。",
+    "usage": "操作者把面板接入相容的制作系统，为视频输入确认来源，再用直接键位选择画面和触发转场。实体按键可以凭位置查找，复杂参数仍需结合软件处理。小面板适合移位使用，也需要先建立可靠连接和对应关系。",
+    "significance": "它延续专业转播台的触觉操作，把这套工作方法缩进独立创作者能携带的工具。设计价值落在时间压力之下：减少菜单导航、保留明确键位，使人的注意力更多放在现场变化和下一幅画面的选择上。",
+    "limitationsNarrative": "这是一块控制面板，仍需配合相容切换器或软件与视频来源工作。蓝牙和电池让摆放更自由，却也要检查配对及剩余电量；按键熟悉之后才能形成稳定操作，不能把实体控制等同于无需学习的全自动制作。"
+  },
+  {
+    "slug": "hp-envy-move-23-8-inch-all-in-one-pc",
+    "name": "Envy Move 23.8-inch All-in-One PC",
+    "brand": "HP",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/hp-envy-move-23-8-inch-all-in-one-pc/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "抬起时支脚回收，放到平面时展开",
+      "背部织物袋收纳带触控板的键盘"
+    ],
+    "functionDetails": [
+      "电池供电让整机在家中移动",
+      "大屏适合健身视频、视频通话和娱乐"
+    ],
+    "limitations": [
+      "定位为可搬动桌面电脑，体积不同于普通随身笔记本"
+    ],
+    "whyRepresentative": "让一体机从固定书桌设备变为可在家庭房间间共享的屏幕。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-envy-move-23-8-inch-all-in-one-pc/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Gold奖标；battery powered movable AIO、自动收放支脚、keyboard pocket均在正文。"
+      }
+    ],
+    "context": "家中的大屏电脑往往固定在书桌，而健身视频、家庭通话或临时娱乐发生在不同房间。Envy Move保留一体机的大屏尺度，加入电池和收纳结构，让家庭成员把整台设备移到当下真正需要观看的位置。",
+    "design": "抬起时支脚回收，放在平面上又自动展开，搬动与落地由同一机械结构衔接。背面织物袋容纳键盘和触控板，减少移动时分散拿取附件。机身因此不仅装计算与显示部件，也组织一套随搬随用的桌面工具。",
+    "usage": "用户结束桌面工作后，可以把键盘收进背袋，抬起整机换到另一房间，再放到平稳表面展开支脚。大屏可用于跟练、观看或让一家人同时进入视频通话。选择位置时应一起考虑观看角度、支撑面和可用电量。",
+    "significance": "它把一体机的共享属性从账户和内容延伸到住宅空间。屏幕不再只服务固定座位，键盘收纳和自动支脚又让迁移过程较连贯。与笔记本相比，这种设计关注的是在家中移动一块完整桌面屏幕的便利。",
+    "limitationsNarrative": "大尺寸显示依然需要足够支撑面积和搬运空间，不能因为有电池就按轻便平板理解。自动收放支脚也要求合适平面；长时间使用需要安排充电，房间间移动的方便不等于适合不断背负着外出通勤。"
+  },
+  {
+    "slug": "anker-maggo-foldable-3-in-1-wireless-charging-station-with-qi2",
+    "name": "MagGo Foldable 3-in-1 Wireless Charging Station with Qi2",
+    "brand": "Anker",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/anker-maggo-foldable-3-in-1-wireless-charging-station-with-qi2/"
+    },
+    "productUrl": "https://www.anker.com/",
+    "category": "smart-home",
+    "designDetails": [
+      "折叠后约一副扑克牌大小",
+      "转轴兼顾手机观看角度与支撑稳定性"
+    ],
+    "functionDetails": [
+      "Qi2磁吸位置给手机无线充电",
+      "独立区域同时容纳Apple Watch和耳机"
+    ],
+    "limitations": [
+      "手机与穿戴设备需符合相应充电兼容条件",
+      "小体积仍依赖散热以保持充电表现"
+    ],
+    "whyRepresentative": "三种随身设备的充电被组织成可折叠旅行用品。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/anker-maggo-foldable-3-in-1-wireless-charging-station-with-qi2/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；folded deck-of-cards size、可调角度、Qi2 15W、手表/耳机独立区域、散热挑战。"
+      }
+    ],
+    "context": "旅行时，手机、手表和耳机常要分别携带充电器。MagGo三合一充电站把三处充电位置折叠到一个小物件中，展开后又要保持手机可观看的角度，设计重点同时落在行李收纳和床头桌面的使用状态。",
+    "design": "折叠体积接近一副扑克牌，转轴把收起和立起手机连接起来。独立充电区域分别安放手机、手表和耳机；稳定支点与内部散热共同限制可缩小的体积，不能单纯把所有充电线盘进一个更小盒子。",
+    "usage": "到达住处后接上电源，展开手机支撑面，再把相容设备放到各自区域。磁吸帮助手机对齐，并可调整观看角度。离开时取下设备并折回机身，三处充电位置随同一件配件收起，减少逐条整理线材的动作。",
+    "significance": "它把多设备充电视作一段携带、展开和观看的流程。折叠结构不是只为缩小尺寸，也必须在展开后提供足够高度和稳定性；这让无线充电附件从固定桌面支架转成了能与随身设备一起旅行的用品。",
+    "limitationsNarrative": "各区域的兼容对象不同，手机、手表和耳机应分别确认充电条件。紧凑设计仍需散热，环境和摆位会影响表现；这件装置也需要外部电源，不能因多个设备无线放置就把它当作独立供电的移动电源。"
+  },
+  {
+    "slug": "hp-spectre-fold",
+    "name": "Spectre Fold",
+    "brand": "HP",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/hp-spectre-fold/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "17英寸屏幕沿铰链折叠",
+      "磁吸键盘可下移露出下半屏的一部分"
+    ],
+    "functionDetails": [
+      "可在平板、笔记本和支架桌面形态间切换",
+      "键盘与触控笔磁吸并无线充电"
+    ],
+    "limitations": [
+      "屏幕与键盘的位置变化会改变可用显示面积"
+    ],
+    "whyRepresentative": "用可变屏幕面积处理移动携带与桌面工作之间的关系。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-spectre-fold/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Gold；17-inch折叠屏、磁吸键盘、expanded screen mode、集成支架、键盘和笔无线充电。"
+      }
+    ],
+    "context": "屏幕越大越利于展开工作，携带时却希望机身更小。Spectre Fold用可弯折的十七英寸屏幕和可移动键盘处理这一矛盾，把平板、笔记本和临时桌面形态收进同一台电脑，让屏幕面积随使用姿态变化。",
+    "design": "磁吸键盘可以覆盖折叠后的下半屏，也可下移露出额外显示区域。完全展开时，机身背部支架把屏幕撑在桌上。键盘和笔的磁吸充电又减少额外连接动作，使多个形态之间的变化不只依赖触控操作。",
+    "usage": "用户外出时可折起屏幕并带上键盘，坐下后按任务选择键盘位置。需要更大显示空间时展开支架，或把键盘下移保留附加区域。切换形态之后，还要重新安排窗口和观看距离，才能利用新增的屏幕面积。",
+    "significance": "折叠显示不只改变一条机身接缝，也改变键盘与屏幕的空间分工。Spectre Fold将显示面积设计为可变资源：携带、打字和展示不必各用一块屏幕，却要求机械支撑、输入附件和软件窗口能够共同工作。",
+    "limitationsNarrative": "键盘放置会占去一部分屏幕，展开的大屏也需要稳定桌面。不同姿态对触控、键盘和观看距离的要求并不相同；折叠并没有取消这些条件，只把选择权交给用户，操作时仍须遵循铰链和显示面的使用要求。"
+  },
+  {
+    "slug": "samsung-music-frame",
+    "name": "Music Frame",
+    "brand": "Samsung",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/samsung-music-frame/"
+    },
+    "productUrl": "https://www.samsung.com/",
+    "category": "players",
+    "designDetails": [
+      "扬声器藏在可更换照片或艺术画面的相框内",
+      "可摆放或作为家庭影院的前后声道"
+    ],
+    "functionDetails": [
+      "通过Wi-Fi或蓝牙播放音频",
+      "六单元三分频配置并支持Dolby Atmos"
+    ],
+    "limitations": [
+      "与电视或回音壁联动需兼容型号",
+      "它的正面是可定制图片，不能按电视屏幕理解"
+    ],
+    "whyRepresentative": "将家居陈设和音箱的外形身份结合。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/samsung-music-frame/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；picture frame、可定制art/photographs、six three-way speakers、Wi-Fi/Bluetooth、兼容Samsung TV/soundbar。"
+      }
+    ],
+    "context": "音箱通常以网罩和箱体表明自己的功能，长期摆在客厅时也成为显眼陈设。Music Frame把扬声器藏进可更换图片的相框外形，让设备既承担播放声音的任务，也能通过照片或艺术画面参与室内布置。",
+    "design": "六只单元以三分频方式处理声音，外部正面则留给用户选择的静态画面。电子组件退到框体内部，图片不必服从音箱常见的正面网罩形式。它可以独立工作，也可与相容电视、回音壁或其他相框音箱组合。",
+    "usage": "用户先选择摆放位置和展示图片，再通过无线网络或蓝牙播放音乐。需要家庭影院联动时，应确认配对对象和声道安排。图片定制和音频连接是两项分别完成的设置，正面的照片不会因播放音乐而变成视频画面。",
+    "significance": "它把电子设备是否显眼的问题交给家居语言处理。扬声器仍有实际声学任务，但正面身份可以由屋主的图片决定；这与把电视做成画框形成呼应，展示声音设备怎样尝试在不播放时继续成为室内物件。",
+    "limitationsNarrative": "相框外形并不消除声学摆位需要，墙面、家具和周围空间仍影响声音。家庭影院功能依赖相容设备，不能把任意电视都算成可协同声道；正面使用可更换图片，也不能按拥有电子显示屏的数字相框理解。"
+  },
+  {
+    "slug": "samsung-s95d-oled-4k-smart-tv",
+    "name": "S95D OLED 4K Smart TV",
+    "brand": "Samsung",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/samsung-s95d-oled-4k-smart-tv/"
+    },
+    "productUrl": "https://www.samsung.com/",
+    "category": "display",
+    "designDetails": [
+      "专用硬涂层与表面图案降低外部光反射",
+      "Infinity One薄机身标称深度11.2毫米"
+    ],
+    "functionDetails": [
+      "OLED自发光显示4K影像",
+      "NQ4 AI Gen2处理器对内容作升频处理"
+    ],
+    "limitations": [
+      "抗眩光降低反射，不能保证所有照明条件下画面完全一致",
+      "云游戏服务需要相应网络与订阅"
+    ],
+    "whyRepresentative": "把明亮客厅的照明条件作为OLED电视设计的一部分。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/samsung-s95d-oled-4k-smart-tv/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；Glare Free、specialised hard-coating layer and surface coating pattern、11.2mm、NQ4 AI Gen2。"
+      }
+    ],
+    "context": "电视不仅在暗室播放，也常放在白天有窗光的客厅。S95D把外部光反射作为画面体验的一部分处理，在自发光显示之外加入表面抗眩光设计，希望减少观看时为了避开倒影而调整整个房间的需要。",
+    "design": "专用硬涂层和表面图案降低反射，薄型Infinity One机身让屏幕边缘保持简洁。显示与声音仍在同一电视中配合，图像处理器负责对不同内容进行升频。表面处理、机体厚度和处理线路共同构成观看界面。",
+    "usage": "摆放时应先观察窗户和灯具在屏幕上的反射，再安排观看座位。用户播放不同清晰度内容时，图像处理会参与显示；游戏和联网服务还需按来源选择连接方式。抗眩光改善的是观看条件，并非取消布置判断。",
+    "significance": "S95D使显示器设计不只围绕像素和画面参数，还关注屏幕作为房间内一块物理表面的表现。它提醒观众，同样内容在不同光线下会有不同体验，表面材料与房间布置也能成为电视设计的重要组成部分。",
+    "limitationsNarrative": "减少反光不代表在每种光线和角度下都得到同样画面，观看距离和照明仍需搭配。升频不能补回原始素材中不存在的全部细节；云游戏及其他在线内容也依赖网络与相应服务，不能只从电视硬件推定使用结果。"
+  },
+  {
+    "slug": "samsung-galaxy-watch6-classic",
+    "name": "Galaxy Watch6 Classic",
+    "brand": "Samsung",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/samsung-galaxy-watch6-classic/"
+    },
+    "productUrl": "https://www.samsung.com/",
+    "category": "watches",
+    "designDetails": [
+      "缩窄表圈以扩大可交互显示面积",
+      "传统圆表外观承载可交互屏幕"
+    ],
+    "functionDetails": [
+      "提供睡眠模式记录与个性化习惯指导",
+      "腕部屏幕呈现日夜健康信息"
+    ],
+    "limitations": [
+      "健康洞察属于消费穿戴辅助信息，不能仅据获奖页推定医疗诊断能力"
+    ],
+    "whyRepresentative": "展示腕表如何由报时器演变为持续佩戴的生活信息界面。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/samsung-galaxy-watch6-classic/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；slimmer bezel、20% larger display than previous edition、sleep insights及personalised coaching。"
+      }
+    ],
+    "context": "智能腕表的日常价值来自持续佩戴：白天看信息和活动，夜间记录睡眠。Watch6 Classic在圆形腕表外观中扩大可交互显示区域，让健康信息和习惯指导进入用户随时抬腕就能看见的位置，而不只停留在手机里。",
+    "design": "较窄表圈给屏幕留出更多面积，圆形外观继续保持传统腕表的视觉关系。屏幕既呈现即时状态，也承接触控界面。外形和信息密度之间需要平衡，数据多并不意味着每次抬腕都适合显示同样复杂的内容。",
+    "usage": "用户佩戴后可查看日间信息，并在夜间使用睡眠记录与相关指导。理解这些信息需要回顾一段时间的模式，再判断是否调整作息。腕表的持续使用还包含配对、充电和佩戴安排，而不是只在需要读数时临时戴上。",
+    "significance": "它体现腕表从单次报时走向连续生活记录的变化。较大显示面积服务的不是单一数字，而是睡眠洞察和日常反馈；设备与身体的长期关系，也让佩戴和维护成为功能能否真正进入习惯的重要条件。",
+    "limitationsNarrative": "消费穿戴的睡眠洞察不等于完整医疗诊断，异常情况不能只凭腕表图表解释。夜间记录需要持续佩戴并安排供电，使用者也可能对腕部接触有不同感受；功能是否适用仍要结合所配手机、软件和个人需要。"
+  },
+  {
+    "slug": "ankerwork-m650-wireless-microphone",
+    "name": "AnkerWork M650 Wireless Microphone",
+    "brand": "AnkerWork",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/ankerwork-m650-wireless-microphone/"
+    },
+    "productUrl": "https://www.ankerwork.com/",
+    "category": "music",
+    "designDetails": [
+      "圆形麦克风可旋转调整朝向",
+      "磁吸夹与多种颜色便于配合衣物佩戴"
+    ],
+    "functionDetails": [
+      "VoiceRadar进行背景噪声处理",
+      "TrueLink用于无线声音传输"
+    ],
+    "limitations": [
+      "降噪与传输效果为参赛描述，真实环境表现仍需测试"
+    ],
+    "whyRepresentative": "将内容创作者的佩戴、出镜与录音安排进同一套便携系统。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/ankerwork-m650-wireless-microphone/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "官方明细页2023；圆形、磁吸夹、多色、VoiceRadar和TrueLink均明确。"
+      }
+    ],
+    "context": "创作者佩戴麦克风时，设备同时参与录音和出镜。M650把圆形主体、可替换外盖和磁吸夹组合，让声音采集工具能随衣着和拍摄方式调整。便携收纳与快速配对也使短视频和现场内容制作的准备较连贯。",
+    "design": "背夹和磁吸夹合为一个佩戴结构，圆形主体可以旋转方向。外盖提供不同颜色和风格，麦克风不再只能作为显眼的黑色小方块。充电盒同时收纳发射器和接收器，打开盒子即进入开机连接的流程。",
+    "usage": "用户先选择适合衣物的固定方式，调整主体方向，再确认接收端与相机或移动设备的接口。开盒自动连接减少逐一启动步骤，可更换插头适应不同设备。拍摄前仍应试听，检查衣物摩擦、距离和实际环境噪声。",
+    "significance": "M650把无线麦克风的设计从传输参数扩展到身体、衣着与镜头中的形象。磁吸和背夹合并减少小附件数量，充电盒又管理收纳与启动；这些细节直接影响创作者是否愿意随身带上录音工具。",
+    "limitationsNarrative": "背景降噪不能替代正确佩戴和现场试听，衣物摩擦或不合适位置仍会影响录音。不同设备需要正确插头与兼容连接，充电盒也需要定期补电；自动配对节省准备动作，但不会自动判断每次收音是否符合创作要求。"
+  },
+  {
+    "slug": "eufy-x10-pro-omni",
+    "name": "X10 Pro Omni",
+    "brand": "eufy",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/eufy-x10-pro-omni/"
+    },
+    "productUrl": "https://www.eufy.com/",
+    "category": "cleaning",
+    "designDetails": [
+      "基站以外露水箱与顶部尘袋入口简化维护",
+      "吸入口浮动梳齿配合滚刷反转处理缠发"
+    ],
+    "functionDetails": [
+      "扫吸与加压拖地结合",
+      "回站后自动洗拖布并集尘"
+    ],
+    "limitations": [
+      "自动化清洁仍需要用户处理水箱与尘袋"
+    ],
+    "whyRepresentative": "把扫地之外的清洗和维护动作纳入机器人系统。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/eufy-x10-pro-omni/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；10N加压、auto-mop washing、dust emptying、floating comb、removable water tank。"
+      }
+    ],
+    "context": "地面机器人把扫吸变成自动路线后，倒尘、洗布和处理缠发仍可能留给屋主。X10 Pro Omni把这些重复维护纳入基站和刷头设计，希望让一趟清洁的结束不再意味着用户马上开始另一轮手工清理。",
+    "design": "基站外露水箱可直接取下，尘袋从顶部装卸，状态灯提供简单反馈。机器人吸入口放置浮动梳齿，配合滚刷反转解开毛发；拖地部分向下施压，让接触地面的清洁动作与移动路线同时参与去污。",
+    "usage": "用户准备清水与集尘用品，安排设备可进入的区域，再启动清洁。机器人完成扫吸拖地后返回基站洗拖布并集尘；用户定期检查水箱、尘袋和滚刷，确认自动解缠后是否仍有残留，而不是把维护完全忘记。",
+    "significance": "它将清洁系统的设计边界延伸到任务结束之后。滚刷梳齿处理毛发，基站处理拖布和垃圾，分别对应屋主最常接手的动作；设备的便利因此来自减少一串具体家务，而不只是让机器人自己在屋里行走。",
+    "limitationsNarrative": "自动集尘和洗拖布仍会把污物集中到需要处理的位置，水箱和尘袋不可能无限使用。加压拖地也需要匹配地板材质，家具、线缆和地毯的实际布置会影响路线及效果，使用前仍要安排合适的可清洁环境。"
+  },
+  {
+    "slug": "omen-by-hp-transcend-14-gaming-pc",
+    "name": "OMEN Transcend 14 Gaming PC",
+    "brand": "HP",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/omen-by-hp-transcend-14-gaming-pc/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "两只USB-C接口放在背部减少鼠标区域的线缆",
+      "铝制外壳和无栅格键盘用于缩减体积"
+    ],
+    "functionDetails": [
+      "14英寸电脑同时面向工作与游戏",
+      "四分区RGB键盘灯可由软件设置"
+    ],
+    "limitations": [
+      "轻量化游戏电脑仍需在散热、性能和移动供电间权衡"
+    ],
+    "whyRepresentative": "展示游戏笔记本如何调整接口位置以适应小型桌面。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/omen-by-hp-transcend-14-gaming-pc/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；rear 2xUSB-C、aluminum enclosure、lattice-less keyboard、4-zone RGB、14英寸。"
+      }
+    ],
+    "context": "游戏笔记本常在性能和携带之间取舍，使用者又可能拿同一台电脑上课、办公和娱乐。Transcend 14把较小屏幕、轻型机壳与游戏输入组合，关注从背包到桌面时，电脑和鼠标怎样共同占据有限空间。",
+    "design": "两只USB-C口放在背面，让连接线离开键盘两侧，右手鼠标活动区域因此更容易保持整洁。铝制外壳处理薄度与强度，无栅格键盘提供四分区RGB灯效，外部形态兼顾日常计算与游戏个性表达。",
+    "usage": "放到桌上后，用户可将电源与外设线接到背面，按游戏需求摆好鼠标并设置键盘灯效。换回工作任务时继续使用同一套键盘和屏幕。携带前要收好后方线缆，并按任务安排电池与外部供电，而非只比较重量。",
+    "significance": "它的设计细节说明，移动游戏不只有处理器和显示指标。接口位置决定线从哪里离开电脑，也影响鼠标是否会碰到线缆；较小机身又使工作、学习和娱乐更容易共用一个设备，但空间与散热依然需要精心安排。",
+    "limitationsNarrative": "紧凑机身的持续负载能力仍受散热、功率设置和环境影响，不能仅以游戏电脑名称判断每个软件的表现。背部接口减少侧边线缆，也需要桌后留空间；电池使用方式与接电游戏不同，应分别理解实际续航和性能。"
+  },
+  {
+    "slug": "hp-960-ergonomic-wireless-keyboard",
+    "name": "960 Ergonomic Wireless Keyboard",
+    "brand": "HP",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/hp-960-ergonomic-wireless-keyboard/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "input-printing",
+    "designDetails": [
+      "分区键位配合负7度或平放角度",
+      "数字区独立放置以缩短主键盘宽度"
+    ],
+    "functionDetails": [
+      "蓝牙和接收器提供无线输入",
+      "支持20个可编程键和最多3台设备"
+    ],
+    "limitations": [
+      "分区与倾角需要使用者适应，不能直接保证消除手腕不适"
+    ],
+    "whyRepresentative": "以分离数字区改变键盘、鼠标与肩臂的空间关系。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-960-ergonomic-wireless-keyboard/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；split-zone、negative 7-degree tilt、separate numpad、20 programmable keys、3 devices。"
+      }
+    ],
+    "context": "桌面输入不只是敲键，键盘宽度会决定鼠标离身体多远。HP 960把数字区独立出来，并让主键区采用分区布局，使用户能够重新安排两手、鼠标和数字输入的位置，而不是接受一整块固定宽度的键盘。",
+    "design": "主键区分开左右输入方向，支撑角度提供平放和负七度选择。数字键盘可放在左侧、右侧或临时移开，减少不用数字区时的横向占地。按键编程和多设备连接则把机械布局的可调性延伸到操作设置。",
+    "usage": "用户先按坐姿调整键盘角度，再选择数字区是否放在手边。蓝牙或接收器连接所需电脑，常用命令可分配到可编程键。切换设备和摆位后应重新适应输入距离，让调整服务自己的任务，而不是追求统一姿态。",
+    "significance": "它将人体工学从键盘上一个固定曲面转成可安排的桌面关系。数字区分离使鼠标能靠近主键区，也让不同任务采取不同布局；这种设计把个人差异留给用户调整，而不要求所有人用同一整块键盘宽度。",
+    "limitationsNarrative": "分区键位和负倾角需要适应，是否舒适仍取决于身高、桌椅和使用习惯。独立数字区也增加需要摆放和管理的物件；可编程按键与多设备功能要结合相容软件，不能保证任何系统上都有完全相同的快捷操作。"
+  },
+  {
+    "slug": "jura-j8-twin",
+    "name": "J8 twin",
+    "brand": "JURA",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/jura-j8-twin/"
+    },
+    "productUrl": "https://au.jura.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "双锥形磨豆器装进同一机身",
+      "可调高低的出液口配合杯子感应器"
+    ],
+    "functionDetails": [
+      "两种咖啡豆可分别或混合制作饮料",
+      "Sweet Foam功能制作带甜味的奶泡"
+    ],
+    "limitations": [
+      "双豆与奶泡系统增加需补充和清洁的部件"
+    ],
+    "whyRepresentative": "把豆种选择从更换整仓咖啡豆变为单次饮料的界面操作。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/jura-j8-twin/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；two P.A.G.3+ grinders、pure or blended、Sweet Foam、Panorama Coffee Panel、Coffee Eye。"
+      }
+    ],
+    "context": "家庭成员可能偏爱不同咖啡豆，也有人想在一杯中混合两种风味。J8 twin用两个独立磨豆器处理这一需求，让豆种选择进入每次饮料的界面，而不必先清空一个豆仓才能换成另一种咖啡豆。",
+    "design": "两只锥形磨豆器安装在同一紧凑机身中，研磨粗细、可调出液口与面板围绕杯子安排。Coffee Eye感应器帮助确认杯子对应正确出液位置，Sweet Foam功能则把带甜味奶泡作为另一项饮品选择。",
+    "usage": "用户分别装入两种豆子，在面板上选择单一或混合配方，再把杯子放到相应出液口下。制作奶饮时还要准备奶系统。饮料完成后，补豆、补水和清洗仍属于日常使用，让选项增加而不至于变成维护混乱。",
+    "significance": "这台设备把风味个性化从手工换料变成两个原料路径的协调。双磨豆器不是简单重复一个部件，而是让不同家庭成员和单杯混合都有明确入口；杯子感应和界面又减少多种饮料切换时的放置判断。",
+    "limitationsNarrative": "增加豆路和奶泡功能也增加需要补充、检查和清洗的区域。自动配方不能替代选择适合的咖啡豆或维护研磨状态；杯子尺寸与饮料份量仍需匹配，传感器辅助并不意味着可忽略实际出液位置和日常卫生。"
+  },
+  {
+    "slug": "nama-j3-compact-cold-press-juicer",
+    "name": "J3 Compact Cold Press Juicer",
+    "brand": "Nama",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/nama-j3-compact-cold-press-juicer/"
+    },
+    "productUrl": "https://namawell.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "电机底座尽量隐藏分模线以减少积污位置",
+      "大料斗与可堆叠接汁配件配合紧凑机身"
+    ],
+    "functionDetails": [
+      "预先装入食材后进行冷压榨汁",
+      "开料斗盖触发联锁切断电机供电"
+    ],
+    "limitations": [
+      "榨汁后仍须清洗榨汁腔与接渣配件"
+    ],
+    "whyRepresentative": "把小厨房中的占地、投料和清洁作为同一设计问题处理。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/nama-j3-compact-cold-press-juicer/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；hands-free hopper、concealed part-lines、motor/auger assemblies、lid interlock、stacking jug。"
+      }
+    ],
+    "context": "小厨房希望榨汁机平时少占空间，用时又不必不断推入小块食材。Nama J3以紧凑机身和预装料斗回应这两项需求，同时把清洁时容易积污的接缝和配件收纳列为外形设计必须处理的实际问题。",
+    "design": "电机底座尽量隐藏分模线，减少表面污物停留的位置。料斗、螺杆与传动部分构成连续加工路径，盖子开启会触发联锁切断电机。接汁壶与接渣杯可堆叠，使设备之外的小配件也参与节省收纳空间。",
+    "usage": "用户装好榨汁腔并按适合食材准备原料，加入料斗后关盖启动。盖上联锁为投料口提供保护，但不能取代按说明使用。完成后取出果渣、拆下可清洗组件并收好接汁用品，才能为下一次使用保留整洁状态。",
+    "significance": "J3把家电的外形简化与清洁动作连接起来：少接缝有助于擦拭，堆叠配件有助于收起，大料斗减少持续看管。它说明小型化的价值不只在量尺寸，还包括从准备一杯果汁到收拾台面的整个过程。",
+    "limitationsNarrative": "紧凑料斗并不适合不加区分地投入所有食材，硬度、尺寸和纤维仍应按说明准备。免手动推料也不会省去清洗，螺杆、滤网和出渣位置仍需处理；安全联锁只能在正常组装和按规定使用时发挥作用。"
+  },
+  {
+    "slug": "blackmagic-davinci-resolve-micro-color-panel",
+    "name": "DaVinci Resolve Micro Color Panel",
+    "brand": "Blackmagic Design",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/blackmagic-davinci-resolve-micro-color-panel/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "input-printing",
+    "designDetails": [
+      "紧凑实体控制面使多个调色参数能同时操作",
+      "集成电池取消固定工位供电依赖"
+    ],
+    "functionDetails": [
+      "通过蓝牙连接iPad进行调色",
+      "可参与Blackmagic Cloud代理文件制作流程"
+    ],
+    "limitations": [
+      "需配合DaVinci Resolve与相容主机；不是独立视频处理电脑"
+    ],
+    "whyRepresentative": "把调色从鼠标逐项调整转成可携带的多参数手部操作。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-davinci-resolve-micro-color-panel/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Gold；wireless colour grading surface、integrated battery、Bluetooth iPad、multiple parameters simultaneously。"
+      }
+    ],
+    "context": "影视制作开始在摄影现场和远程工作站之间来回流动，调色不一定等到固定后期室才开始。Micro Color Panel把专业调色的实体输入缩成可带走的面板，让移动设备上的画面判断也能配合双手同时调整参数。",
+    "design": "紧凑控制面把多个参数放到独立实体控制器上，避免只能用鼠标逐项拖动。集成电池与蓝牙连接减轻固定工位依赖，配合平板时尤其便于临时摆放；控制面板本身仍负责输入，实际处理和画面由主机承担。",
+    "usage": "用户将面板连接相容主机，打开DaVinci Resolve并选择待处理素材，再用双手同时调节画面参数。若使用Blackmagic Cloud代理工作流，还需先取得相应素材。现场判断之后，可以让后续拍摄及时参考已有色彩方向。",
+    "significance": "它的代表性在于把调色看作可在不同地点发生的协作动作。实体控制维持多参数同步操作的手感，便携连接又允许设备靠近拍摄现场；制作流程因此可在拍摄、查看和调整之间更快往返，而不只是更换更小键盘。",
+    "limitationsNarrative": "面板不能脱离相容软件和主机独立生成影像，蓝牙连接与电池也需要检查。代理素材和最终原始素材的工作条件可能不同，现场快速判断仍须结合监看设备；拥有实体旋钮不等于自动得到正确色彩或一致显示。"
+  },
+  {
+    "slug": "blackmagic-ursa-cine-12k",
+    "name": "URSA Cine 12K",
+    "brand": "Blackmagic Design",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/blackmagic-ursa-cine-12k/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "imaging",
+    "designDetails": [
+      "可拆8TB媒体模块并入机身",
+      "换镜头卡口与快拆安装位适应多人摄制"
+    ],
+    "functionDetails": [
+      "全画幅12K感光器记录数字电影",
+      "并行生成H.264代理文件并经网络进入协作流程"
+    ],
+    "limitations": [
+      "高分辨率素材需要相应存储和后期流程",
+      "奖项页图片文件名写6K，须从厂家另核主图"
+    ],
+    "whyRepresentative": "影像设备的设计延伸到素材从摄影现场进入后期的路线。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-ursa-cine-12k/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Gold；full-frame 12K、8TB removable media、10G Ethernet、parallel H.264 proxy files；图名存在6K不一致。"
+      }
+    ],
+    "context": "更高分辨率摄影会产生更多素材，摄影机也必须面对记录、搬运和后期接入的压力。URSA Cine 12K把全画幅感光器、可换媒体模块和高速网络连接结合，使数字电影摄影不只关注拍到什么，也关注素材怎样离开机身。",
+    "design": "可拆媒体模块把大容量存储作为独立可交接部件，机身提供高速以太网访问。换镜头卡口、快拆安装位和监看辅助位置又服务多人摄制。模块化既处理储存技术变化，也让摄影机能嵌入不同拍摄装配。",
+    "usage": "摄制组准备镜头和媒体模块后记录高分辨率素材，同时生成代理文件供协作。媒体可取出交接，也可通过网络访问；后期人员利用代理先开始查看与调整。拍摄前需要一起规划素材量、备份和工作站接入方式。",
+    "significance": "这件摄影机呈现了影像设备从单机采集工具向制作流程节点的变化。可拆存储与并行代理让摄影现场和后期团队更紧密地连接，机械安装接口则保留专业摄影中的多种搭建需要，数据与机身同样是设计对象。",
+    "limitationsNarrative": "高分辨率和大容量不会取消备份、传输与后期算力的需求，整套工作流仍需配套。不同镜头和附件也要确认安装条件；可拆媒体模块简化交接，却需要清楚管理素材归属，避免把快速访问误解为已经完成安全存档。"
+  },
+  {
+    "slug": "hp-950-4k-webcam",
+    "name": "950 4K Webcam",
+    "brand": "HP",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/hp-950-4k-webcam/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "imaging",
+    "designDetails": [
+      "圆筒镜头置于可转动支杆上",
+      "提供标准三脚架接口与桌面三脚架"
+    ],
+    "functionDetails": [
+      "转向桌面展示草图或工作内容",
+      "自动倒转图像以正确方向呈现给对方"
+    ],
+    "limitations": [
+      "桌面拍摄需留出合适摆放距离与支撑位置"
+    ],
+    "whyRepresentative": "将视频通话由拍人脸扩展到分享实体桌面工作。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-950-4k-webcam/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Gold；barrel on post、tripod mount and desk tripod、left/right aiming、desk view image inversion。"
+      }
+    ],
+    "context": "远程协作中的摄像头常只拍人脸，但创作者还要展示草图、手部工作和桌上的物件。HP 950用可改变朝向的支撑结构，让一台网络摄像头能在人像通话与桌面展示之间转动，减少另外布置拍摄设备的步骤。",
+    "design": "圆筒形镜头坐在支杆上，可左右转动并向桌面倾斜。标准三脚架接口和随附桌面三脚架提供不同支撑方式；当镜头指向工作台，图像方向可倒转，使远端观众看到的草图不必跟随拍摄者的倒置视角。",
+    "usage": "用户先固定摄像头并调整人像取景，讨论实体作品时再将镜头指向桌面，确认远端画面的方向与范围。可以配合其他摄像头形成多角度展示，但每个机位仍要安排照明和支撑，才能清楚看见真正要分享的细节。",
+    "significance": "它把网络摄像头从面孔窗口延伸到创作工作台。机械转动和画面方向处理配合，使用户不用只拿起物件对着脸前镜头展示；视频会议因此能够继续承载纸上草图和手工过程，连接数字沟通与实体操作。",
+    "limitationsNarrative": "转向桌面需要足够摆放距离和合适支撑，靠近屏幕的固定位置未必能覆盖整张工作台。图像自动倒转也不能修正所有透视与遮挡；用户仍应在会议软件中检查实际画面，避免只按相机朝向判断观众看到的内容。"
+  },
+  {
+    "slug": "nebula-capsule-3-laser",
+    "name": "Capsule 3 Laser",
+    "brand": "Nebula",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/nebula-capsule-3-laser/"
+    },
+    "productUrl": "https://www.seenebula.com/",
+    "category": "projectors",
+    "designDetails": [
+      "汽水罐尺度的筒形机身可单手携带",
+      "镜头周围红色金属环形成识别点"
+    ],
+    "functionDetails": [
+      "激光光源投射1080p画面",
+      "内置Dolby Audio扬声器与Android TV"
+    ],
+    "limitations": [
+      "300ANSI流明仍应结合环境亮度和投影尺寸评估效果",
+      "标称2.5小时播放不是无限续航"
+    ],
+    "whyRepresentative": "把投影光机、电池和声音整合为可搬动的户外观影设备。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/nebula-capsule-3-laser/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；soda-can size、red lens ring、1080p/300ANSI、Dolby Audio、Android TV、2.5 hours。"
+      }
+    ],
+    "context": "露营或后院观影希望减少携带设备，又需要足够画面和声音。Capsule 3 Laser把激光投影、扬声器和系统装入近似饮料罐尺度的筒形机身，关注从带到现场、放下设备到开始播放之间的一串准备动作。",
+    "design": "筒形外壳方便单手握持，镜头外的红色金属环形成识别特征。激光光源、内置扬声器与Android TV共处小体积中，电池提供离开插座的播放时间；投影不再必须与一整套独立音响和播放器同时搬运。",
+    "usage": "用户选择可用墙面或幕布，放稳投影机并确认画面范围，再用内置系统或相应内容来源播放。户外还要考虑夜色、周围照明和供电安排。播放之前试听声音与检查电量，比仅确认机身能装进包里更能保障观影。",
+    "significance": "它将投影机的使用地点从固定影音空间延伸到临时聚会位置。声音、内容入口和电池集成减少搭建部件，紧凑外形则让投影跟随活动移动；这种便利仍建立在找到合适投影表面和控制环境光的实际能力上。",
+    "limitationsNarrative": "标称三百ANSI流明需要结合画面大小和环境亮度理解，不能把便携激光光源当成白天任何位置都清楚的保证。续航也有上限，网络内容依赖连接和服务；观影计划应为充电、声音覆盖与户外环境留出余地。"
+  },
+  {
+    "slug": "ecoflow-glacier",
+    "name": "GLACIER",
+    "brand": "EcoFlow",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/ecoflow-glacier/"
+    },
+    "productUrl": "https://www.ecoflow.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "可拆隔板让内部切换单温区或双温区",
+      "透明制冰窗与可提取冰篮让取冰步骤可见"
+    ],
+    "functionDetails": [
+      "同机提供冷藏、冷冻和制冰",
+      "插入式298Wh电池与太阳能补电用于离网场景"
+    ],
+    "limitations": [
+      "续航受温度与使用方式影响",
+      "电池、冷藏空间和制冰部件一起增加搬运负担"
+    ],
+    "whyRepresentative": "让户外冷藏从装冰保温箱变成具温控与制冰能力的电器。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/ecoflow-glacier/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；3-in-1 fridge/freezer/ice maker、removable divider、glass panel、removable basket、298Wh plug-in battery。"
+      }
+    ],
+    "context": "户外食物保存常依赖保温箱和冰块，需要制冰时又得另带设备。GLACIER把冷藏、冷冻和制冰合并，通过可拆隔板与插入式电池，让用户按一次出行的食物与饮料需要重新分配内部空间和供能方式。",
+    "design": "可拆隔板使箱内在单温区和双温区之间变化，独立温控服务不同食品。透明制冰窗让过程可见，可提冰篮则将取冰动作改为提起倒出。电池与补能接口让制冷不必始终依附车辆插座，结构因此围绕户外移动组织。",
+    "usage": "出发前按食品安排分区和目标温度，再检查电池及补能条件。需要冰块时启动制冰并提取冰篮；到达营地后还可按太阳能条件补电。开盖频率、环境温度和制冰使用都会改变负载，途中应继续查看实际温度状态。",
+    "significance": "GLACIER将移动冷藏从被动保温变成主动控制的电器系统。分区、制冰和电池分别回应食材保存、现场饮用与离车使用；设计价值不只是多了功能，而是这些功能怎样共用一个可搬动的储藏空间。",
+    "limitationsNarrative": "续航受环境与使用方式影响，频繁开盖和制冰会增加能耗。分区隔板能改变内部用途，却不会扩大总容积；电池和制冰机构也带来搬运负担。实际食品保存应以温度和适用说明为准，不能只凭最长续航宣传安排。"
+  },
+  {
+    "slug": "anker-everfrost-powered-fridge",
+    "name": "EverFrost Powered Fridge",
+    "brand": "Anker",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/anker-everfrost-powered-fridge/"
+    },
+    "productUrl": "https://www.anker.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "6英寸滚轮与可伸缩把手用于拖行",
+      "把手展开后可作托盘桌"
+    ],
+    "functionDetails": [
+      "压缩机冷藏减少冰块占据储藏空间",
+      "299Wh电池供电并可通过App控制"
+    ],
+    "limitations": [
+      "官方42小时条件为外温25°C、箱内4°C，不能脱离条件引用",
+      "33/43/53L为系列容量，展示应锁定具体版本图片"
+    ],
+    "whyRepresentative": "从冷藏箱的温控延伸到露营搬运和临时桌面。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/anker-everfrost-powered-fridge/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；299Wh、25°C外温4°C箱内42h、6inch wheels、retractable tray handle、app；三个容量。"
+      }
+    ],
+    "context": "露营冷藏若依赖冰块，会占据存放食物的空间；若依赖车辆插座，又限制离车距离。EverFrost把压缩机制冷和电池结合，让主动冷藏可以随营地移动，并以滚轮和托盘把手回应户外实际使用。",
+    "design": "滚轮与可伸缩把手承担拖行，把手展开后兼作临时托盘桌。机内压缩机、密封条和保温层共同维持温度，电池减少对持续外接电源的依赖。电气部件与搬运结构一起决定它怎样进入露营场景。",
+    "usage": "用户按食品需要设置温度，预先检查电池，再用把手与滚轮把设备移到稳固位置。手机可以查看和控制设备，必要时也可给随身设备补电。途中仍应检查温度与电量，避免只按出发前一次设置判断全程状态。",
+    "significance": "这件产品把冷藏箱从装冰容器改成可调温的移动家电。拖行结构处理搬运，托盘把手承接现场用餐，而电池允许它离开车旁；三者共同改变的，是人怎样在户外安排食物、供电和临时操作台面。",
+    "limitationsNarrative": "不同容量版本不能混用同一组尺寸和图片，搬运负担也应分别判断。标称四十二小时有外温和箱内温度条件，开盖与食品数量会改变实际表现；滚轮不能处理所有台阶或松软地面，路线仍要事先安排。"
+  },
+  {
+    "slug": "mx-keys-mini",
+    "name": "MX Keys Mini",
+    "brand": "Logitech",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/mx-keys-mini/"
+    },
+    "productUrl": "https://www.logitech.com/",
+    "category": "input-printing",
+    "designDetails": [
+      "精简宽度让鼠标可以更靠近键盘",
+      "指尖形键帽配合随环境光调节的背光"
+    ],
+    "functionDetails": [
+      "无线键盘输入文字",
+      "独立听写、静音和表情键提供快捷入口"
+    ],
+    "limitations": [
+      "精简布局减少独立键区，需适应快捷键和组合操作"
+    ],
+    "whyRepresentative": "键盘尺寸的变化同时影响手臂距离与桌面布局。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/mx-keys-mini/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；minimalist form factor、Perfect Stroke、automatic backlighting、Dictation/Mute/Emoji keys。"
+      }
+    ],
+    "context": "键盘的数字区长期占用右侧空间，即使用户很少输入数字，也会把鼠标向外推。MX Keys Mini缩减横向尺寸，以常用文字输入为中心，让创作者在有限桌面上安排更靠近身体的鼠标和更直接的快捷操作。",
+    "design": "键帽依指尖接触形状设计，背光随环境照明调整。精简键区旁加入听写、麦克风静音和表情入口，功能选择对应日常沟通与创作。键盘宽度和界面功能在这里共同服务持续打字，而不只追求外观小巧。",
+    "usage": "用户可把键盘居中，让鼠标靠近主键区，再连接常用设备。暗处输入时观察背光，通话时直接使用静音快捷入口。精简布局需要熟悉组合键，先确认高频操作的位置，才能把节省的桌面空间变成实际便利。",
+    "significance": "它呈现紧凑键盘设计的一条实用路线：保留文字任务的核心键位，用更少宽度换取鼠标与肩臂关系的变化。专用沟通键又反映输入任务不只有文档，还包括视频会议、语音和社交表达等日常动作。",
+    "limitationsNarrative": "取消独立键区会改变某些工作习惯，大量数字输入者可能仍需其他方案。快捷功能也受系统与软件支持影响，不能把一组键帽标识视为所有设备上的相同行为；舒适性仍要结合桌椅、姿态和个人手型判断。"
+  },
+  {
+    "slug": "logitech-scribe",
+    "name": "Scribe",
+    "brand": "Logitech",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/logitech-scribe/"
+    },
+    "productUrl": "https://www.logitech.com/",
+    "category": "imaging",
+    "designDetails": [
+      "摄像头固定在白板上方墙面",
+      "独立无线分享按钮将启动动作移到会议桌"
+    ],
+    "functionDetails": [
+      "拍摄白板、玻璃等可擦写表面",
+      "图像增强使字迹、绘图和便利贴更清楚地进入远程会议"
+    ],
+    "limitations": [
+      "需要适合墙面安装的位置与兼容会议系统",
+      "分享的是可见白板内容，不能替代现场书写安排"
+    ],
+    "whyRepresentative": "让传统白板继续参与异地协作。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/logitech-scribe/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；wall-mounted above whiteboard、custom lens、wireless share button、AI brighten/sharpen。"
+      }
+    ],
+    "context": "实体白板让现场讨论者能快速画图，却容易把远端参会者留在看不清的位置。Scribe选择继续保留白板书写习惯，在墙上增加专用内容摄像头，把原本只在房间内可见的笔迹和便利贴带入数字会议。",
+    "design": "摄像头位于白板上方，定制镜头观察可擦写表面，白色机身融入会议室。无线分享按钮把启动动作放到参与者容易触及的位置；图像处理提高笔迹、图画和便利贴的可见度，减少拍摄原始画面的局限。",
+    "usage": "现场人员照常在白板或适合的玻璃表面书写，需要共享时按下按钮，让远端人员通过会议画面观看。安装阶段须确认覆盖范围和系统连接，讨论时也应检查字迹是否进入画面，避免把墙上任意区域都当成可见内容。",
+    "significance": "Scribe没有要求会议参与者先把所有想法改为数字绘图，而是围绕现有书写工具补充摄像与分享路径。它说明混合会议的公平性可以从设备位置入手，让不同地点的人都看见相同的实体讨论材料。",
+    "limitationsNarrative": "墙面安装、白板范围和会议平台需要匹配，遮挡或过于细小的笔迹仍可能影响阅读。图像增强不会替代清楚书写与适当布局；设备也只负责分享可见内容，讨论记录是否保存和整理仍由会议流程决定。"
+  },
+  {
+    "slug": "omen-45l-gaming-desktop",
+    "name": "OMEN 45L Gaming Desktop",
+    "brand": "HP",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/omen-45l-gaming-desktop/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "液冷散热器与机箱主舱分开吸取外部空气",
+      "按钮开合侧盖与前盖，滤网便于取出"
+    ],
+    "functionDetails": [
+      "桌面主机运行游戏和创作应用",
+      "可用标准部件升级内部配置"
+    ],
+    "limitations": [
+      "分离散热舱增加整机体积，需要相应桌面或地面空间"
+    ],
+    "whyRepresentative": "展示预装桌面电脑如何通过布局而非外饰处理散热与维护。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/omen-45l-gaming-desktop/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；separate cooler、tool-free access、standard parts、pushbutton covers、magnetic PSU filter。"
+      }
+    ],
+    "context": "高性能桌面机的热量不仅来自单个部件，散热器排出的热风还会影响其他组件。OMEN 45L重新安排机箱与液冷位置，把散热路径当作整机结构问题，并让用户更容易打开外壳进行清洁和升级。",
+    "design": "液冷散热器与机箱主舱分开，直接利用机外空气。前盖和侧盖可通过按钮打开，铰链帮助控制玻璃面板的移动，滤网也便于取出。结构设计同时处理日常气流、维护动作与运输时的显卡支撑。",
+    "usage": "用户把主机放在通风位置，连接显示和外设后使用所需性能设置。积尘时取出滤网清理，需要升级时打开面板接近内部标准部件。实际选择配件仍要检查空间、供电和散热条件，而不是只看外壳是否容易打开。",
+    "significance": "45L把预装主机的完成形态与后续维护联系起来。分离冷却舱改变空气路径，可开启面板和标准部件则为用户保留介入空间；这说明整机设计的价值既发生在运行时，也发生在使用几年之后的维护阶段。",
+    "limitationsNarrative": "独立散热舱和大机箱需要相应放置空间，桌后和四周也应留出气流余地。工具较少的开启方式不等于所有升级都可随意进行；液冷、显卡和电源的兼容条件仍要逐项确认，并按说明维护滤网与冷却系统。"
+  },
+  {
+    "slug": "pop-mouse",
+    "name": "POP Mouse",
+    "brand": "Logitech",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/pop-mouse/"
+    },
+    "productUrl": "https://www.logitech.com/",
+    "category": "input-printing",
+    "designDetails": [
+      "以鲜明配色和紧凑造型表达个人桌面风格",
+      "SmartWheel滚轮可在精细和快速滚动间切换"
+    ],
+    "functionDetails": [
+      "静音无线指针输入",
+      "可连接多设备并使用表情软件快捷功能"
+    ],
+    "limitations": [
+      "多设备功能依赖系统和软件兼容",
+      "紧凑外形是否适合长时间握持需按手型判断"
+    ],
+    "whyRepresentative": "将鼠标从中性办公工具延伸为桌面表达用品。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/pop-mouse/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；SilentTouch、SmartWheel、emoji software、Bluetooth/Bolt、up to 3 devices。"
+      }
+    ],
+    "context": "鼠标通常被视为中性的办公用品，POP Mouse则把配色和表情快捷操作作为年轻用户选择设备的一部分。它仍承担日常指针与滚动任务，同时让一个长期留在桌面上的小工具也能体现个人风格。",
+    "design": "紧凑外形搭配鲜明配色，静音按键减少点击声。SmartWheel在精细滚动和快速浏览之间切换，多设备连接让同一鼠标进入不同屏幕；外部色彩和内部操作机制分别回应表达与实际任务，没有把装饰当成功能替代。",
+    "usage": "用户通过蓝牙或相应接收器连接设备，按工作需要切换屏幕并使用滚轮。表情软件入口可用于沟通，连续浏览长页面时则切到快速滚动。随身携带前应确认连接对象，避免在另一台设备上移动了错误指针。",
+    "significance": "POP Mouse展示输入设备怎样在基本指针之外增加情绪表达和跨设备使用。色彩让它成为桌面陈设，静音和双模式滚轮则服务实际环境；这两方面一起让普通鼠标从采购清单中的标准配件变成个人用品。",
+    "limitationsNarrative": "多设备与表情功能需要相容系统和软件支持，连接方式也应按具体版本核对。小型鼠标适合携带，却不一定符合每种手型的长期握持需要；用户应按自己的任务频率、手掌大小和桌面环境判断合适摆位。"
+  },
+  {
+    "slug": "rally-bar",
+    "name": "Rally Bar",
+    "brand": "Logitech",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/rally-bar/"
+    },
+    "productUrl": "https://www.logitech.com/",
+    "category": "imaging",
+    "designDetails": [
+      "摄像与声音组件集中在长条整体机身",
+      "一体形式减少中大型会议室分散设备数量"
+    ],
+    "functionDetails": [
+      "提供会议视频采集",
+      "集成音频让远程参与者接入房间讨论"
+    ],
+    "limitations": [
+      "面向中大型会议室，安装位置和会议平台仍要匹配"
+    ],
+    "whyRepresentative": "将会议室中的分散音视频设备转成一个可部署单元。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/rally-bar/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；官方正文明确cinema quality video/audio、all-in-one form factor、medium and larger rooms；Challenge等栏为n/a，未扩写参数。"
+      }
+    ],
+    "context": "中大型会议室若把摄像机、扬声器和其他部件分散安装，会增加部署与日常管理的复杂度。Rally Bar把视频与音频集中为一根条形整体，尝试让企业用一个明确单元建立房间与远端参与者之间的沟通入口。",
+    "design": "细长一体机身容纳视频和声音功能，使多个设备的外部位置关系简化。条形结构可以围绕会议屏幕安排，而不必让每个组件分别占据桌面。它的设计重点是把会议室设备组织成可识别、可部署的整体。",
+    "usage": "部署者先根据座位和屏幕选择安装位置，再连接相容会议系统。开会前检查视频范围与音频状态，使远端能看见和听见主要参与者。对用户而言，日常操作因此围绕一个会议入口展开，但房间布置仍需共同考虑。",
+    "significance": "Rally Bar体现企业会议硬件由分散组件转向一体设备的趋势。合并外形减少了看得见的设备数量，也有助于让不同会议室保持相似使用方式；代表性来自部署和使用的组织，而不只是把摄像头做得更长。",
+    "limitationsNarrative": "它面向中大型房间，实际覆盖要根据座位距离、声学和安装位置检查。合并机身不能消除网络与会议平台配置，也不能保证任何房间都有同样效果；采购与部署仍需确认具体系统支持和可维护的安装条件。"
+  },
+  {
+    "slug": "rally-bar-mini",
+    "name": "Rally Bar Mini",
+    "brand": "Logitech",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/rally-bar-mini/"
+    },
+    "productUrl": "https://www.logitech.com/",
+    "category": "imaging",
+    "designDetails": [
+      "紧凑机箱内结合电动镜头与声音系统",
+      "内置会议设备平台以减少外部组件"
+    ],
+    "functionDetails": [
+      "面向小到中型会议室进行视频会议",
+      "电动镜头调整拍摄范围"
+    ],
+    "limitations": [
+      "房间尺度与座位摆放会影响覆盖，需按安装条件选择"
+    ],
+    "whyRepresentative": "把较小会议空间的部署需求与一体视频条形态结合。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/rally-bar-mini/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；small to midsize rooms、motorized lens、powerful audio、integrated appliance platform。"
+      }
+    ],
+    "context": "小会议室同样需要清楚的声音与取景，却未必有空间放下传统分体系统。Rally Bar Mini将电动镜头、音频和会议设备平台压进较小机箱，为临时讨论区和中小型会议空间提供集中式视频沟通入口。",
+    "design": "紧凑条形机身整合电动镜头和声音系统，减少外接组件数量。镜头可以调整观察方向，内部平台又承担会议设备的运行组织；机械取景与软件入口共处同一外壳，使安装者能围绕屏幕布置一套较集中系统。",
+    "usage": "部署时先按桌子和座位范围安排机身，再连接相容会议平台并确认取景。用户开始讨论后应检查远端是否能看清多人，必要时调整镜头范围。较小设备方便布置，但不能省去实际试会和声音检查这一步。",
+    "significance": "Mini把一体会议条形设备延伸到较小空间，让不同尺度的房间都有相近外观和操作逻辑。它的价值在于压缩部署部件，同时保留可动镜头和集成平台，说明会议设备的小型化仍要服务实际沟通范围。",
+    "limitationsNarrative": "小到中型房间是明确使用定位，座位过远或声学复杂时应重新评估。电动镜头也有实际拍摄范围，不能照顾每种遮挡与桌型；系统兼容、网络和安装支撑需要一起确认，避免只按机身尺寸判断适用性。"
+  },
+  {
+    "slug": "zone-true-wireless",
+    "name": "Zone True Wireless",
+    "brand": "Logitech",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/zone-true-wireless/"
+    },
+    "productUrl": "https://www.logitech.com/",
+    "category": "headphones",
+    "designDetails": [
+      "每只耳塞三麦克风形成语音拾取系统",
+      "独立左右耳塞减少头戴设备体积"
+    ],
+    "functionDetails": [
+      "混合主动降噪帮助会议聆听",
+      "多点连接让电脑与手机音源切换"
+    ],
+    "limitations": [
+      "降噪不能消除所有环境噪声",
+      "多设备使用仍依赖连接状态和平台设置"
+    ],
+    "whyRepresentative": "面向视频会议重新组织真无线耳机的拾音和连接。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/zone-true-wireless/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；6 total mics、beamforming/noise reduction/dynamic processing、hybrid ANC、computer/phone multipoint。"
+      }
+    ],
+    "context": "混合办公让通话发生在电脑和手机之间，也可能从安静书桌转到嘈杂环境。Zone True Wireless以真无线耳塞形式回应这种移动会议任务，将拾音处理和多点连接放在一起，重点是让对话双方更容易保持沟通。",
+    "design": "每只耳塞布置三只麦克风，结合波束成形、降噪和动态处理区分语音与其他声音。混合主动降噪服务佩戴者的聆听，拾音处理则服务远端听者；两条声音路径在同一小型耳塞里承担不同的设计责任。",
+    "usage": "用户将耳机同时连接电脑和手机，在会议与来电之间切换。开始通话前确认输入设备和佩戴状态，再根据环境使用降噪。多点技术减少重新配对动作，但仍需要留意当前活跃音源，避免在错误设备上继续播放声音。",
+    "significance": "它将真无线耳机的便利引入会议工具，把接听、切换和双向清晰度作为核心任务。三麦克风与多点连接不是孤立参数，而是分别回应环境噪声与设备来回变化，使随身耳机适应一整天不同位置的工作。",
+    "limitationsNarrative": "降噪不会消除所有声音，风、碰触和佩戴位置仍会影响拾音。多点切换的行为也受设备和软件影响，重要通话前应确认当前连接；真无线结构另需管理两只耳塞与充电盒的电量，不能只看单次配对成功。"
+  },
+  {
+    "slug": "blackmagic-davinci-resolve-speed-editor",
+    "name": "DaVinci Resolve Speed Editor",
+    "brand": "Blackmagic Design",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/blackmagic-davinci-resolve-speed-editor/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "input-printing",
+    "designDetails": [
+      "大搜索转盘与彩色功能键集中关键剪辑动作",
+      "拇指可触及的播放键便于边浏览边操作"
+    ],
+    "functionDetails": [
+      "转盘切换shuttle、jog和scroll导航素材",
+      "内置电池通过Bluetooth BLE无线连接"
+    ],
+    "limitations": [
+      "按键与转盘围绕DaVinci Resolve工作流，需配合相应软件"
+    ],
+    "whyRepresentative": "将磁带时代的连续查找手感转成数字剪辑控制。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-davinci-resolve-speed-editor/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；adaptive search dial、color-coded keys、internal battery/BLE、thumb space-bar-style button。"
+      }
+    ],
+    "context": "非线性剪辑能管理大量片段，却常需要在素材格和时间线之间反复拖动鼠标。Speed Editor借用连续浏览素材的手感，以搜索转盘和少量关键键位帮助剪辑者在外场或远程位置快速查找、标记和组织镜头。",
+    "design": "大转盘根据shuttle、jog和scroll模式承担不同浏览动作，彩色功能键围绕关键剪辑任务安排。拇指可触及的播放键减少换手，内置电池和蓝牙让面板可无线摆放。布局通过删去不常用键位保持较小体积。",
+    "usage": "剪辑者连接DaVinci Resolve，选择素材后用转盘浏览，再用实体键作入点、出点或其他剪辑操作。多机位素材可结合相应同步界面判断切入位置。开始使用前应熟悉模式切换，让同一个转盘在不同功能下被正确理解。",
+    "significance": "它把数字剪辑中的浏览与决策重新连接到双手动作。转盘让素材查找连续进行，独立按键把常用命令留在固定位置；便携电池又允许控制面靠近摄影现场，帮助剪辑不再完全依附大型后期工作台。",
+    "limitationsNarrative": "它围绕DaVinci Resolve工作流设计，不能把所有键位视为任何剪辑软件的通用快捷键。实体控制仍要学习模式与命令，剪辑速度也依赖素材组织；蓝牙和电池简化摆放，但应在长时间工作前检查连接与补电。"
+  },
+  {
+    "slug": "blackmagic-fairlight-desktop-console",
+    "name": "Fairlight Desktop Console",
+    "brand": "Blackmagic Design",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/blackmagic-fairlight-desktop-console/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "music",
+    "designDetails": [
+      "12只电动推子上方各有LCD状态屏",
+      "铝制工作面可嵌入桌面并配可更换软扶手"
+    ],
+    "functionDetails": [
+      "同时调整多轨音量和声道参数",
+      "搜索转盘导航时间线，旋钮控制声像与效果"
+    ],
+    "limitations": [
+      "是音频控制台，需配合DaVinci Resolve系统",
+      "多轨实体操作仍需要学习轨道组切换"
+    ],
+    "whyRepresentative": "把大型录音控制台的并行手部操作带入较小工作室。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-fairlight-desktop-console/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；12 motorised 100mm faders、LCDs、silent encoder knobs、CNC aluminium、replaceable handrest。"
+      }
+    ],
+    "context": "多轨混音需要同时关注几条声音，鼠标逐项调整可能打断连续判断。Fairlight Desktop Console把推子、声道显示和时间线控制浓缩到桌面尺度，使较小工作室也能通过双手直接处理复杂声音关系。",
+    "design": "十二只电动推子上方各有状态LCD，轨名、声道和电平可以对照。静音旋钮避免机械操作干扰敏感录音环境，铝制控制面配合可换软扶手供长时间使用；搜索转盘则把导航和参数操作分成清楚区域。",
+    "usage": "混音者连接相容系统，选定声道组后用多个推子调整比例，再通过上方显示核对轨道。旋钮用于声像和其他参数，转盘查找时间线位置。切换推子组时尤其要确认当前对应轨道，让手部动作与听到的声音保持一致。",
+    "significance": "它保留大型调音台中并行操作的思路，却面向更小的后期空间。电动推子和逐声道显示共同维持软硬件对应，桌面安装和扶手照顾持续工作；设计因此既关乎声音控制，也关乎人如何长时间坐在设备前。",
+    "limitationsNarrative": "控制台仍需配合DaVinci Resolve等相应主系统，不是单独录制处理所有声音的完整电脑。多轨通过分组映射到有限推子，需要学习切换和自动化；体积缩小后仍要留出手臂支撑及监听空间，不能忽略工作台布置。"
+  },
+  {
+    "slug": "blackmagic-hyperdeck-studio-4k-pro",
+    "name": "HyperDeck Studio 4K Pro",
+    "brand": "Blackmagic Design",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/blackmagic-hyperdeck-studio-4k-pro/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "storage",
+    "designDetails": [
+      "19英寸机架规格容纳四个热插拔媒体位",
+      "SSD槽周围动态灯环呈现介质状态"
+    ],
+    "functionDetails": [
+      "在SSD或SD卡上录放超高清节目",
+      "录制切换到另一介质后可更换已满介质"
+    ],
+    "limitations": [
+      "连续录制依赖及时准备足够速度和容量的介质",
+      "官网正文含8K混写，本记录只采用明确4K身份"
+    ],
+    "whyRepresentative": "把录像机的连续工作需求转译成可换存储与可见状态。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-hyperdeck-studio-4k-pro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；19inch rack、four hot swappable slots、2.5inch SSD/SD、dynamic light rings；未采用正文可疑8K措辞。"
+      }
+    ],
+    "context": "现场节目不能因为一张卡录满就停止，录制设备还要让操作者快速确认状态。HyperDeck Studio 4K Pro把多媒体槽、前面板监看和机架布置结合，服务直播、节目归档和数字标牌等需要持续录放的场景。",
+    "design": "四个可热换媒体位容纳标准SSD和SD卡，另一介质继续录制时可更换已满卡片。SSD周围灯环反馈状态，前面板把重要信息集中显示；标准机架规格又让录放设备进入既有转播机柜，减少额外安装结构。",
+    "usage": "操作者先准备适合格式和速度的介质，确认录制信号并开始工作。某一介质接近满容量时，让系统切换到另一槽继续录制，再换入空介质。过程中持续查看状态和音视频监看，录完还要完成素材整理与备份。",
+    "significance": "它把从磁带录像机延续下来的连续工作需求转成存储卡时代的具体结构。热换槽处理容量延续，灯环处理快速识别，机架外形处理部署；设计的核心是让记录过程不中断，同时使操作者知道机器正在哪里写入。",
+    "limitationsNarrative": "连续录制依赖用户及时提供可用介质，而不是单台设备拥有无限容量。格式、卡速和外接存储需按说明匹配，录制完成也不能代替备份；机架安装和冗余供电安排应放进整套制作规划，避免只关注前面板操作。"
+  },
+  {
+    "slug": "pokit-pro",
+    "name": "Pokit Pro",
+    "brand": "Pokit Innovations",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/pokit-pro/"
+    },
+    "productUrl": "https://www.pokitinnovations.com/",
+    "category": "making",
+    "designDetails": [
+      "紧凑外壳内蛇形结构保持所需安全间距",
+      "测量硬件与手机触屏界面分工"
+    ],
+    "functionDetails": [
+      "一机整合万用表、示波器和记录器",
+      "蓝牙向手机显示测量数据，记录器可脱离手机运行"
+    ],
+    "limitations": [
+      "现场测量必须依设备额定等级和说明书操作",
+      "可视化界面依赖兼容手机与App"
+    ],
+    "whyRepresentative": "展示测量仪器如何用手机承担显示和触控以缩减硬件体积。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/pokit-pro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；600V CATIII 10A、serpentine enclosure clearances、Bluetooth smartphone UI、standalone logging。"
+      }
+    ],
+    "context": "电子测量常要同时使用万用表、示波器和记录器，传统仪器的体积让随身携带变得困难。Pokit Pro把测量硬件缩到手持尺度，由手机承担显示和触控，让学生和现场工程人员能以较少设备进入实验与检查工作。",
+    "design": "紧凑外壳内的蛇形结构保持所需电气安全间距，材料也要兼顾强度、导热和阻燃。集成电路承担多种仪器功能，蓝牙把数据送到手机显示；硬件保留测量接口，复杂图表和操作则转移到已有移动屏幕。",
+    "usage": "使用者依据被测对象和设备额定条件连接探头，在手机App选择量程或仪器模式并读取结果。需要长时间观察时可用记录器保存数据，不必一直连接手机。测量前仍须检查接线和模式，避免把便携理解为可以随意接入。",
+    "significance": "它的代表性在于重新分配仪器的硬件与界面。手机提供可更新的图形触控，测量模块专注信号与安全结构；多种模式共用小型平台，使电子实验和现场记录更容易离开固定工作台，也让连接方式成为仪器设计的一部分。",
+    "limitationsNarrative": "手机界面依赖兼容App和无线连接，现场还需安排移动设备电量。电气测量必须严格遵守额定等级和使用说明，多模式不意味着可对任何对象安全测量；示波器和记录器也有各自通道、带宽与采样条件，应按任务核对。"
+  },
+  {
+    "slug": "cleanspace-halo",
+    "name": "CleanSpace HALO",
+    "brand": "CleanSpace Technology",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/cleanspace-halo/"
+    },
+    "productUrl": "https://www.cleanspacetechnology.com/",
+    "category": "care",
+    "designDetails": [
+      "动力过滤系统省去腰带和长气管",
+      "透明柔软硅胶面罩让佩戴状态可见"
+    ],
+    "functionDetails": [
+      "以正压过滤气流提供呼吸防护",
+      "可重复使用的模块便于医院消毒与存储"
+    ],
+    "limitations": [
+      "需要机构按规定训练、配适与再处理",
+      "防护性能不能只凭获奖描述代替实际规范验证"
+    ],
+    "whyRepresentative": "把呼吸防护的电子动力系统、穿戴负担和医院工作流程放在一起。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/cleanspace-halo/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；positive pressure PAPR、no belts/hoses、transparent silicone mask、AirSensit、modular/reusable。"
+      }
+    ],
+    "context": "医护呼吸防护不仅要过滤空气，还要适应穿戴、交流和反复消毒。CleanSpace HALO采用动力空气过滤形式，将过去可能围绕腰带和软管安排的系统收得更紧凑，重点减少长时间工作中的佩戴与维护负担。",
+    "design": "正压过滤气流与透明柔软硅胶面罩结合，系统省去腰带和长气管。模块化结构便于收纳、消毒和更换相关部分，电池驱动气流；外形、电子控制和可重复处理材料共同服务医疗环境，而不是单独比较过滤数值。",
+    "usage": "机构按适用规范完成培训与配适，使用者佩戴后检查工作状态，再进入规定场景。使用结束按照流程脱卸、清洁消毒并补电，保证下一次使用的准备条件。设备能重复使用，但每次处理仍是防护流程的重要部分。",
+    "significance": "HALO展示防护器材怎样把人体负担和机构流程一起纳入工业设计。较少外接部件改善穿戴组织，透明面罩保留可见性，模块化又回应大规模使用后的再处理；真正价值落在持续正确使用，而不只是设备外观轻巧。",
+    "limitationsNarrative": "动力呼吸防护需依规定进行选择、训练和维护，不能只根据获奖描述判断适合任何医疗操作。电池、滤材和消毒条件都影响准备状态；可重复使用也不会自动保证正确防护，机构必须按说明建立完整使用与再处理安排。"
+  },
+  {
+    "slug": "blackmagic-pocket-cinema-camera-6k-pro",
+    "name": "Pocket Cinema Camera 6K Pro",
+    "brand": "Blackmagic Design",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/blackmagic-pocket-cinema-camera-6k-pro/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "imaging",
+    "designDetails": [
+      "内置电动ND滤镜减少外接滤镜操作",
+      "高亮可翻转HDR屏幕用于不同机位监看"
+    ],
+    "functionDetails": [
+      "记录6K数字电影与Blackmagic RAW",
+      "内置四麦克风采集声音"
+    ],
+    "limitations": [
+      "拍摄仍需要镜头与合适存储介质",
+      "专业后期格式需要匹配处理流程"
+    ],
+    "whyRepresentative": "把电影拍摄的监看、减光和录音功能并进相机式机身。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-pocket-cinema-camera-6k-pro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Gold；motorized ND、4 microphones、tilting HDR LCD、Blackmagic RAW、requires lens and storage。"
+      }
+    ],
+    "context": "独立摄影者喜欢相机式机身的便携，却可能为电影拍摄再加监视器、滤镜和录音配件。Pocket Cinema Camera 6K Pro把多项制作功能收入一体，尝试在小团队或单人工作时减少围绕摄影机搭建的外围设备。",
+    "design": "电动ND滤镜直接处理光线变化，四只内置麦克风承担声音采集。高亮可翻转HDR屏幕让不同高度机位仍能监看，外部按键与握柄维持相机式操作；这些部件共同回应持续拍摄中同时顾及构图、曝光和声音的需要。",
+    "usage": "摄影者装好相容镜头与存储，按光线选择ND，再从可调屏幕观察构图和焦点。移动机位时可以改变屏幕角度，减少另装监看的需求；录制后以相应后期流程处理Blackmagic RAW，并检查声音和素材是否完整保存。",
+    "significance": "它把电影摄影中的减光、监看与声音需求放进可手持机身，缩短从普通相机外形到完整视频工作的距离。代表性来自多个真实拍摄动作被一体处理，让较少人员也能维持对曝光、构图和录制状态的控制。",
+    "limitationsNarrative": "一体功能仍需配合镜头和适合录制格式的存储，不能把机身当成开箱就包含全部摄影条件。屏幕亮度和角度帮助监看，却不能消除户外反光或对焦判断；专业文件也需要匹配后期工具、备份和足够处理能力。"
+  },
+  {
+    "slug": "breville-barista-express-impress",
+    "name": "Barista Express Impress",
+    "brand": "Breville",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/breville-barista-express-impress/"
+    },
+    "productUrl": "https://www.breville.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "辅助压粉杆以固定压粉力和末端旋转整理粉饼",
+      "可拆罩露出压粉机构以便清洁"
+    ],
+    "functionDetails": [
+      "系统根据压粉结果提示补粉或减少粉量",
+      "25档研磨供用户匹配咖啡豆"
+    ],
+    "limitations": [
+      "辅助投粉压粉不等于全自动，研磨与萃取仍需调整"
+    ],
+    "whyRepresentative": "保留手工浓缩流程，同时把初学者难掌握的动作交给机构和反馈。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/breville-barista-express-impress/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；Impress Puck System、assisted 10kg tamp、7°twist、dose feedback、25 grind settings。"
+      }
+    ],
+    "context": "手工浓缩咖啡的学习难点之一是粉量与压粉，两者每次不同就会影响后续萃取。Barista Express Impress保留手工制作的参与感，同时用辅助压粉机构和投粉反馈，让初学者把更多注意力放在研磨与咖啡豆的匹配。",
+    "design": "压粉杆通过机构提供一致作用力，末端小幅旋转整理粉饼表面并减少粉末残留。可拆外罩为清洁压粉机构留出通路，量规反馈则告诉用户粉量是否合适；机械动作与算法共同处理原本依经验完成的准备步骤。",
+    "usage": "用户将手柄放入投粉位置，完成研磨后拉压粉杆，再观察是否需要补粉。系统根据结果提供下一步提示，用户继续调整研磨粗细以适应咖啡豆。完成萃取之后清理粉饼和接触部位，让下一次操作从一致状态开始。",
+    "significance": "它不把所有手工作业都取消，而是挑出初学者最难重复的动作加以辅助。压粉力、粉面整理和投粉提示让准备过程更可见，设计因而介于传统手工机与全自动之间，为家庭用户保留学习与调整的空间。",
+    "limitationsNarrative": "辅助压粉不代表所有萃取变量都已被控制，研磨、豆子状态和配方仍需选择。粉路与奶系统也要清洗维护，可拆罩只是提供接近机构的方式；用户不能因有量规反馈就忽略实际出液、味道和日常卫生状况。"
+  },
+  {
+    "slug": "ecovacs-deebot-x1-omni",
+    "name": "DEEBOT X1 OMNI",
+    "brand": "ECOVACS",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/ecovacs-deebot-x1-omni/"
+    },
+    "productUrl": "https://www.ecovacs.com/",
+    "category": "cleaning",
+    "designDetails": [
+      "机器人与集尘洗拖基站采用统一外形语言",
+      "激光和视觉传感共同识别障碍"
+    ],
+    "functionDetails": [
+      "自动扫吸拖地并回站补水清洗",
+      "基站处理集尘、洗拖布与热风烘干"
+    ],
+    "limitations": [
+      "基站需要持续的水箱与集尘维护",
+      "语音/App操作依赖对应设置和兼容环境"
+    ],
+    "whyRepresentative": "机器人设计从地面动作扩展到清洁后维护。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/ecovacs-deebot-x1-omni/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；Jacob Jensen Design、OMNI empty/refill/mop wash/hot-air dry、YIKO、AIVI 3D laser/vision。"
+      }
+    ],
+    "context": "扫地机器人若每次完成后都要手洗拖布，自动化仍停在一半。DEEBOT X1 OMNI把集尘、补水、拖布清洗与热风干燥放进同一基站，面向希望减少接触污物和频繁维护动作的家庭清洁场景。",
+    "design": "机器人和基站由统一外形语言组织，地面部分结合激光与视觉传感识别障碍。基站内分配水与垃圾处理路径，拖布回站后清洗和干燥；这让设备的外部体积不仅容纳充电器，也承接清洁后的一整段维护工作。",
+    "usage": "屋主准备水箱和集尘用品，建立家庭清洁区域后，可通过App、语音或计划启动任务。机器人完成扫吸拖地再回站处理拖布，用户定期检查水箱与尘袋。设置路线时还应考虑家具、线缆及不能进入的地面区域。",
+    "significance": "X1 OMNI体现家庭机器人的系统边界扩大：设计对象不再只有会移动的圆盘，还包括它回到哪里、怎样处理脏布和垃圾。机器人与基站共同工作，把原本分散给屋主的动作转成一套可重复运行的清洁流程。",
+    "limitationsNarrative": "基站虽然自动洗拖布，仍要人工补充清水、处理污水和更换集尘用品。传感避障也无法保证每个细小物体都被识别，家庭布置需要管理；语音和远程功能另依赖设置与网络，不能把系统自动化理解为完全免照看。"
+  },
+  {
+    "slug": "kenwood-multipro-go-food-processor",
+    "name": "MultiPro Go Food Processor",
+    "brand": "Kenwood",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/kenwood-multipro-go-food-processor/"
+    },
+    "productUrl": "https://www.kenwoodworld.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "顶部把手兼顾搬动与压住机身操作",
+      "顶置开关和底座绕线减少台面杂乱"
+    ],
+    "functionDetails": [
+      "小碗处理少量切碎任务",
+      "直出配件将切片或刨丝直接送入锅碗"
+    ],
+    "limitations": [
+      "精简配件以核心任务为主，容量和功能不同于大型料理机"
+    ],
+    "whyRepresentative": "让备餐电器能以组装完成状态放进抽屉并随取随用。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/kenwood-multipro-go-food-processor/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Gold；lid handle/top switch、cable wrap/adjustment、compact bowl、direct serve tool、stored assembled。"
+      }
+    ],
+    "context": "料理机的配件和机身容易占满小厨房，即使用途只是切碎、切片和刨丝。MultiPro Go精简到常见食物准备任务，让机器可以组装好放进抽屉，取出后直接工作，而不必先寻找一整套很少使用的附件。",
+    "design": "顶部把手帮助搬动，也让用户操作顶置开关时能同时稳住机身。底座收纳电线并调节外露长度，小碗与直出工具则分别处理少量切碎和连续切片；机身可旋转朝向锅碗，把输出位置交给实际台面布置决定。",
+    "usage": "用户取出已装好配件的机器，把线调到所需长度并放稳。小量食材可在小碗中处理，需要连续切片或刨丝时换成直出配件，让食材落入锅碗。结束后清洗所用附件，再以组装状态收回抽屉或柜子。",
+    "significance": "它把少配件和随取随用作为功能，而不是把最大附件数量视为完整性。顶部界面允许不同朝向使用，直出工具减少加工容量对容器的依赖；小厨房中的准备、操作和收纳因此由一组明确结构连接起来。",
+    "limitationsNarrative": "精简配置更适合核心备餐任务，不能取代所有大型料理机或搅拌功能。小碗处理量与直出方式也不同，用户须选择合适附件；可组装收纳仍需要干净、干燥并按说明保护刀具，避免把随取随用变成不安全存放。"
+  },
+  {
+    "slug": "hp-z2-g9-mini-workstation-desktop-pc",
+    "name": "Z2 G9 Mini Workstation Desktop PC",
+    "brand": "HP",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/hp-z2-g9-mini-workstation-desktop-pc/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "三维格栅处理前后通风",
+      "磁性支架与安装套允许立放、桌下或屏幕后固定"
+    ],
+    "functionDetails": [
+      "运行三维建模及专业应用",
+      "标准DDR5 SO-DIMM与低矮显卡可更换"
+    ],
+    "limitations": [
+      "可更换部件仍受小机身规格和散热空间约束"
+    ],
+    "whyRepresentative": "让小型工作站的隐藏摆放与可维护性同时成为设计目标。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-z2-g9-mini-workstation-desktop-pc/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；standard DDR5 SO-DIMM、low-profile graphics、3D lattice vent grille、magnetic stand/mount sleeve。"
+      }
+    ],
+    "context": "专业建模用户可能需要工作站，却希望把电脑藏到显示器后或桌下。Z2 G9 Mini围绕这一空间需求缩小外壳，同时保留可接近内部和使用标准部件的路线，让小体积不必自动等于无法维护的封闭设备。",
+    "design": "前后立体格栅为气流留通道，铝制机架和内部散热适应紧凑布局。磁性支架支持立放，安装套可用于桌下或屏幕后。标准内存与低矮显卡为后续更换留下余地，使摆放和内部结构需要共同设计。",
+    "usage": "用户选择桌面、桌下或显示器后的位置，接好屏幕与外设并确保通风。需要增加内存或更换相容显卡时，可按规定开启机身接近部件。隐藏摆放之前应先考虑线缆和维护路径，避免机器虽小却难以取出。",
+    "significance": "这件产品把专业电脑的小型化与可升级性放到同一目标中。安装附件让主机退到工作台边缘，标准部件又保留后续调整能力；代表性在于电脑如何减少视觉与空间占用，同时继续承担长期专业使用的维护要求。",
+    "limitationsNarrative": "小机身仍限制显卡尺寸、供电和散热组合，可更换不代表任何桌面配件都能装入。屏幕后或桌下也应留出进出风空间；工作站性能要结合具体配置和应用，不能只因专业类别就推定所有任务有相同表现。"
+  },
+  {
+    "slug": "hp-11-tablet-pc",
+    "name": "11 Tablet PC",
+    "brand": "HP",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/hp-11-tablet-pc/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "摄像头可翻转为前后拍摄方向",
+      "多方向触点让键盘适配横屏和竖屏"
+    ],
+    "functionDetails": [
+      "以平板触控及笔输入处理内容",
+      "翻转摄像头分享人像或桌面工作"
+    ],
+    "limitations": [
+      "键盘与笔的配件配置需按版本核对",
+      "竖屏工作仍需合适桌面支撑"
+    ],
+    "whyRepresentative": "让平板的方向变化与摄像头、键盘的机械连接一同工作。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-11-tablet-pc/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；rotatable camera、landscape/portrait keyboard cover、multidirectional Pogo pins、optional MPP2 pen。"
+      }
+    ],
+    "context": "平板适合随手看内容，接上键盘后又常被迫只按横向使用。HP 11 Tablet PC把横竖连接和可翻转摄像头放在一起，让阅读长文、视频通话和展示桌面工作能在同一小型设备上采用不同方向。",
+    "design": "多方向触点让键盘套识别横屏或竖屏连接，镜头可在前后方向之间旋转。铝制机身承载触屏和支撑关系，笔可磁吸到侧边；机械连接不只是方便拆开，也决定用户能否以适合内容的方向继续输入。",
+    "usage": "用户阅读或编写长文时可把屏幕竖放并继续接键盘，通话时翻转镜头拍自己，需要展示作品则改变镜头方向。选择笔输入时再取出相应配件。每次转换都应确认支撑和取景，避免只旋转设备却没有调整工作方式。",
+    "significance": "它说明二合一设备的灵活性可以来自接口方向，而不只是键盘能否拆下。屏幕、镜头和键盘分别改变位置，又维持彼此联系；这种结构让电脑适应长文、画图和实物分享等具体任务，而非始终围绕横屏桌面。",
+    "limitationsNarrative": "竖屏和横屏仍需合适支撑，连接方向多不会消除台面与观看距离的需求。触控笔属于需核对配置的配件，摄像头翻转也要防止遮挡；软件是否适合触控和竖屏仍各不相同，应按应用实际界面选择使用姿态。"
+  },
+  {
+    "slug": "hp-eliteone-870-g9-all-in-one",
+    "name": "EliteOne 870 G9 All-in-One",
+    "brand": "HP",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/hp-eliteone-870-g9-all-in-one/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "弹出式摄像头以物理状态提示正在使用",
+      "摄像头可上下倾斜并左右旋转以调整取景"
+    ],
+    "functionDetails": [
+      "整合显示与电脑用于学习办公",
+      "Monitor Jumper使屏幕与处理器生命周期可分开安排"
+    ],
+    "limitations": [
+      "一体机的显示和计算寿命未必同步，需使用相应连接能力继续利用屏幕"
+    ],
+    "whyRepresentative": "把视频会议的取景和隐私状态融入商用一体机。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-eliteone-870-g9-all-in-one/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；正文同称EliteOne800系列，明确pop-up webcam、tilt/pivot、Monitor Jumper capability；未套用未核规格。"
+      }
+    ],
+    "context": "商用一体机常被当作节省桌面空间的电脑，但视频会议又让取景、隐私和显示寿命变得突出。EliteOne 870 G9在整合屏幕与计算之外，让摄像头动作可见，并为显示部分继续使用提供相应连接思路。",
+    "design": "弹出式摄像头以物理位置提示使用状态，并能上下倾斜、左右转动以适应取景。薄型背部帮助一体机融入室内环境；Monitor Jumper功能则让显示与处理器的使用周期不必完全绑定，回应整机长期使用的取舍。",
+    "usage": "用户坐到电脑前后调整摄像头方向，使自己进入会议画面；不用摄像时检查其收回状态。日常仍由整合屏幕处理工作与协作，当计算部分不再满足需求，可按相应连接功能考虑继续利用显示器，延长有用部件的使用。",
+    "significance": "它把一体机的简洁外形延伸到两个长期问题：人如何确认摄像状态，以及屏幕是否必须跟处理器一起淘汰。可动摄像头改善日常沟通，显示复用则关注几年之后的设备关系，体现设计对生命周期的介入。",
+    "limitationsNarrative": "一体机仍将不少部件集中在同一外壳里，维修和升级方式应按具体型号核对。显示复用也需要相应连接和配置，不能只按功能名称推定任意主机都可接入；摄像头物理状态帮助判断，但会议权限与软件设置仍需管理。"
+  },
+  {
+    "slug": "omen-27c-qhd-gaming-monitor",
+    "name": "OMEN 27c QHD Gaming Monitor",
+    "brand": "HP",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/omen-27c-qhd-gaming-monitor/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "display",
+    "designDetails": [
+      "菱形底座给斜放键盘留空间",
+      "支柱内置走线并设耳机挂钩"
+    ],
+    "functionDetails": [
+      "1000R曲面屏显示游戏",
+      "支架提供高度与俯仰调整"
+    ],
+    "limitations": [
+      "曲率与底座形状需要和桌深、观看距离及键盘摆位匹配"
+    ],
+    "whyRepresentative": "显示器底座被当作游戏者手部和桌面布局的一部分。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/omen-27c-qhd-gaming-monitor/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；1000R、diamond-shaped base、tilt/height stand、headphone hook、cable routing。"
+      }
+    ],
+    "context": "游戏者可能把键盘斜放以扩大鼠标活动空间，普通显示器底座却未必适应这种摆位。OMEN 27c把屏幕支架看成游戏桌面的一部分，让曲面画面、键盘角度、耳机收纳和线缆路线共同决定使用体验。",
+    "design": "菱形底座为斜放键盘留出角度，支架提供升降和俯仰调整。柱体整合理线，耳机挂钩处理暂停时的附件收纳，曲面屏则围绕观看位置展开。外形中的几何线条因此不只是风格，也参与实际台面组织。",
+    "usage": "玩家先调整屏幕高度与距离，再按自己鼠标活动需要摆放键盘。线缆经支架整理，耳机不用时挂起，避免压缩桌面空间。进入游戏后仍应结合视距和画面设置确认是否舒适，支架位置也可随任务重新调整。",
+    "significance": "它展示显示器的工业设计怎样延伸到屏幕之外。底座、线缆和耳机都影响玩家的手部活动，菱形结构将这种观察落实为具体边界；显示器因而成为桌面布局的中心，而不只是悬在支架上的一块画面。",
+    "limitationsNarrative": "曲率、底座形状和屏幕尺寸都需要匹配桌深及观看距离，不存在适合所有桌面的统一摆位。支架可调也不能替代坐姿和照明安排；游戏帧率仍由主机与内容共同决定，不能把显示器刷新能力视为实际游戏速度。"
+  },
+  {
+    "slug": "hp-pavilion-all-in-one-desktop",
+    "name": "Pavilion 32-inch All-in-One Desktop",
+    "brand": "HP",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/hp-pavilion-all-in-one-desktop/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "底座加入手机无线充电区域",
+      "支柱后理线罩整理电源和外接线"
+    ],
+    "functionDetails": [
+      "一体机提供家庭工作与娱乐屏幕",
+      "弹出摄像头用于视频通话，屏幕可提供辅助照明"
+    ],
+    "limitations": [
+      "无线充电需兼容手机",
+      "32英寸机身要求相应桌面空间"
+    ],
+    "whyRepresentative": "把家庭桌面电脑、电话充电和视频通话辅助功能合在一处。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-pavilion-all-in-one-desktop/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Gold；正文明确32-inch、wireless charging stand、cable shroud、pop-up webcam、screen lighting software。"
+      }
+    ],
+    "context": "家庭电脑有时还要兼任电视、通话终端和手机充电位置。Pavilion三十二英寸一体机围绕共享生活空间安排这些任务，让屏幕、摄像头、音频和底座各自承担日常用途，减少桌面另放多件配件的需要。",
+    "design": "底座加入无线充电区，支柱后理线罩整理连接，弹出式摄像头融入主机外壳。屏幕未使用区域可提供辅助照明，支架和音频也参与家庭娱乐；结构把计算之外的细小配套任务集中到一台日常可见的设备周围。",
+    "usage": "家人可在同一大屏上处理工作或观看内容，视频通话时弹出摄像头并设置辅助光。手机放到底座相容区域补电，线缆从支柱后方整理。切换活动时重新确认输入、声音与亮度，让设备配合不同距离的观看与操作。",
+    "significance": "这件一体机关注家庭中多用途屏幕的现实：同一张桌子并不总用于办公。无线充电和理线降低附件分散，摄像头和照明服务通话；它把电脑的外围便利变成整体设计，让共享空间中的使用转换更连贯。",
+    "limitationsNarrative": "三十二英寸屏幕需要相应台面和观看距离，集成底座并不会使整机适合所有小空间。无线充电要匹配手机，辅助照明也受周围环境影响；一体形式还把多个用途绑在同一位置，摆放时应同时考虑工作与娱乐需求。"
+  },
+  {
+    "slug": "teno",
+    "name": "Teno",
+    "brand": "Lumio",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/teno/"
+    },
+    "productUrl": "https://www.hellolumio.com/",
+    "category": "players",
+    "designDetails": [
+      "沙质纹理碗状外壳以裂缝作为开启交互",
+      "外部触摸代替独立按钮与旋钮"
+    ],
+    "functionDetails": [
+      "裂开后发出可调暖光",
+      "完全打开后由隐藏45毫米全频单元播放声音"
+    ],
+    "limitations": [
+      "触摸和开合方式需要学习",
+      "雕塑形态不能直接推定适合所有声学摆位"
+    ],
+    "whyRepresentative": "把开启电子产品变成打开一件桌面器物的动作。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/teno/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Gold；natural sand bowl、crack open warm light/full-open speaker、touch controls、45mm driver。"
+      }
+    ],
+    "context": "Teno从桌面碗状雕塑出发，把灯与音箱藏进看似裂开的器物中。用户不是先寻找电源按钮，而是通过开合让光与声音出现；电子设备的启动因此被设计成一个能看见、摸到并逐渐展开的日常动作。",
+    "design": "外层沙质纹理与内部硬壳分别提供触感和结构精度，裂缝成为可调开口。稍微打开显出暖光，完全打开后声音从隐藏单元传出；触摸控制代替明显旋钮，让器物表面继续保持整体，而交互依赖手指与开合状态。",
+    "usage": "用户把两半分开启动，按需要调节暖光，再继续打开使用声音播放。触摸手势控制相关功能，合起后结束使用。摆放时要让开合方便并留出稳定位置，使操作仍像拿起桌面物件，而不是追逐隐藏在底部的按键。",
+    "significance": "它的代表性在于用熟悉的器物与不寻常的开启方式解释电子交互。外形不直接暴露扬声器或灯泡，而由动作揭示用途；设计尝试让设备在不工作时也保持可欣赏的身份，使长期摆放不只由功能参数决定。",
+    "limitationsNarrative": "触摸与开合方式需要学习，第一次使用未必像明显开关一样直观。雕塑形态也不取消扬声器对摆位的需要，周围表面可能影响声音；自然纹理和可动接合部仍应按说明维护，不能把手工感理解为可随意碰撞的装饰品。"
+  },
+  {
+    "slug": "samsung-bespoke-cube-air-purifier-ax53",
+    "name": "Bespoke Cube Air Purifier AX53",
+    "brand": "Samsung",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/samsung-bespoke-cube-air-purifier-ax53/"
+    },
+    "productUrl": "https://www.samsung.com/",
+    "category": "environment",
+    "designDetails": [
+      "立方体外形以家居陈设为出发点",
+      "外观与过滤系统共同组织室内放置"
+    ],
+    "functionDetails": [
+      "过滤室内空气中的颗粒物",
+      "以降低运行噪声作为设计目标"
+    ],
+    "limitations": [
+      "过滤效果取决于具体颗粒、房间与运行条件",
+      "需安排滤材维护，不应把宣传效率直接等同整屋净化结果"
+    ],
+    "whyRepresentative": "表现空气净化器如何兼顾功能与长期可见的家居身份。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/samsung-bespoke-cube-air-purifier-ax53/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Gold；Cube AX53、air purification system、捕获颗粒、minimise noise、fit home décor；未采用无条件99.97%结论。"
+      }
+    ],
+    "context": "空气净化器需要长期留在房间里工作，外观和运行声音因而影响用户愿意把它放在哪里。Bespoke Cube AX53以立方体家电形态回应这种常驻需求，把过滤功能与室内陈设关系放到同一个设计问题中考虑。",
+    "design": "立方体机体把空气处理系统收成明确体积，视觉语言希望与家居环境协调。过滤结构承担颗粒捕获，噪声控制则减少设备持续运行的打扰。设计需要在有效进出风、内部组件和外表比例之间找到可使用的平衡。",
+    "usage": "用户在适合的房间位置放置设备，保持必要的进出风空间，按环境选择运行方式。日常查看状态并维护滤材，让净化持续有效。外观容易融入室内有助于长期使用，但实际摆放仍应优先满足空气流动而非藏进角落。",
+    "significance": "AX53说明环境家电的设计价值也发生在持续运行时。净化器不只是一项偶尔打开的功能，还是房间里能被看见和听见的物件；协调外形与噪声能够影响实际放置，从而间接影响用户是否把设备正确地用起来。",
+    "limitationsNarrative": "过滤性能需要结合房间、颗粒种类、运行档位和滤材状态理解，不能把单项效率直接当成整屋结果。视觉上合适的位置也未必适合进出风，摆放需要两者兼顾；滤材维护仍是持续任务，不能因自动运行而忽略。"
+  },
+  {
+    "slug": "nama-j2-cold-press-juicer",
+    "name": "J2 Cold Press Juicer",
+    "brand": "Nama",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/nama-j2-cold-press-juicer/"
+    },
+    "productUrl": "https://namawell.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "加宽料斗可以一次装入整份蔬果",
+      "可拆料斗盖与可打开的出渣口便于清洁"
+    ],
+    "functionDetails": [
+      "低速螺杆进行冷压榨汁",
+      "投料后电机持续处理，减少逐个推入食材"
+    ],
+    "limitations": [
+      "预装食材仍需按机型适用范围准备",
+      "果渣和榨汁组件使用后要清洗"
+    ],
+    "whyRepresentative": "将榨汁过程的准备、等待和收拾一起重新安排。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/nama-j2-cold-press-juicer/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Gold；extra wide hopper、removable hopper lid、openable pulp exit、slow auger、concealed safety switches。"
+      }
+    ],
+    "context": "传统榨汁常要求切小食材并逐个推入，使用后又要处理狭窄出渣口。Nama J2将宽料斗与便于打开的清洁结构结合，把榨汁便利从电机转速扩展到准备、等待和收拾，服务希望反复使用的家庭流程。",
+    "design": "宽口料斗可预先放入一份蔬果，螺杆以低速持续加工。料斗盖能拆下，出渣口能打开，安全开关隐藏在相关组件中；这些结构既影响外形轮廓，也让用户更容易接近食材和果渣经过的实际位置。",
+    "usage": "用户按食材要求准备原料并装入料斗，关盖后启动，让机器依次处理内容。榨汁完成再取出果渣，打开出渣口并拆洗可清洁部分。一次投料减少持续站在机器旁的需要，但准备和清洗依然构成整段使用时间。",
+    "significance": "J2把常见家电的难用之处拆成明确动作：少切分、少逐个推料、能打开积渣处。代表性不只在冷压榨汁本身，而在围绕重复使用调整结构，使机器更容易从偶尔使用的大件用品变成稳定的日常工具。",
+    "limitationsNarrative": "宽料斗不表示任何硬度或大小的食材都能直接投入，仍须按说明准备。低速螺杆也会留下需要及时清洗的部位，不能只看自动加工过程；用户还要安排接汁、接渣和配件干燥空间，才能真正减少厨房收拾负担。"
+  },
+  {
+    "slug": "asko-elements-wine-climate-cabinet",
+    "name": "Elements Wine Climate Cabinet",
+    "brand": "ASKO",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/asko-elements-wine-climate-cabinet/"
+    },
+    "productUrl": "https://au.asko.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "三独立温区与可全拉出层架组织酒瓶",
+      "三层玻璃门与木材、湿度盒形成储酒环境"
+    ],
+    "functionDetails": [
+      "摄像头及App联接Vivino用于藏酒管理",
+      "触屏与接近感应灯帮助查找和取放"
+    ],
+    "limitations": [
+      "柜体容量和门开启空间必须配合室内布局",
+      "数字藏酒信息依赖相应数据库和连接"
+    ],
+    "whyRepresentative": "从温控储藏延伸到辨认、记录和端酒的完整动作。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/asko-elements-wine-climate-cabinet/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Gold；3 temperature zones、integrated camera/Vivino、triple glazed door、4.3inch touchscreen、telescopic shelves。"
+      }
+    ],
+    "context": "藏酒需要的不只是低温，还包括识别、记录和按饮用目的取出酒瓶。ASKO Elements酒柜把三个温区、可拉出层架和数字库存结合，让收藏者在保存、陈放和准备饮用之间使用同一套柜体与信息界面。",
+    "design": "三层玻璃门保护内部环境，木材、湿度盒和可拉出层架承接酒瓶。摄像头及触屏帮助记录和查看藏酒，接近感应灯在有人靠近时响应。物理层架与数字库存配合，让瓶子的位置和信息不必分别管理。",
+    "usage": "用户按保存与侍酒需求分配温区，将酒瓶放入层架并借摄像头或App登记。取酒前查看库存，拉出相应层架，再使用适合饮用的温区。操作中仍应按瓶型、容量和门的开启方向安排空间，使信息与真实摆放一致。",
+    "significance": "它把家用酒柜从一个冷藏箱扩展为藏酒管理工具。温区处理保存条件，数字记录处理辨认，层架和照明处理取放；这些功能组合反映收藏家电如何同时服务物理物品和围绕物品的长期信息积累。",
+    "limitationsNarrative": "柜体与门的开启需要足够空间，瓶型不同也会改变可用容量。数字库存依赖正确录入及相应数据库连接，不会自动保证每瓶酒的位置永远准确；温控储藏也不能替代对酒种、保存期限和实际状态的判断。"
+  },
+  {
+    "slug": "samsung-bespoke-airdresser",
+    "name": "Bespoke AirDresser（2022获奖款）",
+    "brand": "Samsung",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/samsung-bespoke-airdresser/"
+    },
+    "productUrl": "https://www.samsung.com/",
+    "category": "care",
+    "designDetails": [
+      "狭长柜式机身可放衣帽间或洗衣空间",
+      "门上LED面板整合操作"
+    ],
+    "functionDetails": [
+      "以气流和蒸汽在两次水洗之间护理衣物",
+      "低温热泵干燥处理适合的衣物"
+    ],
+    "limitations": [
+      "衣物护理不等于所有污渍都可省去洗涤",
+      "需按织物和程序条件操作，并补充/处理水箱"
+    ],
+    "whyRepresentative": "展示衣物家电从水洗走向两次穿着之间的维护。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/samsung-bespoke-airdresser/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Gold；slim cabinet、no plumbing required、LED control panel、JetAir/JetSteam、low-temperature heat pump drying。"
+      }
+    ],
+    "context": "衣物不一定每穿一次都需要水洗，但可能需要去味、干燥或整理褶皱。Bespoke AirDresser以狭长柜体处理两次洗涤之间的护理，让衣物悬挂在机内接受气流和蒸汽，补充传统洗衣机之外的家庭衣物流程。",
+    "design": "纤细柜式机身便于融入衣帽间或洗衣空间，门上LED面板集中操作。气流、蒸汽与低温热泵干燥在柜内工作，不需固定给排水管路；外部看似家具，内部却围绕悬挂衣物组织空气与水分处理。",
+    "usage": "用户先按面料与护理要求选择适合衣物，挂好后启动对应程序。使用结束取出衣物，并按说明处理相关水箱与内部维护。无需固定水管提供摆放余地，但仍要准备供电、开门空间和衣物取放的合适位置。",
+    "significance": "它呈现家务电器在洗涤之外进一步细分任务：不是每件衣物都立刻进入滚筒，也可先经过悬挂护理。柜体与气流结构把这种中间状态变成可操作流程，让衣物保存、再次穿着和水洗之间出现新的家用设备。",
+    "limitationsNarrative": "气流蒸汽护理不能去除所有污渍，也不能把所有面料都按同一程序处理。厂家描述的除菌或除皱结果有材料和测试条件，应按适用范围理解；没有固定管路也仍需处理水箱，不能把免接管理解为免维护。"
+  },
+  {
+    "slug": "joule-oven-air-fryer-pro",
+    "name": "Joule Oven Air Fryer Pro",
+    "brand": "Breville",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/joule-oven-air-fryer-pro/"
+    },
+    "productUrl": "https://www.breville.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "台面炉的进阶界面延伸到手机",
+      "炉腔与食谱参数共同构成烹饪方案"
+    ],
+    "functionDetails": [
+      "App发送与炉子匹配的图文/视频食谱",
+      "支持自动烹调流程、远程查看和语音操作"
+    ],
+    "limitations": [
+      "联网食谱与远程功能需要相应服务",
+      "使用者仍须按食材准备和安全要求在场安排"
+    ],
+    "whyRepresentative": "把烤箱控制从温度旋钮延伸到逐步学习的食谱流程。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/joule-oven-air-fryer-pro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；connected countertop oven、autopilot、internet app、recipe notifications、Alexa/Google Home、13 presets。"
+      }
+    ],
+    "context": "台面烤箱有许多模式，用户却未必知道怎样把它们用成一道完整菜。Joule Oven Air Fryer Pro把烹调硬件与联网食谱结合，让选择内容、理解步骤、发送参数和查看进度成为同一条从手机到烤箱的使用路径。",
+    "design": "进阶界面延伸到手机，机身不必用复杂显示承载全部食谱内容。炉腔、加热控制和多种预设处理实际烹调，App则提供文字、视频与通知。硬件与软件分工把操作说明从纸质手册转成可随任务查看的内容。",
+    "usage": "用户挑选适合食材的食谱，按图文或视频准备，再将相应烹调安排发送给烤箱。过程中查看手机通知或按兼容条件使用语音控制。结束后取出食物并清洁炉腔，食谱指导虽然连贯，准备和实际熟度仍需用户判断。",
+    "significance": "它的代表性在于将厨房电器的使用知识与控制参数连接。食谱不再只是旁边一本参考书，还能参与设备设置与进度反馈；这种设计把新菜学习、操作和设备更新结合，也让家电价值部分依赖持续的软件内容。",
+    "limitationsNarrative": "联网食谱和远程功能依赖服务、账户与网络，长期支持需要一并考虑。自动流程不能判断所有食材差异或替代安全看护；用户仍应按实际份量、容器和食物状态检查结果，不能将食谱成功承诺理解为无条件保证。"
+  },
+  {
+    "slug": "kenwood-titanium-chef-baker-xl-kitchen-machine-range",
+    "name": "Titanium Chef Baker XL",
+    "brand": "Kenwood",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/kenwood-titanium-chef-baker-xl-kitchen-machine-range/"
+    },
+    "productUrl": "https://www.kenwoodworld.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "C形机架围绕搅拌碗和旋钮两条轴线组织",
+      "可换PopTop顶部件提供配色选择"
+    ],
+    "functionDetails": [
+      "EasyWeigh电子秤可在碗中直接称量",
+      "数字控制电机按搅拌任务调整"
+    ],
+    "limitations": [
+      "双碗配置在页面明确限KVL85004SI，不能泛指全系列",
+      "不同配件需要分别考虑收纳与清洗"
+    ],
+    "whyRepresentative": "将烘焙中的称量和搅拌合为连续工作步骤。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/kenwood-titanium-chef-baker-xl-kitchen-machine-range/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；C shape/two axes、EasyWeigh、1200W digital motor、PopTop；7L+5L bowls仅KVL85004SI。"
+      }
+    ],
+    "context": "烘焙常在电子秤、配料碗和搅拌机之间反复转移材料。Titanium Chef Baker XL把称量加入搅拌机，并围绕碗和控制旋钮安排主要结构，使用户能按食谱连续加入配料，而不必为每一步另找称重位置。",
+    "design": "C形机架保持Kenwood的识别，操作围绕搅拌碗和旋钮两条轴线组织。内置EasyWeigh允许在碗中直接称料，数字控制电机适应不同混合任务，顶部可换彩色盖板；功能与外观都留出符合个人厨房的选择。",
+    "usage": "用户装好适合工具，将碗放入机身并逐项称入原料，再选择速度开始搅拌。需要多阶段配方时按配置使用不同碗或配件，避免先完成的材料无处安放。结束后拆洗接触食物的部分，让称重和搅拌区域恢复干净。",
+    "significance": "它把准备动作合并到一个稳定台面，而不只是增加电机功率。直接称重减少容器转移，统一轴线让操作集中，可换顶盖又承认机器会长期留在厨房；设备因此同时服务配方流程和日常空间中的个人选择。",
+    "limitationsNarrative": "不同版本的碗与附件配置有差别，双碗说明不能不加区分套给整个系列。内置秤也要按规定归零和承重，不能忽略材料在其他容器中的重量；食材份量、工具和速度仍须匹配，直接称入不意味着可以一次任意混合。"
+  },
+  {
+    "slug": "kenwood-chefette-hand-stand-mixer",
+    "name": "Chefette Hand & Stand Mixer",
+    "brand": "Kenwood",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/kenwood-chefette-hand-stand-mixer/"
+    },
+    "productUrl": "https://www.kenwoodworld.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "搅拌主体可手持或固定在带碗支架",
+      "机身绕线与防误弹出机构处理收纳和操作"
+    ],
+    "functionDetails": [
+      "手持时可使用自选容器",
+      "固定后持续打发、搅拌或揉捏，慢速启动减少飞溅"
+    ],
+    "limitations": [
+      "手持与固定模式都需选择适合份量和稠度",
+      "小型组合不代替所有大型搅拌机任务"
+    ],
+    "whyRepresentative": "同一电机主体在两种烘焙动作之间转换。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/kenwood-chefette-hand-stand-mixer/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Winner；dual purpose、650W DC、SureEject、Slow Speed Start、variable speeds/pulse、integrated cord wrap。"
+      }
+    ],
+    "context": "入门烘焙者可能需要手持搅拌的自由，也想在持续打发时腾出手准备其他原料。Chefette把手持机与带碗支架组合，让同一个动力主体在两种方式之间转换，适合不想先占用一台大型厨师机的厨房。",
+    "design": "主体固定到支架时维持C形家族外观，取下后保留握柄操作。慢速启动减少粉料飞溅，防误弹出机构处理工具释放，机身绕线便于收起。设计不仅关注搅拌中转动，也照顾拿起、放下和拆换工具的动作。",
+    "usage": "用户可手持主体在自选容器中工作，也可装到支架上持续打发、搅拌或揉捏。启动时从适合速度开始，需要取下工具时使用规定释放方式。两种形态切换后检查连接和稳定，避免只因主体通用就省略组装确认。",
+    "significance": "Chefette把组合式家电的价值落在任务变化上：短时操作由手持承担，较长混合交给支架。它没有要求用户一开始就选择某种固定烘焙方式，而是保留成长空间，让同一台小型设备跟随配方和操作熟悉程度变化。",
+    "limitationsNarrative": "手持与固定模式仍都有适用份量和稠度，不能把支架加入理解为可处理所有大型厨师机任务。长时间手持也会产生负担，须按自身情况安排；慢速和防误释放有助于操作，但不能替代正确装配、断电拆洗与日常维护。"
+  },
+  {
+    "slug": "whill-model-c2-personal-mobility",
+    "name": "Model C2 Personal Mobility",
+    "brand": "WHILL",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Award of the Year",
+      "url": "https://good-design.org/projects/whill-model-c2-personal-mobility/"
+    },
+    "productUrl": "https://whill.inc/",
+    "category": "care",
+    "designDetails": [
+      "大尺寸全向轮以轮缘滚子处理狭窄转向",
+      "可拆机体方便车尾箱装载和紧凑存放"
+    ],
+    "functionDetails": [
+      "电动代步帮助行动不便者移动",
+      "手机App查看电量、锁车并调整速度"
+    ],
+    "limitations": [
+      "路线仍须符合设备允许的障碍和地形条件",
+      "拆装与搬运应按个人能力安排"
+    ],
+    "whyRepresentative": "将行动辅助器的物理通行能力与使用者主动姿态一起设计。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/whill-model-c2-personal-mobility/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Award of the Year；large omni-wheels/rollers、disassembly、companion app battery/range/lock/remote drive。"
+      }
+    ],
+    "context": "行动不便者的出门障碍既可能是路口台阶，也可能来自辅助器材带来的被动形象。WHILL Model C2把个人代步设备的通行结构、坐姿语言和可拆运输放在一起，希望让日常购物与社交更容易由使用者主动安排。",
+    "design": "大尺寸全向轮通过轮缘滚子处理侧向移动和紧凑转弯，机身姿态强调主动坐姿。可拆结构便于放入车辆尾箱或存放，手机连接则把电量、锁定和速度设置带到随身界面，让机械通行与信息管理互相配合。",
+    "usage": "使用者按自身能力和场景调整设备，先确认电量与路线，再进行室内外移动。需要车辆运输时按说明拆分和装载，到达后重新确认组装。App可以查看状态或执行相应远程操作，但实际通行仍应观察障碍与周围人员。",
+    "significance": "它将辅助移动器材视为参与生活的个人设备，而不只是代替行走的医疗形象。全向轮回应狭窄空间，拆装回应跨地点出行，主动外形则关心使用者感受；这些层次一起决定人是否愿意并能够继续扩大活动范围。",
+    "limitationsNarrative": "全向轮并不等于可以跨越任何路面，坡度、障碍和载重应严格按设备允许条件判断。可拆也不自动代表每个人都能独自搬运，各模块重量与车内空间须匹配；路线规划和补电仍是自主出行中需要认真安排的部分。"
+  },
+  {
+    "slug": "cochlear-nucleus-kanso-2-sound-processor",
+    "name": "Nucleus Kanso 2 Sound Processor",
+    "brand": "Cochlear",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/cochlear-nucleus-kanso-2-sound-processor-2/"
+    },
+    "productUrl": "https://www.cochlear.com/",
+    "category": "care",
+    "designDetails": [
+      "离耳佩戴的一体机身以轻敲操作取代按钮",
+      "充电底座将感应充电和干燥结合"
+    ],
+    "functionDetails": [
+      "作为耳蜗植入系统的外部声音处理器",
+      "兼容手机可直传通话与音频，App管理设置"
+    ],
+    "limitations": [
+      "需与相应耳蜗植入系统及专业调试配合",
+      "手机直传需要兼容设备，不能按普通蓝牙耳机理解"
+    ],
+    "whyRepresentative": "把声音处理、佩戴和日常充电维护缩进同一听觉辅助系统。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/cochlear-nucleus-kanso-2-sound-processor-2/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Engineering Gold；off-the-ear、tap/auto on/off、inductive charge/dry、compatible smartphone direct stream、ForwardFocus。"
+      }
+    ],
+    "context": "耳蜗植入者的外部声音处理器需要每天佩戴、补电并与沟通设备连接。Kanso 2采用离耳一体形式，将声音处理、可充电电池和手机功能组织到小机身，让听觉辅助适应工作、家庭联系和日常维护的连续需要。",
+    "design": "无按钮表面以轻敲和自动开关组织操作，两只麦克风协同采集声音。感应充电底座还能同时干燥，电池与处理线路靠近布置；离耳形式减少耳部周围附件，与手机直传共同改变设备和身体、外部声音的关系。",
+    "usage": "使用者经过专业配适后佩戴处理器，按个人设置接收声音，兼容手机可直接传入通话与娱乐音频。结束使用时放到相应充电干燥底座，查看状态并按指导维护。App帮助调整和查看信息，持续佩戴仍需专业支持。",
+    "significance": "它展示听觉辅助不只取决于声音算法，还由佩戴、充电和连接方式共同决定。离耳结构改变外部附件的位置，轻敲减少小按钮操作，充电干燥结合则缩短日常维护步骤；设备更容易进入生活，也保留专门医疗系统属性。",
+    "limitationsNarrative": "处理器必须与相应耳蜗植入系统和专业调试配合，不能按普通耳机理解用途。直传依赖兼容手机，防水和充电也有具体条件；个人听觉表现及适应过程不同，获奖与功能介绍都不能代替专业评估和持续随访。"
+  },
+  {
+    "slug": "hp-chromebase-aio",
+    "name": "Chromebase AIO",
+    "brand": "HP",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/hp-chromebase-aio/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "矩形屏幕与圆锥底座形成共享桌面设备",
+      "屏幕可在横向和纵向间旋转"
+    ],
+    "functionDetails": [
+      "触控与语音允许临时查询而不展开键鼠",
+      "ChromeOS提供多人家庭计算与Android应用入口"
+    ],
+    "limitations": [
+      "系统应用和服务需符合ChromeOS支持范围",
+      "公共位置使用应安排好个人账户与隐私"
+    ],
+    "whyRepresentative": "电脑不再只对应坐下专注使用，也承担路过时的家庭查询。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-chromebase-aio/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Gold；rectangle/cone、portrait rotation、touch/microphones、ChromeOS/Android apps、communal placement。"
+      }
+    ],
+    "context": "家庭共享电脑不总被用来长时间坐着工作，也可能承担查询食谱、短时视频通话或路过时的语音任务。Chromebase以一体机和智能音箱之间的形态回应这些用途，让屏幕能进入厨房台面、桌子或公共位置。",
+    "design": "矩形屏幕立在圆锥底座上，底座兼顾稳定和较小占地。屏幕可以从横向旋到纵向，麦克风与触屏允许不展开键鼠也能操作；外部几何形态和ChromeOS界面一起让电脑不必始终对应一个专用办公座位。",
+    "usage": "家庭成员可按任务使用语音、触控或键鼠，阅读长页面时把屏幕转到纵向，视频沟通时再调整方向。公共位置使用应切换正确账户，确认麦克风和内容权限。任务结束后收好输入附件，让台面继续服务其他活动。",
+    "significance": "它把计算机看作能临时加入生活流程的辅助工具。旋转屏适应不同内容，锥形底座减少家具式支架的复杂感，触控与语音又服务短时操作；这种设计延续共享家庭电脑，却改变了必须坐下展开工作的一贯关系。",
+    "limitationsNarrative": "ChromeOS的应用范围与其他桌面系统不同，需要先确认所需软件和服务。语音操作受环境与设置影响，共享位置也更需要账户和隐私管理；屏幕能旋转并不保证每款应用都有合适竖屏界面，用户仍应按任务选择姿态。"
+  },
+  {
+    "slug": "hp-reverb-g2-omnicept-edition-vr-headset",
+    "name": "Reverb G2 Omnicept Edition VR Headset",
+    "brand": "HP",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/hp-reverb-g2-omnicept-edition-vr-headset/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "immersive",
+    "designDetails": [
+      "头显中加入眼动、瞳孔和心率等传感",
+      "面向反复佩戴与清洁设计外部材料"
+    ],
+    "functionDetails": [
+      "双眼显示VR训练与协作场景",
+      "生理数据可供开发者分析训练参与状态"
+    ],
+    "limitations": [
+      "需配合主机和专门软件",
+      "传感分析不能直接当作对心理或医学状态的确定诊断"
+    ],
+    "whyRepresentative": "让VR头显同时成为显示器与观察使用者反应的输入设备。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-reverb-g2-omnicept-edition-vr-headset/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Gold；heart rate/eye tracking/pupillometry、2160x2160 each eye、training data、ABS sanitizing wipes。"
+      }
+    ],
+    "context": "虚拟现实训练不只希望显示情境，也想理解学习者在任务中怎样反应。Reverb G2 Omnicept Edition在头显中加入眼动、瞳孔和心率等传感，让开发者把观察使用者的输入与向使用者呈现的虚拟画面连接起来。",
+    "design": "双眼显示与多种传感器集中在佩戴结构里，外部材料考虑重复清洁和持续使用。眼动与生理数据进入相应分析工具，面部信息可服务协作表达；同一头显因此同时向身体输出影像，并从身体取得反馈信号。",
+    "usage": "机构或开发者先建立相应训练软件与主机连接，再为使用者调整佩戴。任务进行时采集允许的数据，之后结合训练目标分析表现。数据如何解释需要具体方法，实际使用还包括清洁、轮换佩戴和管理个人信息的流程。",
+    "significance": "它让头显从显示终端进一步成为双向观察设备。视觉内容建立情境，传感器记录反应，二者共同服务培训与协作研究；设计问题因而超出分辨率，还涉及传感位置、长时间佩戴和组织怎样使用取得的数据。",
+    "limitationsNarrative": "传感数据不能直接等同对情绪、认知或医学状态的确定诊断，分析需要相应模型和验证。头显也依赖主机、软件与佩戴条件，个人耐受程度不同；机构应明确数据用途并按实际训练与清洁安排使用，不能只凭功能列表判断效果。"
+  },
+  {
+    "slug": "blackmagic-atem-mini-extreme",
+    "name": "ATEM Mini Extreme",
+    "brand": "Blackmagic Design",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/blackmagic-atem-mini-extreme/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "imaging",
+    "designDetails": [
+      "切换处理器与实体面板合在小机身",
+      "左侧分组输入控制，右侧分组转场与录制"
+    ],
+    "functionDetails": [
+      "实时切换最多8路HDMI视频源",
+      "色键将人物视频叠加到虚拟背景"
+    ],
+    "limitations": [
+      "多机位制作仍需相机、线缆与监看安排",
+      "ISO版录制能力不能无区别套给基础Extreme"
+    ],
+    "whyRepresentative": "将多机位直播控制缩到小型团队的制作桌面。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-atem-mini-extreme/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Gold；8 HDMI、four upstream chroma keyers、hierarchical backlit controls、ISO model区别。"
+      }
+    ],
+    "context": "多机位直播过去常需要分离的处理机架和控制台，小型团队难以带到临时现场。ATEM Mini Extreme把视频切换处理和实体按键放进一个桌面机身，为教育、活动和网络内容制作组织更多机位而不扩成传统转播台。",
+    "design": "八路HDMI入口对应明确按键，视频与音频输入区和转场、效果、直播录制区按功能分组。背光帮助识别当前状态，色键功能支持人物与背景组合；处理器和操作面合在一起，让连线与切换能围绕同一机身安排。",
+    "usage": "制作人员连接相机、电脑演示或其他视频源，检查各路画面与声音后开始切换。常用转场可由面板执行，较深入设置通过电脑软件处理。直播之前仍应排练来源顺序和备用方案，避免到现场才发现接口或内容不匹配。",
+    "significance": "它体现广播控制从大型设施向独立创作者工作桌的转移。多输入、实体分组和内置处理让小团队更容易形成完整节目，而不是只开单一摄像头；产品价值由实时操作与部署效率共同构成，仍保留专业制作的逻辑。",
+    "limitationsNarrative": "多机位仍需要相机、线缆、监看和稳定供电，集成切换器不会自动完成整场节目。基础Extreme与ISO版能力也应区分，不能借用另一版本的独立录制说明；网络直播还依赖连接和平台条件，应在正式活动前核实。"
+  },
+  {
+    "slug": "liquid-instruments-mokugo",
+    "name": "Moku:Go",
+    "brand": "Liquid Instruments",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/liquid-instruments-mokugo/"
+    },
+    "productUrl": "https://www.liquidinstruments.com/",
+    "category": "making",
+    "designDetails": [
+      "便携盒体将多种仪器共用硬件平台",
+      "Wi-Fi热点和USB-C让连接可按实验位置安排"
+    ],
+    "functionDetails": [
+      "整合示波器、信号源等8种仪器",
+      "模拟和16路数字I/O用于课堂与宿舍实验"
+    ],
+    "limitations": [
+      "不同仪器仍受同一硬件通道与带宽约束",
+      "不能把多种模式视为无限台独立仪器"
+    ],
+    "whyRepresentative": "使电子实验从固定实验室工作台进入可带走的学习工具包。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/liquid-instruments-mokugo/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；8 instruments、backpack、WiFi hotspot/USB-C、2 in/2 out、16 digital I/O。"
+      }
+    ],
+    "context": "电子课程若只能在实验室使用大型仪器，学生离开工作台就难继续动手。Moku:Go将多种测试功能放在可装进背包的平台内，由软件组织仪器界面，让课堂、宿舍与远程学习都能接续相近的实际测量任务。",
+    "design": "同一硬件提供模拟输入输出和数字接口，软件切换示波器、信号源、逻辑分析等八种仪器。无线热点与USB-C让连接随位置安排，紧凑盒体减少桌面设备数量；输入、输出和界面的分工代替多台独立仪器并排堆放。",
+    "usage": "学生接好被测电路，在软件中选择相应仪器并查看或生成信号。完成一个任务后可以切换模式继续实验，不必搬动多台设备。使用前仍应按接口和电气条件检查电路，让便携平台服务学习，而不是绕过测量安全与接线知识。",
+    "significance": "Moku:Go把实验室的一部分能力变成可带走的学习资源。仪器模式共用硬件，软件界面承担熟悉的触控或图形操作；代表性在于测量地点不再完全由设备体积决定，学生能在不同场所继续验证电路概念。",
+    "limitationsNarrative": "多种模式共享同一套通道与硬件资源，不能当成无数量限制的独立仪器。不同测试还应核对带宽、采样与电气范围，电源配置也有版本差异；软件便利不会代替理解地线、输入保护和实验对象本身的工作条件。"
+  },
+  {
+    "slug": "liquid-instruments-mokupro",
+    "name": "Moku:Pro",
+    "brand": "Liquid Instruments",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/liquid-instruments-mokupro/"
+    },
+    "productUrl": "https://www.liquidinstruments.com/",
+    "category": "making",
+    "designDetails": [
+      "FPGA可重新划分为多个仪器功能区",
+      "同芯片内连接降低外部仪器连线与同步需求"
+    ],
+    "functionDetails": [
+      "实时测量、生成、过滤和记录信号",
+      "可将数据送到内置SSD或网络接口"
+    ],
+    "limitations": [
+      "仪器组合受硬件资源与对应软件支持限制",
+      "自定义功能需要相应工程知识"
+    ],
+    "whyRepresentative": "把测试仪器由固定用途机器转为可配置测量平台。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/liquid-instruments-mokupro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；software defined instrumentation、reconfigurable FPGA/instrument slots、Cloud Compile、SSD/Ethernet/USB-C/WiFi。"
+      }
+    ],
+    "context": "科研与工程测量常在多台独立仪器之间连接信号，还要处理同步和空间占用。Moku:Pro以软件定义仪器为思路，将可重构逻辑用于测量、生成和处理，使一套硬件能围绕实验任务重新组织功能与信号路径。",
+    "design": "FPGA内部可划分成运行不同仪器的功能区，多个模块在同一芯片中互相连接。高速接口和内置存储承接数据流，用户也可借相应工具加入定制处理；外部机箱保持不变，内部工作关系却能随着软件配置变化。",
+    "usage": "工程人员选择需要的仪器组合，安排输入输出和内部信号链，再观察或记录结果。需要专用过滤或控制时，可在支持条件下开发定制功能。配置改变之后应重新核对范围与路径，避免把软件切换当成不需验证的物理接线替代。",
+    "significance": "它把仪器理解为可重新组合的计算资源，而不是一台机器只能承担一种用途。芯片内部连接减少部分外部同步和连线问题，软件定义又允许实验方案变化；设计价值来自测量系统怎样随问题重组，而非只缩小机箱。",
+    "limitationsNarrative": "可配置能力仍受具体硬件、软件许可和资源限制，自定义处理也需要相应工程知识。内部共享时钟不代表所有实验误差都消失，信号范围和校准仍要核实；数据记录与传输还取决于所选接口和存储条件，应按任务验证。"
+  },
+  {
+    "slug": "kenwood-titanium-chef-patissier-xl-kitchen-machine",
+    "name": "Titanium Chef Patissier XL",
+    "brand": "Kenwood",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Best in Class",
+      "url": "https://good-design.org/projects/kenwood-titanium-chef-patissier-xl-kitchen-machine/"
+    },
+    "productUrl": "https://www.kenwoodworld.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "7L加温碗与5L嵌套碗组织烘焙步骤和收纳",
+      "抬起机头时称重屏幕自动旋转"
+    ],
+    "functionDetails": [
+      "低温加热可醒面和融化巧克力",
+      "电子称量与触屏预设协助多步骤烘焙"
+    ],
+    "limitations": [
+      "热碗与搅拌工具仍须按食谱和份量使用",
+      "嵌套减少收纳占地但不减少需要清洗的部件"
+    ],
+    "whyRepresentative": "让称重、加温和搅拌在同一台烘焙设备上连续进行。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/kenwood-titanium-chef-patissier-xl-kitchen-machine/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Best in Class；7L EasyWarm、5L nested bowl、EasyWeigh display rotation、2.4inch BakeAssist、6 presets。"
+      }
+    ],
+    "context": "烘焙常需要先称量，再加温融化或醒面，最后继续混合。Titanium Chef Patissier XL把低温加热、电子称量和搅拌放到一台设备上，面向需要反复切换步骤的家庭烘焙，让准备与加工更容易连续进行。",
+    "design": "七升加温碗和可嵌套的五升碗分别服务不同阶段，双把手帮助取放。抬起机头时称重显示自动旋转，触屏集中预设与手动控制；结构既处理食材温度，也处理用户在取碗、加料和观察数据时的身体动作。",
+    "usage": "用户按配方称入材料，选择需要的加温或搅拌任务，再逐步完成醒面、融化或混合。多碗配置为不同材料保留容器，结束后小碗可套入大碗收纳。自动预设帮助重复操作，但仍须根据配方顺序和食材状态检查进展。",
+    "significance": "它让搅拌机从单纯动力工具扩展为烘焙步骤的组织中心。加温碗、秤和可读屏幕分别减少转移、称量与查看的不便，组合后使复杂配方更连贯；代表性来自围绕烘焙动作整合功能，而不是只增加更多菜单。",
+    "limitationsNarrative": "加温与搅拌都要匹配食材、份量和工具，不能把预设当成任何配方都适用。多碗收纳减少占地，却仍需清洗并干燥接触食物的部件；用户还应留出机头抬起和热碗取放空间，避免只按台面底座尺寸决定摆放。"
+  },
+  {
+    "slug": "zip-hydrotap-touch-free-wave",
+    "name": "HydroTap Touch-Free Wave",
+    "brand": "Zip Water",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/zip-hydrotap-touch-free-wave/"
+    },
+    "productUrl": "https://www.zipwater.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "四只红外传感器整合进小直径龙头头部",
+      "LED提示手是否进入识别范围"
+    ],
+    "functionDetails": [
+      "挥手选择热水、冷水或气泡水",
+      "双传感器启动热水安全锁及连续灌瓶模式"
+    ],
+    "limitations": [
+      "需连接相应水处理和供电系统",
+      "非接触方式仍需理解不同传感位置与热水条件"
+    ],
+    "whyRepresentative": "电子感知为传统龙头重新设计选择与安全确认动作。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/zip-hydrotap-touch-free-wave/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；4 IR sensors、1.5-5cm、twin sensor boiling lock、15s bottle fill、touch stops flow。"
+      }
+    ],
+    "context": "公共饮水点希望减少触摸，但热水又必须有明确安全确认。HydroTap Touch-Free Wave把红外感知放到现有龙头形态中，用不同手势位置选择饮水，并为热水和持续灌瓶设置双传感器动作，平衡便利与误触防范。",
+    "design": "四个红外传感器在小直径头部中分开工作，LED提示手是否进入有效范围。微加热除雾和信号补偿回应蒸汽、光线与表面变化，碰触龙头时又停止出水；外形保持简洁，内部需要处理的环境条件却相当具体。",
+    "usage": "用户在相应位置挥手或停留选择冷水、气泡水，热水则按要求同时触发两个传感器。灌瓶模式可持续一段时间，减少一直保持手势的负担。首次使用应先理解指示图标与范围，再把杯瓶放到合适位置确认出水。",
+    "significance": "它将传统龙头的拉杆动作转成非接触选择，又用双重动作保留热水确认。电子感知不是简单替换开关，而要处理蒸汽、反光和不同使用者的动作；设备因此展示了家电界面怎样与公共环境和可及性结合。",
+    "limitationsNarrative": "非接触操作仍需要理解传感位置，不能把挥手设计理解成任何动作都会被正确识别。设备需配套供水、加热与电气安装，热水仍有风险；环境和维护会影响传感状态，使用与清洁都应遵守相应说明和安全条件。"
+  },
+  {
+    "slug": "kenwood-cooking-chef-xl-premium-kitchen-machine",
+    "name": "Cooking Chef XL",
+    "brand": "Kenwood",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/kenwood-cooking-chef-xl-premium-kitchen-machine/"
+    },
+    "productUrl": "https://www.kenwoodworld.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "感应加热与C形搅拌架整合",
+      "4.3英寸触屏与旋转称重画面配合机头动作"
+    ],
+    "functionDetails": [
+      "20至180°C温区支持醒面到加热烹调",
+      "内置秤与App食谱组织配料和操作"
+    ],
+    "limitations": [
+      "高温、搅拌与配件需按适用食谱安排",
+      "联网指导不能替代食材准备与清洁"
+    ],
+    "whyRepresentative": "将食物准备和加热烹调纳入同一受控搅拌容器。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/kenwood-cooking-chef-xl-premium-kitchen-machine/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；induction stand mixer 20-180°C、EasyWeigh、rotating weighing display、CookAssist4.3、KenwoodWorld App。"
+      }
+    ],
+    "context": "食物准备和加热常由不同家电完成，途中需要搬锅、称料和再设温度。Cooking Chef XL把感应加热加入搅拌机，并连同电子秤和食谱界面组织，让从处理原料到加热完成的一部分过程在同一容器里衔接。",
+    "design": "C形机架围绕碗和旋钮排列主要功能，感应系统提供从低温醒面到较高温烹调的范围。称重显示随抬头动作旋转，触屏承接手动设置与预设；加热、动力和可读界面共同决定用户怎样连续加入与处理材料。",
+    "usage": "用户选择适合工具与食谱，在机内称入原料，再安排温度和搅拌方式。App可提供食谱与操作灵感，触屏用于修改设置或进入预设。过程中观察实际食材，完成后拆下相关部件清洁，让热加工和备餐仍保持明确边界。",
+    "significance": "它把厨师机从冷加工和烘焙动力进一步扩展到可控加热。内置秤减少原料转移，感应加热减少部分换锅步骤，界面又把多种模式放到同一位置；设计的代表性在于重新安排操作链，而不是把多台机器简单叠在一起。",
+    "limitationsNarrative": "多功能并不意味着所有菜式都适合在同一碗中完成，份量、工具与温度应依食谱和说明选择。高温加工还需要注意取碗与清洁条件；联网指导只是辅助，实际熟度、食材差异和工作区安全仍由使用者持续判断。"
+  },
+  {
+    "slug": "delonghi-la-specialista-maestro-premium-manual-espresso-machine",
+    "name": "La Specialista Maestro",
+    "brand": "De’Longhi",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/delonghi-la-specialista-maestro-premium-manual-espresso-machine/"
+    },
+    "productUrl": "https://www.delonghi.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "压粉杆、LED旋钮和奶壶形成可见操作区域",
+      "拉丝不锈钢与黑玻璃统一机身材质语言"
+    ],
+    "functionDetails": [
+      "感应磨豆与辅助压粉协助准备粉饼",
+      "手动蒸汽棒与自动奶系统供两种奶泡操作"
+    ],
+    "limitations": [
+      "保留手工流程仍需选择研磨与熟悉萃取",
+      "奶系统和粉路使用后需要维护"
+    ],
+    "whyRepresentative": "在半手工咖啡中让自动化程度由用户的具体动作选择。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/delonghi-la-specialista-maestro-premium-manual-espresso-machine/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；Smart Tamping Station、Sensor Grinding、Thermoblock、My Latte Art/Lattecrema dual milk。"
+      }
+    ]
+  },
+  {
+    "slug": "jura-z10-automatic-coffee-machine",
+    "name": "Z10 Automatic Coffee Machine",
+    "brand": "JURA",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/jura-z10-automatic-coffee-machine/"
+    },
+    "productUrl": "https://au.jura.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "凹凸前面板配合触屏和旋钮",
+      "磨豆锥体按所选饮料自动改变研磨粗细"
+    ],
+    "functionDetails": [
+      "同机制作热饮与冷萃饮料",
+      "冷水脉冲加压通过咖啡粉进行冷萃"
+    ],
+    "limitations": [
+      "冷萃流程与传统长时间浸泡方式不同",
+      "自动制作仍要维护豆仓、水箱及奶系统"
+    ],
+    "whyRepresentative": "把冷热饮料的不同加工条件交给内部研磨和萃取控制。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/jura-z10-automatic-coffee-machine/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；P.R.G recognises product/adjust grind cone、Cold Extraction Process、4.3touch/Rotary Switch；未采用错误的首台全自动宣称。"
+      }
+    ]
+  },
+  {
+    "slug": "gainsborough-freestyle-electronic-trilock",
+    "name": "Freestyle Electronic Trilock",
+    "brand": "Gainsborough",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/gainsborough-freestyle-electronic-trilock/"
+    },
+    "productUrl": "https://www.gainsboroughhardware.com.au/",
+    "category": "smart-home",
+    "designDetails": [
+      "在原机械Trilock把手形态中加入电子控制",
+      "实体键盘、手动钥匙与App提供多种入口"
+    ],
+    "functionDetails": [
+      "保持通行、隐私与双侧锁定三种状态",
+      "可分用户设置权限和有效时间窗"
+    ],
+    "limitations": [
+      "远程管理需要Wi-Fi Bridge及门传感器",
+      "锁具安装与状态选择须符合房门和使用场景"
+    ],
+    "whyRepresentative": "电子门锁保留机械门锁的明确状态并扩展授权方式。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/gainsborough-freestyle-electronic-trilock/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；3 modes、keypad/Bluetooth/manual override、up to20users/time windows、WiFi Bridge/door sensor。"
+      }
+    ]
+  },
+  {
+    "slug": "cook4me-touch-wifi",
+    "name": "Cook4me Touch Wi-Fi",
+    "brand": "Tefal",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/cook4me-touch-wifi/"
+    },
+    "productUrl": "https://www.tefal.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "可旋转彩色触屏在机身上呈现步骤",
+      "多功能烹调容器与食谱界面共同设计"
+    ],
+    "functionDetails": [
+      "压力烹调配合逐步屏幕指导",
+      "Wi-Fi同步新食谱并在手机查看进度"
+    ],
+    "limitations": [
+      "联网食谱依赖服务支持",
+      "准备食材、处理压力和清洁仍需依说明操作"
+    ],
+    "whyRepresentative": "把电压力锅的操作从选择模式延伸到整道菜的引导。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/cook4me-touch-wifi/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；swiveling touch screen、step-by-step、smart pressure release、2/4/6 person tailoring、App monitoring。"
+      }
+    ]
+  },
+  {
+    "slug": "the-3x-bluicer-pro",
+    "name": "the 3X Bluicer Pro",
+    "brand": "Breville",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/the-3x-bluicer-pro/"
+    },
+    "productUrl": "https://www.breville.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "搅拌与榨汁配件共用单输出动力底座",
+      "由双输出方案简化以减少台面占用"
+    ],
+    "functionDetails": [
+      "Kinetix搅拌处理混合饮品",
+      "Cold Spin榨汁可与搅拌流程组合"
+    ],
+    "limitations": [
+      "两类配件使用前仍需切换和组装",
+      "共用底座不表示两套机构可同时工作"
+    ],
+    "whyRepresentative": "以共用动力而非堆叠两台电器连接榨汁和搅拌。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/the-3x-bluicer-pro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Gold；Kinetix/Cold Spin、common powerbase、initial dual output changed to single output after user research。"
+      }
+    ]
+  },
+  {
+    "slug": "zebra-technologies-rs2100-wearable-scanner",
+    "name": "RS2100 Wearable Scanner",
+    "brand": "Zebra Technologies",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/zebra-technologies-rs2100-wearable-scanner/"
+    },
+    "productUrl": "https://www.zebra.com/",
+    "category": "input-printing",
+    "designDetails": [
+      "低矮扫描模块放在手背，掌心保持空出",
+      "食指旁集成扳机并用可换绑带固定"
+    ],
+    "functionDetails": [
+      "抓取货物时直接完成条码扫描",
+      "左右手各一款减少寻找不同尺寸的步骤"
+    ],
+    "limitations": [
+      "佩戴位置仍需按左右手和手套情况调整",
+      "绑带属于反复摩擦的可维护部件"
+    ],
+    "whyRepresentative": "扫描器从手中握持工具变成不妨碍抓取的穿戴输入。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/zebra-technologies-rs2100-wearable-scanner/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；palm free low profile、index finger trigger/no cables、left/right SKUs、replaceable strap。"
+      }
+    ]
+  },
+  {
+    "slug": "zebra-wt6400",
+    "name": "WT6400 Wearable Computer",
+    "brand": "Zebra Technologies",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/wt6400-wt5400-wearable-computer/"
+    },
+    "productUrl": "https://www.zebra.com/",
+    "category": "computers",
+    "designDetails": [
+      "倾斜屏幕和22度相机角度分配腕部重量",
+      "屏幕下集成键区兼顾左右手与厚手套"
+    ],
+    "functionDetails": [
+      "手腕上显示拣货、分类和库存信息",
+      "双按钮电池和快拆腕座便于轮班维护"
+    ],
+    "limitations": [
+      "需要匹配企业工作系统和佩戴配置",
+      "奖项同列WT5400，具体本条细节按正文WT6400"
+    ],
+    "whyRepresentative": "将仓储电脑的显示、输入和维护设计到重复劳动的手臂姿态中。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/wt6400-wt5400-wearable-computer/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner WT6400/WT5400 group；正文WT6400 camera22°、integrated keypad、gloves、dual-button battery、one-button mount。"
+      }
+    ]
+  },
+  {
+    "slug": "v500-body-camera",
+    "name": "V500 Body Camera",
+    "brand": "Motorola Solutions",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/v500-body-camera/"
+    },
+    "productUrl": "https://www.motorolasolutions.com/",
+    "category": "imaging",
+    "designDetails": [
+      "兼容Klick Fast穿戴安装体系",
+      "正面突出录制键并提供振动、声音和LED反馈"
+    ],
+    "functionDetails": [
+      "LTE、Wi-Fi与蓝牙连接现场系统",
+      "可由相应电台、车辆或其他触发条件自动开始录制"
+    ],
+    "limitations": [
+      "实时传输受网络覆盖影响",
+      "组织必须配置触发与证据管理流程"
+    ],
+    "whyRepresentative": "随身摄像机从单机记录器成为事件响应设备网络的一部分。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/v500-body-camera/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；Klick Fast、prominent Record、LTE/WiFi/BT、automatic triggers、configurable feedback。"
+      }
+    ]
+  },
+  {
+    "slug": "motium-mpp-1227-tuff-panel-pc",
+    "name": "MPP-1227 TUFF+ Panel PC",
+    "brand": "Motium",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/motium-mpp-1227-tuff-panel-pc/"
+    },
+    "productUrl": "https://www.motium.com/",
+    "category": "computers",
+    "designDetails": [
+      "无风扇散热鳍片配合铝制外壳",
+      "可定制接口及针脚复用现有车载线缆"
+    ],
+    "functionDetails": [
+      "12.8英寸触屏为恶劣环境车辆提供计算界面",
+      "后备供电帮助断电时传送位置并关闭系统"
+    ],
+    "limitations": [
+      "具体无线模块和系统须按配置核对",
+      "车载安装要考虑震动、供电与可视位置"
+    ],
+    "whyRepresentative": "工业电脑的设计包含长期部署和接入旧车辆的实际条件。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/motium-mpp-1227-tuff-panel-pc/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；MPP1227、fanless fins、12.8inch PCAP、custom connectors、UPS shutdown/location。"
+      }
+    ]
+  },
+  {
+    "slug": "cellaed",
+    "name": "CellAED",
+    "brand": "Rapid Response Revival",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/cellaed/"
+    },
+    "productUrl": "https://cellaed.io/",
+    "category": "care",
+    "designDetails": [
+      "一体机身将电极片和电源等组合为可便携单元",
+      "正面三步骤提示以掰开、揭离和粘贴组织开启"
+    ],
+    "functionDetails": [
+      "开启后语音引导急救流程",
+      "IoT记录准备状态与使用事件数据"
+    ],
+    "limitations": [
+      "属于需要遵循急救规范和有效期的医疗设备",
+      "产品介绍不能替代正规训练与紧急呼救"
+    ],
+    "whyRepresentative": "在高压力情境中用明确的机械动作减少组装步骤。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/cellaed/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Gold；personal AED、Snap Peel Stick、voice prompts、integrated components、IoT readiness/event data。"
+      }
+    ]
+  },
+  {
+    "slug": "dexcom-g7-receiver",
+    "name": "G7 Receiver",
+    "brand": "Dexcom",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/dexcom-g7-receiver/"
+    },
+    "productUrl": "https://www.dexcom.com/",
+    "category": "care",
+    "designDetails": [
+      "小型机身表面纹理帮助握持",
+      "四象限实体按键提供可触知方向"
+    ],
+    "functionDetails": [
+      "接收G7连续血糖监测系统的数据",
+      "彩屏显示葡萄糖读数，提供不依赖手机的查看方式"
+    ],
+    "limitations": [
+      "接收器需配合G7传感系统",
+      "医疗决策须依产品说明与专业指导"
+    ],
+    "whyRepresentative": "为不使用智能手机的人保留独立健康数据终端。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/dexcom-g7-receiver/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；CGM receiver、VDI21 surface texture、four-quadrant button、full-color display、non-smartphone option。"
+      }
+    ]
+  },
+  {
+    "slug": "seavu-explorer-underwater-live-view-camera",
+    "name": "Explorer Underwater Live-View Camera System",
+    "brand": "SEAVU",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/seavu-explorer-underwater-live-view-camera/"
+    },
+    "productUrl": "https://seavu.com/",
+    "category": "imaging",
+    "designDetails": [
+      "防护壳容纳用户已有的运动相机",
+      "天线缆、卷盘与模块夹具支持多种部署方式"
+    ],
+    "functionDetails": [
+      "将水下运动相机画面传到船上手机或平板",
+      "配件支持漂流、拖行、海底或杆式观察"
+    ],
+    "limitations": [
+      "需另配兼容运动相机和移动设备",
+      "部署深度与操作必须按具体线缆及配件限制"
+    ],
+    "whyRepresentative": "复用现有相机与屏幕，把水下观察的难点集中到通信和部署结构。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/seavu-explorer-underwater-live-view-camera/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；action camera enclosure、Passive Extension Antenna、27m tether/reel、modular clip system。"
+      }
+    ]
+  },
+  {
+    "slug": "logitech-g-pro-racing-wheel-pedals",
+    "name": "G PRO Racing Wheel & Pedals",
+    "brand": "Logitech",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/logitech-g-pro-racing-wheel-pedals/"
+    },
+    "productUrl": "https://www.logitechg.com/",
+    "category": "gaming",
+    "designDetails": [
+      "方向盘直驱电机与TRUEFORCE反馈结合",
+      "踏板可换弹簧和弹性体改变手感"
+    ],
+    "functionDetails": [
+      "将游戏车辆、路面和电机信息转成力反馈",
+      "载荷传感刹车根据踩踏力输入制动"
+    ],
+    "limitations": [
+      "反馈效果取决于游戏和平台支持",
+      "轮盘及踏板需稳定安装并留出操作空间"
+    ],
+    "whyRepresentative": "把模拟驾驶的输入由角度和位移延伸到力和触觉。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/logitech-g-pro-racing-wheel-pedals/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Gold；direct drive/TRUEFORCE、load cell brake、replaceable springs/elastomers、configurable pedal layout。"
+      }
+    ]
+  },
+  {
+    "slug": "soundblade",
+    "name": "Soundblade MSB60",
+    "brand": "BlueAnt",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/soundblade/"
+    },
+    "productUrl": "https://blueant.com.au/",
+    "category": "players",
+    "designDetails": [
+      "低矮音箱同时作为显示器增高底座",
+      "机壳内置低音单元并留手机无线充电区"
+    ],
+    "functionDetails": [
+      "HDMI输入输出透传内容",
+      "USB-C音量同步并可自动切换新音源"
+    ],
+    "limitations": [
+      "显示器承重与接口适用性需按产品说明核对",
+      "无线充电需要兼容手机"
+    ],
+    "whyRepresentative": "将电脑声音系统藏进原本由显示器底座占据的桌面区域。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/soundblade/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；MSB60 monitor riser、low profile/subwoofer60W、wireless charging、HDMI passthrough、USB-C volume sync。"
+      }
+    ]
+  },
+  {
+    "slug": "goki-smartlock-pro",
+    "name": "SmartLock PRO",
+    "brand": "Goki",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/goki-smartlock-pro/"
+    },
+    "productUrl": "https://www.gokitech.com/",
+    "category": "smart-home",
+    "designDetails": [
+      "可充锂电池取代一次性电池维护",
+      "锁具适配多种门型，结合实体与数字入口"
+    ],
+    "functionDetails": [
+      "支持手机、NFC、门码和机械钥匙",
+      "与物业管理工具及访客App联动入住授权"
+    ],
+    "limitations": [
+      "需配套权限管理与相容物业系统",
+      "充电电池仍需要运营方安排维护"
+    ],
+    "whyRepresentative": "门锁不只执行开关，也成为住宿预订与到店流程的接口。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/goki-smartlock-pro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Gold；BLE/NFC/WiFi、DoorCode/Keycard/key、rechargeable Li-ion、Goki dashboard/Guest App。"
+      }
+    ]
+  },
+  {
+    "slug": "blackmagic-studio-camera-6k-pro",
+    "name": "Studio Camera 6K Pro",
+    "brand": "Blackmagic Design",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/blackmagic-studio-camera-6k-pro/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "imaging",
+    "designDetails": [
+      "大旋钮与功能键允许握住把手时调整",
+      "内置电动ND与直播硬件减少外围设备"
+    ],
+    "functionDetails": [
+      "6K传感器用于现场演唱会、体育及电视",
+      "以太网或USB-C手机连接进入远程直播"
+    ],
+    "limitations": [
+      "远程制作依赖网络和相容控制系统",
+      "镜头与最终输出条件影响实际画面"
+    ],
+    "whyRepresentative": "让转播摄像机面向分散机位和远程团队重新整合连接。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-studio-camera-6k-pro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；6K sensor/motorized ND、built-in streaming、Ethernet/USB-C mobile、oversized dials、active EF mount。"
+      }
+    ]
+  },
+  {
+    "slug": "blackmagic-atem-television-studio-hd8-iso",
+    "name": "ATEM Television Studio HD8 ISO",
+    "brand": "Blackmagic Design",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/blackmagic-atem-television-studio-hd8-iso/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "imaging",
+    "designDetails": [
+      "切换处理、控制面板和直播引擎装入单体",
+      "模块电路板使局部维修更直接"
+    ],
+    "functionDetails": [
+      "完成机位切换、音频混音和对讲控制",
+      "可录制多路输入供DaVinci Resolve后期编辑"
+    ],
+    "limitations": [
+      "现场仍要安排视频源、监看与稳定网络",
+      "手机联网受到数据服务和覆盖限制"
+    ],
+    "whyRepresentative": "把直播和后期衔接组织在便于外场部署的控制台里。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-atem-television-studio-hd8-iso/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；all-in-one、streaming/mobile tethering、modular boards、up to8input record into Resolve、talkback/audio。"
+      }
+    ]
+  },
+  {
+    "slug": "blackmagic-camera-zoom-and-focus-demands",
+    "name": "Camera Zoom and Focus Demands",
+    "brand": "Blackmagic Design",
+    "year": 2022,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2022,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/blackmagic-camera-zoom-and-focus-demands/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "input-printing",
+    "designDetails": [
+      "夹具与齿盘将两只控制器固定到三脚架手柄",
+      "拇指摇杆和带触点的大转环区分变焦与对焦"
+    ],
+    "functionDetails": [
+      "手不离支架即可遥控镜头",
+      "锁定USB接口连接Studio Camera并串接两控制器"
+    ],
+    "limitations": [
+      "需匹配相机和可控镜头",
+      "控制器不能让不兼容镜头凭空具备电动变焦"
+    ],
+    "whyRepresentative": "把精细镜头调节搬到摄影师握住云台的位置。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-camera-zoom-and-focus-demands/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2022 Gold；CNC clamps/rosettes、thumb rocker、focus control pins、lockable USB/daisychain、assignable buttons。"
+      }
+    ]
+  },
+  {
+    "slug": "blackmagic-videohub-80x80-12g",
+    "name": "Videohub 80×80 12G",
+    "brand": "Blackmagic Design",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/blackmagic-videohub-80x80-12g/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "imaging",
+    "designDetails": [
+      "机架式机身前面集成LCD、转盘和直接选择键",
+      "带电子离合的搜索转盘在列表末端提供阻挡反馈"
+    ],
+    "functionDetails": [
+      "将80路SDI输入输出按需路由",
+      "LCD同时显示名称及实时画面以确认信号"
+    ],
+    "limitations": [
+      "这是信号路由设备，不能按节目转场切换台理解",
+      "系统布线和格式需整体规划"
+    ],
+    "whyRepresentative": "大规模视频线路的连接关系被转成可浏览的实体界面。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-videohub-80x80-12g/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；80 SDI、19inch rack、front LCD/video labels、electronic clutch search dial、direct entry buttons。"
+      }
+    ]
+  },
+  {
+    "slug": "blackmagic-media-dock",
+    "name": "Media Dock",
+    "brand": "Blackmagic Design",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/blackmagic-media-dock/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "storage",
+    "designDetails": [
+      "三个可热换媒体模块插槽带锁扣和联锁开关",
+      "空槽弹簧门控制散热气流路径"
+    ],
+    "functionDetails": [
+      "四个10G以太网口让剪辑工作站直接访问素材",
+      "HDMI可把存储状态显示到监看屏"
+    ],
+    "limitations": [
+      "使用Blackmagic专用媒体模块",
+      "共享编辑速度仍受网络、存储和工作站能力影响"
+    ],
+    "whyRepresentative": "把摄影存储介质接入多人后期的交接步骤设计成机架设备。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-media-dock/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；3 modules、latch/micro switch、vacant-bay airflow door、4x10G、HDMI status、2RU。"
+      }
+    ]
+  },
+  {
+    "slug": "blackmagic-atem-1-m-e-advanced-panel-20",
+    "name": "ATEM 1 M/E Advanced Panel 20",
+    "brand": "Blackmagic Design",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/blackmagic-atem-1-m-e-advanced-panel-20/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "input-printing",
+    "designDetails": [
+      "20路来源键与动态标签组织输入",
+      "T形推杆和三轴摇杆分别处理转场与效果"
+    ],
+    "functionDetails": [
+      "通过实体控制相容ATEM切换器",
+      "两块5英寸LCD随选定功能显示参数"
+    ],
+    "limitations": [
+      "面板需搭配切换器，不能单独接所有摄影机完成制作",
+      "20路布局需要相应台面与操作学习"
+    ],
+    "whyRepresentative": "以固定位置的手部控制应对直播中迅速变化的多机位。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-atem-1-m-e-advanced-panel-20/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；20 inputs、scalloped buttons、dynamic labels、2x5inch LCD、T-bar、three-axis DVE。"
+      }
+    ]
+  },
+  {
+    "slug": "blackmagic-atem-1-m-e-advanced-panel-30",
+    "name": "ATEM 1 M/E Advanced Panel 30",
+    "brand": "Blackmagic Design",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/blackmagic-atem-1-m-e-advanced-panel-30/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "input-printing",
+    "designDetails": [
+      "30路输入提供直接可见的独立键位",
+      "凹面按键减轻反光，标签和照明可定制"
+    ],
+    "functionDetails": [
+      "手动推杆调整转场速度",
+      "可保存调用最多10套面板配置"
+    ],
+    "limitations": [
+      "更多直接键位相应增加桌面宽度",
+      "需配合ATEM切换器与节目制作系统"
+    ],
+    "whyRepresentative": "在大型现场制作中用更多实体位置换取减少翻页和菜单查找。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-atem-1-m-e-advanced-panel-30/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；30input、scalloped caps、custom button labels、10 panel setups、T-bar、DVE joystick。"
+      }
+    ]
+  },
+  {
+    "slug": "xbox-adaptive-joystick",
+    "name": "Xbox Adaptive Joystick",
+    "brand": "Microsoft Xbox",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/xbox-adaptive-joystick/"
+    },
+    "productUrl": "https://www.xbox.com/",
+    "category": "gaming",
+    "designDetails": [
+      "左右手均可用的单手摇杆带7个可映射按钮",
+      "1/4-20螺孔允许安装在支架或轮椅扶手"
+    ],
+    "functionDetails": [
+      "有线连接主机或PC输入模拟方向",
+      "通过Controller Assist与其他手柄共同完成操作"
+    ],
+    "limitations": [
+      "需按个人活动范围安排安装与按键映射",
+      "它是可组合输入，完整操作可能仍需其他控制器"
+    ],
+    "whyRepresentative": "将一只摇杆作为可配置模块，让控制器适应身体而非固定握法。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/xbox-adaptive-joystick/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Gold；ambidextrous/singlehand、7buttons、replaceableUSB、1/4-20 mount、Controller Assist。"
+      }
+    ]
+  },
+  {
+    "slug": "thermomix-tm7",
+    "name": "Thermomix TM7",
+    "brand": "Vorwerk",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/thermomix-tm7/"
+    },
+    "productUrl": "https://thermomix.com.au/",
+    "category": "kitchen",
+    "designDetails": [
+      "10英寸触屏与隔热不锈钢碗形成新操作布局",
+      "刀组锁定杆和滑动脚帮助拆装与移动"
+    ],
+    "functionDetails": [
+      "电机、加热及称重配合多种烹调模式",
+      "Cookidoo以图文步骤和配料预设引导烹调"
+    ],
+    "limitations": [
+      "联网食谱与订阅服务需要相应账户",
+      "一体碗容量和模式约束仍需配合食谱"
+    ],
+    "whyRepresentative": "烹调设备的硬件、界面和食谱被当作连续系统设计。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/thermomix-tm7/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Gold；10inch multitouch、insulated bowl、knife-lock lever/slider foot、rectangular Varoma、Cookidoo WiFi。"
+      }
+    ]
+  },
+  {
+    "slug": "nama-m1-plant-based-milk-maker",
+    "name": "M1 Plant Based Milk Maker",
+    "brand": "Nama",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Best in Class",
+      "url": "https://good-design.org/projects/nama-m1-plant-based-milk-maker-2/"
+    },
+    "productUrl": "https://namawell.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "将高速搅拌与离心过滤分为两机械阶段",
+      "接汁壶盖可兼作量杯，暗显点阵屏在启动后出现"
+    ],
+    "functionDetails": [
+      "先混合坚果谷物与水，再开出液口触发旋滤",
+      "抽出内笼时刮除滤壁果渣"
+    ],
+    "limitations": [
+      "仍需按食材选择配方并拆洗滤篮",
+      "分离后的残渣需由用户保存或处理"
+    ],
+    "whyRepresentative": "围绕植物奶的过滤和收拾步骤创造新家用电器形态。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/nama-m1-plant-based-milk-maker-2/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 BestinClass；two-stage blend/strain、precision etched filter、scraping cage、jug-lid measure、spout triggers spin。"
+      }
+    ]
+  },
+  {
+    "slug": "zeller-terminal-2",
+    "name": "Terminal 2",
+    "brand": "Zeller",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/zeller-terminal-2/"
+    },
+    "productUrl": "https://www.myzeller.com/",
+    "category": "input-printing",
+    "designDetails": [
+      "6.5英寸触屏在可手持或放台面的机身上",
+      "背部标志灯可用颜色和序列提供反馈"
+    ],
+    "functionDetails": [
+      "读取非接触或EMV芯片支付",
+      "内置POS并通过邮件、短信或二维码发电子收据"
+    ],
+    "limitations": [
+      "支付服务和网络需在支持地区及账户条件下使用",
+      "无打印机意味着顾客收据依赖电子取得方式"
+    ],
+    "whyRepresentative": "收款机由单一刷卡器变成商户销售和顾客交接界面。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/zeller-terminal-2/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；6.5inch、rear logo light、POS Lite、contactless/EMV、paperless receipts、WiFi/SIM/Ethernet。"
+      }
+    ]
+  },
+  {
+    "slug": "aqara-smart-lock-u300",
+    "name": "Smart Lock U300",
+    "brand": "Aqara",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/aqara-smart-lock-u300-enhanced-home-security/"
+    },
+    "productUrl": "https://www.aqara.com/",
+    "category": "smart-home",
+    "designDetails": [
+      "指纹和键盘整合进把手锁",
+      "电机与电池布局重新安排以缩减外形"
+    ],
+    "functionDetails": [
+      "支持指纹、PIN、手机和Apple home key解锁",
+      "Matter over Thread连接家庭自动化"
+    ],
+    "limitations": [
+      "门型与锁孔必须匹配安装条件",
+      "远程或跨平台功能需相应Thread/Matter基础设施"
+    ],
+    "whyRepresentative": "把门把手的握持动作和多种身份验证收在同一入口。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/aqara-smart-lock-u300-enhanced-home-security/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；lever-set、fingerprint/PIN/home key、Matter/Thread、motor/battery redesign。"
+      }
+    ]
+  },
+  {
+    "slug": "poly-studio-x32",
+    "name": "Studio X32",
+    "brand": "Poly",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/poly-studio-x32/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "imaging",
+    "designDetails": [
+      "摄像与音频整合进低视觉干扰的条形机身",
+      "PoE++供电减少本地单独电源线"
+    ],
+    "functionDetails": [
+      "智能取景识别会议参与者",
+      "噪声处理用于远程会议，搭配触控控制器操作"
+    ],
+    "limitations": [
+      "面向小会议空间，取景边界需管理员正确配置",
+      "需兼容网络、供电与会议平台"
+    ],
+    "whyRepresentative": "将小会议室的可部署性和日常操作一并简化。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/poly-studio-x32/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；all-in-one camera/audio、PoE++、DirectorAI boundary/framing、10inch controller/native apps。"
+      }
+    ]
+  },
+  {
+    "slug": "poly-voyager-legend-50",
+    "name": "Voyager Legend 50 UC",
+    "brand": "Poly",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/poly-voyager-legend-50/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "headphones",
+    "designDetails": [
+      "单耳式结构为移动通话保留一侧环境听觉",
+      "充电盒支持Qi无线充电并收纳耳机"
+    ],
+    "functionDetails": [
+      "NoiseBlockAI在麦克风路径区分人声与常见背景声",
+      "佩戴传感器感知耳机是否戴上"
+    ],
+    "limitations": [
+      "机器学习降噪对不同噪声效果可能不同",
+      "单耳通话取向不同于双耳音乐聆听"
+    ],
+    "whyRepresentative": "在单耳商务耳机形态中加入新的拾音处理与移动补电。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/poly-voyager-legend-50/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；正文明确UC、singleearBluetooth、NoiseBlockAI、wind reduction/wear sensors、Qi case。"
+      }
+    ]
+  },
+  {
+    "slug": "samsung-hw-qs700f",
+    "name": "HW-QS700F Convertible Soundbar",
+    "brand": "Samsung",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/samsung-q-series-hw-qs700f-convertible-soundbar/"
+    },
+    "productUrl": "https://www.samsung.com/",
+    "category": "players",
+    "designDetails": [
+      "陀螺传感器识别壁挂或桌面摆放方向",
+      "根据机身方向重新分配朝前与朝上发声通道"
+    ],
+    "functionDetails": [
+      "3.1.2声道支持Dolby Atmos",
+      "兼容电视可用Q-Symphony协同发声"
+    ],
+    "limitations": [
+      "无线Atmos与Q-Symphony需兼容设备",
+      "不同房间声学仍影响反射式环绕效果"
+    ],
+    "whyRepresentative": "音箱安装姿态成为电子感知和音频路由的一部分。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/samsung-q-series-hw-qs700f-convertible-soundbar/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；gyro sensor、convertible fit/table/wall、front/up channel reassignment、3.1.2、compatibleTV。"
+      }
+    ]
+  },
+  {
+    "slug": "ecovacs-deebot-x8-pro-omni",
+    "name": "DEEBOT X8 PRO OMNI",
+    "brand": "ECOVACS",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/ecovacs-robotics-deebot-x8-pro-omni/"
+    },
+    "productUrl": "https://www.ecovacs.com/",
+    "category": "cleaning",
+    "designDetails": [
+      "滚筒拖地机构由16个清水喷口持续更新",
+      "可伸缩贴边机构处理墙脚和家具边缘"
+    ],
+    "functionDetails": [
+      "扫吸与持续自洗拖地结合",
+      "基站清洗、热风干燥并集尘"
+    ],
+    "limitations": [
+      "滚筒、水箱和基站仍需维护",
+      "移动障碍与地毯处理需按家庭布局设置"
+    ],
+    "whyRepresentative": "将机器人拖地由反复擦同一块布转向持续更新接触面。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/ecovacs-robotics-deebot-x8-pro-omni/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；OZMO ROLLER/16 nozzles、wastewater removal/freshwater replenishment、TruEdge、ZeroTangle、OMNI wash/dry。"
+      }
+    ]
+  },
+  {
+    "slug": "ecovacs-winbot-w2-pro-omni",
+    "name": "WINBOT W2 PRO OMNI",
+    "brand": "ECOVACS",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/ecovacs-robotics-winbot-w2-pro-omni/"
+    },
+    "productUrl": "https://www.ecovacs.com/",
+    "category": "cleaning",
+    "designDetails": [
+      "便携基站集合控制、补电、稳定和收纳",
+      "三喷嘴雾化与同步带攀爬机构处理玻璃表面"
+    ],
+    "functionDetails": [
+      "依传感器识别边缘和规划擦窗",
+      "基站电池或插电两种供电方式"
+    ],
+    "limitations": [
+      "仍有机器人与基站间的线缆与安全要求，不能把电池供电写成完全无线",
+      "适用玻璃及边缘情况需按说明核对"
+    ],
+    "whyRepresentative": "让窗面机器人从依赖附近插座走向可搬动的整套清洁工具。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/ecovacs-robotics-winbot-w2-pro-omni/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；portable station、110min battery、3nozzle、belt climb、edge sensors、cable retraction/two power modes。"
+      }
+    ]
+  },
+  {
+    "slug": "3i-g10-plus",
+    "name": "G10+ Robot Vacuum and Mop",
+    "brand": "3i",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/g10-worlds-first-robot-vacuum-and-mop-with-debris-compactor/"
+    },
+    "productUrl": "https://us.3itech.com/",
+    "category": "cleaning",
+    "designDetails": [
+      "机内压尘板和大尘盒减少外置集尘站需求",
+      "透明塑料区域展示压缩机构，顶部融合提手"
+    ],
+    "functionDetails": [
+      "扫吸后在机内压缩尘屑",
+      "后置水箱供拖地并可用App控制"
+    ],
+    "limitations": [
+      "机内储尘仍需要最终倒出与清洁",
+      "标称60天取决于灰尘量和清洁条件"
+    ],
+    "whyRepresentative": "用压缩改变储尘方式，从系统布局上缩减地面基站。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/g10-worlds-first-robot-vacuum-and-mop-with-debris-compactor/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；internal debris compaction、transparent IML plastic、seamless handle/rear tank、minimal charging station。"
+      }
+    ]
+  },
+  {
+    "slug": "samsung-bespoke-ai-heat-pump-combo",
+    "name": "Bespoke AI Heat Pump Combo（18.5/10kg获奖规格）",
+    "brand": "Samsung",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/samsung-bespoke-ai-heat-pump-combo/"
+    },
+    "productUrl": "https://www.samsung.com/",
+    "category": "care",
+    "designDetails": [
+      "洗衣与热泵干衣装入同一机体",
+      "7英寸触屏组织程序和反馈"
+    ],
+    "functionDetails": [
+      "传感器按织物、重量与脏污调节流程",
+      "同筒完成洗涤和干燥，避免中途搬衣"
+    ],
+    "limitations": [
+      "18.5kg洗涤与10kg干燥容量不同，满载洗涤不能直接等同满载连续烘干",
+      "仍需按衣物要求分拣"
+    ],
+    "whyRepresentative": "通过合并两段家务减少搬运，同时保留不同容量条件的真实取舍。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/samsung-bespoke-ai-heat-pump-combo/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；18.5kgwash/10kgdry、7inch touch、sensors fabric/weight/soil、heat pump、SmartThings。"
+      }
+    ]
+  },
+  {
+    "slug": "swannbuddy4k-video-doorbell",
+    "name": "SwannBuddy4K with SwannShield",
+    "brand": "Swann",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/swannbuddy4k-video-doorbell-with-swannshield-ai-voice-assistant/"
+    },
+    "productUrl": "https://au.swann.com/",
+    "category": "smart-home",
+    "designDetails": [
+      "摄像门铃可电池运行或接现有门铃电源",
+      "165度、方形视野用于观察门口人与包裹"
+    ],
+    "functionDetails": [
+      "热感与运动触发视频记录提醒",
+      "SwannShield按用户设置与访客进行语音交互"
+    ],
+    "limitations": [
+      "云端语音助手和远程接入需相应网络",
+      "自动对话仍需由屋主配置并可随时介入"
+    ],
+    "whyRepresentative": "从远程看门扩展到屋主无法及时接听时的访客应答。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/swannbuddy4k-video-doorbell-with-swannshield-ai-voice-assistant/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；device March2024/AI October、4K/165°1:1、battery/wired、PIR/motion、personalisedAI/App transcripts。"
+      }
+    ]
+  },
+  {
+    "slug": "uniden-dash-view-40r",
+    "name": "Dash View 40R",
+    "brand": "Uniden",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/uniden-dash-view-40r/"
+    },
+    "productUrl": "https://uniden.com.au/",
+    "category": "imaging",
+    "designDetails": [
+      "前、后、车厢三相机形成一套记录系统",
+      "超级电容代替锂电池以应对车内热环境"
+    ],
+    "functionDetails": [
+      "前方4K、后方和车内Full HD同步记录",
+      "LCD及Wi-Fi App用于查看和转移素材"
+    ],
+    "limitations": [
+      "停车录制需要相应硬线套件",
+      "多路记录需要匹配容量和速度的存储介质"
+    ],
+    "whyRepresentative": "围绕网约车司机同时记录道路与车厢的任务整合摄像头。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/uniden-dash-view-40r/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；front4K/rear+cabinFHD、2.85inchLCD、WiFi、GPSalerts、supercapacitor、parking hardwirekit。"
+      }
+    ]
+  },
+  {
+    "slug": "cygnett-thumboost-5000-mah-power-bank",
+    "name": "ThumBoost 5,000mAh Power Bank",
+    "brand": "Cygnett",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/cygnett-thumboost-5000-mah-power-bank/"
+    },
+    "productUrl": "https://www.cygnett.com/",
+    "category": "smart-home",
+    "designDetails": [
+      "可拆硅胶线穿过机身隧道并兼作挂绳",
+      "读数窗和按钮整合为同一部件"
+    ],
+    "functionDetails": [
+      "双USB-C PD接口为随身设备补电",
+      "线缆损坏可更换或换成其他连接类型"
+    ],
+    "limitations": [
+      "5000mAh是电芯容量，不能直接当成手机可得容量",
+      "挂绳充电仍需避免拉扯接口"
+    ],
+    "whyRepresentative": "移动电源的线不再是易遗失附件，而是可维护的携带结构。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/cygnett-thumboost-5000-mah-power-bank/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；5000mAh、replaceable silicone cable/lanyard、cable tunnel、dual20W USB-C、combined lens/button。"
+      }
+    ]
+  },
+  {
+    "slug": "hp-z-captis",
+    "name": "Z Captis",
+    "brand": "HP",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/hp-z-captis/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "imaging",
+    "designDetails": [
+      "偏振和光度立体视觉系统捕捉材料细节",
+      "紧凑机身和可及接口适应不同工作位置"
+    ],
+    "functionDetails": [
+      "把实体材质转成数字纹理",
+      "与Adobe Substance 3D衔接用于设计制作"
+    ],
+    "limitations": [
+      "数字化精度和材质适用性需按具体样品判断",
+      "需兼容软件和后续渲染工作流"
+    ],
+    "whyRepresentative": "让材料样本的颜色、纹理与反射进入可共享的数字资产流程。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-z-captis/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Gold；digital material capture、polarized/photometric3D、JetsonAGXXavier、AdobeSubstance3D、up to8K。"
+      }
+    ]
+  },
+  {
+    "slug": "hp-series-5-pro-portable-monitor",
+    "name": "Series 5 Pro Portable Monitor",
+    "brand": "HP",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/hp-series-5-pro-portable-monitor/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "display",
+    "designDetails": [
+      "90度支架支持横屏或竖屏",
+      "磁吸屏幕盖兼作鼠标垫，双侧USB-C便于摆放"
+    ],
+    "functionDetails": [
+      "2560×1600副屏扩大移动电脑工作空间",
+      "可同步兼容HP笔记本亮度，也能用侧键调节"
+    ],
+    "limitations": [
+      "自动亮度同步需兼容机型",
+      "作为外接屏仍依赖主设备提供图像与适当供电"
+    ],
+    "whyRepresentative": "把双屏工作桌的展开和收起变成少量便携部件。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-series-5-pro-portable-monitor/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；610g、WQXGA、90degree kickstand、magnetic cover/mousepad、dualUSB-C、manual brightness。"
+      }
+    ]
+  },
+  {
+    "slug": "hp-omnibook-ultra-flip-14",
+    "name": "OmniBook Ultra Flip 14",
+    "brand": "HP",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/hp-omnibook-ultra-flip-14/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "360度铰链让键盘底座翻转成支撑",
+      "触觉触控板与薄铝机壳组织移动输入"
+    ],
+    "functionDetails": [
+      "在笔记本、平板和帐篷形态间切换",
+      "3K OLED显示内容并结合9MP摄像头进行会议"
+    ],
+    "limitations": [
+      "不同形态需要相应触控或键盘操作",
+      "AI功能需要具体软件支持，不能按名称推定所有任务都能自动完成"
+    ],
+    "whyRepresentative": "二合一电脑通过机械姿态切换覆盖输入、展示和观看。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-omnibook-ultra-flip-14/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；360hinge、3KOLED、9MPcamera、haptic touchpad、CNC aluminum；未采用无条件静音/续航保证。"
+      }
+    ]
+  },
+  {
+    "slug": "hp-z2-mini-g1a",
+    "name": "Z2 Mini G1a",
+    "brand": "HP",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/hp-z2-mini-g1a/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "3L机身体积内置300W电源",
+      "双层格栅前框为冷却空气留通道"
+    ],
+    "functionDetails": [
+      "AMD Ryzen AI Max+ PRO整合计算与图形",
+      "可桌面、桌下或机架部署"
+    ],
+    "limitations": [
+      "内存和存储能力须按具体配置核对",
+      "紧凑机身仍需保留通风空间"
+    ],
+    "whyRepresentative": "把专业计算与供电整合进可多位置部署的小型主机。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-z2-mini-g1a/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；3L、300W internalPSU、two-layer lattice bezel、AMD RyzenAIMax+PRO、mounting options。"
+      }
+    ]
+  },
+  {
+    "slug": "hp-zbook-ultra-14-inch-g1a",
+    "name": "ZBook Ultra 14-inch G1a",
+    "brand": "HP",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/hp-zbook-ultra-14-inch-g1a/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "14英寸金属机身面向可携带工作站",
+      "16:10 OLED屏为视觉任务提供纵向工作空间"
+    ],
+    "functionDetails": [
+      "AMD SoC整合CPU、GPU和NPU处理创作工作",
+      "Smart Cooling与Adaptive Dimming管理使用状态"
+    ],
+    "limitations": [
+      "工作站定位不等同所有软件都有同样性能",
+      "便携机的热管理与持续负载需结合任务判断"
+    ],
+    "whyRepresentative": "专业三维和媒体工作开始由更小尺寸移动电脑承载。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/hp-zbook-ultra-14-inch-g1a/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；14inch/AMD integratedSoC、16:10OLED、recycledaluminum、SmartCooling/AdaptiveDimming。"
+      }
+    ]
+  },
+  {
+    "slug": "omen-max-16",
+    "name": "OMEN MAX 16",
+    "brand": "HP",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/omen-max-16/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "液态金属导热与均热板用于内部散热",
+      "前缘灯条和逐键RGB形成可调外观"
+    ],
+    "functionDetails": [
+      "16英寸高刷新屏用于游戏",
+      "OMEN Gaming Hub提供性能模式，Fan Cleaner处理积尘"
+    ],
+    "limitations": [
+      "高功率模式依赖供电和散热条件",
+      "页面可疑140mm笔电风扇参数未采用"
+    ],
+    "whyRepresentative": "游戏笔记本把持续散热、性能控制和维护纳入一套设计。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/omen-max-16/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；liquidmetal/vaporchamber、Unleashed mode、OMENFanCleaner、frontlightbar/perkeyRGB；未采纳风扇尺寸。"
+      }
+    ]
+  },
+  {
+    "slug": "omnibook-x-14-flip",
+    "name": "OmniBook X 14 Flip",
+    "brand": "HP",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/omnibook-x-14-flip/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "360度铰链提供笔电、帐篷与平板姿态",
+      "无栅格键盘及金属机壳形成统一输入表面"
+    ],
+    "functionDetails": [
+      "专用NPU用于兼容的本地AI推理",
+      "触屏支持草图与展示任务"
+    ],
+    "limitations": [
+      "NPU需要应用实际支持",
+      "可翻转形态不会自动改变桌面软件的触控适用性"
+    ],
+    "whyRepresentative": "机械变形与本地计算能力一起回应移动创作场景。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/omnibook-x-14-flip/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；IntelNPU、360hinge/tablet/tent/stand、latticelesskeyboard、3KOLED/GorillaGlass3、metalchassis。"
+      }
+    ]
+  },
+  {
+    "slug": "omen-35l-gaming-tower",
+    "name": "OMEN 35L Gaming Tower",
+    "brand": "HP",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/omen-35l-gaming-tower/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "computers",
+    "designDetails": [
+      "高通风前框与前进风、顶排风形成气流路线",
+      "透明玻璃侧板展示组件与可调ARGB照明"
+    ],
+    "functionDetails": [
+      "桌面主机运行游戏和创作任务",
+      "可接触内部标准部件供升级维护"
+    ],
+    "limitations": [
+      "具体液冷、风扇及装饰配置须按版本核对",
+      "可升级仍受机箱空间与电源能力约束"
+    ],
+    "whyRepresentative": "把预装主机从封闭商品转向用户可维护的长期硬件组合。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/omen-35l-gaming-tower/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；dual140front intake/top exhaust、airflowbezel、EMIglasspanel、industry-standard upgrades、ARGB。"
+      }
+    ]
+  },
+  {
+    "slug": "hp-omen-transcend-32",
+    "name": "OMEN Transcend 32",
+    "brand": "HP",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/the-hp-omen-transcend-32/"
+    },
+    "productUrl": "https://www.hp.com/",
+    "category": "display",
+    "designDetails": [
+      "32英寸4K QD-OLED屏内置KVM",
+      "USB-C供电与接口集中减少桌面线缆"
+    ],
+    "functionDetails": [
+      "240Hz显示面向游戏与创作",
+      "OMEN Gear Switch在多台电脑间共享外设"
+    ],
+    "limitations": [
+      "KVM、文件传送与供电需兼容主机和连接",
+      "冷却设计不等于OLED永不留痕"
+    ],
+    "whyRepresentative": "同一块屏幕成为游戏主机和工作电脑之间的外设交接中心。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/the-hp-omen-transcend-32/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；32inch4KQD-OLED240Hz、KVM/GearSwitch、140WUSB-C、monitorcooling；页响应时间冲突未采纳。"
+      }
+    ]
+  },
+  {
+    "slug": "franklin-audio-ss-6-stereo-switching-di",
+    "name": "SS-6 Stereo Switching DI",
+    "brand": "Franklin Audio",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/franklin-audio-ss-6-stereo-switching-di/"
+    },
+    "productUrl": "https://www.franklin.audio/",
+    "category": "music",
+    "designDetails": [
+      "顶置大旋钮以触感选择六组立体声输入",
+      "折弯钢外壳后板容纳16个连接端口"
+    ],
+    "functionDetails": [
+      "被动变压器平衡电路切换合成器等音源",
+      "同时提供XLR输出与TS直通路线"
+    ],
+    "limitations": [
+      "是被动音频电路设备，无独立电源和数字处理",
+      "切换来源仍需事先规划输入与输出连接"
+    ],
+    "whyRepresentative": "用一只旋钮减少小型音乐工作室的重复插拔接线。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/franklin-audio-ss-6-stereo-switching-di/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；fully passive transformer balanced、6stereoin to stereoXLR/TSthrough、16connectors、custom top knob/serviceable layout。"
+      }
+    ]
+  },
+  {
+    "slug": "3i-s10-ultra",
+    "name": "S10 Ultra",
+    "brand": "3i",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/s10-ultra-worlds-first-waterrecycle-floor-washing-robot-vacuum/"
+    },
+    "productUrl": "https://us.3itech.com/",
+    "category": "cleaning",
+    "designDetails": [
+      "基站微型压缩与热分离机构用于水循环",
+      "伸展式滚筒拖布处理边缘和家具下方"
+    ],
+    "functionDetails": [
+      "WaterRecycle从污水中回收蒸馏水",
+      "固体残留进入尘袋，配合激光导航清洁"
+    ],
+    "limitations": [
+      "水循环系统仍需要维护尘袋和相关部件",
+      "回收比例为参赛描述，真实用水取决于条件"
+    ],
+    "whyRepresentative": "清洁机器人的基站开始承担水处理流程。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/s10-ultra-worlds-first-waterrecycle-floor-washing-robot-vacuum/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；WaterRecycle/thermal separation/60% reused、atmospheric moisture、residue dustbag、UltraReach roller、ApexVisionLiDAR。"
+      }
+    ]
+  },
+  {
+    "slug": "gilia-turn-tilt-kettle",
+    "name": "Gilia Turn & Tilt Kettle",
+    "brand": "Gilia",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/gilia-turn-tilt-kettle/"
+    },
+    "productUrl": "https://www.giliakettle.com/",
+    "category": "kitchen",
+    "designDetails": [
+      "水壶留在摇篮底座内倾倒，减少举起整壶",
+      "防滑硅胶垫的触觉箭头和杯位帮助对准"
+    ],
+    "functionDetails": [
+      "70/80/90/100°C温控烧水",
+      "LED颜色和声音分别提供加热状态反馈"
+    ],
+    "limitations": [
+      "倾倒机构仍需要稳定台面与合适杯位",
+      "多感官提示不能消除热水使用的全部风险"
+    ],
+    "whyRepresentative": "把泡茶中的举壶、对准和判断完成状态逐一改造成可及交互。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/gilia-turn-tilt-kettle/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Winner；cradle tilt/pour、thumbgrip、tactilearrows/cup pad、water indicators both sides、colorLED/chime、4temperatures。"
+      }
+    ]
+  },
+  {
+    "slug": "fotile-sd2f-p6-in-sink-dishwasher",
+    "name": "SD2F-P6 3-in-1 In-Sink Dishwasher",
+    "brand": "FOTILE",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/fotile-3-in-1-in-sink-dishwasher/"
+    },
+    "productUrl": "https://www.fotile.com.au/",
+    "category": "kitchen",
+    "designDetails": [
+      "水槽、洗碗与果蔬清洗区在台面高度整合",
+      "双层喷臂将空气与水混合喷射"
+    ],
+    "functionDetails": [
+      "少量餐具可用快速洗程序",
+      "自动开门结合余热和PTC加热辅助干燥"
+    ],
+    "limitations": [
+      "需与橱柜开孔和给排水安装匹配",
+      "台面一体布局会改变原有水槽空间安排"
+    ],
+    "whyRepresentative": "把弯腰装载的独立洗碗机转成台面水槽中的清洗设施。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/fotile-3-in-1-in-sink-dishwasher/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Gold；正文锁定Australian SD2F-P6 late2023、sink/dishwasher/producecleaner、autoopen/PTC、HydroJet dual-layer sprayarm。"
+      }
+    ]
+  },
+  {
+    "slug": "blackmagic-ursa-cine-immersive",
+    "name": "URSA Cine Immersive",
+    "brand": "Blackmagic Design",
+    "year": 2025,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2025,
+      "level": "Gold",
+      "url": "https://good-design.org/projects/blackmagic-ursa-cine-immersive/"
+    },
+    "productUrl": "https://www.blackmagicdesign.com/",
+    "category": "imaging",
+    "designDetails": [
+      "双鱼眼镜头各配独立8K传感器与ND滤镜",
+      "两条光路校准为左右眼立体视角"
+    ],
+    "functionDetails": [
+      "采集Apple Immersive Video内容",
+      "宽视野保留观看时的方向选择空间"
+    ],
+    "limitations": [
+      "需要相应后期与播放平台",
+      "双目沉浸影像的拍摄距离和遮挡仍需规划"
+    ],
+    "whyRepresentative": "从单幅电影画框走向面向双眼和头显观看的采集设备。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/blackmagic-ursa-cine-immersive/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2025 Gold；Apple collaboration、dual fisheye、each8K sensor/ND、fixedfocal/wideFOV、commercially availablecamera。"
+      }
+    ]
+  },
+  {
+    "slug": "anker-solix-x1-series",
+    "name": "SOLIX X1 Series Home Energy Storage",
+    "brand": "Anker",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/anker-solix-x1-series/"
+    },
+    "productUrl": "https://www.anker.com/",
+    "category": "smart-home",
+    "designDetails": [
+      "150毫米薄型模块以隐藏线缆整合电力部件",
+      "接近时点亮的显示区域呈现设备状态"
+    ],
+    "functionDetails": [
+      "将家庭储能用于太阳能利用与停电备电",
+      "电池模块可独立充放电并按需要配置"
+    ],
+    "limitations": [
+      "获奖对象为X1电源与电池模块系列，容量依配置",
+      "需专业安装并匹配家庭电气与当地要求"
+    ],
+    "whyRepresentative": "把工业储能设备重新安排为可在住宅中长期布置的模块。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/anker-solix-x1-series/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；series PowerModule/BatteryModule、150mm、hiddenwires、proximitydisplay、modular independentcharge/discharge；未采零排放宣称。"
+      }
+    ]
+  },
+  {
+    "slug": "anker-solix-c800-plus-portable-power-station",
+    "name": "SOLIX C800 Plus Portable Power Station",
+    "brand": "Anker",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/anker-solix-c800-plus-portable-power-station/"
+    },
+    "productUrl": "https://www.anker.com/",
+    "category": "smart-home",
+    "designDetails": [
+      "机身收纳仓整理供电与照明附件",
+      "1米可伸缩杆可作灯架、挂架或拍摄支撑"
+    ],
+    "functionDetails": [
+      "电池给露营电器供电",
+      "三模式营灯与太阳能补电组成户外使用方案"
+    ],
+    "limitations": [
+      "可供电设备需匹配功率和接口",
+      "伸缩杆与灯使用时需要稳定放置"
+    ],
+    "whyRepresentative": "把营地能源和照明的搭建步骤收进同一便携电源。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/anker-solix-c800-plus-portable-power-station/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；3mode light、100cm retractablepole、storagecompartment、LiFePO4、solar/App。"
+      }
+    ]
+  },
+  {
+    "slug": "swann-maxranger4k",
+    "name": "MaxRanger4K",
+    "brand": "Swann",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/swann-maxranger4k/"
+    },
+    "productUrl": "https://au.swann.com/",
+    "category": "smart-home",
+    "designDetails": [
+      "太阳能板融入枪式摄像机外壳",
+      "中央集线器带备用电池并连接多摄像头"
+    ],
+    "functionDetails": [
+      "900MHz无线连接扩展大地块监控覆盖",
+      "4K视频配合热感、运动及目标提醒"
+    ],
+    "limitations": [
+      "600米为开阔场景描述，遮挡与安装会改变距离",
+      "太阳能补电仍受取光和使用负载影响"
+    ],
+    "whyRepresentative": "住宅监控的设计重点从画面转向大范围布置与离网供电。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/swann-maxranger4k/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；900MHz/openair600m/typical200m、integratedsolarpanel、hubbackupbattery/upto8cameras、4K。"
+      }
+    ]
+  },
+  {
+    "slug": "ecovacs-deebot-t30-pro-omni",
+    "name": "DEEBOT T30 PRO OMNI",
+    "brand": "ECOVACS",
+    "year": 2024,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/ecovacs-deebot-t30-pro-omni-mopping-and-vacuuming-robot/"
+    },
+    "productUrl": "https://www.ecovacs.com/",
+    "category": "cleaning",
+    "designDetails": [
+      "可伸缩拖布臂向外贴近墙脚",
+      "Mini OMNI基站重排部件并留出水箱维护空间"
+    ],
+    "functionDetails": [
+      "扫吸与旋转拖布清洁",
+      "主刷双梳齿减缠发，基站洗拖布和烘干"
+    ],
+    "limitations": [
+      "补水时仍需预留上方净空",
+      "自动抬拖布能否保护地毯需结合厚度和设置"
+    ],
+    "whyRepresentative": "让贴边能力与基站占地同时成为清洁系统的设计问题。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/ecovacs-deebot-t30-pro-omni-mopping-and-vacuuming-robot/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2024 Winner；TruEdge extension、ZeroTangle dualcomb、MiniOMNI30%smaller/60cmclearance、9mmmoplift、wash/dry。"
+      }
+    ]
+  },
+  {
+    "slug": "milieu-climate",
+    "name": "Milieu Climate Smart Thermostat",
+    "brand": "Milieu Labs",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Best in Class",
+      "url": "https://good-design.org/projects/milieu-climate/"
+    },
+    "productUrl": "https://good-design.org/projects/milieu-climate/",
+    "category": "environment",
+    "designDetails": [
+      "可移动Hub采用铝制旋钮与彩色玻璃显示面",
+      "室内多种传感器共用紧凑机身"
+    ],
+    "functionDetails": [
+      "监测温湿度、空气质量、光线和占用",
+      "Wi-Fi连接Smart Base控制相容HVAC"
+    ],
+    "limitations": [
+      "HVAC系统可能需要相应适配套件",
+      "页面为等效CO2读数，不能写成直接CO2实测"
+    ],
+    "whyRepresentative": "温控器从墙上一个温度数值变为对整个房间环境的观察。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/milieu-climate/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 BestinClass；CNCAl hub/tactiledial、SmartBaseWiFi、sensors/VOC/eCO2、HVACadaptor kits。"
+      }
+    ]
+  },
+  {
+    "slug": "latch-intercom",
+    "name": "Latch Intercom",
+    "brand": "Latch",
+    "year": 2021,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/latch-intercom/"
+    },
+    "productUrl": "https://www.latch.com/",
+    "category": "telephony",
+    "designDetails": [
+      "7英寸高亮宽视角屏配合大尺寸实体键",
+      "坚固外形面向公寓楼门口的暴露环境"
+    ],
+    "functionDetails": [
+      "可经以太网、Wi-Fi或LTE接入",
+      "向电话作语音呼叫或向Latch App作视频通话并远程开门"
+    ],
+    "limitations": [
+      "需要配套楼宇门禁系统",
+      "美国电话号码支持范围不能直接推广到其他地区"
+    ],
+    "whyRepresentative": "保留访客熟悉的门口按钮，同时让住户在不同设备上应答。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/latch-intercom/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2021 Winner；7inch1000nits176degree、large tactilebuttons、Ethernet/WiFi/LTE、USphoneaudio/Appvideo、remoteunlock。"
+      }
+    ]
+  },
+  {
+    "slug": "eufy-s1-pro",
+    "name": "S1 Pro",
+    "brand": "eufy",
+    "year": 2023,
+    "dateKind": "award",
+    "award": {
+      "name": "Australian Good Design Awards",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://good-design.org/projects/eufy-s1-pro/"
+    },
+    "productUrl": "https://www.eufy.com/",
+    "category": "cleaning",
+    "designDetails": [
+      "持续自清洁滚筒让拖地接触面不断更新",
+      "基站略倾斜LCD和按键位于便于查看的高度"
+    ],
+    "functionDetails": [
+      "自动扫吸拖地并回站集尘补水",
+      "基站混合清洁液并清洗干燥滚筒"
+    ],
+    "limitations": [
+      "清水、污水和过滤部件仍需人工处理",
+      "标注为2023获奖记录，不能据此推定各地区实际首售"
+    ],
+    "whyRepresentative": "把拖地接触面更新与基站的人体操作共同纳入机器人设计。",
+    "commercialStatus": "commercial-product; award submission describes a marketed product; current availability not checked",
+    "sourceEvidence": [
+      {
+        "url": "https://good-design.org/projects/eufy-s1-pro/",
+        "checkedOn": "2026-10-15",
+        "verification": "官方获奖明细页正文已读；奖项等级按页面奖标识别；技术性能为参赛方描述，未实测",
+        "facts": "2023 Winner；AlwaysCleanMop/cleanwhileworks、autostationempty/refill/wash/dry、selfmixsolution、tiltedLCD/buttons。"
+      }
+    ]
+  }
+]

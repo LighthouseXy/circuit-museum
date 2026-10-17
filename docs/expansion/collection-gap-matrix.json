@@ -1,0 +1,479 @@
+{
+  "checkedOn": "2026-10-11",
+  "baseFile": "docs/collection.json",
+  "baseSha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+  "baseCount": 40,
+  "categories": [
+    {
+      "id": "audio",
+      "label": "声音与聆听",
+      "count": 7
+    },
+    {
+      "id": "computing",
+      "label": "个人计算",
+      "count": 10
+    },
+    {
+      "id": "gaming",
+      "label": "游戏与玩乐",
+      "count": 8
+    },
+    {
+      "id": "mobile",
+      "label": "移动与阅读",
+      "count": 6
+    },
+    {
+      "id": "making",
+      "label": "创造与学习",
+      "count": 1
+    },
+    {
+      "id": "imaging",
+      "label": "影像与显示",
+      "count": 1
+    },
+    {
+      "id": "home",
+      "label": "生活与电子玩具",
+      "count": 1
+    },
+    {
+      "id": "wearable",
+      "label": "穿戴与沉浸",
+      "count": 6
+    }
+  ],
+  "decades": [
+    {
+      "decade": 1920,
+      "count": 1,
+      "categories": {
+        "audio": 1
+      },
+      "slugs": [
+        "radiola-iii"
+      ]
+    },
+    {
+      "decade": 1930,
+      "count": 0,
+      "categories": {},
+      "slugs": []
+    },
+    {
+      "decade": 1940,
+      "count": 0,
+      "categories": {},
+      "slugs": []
+    },
+    {
+      "decade": 1950,
+      "count": 2,
+      "categories": {
+        "audio": 2
+      },
+      "slugs": [
+        "regency-tr1",
+        "koss-sp3"
+      ]
+    },
+    {
+      "decade": 1960,
+      "count": 0,
+      "categories": {},
+      "slugs": []
+    },
+    {
+      "decade": 1970,
+      "count": 8,
+      "categories": {
+        "wearable": 1,
+        "computing": 3,
+        "gaming": 2,
+        "home": 1,
+        "audio": 1
+      },
+      "slugs": [
+        "hamilton-pulsar-p1",
+        "hp-35",
+        "magnavox-odyssey",
+        "altair-8800",
+        "apple-1",
+        "atari-vcs",
+        "speak-and-spell",
+        "sony-tps-l2"
+      ]
+    },
+    {
+      "decade": 1980,
+      "count": 6,
+      "categories": {
+        "computing": 3,
+        "mobile": 1,
+        "gaming": 2
+      },
+      "slugs": [
+        "ibm-pc-5150",
+        "commodore-64",
+        "motorola-dynatac-8000x",
+        "nintendo-famicom",
+        "macintosh-128k",
+        "game-boy"
+      ]
+    },
+    {
+      "decade": 1990,
+      "count": 4,
+      "categories": {
+        "gaming": 1,
+        "imaging": 1,
+        "mobile": 1,
+        "computing": 1
+      },
+      "slugs": [
+        "sony-playstation",
+        "casio-qv10",
+        "palmpilot-professional",
+        "imac-g3"
+      ]
+    },
+    {
+      "decade": 2000,
+      "count": 6,
+      "categories": {
+        "audio": 1,
+        "gaming": 2,
+        "computing": 1,
+        "mobile": 2
+      },
+      "slugs": [
+        "ipod-1",
+        "nintendo-ds",
+        "macbook-2006",
+        "nintendo-wii",
+        "amazon-kindle-1",
+        "iphone-1"
+      ]
+    },
+    {
+      "decade": 2010,
+      "count": 7,
+      "categories": {
+        "computing": 1,
+        "mobile": 1,
+        "making": 1,
+        "wearable": 3,
+        "audio": 1
+      },
+      "slugs": [
+        "ipad-1",
+        "iphone-4",
+        "raspberry-pi-model-b",
+        "fitbit-flex",
+        "xiaomi-mi-band-1",
+        "apple-watch-1",
+        "airpods-1"
+      ]
+    },
+    {
+      "decade": 2020,
+      "count": 6,
+      "categories": {
+        "gaming": 1,
+        "audio": 1,
+        "wearable": 2,
+        "mobile": 1,
+        "computing": 1
+      },
+      "slugs": [
+        "steam-deck-lcd",
+        "airpods-5",
+        "apple-watch-series-12",
+        "iphone-18-pro",
+        "macbook-air-m5-2026",
+        "xiaomi-smart-band-11-active"
+      ]
+    }
+  ],
+  "brands": {
+    "RCA": 1,
+    "Regency": 1,
+    "Koss": 1,
+    "Hamilton": 1,
+    "Hewlett-Packard": 1,
+    "Magnavox": 1,
+    "MITS": 1,
+    "Apple": 14,
+    "Atari": 1,
+    "Texas Instruments": 1,
+    "Sony": 1,
+    "IBM": 1,
+    "Commodore": 1,
+    "Motorola": 1,
+    "Nintendo": 4,
+    "Sony Computer Entertainment": 1,
+    "Casio": 1,
+    "Palm": 1,
+    "Amazon": 1,
+    "Raspberry Pi Foundation": 1,
+    "Fitbit": 1,
+    "Xiaomi": 2,
+    "Valve": 1
+  },
+  "brandFamilyNote": "Sony与Sony Computer Entertainment合并为观察家族时共2件；其他品牌不推定合并。",
+  "regionCoverage": {
+    "normalizedFields": [
+      "brandRegionAtTime",
+      "manufacturingRegion",
+      "regionVersion",
+      "useRegions"
+    ],
+    "exhibitsWithAllNormalizedFields": 0,
+    "limit": "没有标准化字段不等于原叙述毫无地区信息；不从品牌推算使用国或销售范围。"
+  },
+  "sceneAssignmentKind": "策展工作标签，非用户调查或互斥产品定义；本快照每件归入一个主任务便于检查。",
+  "scenes": [
+    {
+      "label": "收听与音频格式",
+      "count": 7,
+      "slugs": [
+        "radiola-iii",
+        "regency-tr1",
+        "koss-sp3",
+        "sony-tps-l2",
+        "ipod-1",
+        "airpods-1",
+        "airpods-5"
+      ]
+    },
+    {
+      "label": "家庭及办公计算",
+      "count": 9,
+      "slugs": [
+        "altair-8800",
+        "apple-1",
+        "ibm-pc-5150",
+        "commodore-64",
+        "macintosh-128k",
+        "imac-g3",
+        "macbook-2006",
+        "ipad-1",
+        "macbook-air-m5-2026"
+      ]
+    },
+    {
+      "label": "个人计算与专用工具",
+      "count": 1,
+      "slugs": [
+        "hp-35"
+      ]
+    },
+    {
+      "label": "随身通话与信息",
+      "count": 5,
+      "slugs": [
+        "motorola-dynatac-8000x",
+        "palmpilot-professional",
+        "iphone-1",
+        "iphone-4",
+        "iphone-18-pro"
+      ]
+    },
+    {
+      "label": "独立阅读",
+      "count": 1,
+      "slugs": [
+        "amazon-kindle-1"
+      ]
+    },
+    {
+      "label": "影像创作",
+      "count": 1,
+      "slugs": [
+        "casio-qv10"
+      ]
+    },
+    {
+      "label": "教学与制作",
+      "count": 2,
+      "slugs": [
+        "speak-and-spell",
+        "raspberry-pi-model-b"
+      ]
+    },
+    {
+      "label": "身体计时与活动记录",
+      "count": 6,
+      "slugs": [
+        "hamilton-pulsar-p1",
+        "fitbit-flex",
+        "xiaomi-mi-band-1",
+        "apple-watch-1",
+        "apple-watch-series-12",
+        "xiaomi-smart-band-11-active"
+      ]
+    },
+    {
+      "label": "游戏",
+      "count": 8,
+      "slugs": [
+        "magnavox-odyssey",
+        "atari-vcs",
+        "nintendo-famicom",
+        "game-boy",
+        "sony-playstation",
+        "nintendo-ds",
+        "nintendo-wii",
+        "steam-deck-lcd"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "id": "G01",
+      "priority": "高",
+      "dimension": "移动/日常通信",
+      "evidence": "mobile共6件；iPhone占3件，另有DynaTAC、PalmPilot、Kindle；没有普通功能机、BlackBerry或Android路线。",
+      "question": "按键、短信、商务推送与触摸平台怎样解决不同通信任务？",
+      "candidateHints": [
+        "nokia-3310-2000",
+        "blackberry-850",
+        "htc-dream-g1",
+        "jio-phone-2017"
+      ],
+      "avoid": "不能把功能机只当智能手机的落后前身。"
+    },
+    {
+      "id": "G02",
+      "priority": "高",
+      "dimension": "个人计算/输入与维修",
+      "evidence": "computing共10件，MacBook两件加iPad；非Apple通用电脑在现有集合中只到IBM PC、Commodore 64等早期产品；无独立办公输入工具。",
+      "question": "便携电脑如何处理键盘、移动、维修和升级？",
+      "candidateHints": [
+        "ibm-thinkpad-701c",
+        "framework-laptop-13-2021",
+        "logitech-mx-master-3",
+        "asus-eee-pc-701"
+      ],
+      "avoid": "不按每代CPU添加一件。"
+    },
+    {
+      "id": "G03",
+      "priority": "高",
+      "dimension": "影像/模拟与数字",
+      "evidence": "imaging仅QV-10一件。",
+      "question": "曝光操作、立即回看、录像时移和空中拍摄分别改变了什么？",
+      "candidateHints": [
+        "canon-ae-1",
+        "sony-betamax-sl-6300",
+        "dji-phantom-2013"
+      ],
+      "avoid": "机械相机须先决定是否只作背景；无人机不借旗舰参数填补手机相机。"
+    },
+    {
+      "id": "G04",
+      "priority": "高",
+      "dimension": "家庭日用品",
+      "evidence": "home仅Speak & Spell一件；无清洁、电动个人护理或家用自动化产品。",
+      "question": "电动和电子控制怎样进入重复的家务与个人护理？",
+      "candidateHints": [
+        "irobot-roomba-2002",
+        "philips-philishave-7730",
+        "braun-sixtant-sm31"
+      ],
+      "avoid": "仅新增玩具无法补齐家务场景。"
+    },
+    {
+      "id": "G05",
+      "priority": "高",
+      "dimension": "声音/数字载体",
+      "evidence": "audio共7件，由广播、耳机、磁带、iPod及AirPods组成；没有CD与电脑声音工具。",
+      "question": "从机械携带录音到数字寻址、电脑生成/采集声音，操作怎样变化？",
+      "candidateHints": [
+        "sony-cdp-101",
+        "creative-sound-blaster-1"
+      ],
+      "avoid": "CDP-101与TPS-L2或耳机不是同一任务。"
+    },
+    {
+      "id": "G06",
+      "priority": "中高",
+      "dimension": "计时/普通电子表",
+      "evidence": "wearable共6件，以Pulsar和智能表/活动手环为主；没有低功耗LCD日常电子表。",
+      "question": "计时工具怎样在价格、显示、能耗和身体接触间取舍？",
+      "candidateHints": [
+        "casio-f91w"
+      ],
+      "avoid": "不以当前健康功能评价普通表。"
+    },
+    {
+      "id": "G07",
+      "priority": "高",
+      "dimension": "创造/学习/无障碍",
+      "evidence": "making仅Raspberry Pi；教学题材另有Speak & Spell，没有正式无障碍计算工具或地区实施研究。",
+      "question": "可编程工具、触觉输入、接入与学习成效分别需要什么条件？",
+      "candidateHints": [
+        "olpc-xo-1",
+        "arduino-uno-r3",
+        "humanware-braillenote-touch-32"
+      ],
+      "avoid": "厂商目标、硬件配发数量和学习收益须分开。"
+    },
+    {
+      "id": "G08",
+      "priority": "中高",
+      "dimension": "停产与替代路径",
+      "evidence": "gaming已有8件而叙述主要围绕主流成功路线；现有数据缺少系统化终止/替代路线对照。",
+      "question": "格式、开发者、网络和服务怎样制约产品路线？",
+      "candidateHints": [
+        "sega-dreamcast",
+        "nintendo-virtual-boy",
+        "microsoft-kin-one",
+        "sony-librie"
+      ],
+      "avoid": "不能把停产或未变主流直接写成设计失败。"
+    },
+    {
+      "id": "G09",
+      "priority": "高",
+      "dimension": "品牌/地区/使用史",
+      "evidence": "Apple为14/40；Nintendo为4/40；Sony品牌家族为2/40。现有40件均没有标准化地区版本/设计地/制造地/使用地区字段。",
+      "question": "欧洲商用设计、台湾PC、新加坡音频、印度运营商手机和秘鲁教学实施如何提供不同条件？",
+      "candidateHints": [
+        "braun-t3",
+        "asus-eee-pc-701",
+        "creative-sound-blaster-1",
+        "jio-phone-2017",
+        "olpc-xo-1"
+      ],
+      "avoid": "品牌所在地不当实际使用地；不强行平均各国份额。"
+    },
+    {
+      "id": "G10",
+      "priority": "中",
+      "dimension": "年代桥梁",
+      "evidence": "1930/1940/1960年代在现有数据中各0件；1990年代4件；2026同年5件。",
+      "question": "哪些旧时期产品能解释当下已有展品之间缺失的转折？",
+      "candidateHints": [
+        "philips-philishave-7730",
+        "braun-sixtant-sm31",
+        "ibm-thinkpad-701c"
+      ],
+      "avoid": "空年代不是必须塞一件的配额；早年背景也可以不用正式馆藏。"
+    },
+    {
+      "id": "G11",
+      "priority": "中高",
+      "dimension": "独立阅读/电子纸书写",
+      "evidence": "现有独立阅读实物仅第一代Kindle；移动与阅读分类共6件，主要篇幅为手机/掌上信息。",
+      "question": "内容获取、PC传输、权限与手写如何构成专用阅读/书写任务？",
+      "candidateHints": [
+        "sony-librie-ebr1000ep",
+        "remarkable-2"
+      ],
+      "avoid": "不将电子纸阅读器与手写板当同一任务，也不把后续订阅条件回填初代。"
+    }
+  ]
+}

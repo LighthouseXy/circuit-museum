@@ -1,0 +1,23 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Apple_I.jpg",
+  "creator": "rebelpilot",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "alt": "博物馆陈列的 Apple-1 及木制外壳",
+  "path": "/images/apple-1.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "caption": "照片中的木壳属于此件实物；Apple-1 原厂销售的是装配好的电路板。",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Apple_I.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 540,
+  "originalHeight": 404,
+  "output": {
+    "format": "webp",
+    "width": 540,
+    "height": 404,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 31634
+  }
+}

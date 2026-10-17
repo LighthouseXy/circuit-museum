@@ -1,0 +1,90 @@
+{
+  "slug": "philips-hue-2012",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Philips Hue logo.svg",
+      "pageid": 125853975,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Philips_Hue_logo.svg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Philips_Hue_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Philips_Hue_logo.svg/960px-Philips_Hue_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2022-11-23 16:22:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Philips Hue logo",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "With trademark|PD textlogo|SVG text logos|SVG logos of Philips",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Philips Hue logo",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-11-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.philips-hue.com/content/dam/hue/masters/navigation/hue_logo_1-1_new.svg\">https://www.philips-hue.com/content/dam/hue/masters/navigation/hue_logo_1-1_new.svg</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Philips",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "trademarked",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Philips Hue logo",
+      "artist": "Philips",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "2022-11-23"
+    }
+  ]
+}

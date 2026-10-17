@@ -1,0 +1,64 @@
+{
+  "checkedOn": "2026-10-15",
+  "status": "verified-partial-delivery",
+  "fullRequestComplete": false,
+  "before": {
+    "illustrated": 119,
+    "pending": 57,
+    "addedFromRequested142": 85
+  },
+  "addedThisRound": [
+    "amazon-echo-1",
+    "hp-laserjet-1984",
+    "nest-protect-1",
+    "braun-sixtant-sm31",
+    "motorola-pageboy-i",
+    "nest-learning-thermostat-1",
+    "logitech-mx-master-3",
+    "lg-stanbyme-go-27lx5qkna",
+    "valve-steam-machine-2026",
+    "sony-access-controller"
+  ],
+  "addedThisRoundCount": 10,
+  "after": {
+    "illustrated": 129,
+    "pending": 47,
+    "addedFromRequested142": 95,
+    "photographsAdded": 93,
+    "licensedPhysicalVideoFramesAdded": 2
+  },
+  "sourceProviders": {
+    "wikimedia": 93,
+    "wordpress": 1,
+    "flickr": 1
+  },
+  "research": {
+    "remainingAtRoundStart": 57,
+    "initialDirectlyResearchedAndImported": 6,
+    "additionalOpenverseQueries": 51,
+    "queryErrors": 0,
+    "note": "Discovery results do not constitute copyright permission; original pages and physical/model identity reviewed before import."
+  },
+  "verification": {
+    "unitTestsPassed": 14,
+    "lint": "passed",
+    "build": "passed",
+    "focusedBrowser": {
+      "testedAt": "2026-10-15T05:24:36.685Z",
+      "base": "http://127.0.0.1:4173",
+      "newImages": 95,
+      "checks": [
+        "95 new images decode, matching captions, authors, work titles, source/license links and reflow at 390px",
+        "95 new images decode, matching captions, authors, work titles, source/license links and reflow at 1440px"
+      ],
+      "errors": [],
+      "browserVersion": "155.0.8059.40"
+    },
+    "baselineMetadataPreserved": true,
+    "baselineImageAssetsUnchanged": 122,
+    "formalCatalogSha256Unchanged": "6979ee762d35229091682e3a93f111cc5c82f5ac848594a9737b1b7339f67d13",
+    "csvRows": 142
+  },
+  "remainingLedger": "docs/evidence/photo-expansion/photo-review-ledger.csv",
+  "excludedCandidates": "docs/evidence/photo-expansion/round2-source-review.json"
+}

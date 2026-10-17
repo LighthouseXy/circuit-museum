@@ -1,0 +1,90 @@
+{
+  "slug": "nintendo-switch-2",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Nintendo Switch 2 logo.svg",
+      "pageid": 158050759,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_logo.svg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Nintendo_Switch_2_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Nintendo_Switch_2_logo.svg/960px-Nintendo_Switch_2_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2025-07-05 02:27:19",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nintendo Switch 2 logo",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "With trademark|PD textlogo|Files allowed to be overwritten by everyone|SVG text logos|Valid SVG created with Other tools:Logos|White logos with red background|SVG logos of Nintendo consoles|Nintendo Switch 2 logos",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "This is the logo for the Nintendo Switch 2.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "June 5, 2025",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Cropped from <a rel=\"nofollow\" class=\"external free\" href=\"https://www.nintendo.com/jp/event/experience/assets/img/top/mv_logo.svg\">https://www.nintendo.com/jp/event/experience/assets/img/top/mv_logo.svg</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Nintendo\" class=\"extiw\" title=\"w:en:Nintendo\"><span title=\"Japanese multinational video game and consumer electronics company\">Nintendo</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "trademarked",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "This is the logo for the Nintendo Switch 2.",
+      "artist": "Nintendo",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "June 5, 2025"
+    }
+  ]
+}

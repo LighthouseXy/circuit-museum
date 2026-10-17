@@ -1,0 +1,99 @@
+{
+  "slug": "msi-claw-a1m",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:MSI Claw Takes On Asus Rog Ally; Intel Vs AMD Showdown (2160p 60fps AV1-128kbit AAC)-00.03.03.626.png",
+      "pageid": 152876203,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MSI_Claw_Takes_On_Asus_Rog_Ally;_Intel_Vs_AMD_Showdown_(2160p_60fps_AV1-128kbit_AAC)-00.03.03.626.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/94/MSI_Claw_Takes_On_Asus_Rog_Ally%3B_Intel_Vs_AMD_Showdown_%282160p_60fps_AV1-128kbit_AAC%29-00.03.03.626.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/MSI_Claw_Takes_On_Asus_Rog_Ally%3B_Intel_Vs_AMD_Showdown_%282160p_60fps_AV1-128kbit_AAC%29-00.03.03.626.png/960px-MSI_Claw_Takes_On_Asus_Rog_Ally%3B_Intel_Vs_AMD_Showdown_%282160p_60fps_AV1-128kbit_AAC%29-00.03.03.626.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-09-19 16:40:35",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "MSI Claw Takes On Asus Rog Ally; Intel Vs AMD Showdown (2160p 60fps AV1-128kbit AAC)-00.03.03.626",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media from YouTube|Files from external sources with reviewed licenses|MSI Claw|Files uploaded by PantheraLeo1359531",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Pictures of the MSI Claw gaming computer.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-03-18",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<ul><li><bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=gooPJwtmg8k\"><bdi lang=\"\">MSI Claw Takes On Asus Rog Ally: Intel Vs AMD Showdown</bdi></a> – View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=gooPJwtmg8k\">archive.org</a></bdi></li>\n<li><a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20240919163342/https://www.youtube.com/watch?v=gooPJwtmg8k\">https://web.archive.org/web/20240919163342/https://www.youtube.com/watch?v=gooPJwtmg8k</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@BooredAtWork\">Booredatwork.com</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "Booredatwork.com",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Pictures of the MSI Claw gaming computer.",
+      "artist": "Booredatwork.com",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "date": "2024-03-18"
+    }
+  ]
+}

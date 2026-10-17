@@ -1,0 +1,718 @@
+{
+  "slug": "avm-fritzbox-2004",
+  "name": "FRITZ!Box（初代无WLAN）",
+  "regionVersion": "德国初代两LAN口DSL路由器；不混秋季WLAN/Fon版",
+  "query": "AVM \"FRITZ!Box\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:AVM 6660 Telefonica.jpg",
+      "pageid": 102700007,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AVM_6660_Telefonica.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/AVM_6660_Telefonica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/AVM_6660_Telefonica.jpg/960px-AVM_6660_Telefonica.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2021-11-21 15:20:45",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "AVM 6660 Telefonica",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Shadow of the photographer in Germany|Fritz!Box 6660|Telefónica O2",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "AVM 6660 Telefonica",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2021-03-26",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span><br><span lang=\"en\" dir=\"ltr\"><b>Original text</b></span>: <i>eigenes Werk</i>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "magicman0361",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "AVM 6660 Telefonica",
+      "artist": "magicman0361",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2021-03-26"
+    },
+    {
+      "title": "File:AVM FRITZ!Box 7490 - Back.jpg",
+      "pageid": 128693025,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AVM_FRITZ!Box_7490_-_Back.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f6/AVM_FRITZ%21Box_7490_-_Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/AVM_FRITZ%21Box_7490_-_Back.jpg/960px-AVM_FRITZ%21Box_7490_-_Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-02-13 19:21:39",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "AVM FRITZ!Box 7490 - Back",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Fritz!Box 7490",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Rückseite einer AVM FRITZ!Box 7490",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Namenloser_Hobbyhistoriker&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Namenloser Hobbyhistoriker (page does not exist)\">Namenloser Hobbyhistoriker</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Rückseite einer AVM FRITZ!Box 7490",
+      "artist": "Namenloser Hobbyhistoriker",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023"
+    },
+    {
+      "title": "File:AVM FRITZ!Box 7490 - Top.jpg",
+      "pageid": 128693031,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AVM_FRITZ!Box_7490_-_Top.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/54/AVM_FRITZ%21Box_7490_-_Top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/AVM_FRITZ%21Box_7490_-_Top.jpg/960px-AVM_FRITZ%21Box_7490_-_Top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-02-13 19:21:42",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "AVM FRITZ!Box 7490 - Top",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Fritz!Box 7490",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Oberseite einer AVM FRITZ!Box 7490",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Namenloser_Hobbyhistoriker&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Namenloser Hobbyhistoriker (page does not exist)\">Namenloser Hobbyhistoriker</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Oberseite einer AVM FRITZ!Box 7490",
+      "artist": "Namenloser Hobbyhistoriker",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023"
+    },
+    {
+      "title": "File:AVM FRITZ!Box WLAN 3270.jpg",
+      "pageid": 16314240,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AVM_FRITZ!Box_WLAN_3270.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/AVM_FRITZ%21Box_WLAN_3270.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/AVM_FRITZ%21Box_WLAN_3270.jpg/960px-AVM_FRITZ%21Box_WLAN_3270.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2013-01-17 11:15:59",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "AVM FRITZ!Box WLAN 3270",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Location not applicable|Self-published work|DSL routers and modems (most including WLAN) with white background|Files by User:Tors|Wi-Fi antennas on routers and other networking devices|Fritz!Box 3270",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "AVM FRITZ!Box WLAN 3270 (erste Version mit drei externen WLAN-Antennen)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2011-09-02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Tors\" title=\"User:Tors\">Tors</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "AVM FRITZ!Box WLAN 3270 (erste Version mit drei externen WLAN-Antennen)",
+      "artist": "Tors",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2011-09-02"
+    },
+    {
+      "title": "File:AVM Fritz!Box 7330 SL.jpg",
+      "pageid": 38751199,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AVM_Fritz!Box_7330_SL.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ac/AVM_Fritz%21Box_7330_SL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/AVM_Fritz%21Box_7330_SL.jpg/960px-AVM_Fritz%21Box_7330_SL.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2015-03-06 01:24:38",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "AVM Fritz!Box 7330 SL",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Incorrect date|Disassembled DSL modems|Files with coordinates missing SDC location of creation (51° N, 7° E)|Fritz!Box 7330",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "51.400627",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "7.177444",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "AVM Fritz!Box 7330 SL",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-06-03 02:00:00",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Jens-Manuel_Korn&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Jens-Manuel Korn (page does not exist)\">Jens-Manuel Korn</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "AVM Fritz!Box 7330 SL",
+      "artist": "Jens-Manuel Korn",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2015-06-03 02:00:00"
+    },
+    {
+      "title": "File:AVM FRITZ!Box 3390 - Back.jpg",
+      "pageid": 128693028,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AVM_FRITZ!Box_3390_-_Back.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/AVM_FRITZ%21Box_3390_-_Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/AVM_FRITZ%21Box_3390_-_Back.jpg/960px-AVM_FRITZ%21Box_3390_-_Back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-02-13 19:21:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "AVM FRITZ!Box 3390 - Back",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Fritz!Box 3390",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Rückseite einer AVM FRITZ!Box 3390",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Namenloser_Hobbyhistoriker&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Namenloser Hobbyhistoriker (page does not exist)\">Namenloser Hobbyhistoriker</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Rückseite einer AVM FRITZ!Box 3390",
+      "artist": "Namenloser Hobbyhistoriker",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023"
+    },
+    {
+      "title": "File:AVM FRITZ!Box 3390 - Top.jpg",
+      "pageid": 128693029,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AVM_FRITZ!Box_3390_-_Top.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/AVM_FRITZ%21Box_3390_-_Top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/AVM_FRITZ%21Box_3390_-_Top.jpg/960px-AVM_FRITZ%21Box_3390_-_Top.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-02-13 19:21:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "AVM FRITZ!Box 3390 - Top",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Fritz!Box 3390",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Oberseite einer AVM FRITZ!Box 3390",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Namenloser_Hobbyhistoriker&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Namenloser Hobbyhistoriker (page does not exist)\">Namenloser Hobbyhistoriker</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Oberseite einer AVM FRITZ!Box 3390",
+      "artist": "Namenloser Hobbyhistoriker",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023"
+    },
+    {
+      "title": "File:AVM Fritz!Box 7270 and 7390.jpg",
+      "pageid": 15459970,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AVM_Fritz!Box_7270_and_7390.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/AVM_Fritz%21Box_7270_and_7390.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/AVM_Fritz%21Box_7270_and_7390.jpg/960px-AVM_Fritz%21Box_7270_and_7390.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2011-06-09 20:08:53",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "AVM Fritz!Box 7270 and 7390",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Sony DSC-W200|CC-Zero|Paper containers|Self-published work|Fritz!Box 7390|Fritz!Box Fon WLAN 7270",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "AVM Fritz!Box Fon WLAN 7270 and 7390 DSL routers. International version (Annex A and B ADSL/VDSL are supported).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2011-06-09",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Karsini&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Karsini (page does not exist)\">Karsini</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "AVM Fritz!Box Fon WLAN 7270 and 7390 DSL routers. International version (Annex A and B ADSL/VDSL are supported).",
+      "artist": "Karsini",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2011-06-09"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Nintendo-DS-Fat-Blue.png",
+  "creator": "Evan-Amos",
+  "license": "公有领域（作者释出）",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/File:Nintendo-DS-Fat-Blue.png#Licensing",
+  "alt": "蓝色初代 Nintendo DS，双屏与按键、触摸屏展开可见",
+  "path": "/images/nintendo-ds.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Nintendo-DS-Fat-Blue.png",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 2660,
+  "originalHeight": 2420,
+  "output": {
+    "format": "webp",
+    "width": 1100,
+    "height": 1001,
+    "channels": 4,
+    "premultiplied": true,
+    "hasAlpha": true,
+    "size": 97640
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Imac_G3_Bondi_Blue_side.jpg",
+  "creator": "Stephen Hackett",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "alt": "Bondi Blue iMac G3 半透明机壳的侧面",
+  "path": "/images/imac-g3.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Imac_G3_Bondi_Blue_side.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 5184,
+  "originalHeight": 3456,
+  "output": {
+    "format": "webp",
+    "width": 1100,
+    "height": 733,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 35164
+  }
+}

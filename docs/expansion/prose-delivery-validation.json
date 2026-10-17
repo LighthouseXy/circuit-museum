@@ -1,0 +1,87 @@
+{
+  "checkedOn": "2026-10-11",
+  "status": "passed-current-content-preview-integrity-not-production-acceptance",
+  "counts": {
+    "originalBaseline": 40,
+    "previousCompleteNew": 14,
+    "additionalCompleteNew": 122,
+    "completeNewTotal": 136,
+    "completeCoverageIncludingOriginal": 176,
+    "selectedTotal": 216,
+    "remainingSelectedDossiers": 40,
+    "actualProductionObserved": 54,
+    "actualProductionObservation": "文件去重数量；不是页面可达或布局验收证明",
+    "minimumActualStageTarget": 150,
+    "additionalNeededBeyondReadyFor150": 0
+  },
+  "checks": [
+    {
+      "name": "original40-frozen-preservation",
+      "passed": true,
+      "scope": "原40字节快照；不要求新增后的生产文件保持40件哈希"
+    },
+    {
+      "name": "complete122-assignment-and14-preserved",
+      "passed": true,
+      "scope": "122追加＋14先前＋40原基线；216中40待全文"
+    },
+    {
+      "name": "stable-id-plan",
+      "passed": true,
+      "scope": "派生提议编号唯一，原实现仍需核对生产ID及已导入slug"
+    },
+    {
+      "name": "five-sections-and-paragraph-sources",
+      "passed": true,
+      "scope": "136份新完整稿五节841—1153汉字"
+    },
+    {
+      "name": "all-nested-source-closure",
+      "passed": true,
+      "scope": "事实/五节/媒体评价引用闭合；后续规划字段不是当前验收项"
+    },
+    {
+      "name": "cumulative-related-link-closure",
+      "passed": true,
+      "scope": "总包只链接完整目标，未完成目标暂缓"
+    },
+    {
+      "name": "nineteen-natural-import-packets",
+      "passed": true,
+      "scope": "派生分包编号/引用/前序及同包关联闭合；清单不算已导入"
+    },
+    {
+      "name": "media-attribution-and-scope",
+      "passed": true,
+      "scope": "11份新完整稿内原评记录；不推断媒体共识或缺点"
+    },
+    {
+      "name": "new-media-fallback",
+      "passed": true,
+      "scope": "136新稿无未经核实图片视频，不假定转载许可"
+    },
+    {
+      "name": "preview216-routes",
+      "passed": true,
+      "scope": "静态预览内部实体/阅读线/片段路由；不是生产404或全浏览器回归"
+    }
+  ],
+  "independentReview": {
+    "agent": "expanded_home_comms_medium",
+    "scope": "root12正文；抽查K380日本公告、ScanSnap第四版、HP原LaserJet；额外模型审查保留作后续规划",
+    "resolved": [
+      "ScanSnap生成PDF与显示缩略图顺序",
+      "K380计划日期与ScanSnap手册版次确认"
+    ],
+    "futurePlanningFindings": [
+      "复合媒体日期精度与Nest结束状态同步已修入草稿，不作当前必需"
+    ],
+    "limits": "未重读全部源或实物测量，未验生产页面"
+  },
+  "browserObservationsFile": "prose-preview-browser-checks.json",
+  "limits": [
+    "网页可达与布局必须由原实现对正式站点重新验收。",
+    "176完整覆盖是准备内容与预览，不能当实际已导入150。",
+    "新增双核心/全生命周期只作后续规划，不纳入当前交付或阻塞当前验收。"
+  ]
+}

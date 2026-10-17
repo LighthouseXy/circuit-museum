@@ -1,0 +1,94 @@
+{
+  "slug": "toshiba-er4",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Rice Cooker 1.png",
+      "pageid": 118207475,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rice_Cooker_1.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Rice_Cooker_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Rice_Cooker_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2022-05-21 06:44:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Rice Cooker 1",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Rice cookers|Flickr images missing SDC creator|Flickr images reviewed by FlickreviewR 2",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "quiethut.com\n<p>You are free to:\nShare — copy and redistribute the material in any medium or format\n</p><p><br> \nAdapt — remix, transform, and build upon the material for any purpose, even commercially.\n</p><p><br> \n</p>\nYou must give appropriate credit and provide a link to quiethut.com or to the original post: quiethut.com/zojirushi-rice-cooker",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-02-17",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/quiethut/40330518981/\">https://www.flickr.com/photos/quiethut/40330518981/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Quiet Hut",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "quiethut.com\n You are free to:\nShare — copy and redistribute the material in any medium or format\n    \nAdapt — remix, transform, and build upon the material for any purpose, even commercially.\n    \n \nYou must give appropriate credit and provide a link to quiethut.com or to the original post: quiethut.com/zojirushi-rice-cooker",
+      "artist": "Quiet Hut",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2018-02-17"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:HP-35_Main_Board_solder_side.jpg",
+  "creator": "Mister rf",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "alt": "HP-35 主板焊接面上的走线与焊点",
+  "path": "/images/hp-35-internal.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/b/bc/HP-35_Main_Board_solder_side.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 1973,
+  "originalHeight": 1869,
+  "output": {
+    "format": "webp",
+    "width": 1100,
+    "height": 1042,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 209802
+  }
+}

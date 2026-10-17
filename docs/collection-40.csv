@@ -1,0 +1,41 @@
+id,slug,year,name,brand,category
+01,radiola-iii,1924,Radiola III,RCA,audio
+02,regency-tr1,1954,Regency TR-1,Regency,audio
+03,koss-sp3,1958,SP/3,Koss,audio
+04,hamilton-pulsar-p1,1972,Pulsar P1,Hamilton,wearable
+05,hp-35,1972,HP-35,Hewlett-Packard,computing
+06,magnavox-odyssey,1972,Odyssey,Magnavox,gaming
+07,altair-8800,1975,Altair 8800,MITS,computing
+08,apple-1,1976,Apple-1,Apple,computing
+09,atari-vcs,1977,Atari Video Computer System,Atari,gaming
+10,speak-and-spell,1978,Speak & Spell,Texas Instruments,home
+11,sony-tps-l2,1979,Walkman TPS-L2,Sony,audio
+12,ibm-pc-5150,1981,IBM PC 5150,IBM,computing
+13,commodore-64,1982,Commodore 64,Commodore,computing
+14,motorola-dynatac-8000x,1983,DynaTAC 8000X,Motorola,mobile
+15,nintendo-famicom,1983,Family Computer,Nintendo,gaming
+16,macintosh-128k,1984,Macintosh 128K,Apple,computing
+17,game-boy,1989,Game Boy DMG-01,Nintendo,gaming
+18,sony-playstation,1994,PlayStation,Sony Computer Entertainment,gaming
+19,casio-qv10,1995,QV-10,Casio,imaging
+20,palmpilot-professional,1997,PalmPilot Professional,Palm,mobile
+21,imac-g3,1998,iMac G3,Apple,computing
+22,ipod-1,2001,iPod 第一代,Apple,audio
+23,nintendo-ds,2004,Nintendo DS,Nintendo,gaming
+24,macbook-2006,2006,MacBook 第一代,Apple,computing
+25,nintendo-wii,2006,Wii,Nintendo,gaming
+26,amazon-kindle-1,2007,Kindle 第一代,Amazon,mobile
+27,iphone-1,2007,iPhone 第一代,Apple,mobile
+28,ipad-1,2010,iPad 第一代,Apple,computing
+29,iphone-4,2010,iPhone 4,Apple,mobile
+30,raspberry-pi-model-b,2012,Raspberry Pi Model B,Raspberry Pi Foundation,making
+31,fitbit-flex,2013,Flex,Fitbit,wearable
+32,xiaomi-mi-band-1,2014,小米手环 第一代,Xiaomi,wearable
+33,apple-watch-1,2015,Apple Watch 第一代,Apple,wearable
+34,airpods-1,2016,AirPods 第一代,Apple,audio
+35,steam-deck-lcd,2022,Steam Deck LCD,Valve,gaming
+36,airpods-5,2026,AirPods 5,Apple,audio
+37,apple-watch-series-12,2026,Apple Watch Series 12,Apple,wearable
+38,iphone-18-pro,2026,iPhone 18 Pro,Apple,mobile
+39,macbook-air-m5-2026,2026,MacBook Air 13英寸（M5）,Apple,computing
+40,xiaomi-smart-band-11-active,2026,Xiaomi Smart Band 11 Active,Xiaomi,wearable

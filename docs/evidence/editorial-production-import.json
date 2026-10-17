@@ -1,0 +1,22 @@
+{
+  "importedOn": "2026-10-13",
+  "manifest": "docs/expansion/editorial-import-manifest.json",
+  "actualProduction": 176,
+  "actualBeforePhase": 54,
+  "totalAddedThisPhase": 122,
+  "revisedPreviouslyImportedNewModels": 14,
+  "addedThisRun": 0,
+  "revisedExistingNewModels": 136,
+  "originalProductsPreserved": 40,
+  "originalNodesPreserved": 29,
+  "completeNewModelTexts": 136,
+  "readingLines": 16,
+  "stages": 45,
+  "nonemptyStages": 44,
+  "sourceRecords": 512,
+  "baselineHashes": [
+    "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "e2f4f4a8fce0dc0a4c0166c62f29fe538124d72098f1368a8fc9ad0ae64e2e34"
+  ],
+  "sourceVerificationBoundary": "Individual source dates/scopes preserved; import checks structure, not full live re-reading or physical testing"
+}

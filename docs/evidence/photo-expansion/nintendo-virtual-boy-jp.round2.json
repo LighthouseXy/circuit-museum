@@ -1,0 +1,94 @@
+{
+  "slug": "nintendo-virtual-boy-jp",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-15",
+  "candidates": [
+    {
+      "title": "File:Virtualboyinashopinjapan-oct2012.jpg",
+      "pageid": 32433965,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Virtualboyinashopinjapan-oct2012.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Virtualboyinashopinjapan-oct2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Virtualboyinashopinjapan-oct2012.jpg/960px-Virtualboyinashopinjapan-oct2012.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2014-04-28 07:09:19",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Virtualboyinashopinjapan-oct2012",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Panasonic Lumix DMC-SZ7|Virtual Boy|Self-published work|Virtual reality in Japan",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Virtual Boy (バーチャルボーイ) is a table-top video game console developed and manufactured by Nintendo. This is one being sold at a retro games shop in Japan.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-10",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Nesnad\" title=\"User:Nesnad\">Nesnad</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The Virtual Boy (バーチャルボーイ) is a table-top video game console developed and manufactured by Nintendo. This is one being sold at a retro games shop in Japan.",
+      "artist": "Nesnad",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "date": "2012-10"
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+{
+  "slug": "asus-rog-ally-2023",
+  "name": "ROG Ally（Z1 Extreme）",
+  "regionVersion": "原Z1Extreme，Z1/容量修订不重复计",
+  "query": "intitle:\"ROG Ally\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:ROG ALLY - 3.jpg",
+      "pageid": 132630295,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ROG_ALLY_-_3.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ef/ROG_ALLY_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/ROG_ALLY_-_3.jpg/960px-ROG_ALLY_-_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-06-03 16:10:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "ROG ALLY - 3",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "ASUS ROG Ally|Self-published work|Nagoya photographs taken on 2023-06-03",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "ASUS社のゲーミングモバイルPC「ROG ALLY（アールオージー・エイライ）」。名古屋市内の家電量販店で撮影。",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-06-03 17:59:54",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:KKPCW\" title=\"User:KKPCW\">KKPCW（Kyu3）</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "ASUS社のゲーミングモバイルPC「ROG ALLY（アールオージー・エイライ）」。名古屋市内の家電量販店で撮影。",
+      "artist": "KKPCW（Kyu3）",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-06-03 17:59:54"
+    },
+    {
+      "title": "File:ROG ALLY - 11.jpg",
+      "pageid": 132630313,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ROG_ALLY_-_11.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ca/ROG_ALLY_-_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/ROG_ALLY_-_11.jpg/960px-ROG_ALLY_-_11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-06-03 16:11:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "ROG ALLY - 11",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "De minimis|ASUS ROG Ally|Self-published work|Nagoya photographs taken on 2023-06-03",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "ASUS' gaming mobile PC \"ROG ALLY\". Photographed at an electronics store in Nagoya.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-06-03 18:48:14",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:KKPCW\" title=\"User:KKPCW\">KKPCW (Kyu3)</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "ASUS' gaming mobile PC \"ROG ALLY\". Photographed at an electronics store in Nagoya.",
+      "artist": "KKPCW (Kyu3)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-06-03 18:48:14"
+    },
+    {
+      "title": "File:ROG ALLY - 7.jpg",
+      "pageid": 132630304,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ROG_ALLY_-_7.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/ROG_ALLY_-_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/ROG_ALLY_-_7.jpg/960px-ROG_ALLY_-_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-06-03 16:10:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "ROG ALLY - 7",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "ASUS ROG Ally|Self-published work|Nagoya photographs taken on 2023-06-03",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "ASUS社のゲーミングモバイルPC「ROG ALLY（アールオージー・エイライ）」。名古屋市内の家電量販店で撮影。",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-06-03 18:40:06",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:KKPCW\" title=\"User:KKPCW\">KKPCW（Kyu3）</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "ASUS社のゲーミングモバイルPC「ROG ALLY（アールオージー・エイライ）」。名古屋市内の家電量販店で撮影。",
+      "artist": "KKPCW（Kyu3）",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-06-03 18:40:06"
+    },
+    {
+      "title": "File:ROG ALLY - 4.jpg",
+      "pageid": 132630298,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ROG_ALLY_-_4.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/ROG_ALLY_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/ROG_ALLY_-_4.jpg/960px-ROG_ALLY_-_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-06-03 16:10:50",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "ROG ALLY - 4",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "ASUS ROG Ally|Self-published work|Nagoya photographs taken on 2023-06-03",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "ASUS社のゲーミングモバイルPC「ROG ALLY（アールオージー・エイライ）」。名古屋市内の家電量販店で撮影。",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-06-03 18:01:52",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:KKPCW\" title=\"User:KKPCW\">KKPCW（Kyu3）</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "ASUS社のゲーミングモバイルPC「ROG ALLY（アールオージー・エイライ）」。名古屋市内の家電量販店で撮影。",
+      "artist": "KKPCW（Kyu3）",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-06-03 18:01:52"
+    },
+    {
+      "title": "File:ROG ALLY - 8.jpg",
+      "pageid": 132630306,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ROG_ALLY_-_8.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7f/ROG_ALLY_-_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/ROG_ALLY_-_8.jpg/960px-ROG_ALLY_-_8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-06-03 16:11:03",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "ROG ALLY - 8",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "ASUS ROG Ally|Self-published work|Nagoya photographs taken on 2023-06-03",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "ASUS社のゲーミングモバイルPC「ROG ALLY（アールオージー・エイライ）」。名古屋市内の家電量販店で撮影。",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-06-03 18:40:12",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:KKPCW\" title=\"User:KKPCW\">KKPCW（Kyu3）</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "ASUS社のゲーミングモバイルPC「ROG ALLY（アールオージー・エイライ）」。名古屋市内の家電量販店で撮影。",
+      "artist": "KKPCW（Kyu3）",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-06-03 18:40:12"
+    },
+    {
+      "title": "File:ROG ALLY - 2.jpg",
+      "pageid": 132630297,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:ROG_ALLY_-_2.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/07/ROG_ALLY_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/ROG_ALLY_-_2.jpg/960px-ROG_ALLY_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-06-03 16:10:46",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "ROG ALLY - 2",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "ASUS ROG Ally|Self-published work|Nagoya photographs taken on 2023-06-03",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "ASUS社のゲーミングモバイルPC「ROG ALLY（アールオージー・エイライ）」。名古屋市内の家電量販店で撮影。",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2023-06-03 17:59:02",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:KKPCW\" title=\"User:KKPCW\">KKPCW（Kyu3）</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "ASUS社のゲーミングモバイルPC「ROG ALLY（アールオージー・エイライ）」。名古屋市内の家電量販店で撮影。",
+      "artist": "KKPCW（Kyu3）",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2023-06-03 17:59:02"
+    },
+    {
+      "title": "File:Lenovo Legion Go and ASUS ROG Ally (2024-05-25).jpg",
+      "pageid": 148710740,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lenovo_Legion_Go_and_ASUS_ROG_Ally_(2024-05-25).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Lenovo_Legion_Go_and_ASUS_ROG_Ally_%282024-05-25%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Lenovo_Legion_Go_and_ASUS_ROG_Ally_%282024-05-25%29.jpg/960px-Lenovo_Legion_Go_and_ASUS_ROG_Ally_%282024-05-25%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-05-25 14:29:59",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Lenovo Legion Go and ASUS ROG Ally (2024-05-25)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Octagon Computer Superstore|ASUS ROG Ally|Self-published work|Lenovo Legion Go|Philippines photographs taken on 2024-05-25|Photographs by Thewideawake1 taken with Fujifilm FinePix HS30EXR|Photographs of Cebu City by Thewideawake1|May 2024 photographs by Thewideawake1|SM Cyberzone (old) at SM City Cebu",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "the Lenovo Legion Go and ASUS ROG Ally at the Octagon store on SM City Cebu in Cebu City.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-05-25 17:20:05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:PaulGorduiz106\" class=\"mw-redirect\" title=\"User:PaulGorduiz106\">Wide Awake!</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "the Lenovo Legion Go and ASUS ROG Ally at the Octagon store on SM City Cebu in Cebu City.",
+      "artist": "Wide Awake!",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "date": "2024-05-25 17:20:05"
+    },
+    {
+      "title": "File:MSI Claw Takes On Asus Rog Ally; Intel Vs AMD Showdown (2160p 60fps AV1-128kbit AAC)-00.03.29.186.png",
+      "pageid": 152876199,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MSI_Claw_Takes_On_Asus_Rog_Ally;_Intel_Vs_AMD_Showdown_(2160p_60fps_AV1-128kbit_AAC)-00.03.29.186.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/MSI_Claw_Takes_On_Asus_Rog_Ally%3B_Intel_Vs_AMD_Showdown_%282160p_60fps_AV1-128kbit_AAC%29-00.03.29.186.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/MSI_Claw_Takes_On_Asus_Rog_Ally%3B_Intel_Vs_AMD_Showdown_%282160p_60fps_AV1-128kbit_AAC%29-00.03.29.186.png/960px-MSI_Claw_Takes_On_Asus_Rog_Ally%3B_Intel_Vs_AMD_Showdown_%282160p_60fps_AV1-128kbit_AAC%29-00.03.29.186.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-09-19 16:36:01",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "MSI Claw Takes On Asus Rog Ally; Intel Vs AMD Showdown (2160p 60fps AV1-128kbit AAC)-00.03.29.186",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media from YouTube|Files from external sources with reviewed licenses|ASUS ROG Ally|MSI Claw|Files uploaded by PantheraLeo1359531",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Pictures of the MSI Claw gaming computer.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-03-18",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<ul><li><bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=gooPJwtmg8k\"><bdi lang=\"\">MSI Claw Takes On Asus Rog Ally: Intel Vs AMD Showdown</bdi></a> – View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=gooPJwtmg8k\">archive.org</a></bdi></li>\n<li><a rel=\"nofollow\" class=\"external free\" href=\"https://web.archive.org/web/20240919163342/https://www.youtube.com/watch?v=gooPJwtmg8k\">https://web.archive.org/web/20240919163342/https://www.youtube.com/watch?v=gooPJwtmg8k</a></li></ul>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/@BooredAtWork\">Booredatwork.com</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "Booredatwork.com",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Pictures of the MSI Claw gaming computer.",
+      "artist": "Booredatwork.com",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "date": "2024-03-18"
+    }
+  ]
+}

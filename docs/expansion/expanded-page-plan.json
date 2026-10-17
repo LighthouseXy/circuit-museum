@@ -1,0 +1,1750 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-11",
+  "status": "selection-calibrated-review-plan-not-production",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ]
+  },
+  "scope": "在216正式选择后重校首页与阶段编年；七线旧方案保留作为前阶段依据。",
+  "homeRows": [
+    {
+      "label": "联络与通信",
+      "lineIds": [
+        "phones",
+        "communications"
+      ],
+      "featuredSlug": "iphone-1"
+    },
+    {
+      "label": "计算与阅读",
+      "lineIds": [
+        "computers",
+        "reading"
+      ],
+      "featuredSlug": "ibm-pc-5150"
+    },
+    {
+      "label": "收听与声音创作",
+      "lineIds": [
+        "players",
+        "music"
+      ],
+      "featuredSlug": "sony-tps-l2"
+    },
+    {
+      "label": "个人聆听",
+      "lineIds": [
+        "headphones"
+      ],
+      "featuredSlug": "koss-sp3"
+    },
+    {
+      "label": "游戏与互动",
+      "lineIds": [
+        "gaming"
+      ],
+      "featuredSlug": "nintendo-switch-2"
+    },
+    {
+      "label": "腕上设备",
+      "lineIds": [
+        "watches",
+        "bands"
+      ],
+      "featuredSlug": "casio-f91w"
+    },
+    {
+      "label": "摄影与视频",
+      "lineIds": [
+        "imaging"
+      ],
+      "featuredSlug": "canon-eos-5d-mark-ii"
+    },
+    {
+      "label": "电视与显示",
+      "lineIds": [
+        "display"
+      ],
+      "featuredSlug": "sony-xel-1"
+    },
+    {
+      "label": "VR与AR",
+      "lineIds": [
+        "immersive"
+      ],
+      "featuredSlug": "sony-playstation-vr-cuh-zvr1"
+    },
+    {
+      "label": "输入、打印与制作",
+      "lineIds": [
+        "input-printing"
+      ],
+      "featuredSlug": "epson-ep101"
+    },
+    {
+      "label": "家居与日常电器",
+      "lineIds": [
+        "home"
+      ],
+      "featuredSlug": "toshiba-er4"
+    },
+    {
+      "label": "导航与定位",
+      "lineIds": [
+        "navigation"
+      ],
+      "featuredSlug": "magellan-nav1000"
+    }
+  ],
+  "readingLines": [
+    {
+      "id": "phones",
+      "label": "手机",
+      "introduction": "携带通信工具，怎样改变联络与屏幕操作。",
+      "fineCategories": [
+        "phones"
+      ],
+      "featuredSlug": "iphone-1",
+      "selectedCount": 7,
+      "stages": [
+        {
+          "id": "phones-expanded-1",
+          "title": "随身联络与按键终端",
+          "need": "离开固定电话的位置后仍能联络。",
+          "turn": "便携机身、按键和屏幕组织不同通信任务。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1983,
+            "end": 2000
+          },
+          "slugs": [
+            "motorola-dynatac-8000x",
+            "nokia-3310-2000"
+          ],
+          "sourceIds": [
+            "C:S16",
+            "C:TXM13A",
+            "C:TXM13B",
+            "C:S25",
+            "L:EA01-N01",
+            "L:EA01-N02",
+            "L:EA01-N03",
+            "L:EA01-N04",
+            "L:EA01-N05"
+          ]
+        },
+        {
+          "id": "phones-expanded-2",
+          "title": "屏幕、应用与可维修结构",
+          "need": "在一件终端中处理多种任务。",
+          "turn": "触摸输入与部件安排提供不同使用选择。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2007,
+            "end": 2015
+          },
+          "slugs": [
+            "iphone-1",
+            "iphone-4",
+            "microsoft-kin-one",
+            "fairphone-2-2015"
+          ],
+          "sourceIds": [
+            "C:S33",
+            "C:TXL01",
+            "C:S35",
+            "C:TD01",
+            "L:EA07-K01",
+            "L:EA07-K02",
+            "L:EA07-K03",
+            "L:EA10-F01",
+            "L:EA10-F02",
+            "L:EA10-F03",
+            "L:AMP01",
+            "L:AMP02",
+            "L:AMP03"
+          ]
+        },
+        {
+          "id": "phones-expanded-3",
+          "title": "当代手机观察",
+          "need": "按明确版本理解近期产品。",
+          "turn": "当前型号继续面对性能、结构与服务条件。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2026,
+            "end": 2026
+          },
+          "slugs": [
+            "iphone-18-pro"
+          ],
+          "sourceIds": [
+            "C:CH08",
+            "C:CH09",
+            "C:TXL15",
+            "C:S35"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "computers",
+      "label": "计算机与计算器",
+      "introduction": "从桌上计算到带走工作，再看机器如何维修与连接。",
+      "fineCategories": [
+        "computers",
+        "storage"
+      ],
+      "featuredSlug": "ibm-pc-5150",
+      "selectedCount": 30,
+      "stages": [
+        {
+          "id": "computers-expanded-1",
+          "title": "计算与桌面工作环境",
+          "need": "输入数字、程序或文件，并得到可读结果。",
+          "turn": "计算器、整套电脑与可携机器选择不同边界。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1957,
+            "end": 1985
+          },
+          "slugs": [
+            "casio-14-a",
+            "casio-mini-1972",
+            "hp-35",
+            "hp-65",
+            "altair-8800",
+            "apple-1",
+            "bbc-micro-model-b",
+            "ibm-pc-5150",
+            "osborne-1",
+            "sharp-pc1500-jp",
+            "ti99-4a",
+            "xerox-8010-star",
+            "commodore-64",
+            "epson-hx20",
+            "sinclair-zx-spectrum-48k",
+            "casio-sl800",
+            "trs80-model100",
+            "amstrad-cpc464-uk",
+            "macintosh-128k",
+            "casio-fx7000g",
+            "commodore-amiga1000"
+          ],
+          "sourceIds": [
+            "CM150-S001",
+            "CM150-S003",
+            "CM150-S002",
+            "C:S07",
+            "C:TD03",
+            "C:TXE03",
+            "C:CH02",
+            "CM150-S007",
+            "CM150-S008",
+            "C:S09",
+            "C:TXE05",
+            "C:S10",
+            "C:TXE06",
+            "CM150-S017",
+            "CM150-S018",
+            "C:S14",
+            "C:TXE12",
+            "C:S15",
+            "C:TXE11",
+            "CM150-S009",
+            "CM150-S010",
+            "CM150-S011",
+            "CM150-S019",
+            "CM150-S024",
+            "L:H08A",
+            "L:H08B",
+            "L:H08C",
+            "C:S11",
+            "CM150-S014",
+            "CM150-S015",
+            "CM150-S013",
+            "L:H13A",
+            "CM150-S004",
+            "CM150-S016",
+            "L:EA12-A01",
+            "L:EA12-A02",
+            "C:S18",
+            "C:TXM15A",
+            "C:TXM15B",
+            "CM150-S005",
+            "CM150-S006",
+            "CM150-S020",
+            "CM150-S021"
+          ]
+        },
+        {
+          "id": "computers-expanded-2",
+          "title": "移动工作与屏幕形态",
+          "need": "将工作从一个位置延续到另一个位置。",
+          "turn": "折叠、触摸与可携结构改变摆放和输入。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1994,
+            "end": 2012
+          },
+          "slugs": [
+            "iomega-zip100",
+            "ibm-thinkpad-701c",
+            "imac-g3",
+            "macbook-2006",
+            "ipad-1",
+            "lenovo-yoga13-2012"
+          ],
+          "sourceIds": [
+            "CM150-S025",
+            "CM150-S026",
+            "L:H15A",
+            "L:H15B",
+            "L:H15C",
+            "L:H15D",
+            "C:S26",
+            "C:TXM20A",
+            "C:TXM20C",
+            "C:TXM20B",
+            "C:S30",
+            "C:TXM23B",
+            "C:TXM23A",
+            "C:S34",
+            "C:TXL02",
+            "C:TXL03",
+            "C:S33",
+            "CM150-S063"
+          ]
+        },
+        {
+          "id": "computers-expanded-3",
+          "title": "存储、部件与当代计算",
+          "need": "管理文件并考虑设备使用期限。",
+          "turn": "外部存储、可替换部件与新型号呈现不同条件。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2020,
+            "end": 2026
+          },
+          "slugs": [
+            "samsung-t7-2020",
+            "framework-laptop-13-2021",
+            "macbook-air-m5-2026"
+          ],
+          "sourceIds": [
+            "CM150-S062",
+            "CM150-S066",
+            "L:AMF01",
+            "L:AMF02",
+            "L:AMF03",
+            "L:AMF04",
+            "L:AMF05",
+            "L:AMF06",
+            "L:AMF07",
+            "L:AMF08",
+            "L:AMF09",
+            "L:AMF10",
+            "C:CH07"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading",
+      "label": "PDA与电子阅读",
+      "introduction": "把记录、查阅和阅读任务放进专用随身终端。",
+      "fineCategories": [
+        "reading"
+      ],
+      "featuredSlug": "amazon-kindle-1",
+      "selectedCount": 7,
+      "stages": [
+        {
+          "id": "reading-expanded-1",
+          "title": "掌上记录与早期阅读器",
+          "need": "带走记录，并在较小的屏幕上查阅。",
+          "turn": "专用终端分别组织输入、同步和长文阅读。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1993,
+            "end": 2007
+          },
+          "slugs": [
+            "apple-newton-messagepad-1993",
+            "palmpilot-professional",
+            "psion-series5-1997",
+            "sony-librie-ebr1000ep",
+            "amazon-kindle-1"
+          ],
+          "sourceIds": [
+            "CM150-S022",
+            "CM150-S023",
+            "C:S25",
+            "C:TXM19A",
+            "C:S16",
+            "L:EA11-S01",
+            "L:EA11-S02",
+            "L:EA03-L01",
+            "L:EA03-L02",
+            "C:S32",
+            "C:TXM25A",
+            "C:TXM25C",
+            "C:TXM25B"
+          ]
+        },
+        {
+          "id": "reading-expanded-2",
+          "title": "阅读与手写的专用界面",
+          "need": "将阅读或手写任务安排在独立设备上。",
+          "turn": "电子纸、触控与内容获取各有条件。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2011,
+            "end": 2020
+          },
+          "slugs": [
+            "kobo-touch-2011",
+            "remarkable-2"
+          ],
+          "sourceIds": [
+            "CM150-S068",
+            "L:AME01",
+            "L:AME02",
+            "L:AME03",
+            "L:AME04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "players",
+      "label": "收听与播放",
+      "introduction": "从寻找广播，到装入录音，再到选择数字文件。",
+      "fineCategories": [
+        "players"
+      ],
+      "featuredSlug": "sony-tps-l2",
+      "selectedCount": 11,
+      "stages": [
+        {
+          "id": "players-expanded-1",
+          "title": "调谐、唱片与磁带",
+          "need": "在家庭空间找到并播放声音。",
+          "turn": "旋钮、实体介质和播放机构组织选择。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1924,
+            "end": 1963
+          },
+          "slugs": [
+            "radiola-iii",
+            "regency-tr1",
+            "braun-sk4",
+            "braun-t3",
+            "philips-el3300"
+          ],
+          "sourceIds": [
+            "C:S01",
+            "C:TXE01",
+            "C:S03",
+            "C:S13",
+            "C:TXE02",
+            "L:H02A",
+            "L:H01A",
+            "L:H05A"
+          ]
+        },
+        {
+          "id": "players-expanded-2",
+          "title": "携带介质与数字光盘",
+          "need": "带走录音，或在家中按曲目选择。",
+          "turn": "磁带、CD与MiniDisc提供不同操作和空间。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1979,
+            "end": 1992
+          },
+          "slugs": [
+            "sony-tps-l2",
+            "sony-cdp-101",
+            "sony-d50-jp",
+            "sony-mz1"
+          ],
+          "sourceIds": [
+            "C:S13",
+            "C:TXE10",
+            "C:S03",
+            "C:CH01",
+            "L:H16A",
+            "L:H16B",
+            "L:H16C",
+            "L:H16D",
+            "L:H16E",
+            "L:H16F",
+            "L:H16G",
+            "CM150-S028",
+            "CM150-S027",
+            "CM150-S029"
+          ]
+        },
+        {
+          "id": "players-expanded-3",
+          "title": "数字音乐终端",
+          "need": "管理并携带一组音乐文件。",
+          "turn": "设备、软件和内容服务共同构成体验。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2001,
+            "end": 2006
+          },
+          "slugs": [
+            "ipod-1",
+            "microsoft-zune30"
+          ],
+          "sourceIds": [
+            "C:S28",
+            "C:TXM21A",
+            "L:EA06-Z01",
+            "L:EA06-Z02"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "headphones",
+      "label": "耳机",
+      "introduction": "声音靠近身体后，佩戴、连接与控制成为设计任务。",
+      "fineCategories": [
+        "headphones"
+      ],
+      "featuredSlug": "koss-sp3",
+      "selectedCount": 3,
+      "stages": [
+        {
+          "id": "headphones-expanded-1",
+          "title": "头戴立体声",
+          "need": "让个人聆听与房间中的声音分开。",
+          "turn": "佩戴形态与播放设备共同安排体验。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1958,
+            "end": 1958
+          },
+          "slugs": [
+            "koss-sp3"
+          ],
+          "sourceIds": [
+            "C:CH01"
+          ]
+        },
+        {
+          "id": "headphones-expanded-2",
+          "title": "无线耳戴与当代观察",
+          "need": "在移动中使用与控制声音。",
+          "turn": "小型化仍需考虑连接、供电与具体版本。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2016,
+            "end": 2026
+          },
+          "slugs": [
+            "airpods-1",
+            "airpods-5"
+          ],
+          "sourceIds": [
+            "C:CH06",
+            "C:TXL16",
+            "C:TXL09",
+            "C:CH08",
+            "C:CH09",
+            "C:TXL13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "label": "游戏机与互动",
+      "introduction": "沿家用、手持、控制器和PC游戏设备分别阅读。",
+      "fineCategories": [
+        "gaming"
+      ],
+      "featuredSlug": "nintendo-switch-2",
+      "selectedCount": 40,
+      "stages": [
+        {
+          "id": "gaming-expanded-1",
+          "title": "电视前的游戏设备",
+          "need": "在屏幕前用专用控制器参与游戏。",
+          "turn": "主机、连接与游戏内容一起构成可用系统。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1972,
+            "end": 1983
+          },
+          "slugs": [
+            "magnavox-odyssey",
+            "atari-vcs",
+            "nintendo-color-tv-game-15",
+            "nintendo-game-watch-ball-1980",
+            "nintendo-famicom"
+          ],
+          "sourceIds": [
+            "C:S08",
+            "C:TXE04",
+            "C:S11",
+            "C:TXE07",
+            "C:S15",
+            "C:TXE11",
+            "G150-S012",
+            "G150-S014",
+            "C:S17",
+            "C:TXM14A",
+            "C:S20"
+          ]
+        },
+        {
+          "id": "gaming-expanded-2",
+          "title": "掌机与光盘的不同路线",
+          "need": "在家用屏幕和随身空间之间选择。",
+          "turn": "手持机、光盘主机与不同显示实验并行。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1989,
+            "end": 1998
+          },
+          "slugs": [
+            "game-boy",
+            "nintendo-super-famicom",
+            "sony-playstation",
+            "nintendo-virtual-boy-jp",
+            "nintendo-64",
+            "nintendo-game-boy-color",
+            "sega-dreamcast-jp"
+          ],
+          "sourceIds": [
+            "C:S20",
+            "C:TXM16A",
+            "G150-S012",
+            "C:S21",
+            "C:TXM17A",
+            "C:TXM17B",
+            "C:TXM17C",
+            "L:EA05-V01",
+            "L:EA05-V02",
+            "G150-S013",
+            "L:EA04-D01",
+            "L:EA04-D02"
+          ]
+        },
+        {
+          "id": "gaming-expanded-3",
+          "title": "平台、连接与动作输入",
+          "need": "用不同控制方式与软件库继续游玩。",
+          "turn": "联网、触控和动作输入出现于具体型号。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2000,
+            "end": 2013
+          },
+          "slugs": [
+            "sony-playstation-2",
+            "nintendo-game-boy-advance",
+            "nintendo-gamecube",
+            "nintendo-ds",
+            "sony-psp-1000",
+            "nintendo-wii",
+            "sony-playstation-3",
+            "nintendo-3ds",
+            "sony-playstation-vita",
+            "nintendo-wii-u",
+            "sony-playstation-4"
+          ],
+          "sourceIds": [
+            "G150-S001",
+            "G150-S012",
+            "C:S29",
+            "C:TXM22A",
+            "G150-S008",
+            "G150-S009",
+            "C:S31",
+            "C:TXM24A",
+            "C:TXM24B",
+            "C:TXM24C",
+            "C:TXM24D",
+            "G150-S002",
+            "G150-S003"
+          ]
+        },
+        {
+          "id": "gaming-expanded-4",
+          "title": "混合使用与PC游戏生态",
+          "need": "在不同位置和平台中延续游戏。",
+          "turn": "主机、手持PC与控制器有各自厂商及软件条件。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2015,
+            "end": 2022
+          },
+          "slugs": [
+            "valve-steam-controller-2015",
+            "sony-playstation-4-pro",
+            "nintendo-switch-2017",
+            "xbox-adaptive-controller",
+            "nintendo-switch-lite",
+            "sony-playstation-5",
+            "steam-deck-lcd"
+          ],
+          "sourceIds": [
+            "G150-S020",
+            "G150-S005",
+            "G150-S015",
+            "L:AMX01",
+            "L:AMX02",
+            "L:AMX03",
+            "L:AMX04",
+            "L:AMX05",
+            "G150-S016",
+            "G150-S004",
+            "G150-S006",
+            "C:TD02",
+            "C:TXL12",
+            "C:TXL10",
+            "C:TXL11"
+          ]
+        },
+        {
+          "id": "gaming-expanded-5",
+          "title": "当代型号与服务条件",
+          "need": "理解新设备实际交付的能力。",
+          "turn": "2023—2026型号按公布、实际供货与观察日期区分。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2023,
+            "end": 2026
+          },
+          "slugs": [
+            "asus-rog-ally-2023",
+            "lenovo-legion-go-2023",
+            "sony-access-controller",
+            "sony-playstation-portal",
+            "msi-claw-a1m",
+            "sony-playstation-5-pro",
+            "asus-rog-xbox-ally-x",
+            "nintendo-switch-2",
+            "valve-steam-controller-2026",
+            "valve-steam-machine-2026"
+          ],
+          "sourceIds": [
+            "G150-S026",
+            "G150-S027",
+            "G150-S011",
+            "G150-S010",
+            "G150-S028",
+            "G150-S007",
+            "G150-S029",
+            "G150-S030",
+            "G150-S017",
+            "G150-S018",
+            "G150-S019",
+            "G150-S024",
+            "G150-S025",
+            "G150-S022",
+            "G150-S023"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "watches",
+      "label": "电子表与智能手表",
+      "introduction": "时间显示、腕上操作与服务能力放在一起比较。",
+      "fineCategories": [
+        "watches"
+      ],
+      "featuredSlug": "casio-f91w",
+      "selectedCount": 4,
+      "stages": [
+        {
+          "id": "watches-expanded-1",
+          "title": "电子时间显示",
+          "need": "在腕上快速读取和管理时间。",
+          "turn": "不同显示和按键保留不同操作取舍。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1972,
+            "end": 1989
+          },
+          "slugs": [
+            "hamilton-pulsar-p1",
+            "casio-f91w"
+          ],
+          "sourceIds": [
+            "C:CH02",
+            "L:EA02-C01",
+            "L:EA02-C02",
+            "L:EA02-C03",
+            "L:EA02-C04",
+            "L:EA02-C05",
+            "L:EA02-C06"
+          ]
+        },
+        {
+          "id": "watches-expanded-2",
+          "title": "腕上计算与当前版本",
+          "need": "让通知与其他任务靠近身体。",
+          "turn": "硬件功能和服务条件随具体版本核对。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2015,
+            "end": 2026
+          },
+          "slugs": [
+            "apple-watch-1",
+            "apple-watch-series-12"
+          ],
+          "sourceIds": [
+            "C:S38",
+            "C:CH03",
+            "C:CH08",
+            "C:CH09",
+            "C:TXL14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bands",
+      "label": "运动手环",
+      "introduction": "沿佩戴、记录与查看结果理解轻量腕戴设备。",
+      "fineCategories": [
+        "bands"
+      ],
+      "featuredSlug": "fitbit-flex",
+      "selectedCount": 3,
+      "stages": [
+        {
+          "id": "bands-expanded-1",
+          "title": "轻量佩戴与日常记录",
+          "need": "持续佩戴并查看活动信息。",
+          "turn": "屏幕、传感与配套软件分担不同工作。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2013,
+            "end": 2014
+          },
+          "slugs": [
+            "fitbit-flex",
+            "xiaomi-mi-band-1"
+          ],
+          "sourceIds": [
+            "C:CH03",
+            "C:TXL06",
+            "C:TXL07",
+            "C:TXL08"
+          ]
+        },
+        {
+          "id": "bands-expanded-2",
+          "title": "当代手环观察",
+          "need": "按明确型号读近期功能。",
+          "turn": "具体硬件与服务的边界继续保留。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2026,
+            "end": 2026
+          },
+          "slugs": [
+            "xiaomi-smart-band-11-active"
+          ],
+          "sourceIds": [
+            "C:CH10",
+            "C:CH11",
+            "C:TXL17",
+            "C:TXL08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "imaging",
+      "label": "摄影与视频",
+      "introduction": "记录、查看与传递影像，各自需要哪些部件。",
+      "fineCategories": [
+        "imaging"
+      ],
+      "featuredSlug": "canon-eos-5d-mark-ii",
+      "selectedCount": 24,
+      "stages": [
+        {
+          "id": "imaging-expanded-1",
+          "title": "电子控制与录像介质",
+          "need": "控制拍摄，并将画面保存在介质上。",
+          "turn": "胶片相机的电子部件与录像设备分别解决任务。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1975,
+            "end": 1989
+          },
+          "slugs": [
+            "sony-betamax-sl-6300",
+            "canon-ae-1",
+            "nikon-f3",
+            "sony-ccd-v8",
+            "canon-rc-701",
+            "canon-eos-650",
+            "sony-ccd-tr55"
+          ],
+          "sourceIds": [
+            "L:ER13",
+            "L:ER14",
+            "L:ER15",
+            "L:H09A",
+            "I150-S041",
+            "I150-S040",
+            "I150-S037",
+            "I150-S036",
+            "I150-S001",
+            "I150-S002",
+            "I150-S003",
+            "I150-S004",
+            "I150-S047"
+          ]
+        },
+        {
+          "id": "imaging-expanded-2",
+          "title": "数字记录与图像查看",
+          "need": "把影像转为可处理的记录。",
+          "turn": "相机、扫描与不同记录格式并行发展。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1991,
+            "end": 1999
+          },
+          "slugs": [
+            "kodak-dcs-1991",
+            "nikon-coolscan-ls-10",
+            "casio-qv10",
+            "sony-dcr-vx1000",
+            "canon-powershot-600",
+            "nikon-coolpix-300",
+            "canon-xl1",
+            "nikon-coolpix-900",
+            "nikon-d1"
+          ],
+          "sourceIds": [
+            "L:H11A",
+            "L:H11B",
+            "I150-S042",
+            "I150-S046",
+            "C:S22",
+            "C:TXM18A",
+            "I150-S039",
+            "I150-S038",
+            "I150-S005",
+            "I150-S006",
+            "I150-S043",
+            "I150-S007",
+            "I150-S008",
+            "I150-S044",
+            "I150-S040",
+            "I150-S045"
+          ]
+        },
+        {
+          "id": "imaging-expanded-3",
+          "title": "视频、无反与随身摄影",
+          "need": "在携带、取景和不同拍摄任务间选择。",
+          "turn": "具体型号组合不同传感、镜头与显示安排。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2008,
+            "end": 2019
+          },
+          "slugs": [
+            "canon-eos-5d-mark-ii",
+            "panasonic-lumix-dmc-g1",
+            "olympus-pen-e-p1",
+            "fujifilm-finepix-x100",
+            "dji-phantom-2013",
+            "ricoh-gr-iii"
+          ],
+          "sourceIds": [
+            "I150-S009",
+            "I150-S010",
+            "I150-S048",
+            "I150-S049",
+            "I150-S050",
+            "I150-S051",
+            "I150-S052",
+            "I150-S053",
+            "L:ER11",
+            "L:ER12",
+            "I150-S074",
+            "I150-S075"
+          ]
+        },
+        {
+          "id": "imaging-expanded-4",
+          "title": "近期拍摄工具",
+          "need": "根据实际拍摄任务理解新设备。",
+          "turn": "媒体试用意见只支持所测版本与条件。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2025,
+            "end": 2026
+          },
+          "slugs": [
+            "insta360-x5",
+            "panasonic-lumix-dc-tz300"
+          ],
+          "sourceIds": [
+            "I150-S076",
+            "I150-S077",
+            "I150-S089",
+            "I150-S088"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "display",
+      "label": "电视、显示与投影",
+      "introduction": "屏幕如何发光，也如何摆进房间。",
+      "fineCategories": [
+        "display",
+        "projectors"
+      ],
+      "featuredSlug": "sony-xel-1",
+      "selectedCount": 13,
+      "stages": [
+        {
+          "id": "display-expanded-1",
+          "title": "电子接收与屏幕体积",
+          "need": "在室内接收并观看画面。",
+          "turn": "机身、显像结构与控制组织观看空间。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1946,
+            "end": 1968
+          },
+          "slugs": [
+            "rca-630ts",
+            "sony-tv8-301",
+            "sony-kv-1310"
+          ],
+          "sourceIds": [
+            "I150-S011",
+            "I150-S012",
+            "I150-S013",
+            "I150-S014",
+            "I150-S015"
+          ]
+        },
+        {
+          "id": "display-expanded-2",
+          "title": "投影与平板显示",
+          "need": "为画面安排不同显示面和摆放位置。",
+          "turn": "投影、液晶与OLED提供不同整机形态。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1989,
+            "end": 2007
+          },
+          "slugs": [
+            "epson-vpj-700",
+            "sharp-aquos-lc20c1",
+            "sony-xel-1"
+          ],
+          "sourceIds": [
+            "I150-S068",
+            "I150-S069",
+            "I150-S018",
+            "I150-S019",
+            "I150-S017",
+            "I150-S016",
+            "I150-S073"
+          ]
+        },
+        {
+          "id": "display-expanded-3",
+          "title": "屏幕与房间重新组合",
+          "need": "在观看之外安排屏幕的存在。",
+          "turn": "画框、旋转、卷收与便携结构呈现不同选择。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2017,
+            "end": 2023
+          },
+          "slugs": [
+            "samsung-the-frame-ls003",
+            "lg-signature-oled-r-rx",
+            "samsung-the-sero-ls05t",
+            "samsung-the-freestyle-2022",
+            "lg-stanbyme-go-27lx5qkna"
+          ],
+          "sourceIds": [
+            "I150-S058",
+            "I150-S059",
+            "I150-S062",
+            "I150-S063",
+            "I150-S060",
+            "I150-S061",
+            "I150-S070",
+            "I150-S071",
+            "L:AMG01",
+            "L:AMG02",
+            "L:AMG03"
+          ]
+        },
+        {
+          "id": "display-expanded-4",
+          "title": "当代显示观察",
+          "need": "分清已供货产品与公告方案。",
+          "turn": "近期型号按明确事件和地区范围阅读。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2025,
+            "end": 2026
+          },
+          "slugs": [
+            "lg-oled-evo-m5-65",
+            "samsung-micro-rgb-r95h-65"
+          ],
+          "sourceIds": [
+            "I150-S064",
+            "I150-S065",
+            "I150-S066",
+            "I150-S067"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "immersive",
+      "label": "VR与AR",
+      "introduction": "把显示戴在头上后，追踪、控制与空间如何配合。",
+      "fineCategories": [
+        "immersive"
+      ],
+      "featuredSlug": "sony-playstation-vr-cuh-zvr1",
+      "selectedCount": 8,
+      "stages": [
+        {
+          "id": "immersive-expanded-1",
+          "title": "外部系统与一体头显",
+          "need": "让头部动作与显示内容对应。",
+          "turn": "外部主机、摄像机或一体结构各有连接条件。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2016,
+            "end": 2019
+          },
+          "slugs": [
+            "htc-vive-2016",
+            "sony-playstation-vr-cuh-zvr1",
+            "microsoft-hololens-2",
+            "oculus-quest-2019"
+          ],
+          "sourceIds": [
+            "I150-S020",
+            "I150-S021",
+            "I150-S026",
+            "I150-S027",
+            "I150-S072",
+            "I150-S030",
+            "I150-S031",
+            "I150-S023",
+            "I150-S022"
+          ]
+        },
+        {
+          "id": "immersive-expanded-2",
+          "title": "当代头显与空间操作",
+          "need": "按具体任务理解头戴计算。",
+          "turn": "追踪、透视、输入和内容依赖明确系统版本。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2023,
+            "end": 2025
+          },
+          "slugs": [
+            "meta-quest-3",
+            "sony-playstation-vr2",
+            "apple-vision-pro-m2",
+            "samsung-galaxy-xr"
+          ],
+          "sourceIds": [
+            "I150-S024",
+            "I150-S025",
+            "I150-S028",
+            "I150-S029",
+            "I150-S032",
+            "I150-S033",
+            "I150-S034",
+            "I150-S035"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "input-printing",
+      "label": "输入、打印与制作",
+      "introduction": "从敲键与指向，到将结果输出为纸张和物件。",
+      "fineCategories": [
+        "input-printing",
+        "making"
+      ],
+      "featuredSlug": "epson-ep101",
+      "selectedCount": 17,
+      "stages": [
+        {
+          "id": "input-printing-expanded-1",
+          "title": "机电输入与可读输出",
+          "need": "将文字或计算结果保存为可读形式。",
+          "turn": "打字、打印与屏幕前的输入分担工作。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1961,
+            "end": 1985
+          },
+          "slugs": [
+            "ibm-selectric-721",
+            "epson-ep101",
+            "speak-and-spell",
+            "epson-mx80",
+            "hp-laserjet-1984",
+            "apple-imagewriter-ii"
+          ],
+          "sourceIds": [
+            "L:H06A",
+            "L:H06B",
+            "CM150-S043",
+            "CM150-S044",
+            "CM150-S013",
+            "C:S12",
+            "C:TXE08",
+            "C:TXE09",
+            "CM150-S045",
+            "CM150-S046",
+            "CM150-S047",
+            "CM150-S048",
+            "CM150-S049"
+          ]
+        },
+        {
+          "id": "input-printing-expanded-2",
+          "title": "输入布局与扫描",
+          "need": "选择怎样输入，并把纸张转为文件。",
+          "turn": "键盘、指向设备和扫描器安排不同手部动作。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1996,
+            "end": 2009
+          },
+          "slugs": [
+            "microsoft-intellimouse-1996",
+            "pfu-hhkb-kb01",
+            "pfu-scansnap-fi4110eox",
+            "epson-perfection-v600-photo"
+          ],
+          "sourceIds": [
+            "CM150-S052",
+            "CM150-S053",
+            "CM150-S050",
+            "CM150-S051",
+            "CM150-S054",
+            "CM150-S055",
+            "I150-S056",
+            "I150-S057"
+          ]
+        },
+        {
+          "id": "input-printing-expanded-3",
+          "title": "制作与多设备操作",
+          "need": "组织多种应用与实体制作任务。",
+          "turn": "专用控制、制作设备和多设备输入按条件使用。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2012,
+            "end": 2019
+          },
+          "slugs": [
+            "raspberry-pi-model-b",
+            "pfu-scansnap-ix500",
+            "logitech-k380-2015",
+            "cricut-maker-2017",
+            "elgato-streamdeck-2017",
+            "nintendo-labo-toy-con-01",
+            "logitech-mx-master-3"
+          ],
+          "sourceIds": [
+            "C:S36",
+            "C:TXL04",
+            "C:TXL05",
+            "I150-S055",
+            "I150-S054",
+            "CM150-S064",
+            "CM150-S065",
+            "CM150-S067",
+            "CM150-S056",
+            "CM150-S057",
+            "CM150-S058",
+            "CM150-S059",
+            "L:AML01",
+            "L:AML02",
+            "L:AML03",
+            "L:AML04",
+            "L:AMM01",
+            "L:AMM02",
+            "L:AMM03",
+            "L:AMM04",
+            "L:AMM05",
+            "L:AMM06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "label": "音乐制作与录音",
+      "introduction": "播放之外，电子设备也参与演奏、编曲和保存声音。",
+      "fineCategories": [
+        "music"
+      ],
+      "featuredSlug": "roland-tr808",
+      "selectedCount": 9,
+      "stages": [
+        {
+          "id": "music-expanded-1",
+          "title": "录音、节奏与电子乐器",
+          "need": "演奏、安排声部并记录声音。",
+          "turn": "多轨录音、节奏机与合成器采用不同工作方式。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1979,
+            "end": 1988
+          },
+          "slugs": [
+            "teac-portastudio144",
+            "roland-tr808",
+            "roland-tb303",
+            "yamaha-dx7",
+            "roland-d50",
+            "korg-m1"
+          ],
+          "sourceIds": [
+            "CM150-S041",
+            "CM150-S042",
+            "CM150-S031",
+            "CM150-S032",
+            "CM150-S033",
+            "CM150-S034",
+            "CM150-S038",
+            "CM150-S039",
+            "CM150-S035",
+            "CM150-S030",
+            "CM150-S040"
+          ]
+        },
+        {
+          "id": "music-expanded-2",
+          "title": "采样、便携录音与组合创作",
+          "need": "在不同地点记录和整理声音。",
+          "turn": "专用创作设备将输入、编辑和录音组合。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2005,
+            "end": 2011
+          },
+          "slugs": [
+            "roland-sp404-original",
+            "zoom-h4-original",
+            "teenage-engineering-op-1"
+          ],
+          "sourceIds": [
+            "CM150-S036",
+            "CM150-S037",
+            "CM150-S060",
+            "CM150-S061",
+            "L:AMO01",
+            "L:AMO02",
+            "L:AMO03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "home",
+      "label": "家居与日常电器",
+      "introduction": "从准备食物、打扫房间，到感知环境与辅助阅读。",
+      "fineCategories": [
+        "kitchen",
+        "cleaning",
+        "environment",
+        "smart-home",
+        "robotics",
+        "care"
+      ],
+      "featuredSlug": "toshiba-er4",
+      "selectedCount": 30,
+      "stages": [
+        {
+          "id": "home-expanded-1",
+          "title": "机电家务与温控",
+          "need": "把重复动作或过程结束交给设备。",
+          "turn": "搅拌、加热、清洁与温控提供不同分工。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1919,
+            "end": 1962
+          },
+          "slugs": [
+            "kitchenaid-h5",
+            "toastmaster-1a1",
+            "kenwood-chef-a700",
+            "toshiba-er4",
+            "hoover-constellation-444",
+            "national-ec36",
+            "braun-hl1",
+            "braun-sixtant-sm31",
+            "sharp-r10"
+          ],
+          "sourceIds": [
+            "HC150-S001",
+            "HC150-S002",
+            "HC150-S003",
+            "HC150-S004",
+            "HC150-S011",
+            "HC150-S012",
+            "HC150-S005",
+            "HC150-S006",
+            "HC150-S015",
+            "HC150-S016",
+            "HC150-S007",
+            "HC150-S008",
+            "HC150-S013",
+            "HC150-S014",
+            "L:H04A",
+            "L:H04B",
+            "HC150-S009",
+            "HC150-S010"
+          ]
+        },
+        {
+          "id": "home-expanded-2",
+          "title": "测量、移动与感知",
+          "need": "理解环境并安排更多家中任务。",
+          "turn": "测量、清洁机器人与陪伴设备保留不同用途。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1973,
+            "end": 2005
+          },
+          "slugs": [
+            "omron-hem1",
+            "dyson-dc01",
+            "husqvarna-solar-mower-1995",
+            "sony-aibo-ers110",
+            "irobot-roomba-2002",
+            "violet-nabaztag-v1"
+          ],
+          "sourceIds": [
+            "HC150-S051",
+            "HC150-S052",
+            "HC150-S055",
+            "HC150-S056",
+            "HC150-S033",
+            "HC150-S034",
+            "HC150-S035",
+            "HC150-S036",
+            "L:AMQ01",
+            "L:ER09",
+            "L:ER10",
+            "HC150-S053",
+            "HC150-S054"
+          ]
+        },
+        {
+          "id": "home-expanded-3",
+          "title": "联网、可及性与自动化",
+          "need": "让设备和服务配合完成具体任务。",
+          "turn": "传感、语音、阅读辅助和食谱引导各有条件。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2010,
+            "end": 2024
+          },
+          "slugs": [
+            "philips-airfryer-hd9220",
+            "nest-learning-thermostat-1",
+            "perkins-smart-brailler",
+            "philips-hue-2012",
+            "nest-protect-1",
+            "amazon-echo-1",
+            "vorwerk-thermomix-tm5",
+            "google-home-2016",
+            "sony-aibo-ers-1000",
+            "roborock-s7",
+            "ikea-dirigera",
+            "aqara-presence-fp2",
+            "humanware-victor-reader-stream-3",
+            "switchbot-s10"
+          ],
+          "sourceIds": [
+            "HC150-S067",
+            "HC150-S068",
+            "HC150-S041",
+            "HC150-S042",
+            "HC150-S039",
+            "HC150-S040",
+            "HC150-S043",
+            "HC150-S044",
+            "HC150-S049",
+            "HC150-S050",
+            "HC150-S045",
+            "HC150-S046",
+            "HC150-S061",
+            "HC150-S062",
+            "HC150-S047",
+            "HC150-S048",
+            "L:AMA01",
+            "L:AMA02",
+            "L:AMA03",
+            "L:AMA04",
+            "L150-S001",
+            "L:AMR01",
+            "L:AMR02",
+            "L:AMR03",
+            "L:AMR04",
+            "L:AMR05",
+            "HC150-S057",
+            "HC150-S058",
+            "HC150-S059",
+            "HC150-S060",
+            "HC150-S066",
+            "HC150-S065",
+            "HC150-S069",
+            "HC150-S070",
+            "HC150-S071"
+          ]
+        },
+        {
+          "id": "home-expanded-4",
+          "title": "近期家居设备",
+          "need": "按版本理解新增感知与自动化。",
+          "turn": "不将试用便利直接推为全部家庭的效果。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2026,
+            "end": 2026
+          },
+          "slugs": [
+            "aqara-spatial-fp400"
+          ],
+          "sourceIds": [
+            "HC150-S072",
+            "HC150-S073"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "communications",
+      "label": "电话与网络接入",
+      "introduction": "从固定电话与寻呼，到无线网络和专用翻译终端。",
+      "fineCategories": [
+        "telephony"
+      ],
+      "featuredSlug": "ericsson-ericofon",
+      "selectedCount": 7,
+      "stages": [
+        {
+          "id": "communications-expanded-1",
+          "title": "固定终端与寻呼",
+          "need": "在固定地点或外出时接收联络。",
+          "turn": "话筒、拨号、视频与寻呼形成不同设备组织。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1949,
+            "end": 1970
+          },
+          "slugs": [
+            "western-electric-500",
+            "ericsson-ericofon",
+            "motorola-pageboy-i",
+            "western-electric-picturephone-mod-ii"
+          ],
+          "sourceIds": [
+            "HC150-S017",
+            "HC150-S018",
+            "HC150-S019",
+            "HC150-S020",
+            "HC150-S025",
+            "HC150-S026",
+            "HC150-S031",
+            "HC150-S032"
+          ]
+        },
+        {
+          "id": "communications-expanded-2",
+          "title": "网络接入与专用终端",
+          "need": "连接设备，并完成具体通信任务。",
+          "turn": "接入设备、无线网络与专用翻译分别成立。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1999,
+            "end": 2018
+          },
+          "slugs": [
+            "apple-airport-1999",
+            "avm-fritzbox-2004",
+            "sourcenext-pocketalk-w"
+          ],
+          "sourceIds": [
+            "HC150-S027",
+            "HC150-S028",
+            "HC150-S029",
+            "HC150-S030",
+            "HC150-S063",
+            "HC150-S064"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "navigation",
+      "label": "导航与定位",
+      "introduction": "定位信息怎样成为手中、车内与航空设备的界面。",
+      "fineCategories": [
+        "navigation"
+      ],
+      "featuredSlug": "magellan-nav1000",
+      "selectedCount": 3,
+      "stages": [
+        {
+          "id": "navigation-expanded-1",
+          "title": "手持与航空定位",
+          "need": "在移动中获得位置信息。",
+          "turn": "手持机与获批航空型号面对不同使用要求。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 1988,
+            "end": 1994
+          },
+          "slugs": [
+            "magellan-nav1000",
+            "garmin-gps155-tso"
+          ],
+          "sourceIds": [
+            "HC150-S021",
+            "HC150-S022",
+            "HC150-S037",
+            "HC150-S038"
+          ]
+        },
+        {
+          "id": "navigation-expanded-2",
+          "title": "专用道路导航",
+          "need": "把路线提示安排在车内。",
+          "turn": "位置、地图与专用界面共同承担导航任务。",
+          "isCuratorialReading": true,
+          "yearRange": {
+            "start": 2004,
+            "end": 2004
+          },
+          "slugs": [
+            "tomtom-go-2004"
+          ],
+          "sourceIds": [
+            "HC150-S023",
+            "HC150-S024"
+          ]
+        }
+      ]
+    }
+  ],
+  "counts": {
+    "homeRows": 12,
+    "readingLines": 16,
+    "stages": 45,
+    "placedSelectedModels": 216
+  },
+  "factsIn": "selection-150.json；完整正文在complete-batch-14.json及原collection.json",
+  "datePolicy": "沿每件具体dateLabel/dateKind；阶段年份是所选节点的事件范围，不作为统一全球首售。",
+  "contentPolicy": "现40与新增14完整稿可全文阅读；其余162显示明确的事实档案。未决产品不进入时间线。",
+  "mediaPolicy": "现有照片仅沿用src/image-overrides.json及原作者/许可；新增型号文字回退。",
+  "productionChroniclesPreserved": {
+    "path": "docs/chronicles.json",
+    "sha256": "e2f4f4a8fce0dc0a4c0166c62f29fe538124d72098f1368a8fc9ad0ae64e2e34"
+  },
+  "implementationSequence": [
+    "协调线程复核最终选择、14完整稿及页面方案。",
+    "原代码线程分批导入完整正文与类别，不以未完成档案冒充正式完整介绍。",
+    "页面模板支持事实档案与完整介绍分开；实际公开范围由协调确认。",
+    "保留现有编年节点元信息，再按阅读线增加已完成产品与必要背景；不要用本阶段策展文字覆盖原历史背景。",
+    "核照片/文字回退、移动阅读、来源、路由与关联，才完成实际站点实施。"
+  ],
+  "primaryNavigation": [
+    {
+      "label": "首页",
+      "previewView": "home"
+    },
+    {
+      "label": "馆藏",
+      "previewView": "catalog"
+    },
+    {
+      "label": "产品编年史",
+      "previewView": "chronicles"
+    },
+    {
+      "label": "关于",
+      "previewView": "about"
+    }
+  ]
+}

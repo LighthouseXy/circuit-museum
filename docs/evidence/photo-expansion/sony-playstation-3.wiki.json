@@ -1,0 +1,90 @@
+{
+  "slug": "sony-playstation-3",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:PS3 consoles montage HQ.png",
+      "pageid": 195786840,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PS3_consoles_montage_HQ.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1e/PS3_consoles_montage_HQ.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/PS3_consoles_montage_HQ.png/960px-PS3_consoles_montage_HQ.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-07-17 02:04:23",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "PS3 consoles montage HQ",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PlayStation 3|PlayStation 3 Super Slim|PlayStation 3 Slim|DualShock 3|Self-published work|PD-self|Extracted images|Released into the public domain by the copyright holder missing SDC copyright license|Evan Amos|Home game consoles on white background",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The three PS3 models with one controller, shown together with cropped borders",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "<p>19 August 2016 (PS3 original model)<br>\n</p>\n29 July 2016 (PS3 Slim)<br>18 August 2016 (PS3 Super Slim)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span> created from three existing images by <a href=\"//commons.wikimedia.org/wiki/User:Evan-Amos\" title=\"User:Evan-Amos\">Evan-Amos</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Evan-Amos\" title=\"User:Evan-Amos\">Evan-Amos</a> (original photos)",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The three PS3 models with one controller, shown together with cropped borders",
+      "artist": "Evan-Amos  (original photos)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "19 August 2016 (PS3 original model) \n \n29 July 2016 (PS3 Slim) 18 August 2016 (PS3 Super Slim)"
+    }
+  ]
+}

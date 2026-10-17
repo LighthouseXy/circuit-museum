@@ -1,0 +1,1142 @@
+{
+  "checkedOn": "2026-10-13",
+  "policy": "Explicit reviewed source IDs only; unknown or removed source yields a blank URL with a review note. Source-list order and title similarity never imply a model match.",
+  "selections": {
+    "koss-sp3": {
+      "sourceId": "CH01",
+      "reviewedTitle": "Koss History",
+      "reviewedScope": "1958 年 SP/3 与 Koss/Lange 的立体声唱机演示、耳机连接和私密聆听背景；不支持声学实测或后继型号规格。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://koss.com/en-ca/pages/koss-history",
+      "reviewedPublisher": "Koss"
+    },
+    "hamilton-pulsar-p1": {
+      "sourceId": "CH02",
+      "reviewedTitle": "The Hamilton PSR",
+      "reviewedScope": "1970 年原型公开、1972 年 P1 上市、金质表壳表链与红色数字读时；原型、P2 和 2020 PSR 的功能分别处理。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.swatchgroup.com/en/services/archive/2020/hamilton-psr",
+      "reviewedPublisher": "Swatch Group / Hamilton"
+    },
+    "motorola-dynatac-8000x": {
+      "sourceId": "S16",
+      "reviewedTitle": "Cell Phone Development — Motorola Solutions",
+      "reviewedScope": "1973年演示原型、便携蜂窝系统的研发与1983年9月21日8000X获得FCC批准；支持通话设备与网络共同构成移动性的背景。代表性段落为原创策展解读。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.motorolasolutions.com/en_xp/about/history/explore-motorola-heritage/cell-phone-development.html",
+      "reviewedPublisher": "Motorola Solutions"
+    },
+    "amazon-kindle-1": {
+      "sourceId": "S32",
+      "reviewedTitle": "A look back at 10 years of the Amazon Kindle",
+      "reviewedScope": "2007年初代Kindle的持续阅读设计目标、无线获取、搜索和字典，以及实体阅读器与内容服务的关系。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.aboutamazon.com/news/devices/a-look-back-at-10-years-of-the-amazon-kindle",
+      "reviewedPublisher": "Amazon"
+    },
+    "ipad-1": {
+      "sourceId": "S34",
+      "reviewedTitle": "Apple Launches iPad — Apple",
+      "reviewedScope": "重核2010-01-27原公告正文：9.7英寸、Wi-Fi/3G版本、iBooks、iWork、屏幕键盘与键盘底座；规格及无摄像头由TXL02、TXL03补证。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.apple.com/sg/newsroom/2010/01/27Apple-Launches-iPad/",
+      "reviewedPublisher": "Apple"
+    },
+    "macbook-air-m5-2026": {
+      "sourceId": "CH07",
+      "reviewedTitle": "Apple introduces the new MacBook Air with M5",
+      "reviewedScope": "2026-03-03官方原公告正文已读，明确3月4日预订/3月11日发售，13/15英寸、M5、GPU神经加速器、无风扇、512GB起、MagSafe/两只TB4/两外屏、N1与12MP相机。仅将13英寸计入此馆藏；性能倍数及长期表现未推广。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://images.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+      "reviewedPublisher": "Apple"
+    },
+    "xiaomi-smart-band-11-active": {
+      "sourceId": "CH10",
+      "reviewedTitle": "Xiaomi Smart Band 11 Active — Specs",
+      "reviewedScope": "现有规格全文已读，明确1.47英寸TFT、PPG、加速度计、ERM、磁吸、300mAh、50模式及Mi Fitness，健康数据为个人参考的厂商边界已核查。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.mi.com/global/product/xiaomi-smart-band-11-active/specs/",
+      "reviewedPublisher": "Xiaomi"
+    },
+    "sony-cdp-101": {
+      "sourceId": "B:H16B",
+      "reviewedTitle": "Sony CDP-101 Operating Instructions, 1982, 14 pages",
+      "reviewedScope": "原稿©1982 Sony；目录和摘要可读：第4页持盘边缘／避免触及彩色表面，第6页控制，第8页放盘／播放，第9页寻曲，第10页重复，第13页遥控；不推日本电压。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.manualslib.com/manual/3991316/Sony-Cdp-101.html",
+      "reviewedPublisher": "Sony Corporation；ManualsLib镜像"
+    },
+    "casio-f91w": {
+      "sourceId": "B:EA02-C01",
+      "reviewedTitle": "CASIO Watch Heritage: 1980s — F-91W (1989)",
+      "reviewedScope": "已读官方年代史：1989年F-91W推出；计时/闹钟/照明等基本配置。品牌销量与“长期畅销”叙述不作独立市场证据。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.casio.com/intl/watches/Heritage/1980s/",
+      "reviewedPublisher": "Casio"
+    },
+    "ibm-thinkpad-701c": {
+      "sourceId": "B:H15A",
+      "reviewedTitle": "ThinkPad — The butterfly takes flight",
+      "reviewedScope": "1995年701C、John Karidis两片键盘随开合伸出、10.4英寸屏幕背景、生产延迟和屏幕增长、同年推出并撤售。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.ibm.com/history/thinkpad",
+      "reviewedPublisher": "IBM History"
+    },
+    "nokia-3310-2000": {
+      "sourceId": "B:EA01-N01",
+      "reviewedTitle": "Nokia introduces mobile chat with the Nokia 3310",
+      "reviewedScope": "已读原发布稿：9月1日发布；第四季度为计划供货，非已证实首次零售日；GSM 900/1800、Navi Key、内置天线、短信聊天、可换前后壳。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.globenewswire.com/fr/news-release/2000/09/01/1845525/0/en/Nokia-introduces-mobile-chat-with-the-Nokia-3310.html",
+      "reviewedPublisher": "Nokia Oyj / GlobeNewswire"
+    },
+    "logitech-mx-master-3": {
+      "sourceId": "B:AMM01",
+      "reviewedTitle": "Logitech Enables Advanced Users to Achieve Peak Performance with MX Master 3 and MX Keys",
+      "reviewedScope": "2019-09-04公告原版MX Master 3；电磁滚轮、4000 DPI、USB-C充电；9月网络销售、10月门店为当时计划，未用计划代替实际零售证据。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://news.logitech.com/press-releases/news-details/2019/Logitech-Enables-Advanced-Users-to-Achieve-Peak-Performance-with-MX-Master-3-and-MX-Keys/default.aspx",
+      "reviewedPublisher": "Logitech"
+    },
+    "framework-laptop-13-2021": {
+      "sourceId": "B:AMF01",
+      "reviewedTitle": "Introducing the Framework Laptop",
+      "reviewedScope": "2021年原始公布；第11代Intel、13.5英寸3:2屏、四个扩展卡槽、可替换部件及DIY版本。网页导航现含后续产品，未将其规格归给本件。 原公告正文另核铝制壳体、磁吸边框与部件QR码通向指南/零件商店；这些是结构与文档安排，不证明实际寿命或减排效果。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://frame.work/blog/introducing-the-framework-laptop",
+      "reviewedPublisher": "Framework"
+    },
+    "osborne-1": {
+      "sourceId": "CM150-S009",
+      "reviewedTitle": "Osborne 1",
+      "reviewedScope": "1981 introduced；厂商身份，设计者、价格及23.5磅。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.computerhistory.org/revolution/mobile-computing/18/316/1759",
+      "reviewedPublisher": "Computer History Museum"
+    },
+    "epson-ep101": {
+      "sourceId": "CM150-S043",
+      "reviewedTitle": "EP-101 milestone product",
+      "reviewedScope": "1968年9月，行式21列、黑红色带、17V直流，向计算器厂供货；163.5×135×102毫米。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://corporate.epson/en/about/history/milestone-products/1968-9-ep-101.html",
+      "reviewedPublisher": "Epson"
+    },
+    "toshiba-er4": {
+      "sourceId": "HC150-S005",
+      "reviewedTitle": "自动式电气釜ER-4 100611940014",
+      "reviewedScope": "精确型号、量产身份、发售日期与控制原理；调查方日本电机工业会",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://sts.kahaku.go.jp/sts/detail.php?c=&city=&id=&no=100611940014&org=&p=116&pref=&word=&y1=&y2=",
+      "reviewedPublisher": "国立科学博物馆产业技术史数据库"
+    },
+    "ericsson-ericofon": {
+      "sourceId": "HC150-S019",
+      "reviewedTitle": "Ericofon design and innovation journey",
+      "reviewedScope": "试产/生产分界、ABS与结构开发",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.ericsson.com/en/about-us/history/products/the-telephones/the-ericofon--cobra-1956-1954",
+      "reviewedPublisher": "Ericsson"
+    },
+    "sony-xel-1": {
+      "sourceId": "I150-S016",
+      "reviewedTitle": "Sony Launches OLED TV",
+      "reviewedScope": "2007-10-01公告、日本计划12-01；11英寸/最薄3mm/无背光/侧臂与遥控",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.sony.com/en/SonyInfo/News/Press/200710/07-1001E/",
+      "reviewedPublisher": "Sony"
+    },
+    "sony-playstation-vr-cuh-zvr1": {
+      "sourceId": "I150-S026",
+      "reviewedTitle": "PlayStation VR launches today US/Canada",
+      "reviewedScope": "2016-10-13正式销售；PS4兼容与零售core套装",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://blog.playstation.com/2016/10/13/playstation-vr-launches-today-across-the-united-states-and-canada/",
+      "reviewedPublisher": "Sony Interactive Entertainment"
+    },
+    "nintendo-switch-2": {
+      "sourceId": "G150-S017",
+      "reviewedTitle": "Nintendo Switch 2 April 2 announcement",
+      "reviewedScope": "Switch2屏幕、磁吸控制器、鼠标控制条件、支架、顶部USB-C；GameChat需会员且免费期截至2026-03-31。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nintendo.co.jp/corporate/release/en/2025/250402.html",
+      "reviewedPublisher": "Nintendo"
+    },
+    "sony-playstation-5-pro": {
+      "sourceId": "G150-S007",
+      "reviewedTitle": "SIE launches PlayStation 5 Pro",
+      "reviewedScope": "2024-11-07实际上市、PSSR、增强因游戏而异。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://sonyinteractive.com/en/press-releases/2024/sony-interactive-entertainment-launches-playstation-5-pro/",
+      "reviewedPublisher": "Sony Interactive Entertainment"
+    },
+    "hp-65": {
+      "sourceId": "CM150-S007",
+      "reviewedTitle": "HP-65 programmable pocket calculator, 1974",
+      "reviewedScope": "HP-65身份、1974年、磁卡编程。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/personalsystems/0024/index.html",
+      "reviewedPublisher": "HP"
+    },
+    "roland-tr808": {
+      "sourceId": "CWC-S002",
+      "reviewedTitle": "The TR-808 Story",
+      "reviewedScope": "1980–1982生产期；模拟发声、16步按钮编排保存、声音控制和底鼓衰减。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.roland.com/uk/promos/roland_tr-808/?lang=en-GB",
+      "reviewedPublisher": "Roland"
+    },
+    "roland-tb303": {
+      "sourceId": "CM150-S033",
+      "reviewedTitle": "Roland Cloud TB-303 release",
+      "reviewedScope": "2019软件公告回溯原TB303于1981发布、定位模拟贝司伴奏。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.roland.com/RolandComSite/media/global/release/pdf/2019/20190303_1_RolandCloud_TB-303.pdf",
+      "reviewedPublisher": "Roland"
+    },
+    "yamaha-dx7": {
+      "sourceId": "CM150-S038",
+      "reviewedTitle": "Design Insights DX7",
+      "reviewedScope": "1983 DX7 FM数字合成器，膜开关LCD与参数再现。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.yamaha.com/en/tech-design/design/insights/id_009/",
+      "reviewedPublisher": "Yamaha"
+    },
+    "teac-portastudio144": {
+      "sourceId": "CWC-S005",
+      "reviewedTitle": "Model 144 Portastudio original catalog (scan)",
+      "reviewedScope": "原144四轨盒式磁带录音与调音；左右总线单轨或各一轨录入、监听/叠录/合轨/混出、倍速走带及指定磁带。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.preservationsound.com/wp-content/uploads/2013/06/Tascam_144_Catalog.pdf",
+      "reviewedPublisher": "TEAC/Tascam；Preservation Sound保存扫描"
+    },
+    "hp-laserjet-1984": {
+      "sourceId": "CM150-S047",
+      "reviewedTitle": "HP LaserJet printer 1984",
+      "reviewedScope": "1984原始HP LaserJet身份。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.hp.com/hpinfo/abouthp/histnfacts/museum/imagingprinting/0018/index.html",
+      "reviewedPublisher": "HP"
+    },
+    "apple-newton-messagepad-1993": {
+      "sourceId": "CM150-S022",
+      "reviewedTitle": "Apple Newton MessagePad",
+      "reviewedScope": "硬件名MessagePad；Newton是操作系统名称。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.computinghistory.org.uk/det/51131/Apple-Newton-MessagePad/",
+      "reviewedPublisher": "Centre for Computing History"
+    },
+    "iomega-zip100": {
+      "sourceId": "CM150-S025",
+      "reviewedTitle": "Zip 100 drive",
+      "reviewedScope": "指定Zip100驱动器、1994。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.computerhistory.org/revolution/cycle-of-computers/9/101/1082",
+      "reviewedPublisher": "Computer History Museum"
+    },
+    "pfu-scansnap-fi4110eox": {
+      "sourceId": "CWC-S009",
+      "reviewedTitle": "ScanSnap fi-4110EOX取扱説明書第四版",
+      "reviewedScope": "型号fi4110EOX；版次2001年11月第四版，前言/安装/读取/纸张条件/单面双面按钮/PDF缩略图/明信片OCR；系统环境属当时版本。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.pfu.ricoh.com/global/scanners/scansnap/downloads/jp/jscan/manual/P3PC-E312-04.pdf",
+      "reviewedPublisher": "PFU"
+    },
+    "logitech-k380-2015": {
+      "sourceId": "CM150-S064",
+      "reviewedTitle": "Create and Communicate on Any Device",
+      "reviewedScope": "2015原K380蓝牙多设备键盘公告。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://news.logitech.com/press-releases/news-details/2015/Create-and-Communicate-on-Any-Device-with-Logitechs-New-Bluetooth-Keyboard-and-Mouse/default.aspx",
+      "reviewedPublisher": "Logitech"
+    },
+    "kobo-touch-2011": {
+      "sourceId": "CM150-S068",
+      "reviewedTitle": "Kobo Launches eReader Touch Edition",
+      "reviewedScope": "2011年5月23日公告和北美预订；计划6月初商店销售、7月全球供货；红外触控和Pearl电子纸。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.kobo.com/news/kobo-launches-the-all-new-kobo-ereader-touch-edition",
+      "reviewedPublisher": "Kobo"
+    },
+    "samsung-t7-2020": {
+      "sourceId": "CM150-S062",
+      "reviewedTitle": "T7 SSD Available for Purchase",
+      "reviewedScope": "美国2020年5月19日非Touch T7可购；USB3.2Gen2速度依主机。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://news.samsung.com/us/samsungs-t7-portable-ssd-now-available/?na=s",
+      "reviewedPublisher": "Samsung"
+    },
+    "sony-playstation-2": {
+      "sourceId": "G150-S001",
+      "reviewedTitle": "PlayStation history: PS2 / PSP",
+      "reviewedScope": "PS2日本2000-03-04、DVD和初代光盘兼容；PSP UMD路线。PSP日本日期与当年公告冲突，不采用本页12-11。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.playstation.com/en-us/playstation-history/2000-ps2-psp/",
+      "reviewedPublisher": "Sony Interactive Entertainment"
+    },
+    "sony-psp-1000": {
+      "sourceId": "CWG-S002",
+      "reviewedTitle": "PSP-1000 取扱説明書 1.52以前",
+      "reviewedScope": "原PSP1000；p29—40 UMD装入、Memory Stick Duo、游戏与保存；p41起影音。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/psp-docs/JA_PSP-1000_WEB.pdf",
+      "reviewedPublisher": "Sony Interactive Entertainment"
+    },
+    "sony-playstation-3": {
+      "sourceId": "G150-S002",
+      "reviewedTitle": "PlayStation history: PS3 / PS Vita",
+      "reviewedScope": "PS3日本2006-11-11/Blu-ray/XMB；Vita日本2011-12-17、原OLED和后触摸板；后来的Remote Play不作首发功能。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.playstation.com/en-us/playstation-history/2007-ps3-ps-vita/",
+      "reviewedPublisher": "Sony Interactive Entertainment"
+    },
+    "sony-playstation-vita": {
+      "sourceId": "G150-S002",
+      "reviewedTitle": "PlayStation history: PS3 / PS Vita",
+      "reviewedScope": "PS3日本2006-11-11/Blu-ray/XMB；Vita日本2011-12-17、原OLED和后触摸板；后来的Remote Play不作首发功能。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.playstation.com/en-us/playstation-history/2007-ps3-ps-vita/",
+      "reviewedPublisher": "Sony Interactive Entertainment"
+    },
+    "sony-playstation-4": {
+      "sourceId": "G150-S003",
+      "reviewedTitle": "PlayStation history: PS4 / PS VR",
+      "reviewedScope": "PS4美国2013-11-15、日本2014-02-22；分享按钮与触摸板。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.playstation.com/en-us/playstation-history/2013-ps4-ps-vr/",
+      "reviewedPublisher": "Sony Interactive Entertainment"
+    },
+    "sony-playstation-4-pro": {
+      "sourceId": "G150-S005",
+      "reviewedTitle": "PS4 Pro launches today",
+      "reviewedScope": "2016-11-10实际上市；同PS4游戏库，增强随游戏支持。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://blog.playstation.com/2016/11/10/playstation-4-pro-launches-today/",
+      "reviewedPublisher": "Sony Interactive Entertainment"
+    },
+    "sony-playstation-5": {
+      "sourceId": "G150-S004",
+      "reviewedTitle": "PlayStation history: PS5 / PS VR2",
+      "reviewedScope": "PS5原光盘版与SSD、DualSense；不采用页面把11-12简化为全球同时发售的口径。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.playstation.com/en-us/playstation-history/2020-ps5-ps-vr2/",
+      "reviewedPublisher": "Sony Interactive Entertainment"
+    },
+    "nintendo-switch-2017": {
+      "sourceId": "CWG-S006",
+      "reviewedTitle": "Nintendo Switch: play modes and connecting",
+      "reviewedScope": "分别读取原HAC001底座接口连接、JoyCon拆卸与桌面支架；Lite限制；不借用OLED底座接口。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nintendo.com/sg/support/switch/playmode/index.html",
+      "reviewedPublisher": "Nintendo"
+    },
+    "nintendo-super-famicom": {
+      "sourceId": "CWG-S008",
+      "reviewedTitle": "Super Famicom原开发者回忆：controller设计",
+      "reviewedScope": "2017宫本等访谈The curvy controller：原日本/欧洲设计、ABXY位置与颜色，及原游戏卡带可加入SuperFX；不把ClassicMini系统功能借原机。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nintendo.com/en-gb/News/2017/September/Nintendo-Classic-Mini-SNES-developer-interview-Volume-1-Star-Fox-Star-Fox-2-1273086.html",
+      "reviewedPublisher": "Nintendo"
+    },
+    "nintendo-64": {
+      "sourceId": "G150-S012",
+      "reviewedTitle": "Nintendo corporate history",
+      "reviewedScope": "日本电视游戏15/6(1977)、SFC(1990)、N64(1996)、GBA/GC(2001)、3DS(2011)、WiiU(2012)、Switch(2017)、Switch2(2025)逐型年份和家用/掌上分类。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nintendo.co.jp/corporate/history/index.html",
+      "reviewedPublisher": "Nintendo"
+    },
+    "nintendo-game-boy-color": {
+      "sourceId": "G150-S013",
+      "reviewedTitle": "Nintendo UK hardware history",
+      "reviewedScope": "N64日本1996-06-23、GameBoyColor1998；DSi2008、游戏掌机系列史。未采用销量/首创口号。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-History-625945.html",
+      "reviewedPublisher": "Nintendo"
+    },
+    "nintendo-game-boy-advance": {
+      "sourceId": "CWG-S012",
+      "reviewedTitle": "GameBoyAdvance原AGB欧版手册",
+      "reviewedScope": "p6—11原AGB反射TFT、两AA电池、ABLR、先插卡再开机、光照角度、四类卡带与兼容限制，连接电缆依内容；不用SP背光。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nintendo.com/eu/media/downloads/support_1/game_boy_advance_4/GBA_Manual_UK_DE_FR.pdf",
+      "reviewedPublisher": "Nintendo"
+    },
+    "nintendo-gamecube": {
+      "sourceId": "CWG-S013",
+      "reviewedTitle": "GameCube原厂小光盘规格",
+      "reviewedScope": "原8cm小光盘约1.5GB；只用规格不采用未来成为标准的宣传预测。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nintendo.co.jp/ngc/disk/index.html",
+      "reviewedPublisher": "Nintendo"
+    },
+    "nintendo-3ds": {
+      "sourceId": "CWG-S016",
+      "reviewedTitle": "原Nintendo3DS CTR001日本手册",
+      "reviewedScope": "CTR001(JPN)；上3D屏/3D滑块、下触屏、SlidePad/HOME、3DS/DS卡带；非New3DS，不采用未来服务续存。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://support.nintendo.com/jp/3ds/pdf/3dsmanual.pdf",
+      "reviewedPublisher": "Nintendo"
+    },
+    "nintendo-wii-u": {
+      "sourceId": "CWG-S017",
+      "reviewedTitle": "WiiU操作手册欧洲修订",
+      "reviewedScope": "2017版；GamePad触屏/摇杆/按钮、独立充电、主机连接与SYNC，支持内容与配件条件；不据2017指南当2012全部服务。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nintendo.com/eu/media/downloads/support_1/wii_u_3/WiiU_OperationsManual_EN.pdf",
+      "reviewedPublisher": "Nintendo"
+    },
+    "nintendo-switch-lite": {
+      "sourceId": "G150-S015",
+      "reviewedTitle": "Nintendo Switch Lite announcement",
+      "reviewedScope": "原Switch三模式；Lite携带专用、控制器一体，2019-09-20当时计划。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nintendo.co.jp/corporate/release/2019/190710.html",
+      "reviewedPublisher": "Nintendo"
+    },
+    "kitchenaid-h5": {
+      "sourceId": "HC150-S001",
+      "reviewedTitle": "KitchenAid 100年产品史",
+      "reviewedScope": "H-5、1919节点、附件用途",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.kitchenaid.com/100year/history.html",
+      "reviewedPublisher": "KitchenAid"
+    },
+    "toastmaster-1a1": {
+      "sourceId": "HC150-S003",
+      "reviewedTitle": "Toastmaster 1A1 Electric Toaster",
+      "reviewedScope": "精确型号、实物制造1926–1930、材料",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://americanhistory.si.edu/collections/object/nmah_1118367",
+      "reviewedPublisher": "Smithsonian NMAH"
+    },
+    "kenwood-chef-a700": {
+      "sourceId": "HC150-S011",
+      "reviewedTitle": "How old is my Chef?",
+      "reviewedScope": "A700 1950–1957与后续型号分界",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.kenwoodworld.com/it-it/faqs/Qual-%C3%A8-l%E2%80%99et%C3%A0-del-mio-Chef/a/2910",
+      "reviewedPublisher": "Kenwood／DeLonghi"
+    },
+    "national-ec36": {
+      "sourceId": "HC150-S007",
+      "reviewedTitle": "1956 Panasonic Group History",
+      "reviewedScope": "1956 EC-36上市与直接加热结构",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://holdings.panasonic/global/corporate/about/history/chronicle/1956.html",
+      "reviewedPublisher": "Panasonic Holdings"
+    },
+    "sharp-r10": {
+      "sourceId": "HC150-S009",
+      "reviewedTitle": "Japan's First Mass Produced Microwave Oven R-10",
+      "reviewedScope": "1961开发、1962量产、商用客户路线",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://global.sharp/corporate/info/his/only_one/item/t06.html",
+      "reviewedPublisher": "Sharp"
+    },
+    "dyson-dc01": {
+      "sourceId": "CWH-S001",
+      "reviewedTitle": "DC01 Operating Manual, 00753-01 (21 November 1997 revision)",
+      "reviewedScope": "六页操作资料：装配、清空集尘桶、清洁分离罩、滤材、刷条、堵塞检查及热保护；页脚1997修订。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.dyson.ie/content/dam/dyson/maintenance/user-guides/en_GB/vacuumcleaners/uprights/dc01/00800-01.pdf",
+      "reviewedPublisher": "Dyson"
+    },
+    "western-electric-500": {
+      "sourceId": "HC150-S018",
+      "reviewedTitle": "Western Electric model500 exhibit",
+      "reviewedScope": "500实物展出身份和1949年份；不采纳近乎不坏夸张",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.westporttechmuseum.com/products/rotary-dial-phones-1970",
+      "reviewedPublisher": "Westport Tech Museum"
+    },
+    "hoover-constellation-444": {
+      "sourceId": "HC150-S015",
+      "reviewedTitle": "Hoover Constellation model444",
+      "reviewedScope": "444身份、约1956–1959、设计师、材料和附件",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://collections.lacma.org/object/284108",
+      "reviewedPublisher": "LACMA"
+    },
+    "braun-hl1": {
+      "sourceId": "HC150-S013",
+      "reviewedTitle": "Desk Fan model HL1",
+      "reviewedScope": "HL1、1961、Braun、设计师和材料",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.moma.org/collection/works/2495?classifications=any&date_begin=Pre-1850&date_end=2018&locale=en&page=1&q=fan&with_images=1",
+      "reviewedPublisher": "MoMA"
+    },
+    "braun-sixtant-sm31": {
+      "sourceId": "L:H04A",
+      "reviewedTitle": "sixtant SM 31",
+      "reviewedScope": "SM31、1962、用途剃须、Gerd Alfred Müller和Hans Gugelot、Braun制造、馆藏编号200514000600。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://jmapps.ne.jp/musabi_art_lib/det.html?data_id=1062",
+      "reviewedPublisher": "武藏野美术大学美术馆·图书馆"
+    },
+    "motorola-pageboy-i": {
+      "sourceId": "HC150-S026",
+      "reviewedTitle": "PageBoy I exhibit",
+      "reviewedScope": "PageBoy I身份与1964–1975展品标签；图源eBay",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.westporttechmuseum.com/collections/technological-firsts/products/motorola-pageboy-i-1964-1975",
+      "reviewedPublisher": "Westport Tech Museum"
+    },
+    "western-electric-picturephone-mod-ii": {
+      "sourceId": "HC150-S032",
+      "reviewedTitle": "Picturephone ModII collection",
+      "reviewedScope": "翻转镜面与三对线路；不采用网页0.8MP疑似错误数字",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.videocall50th.com/picturephone",
+      "reviewedPublisher": "Carnegie Mellon University历史技术小组"
+    },
+    "omron-hem1": {
+      "sourceId": "HC150-S051",
+      "reviewedTitle": "Omron Healthcare History",
+      "reviewedScope": "1973、HEM1、手动manometer身份",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://healthcare.omron.com/about/our-history",
+      "reviewedPublisher": "Omron"
+    },
+    "magellan-nav1000": {
+      "sourceId": "HC150-S021",
+      "reviewedTitle": "NAV1000 Hand-Held GPS Receiver",
+      "reviewedScope": "型号、1988实物制造年、电池供电",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://americanhistory.si.edu/collections/object/nmah_1405613",
+      "reviewedPublisher": "Smithsonian NMAH"
+    },
+    "garmin-gps155-tso": {
+      "sourceId": "HC150-S037",
+      "reviewedTitle": "GPS milestone aviation 2014",
+      "reviewedScope": "GPS155 TSO批准日期；本轮未独立读取FAA原证书",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.garmin.com/en-US/newsroom/press-release/aviation/2014-garmin-recognizes-a-gps-milestone-in-aviation/",
+      "reviewedPublisher": "Garmin"
+    },
+    "husqvarna-solar-mower-1995": {
+      "sourceId": "CWH-S004",
+      "reviewedTitle": "Workshop Manual Auto Mower / Solar Mower, 2000-06",
+      "reviewedScope": "原厂维修手册6.3明确1995 Solar Mower边界线频率不同于1998后版本；仅用于1995确有边界线定位机制。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.lsengineers.co.uk/media/advice_centre/Husqvarna/Automower/operators-manual-solarmower.pdf",
+      "reviewedPublisher": "Husqvarna（原厂手册，LS Engineers镜像）"
+    },
+    "apple-airport-1999": {
+      "sourceId": "HC150-S027",
+      "reviewedTitle": "Apple lance AirPort",
+      "reviewedScope": "首代基站身份、公布日期、11Mbps与接口、供货计划",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.apple.com/ca/fr/press/1999/07/airport.html",
+      "reviewedPublisher": "Apple"
+    },
+    "sony-aibo-ers110": {
+      "sourceId": "HC150-S035",
+      "reviewedTitle": "Sony launches four-legged robot",
+      "reviewedScope": "ERS110身份、公布日期、功能与地区计划",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.sony.com/en/SonyInfo/News/Press/199905/99-046/",
+      "reviewedPublisher": "Sony"
+    },
+    "irobot-roomba-2002": {
+      "sourceId": "L:ER09",
+      "reviewedTitle": "Roomba Robot Vacuum Cleaner, nmah_1448432",
+      "reviewedScope": "档案明确第一代Roomba、2002年上市，传感器/碰撞转向和虚拟墙的操作；藏品入藏编号2013.0158不作发布年。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://americanhistory.si.edu/collections/object/nmah_1448432",
+      "reviewedPublisher": "Smithsonian National Museum of American History"
+    },
+    "avm-fritzbox-2004": {
+      "sourceId": "HC150-S029",
+      "reviewedTitle": "20 Years FRITZ!Box",
+      "reviewedScope": "2004-03-18 CeBIT公布及DSL起点",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://about.fritz.com/en/press/press-releases/2024/03/20-years-of-fritzbox-the-heart-of-the-digital-home-is-celebrating-its-birthday",
+      "reviewedPublisher": "FRITZ!／AVM"
+    },
+    "tomtom-go-2004": {
+      "sourceId": "HC150-S023",
+      "reviewedTitle": "2005 Annual Report p10",
+      "reviewedScope": "2004年3月初代GO；不把全产品销量算GO单款",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://corporate.tomtom.com/static-files/17232660-32c7-4fde-9fdb-791b82902f51",
+      "reviewedPublisher": "TomTom"
+    },
+    "violet-nabaztag-v1": {
+      "sourceId": "HC150-S053",
+      "reviewedTitle": "Revisiting Nabaztag",
+      "reviewedScope": "2005实物、功能及研究观察；不将文中服务关闭日期作无争议全球结论",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.vam.ac.uk/blog/museum-life/going-down-the-rabbit-hole-revisiting-the-nabaztag",
+      "reviewedPublisher": "Victoria and Albert Museum"
+    },
+    "philips-airfryer-hd9220": {
+      "sourceId": "HC150-S067",
+      "reviewedTitle": "Airfryer HD9220/40 Germany datasheet",
+      "reviewedScope": "HD9220/40，文档发行2010-12-10；抽屉篮、30分钟定时、230V",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.philips.com/consumerfiles/newscenter/main/shared/assets/at/Downloadablefile/presse/22042011viva/20110413_Datenblatt_Airfryer%20HD9220.pdf",
+      "reviewedPublisher": "Philips"
+    },
+    "rca-630ts": {
+      "sourceId": "I150-S011",
+      "reviewedTitle": "RCA tabletop 630TS, 1946–1948",
+      "reviewedScope": "具体藏品00.4.4595；630TS桌面形态、1946–1948制造、115V/60Hz铭牌",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.thehenryford.org/collections/explore/artifact/178373",
+      "reviewedPublisher": "The Henry Ford"
+    },
+    "sony-kv-1310": {
+      "sourceId": "I150-S013",
+      "reviewedTitle": "Television milestones",
+      "reviewedScope": "TV8-301 1960；KV-1310 1968；晶体管便携机与Trinitron结构",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-c.html",
+      "reviewedPublisher": "Sony"
+    },
+    "sharp-aquos-lc20c1": {
+      "sourceId": "I150-S019",
+      "reviewedTitle": "AQUOS LC20C1/15C1/13C1 product story",
+      "reviewedScope": "指定AQUOS初代系列、450cd/m2原厂指标与设计者",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://global.sharp/corporate/info/his/only_one/item/t36.html",
+      "reviewedPublisher": "Sharp"
+    },
+    "samsung-the-frame-ls003": {
+      "sourceId": "I150-S059",
+      "reviewedTitle": "The Frame LS003 brochure",
+      "reviewedScope": "2017 LS003评测中的ArtMode操作、传感器、OneConnect",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://images.samsung.com/is/content/samsung/p5/de/tvs/theframe/Sonderbeilage_AV.pdf",
+      "reviewedPublisher": "AUDIO VIDEO FOTO BILD；Samsung托管重印"
+    },
+    "samsung-the-sero-ls05t": {
+      "sourceId": "I150-S061",
+      "reviewedTitle": "43 The Sero LS05T 2020",
+      "reviewedScope": "QE43LS05TAUXZG 2020欧洲43英寸4K型号",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.samsung.com/at/lifestyle-tvs/the-sero/ls05t-43-inch-the-sero-4k-smart-tv-navy-blue-qe43ls05tauxzg/",
+      "reviewedPublisher": "Samsung"
+    },
+    "lg-signature-oled-r-rx": {
+      "sourceId": "I150-S063",
+      "reviewedTitle": "OLED65RX9LA product archive",
+      "reviewedScope": "65英寸4K可卷屏电视型号及结构",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.lg.com/pl/telewizory-i-soundbary/oled/oled65rx9la/",
+      "reviewedPublisher": "LG"
+    },
+    "epson-vpj-700": {
+      "sourceId": "I150-S068",
+      "reviewedTitle": "VPJ-700 milestone",
+      "reviewedScope": "1989年1月上市，3TFT RGB投影、100lm、7.6kg",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://corporate.epson/en/about/history/milestone-products/1989-1-vpj700.html",
+      "reviewedPublisher": "Epson"
+    },
+    "samsung-the-freestyle-2022": {
+      "sourceId": "I150-S070",
+      "reviewedTitle": "Freestyle officially available in stores",
+      "reviewedScope": "2022-07-07马来西亚已在店销售，初代Freestyle",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://news.samsung.com/my/samsung-the-freestyle-is-now-officially-available-at-the-nearest-stores-near-you",
+      "reviewedPublisher": "Samsung"
+    },
+    "lg-stanbyme-go-27lx5qkna": {
+      "sourceId": "L:AMG02",
+      "reviewedTitle": "LG StanbyME Go 27 Inch Briefcase Design Touch Screen",
+      "reviewedScope": "型号27LX5QKNA、1080p触控、旋转与平放、HDMI/USB及联网内容。电池最高3小时附条件；未称每次3小时。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.lg.com/us/tvs/lg-27lx5qkna",
+      "reviewedPublisher": "LG USA"
+    },
+    "lg-oled-evo-m5-65": {
+      "sourceId": "I150-S065",
+      "reviewedTitle": "OLED evo M5 rollout release archive",
+      "reviewedScope": "2025-07-03 M5型号65英寸、ZeroConnect与4K144Hz",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.lgnewsroom.com/page/2/?p=l3jlc291cmnll3bvc3qvnduxmy9mr19hm18xlkpqrw%3D%3D",
+      "reviewedPublisher": "LG"
+    },
+    "samsung-micro-rgb-r95h-65": {
+      "sourceId": "I150-S067",
+      "reviewedTitle": "65 Micro RGB R95H 2026",
+      "reviewedScope": "美国MRN65R95HAFXZA、65英寸R95H(2026)产品身份",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.samsung.com/us/tvs/micro-rgb/65-inch-micro-rgb-4k-tv-r95h-sku-mrn65r95hafxza/?r=true",
+      "reviewedPublisher": "Samsung"
+    },
+    "htc-vive-2016": {
+      "sourceId": "I150-S020",
+      "reviewedTitle": "Vive consumer shipment begins",
+      "reviewedScope": "2016-04-05消费者版首批预订开始发货，中国大陆付尾款用户",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.htc.com/cn/newsroom/2016-04-06/",
+      "reviewedPublisher": "HTC"
+    },
+    "microsoft-hololens-2": {
+      "sourceId": "CWI-S004",
+      "reviewedTitle": "Getting around HoloLens 2",
+      "reviewedScope": "近处触碰/捏合、远处手射线、双手Start；手追踪范围",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://learn.microsoft.com/en-us/hololens/hololens2-basic-usage",
+      "reviewedPublisher": "Microsoft"
+    },
+    "oculus-quest-2019": {
+      "sourceId": "I150-S023",
+      "reviewedTitle": "Powered by AI Oculus Insight",
+      "reviewedScope": "2019-08-22确认Quest已可获得；Insight头显/控制器6DoF追踪",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://ai.meta.com/blog/powered-by-ai-oculus-insight/",
+      "reviewedPublisher": "Meta AI"
+    },
+    "meta-quest-3": {
+      "sourceId": "I150-S024",
+      "reviewedTitle": "Meta Quest3 Japan on sale today",
+      "reviewedScope": "2023-10-10日本实际销售开始",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://about.fb.com/ja/news/2023/10/meta-quest-3-popup-event-shibuya-shinjuku/",
+      "reviewedPublisher": "Meta"
+    },
+    "sony-playstation-vr2": {
+      "sourceId": "I150-S028",
+      "reviewedTitle": "PlayStation VR2 ultimate FAQ",
+      "reviewedScope": "2023-02-22各区域计划销售；PS5、眼追踪、Sense、HDR、原套装",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://blog.playstation.com/2023/02/06/playstation-vr2-the-ultimate-faq/?sf264031684=1",
+      "reviewedPublisher": "Sony Interactive Entertainment"
+    },
+    "apple-vision-pro-m2": {
+      "sourceId": "I150-S033",
+      "reviewedTitle": "VisionPro available February2",
+      "reviewedScope": "M2/R1、microOLED、视线手势语音、外部电池；2024首代",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/",
+      "reviewedPublisher": "Apple"
+    },
+    "samsung-galaxy-xr": {
+      "sourceId": "I150-S034",
+      "reviewedTitle": "Introducing Galaxy XR US",
+      "reviewedScope": "2025-10-21 22:00ET美国销售、AndroidXR、XR2+Gen2、microOLED",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://news.samsung.com/us/introducing-galaxy-xr-opening-new-worlds/",
+      "reviewedPublisher": "Samsung"
+    },
+    "sony-betamax-sl-6300": {
+      "sourceId": "L:ER13",
+      "reviewedTitle": "Recorder & Player milestones — SL-6300",
+      "reviewedScope": "1975 SL-6300为Sony首台Beta系统VCR；半英寸磁带、卡带和时移宣传。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-d.html",
+      "reviewedPublisher": "Sony"
+    },
+    "canon-ae-1": {
+      "sourceId": "CWI-S005",
+      "reviewedTitle": "Canon AE-1 Instructions Part 1（1980版原手册扫描）",
+      "reviewedScope": "原AE-1装电池、ASA、装片、半按测光、手动过片及锁定",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.cameramanuals.org/canon_pdf/canon_ae-1_pt1.pdf",
+      "reviewedPublisher": "Canon / Butkus档案镜像"
+    },
+    "nikon-f3": {
+      "sourceId": "I150-S041",
+      "reviewedTitle": "Debut of Nikon F3",
+      "reviewedScope": "1980年3月F3上市，电子光圈优先曝光、SR44电源",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://imaging.nikon.com/imaging/information/chronicle/history-f3/index.html",
+      "reviewedPublisher": "Nikon"
+    },
+    "sony-ccd-v8": {
+      "sourceId": "CWI-S006",
+      "reviewedTitle": "Sony CCD-V8 Operating Instructions（原手册镜像索引）",
+      "reviewedScope": "CCD-V8原手册页15、19索引：对焦环、变焦、START/STOP；非V8AF",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.manualowl.com/m/Sony/CCD-V8/Manual/480227",
+      "reviewedPublisher": "Sony / ManualOwl镜像"
+    },
+    "canon-rc-701": {
+      "sourceId": "I150-S001",
+      "reviewedTitle": "RC-701",
+      "reviewedScope": "1986年7月上市、CCD、SV软盘、专用卡口",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://global.canon/en/c-museum/product/svc443.html",
+      "reviewedPublisher": "Canon"
+    },
+    "canon-eos-650": {
+      "sourceId": "I150-S003",
+      "reviewedTitle": "EOS 650 / EOS 650 QD",
+      "reviewedScope": "1987年3月EOS650，QD同年9月；EF全电子联接与自动输片",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://global.canon/en/c-museum/product/film122.html",
+      "reviewedPublisher": "Canon"
+    },
+    "sony-ccd-tr55": {
+      "sourceId": "I150-S047",
+      "reviewedTitle": "CCD-TR55 design gallery",
+      "reviewedScope": "1989 CCD-TR55、790g、磁带仓兼握持部",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.sony.com/en/SonyInfo/design/gallery/CCD-TR55/",
+      "reviewedPublisher": "Sony"
+    },
+    "kodak-dcs-1991": {
+      "sourceId": "L:H11A",
+      "reviewedTitle": "Kodak Milestones — 1991",
+      "reviewedScope": "1991 DCS推出、1.3MP、Nikon F3基础及新闻用途；原始名称DCS，不将后称DCS100写成唯一首发名。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.kodak.com/zh/company/page/milestones/",
+      "reviewedPublisher": "Eastman Kodak"
+    },
+    "nikon-coolscan-ls-10": {
+      "sourceId": "CWI-S007",
+      "reviewedTitle": "Nikon COOLSCAN LS-10E / LS-10 Instruction Manual",
+      "reviewedScope": "标题区分LS-10内置与LS-10E外置；原手册目录/摘录的SCSI和装入驱动器槽",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.manualslib.com/manual/478093/Nikon-Coolscan-Ls-10e.html",
+      "reviewedPublisher": "Nikon / ManualsLib镜像"
+    },
+    "nintendo-color-tv-game-15": {
+      "sourceId": "CWG-S019",
+      "reviewedTitle": "Nintendo Color TV-Game 15 console, 1977 — 馆藏对象档案",
+      "reviewedScope": "对象身份、1977日本制造、Nintendo与Mitsubishi Electric共同maker字段",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://collection.sciencemuseumgroup.org.uk/objects/co8086582/nintendo-color-tv-game-15-console-1977",
+      "reviewedPublisher": "Science Museum Group"
+    },
+    "nintendo-game-watch-ball-1980": {
+      "sourceId": "G150-S014",
+      "reviewedTitle": "Iwata Asks Game & Watch",
+      "reviewedScope": "创作者访谈脚注Ball原版1980-04；接球游戏与计算器芯片路径。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nintendo.co.jp/n10/interview/game_and_watch/vol1/index2.html",
+      "reviewedPublisher": "Nintendo"
+    },
+    "nintendo-virtual-boy-jp": {
+      "sourceId": "L:EA05-V01",
+      "reviewedTitle": "社長が訊く「ニンテンドー3DS」— バーチャルボーイにかけた想い",
+      "reviewedScope": "已读岩田/宫本原始访谈及脚注：Virtual Boy为1995年原装置；立体构想、分层二维与资源取舍；岩田明确称商业失败。不提供可靠的最后生产日或全面伤害统计。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nintendo.co.jp/3ds/interview/hardware/vol1/index2.html",
+      "reviewedPublisher": "Nintendo / Iwata Asks"
+    },
+    "sega-dreamcast-jp": {
+      "sourceId": "CWG-S021",
+      "reviewedTitle": "セガハードストーリー：Dreamcast",
+      "reviewedScope": "控制器模拟摇杆/LR扳机、VMU窗口与小型游戏、日版33.6kbps、1998日本推出及2001生产结束",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.sega.jp/history/hard/column/column_06.html",
+      "reviewedPublisher": "SEGA"
+    },
+    "xbox-adaptive-controller": {
+      "sourceId": "CWG-S022",
+      "reviewedTitle": "Xbox Adaptive Controller 产品与规格",
+      "reviewedScope": "外部输入hub、19个3.5mm输入/2USB/独立音频口、映射与3配置切换；当前平台兼容条件",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller",
+      "reviewedPublisher": "Microsoft Xbox"
+    },
+    "valve-steam-controller-2015": {
+      "sourceId": "G150-S020",
+      "reviewedTitle": "Steam Controller (2015) official store record",
+      "reviewedScope": "制造商Valve、2015-11-10上市；双触摸板、两段扳机、Steam映射条件。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://store.steampowered.com/app/353370/Steam_Controller_2015/?l=english",
+      "reviewedPublisher": "Valve"
+    },
+    "sony-access-controller": {
+      "sourceId": "G150-S011",
+      "reviewedTitle": "Access controller launches today",
+      "reviewedScope": "2023-12-06实际上市；19按钮帽和3摇杆帽、自定义控制安排。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://blog.playstation.com/?p=387113",
+      "reviewedPublisher": "Sony Interactive Entertainment"
+    },
+    "nest-learning-thermostat-1": {
+      "sourceId": "CWH-S005",
+      "reviewedTitle": "End of support for Nest Learning Thermostats (1st and 2nd gen)",
+      "reviewedScope": "2011初代自2025-10-25停止应用与远端/云端功能、停止软件和安全更新；仍可在机身控制与使用已有计划。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://support.google.com/googlehome/answer/16233096?hl=en-EE",
+      "reviewedPublisher": "Google Home and Nest Help"
+    },
+    "perkins-smart-brailler": {
+      "sourceId": "HC150-S039",
+      "reviewedTitle": "Perkins Overview",
+      "reviewedScope": "SMART Brailler2012与部门历史",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://brailler.perkins.org/pages/perkins-overview",
+      "reviewedPublisher": "Perkins School for the Blind"
+    },
+    "philips-hue-2012": {
+      "sourceId": "HC150-S043",
+      "reviewedTitle": "Introducing Philips hue 2012",
+      "reviewedScope": "日期、初代套装、600流明、Bridge",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.signify.com/global/our-company/news/press-release-archive/2012/20121029-introducing-philips-hue",
+      "reviewedPublisher": "Philips／Signify档案"
+    },
+    "nest-protect-1": {
+      "sourceId": "HC150-S049",
+      "reviewedTitle": "Nest Protect recall2014",
+      "reviewedScope": "型号、销售起始、召回范围/修复；原机构索引取得完整相关描述",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.cpsc.gov/Recalls/2014/Nest-Labs-Recalls-to-Repair-Nest-Protect-Smoke-CO-Alarms",
+      "reviewedPublisher": "US CPSC"
+    },
+    "amazon-echo-1": {
+      "sourceId": "HC150-S046",
+      "reviewedTitle": "Echo available to all customers 2015",
+      "reviewedScope": "邀请销售、初代七麦克风/云端、2015公开订购",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://press.aboutamazon.com/2015/6/amazon-echo-now-available-to-all-customers",
+      "reviewedPublisher": "Amazon"
+    },
+    "vorwerk-thermomix-tm5": {
+      "sourceId": "HC150-S061",
+      "reviewedTitle": "Thermomix TM5 September 2014 market introduction",
+      "reviewedScope": "年报p14、17：2014年9月市场推出；触屏、食谱芯片、步骤引导",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.vorwerk-group.com/de/presse/publikationen/Vorwerk-Annual-Report-2014-Web-Version.pdf",
+      "reviewedPublisher": "Vorwerk"
+    },
+    "google-home-2016": {
+      "sourceId": "HC150-S047",
+      "reviewedTitle": "Make yourself at home",
+      "reviewedScope": "公布/预订、功能与供货计划",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://blog.google/products-and-platforms/products/home/make-yourself-home-google-home/",
+      "reviewedPublisher": "Google"
+    },
+    "sony-aibo-ers-1000": {
+      "sourceId": "L150-S001",
+      "reviewedTitle": "aibo ERS-1000 2018 post-launch release",
+      "reviewedScope": "明确ERS-1000及2018-01-11实际开始销售；不采用同稿销量与用户口碑宣传。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.sony.com/ja/SonyInfo/News/Press/201805/18-040/",
+      "reviewedPublisher": "Sony"
+    },
+    "sony-dcr-vx1000": {
+      "sourceId": "CWI-S009",
+      "reviewedTitle": "DCR-VX1000 Operation Manual",
+      "reviewedScope": "原VX1000录制、START/STOP、取景与MiniDV记录",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://upload.cyfrowe.pl/cyfrowe/instrukcje/kamery/sony/instrukcja_sony_vx1000_eng.pdf",
+      "reviewedPublisher": "Sony / Cyfrowe镜像"
+    },
+    "canon-powershot-600": {
+      "sourceId": "I150-S005",
+      "reviewedTitle": "PowerShot 600",
+      "reviewedScope": "1996年7月；无LCD，内置1MB、PC卡、570000像素CCD",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://global.canon/en/c-museum/product/dcc451.html",
+      "reviewedPublisher": "Canon"
+    },
+    "nikon-coolpix-300": {
+      "sourceId": "I150-S043",
+      "reviewedTitle": "Frontier 02: COOLPIX 300",
+      "reviewedScope": "1997；可用笔在照片上写画、收音、触屏",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nikon.com/company/corporate/history/frontier/02/",
+      "reviewedPublisher": "Nikon"
+    },
+    "canon-xl1": {
+      "sourceId": "I150-S007",
+      "reviewedTitle": "XL1",
+      "reviewedScope": "1998年2月、XL可换镜头、三CCD、IEEE1394",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://global.canon/en/c-museum/product/dvc666.html",
+      "reviewedPublisher": "Canon"
+    },
+    "nikon-coolpix-900": {
+      "sourceId": "I150-S044",
+      "reviewedTitle": "Frontier 07: COOLPIX 900",
+      "reviewedScope": "1998；镜头与显示握持部可旋转",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.nikon.com/company/corporate/history/frontier/07/",
+      "reviewedPublisher": "Nikon"
+    },
+    "nikon-d1": {
+      "sourceId": "CWI-S010",
+      "reviewedTitle": "Nikon D1 User Manual",
+      "reviewedScope": "原D1的CF卡、回放与缓存写卡限制",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://download.nikonimglib.com/archive2/wBjvj00BJbiD01qylIB455Pafk66/D1_(En)03.pdf",
+      "reviewedPublisher": "Nikon"
+    },
+    "canon-eos-5d-mark-ii": {
+      "sourceId": "I150-S009",
+      "reviewedTitle": "EOS 5D Mark II",
+      "reviewedScope": "2008年11月、全画幅、全高清视频、CF记录",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://global.canon/en/c-museum/product/dslr800.html",
+      "reviewedPublisher": "Canon"
+    },
+    "sourcenext-pocketalk-w": {
+      "sourceId": "HC150-S063",
+      "reviewedTitle": "POCKETALK W 本日発売",
+      "reviewedScope": "2018-09-07日本实际发售；W1PGK含两年eSIM/W1PWK不含，2.4寸触屏，网络地区限制",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://sourcenext.co.jp/pressrelease_html/JS/2018/2018090702",
+      "reviewedPublisher": "Sourcenext"
+    },
+    "roborock-s7": {
+      "sourceId": "L:AMR02",
+      "reviewedTitle": "Roborock S7",
+      "reviewedScope": "精确原版S7的声波拖地、拖布抬升与地面感应产品资料；营销清洁百分比未当独立实测。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://global.roborock.com/pages/roborock-s7",
+      "reviewedPublisher": "Roborock"
+    },
+    "ikea-dirigera": {
+      "sourceId": "HC150-S057",
+      "reviewedTitle": "DIRIGERA Netherlands launch",
+      "reviewedScope": "2022-11-02荷兰现售与场景；网页后续编辑故不反推Matter当年实现",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.ikea.com/nl/nl/newsroom/corporate-news/ikea-introduceert-dirigera-hub-om-slimme-apparaten-mee-te-bedienen-pub8d094e00/",
+      "reviewedPublisher": "IKEA Netherlands"
+    },
+    "aqara-presence-fp2": {
+      "sourceId": "HC150-S059",
+      "reviewedTitle": "FP2 introduction",
+      "reviewedScope": "日期、市场、mmWave、模式互斥与非医疗设备",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.aqara.com/us/news-us/aqara-adds-presence-sensor-fp2-to-its-smart-sensor-portfolio/",
+      "reviewedPublisher": "Aqara"
+    },
+    "humanware-victor-reader-stream-3": {
+      "sourceId": "HC150-S065",
+      "reviewedTitle": "Victor Reader Stream 3 product",
+      "reviewedScope": "精确第三代Stream3、触觉界面、有声内容无线获取、阅读位置提示",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://store.humanware.com/hus/victor-reader-stream-handheld-media-player.html",
+      "reviewedPublisher": "HumanWare"
+    },
+    "switchbot-s10": {
+      "sourceId": "HC150-S070",
+      "reviewedTitle": "SwitchBot S10 Canada product",
+      "reviewedScope": "S10与独立水站，接管道或外置水箱；当前页面功能可能后更新",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://ca.switch-bot.com/pages/switchbot-floor-cleaning-robot-s10",
+      "reviewedPublisher": "SwitchBot"
+    },
+    "aqara-spatial-fp400": {
+      "sourceId": "HC150-S072",
+      "reviewedTitle": "Spatial Multi-Sensor FP400 available",
+      "reviewedScope": "2026-09-16现售；60GHz、Thread/Zigbee；第三方Thread仅整体存在和光照，勿混FP400Pro",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.aqara.com/eu/news-eu/spatial-multi-sensor-fp400-availability-announcement/",
+      "reviewedPublisher": "Aqara"
+    },
+    "sony-playstation-portal": {
+      "sourceId": "G150-S010",
+      "reviewedTitle": "Portal original launch announcement",
+      "reviewedScope": "2023原版Remote Play用途、指定市场11-15计划；不冒称当前只能Remote Play。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://blog.playstation.com/?p=383588",
+      "reviewedPublisher": "Sony Interactive Entertainment"
+    },
+    "asus-rog-ally-2023": {
+      "sourceId": "CWG-S027",
+      "reviewedTitle": "ROG Ally Armoury Crate SE Introduction",
+      "reviewedScope": "RC71原Ally的ArmouryCrate按钮；Gamepad/Desktop映射模式与当前游戏库",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.asus.com/global/support/faq/1050220/",
+      "reviewedPublisher": "ASUS"
+    },
+    "lenovo-legion-go-2023": {
+      "sourceId": "CWG-S028",
+      "reviewedTitle": "Legion Go 8APU1 User Guide",
+      "reviewedScope": "原8APU1可拆蓝牙控制器、FPS开关、触摸板、LegionSpace启动与功率/死区的操作条件",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://download.lenovo.com/pccbbs/pubs/legion_go_8apu1/user_guide/en/index.html",
+      "reviewedPublisher": "Lenovo"
+    },
+    "msi-claw-a1m": {
+      "sourceId": "CWG-S029",
+      "reviewedTitle": "How To Calibrate Controller on Claw",
+      "reviewedScope": "ClawA1M，MSI按钮、ControlMode/GamepadMode及平面放置/摇杆扳机校准",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://us.msi.com/faq/faq-10734",
+      "reviewedPublisher": "MSI"
+    },
+    "asus-rog-xbox-ally-x": {
+      "sourceId": "CWG-S030",
+      "reviewedTitle": "How to Get to the Windows Desktop on ROG Xbox Ally / X",
+      "reviewedScope": "Xbox全屏与Windows底层，触屏底部上滑任务切换/桌面/返回路径及优化条件",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://rog.asus.com/articles/guides/how-to-get-to-the-windows-desktop-on-the-rog-xbox-ally-and-rog-xbox-ally-x/",
+      "reviewedPublisher": "ASUS ROG / Whitson Gordon"
+    },
+    "valve-steam-controller-2026": {
+      "sourceId": "CWG-S031",
+      "reviewedTitle": "Steam Controller 新款产品页",
+      "reviewedScope": "新款双TMR摇杆/双触摸板/四背键；Puck无线与磁充、USB-C/蓝牙、GripSense与SteamInput；Mac限制",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://store.steampowered.com/hardware/steamcontroller?l=english",
+      "reviewedPublisher": "Valve"
+    },
+    "valve-steam-machine-2026": {
+      "sourceId": "G150-S022",
+      "reviewedTitle": "Steam Hardware Talk GDC 2026",
+      "reviewedScope": "SteamOS/Deck/Machine/Frame与第三方设备区分；Machine Verified及输入预期，非量产销售证明。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/GDC_2026_HWTalk.pdf",
+      "reviewedPublisher": "Valve / Steamworks"
+    },
+    "panasonic-lumix-dmc-g1": {
+      "sourceId": "I150-S049",
+      "reviewedTitle": "DMC-G1 operating instructions",
+      "reviewedScope": "原机身1210万像素4/3 Live MOS、EVF",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.panasonic.com/content/dam/Panasonic/support_manual/Digital_Still_Camera/English_02-vqt3-vqt9_other/DMC-G1K%20_vqt1u50_OI.pdf",
+      "reviewedPublisher": "Panasonic"
+    },
+    "olympus-pen-e-p1": {
+      "sourceId": "I150-S050",
+      "reviewedTitle": "OLYMPUS PEN E-P1 announcement",
+      "reviewedScope": "2009-06-16公布；1230万像素、MFT、金属机身、720p",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://olycojp.olympus-global.com/jp/news/2009a/nr090616ep1j.html",
+      "reviewedPublisher": "Olympus"
+    },
+    "fujifilm-finepix-x100": {
+      "sourceId": "CWI-S012",
+      "reviewedTitle": "FinePix X100 Owner’s Manual",
+      "reviewedScope": "初代X100混合取景切换、光学视差/电子预览、固定23mm镜头与基本拍摄",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://dl.fujifilm-x.com/support/manual/x/finepix_x100_manual_en.pdf",
+      "reviewedPublisher": "Fujifilm"
+    },
+    "dji-phantom-2013": {
+      "sourceId": "L:ER11",
+      "reviewedTitle": "Phantom consumer quadcopter announcement",
+      "reviewedScope": "2013-01-07发布初代Phantom；GPS Naza-M、遥控器、GoPro安装架、两种姿态模式及失联返航说明；不写无条件安全或所有人容易飞。",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.dji.com/media-center/announcements/dji-launches-industry-best-easiest-to-fly-quadcopter-for-consumer-use",
+      "reviewedPublisher": "DJI"
+    },
+    "ricoh-gr-iii": {
+      "sourceId": "I150-S074",
+      "reviewedTitle": "GR III announcement",
+      "reviewedScope": "2019-02-22正式公布GRIII；APS-C2424万像素，28mm等效F2.8",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://news.ricoh-imaging.co.jp/rim_info2/2019/20190222_019929.html",
+      "reviewedPublisher": "Ricoh Imaging"
+    },
+    "insta360-x5": {
+      "sourceId": "I150-S076",
+      "reviewedTitle": "Insta360 launches X5",
+      "reviewedScope": "2025-04-22可订购X5，标准型号360相机",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.insta360.com/blog/news/insta360-launches-X5-360-action-cam.html",
+      "reviewedPublisher": "Insta360"
+    },
+    "panasonic-lumix-dc-tz300": {
+      "sourceId": "I150-S089",
+      "reviewedTitle": "Panasonic announces TZ300",
+      "reviewedScope": "2026-03-24德国公告，TZ30015倍24–360mm等效、1英寸传感器",
+      "selectionNote": "人工核对本型号或本代际的直接资料；原厂/博物馆来源优先，正文的比较来源保持原样。",
+      "reviewedUrl": "https://www.panasonic.com/de/corporate/presse/alle-meldungen/44-fy2025-lumix-tz300.html",
+      "reviewedPublisher": "Panasonic"
+    }
+  }
+}

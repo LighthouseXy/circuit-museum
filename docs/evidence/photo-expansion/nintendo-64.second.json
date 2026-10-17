@@ -1,0 +1,723 @@
+{
+  "slug": "nintendo-64",
+  "name": "Nintendo 64",
+  "regionVersion": "原代日本产品名；不混后期小修订",
+  "query": "intitle:\"Nintendo 64\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Nintendo 64 megatextures tech demo.webm",
+      "pageid": 187494273,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nintendo_64_megatextures_tech_demo.webm",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Nintendo_64_megatextures_tech_demo.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Nintendo_64_megatextures_tech_demo.webm/250px--Nintendo_64_megatextures_tech_demo.webm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-03-30 15:29:57",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nintendo 64 megatextures tech demo",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Nintendo 64 games|Homebrew software|Expat/MIT License|2023 video games",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Megatextures interactive tech demo by James Lambert running on the Project64 emulator. The frame rate lag is due to simulated clock speeds of a real Nintendo 64 processor. The demo is running in the standard 320x240 resolution used in most N64 titles.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "<b>Tech demo</b>: 2023-07-19 14:28 GMT<br><b>Video recording</b>: 2026-03-30 14:52:05 GMT",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<b>Tech demo</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://github.com/lambertjamesd/n64brew2023\">GitHub</a><br><b>Video recording</b>: <span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<b>Tech demo</b>: James D. Lambert<br><b>Video recording</b>: <a href=\"//commons.wikimedia.org/wiki/User:Dabmasterars\" title=\"User:Dabmasterars\">Dabmasterars</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://github.com/lambertjamesd/n64brew2023/tree/master?tab=MIT-1-ov-file\">https://github.com/lambertjamesd/n64brew2023/tree/master?tab=MIT-1-ov-file</a>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "MIT",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "MIT license",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "James D. Lambert",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://opensource.org/licenses/mit-license.php",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        }
+      },
+      "description": "Megatextures interactive tech demo by James Lambert running on the Project64 emulator. The frame rate lag is due to simulated clock speeds of a real Nintendo 64 processor. The demo is running in the standard 320x240 resolution used in most N64 titles.",
+      "artist": "Tech demo : James D. Lambert  Video recording :  Dabmasterars",
+      "license": "MIT",
+      "licenseUrl": "http://opensource.org/licenses/mit-license.php",
+      "date": "Tech demo : 2023-07-19 14:28 GMT  Video recording : 2026-03-30 14:52:05 GMT"
+    },
+    {
+      "title": "File:Nintendo-64-Controller-Gray-Flat.jpg",
+      "pageid": 32975195,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nintendo-64-Controller-Gray-Flat.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nintendo-64-Controller-Gray-Flat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Nintendo-64-Controller-Gray-Flat.jpg/960px-Nintendo-64-Controller-Gray-Flat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2014-05-25 18:13:59",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nintendo-64-Controller-Gray-Flat",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Nikon D7100|Nintendo 64 Controller|Self-published work|PD-self|Evan Amos|Game controllers on white background",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Nintendo 64 controller, shown from above.  The controller features an odd and unique design that is meant to be held in multiple ways.  Most commonly, however, the controller was held with the left hand on the middle prong and the right hand over the buttons.  Most games made use of the analog joystick for moving about in 3D space, which gave the d-pad little to do.  Gamepads would later evolve to have both a d-pad and analog stick on the left, removing the need for an awkward three-prong design.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2014-05-25",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Evan-Amos\" title=\"User:Evan-Amos\">Evan-Amos</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>I, the copyright holder of this work, release this work into the <b><a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a></b>. This applies worldwide.<br><small>In some countries this may not be legally possible; if so:</small><br><i>I grant anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The Nintendo 64 controller, shown from above.  The controller features an odd and unique design that is meant to be held in multiple ways.  Most commonly, however, the controller was held with the left hand on the middle prong and the right hand over the buttons.  Most games made use of the analog joystick for moving about in 3D space, which gave the d-pad little to do.  Gamepads would later evolve to have both a d-pad and analog stick on the left, removing the need for an awkward three-prong design.",
+      "artist": "Evan-Amos",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "2014-05-25"
+    },
+    {
+      "title": "File:Nintendo 64 (grey and black).jpg",
+      "pageid": 7529865,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nintendo_64_(grey_and_black).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Nintendo_64_%28grey_and_black%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Nintendo_64_%28grey_and_black%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2009-08-10 22:29:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nintendo 64 (grey and black)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Nintendo 64|Flickr images reviewed by FlickreviewR|Flickr images missing SDC creator|Flickr images missing SDC source of file|Black and gray objects",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "La consola más exitosa para lo horrible que es su control. Visto en la colección de consolas del Gamexpo.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2008-12-06 12:30",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Flickr, <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/25076052@N00/3109883260/\">Nintendo 64</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/25076052@N00\">Ciro Duran</a> from Caracas, Venezuela",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "La consola más exitosa para lo horrible que es su control. Visto en la colección de consolas del Gamexpo.",
+      "artist": "Ciro Duran  from Caracas, Venezuela",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2008-12-06 12:30"
+    },
+    {
+      "title": "File:Nintendo 64.png",
+      "pageid": 4508898,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nintendo_64.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Nintendo_64.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Nintendo_64.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2010-09-25 13:47:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nintendo 64",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Nintendo 64|Files by User:Nv8200p|Self-published work|Computer hardware with transparent background",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A <a href=\"https://en.wikipedia.org/wiki/Nintendo_64\" class=\"extiw\" title=\"en:Nintendo 64\">Nintendo 64</a> game console and controller (Nintendo 64 is a trademark of Nintendo Company, Limited).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2005-11-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/User:Nv8200p\" class=\"extiw\" title=\"en:User:Nv8200p\">Larry D. Moore</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "© 2005 Larry D. Moore. Licensed under <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">CC BY 4.0</a>.<br><b>Attribution Specification:</b> Reuse without attribution is a violation of the license. The photographer's name and the link to the license are required. A link back to this source is requested. Example: <i>Larry D. Moore, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">CC BY 4.0</a>, Wikimedia Commons</i>.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "Larry D. Moore",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "A  Nintendo 64  game console and controller (Nintendo 64 is a trademark of Nintendo Company, Limited).",
+      "artist": "Larry D. Moore",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "date": "2005-11-05"
+    },
+    {
+      "title": "File:Nintendo 64 Rouge Translucide.JPG",
+      "pageid": 18776468,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nintendo_64_Rouge_Translucide.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Nintendo_64_Rouge_Translucide.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Nintendo_64_Rouge_Translucide.JPG/960px-Nintendo_64_Rouge_Translucide.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2012-03-21 11:34:12",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nintendo 64 Rouge Translucide",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 1100D|Nintendo 64|Nintendo 64 Controller|Self-published work|Red Nintendo consoles|Transparent Nintendo consoles|Red game controllers|Transparent Nintendo gamepads",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Nintendo 64 rouge translucide avec sa manette, prise sur une table en bois",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2011-11-16",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Hallucinogen_1024&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Hallucinogen 1024 (page does not exist)\">Aurélien POUZAT</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Nintendo 64 rouge translucide avec sa manette, prise sur une table en bois",
+      "artist": "Aurélien POUZAT",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2011-11-16"
+    },
+    {
+      "title": "File:Nintendo-64-Console-FL.png",
+      "pageid": 37807813,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nintendo-64-Console-FL.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Nintendo-64-Console-FL.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Nintendo-64-Console-FL.png/960px-Nintendo-64-Console-FL.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2016-08-06 20:51:55",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nintendo-64-Console-FL",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Nikon D7000|Nintendo 64|Self-published work|PD-self|Black Nintendo consoles|Evan Amos|Electronic devices on transparent background",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Nintendo 64 (N64), a fifth-generation video game console released by Nintendo in 1996.  Built around a 64-bit processor and released much later than its rivals, the N64 was the most powerful fifth gen system, but was hampered by its use of cartridges over CDs.  The use of cartridges was a controversial move that alienated third-parties who preferred the cheaper and easier to manufacture CDs that other systems used.  However, the system was a success, helped greatly by first-party titles like Mario 64 and the Legend of Zelda, leading to a second-place finish and over 30 million systems sold.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-08-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Evan-Amos\" title=\"User:Evan-Amos\">Evan-Amos</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>I, the copyright holder of this work, release this work into the <b><a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a></b>. This applies worldwide.<br><small>In some countries this may not be legally possible; if so:</small><br><i>I grant anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The Nintendo 64 (N64), a fifth-generation video game console released by Nintendo in 1996.  Built around a 64-bit processor and released much later than its rivals, the N64 was the most powerful fifth gen system, but was hampered by its use of cartridges over CDs.  The use of cartridges was a controversial move that alienated third-parties who preferred the cheaper and easier to manufacture CDs that other systems used.  However, the system was a success, helped greatly by first-party titles like Mario 64 and the Legend of Zelda, leading to a second-place finish and over 30 million systems sold.",
+      "artist": "Evan-Amos",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "2016-08-05"
+    },
+    {
+      "title": "File:Nintendo-64-GameCube-RF-Adapter.jpg",
+      "pageid": 50494315,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nintendo-64-GameCube-RF-Adapter.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/89/Nintendo-64-GameCube-RF-Adapter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Nintendo-64-GameCube-RF-Adapter.jpg/960px-Nintendo-64-GameCube-RF-Adapter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2020-12-31 09:52:44",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nintendo-64-GameCube-RF-Adapter",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Nikon D7100|GameCube accessories|Self-published work|PD-self|Evan Amos|Nintendo 64 accessories|Video game accessories on white background",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Radio Frequency (RF) adapter for the Nintendo 64 and GameCube video game consoles.  This is an adapter that is used in conjunction with the RF modulator, allowing the modulator to connect to the console's A/V multi out.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-08-04",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Evan-Amos\" title=\"User:Evan-Amos\">Evan-Amos</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>I, the copyright holder of this work, release this work into the <b><a href=\"https://en.wikipedia.org/wiki/en:public_domain\" class=\"extiw\" title=\"w:en:public domain\">public domain</a></b>. This applies worldwide.<br><small>In some countries this may not be legally possible; if so:</small><br><i>I grant anyone the right to use this work <b>for any purpose</b>, without any conditions, unless such conditions are required by law.</i>\n</td></tr></tbody></table>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The Radio Frequency (RF) adapter for the Nintendo 64 and GameCube video game consoles.  This is an adapter that is used in conjunction with the RF modulator, allowing the modulator to connect to the console's A/V multi out.",
+      "artist": "Evan-Amos",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": "2016-08-04"
+    },
+    {
+      "title": "File:Nintendo 64 Transparent.png",
+      "pageid": 119665784,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Nintendo_64_Transparent.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nintendo_64_Transparent.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nintendo_64_Transparent.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2022-07-14 05:10:40",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Nintendo 64 Transparent",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Nintendo 64|Self-published work|Computer hardware with transparent background",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "My very dusty Nintendo 64 on a transparent background. Taken by me! :)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2022-06-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:NUMBRstation\" title=\"User:NUMBRstation\">NUMBRstation</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "My very dusty Nintendo 64 on a transparent background. Taken by me! :)",
+      "artist": "NUMBRstation",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "date": "2022-06-23"
+    }
+  ]
+}

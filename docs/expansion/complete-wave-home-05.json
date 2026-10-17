@@ -1,0 +1,1296 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-11",
+  "status": "complete-text-validated-not-imported",
+  "base": {
+    "path": "docs/expansion/base-40-preserved.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ],
+    "readyReference": "docs/expansion/complete-batch-14.json"
+  },
+  "exhibits": [
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "sourcenext-pocketalk-w",
+      "name": "POCKETALK W",
+      "brand": "Sourcenext",
+      "year": 2018,
+      "dateLabel": "2018-09-07日本发售",
+      "dateKind": "launch",
+      "regionVersion": "日本W系列；地区/通信订阅区分，配色不另计",
+      "category": "telephony",
+      "categoryLabel": "电话、寻呼与接入",
+      "museumCategory": "telephony",
+      "aliases": [
+        "Sourcenext POCKETALK W"
+      ],
+      "tags": [
+        "电话、寻呼与接入",
+        "日本W系列；地区/通信订阅区分，配色不另计"
+      ],
+      "summary": "将声音送入联网翻译，再把结果以声音和触屏文字交给双方。POCKETALK W把翻译组织成轮流操作一件手持工具的过程，服务与版本条件仍需要人管理。",
+      "context": "Sourcenext的同期公告明确POCKETALK W于2018年9月7日在日本发售。W1PG通信版含两年全球eSIM，W1PW版不含，两种连接安排保留在同一型号路线的版本边界里，不新增展品数。它补入的是日常跨语言交流工具：人说出一段话，设备取得翻译，再让另一端理解与回应。与电话相比，问题不是两人是否连上，而是语言怎样转换。设备可以帮助提供表达，却仍需要人判断语境与结果；原公告所列连接条件也不等于任何地点、任何时候都能使用同一种服务。",
+      "design": "原公告列2.4英寸触摸屏，翻译结果可以在声音之外以文字呈现。声音输入、联网处理和声文输出形成一条工作链，屏幕给双方提供回看的机会，但不会自动确认意思已经完全一致。通信版把一定期限的数据服务随版本提供，无通信版则需要另一种接入准备；这项区别比只看外壳颜色更能解释实际使用。2019支持资料还说明更新仍需Wi-Fi，即使设备有全球通信服务也不例外。联网翻译与软件更新因此有不同条件，不应合成一个永久随机器存在的能力。",
+      "usage": "使用者先准备对应网络与服务，在交流前选好所需语言关系，再由一方发出一段输入，听取或查看结果，将设备的表达带给另一方。对方继续回应后，人还要核对意思是否符合当前场景，必要时改变说法。对话的节奏因而包含等待与轮换，不能只以一次识别成功就代表整段交流无障碍。本文不列未经完整手册核准的按键顺序与语言数量，也不承诺特定翻译准确率。两年服务与更新条件需要另管理，准备连接是使用过程的一部分，不在说话之后才出现。",
+      "significance": "POCKETALK W的普通价值，是把跨语言交流的输入与结果集中到一件可以递近双方的物件上。人可以听到，也可以回看文字，从中判断是否要继续；这种可见反馈让机器并非只有一个无法检查的声音答案。与手机应用比较，专用工具把注意力围绕翻译任务组织，但联网与服务依赖并没有消失。它不必被写成消除语言障碍的万能产品，也不从功能推断旅行、商务或教学效果。展览可以由一次轮流说话解释，人怎样借助工具获得表达，又怎样继续承担理解和确认。",
+      "limitations": "2018年9月7日为日本实际销售，不推作所有地区首售。通信版与非通信版分开，初始两年eSIM不证明之后免费或当前仍覆盖原市场；本轮未核2026服务与库存。2019更新文档是明确后续事件，不能说首发软件已拥有后来全部功能。两项资料来自同厂商，没有独立翻译测试，本文不宣称准确、流畅或专业用途适用。语言、网络与语境会参与结果，存世机器还涉及电池和账号条件。文字说明原工具怎样处理输入与反馈，不代替重要场合的翻译判断，也不提供当代服务购买建议。",
+      "features": [
+        "2018-09-07日本实际发售。",
+        "触屏文字与声音结果，联网翻译路线。",
+        "W1PG两年eSIM与W1PW无通信版分开；更新仍需Wi-Fi。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "W1PG含两年全球eSIM，W1PW不含；触屏显示翻译；更新仍需WiFi。",
+          "sourceIds": [
+            "HC150-S063",
+            "HC150-S064"
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "已核记录",
+          "value": "W1PG含两年全球eSIM，W1PW不含；触屏显示翻译；更新仍需WiFi。",
+          "sourceIds": [
+            "HC150-S063",
+            "HC150-S064"
+          ],
+          "versionScope": "日本W系列；地区/通信订阅区分，配色不另计"
+        }
+      ],
+      "lifecycleEvents": [
+        {
+          "eventType": "launch",
+          "date": "2018-09-07",
+          "datePrecision": "day",
+          "regionVersion": "日本W系列；地区/通信订阅区分，配色不另计",
+          "sourceIds": [
+            "HC150-S063"
+          ],
+          "description": "2018-09-07日本发售",
+          "temporalPerspective": "retrospective-record; no current-stock-inference"
+        }
+      ],
+      "lifecycleStatus": "end-of-sale/end-of-support-not-verified",
+      "identitySourceIds": [
+        "HC150-S063"
+      ],
+      "dateSourceIds": [
+        "HC150-S063"
+      ],
+      "sourceIds": [
+        "HC150-S063",
+        "HC150-S064"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S063",
+          "HC150-S064"
+        ],
+        "design": [
+          "HC150-S063",
+          "HC150-S064"
+        ],
+        "usage": [
+          "HC150-S063",
+          "HC150-S064"
+        ],
+        "significance": [
+          "HC150-S063",
+          "HC150-S064"
+        ],
+        "limitations": [
+          "HC150-S063",
+          "HC150-S064"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "iphone-1",
+        "speak-and-spell"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "iphone-1",
+        "speak-and-spell"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "communications-expanded-2",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "仅陈述来源支持的该版本；不把计划、后续固件或地区版互套。"
+      ],
+      "chineseCharactersInFiveSections": 898,
+      "awards": []
+    },
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "roborock-s7",
+      "name": "Roborock S7",
+      "brand": "Roborock",
+      "year": 2021,
+      "dateLabel": "2021年1月11日公布（品牌时间轴）；实际地区销售日待补",
+      "dateKind": "产品公布",
+      "regionVersion": "2021原版S7；排除S7 MaxV及Ultra基站套装",
+      "category": "cleaning",
+      "categoryLabel": "家务与清洁",
+      "museumCategory": "cleaning",
+      "aliases": [
+        "Roborock Roborock S7"
+      ],
+      "tags": [
+        "家务与清洁",
+        "2021原版S7；排除S7 MaxV及Ultra基站套装"
+      ],
+      "summary": "在吸尘与声波拖地之间切换，并在检测地毯时抬起拖布。原版S7让混合地面的清扫围绕同一机身组织，地图设置、补水倒尘与充电仍属于使用过程。",
+      "context": "Roborock的时间轴将原版S7公布放在2021年1月11日；David Nield于同年4月8日刊出的TechRadar评测确认当时美国已有销售。本文保留公布为主年代，评测现售只是地区观察节点，不改成全球首售。它与初代Roomba相比增加吸拖切换和地面感知的安排，但本件不能与S7 MaxV或后来Ultra套装混合。家中同时有硬地面与地毯时，机器不仅要移动，还要知道何时使用哪种接触方式。便利由清扫动作、地面识别和人的设置共同实现，不只看机身能自动行走。",
+      "design": "原厂明确声波拖地、拖布抬升和地面感应；同期评测记录机顶LiDAR参与路径，说明感知与工作头的联系。检测到地毯后抬起拖布，是把一种材料判断转换为机械动作的例子。吸尘与拖地合在一件机身，并不代表每块地面都适合相同处理。本文不把后来的摄像识物或自动洗拖布功能加入原S7，评测当时自动集尘座尚未上市，也不能假定随首批机器供应。充电底座提供停放与补电，维护任务仍要沿灰尘、水和拖布分别理解。",
+      "usage": "使用者先准备工作区域与充电位置，建立相应应用设置，让设备认识可清理的范围，再选择适合任务的模式。机器移动期间，地面感应参与吸拖切换，人仍要安排不能处理的区域与易妨碍移动的物品。结束后原版需要人倒尘、补充水并照看拖布与刷具；能自行回充不意味着这些部分都自动完成。本文概括原厂功能与同期评测观察，不给出现代应用菜单和维护拆装教程。混合地面是此设计的典型任务，但具体地毯与家具仍会改变使用条件，不能默认全部识别都可靠。",
+      "significance": "S7的普通价值在于处理一段任务中的材料变化。人在房间之间移动，地面未必一直相同，抬升让吸拖动作不必只能在一整次运行前二选一。Nield认为设置与路径表现良好，并在其混合地面测试中观察到正确识别；这些属于作者样机经验，可以支持体验入口，不是所有家庭的保证。与初代Roomba比较，这项变化让感知与清洁动作更紧密；与DC01相比，自动移动和吸尘收集仍是不同维度。本文不把年度选品当重大奖，也不以厂商清洁百分比替代独立验证。",
+      "limitations": "TechRadar作者同时指出充电慢、机身较厚，清洁仍不能完全替代人工常规吸尘；原刊披露购物链接可能获佣金，测试总时长未明确，长期可靠性不能推定。原厂公布和美国现售观察分开，其他市场日期未核。Red Dot索引未完整读到等级，因此不主张明确奖级；Popular Science入选也不写成Grand Award。本文未自主实测、核当前服务或存世机器状态，后代基站与软件不自动归给原版。便利与取舍保留为当年型号和作者条件，不能承诺2026旧机仍有同样清洁表现。",
+      "features": [
+        "2021-01-11公布；4月评测美国现售另列。",
+        "声波拖地、拖布升降与地面感知。",
+        "首批原版与后续自动集尘、MaxV、Ultra分开。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "2021年1月11日公布（品牌时间轴）；实际地区销售日待补",
+          "sourceIds": [
+            "L:AMR01"
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "已核记录",
+          "value": "2021年1月11日公布（品牌时间轴）；实际地区销售日待补",
+          "sourceIds": [
+            "L:AMR01"
+          ],
+          "versionScope": "2021原版S7；排除S7 MaxV及Ultra基站套装"
+        }
+      ],
+      "lifecycleEvents": [
+        {
+          "eventType": "产品公布",
+          "date": "2021-01-11",
+          "datePrecision": "day",
+          "regionVersion": "2021原版S7；排除S7 MaxV及Ultra基站套装",
+          "sourceIds": [
+            "L:AMR01"
+          ],
+          "description": "2021年1月11日公布（品牌时间轴）；实际地区销售日待补",
+          "temporalPerspective": "retrospective-record; no current-stock-inference"
+        }
+      ],
+      "lifecycleStatus": "end-of-sale/end-of-support-not-verified",
+      "identitySourceIds": [
+        "L:AMR01",
+        "L:AMR02"
+      ],
+      "dateSourceIds": [
+        "L:AMR01"
+      ],
+      "sourceIds": [
+        "L:AMR01",
+        "L:AMR02",
+        "L:AMR03",
+        "L:AMR04",
+        "L:AMR05"
+      ],
+      "paragraphSources": {
+        "context": [
+          "L:AMR01",
+          "L:AMR02",
+          "L:AMR03",
+          "L:AMR04",
+          "L:AMR05"
+        ],
+        "design": [
+          "L:AMR01",
+          "L:AMR02",
+          "L:AMR03",
+          "L:AMR04",
+          "L:AMR05"
+        ],
+        "usage": [
+          "L:AMR01",
+          "L:AMR02",
+          "L:AMR03",
+          "L:AMR04",
+          "L:AMR05"
+        ],
+        "significance": [
+          "L:AMR01",
+          "L:AMR02",
+          "L:AMR03",
+          "L:AMR04",
+          "L:AMR05"
+        ],
+        "limitations": [
+          "L:AMR01",
+          "L:AMR02",
+          "L:AMR03",
+          "L:AMR04",
+          "L:AMR05"
+        ]
+      },
+      "mediaOpinions": [
+        {
+          "media": "TechRadar",
+          "author": "David Nield",
+          "articleDate": "2021-04-08",
+          "modelVersion": "原版Roborock S7；当时自动集尘座尚未上市",
+          "exactModelVersion": "原版Roborock S7；当时自动集尘座尚未上市",
+          "url": "https://www.techradar.com/reviews/roborock-s7-vacuum-review",
+          "originalURL": "https://www.techradar.com/reviews/roborock-s7-vacuum-review",
+          "praise": "作者认为设置简单、路径安排与吸拖表现良好；其测试中地毯识别和拖布升降正确。",
+          "shortcomings": "作者指出充电慢、机身较厚，仍不能完全替代人工常规吸尘。",
+          "evaluationConditions": "作者家居样机测试，混合地毯与非地毯；原文此段未明确测试总时长，不能推为所有地板或长期表现。",
+          "commercialDisclosure": "原刊明确购物链接可能获联盟佣金；具体样机提供或付费合作未核。",
+          "verificationDepth": "本轮原刊正文已读题名、署名、日期、优缺点及性能段；未开展自主测试。",
+          "sourceId": "L:AMR05"
+        }
+      ],
+      "relatedSlugs": [
+        "switchbot-s10"
+      ],
+      "deferredRelatedSlugs": [
+        "irobot-roomba-2002",
+        "dyson-dc01"
+      ],
+      "relatedModelProposals": [
+        "switchbot-s10",
+        "irobot-roomba-2002",
+        "dyson-dc01"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "独立测试不同地毯、维护步骤及本地区上市版本待补。",
+        "未找到原始证据确认其获TechRadar Choice 2021奖，不写入。"
+      ],
+      "chineseCharactersInFiveSections": 863,
+      "awards": []
+    },
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "ikea-dirigera",
+      "name": "DIRIGERA Hub",
+      "brand": "IKEA",
+      "year": 2022,
+      "dateLabel": "2022-11-02荷兰公告确认现售；5月公布计划",
+      "dateKind": "launch",
+      "regionVersion": "荷兰初代网桥；Matter-ready不等于2022具备完整Matter功能",
+      "category": "smart-home",
+      "categoryLabel": "智能家居与感知",
+      "museumCategory": "smart-home",
+      "aliases": [
+        "IKEA DIRIGERA Hub"
+      ],
+      "tags": [
+        "智能家居与感知",
+        "荷兰初代网桥；Matter-ready不等于2022具备完整Matter功能"
+      ],
+      "summary": "以Hub和应用组织多件家居设备，把分组与场景作为日常控制单位。DIRIGERA让人从逐件操作转向安排关系，协议、版本与相容设备仍决定可用范围。",
+      "context": "IKEA在2022年五月公布DIRIGERA并计划十月推出，荷兰11月2日公告确认当地店内与线上现售。本文采用已确认地区销售，不把五月计划直接写成全球交付。它接续TRÅDFRI路线，重点是把家里的灯等相容设备组织起来，而不是由Hub自己发光或执行每件任务。网络家居在这里成为一组连接关系：设备分别位于房间，控制和场景在应用中表达。与Hue套装比较，可以观察专用照明系统与更广家居分组怎样各自组织人的选择，不必推断哪一平台适合每个家庭。",
+      "design": "Hub承担连接协调，应用把设备分组与场景呈现给人。分组让多个物件可以被当作一个操作对象，场景又让它们的状态围绕某种安排一起改变；这两件事都需要人先表达意图。原公告采用Matter-ready表述，意味着准备路线，不能把后来实现的全部协议能力写成2022首发事实。地区网页又可能后续编辑，因此本文用原公布与销售段定位历史，不把当前页面出现的功能倒推。机身在网络中承担接口角色，具体能控制什么还取决于所接入的设备与软件版本。",
+      "usage": "使用者先安排Hub与家中网络，将相容设备加入应用，再按房间或用途组织分组与场景。之后可以针对组合发起操作，并从设备的实际变化检查是否符合预期。便利来自不必每次逐件重复所有选择，但首次设置、命名与维护关系仍由人承担。新增或更换物件时，原有场景也可能需要重新整理。本文不列当代Home Smart菜单教程与第三方生态配置，不假定每件带无线功能的产品都能加入。网络、供电和设备状态分别参与一次控制，Hub并不是替全屋自动理解人的计划。",
+      "significance": "DIRIGERA的普通价值是让散布房间的设备在界面上形成可操作关系。人可以按用途思考，例如一组灯，而不仅按某一只灯的开关安排动作；这些组合由生活习惯定义，不由协议名称自己产生。与FP2和FP400比较，Hub偏向把设备联系起来，存在传感器则提供触发信息，两者需要配合才能形成自动化。这个区别让观众看见智能家居是一套系统，而不只是一件聪明的盒子。本文不推断节能与家庭效率，只说明分组、场景和连接如何参与日常操作。",
+      "limitations": "五月计划与荷兰十一月现售属于不同事件，未核每个市场同日供货。资料来自IKEA同品牌，网页后续功能编辑与Matter-ready宣传不能作为首发已完整互通的证明。本文没有实机和第三方平台测试，不保证全部TRÅDFRI代际或其他设备组合，也不猜2026库存与支持终止。软件、账号与家庭网络条件会改变，产品身份不代表每一时期功能相同。展品文字保留原连接路线和人的设置任务；实际部署需匹配版本说明，不能由一个场景示例推断任何家庭都稳定运行或获得相同便利。",
+      "features": [
+        "2022-11-02荷兰公告确认现售，五月计划另列。",
+        "Hub与Home Smart应用组织分组与场景。",
+        "Matter-ready不自动等于首发所有协议已实现。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "荷兰公告确认店内/网上现售；5月原稿仍是10月计划；场景分组。",
+          "sourceIds": [
+            "HC150-S057",
+            "HC150-S058"
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "已核记录",
+          "value": "荷兰公告确认店内/网上现售；5月原稿仍是10月计划；场景分组。",
+          "sourceIds": [
+            "HC150-S057",
+            "HC150-S058"
+          ],
+          "versionScope": "荷兰初代网桥；Matter-ready不等于2022具备完整Matter功能"
+        }
+      ],
+      "lifecycleEvents": [
+        {
+          "eventType": "launch",
+          "date": "2022-11-02",
+          "datePrecision": "day",
+          "regionVersion": "荷兰初代网桥；Matter-ready不等于2022具备完整Matter功能",
+          "sourceIds": [
+            "HC150-S057"
+          ],
+          "description": "2022-11-02荷兰公告确认现售；5月公布计划",
+          "temporalPerspective": "retrospective-record; no current-stock-inference"
+        }
+      ],
+      "lifecycleStatus": "end-of-sale/end-of-support-not-verified",
+      "identitySourceIds": [
+        "HC150-S057"
+      ],
+      "dateSourceIds": [
+        "HC150-S057"
+      ],
+      "sourceIds": [
+        "HC150-S057",
+        "HC150-S058"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S057",
+          "HC150-S058"
+        ],
+        "design": [
+          "HC150-S057",
+          "HC150-S058"
+        ],
+        "usage": [
+          "HC150-S057",
+          "HC150-S058"
+        ],
+        "significance": [
+          "HC150-S057",
+          "HC150-S058"
+        ],
+        "limitations": [
+          "HC150-S057",
+          "HC150-S058"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "aqara-presence-fp2",
+        "aqara-spatial-fp400"
+      ],
+      "deferredRelatedSlugs": [
+        "philips-hue-2012"
+      ],
+      "relatedModelProposals": [
+        "aqara-presence-fp2",
+        "aqara-spatial-fp400",
+        "philips-hue-2012"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "chineseCharactersInFiveSections": 887,
+      "awards": []
+    },
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "aqara-presence-fp2",
+      "name": "Presence Sensor FP2",
+      "brand": "Aqara",
+      "year": 2023,
+      "dateLabel": "2023-04-20北美与指定欧洲市场现售公告",
+      "dateKind": "launch",
+      "regionVersion": "全球FP2 WiFi USB供电；排除FP1/FP300/FP400",
+      "category": "smart-home",
+      "categoryLabel": "智能家居与感知",
+      "museumCategory": "smart-home",
+      "aliases": [
+        "Aqara Presence Sensor FP2"
+      ],
+      "tags": [
+        "智能家居与感知",
+        "全球FP2 WiFi USB供电；排除FP1/FP300/FP400"
+      ],
+      "summary": "用毫米波检测房间中的存在信息，再由人划分区域并设定联动。FP2把空间状态送入自动化，安装方向、模式选择与平台映射决定它实际能表达什么。",
+      "context": "Aqara于2023年4月20日公告FP2在北美与指定欧洲市场现售，本文保留具体市场事件。原说明书和公告将毫米波感知、区域设置和联动联系起来，它不是普通只能在身体大幅移动时输出变化的开关。产品所回应的日常任务，是让房间设备获得有人处在哪个区域的条件。但检测信息仍要由人解释成控制规则，传感器不会独自决定什么时候开灯或怎样安排房间。与较新的FP400比较，需要分别保留供电、连接和功能映射，不能以名称同属存在感知就互换版本。",
+      "design": "毫米波感知提供空间信息，Aqara Home让人把实际房间划成对应区域，再将区域状态映射到相容平台。感知、区域和自动化是三层不同任务：测得存在，不等于已经定义哪一块是书桌，更不等于灯会按个人意愿动作。安装方式参与可用功能，跌倒模式要求吊顶，且不能与分区多人模式同时使用。本文保留互斥条件，避免把两套能力并列成任意组合。FP2不是医疗设备，环境中的感知结果也不作为健康判断；产品结构应连同软件表达与安装条件理解。",
+      "usage": "使用者先选择对应模式与安装位置，在应用中设置房间区域，观察感知结果是否与实际活动相符，再将区域状态接到相应自动化。家具或使用范围改变后，这些区域可能需要重新管理；规则执行是否符合意图，也要从灯或其他设备的实际动作检查。本文不提供电气安装或跌倒应急指导，也不把传感功能当能取消人的照看。存在信息可以帮助执行某些日常规则，但需要兼容设备和平台，不能仅因传感器输出就认为所有联动本地可靠。准备与校验是使用的一部分。",
+      "significance": "FP2的普通价值在于给自动化提供比一个整房间开关更具体的空间条件。人坐在某个区域与走过另一个区域，可能希望得到不同回应，这些差异需要先用区域和规则表达。与墙上温控器相比，FP2偏向告诉系统空间状态，而不是直接产生舒适环境；与Hub比较，又能区分信息输入与设备协调。这个分工无需夸大为房屋理解了主人。本文不推断节能、护理效果或所有人都觉得便利，而把人如何把生活习惯翻译为区域与联动的任务写清楚。",
+      "limitations": "原公告与手册来自同厂商，本轮没有独立毫米波性能测试、长期家居观察或当前平台验证。跌倒与分区多人模式互斥，不把两者同时展示为一个全天候功能；非医疗身份也保留，检测不构成诊断或健康承诺。北美及指定欧洲现售事件不能扩成所有地区首售。家具、安装与平台会改变结果，手册所列当地自动化还需要相容Hub条件。本文不量化识别准确率，也不把现代更新功能倒推首发。存世硬件与软件版本另需核，文字展示空间表达的条件，不保证任何房间都按例子运行。",
+      "features": [
+        "2023-04-20北美与指定欧洲现售。",
+        "毫米波感知，Aqara Home区域设置与映射。",
+        "跌倒模式需吊顶且与分区多人模式互斥；非医疗设备。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "毫米波分区感知，AqaraHome设区后映射第三方平台；跌倒模式需吊顶且不能与分区多人同用。",
+          "sourceIds": [
+            "HC150-S059",
+            "HC150-S060"
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "已核记录",
+          "value": "毫米波分区感知，AqaraHome设区后映射第三方平台；跌倒模式需吊顶且不能与分区多人同用。",
+          "sourceIds": [
+            "HC150-S059",
+            "HC150-S060"
+          ],
+          "versionScope": "全球FP2 WiFi USB供电；排除FP1/FP300/FP400"
+        }
+      ],
+      "lifecycleEvents": [
+        {
+          "eventType": "launch",
+          "date": "2023-04-20",
+          "datePrecision": "day",
+          "regionVersion": "全球FP2 WiFi USB供电；排除FP1/FP300/FP400",
+          "sourceIds": [
+            "HC150-S059"
+          ],
+          "description": "2023-04-20北美与指定欧洲市场现售公告",
+          "temporalPerspective": "retrospective-record; no current-stock-inference"
+        }
+      ],
+      "lifecycleStatus": "end-of-sale/end-of-support-not-verified",
+      "identitySourceIds": [
+        "HC150-S059"
+      ],
+      "dateSourceIds": [
+        "HC150-S059"
+      ],
+      "sourceIds": [
+        "HC150-S059",
+        "HC150-S060"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S059",
+          "HC150-S060"
+        ],
+        "design": [
+          "HC150-S059",
+          "HC150-S060"
+        ],
+        "usage": [
+          "HC150-S059",
+          "HC150-S060"
+        ],
+        "significance": [
+          "HC150-S059",
+          "HC150-S060"
+        ],
+        "limitations": [
+          "HC150-S059",
+          "HC150-S060"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "ikea-dirigera",
+        "aqara-spatial-fp400"
+      ],
+      "deferredRelatedSlugs": [
+        "nest-learning-thermostat-1"
+      ],
+      "relatedModelProposals": [
+        "ikea-dirigera",
+        "aqara-spatial-fp400",
+        "nest-learning-thermostat-1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "chineseCharactersInFiveSections": 910,
+      "awards": []
+    },
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "humanware-victor-reader-stream-3",
+      "name": "Victor Reader Stream 3",
+      "brand": "HumanWare",
+      "year": 2024,
+      "dateLabel": "2024目录可核在售型号；首发日未主张",
+      "dateKind": "observed",
+      "regionVersion": "美国英文目录第三代；非2007第一代/第二代",
+      "category": "care",
+      "categoryLabel": "生活测量与可及性",
+      "museumCategory": "care",
+      "aliases": [
+        "HumanWare Victor Reader Stream 3"
+      ],
+      "tags": [
+        "生活测量与可及性",
+        "美国英文目录第三代；非2007第一代/第二代"
+      ],
+      "summary": "通过有形按键、声音位置提示与书签管理有声和文本内容。第三代Victor Reader Stream让阅读导航不必依靠视觉屏幕，也保留内容资格与网络条件。",
+      "context": "HumanWare的2024年美国目录明确列出第三代Victor Reader Stream，本件用目录年作为可核存在节点，不因PDF在2025上传就改发售年份。现产品页同样明确Stream 3，提供触觉界面与有声内容的功能范围。它与普通随身播放器之间的区别不只在目标人群，而在阅读如何移动：章节、页面、位置提示和书签可以形成访问作品的路径。人可以主动选择当前读到哪里，再以声音核对，而不是一定先看到一张屏幕。可及性在这里成为具体操作关系，不能由宣传替代每个人的实际体验。",
+      "design": "产品页列数字键盘与不同形状的功能键，位置键和信息键通过声音报告阅读状态。形状与触觉让手找到入口，声音让状态可以被听到；书签又把一次位置选择留给之后返回。支持内容的结构也重要，DAISY书籍可以按章节等层级导航，文本可以按相应单位移动，普通音频文件又有自己的组织方式。本文只采用本轮明确功能，不把所有图书馆内容都当免费开放。无线或计算机接入负责获取内容，阅读操作则发生在手持设备上，网络入口与作品导航承担不同任务。",
+      "usage": "使用者先取得自己有资格访问的内容，通过无线或计算机等对应方式放到设备中，再以按键选择作品、播放和移动阅读位置。需要回访的片段可以留下书签，位置提示则帮助确认当前处在何处。对于较长作品，导航让聆听不只从头连续播放，也能围绕章节和所需内容安排。本文不提供全部快捷键与图书馆开通教程，线上服务的资格和地区要求需另核。离线聆听能够减少播放当时的连接需求，但内容仍要先准备；设备续航与充电也进入携带使用的日常安排。",
+      "significance": "Stream 3的普通价值，是把阅读选择与反馈安排成可触摸和可听见的界面。与Kindle比较，访问作品的位置不只可以通过屏幕列表和页面视觉完成；与SMART Brailler比较，前者取得和导航内容，后者主动书写，两种可及工具承担不同任务。不同方式也可以共同存在，不需要让某一种感知替代其他方式。本文不宣称产品适合每位视障者，也不把厂家用户故事作为教育效果证明。展览通过形状按键、位置提示和书签解释能力，让阅读不只以显示技术的演进来讲述。",
+      "limitations": "2024目录证明型号存在，不独立给出首发日；现产品页也可能经历更新，因此功能按2026年10月11日读取范围记录，不全部倒推目录初期。十五小时为厂商标称续航，本轮没有测量。厂家用户好评与商店评论不是独立署名评测，不作为本文效果结论。图书馆和内容服务各有资格与地区条件，联网存在不保证每本书可访问。我们没有实机和长期使用观察，按键、声音与内容能力的适合程度要由个人条件判断。文字展示具体导航方法，不把辅助设备转成无条件的教学或健康承诺。",
+      "features": [
+        "2024美国目录明确第三代，不把2025上传当发售。",
+        "触觉形状键、书签与声音阅读位置提示。",
+        "线上内容与离线阅读分开，15小时为标称。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "2024目录明确第三代；触觉界面读书、广播与播客，厂商标称15小时续航。",
+          "sourceIds": [
+            "HC150-S066",
+            "HC150-S065"
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "已核记录",
+          "value": "2024目录明确第三代；触觉界面读书、广播与播客，厂商标称15小时续航。",
+          "sourceIds": [
+            "HC150-S066",
+            "HC150-S065"
+          ],
+          "versionScope": "美国英文目录第三代；非2007第一代/第二代"
+        }
+      ],
+      "lifecycleEvents": [
+        {
+          "eventType": "observed",
+          "date": "2024",
+          "datePrecision": "year",
+          "regionVersion": "美国英文目录第三代；非2007第一代/第二代",
+          "sourceIds": [
+            "HC150-S066"
+          ],
+          "description": "2024目录可核在售型号；首发日未主张",
+          "temporalPerspective": "retrospective-record; no current-stock-inference"
+        }
+      ],
+      "lifecycleStatus": "end-of-sale/end-of-support-not-verified",
+      "identitySourceIds": [
+        "HC150-S066"
+      ],
+      "dateSourceIds": [
+        "HC150-S066"
+      ],
+      "sourceIds": [
+        "HC150-S066",
+        "HC150-S065"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S066",
+          "HC150-S065"
+        ],
+        "design": [
+          "HC150-S066",
+          "HC150-S065"
+        ],
+        "usage": [
+          "HC150-S066",
+          "HC150-S065"
+        ],
+        "significance": [
+          "HC150-S066",
+          "HC150-S065"
+        ],
+        "limitations": [
+          "HC150-S066",
+          "HC150-S065"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "amazon-kindle-1",
+        "speak-and-spell"
+      ],
+      "deferredRelatedSlugs": [
+        "perkins-smart-brailler"
+      ],
+      "relatedModelProposals": [
+        "amazon-kindle-1",
+        "speak-and-spell",
+        "perkins-smart-brailler"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "仅陈述来源支持的该版本；不把计划、后续固件或地区版互套。"
+      ],
+      "chineseCharactersInFiveSections": 913,
+      "awards": []
+    },
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "switchbot-s10",
+      "name": "Floor Cleaning Robot S10",
+      "brand": "SwitchBot",
+      "year": 2024,
+      "dateLabel": "2024-04末零售；04-30原刊已实测并确认可购",
+      "dateKind": "launch",
+      "regionVersion": "2024初始S10与水站；非S10后来的水箱配件单独型号",
+      "category": "robotics",
+      "categoryLabel": "机器人与陪伴",
+      "museumCategory": "robotics",
+      "aliases": [
+        "SwitchBot Floor Cleaning Robot S10"
+      ],
+      "tags": [
+        "机器人与陪伴",
+        "2024初始S10与水站；非S10后来的水箱配件单独型号"
+      ],
+      "summary": "让机器人在两座基站间分担充电集尘与供水排水，并用滚筒处理地面。S10减少某些日常倒水动作，也需要安装、空间和清扫后的照看。",
+      "context": "SwitchBot的产品回顾区分S10的IFA亮相、众筹与四月底推出，Jennifer Pattison Tuohy在2024年4月30日The Verge原刊评测又确认当时可购买并提供约一周实测。本文以该同期零售观察作锚，不把较早展示当实际发售。它与早期Roomba之间的重要差别是维护环节：不只让机器移动，还把水的补给与排放接到一座独立水站。初始版本与当代网页更新的功能需要区分，具体便利应由当时结构和作者场景解释，不能从厂商自动化称号推出数月无需照看。",
+      "design": "一座基站承担充电与集尘，另一座水站承担补水和排放，分离使供水位置不必与充电位置完全重合。滚筒清洁与水的路径相连，让地面处理后的脏污通过另一项维护过程离开机器。官方现页面还列外置水箱路线，但它与作者接管道的条件不同，不能称同一种体验。两座结构减少一些手动任务，却增加放置与安装关系，空间并非只有一个底座。本文不从当代页面推断首发所有模式相同，也不把水路结构写成无需维护的封闭系统。",
+      "usage": "人在机器开始之前安排两座的位置与所选水路，准备清扫范围并完成应用设置。机器吸拖后可以到相应站点处理不同任务，人则继续检查耗材、滚筒与实际清扫结果。接管道与用外置水箱会改变日常添水排水的工作，用户需要按自己的安装路线理解便利。本文概括结构和原评测，不提供水管连接、维修或当代菜单教程。原刊作者当时指出应用没有仅拖地模式，说明操作选择有版本边界；不能因今天页面出现更多选项就改写作者的初始体验。",
+      "significance": "S10的普通价值是将清掃之后的一部分工作也交给系统。机器人走过地面只是一段，脏水如何移走、清水怎样补入，同样影响能否方便地重复使用。Tuohy认为分离水站和滚筒清洗减少手动添水清理，在其约一周家中测试中表现良好；观点保留作者及条件，不当成所有家庭结论。与S7比较，可以观察拖地动作与维护路线分别怎样设计，也让两个底座带来的空间取舍可见。本文不以完全自动替代实际维护，而把安装、补电和检查继续写进使用过程。",
+      "limitations": "作者约一千平方英尺两层清理需要三小时并补电，初始应用又缺仅拖地模式，这些是2024短期样机条件下的短板，不证明现软件永远相同。原刊含购物返佣披露，测试不足以验证数月免维护与故障率。原厂回顾有相对时间，具体年份靠同期原刊交叉，未扩成全部市场销售日。官方现页面可能后续更新，管道与水箱路线不混为一种安装。本轮没有自主实测或当前服务验证；展品能解释两站分工与水路便利，实际房屋适配和长期维护仍须对应说明与现场条件。",
+      "features": [
+        "2024-04-30同期评测确认当时零售，亮相与众筹分开。",
+        "充电集尘站与独立水站分工。",
+        "作者接管道约一周测试；补电和初始模式短板保留。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "两站分工：充电集尘与水补给/排放；2024年4月同期实测确认现售。",
+          "sourceIds": [
+            "HC150-S069",
+            "HC150-S070",
+            "HC150-S071"
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "已核记录",
+          "value": "两站分工：充电集尘与水补给/排放；2024年4月同期实测确认现售。",
+          "sourceIds": [
+            "HC150-S069",
+            "HC150-S070",
+            "HC150-S071"
+          ],
+          "versionScope": "2024初始S10与水站；非S10后来的水箱配件单独型号"
+        }
+      ],
+      "lifecycleEvents": [
+        {
+          "eventType": "launch",
+          "date": "2024",
+          "datePrecision": "year",
+          "regionVersion": "2024初始S10与水站；非S10后来的水箱配件单独型号",
+          "sourceIds": [
+            "HC150-S071",
+            "HC150-S069"
+          ],
+          "description": "2024-04末零售；04-30原刊已实测并确认可购",
+          "temporalPerspective": "retrospective-record; no current-stock-inference"
+        }
+      ],
+      "lifecycleStatus": "end-of-sale/end-of-support-not-verified",
+      "identitySourceIds": [
+        "HC150-S069"
+      ],
+      "dateSourceIds": [
+        "HC150-S071",
+        "HC150-S069"
+      ],
+      "sourceIds": [
+        "HC150-S069",
+        "HC150-S070",
+        "HC150-S071"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S069",
+          "HC150-S070",
+          "HC150-S071"
+        ],
+        "design": [
+          "HC150-S069",
+          "HC150-S070",
+          "HC150-S071"
+        ],
+        "usage": [
+          "HC150-S069",
+          "HC150-S070",
+          "HC150-S071"
+        ],
+        "significance": [
+          "HC150-S069",
+          "HC150-S070",
+          "HC150-S071"
+        ],
+        "limitations": [
+          "HC150-S069",
+          "HC150-S070",
+          "HC150-S071"
+        ]
+      },
+      "mediaOpinions": [
+        {
+          "media": "The Verge",
+          "author": "Jennifer Pattison Tuohy",
+          "articleDate": "2024-04-30",
+          "modelVersion": "初始S10",
+          "url": "https://www.theverge.com/24144618/switchbot-s10-review-robot-vacuum",
+          "praise": "作者认为分离水站和滚筒清洗减少手动添水清理，约一周测试表现良好。",
+          "shortcomings": "约1000平方英尺两层清理需三小时补电；当时应用无仅拖地模式。",
+          "evaluationConditions": "约一周家中实测，水站接管道；不足以验证数月免维护。",
+          "commercialDisclosure": "原刊披露购物链接可能返佣；未据此推定厂商赞助。",
+          "verificationDepth": "原刊正文",
+          "sourceId": "HC150-S071",
+          "exactModelVersion": "初始S10",
+          "originalURL": "https://www.theverge.com/24144618/switchbot-s10-review-robot-vacuum"
+        }
+      ],
+      "relatedSlugs": [
+        "roborock-s7"
+      ],
+      "deferredRelatedSlugs": [
+        "irobot-roomba-2002"
+      ],
+      "relatedModelProposals": [
+        "roborock-s7",
+        "irobot-roomba-2002"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-3",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "仅陈述来源支持的该版本；不把计划、后续固件或地区版互套。"
+      ],
+      "chineseCharactersInFiveSections": 879,
+      "awards": []
+    },
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "aqara-spatial-fp400",
+      "name": "Spatial Multi-Sensor FP400",
+      "brand": "Aqara",
+      "year": 2026,
+      "dateLabel": "2026-09-16正式现售公告",
+      "dateKind": "launch",
+      "regionVersion": "官方市场不含俄罗斯/日本；普通FP400，非Pro",
+      "category": "smart-home",
+      "categoryLabel": "智能家居与感知",
+      "museumCategory": "smart-home",
+      "aliases": [
+        "Aqara Spatial Multi-Sensor FP400"
+      ],
+      "tags": [
+        "智能家居与感知",
+        "官方市场不含俄罗斯/日本；普通FP400，非Pro"
+      ],
+      "summary": "把毫米波感知与光照信息送入家居规则，Thread与Zigbee提供不同连接路线。FP400的空间分区能力要按平台理解，第三方接入并不自动带出全部功能。",
+      "context": "Aqara的2026年9月16日公告明确FP400正式现售，官方论坛同日又列市场排除范围，本件截至10月11日有可核产品节点。它是Spatial Multi-Sensor FP400，不能把FP400 Pro的辅助照护定位与功能归给住宅版。与FP2相比，它增加Thread和Zigbee连接选择，但协议名称不是所有功能已一致的证明。普通任务仍从家庭规则开始：人希望设备根据房间状态回应，传感器给出信息，平台执行设定。最新日期本身不构成优点，具体价值与条件要从信息怎样进入规则解释。",
+      "design": "原公告列60GHz毫米波与环境光感知，区域能力在相应软件中表达；Thread或Zigbee则决定如何把信息接入系统。最重要的边界写在脚注：第三方Thread平台只呈现一个整体存在与一个光照传感器，不能把分区能力一起默认输出。Zigbee接入第三方Matter又需要Aqara Hub，预配置的第三方Thread Border Router属于另一项条件。本文不把最大覆盖、人数或减少误触的宣传当实测，也不把Pro功能混入。连接选择与可表达的信息是不同层面，外观相同也会面对不同能力范围。",
+      "usage": "使用者先选择所用平台与连接路线，准备相应Hub或边界路由器，在能够提供对应功能的应用中安排空间与区域，再将检测状态接到自动化。若选第三方Thread方式，就需要按整体存在与光照设计规则，不能期待未输出的区域信息。之后人还要从现场活动和设备动作检查规则是否符合预期，房间变化可能要求重新整理。本文不提供安装与布网教程，也不声称系统认识每个人的身份。传感器、软件、平台和执行设备共同参与工作，USB-C供电并不能代替其他连接条件。",
+      "significance": "FP400的普通价值是给家居系统提供一种可选择连接方式的空间信息入口。与Hub比较，可以区分传感器告诉系统什么与网络怎样把设备联系起来；与FP2对照，则能观察新增协议为何仍要逐项看功能映射。这个例子适合说明互通不是一个全有或全无的词：整体存在和分区状态可以在不同路线中有不同范围。人需要把生活意图翻译为当前系统能够使用的规则，最新硬件也没有取消这项任务。本文不推断节能、护理或隐私效果，仅解释可核结构与平台条件。",
+      "limitations": "两项公告出自Aqara同厂商，正式现售可以定位产品，但没有本轮独立署名体验与长期测量。官方论坛补充部分市场排除，不能将全球文案视为每个国家同日库存。Thread脚注与Zigbee Hub要求保留，八区等宣传能力也不当所有平台共有；FP400 Pro另行排除。没有自主实测，识别、误触与复杂房间表现不能由广告参数确认。当前文字记录截至2026年10月11日，后续软件与平台可能变化，不虚构终止销售或支持。它作为展品说明信息映射，实际适用仍需要对应版本和现场检验。",
+      "features": [
+        "2026-09-16现售，住宅FP400与Pro分开。",
+        "60GHz毫米波与光照，Thread或Zigbee路线。",
+        "第三方Thread仅整体存在与光照；Zigbee Matter须Hub。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "Thread或Zigbee；第三方Thread接入仅整体存在/光照；分区能力依平台与配置。",
+          "sourceIds": [
+            "HC150-S072",
+            "HC150-S073"
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "已核记录",
+          "value": "Thread或Zigbee；第三方Thread接入仅整体存在/光照；分区能力依平台与配置。",
+          "sourceIds": [
+            "HC150-S072",
+            "HC150-S073"
+          ],
+          "versionScope": "官方市场不含俄罗斯/日本；普通FP400，非Pro"
+        }
+      ],
+      "lifecycleEvents": [
+        {
+          "eventType": "launch",
+          "date": "2026-09-16",
+          "datePrecision": "day",
+          "regionVersion": "官方市场不含俄罗斯/日本；普通FP400，非Pro",
+          "sourceIds": [
+            "HC150-S072"
+          ],
+          "description": "2026-09-16正式现售公告",
+          "temporalPerspective": "retrospective-record; no current-stock-inference"
+        }
+      ],
+      "lifecycleStatus": "end-of-sale/end-of-support-not-verified",
+      "identitySourceIds": [
+        "HC150-S072"
+      ],
+      "dateSourceIds": [
+        "HC150-S072"
+      ],
+      "sourceIds": [
+        "HC150-S072",
+        "HC150-S073"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S072",
+          "HC150-S073"
+        ],
+        "design": [
+          "HC150-S072",
+          "HC150-S073"
+        ],
+        "usage": [
+          "HC150-S072",
+          "HC150-S073"
+        ],
+        "significance": [
+          "HC150-S072",
+          "HC150-S073"
+        ],
+        "limitations": [
+          "HC150-S072",
+          "HC150-S073"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "aqara-presence-fp2",
+        "ikea-dirigera"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "aqara-presence-fp2",
+        "ikea-dirigera"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "complete-text-validated-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-4",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "仅陈述来源支持的该版本；不把计划、后续固件或地区版互套。"
+      ],
+      "chineseCharactersInFiveSections": 861,
+      "awards": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "L:AMR01",
+      "title": "About Roborock — company milestones",
+      "publisher": "Roborock",
+      "url": "https://global.roborock.com/pages/about-us",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "品牌时间轴记录2021-01-11 S7；用作公布日期线索而非各国已实际销售日期。",
+      "sourceType": "品牌时间轴",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMR01",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:AMR02",
+      "title": "Roborock S7",
+      "publisher": "Roborock",
+      "url": "https://global.roborock.com/pages/roborock-s7",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "精确原版S7的声波拖地、拖布抬升与地面感应产品资料；营销清洁百分比未当独立实测。",
+      "sourceType": "品牌原始资料",
+      "independence": "品牌自述；非独立评测",
+      "commercialDisclosure": "品牌官方页面；商业目的明确",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMR02",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:AMR03",
+      "title": "The 100 greatest innovations of 2021 — Best of What’s New",
+      "publisher": "Popular Science",
+      "url": "https://www.popsci.com/technology/best-of-whats-new-2021/",
+      "publishedOn": "2021-12-01",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "2021年度Best of What’s New家居条目包含S7。是当年编辑选品；本条目不能称家居Grand Award。",
+      "sourceType": "媒体年度编辑评选",
+      "independence": "独立媒体年度编辑选择",
+      "commercialDisclosure": "可见购物及联盟跳转链接；该条目赞助关系未核实",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMR03",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:AMR04",
+      "title": "Roborock S7",
+      "publisher": "Red Dot",
+      "url": "https://www.red-dot.org/project/roborock-s7-53189",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原数据库搜索索引读到Product Design 2021及型号；直接页面缓存访问失败，未完整读取等级标识。",
+      "sourceType": "设计奖原数据库索引",
+      "independence": "评奖机构索引正文片段",
+      "commercialDisclosure": "具体参赛和推广关系未核实",
+      "verificationMethod": "搜索索引/可读摘要核查；已取得正文的部分另见verifiedScope，不声称全文已读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMR04",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:AMR05",
+      "title": "Roborock S7 review",
+      "publisher": "TechRadar",
+      "url": "https://www.techradar.com/reviews/roborock-s7-vacuum-review",
+      "publishedOn": "2021-04-08",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "David Nield的一手单件评测；不是TechRadar Choice年度奖。 本轮原刊重读，确认作者日期、混合地面测试、美国当时现售、充电/体量短板及返佣披露。",
+      "sourceType": "媒体单件评测",
+      "independence": "独立媒体评测",
+      "commercialDisclosure": "媒体可收取联盟购物佣金；单篇付费合作未核实",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMR05",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "HC150-S057",
+      "title": "DIRIGERA Netherlands launch",
+      "publisher": "IKEA Netherlands",
+      "url": "https://www.ikea.com/nl/nl/newsroom/corporate-news/ikea-introduceert-dirigera-hub-om-slimme-apparaten-mee-te-bedienen-pub8d094e00/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂地区销售公告",
+      "verifiedScope": "2022-11-02荷兰现售与场景；网页后续编辑故不反推Matter当年实现",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同品牌不同地区公告",
+      "commercialDisclosure": "商业公告",
+      "originalId": "HC150-S057",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S058",
+      "title": "DIRIGERA global announcement",
+      "publisher": "Inter IKEA",
+      "url": "https://www.ikea.com/global/en/newsroom/innovation/ikea-launches-dirigera-the-matter-ready-hub-for-smart-products-and-a-new-ikea-home-smart-app-220525/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂公布",
+      "verifiedScope": "5月公布与10月计划；TRADFRI兼容安排",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同品牌",
+      "commercialDisclosure": "商业公告",
+      "originalId": "HC150-S058",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S059",
+      "title": "FP2 introduction",
+      "publisher": "Aqara",
+      "url": "https://www.aqara.com/us/news-us/aqara-adds-presence-sensor-fp2-to-its-smart-sensor-portfolio/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期销售公告",
+      "verifiedScope": "日期、市场、mmWave、模式互斥与非医疗设备",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业公告",
+      "originalId": "HC150-S059",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S060",
+      "title": "FP2 User Manual",
+      "publisher": "Aqara",
+      "url": "https://www.aqara.com/wp-content/uploads/2023/07/Presence-Sensor-FP2_.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂说明书",
+      "verifiedScope": "AqaraHome需求、区域/安装、当地自动化需兼容Hub",
+      "verificationMethod": "PDF原文相关页",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "厂商操作文档",
+      "originalId": "HC150-S060",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S063",
+      "title": "POCKETALK W 本日発売",
+      "publisher": "Sourcenext",
+      "url": "https://sourcenext.co.jp/pressrelease_html/JS/2018/2018090702",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂发售公告",
+      "verifiedScope": "2018-09-07日本实际发售；W1PGK含两年eSIM/W1PWK不含，2.4寸触屏，网络地区限制",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S063",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S064",
+      "title": "POCKETALK W software update 2019-11-18",
+      "publisher": "Sourcenext",
+      "url": "https://www.sourcenext.com/support/i/2019/191118_1/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂支持文档",
+      "verifiedScope": "更新需WiFi，即使含全球通信版；软件及语言随版本变化",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S064",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S065",
+      "title": "Victor Reader Stream 3 product",
+      "publisher": "HumanWare",
+      "url": "https://store.humanware.com/hus/victor-reader-stream-handheld-media-player.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "精确第三代Stream3、触觉界面、有声内容无线获取、阅读位置提示",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S065",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S066",
+      "title": "HumanWare 2024 US product showcase",
+      "publisher": "HumanWare",
+      "url": "https://www.humanware.com/wp-content/uploads/2025/04/Catalogue-HW-2024-US-EN-LR.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品目录",
+      "verifiedScope": "2024目录p12列Stream3；使用目录年作存在锚，非发售日",
+      "verificationMethod": "PDF目录正文",
+      "limits": "不将2025上传路径作为2025发售。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S066",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S069",
+      "title": "SwitchBot six newcomers",
+      "publisher": "SwitchBot",
+      "url": "https://blog.switch-bot.com/six-newcomers-to-the-switchbot-family-youre-gonna-love-these/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂回顾",
+      "verifiedScope": "S10 IFA亮相/众筹与其后四月底正式推出分开；两座结构",
+      "verificationMethod": "读取原站正文",
+      "limits": "页面只显示相对时间，年份需同期实测交叉。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S069",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S070",
+      "title": "SwitchBot S10 Canada product",
+      "publisher": "SwitchBot",
+      "url": "https://ca.switch-bot.com/pages/switchbot-floor-cleaning-robot-s10",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "S10与独立水站，接管道或外置水箱；当前页面功能可能后更新",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S070",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S071",
+      "title": "SwitchBot S10 review",
+      "publisher": "The Verge",
+      "url": "https://www.theverge.com/24144618/switchbot-s10-review-robot-vacuum",
+      "checkedOn": "2026-10-11",
+      "sourceType": "署名媒体评测",
+      "verifiedScope": "Jennifer Pattison Tuohy，2024-04-30，约一周实测且确认当时可购买；分离水站体验及补电",
+      "verificationMethod": "原刊正文",
+      "limits": "单样机短期家居测试，不保证长期故障率。",
+      "independence": "独立署名媒体，非厂商转载",
+      "commercialDisclosure": "媒体页面含购物返佣披露",
+      "originalId": "HC150-S071",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S072",
+      "title": "Spatial Multi-Sensor FP400 available",
+      "publisher": "Aqara",
+      "url": "https://www.aqara.com/eu/news-eu/spatial-multi-sensor-fp400-availability-announcement/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "2026-09-16现售；60GHz、Thread/Zigbee；第三方Thread仅整体存在和光照，勿混FP400Pro",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S072",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S073",
+      "title": "FP400 original official forum release",
+      "publisher": "AqaraOfficial",
+      "url": "https://forum.aqara.com/t/introducing-the-spatial-multi-sensor-fp400-automations-that-know-where-you-are/335567",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂论坛公告",
+      "verifiedScope": "09-16官方现售帖子明确全球市场不含RU/JP；USB-C供电及Matter边界",
+      "verificationMethod": "读取原站正文",
+      "limits": "同厂两种发布；评论与试用者不作为独立媒体。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S073",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    }
+  ],
+  "validation": {
+    "exhibitCount": 7,
+    "uniqueSlugs": true,
+    "minFiveSectionHanCharacters": 861,
+    "sourceReferencesClosed": true,
+    "relatedSlugsClosed": true,
+    "noOld14Duplicates": true
+  },
+  "importInstructions": [
+    "数值ID由协调线程统一分配；不是已经导入的生产数据。",
+    "年代事件、地区版本及来源读取边界保留；关联只指原40、原14及本批完整稿。",
+    "文字回退，不补未知图权或后代图片。",
+    "specifications只提取已读字段；生命周期未核终止不填结束事件。"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "sony-xel-1",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Sony oled.jpg",
+      "pageid": 7361967,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sony_oled.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/60/Sony_oled.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Sony_oled.jpg/960px-Sony_oled.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2009-07-22 13:28:05",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Sony oled",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Canon EOS 30D|Flickr images reviewed by FlickreviewR|Sony XEL-1",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The <a href=\"https://en.wikipedia.org/wiki/Sony_XEL-1\" class=\"extiw\" title=\"en:Sony XEL-1\">Sony XEL-1</a> television, the first <a href=\"https://en.wikipedia.org/wiki/OLED\" class=\"extiw\" title=\"en:OLED\">OLED</a> TV (marketed 2007–2010).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2007-12-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/steveliao/2089119570/\">https://www.flickr.com/photos/steveliao/2089119570/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Steve Liao",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The  Sony XEL-1  television, the first  OLED  TV (marketed 2007–2010).",
+      "artist": "Steve Liao",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "date": "2007-12-05"
+    }
+  ]
+}

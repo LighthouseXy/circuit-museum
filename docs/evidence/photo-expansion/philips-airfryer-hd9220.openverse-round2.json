@@ -1,0 +1,39 @@
+{
+  "query": "Philips HD9220",
+  "checkedOn": "2026-10-15",
+  "result_count": 1,
+  "page_count": 1,
+  "page_size": 20,
+  "page": 1,
+  "results": [
+    {
+      "id": "f67dd186-0b0b-42fb-a565-8db4208cb934",
+      "title": "[ADAYROI-T11-2017] NỒI CHIÊN KHÔNG DẦU PHILIPS HD9220 1400W (ĐEN) -HÀNG NHẬP KHẨU GIẢM ĐẾN 200K",
+      "indexed_on": "2020-03-22T08:18:00.591565Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/159632954@N02/37608316935",
+      "url": "https://live.staticflickr.com/4533/37608316935_f78e38ab53.jpg",
+      "creator": "alo24h.com",
+      "creator_url": "https://www.flickr.com/photos/159632954@N02",
+      "license": "cc0",
+      "license_version": "1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [],
+      "attribution": "\"[ADAYROI-T11-2017] NỒI CHIÊN KHÔNG DẦU PHILIPS HD9220 1400W (ĐEN) -HÀNG NHẬP KHẨU GIẢM ĐẾN 200K\" by alo24h.com is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.",
+      "fields_matched": [
+        "title"
+      ],
+      "mature": false,
+      "height": 500,
+      "width": 500,
+      "thumbnail": "https://api.openverse.org/v1/images/f67dd186-0b0b-42fb-a565-8db4208cb934/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/f67dd186-0b0b-42fb-a565-8db4208cb934/",
+      "related_url": "https://api.openverse.org/v1/images/f67dd186-0b0b-42fb-a565-8db4208cb934/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

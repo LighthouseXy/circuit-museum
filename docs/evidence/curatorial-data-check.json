@@ -1,0 +1,23 @@
+{
+  "reviewedAt": "2026-10-03T01:10:31.273699+08:00",
+  "documentation": {
+    "exhibits": 40,
+    "categories": 8,
+    "uniqueSlugs": 40,
+    "imageSources": 25,
+    "heroImageCandidates": 24,
+    "videos": 5,
+    "teardownEntries": 3,
+    "sourceReferencesValid": true,
+    "relatedReferencesValid": true
+  },
+  "implementationSnapshot": {
+    "exhibits": 40,
+    "photographedExhibits": 27,
+    "videoLinks": 5,
+    "teardownEntries": 3,
+    "collectionSha256": "863b9c08760542df765dba7b349e7255b6481da8135642e7a9fe787e9806e35b"
+  },
+  "unitTest": "npm test: 3 passed, 0 failed at approximately 01:07 Asia/Shanghai",
+  "browserNote": "Manual live IAB inspection confirmed 40 cards, 8 categories, 27 image elements, 3 homepage videos, iPhone 4 teardown and searches. Does not assert all browser regression checks have completed."
+}

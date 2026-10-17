@@ -1,0 +1,58 @@
+{
+  "exhibitCount": 40,
+  "uniqueSlugs": 40,
+  "retainedRequired": true,
+  "categoryCount": 5,
+  "nodeCount": 29,
+  "categories": [
+    {
+      "id": "phones",
+      "nodes": 5,
+      "exhibits": 4,
+      "startYear": 1973,
+      "endYear": 2026
+    },
+    {
+      "id": "computers",
+      "nodes": 8,
+      "exhibits": 7,
+      "startYear": 1946,
+      "endYear": 2026
+    },
+    {
+      "id": "watches",
+      "nodes": 6,
+      "exhibits": 3,
+      "startYear": 1810,
+      "endYear": 2026
+    },
+    {
+      "id": "bands",
+      "nodes": 4,
+      "exhibits": 3,
+      "startYear": 2011,
+      "endYear": 2026
+    },
+    {
+      "id": "headphones",
+      "nodes": 6,
+      "exhibits": 3,
+      "startYear": 1879,
+      "endYear": 2026
+    }
+  ],
+  "checkedOn": "2026-10-03",
+  "errors": [],
+  "status": "pass",
+  "scope": "数据结构与引用完整性；不是浏览器、图片解码或上线验收。",
+  "exportsConsistent": true,
+  "mediaReferencesValid": true,
+  "preservedVideoCount": 5,
+  "preservedTeardownCount": 3,
+  "backgroundNodeCount": 9,
+  "exhibitNodeCount": 20,
+  "actualPhotographCount": 33,
+  "allExhibitsHaveRelatedLinks": true,
+  "displayDataMatchesFinalBuild": true,
+  "browserTestedAt": "2026-10-03T01:36:59.751Z"
+}

@@ -1,0 +1,53 @@
+{
+  "checkedOn": "2026-10-15",
+  "reviewer": "content_awards independent final pass",
+  "scope": [
+    "docs/expansion/awards-400-approved.json",
+    "src/collection.json"
+  ],
+  "mode": "只读数据核查；仅写本审计文件；不代替正在运行的浏览器验收",
+  "result": "pass",
+  "counts": {
+    "approvedAdditions": 224,
+    "publishedExhibits": 400
+  },
+  "previousConfirmedIssues": [
+    {
+      "issue": "CoffeeB奖级误标",
+      "status": "resolved",
+      "actual": "发布数据CoffeeB Globe奖级为Best of the Best，2023；来源supports与levelEvidence同步修正。"
+    },
+    {
+      "issue": "X10错误15mm及冲突奖项合并",
+      "status": "resolved",
+      "actual": "仅保留eufy-x10-pro-omni及Australian Good Design Awards 2024 Winner；发布正文、功能详情没有15mm，A缩写条目未发布。"
+    },
+    {
+      "issue": "Soundblade获奖原案和现售版功能混用",
+      "status": "resolved-by-exclusion",
+      "actual": "Soundblade未进入approved224或发布400，无相关冲突正文。"
+    }
+  ],
+  "checks": {
+    "approvedAndPublishedFiveParagraphsMatch": true,
+    "approvedAndPublishedModelYearLabelsMatch": true,
+    "all224DateKindAward": true,
+    "all224HaveDateLabel": true,
+    "all224AwardModelMatchesNameAndYearMatchesRecord": true,
+    "sevenAmbiguousFamiliesAndUnusedBackupsAbsent": true,
+    "exactRepeatedSentencesLongerThan16Characters": 0,
+    "shared14ChineseCharacterSequencesInFourOrMoreProducts": 0,
+    "obviousUnqualifiedPromotionalAbsolutesFound": 0
+  },
+  "textReviewNotes": [
+    "扫描五段context/design/usage/significance/limitations，未检出长完整句复制或跨至少四件产品的14汉字固定模板。",
+    "绝对化关键词命中主要是限制性否定：不保证速度、不能保证所有噪声被完美删除等，不属于本站宣传承诺。",
+    "永久安装描述路由器部署方式，永久堆在面板描述操作布局；均不属于寿命保证。",
+    "224款获奖对象名称与奖项model字段逐项一致，获奖年份与奖项year一致，日期标签全部明确非上市年份。"
+  ],
+  "findings": [],
+  "limitations": [
+    "未重新浏览224个官网，沿用前轮已读官方页证据；本轮重点是实际发布数据是否清除已确认问题及文本整体扫描。",
+    "没有宣称逐参数实测或浏览器视觉验收完成。"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Wii-Console.png",
+  "creator": "Evan-Amos",
+  "license": "公有领域（作者释出）",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/File:Wii-Console.png#Licensing",
+  "alt": "白色 Wii 主机、竖立底座与 Wii Remote 控制器",
+  "path": "/images/nintendo-wii.webp",
+  "changes": "等比例缩小、WebP 转码",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Wii-Console.png",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 2500,
+  "originalHeight": 2500,
+  "output": {
+    "format": "webp",
+    "width": 1100,
+    "height": 1100,
+    "channels": 4,
+    "premultiplied": true,
+    "hasAlpha": true,
+    "size": 68106
+  }
+}

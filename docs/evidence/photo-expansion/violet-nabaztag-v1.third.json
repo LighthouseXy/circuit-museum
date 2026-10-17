@@ -1,0 +1,109 @@
+{
+  "slug": "violet-nabaztag-v1",
+  "name": "Nabaztag v1",
+  "regionVersion": "法国初代无麦克风肚脐；排除Nabaztag:tag/Karotz",
+  "query": "Violet \"Nabaztag\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Lespace robotique (Futur en Seine, pavillon de lArsenal) (3586207542).jpg",
+      "pageid": 24672631,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lespace_robotique_(Futur_en_Seine,_pavillon_de_lArsenal)_(3586207542).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Lespace_robotique_%28Futur_en_Seine%2C_pavillon_de_lArsenal%29_%283586207542%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Lespace_robotique_%28Futur_en_Seine%2C_pavillon_de_lArsenal%29_%283586207542%29.jpg/960px-Lespace_robotique_%28Futur_en_Seine%2C_pavillon_de_lArsenal%29_%283586207542%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2013-02-15 18:36:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Lespace robotique (Futur en Seine, pavillon de lArsenal) (3586207542)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Nikon D200|Aldebaran|Nabaztag|Nao|Flickr images reviewed by File Upload Bot (Magnus Manske)|Photographs by Jean-Pierre Dalbéra|France photographs taken on 2009-05-31|Files with coordinates missing SDC location of creation (48° N, 2° E)|Futur en Seine 2009",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "48.850688",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "2.362285",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p>Le lapin Nabaztag (société Violet) et le robot Nao (société Aldebaran Robotics)\n</p>\n<a rel=\"nofollow\" class=\"external text\" href=\"http://www.futur-en-seine.fr/\">www.futur-en-seine.fr/</a>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2009-05-31 15:26",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/dalbera/3586207542/\">L'espace robotique (Futur en Seine, pavillon de l'Arsenal)</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/72746018@N00\">Jean-Pierre Dalbéra</a> from Paris, France",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Le lapin Nabaztag (société Violet) et le robot Nao (société Aldebaran Robotics)\n \n www.futur-en-seine.fr/",
+      "artist": "Jean-Pierre Dalbéra  from Paris, France",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2009-05-31 15:26"
+    }
+  ]
+}

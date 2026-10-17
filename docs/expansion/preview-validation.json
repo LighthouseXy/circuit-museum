@@ -1,0 +1,81 @@
+{
+  "checkedOn": "2026-10-11",
+  "base": "http://127.0.0.1:4174/layout-preview.html",
+  "browser": "本机Google Chrome / Playwright",
+  "scope": "独立布局稿；不是正式网站实施验收",
+  "checks": [
+    {
+      "name": "首页和七线布局 320px",
+      "status": "pass",
+      "details": "无横向溢出；首页6入口/4专题；品类与阶段/节点可见；起读实物进入首屏"
+    },
+    {
+      "name": "首页和七线布局 390px",
+      "status": "pass",
+      "details": "无横向溢出；首页6入口/4专题；品类与阶段/节点可见；起读实物进入首屏"
+    },
+    {
+      "name": "首页和七线布局 768px",
+      "status": "pass",
+      "details": "无横向溢出；首页6入口/4专题；品类与阶段/节点可见；起读实物进入首屏"
+    },
+    {
+      "name": "首页和七线布局 1440px",
+      "status": "pass",
+      "details": "无横向溢出；首页6入口/4专题；品类与阶段/节点可见；起读实物进入首屏"
+    },
+    {
+      "name": "26阶段URL定位",
+      "status": "pass",
+      "details": "新页面直接打开品类+阶段hash，标题进入视口且未遮挡"
+    },
+    {
+      "name": "新六件文字与版本回退",
+      "status": "pass",
+      "details": "节点与首批完整稿不使用产品照片；F-91W节点显示593版本范围"
+    },
+    {
+      "name": "6首批稿预览链接",
+      "status": "pass",
+      "details": "五节正文与引用可读，版本范围可见，不指向现站缺失详情"
+    },
+    {
+      "name": "未知品类可恢复",
+      "status": "pass",
+      "details": "显示选择提示，不错误展示其他品类"
+    },
+    {
+      "name": "无JavaScript可读",
+      "status": "pass",
+      "details": "独立预览依次显示首页、七线与首批正文"
+    },
+    {
+      "name": "照片错误回退",
+      "status": "pass",
+      "details": "首页图片失败显示准确型号与说明，文字仍可读"
+    },
+    {
+      "name": "预览品类与首批稿原生往返",
+      "status": "pass",
+      "details": "从手机节点进首批稿，浏览器后退回到手机线；正式生产滚动状态验收仍留待实施"
+    },
+    {
+      "name": "浏览器脚本错误",
+      "status": "pass",
+      "details": "未出现pageerror"
+    }
+  ],
+  "uniqueExistingPhotographsDecoded": 32,
+  "screenshots": [
+    "preview-1440-home.png",
+    "preview-390-home.png",
+    "preview-1440-phones.png",
+    "preview-390-phones.png",
+    "preview-390-ready-fallback.png"
+  ],
+  "limitations": [
+    "没有对正式46详情、馆藏筛选、每品类滚动记忆与生产导入执行验收。",
+    "照片来自现有本机4173服务，无新图片下载或授权核验。",
+    "没有检查外部资料URL全量可用性、其他浏览器或实体设备。"
+  ]
+}

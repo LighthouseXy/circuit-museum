@@ -1,0 +1,1928 @@
+{
+  "slug": "asus-rog-azoth",
+  "query": "Azoth",
+  "data": {
+    "batchcomplete": "",
+    "continue": {
+      "gsroffset": 20,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": {
+        "38907867": {
+          "pageid": 38907867,
+          "ns": 6,
+          "title": "File:An Allegory of Alchemy.jpg",
+          "index": 15,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/77/An_Allegory_of_Alchemy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1297,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/An_Allegory_of_Alchemy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1297
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/An_Allegory_of_Alchemy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:An_Allegory_of_Alchemy.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38907867",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-03-14 00:35:15",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "An Allegory of Alchemy",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "17th-century allegorical paintings|16th-century allegorical paintings|Azoth|Alchemy in art|Artworks without Wikidata item|Phanes (deity)|PD-old-100-expired|PD-Art (PD-old-auto-expired)|Paintings, location and year missing|CC-PD-Mark|16th-century oil on copper paintings|Paintings of standing men at full length|17th-century oil on copper paintings|Template Unknown (unspecified)|16th-century paintings of dragons|17th-century paintings of dragons|Paintings of people with dragons",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi>Circle of <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:Bartholomeus%20Spranger\" title=\"w:en:Bartholomeus Spranger\" class=\"extiw\"><span title=\"Flemish painter (1546–1611)\">Bartholomeus Spranger</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<i>An Allegory of Alchemy</i>, indistinctly inscribed across the upper and lower edges",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "between circa 1546 and circa 1611<div style=\"display: none;\">date QS:P571,+1500-00-00T00:00:00Z/6,P1319,+1546-00-00T00:00:00Z/9,P1326,+1611-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"http://www.initiare.org/wp-content/uploads/yosoy_161.jpg\" class=\"external free\">http://www.initiare.org/wp-content/uploads/yosoy_161.jpg</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "3216209": {
+          "pageid": 3216209,
+          "ns": 6,
+          "title": "File:Azoth-Fouth woodcut.jpg",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Azoth-Fouth_woodcut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1071,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Azoth-Fouth_woodcut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1071
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Azoth-Fouth_woodcut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azoth-Fouth_woodcut.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3216209",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2007-12-12 13:58:02",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Azoth-Fouth woodcut",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Phoenix (mythical bird)|Azoth|PD-Art (PD-old-100)|17th-century woodcuts|Uploads by Mattes from external sources|Template Unknown (author)|CC-PD-Mark|Sun and moon in art|Suns with a face|File uploads by User:Mattes (flat)|17th-century book illustrations|Woodcuts of lions|Moon with a face",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Book illustration from <i>Azoth ou le moyen de faire l'oder Cache des Philosophes</i> (Paris) 1659 by <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/Basil%20Valentine\" title=\"w:Basil Valentine\" class=\"extiw\">Basil Valentine</a>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1659",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"http://www.alchemywebsite.com/bookshop/prints_series_val_azoth.html\" class=\"external text\">www.alchemywebsite.com</a> (indicated with VA04, file: va04.jpg, caption by Alchemy Web Site: The fourth image from Valentine's <i>Azoth</i>)",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "2702768": {
+          "pageid": 2702768,
+          "ns": 6,
+          "title": "File:Azoth-Sixth woodcut.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Azoth-Sixth_woodcut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1196,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Azoth-Sixth_woodcut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1196
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Azoth-Sixth_woodcut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azoth-Sixth_woodcut.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2702768",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2007-09-08 15:59:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Azoth-Sixth woodcut",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Azoth|Alchemy in art|PD Old|Rebis|1650s engravings|17th-century woodcuts|Green dragons|Standing men in art|Uploads by Mattes from external sources|Template Unknown (author)|CC-PD-Mark|Colored engravings|Flying dragons|Woodcuts with hand-colouring|File uploads by User:Mattes (flat)|Dragonslayers and the dragon in art|Dragons facing left|43 (number) in art|Winged objects|Sun and crescent moon|People standing on animals (symbolism)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Sixth woodcut from the series in Basil Valentine's <i>Azoth</i> <small>(Text by: Alchemy Web Site)</small>.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1659",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"http://www.levity.com/alchemy/amclglr1.html\">Alchemy Web Site</a>, Nr. A010 (File: Amcl10.jpg)\n</p>\nNote: The same image is described as <i>The fifth image from Valentine's Azoth</i> in <a rel=\"nofollow\" class=\"external text\" href=\"http://www.alchemywebsite.com/bookshop/prints_series_val_azoth.html\">www.alchemywebsite.com</a> (indicated with VA05)",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "94851185": {
+          "pageid": 94851185,
+          "ns": 6,
+          "title": "File:Azoth et ignis, das ist, Das wahre elementarische Wasser und Feuer (IA azothetignisdasi00fict).pdf",
+          "index": 16,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Azoth_et_ignis%2C_das_ist%2C_Das_wahre_elementarische_Wasser_und_Feuer_%28IA_azothetignisdasi00fict%29.pdf/page1-500px-Azoth_et_ignis%2C_das_ist%2C_Das_wahre_elementarische_Wasser_und_Feuer_%28IA_azothetignisdasi00fict%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 960,
+              "thumbheight": 1606,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Azoth_et_ignis%2C_das_ist%2C_Das_wahre_elementarische_Wasser_und_Feuer_%28IA_azothetignisdasi00fict%29.pdf/page1-500px-Azoth_et_ignis%2C_das_ist%2C_Das_wahre_elementarische_Wasser_und_Feuer_%28IA_azothetignisdasi00fict%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1606
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Azoth_et_ignis%2C_das_ist%2C_Das_wahre_elementarische_Wasser_und_Feuer_%28IA_azothetignisdasi00fict%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Azoth_et_ignis,_das_ist,_Das_wahre_elementarische_Wasser_und_Feuer_(IA_azothetignisdasi00fict).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94851185",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-10-08 01:23:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nAzoth et ignis, das ist, Das wahre elementarische Wasser und Feuer, oder, Mercurius philosophorum<span typeof=\"mw:DisplaySpace\"> </span>: als das einige Nothwendige der Fundamental-Uranfänge und principiorum des Steins der Weisen<span typeof=\"mw:DisplaySpace\"> </span>; Avrevm vellvs, oder, Goldenes Vliess<span typeof=\"mw:DisplaySpace\"> </span>: was dasselbe sey, sowohl in seinem Ursprunge, als erhabenen Zustande, denen filiis artis und Liebhabern der Hermetischen Philosophie dargelegt<span typeof=\"mw:DisplaySpace\"> </span>: auch, dass darunter die prima materia lapidis philosophorum, samt dessen praxi verborgen</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|1749 books from Germany|Books uploaded by Fæ|Books without Wikidata item|Images from the Getty Research Institute|18th-century books from Leipzig|PD-US missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\n<dl><dd>Fictuld, Herman</dd>\n<dd>Krügner, Johann Gottfried, 1714-1782</dd></dl></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Colophon: CAHLA<span typeof=\"mw:DisplaySpace\"> </span>: Gedruckt bey Georg Friedrich Schreibern</dd>\n<dd>Engraved frontispiece shows alchemical equipment and symbols. It is signed in the plate: Krügner jun. sc</dd>\n<dd>Hogart, R. Alchemy</dd>\n<dd>Library's copy bound with 2 other works: 1. Hermetischer Triumph-Bogen / Herman Fictuld. Petersburg, Coppenhagen und Leipzig<span typeof=\"mw:DisplaySpace\"> </span>: Bey Veraci Orientali Wahrheit und Ernst Lügenfeind, 1741 -- 2. Eröffnetes philosophisches Vatter-Hertz. Frankfurt am Mayn, 1742</dd></dl>\n<br>Subjects: Alchemy</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/azothetignisdasi00fict\" title=\"iarchive:azothetignisdasi00fict\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: azothetignisdasi00fict</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Azoth%20et%20ignis,%20das%20ist,%20Das%20wahre%20elementarische%20Wasser%20und%20Feuer%20(IA%20azothetignisdasi00fict).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Azoth%20et%20ignis,%20das%20ist,%20Das%20wahre%20elementarische%20Wasser%20und%20Feuer%20(IA%20azothetignisdasi00fict).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/azothetignisdasi00fict/azothetignisdasi00fict.pdf\" class=\"external free\">https://archive.org/download/azothetignisdasi00fict/azothetignisdasi00fict.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "14647075": {
+          "pageid": 14647075,
+          "ns": 6,
+          "title": "File:Basile Valentin--Azoth--1659.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Basile_Valentin--Azoth--1659.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1489,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Basile_Valentin--Azoth--1659.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1489
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Basile_Valentin--Azoth--1659.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Basile_Valentin--Azoth--1659.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=14647075",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-03-15 07:53:13",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Basile Valentin--Azoth--1659",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Basilius Valentinus|Author died more than 100 years ago public domain images|Alchemical manuscripts|CC-PD-Mark|Azoth (Basil Valentine)",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Cover of the book \"Azoth\" (1659), of Basilius Valentinus or Basil Valentine, who was allegedly a 15th-century alchemist. National Library. Madrid. Spain.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1659",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Book of the XVIIth century",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Basile Valentin",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "99786127": {
+          "pageid": 99786127,
+          "ns": 6,
+          "title": "File:Confessio ... de chao physico-chemicorum catholico; in quo catholice habitat Azoth sive Materia prima mundi (IA hin-wel-all-00002774-003).pdf",
+          "index": 17,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Confessio_..._de_chao_physico-chemicorum_catholico%3B_in_quo_catholice_habitat_Azoth_sive_Materia_prima_mundi_%28IA_hin-wel-all-00002774-003%29.pdf/page1-960px-Confessio_..._de_chao_physico-chemicorum_catholico%3B_in_quo_catholice_habitat_Azoth_sive_Materia_prima_mundi_%28IA_hin-wel-all-00002774-003%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 960,
+              "thumbheight": 1278,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Confessio_..._de_chao_physico-chemicorum_catholico%3B_in_quo_catholice_habitat_Azoth_sive_Materia_prima_mundi_%28IA_hin-wel-all-00002774-003%29.pdf/page1-960px-Confessio_..._de_chao_physico-chemicorum_catholico%3B_in_quo_catholice_habitat_Azoth_sive_Materia_prima_mundi_%28IA_hin-wel-all-00002774-003%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1278
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Confessio_..._de_chao_physico-chemicorum_catholico%3B_in_quo_catholice_habitat_Azoth_sive_Materia_prima_mundi_%28IA_hin-wel-all-00002774-003%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Confessio_..._de_chao_physico-chemicorum_catholico;_in_quo_catholice_habitat_Azoth_sive_Materia_prima_mundi_(IA_hin-wel-all-00002774-003).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=99786127",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2021-02-12 10:25:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nConfessio ... de chao physico-chemicorum catholico; in quo catholice habitat Azoth sive Materia prima mundi, h.e. Mercurius sapientum: ubi Magnesiae (subjecti videlicet Lapidis philosophorum catholici) conditiones fideliter recensentur / [Heinrich Khunrath]</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Old books in Internet Archive additional collections|PD-old missing SDC copyright status|Latin-language books",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nKhunrath, Heinrich</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>(16mo). 56 p.</p>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/hin-wel-all-00002774-003\" title=\"iarchive:hin-wel-all-00002774-003\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: hin-wel-all-00002774-003</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Confessio%20...%20de%20chao%20physico-chemicorum%20catholico;%20in%20quo%20catholice%20habitat%20Azoth%20sive%20Materia%20prima%20mundi%20(IA%20hin-wel-all-00002774-003).pdf\" about=\"#mwt4\" typeof=\"mw:ExpandedAttrs\" data-mw='{\"attribs\":[[{\"txt\":\"mw:sortKey\"},{\"html\":\"Confessio ... de chao physico-chemicorum catholico&lt;span typeof=\\\"mw:Entity\\\" id=\\\"mwBQ\\\"&gt;;&lt;/span&gt; in quo catholice habitat Azoth sive Materia prima mundi (IA hin-wel-all-00002774-003).pdf\"}]]}'><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Confessio%20...%20de%20chao%20physico-chemicorum%20catholico;%20in%20quo%20catholice%20habitat%20Azoth%20sive%20Materia%20prima%20mundi%20(IA%20hin-wel-all-00002774-003).pdf\" about=\"#mwt5\" typeof=\"mw:ExpandedAttrs\" data-mw='{\"attribs\":[[{\"txt\":\"mw:sortKey\"},{\"html\":\"Confessio ... de chao physico-chemicorum catholico&lt;span typeof=\\\"mw:Entity\\\" id=\\\"mwBg\\\"&gt;;&lt;/span&gt; in quo catholice habitat Azoth sive Materia prima mundi (IA hin-wel-all-00002774-003).pdf\"}]]}'></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/hin-wel-all-00002774-003/hin-wel-all-00002774-003.pdf\" class=\"external free\">https://archive.org/download/hin-wel-all-00002774-003/hin-wel-all-00002774-003.pdf</a></dd></dl>\n<ul><li>IA contributor: The Wellcome Library, London</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "40027006": {
+          "pageid": 40027006,
+          "ns": 6,
+          "title": "File:Hermann fictuld Azoth et Ignis page 380.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Hermann_fictuld_Azoth_et_Ignis_page_380.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1489,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Hermann_fictuld_Azoth_et_Ignis_page_380.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1489
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Hermann_fictuld_Azoth_et_Ignis_page_380.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hermann_fictuld_Azoth_et_Ignis_page_380.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40027006",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2015-09-22 08:22:13",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hermann fictuld Azoth et Ignis page 380",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Azoth|Ciphertexts|PD-old-100-expired|Books about alchemy|CC-PD-Mark",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "substitution cipher, from page 380 of <i>Azoth et Ignis</i> by Hermann Fictuld (pseud.) This cipher is believed to give the author's real name.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1749",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p>Azoth et ignis, das ist das wahre elementarische wasser und feuer; oder, Mercurius philosophorum, als das einige nothwendige der fundamental-uranfänge und principiorum des steins der weisen... Publisher: Leipzig, N. Blochberger, 1749.</p>\nby Hermann Fictuld,  <a rel=\"mw:ExtLink nofollow\" href=\"http://www.e-rara.ch/cgj/content/pageview/1654740\" class=\"external free\">http://www.e-rara.ch/cgj/content/pageview/1654740</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Hermann Fictuld (1700-1777)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "15097393": {
+          "pageid": 15097393,
+          "ns": 6,
+          "title": "File:Levi-10.jpeg",
+          "index": 11,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Levi-10.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1555,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Levi-10.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1555
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Levi-10.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Levi-10.jpeg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15097393",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2011-05-02 20:10:22",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Levi-10",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Wheel of Fortune (Major Arcana)|Snakes in art|Prometheus|Typhon|Éliphas Lévi|Egyptian sphinxes|Hermanubis|Azoth|Alchemy in art|PD Old|CC-PD-Mark|PD-old missing SDC copyright status|Wet moon in art",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "\"The Tenth Key of Tarot\" is taken from the book by Eliphas Levi, La Clef des grands mysteres.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "circa 1846<div style=\"display: none;\">date QS:P,+1846-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://replay.web.archive.org/20050301085744/http://www.ln.com.ua/~kostenko/levitarot.html\">http://replay.web.archive.org/20050301085744/http://www.ln.com.ua/~kostenko/levitarot.html</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Eliphas Levi or some unknown illustrator",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr>\n<td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span>\n</td></tr></tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr>\n<td rowspan=\"2\"><span typeof=\"mw:File\"><span title=\"Public domain\"><img alt=\"Public domain\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"64\" height=\"64\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"196\" data-file-height=\"196\"></span></span>\n</td>\n<td>\n<p>This work is in the <b><a href=\"https://en.wikipedia.org/wiki/public_domain\" class=\"extiw\" title=\"en:public domain\">public domain</a></b> in its country of origin and other countries and areas where the <a href=\"https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths\" class=\"extiw\" title=\"w:List of countries' copyright lengths\">copyright term</a> is the author's <b>life plus 70 years or fewer</b>.\n</p>\n<hr>\n<span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"25\" height=\"25\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\"></span></span> <small>You must also include a <a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"> Note that a few countries have copyright terms longer than 70 years: Mexico has 100 years, Jamaica has 95 years, Colombia has 80 years, and Guatemala and Samoa have 75 years. This image may <i>not</i> be in the public domain in these countries, which moreover do <i>not</i> implement the <a href=\"https://en.wikipedia.org/wiki/rule_of_the_shorter_term\" class=\"extiw\" title=\"w:rule of the shorter term\">rule of the shorter term</a>. Honduras has a general copyright term of 75 years, but it <i>does</i> implement the rule of the shorter term. Copyright may extend on works created by French who died for France in <a href=\"https://en.wikipedia.org/wiki/World_War_II\" class=\"extiw\" title=\"w:World War II\">World War II</a> (<a href=\"//commons.wikimedia.org/wiki/Commons:Copyright_rules_by_territory/France\" title=\"Commons:Copyright rules by territory/France\">more information</a>), Russians who served in <a href=\"https://en.wikipedia.org/wiki/Eastern_Front_(World_War_II)\" class=\"extiw\" title=\"w:Eastern Front (World War II)\">the Eastern Front of World War II</a> (known as the Great Patriotic War in Russia) and posthumously <a href=\"https://en.wikipedia.org/wiki/Rehabilitation_(Soviet)\" class=\"extiw\" title=\"w:Rehabilitation (Soviet)\">rehabilitated</a> victims of Soviet repressions (<a href=\"//commons.wikimedia.org/wiki/Template:PD-Russia\" title=\"Template:PD-Russia\">more information</a>).</div></small>\n</td></tr>\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" class=\"extiw\" title=\"ccorg:publicdomain/mark/1.0/deed.en\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a>\n</td></tr></tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "199575025": {
+          "pageid": 199575025,
+          "ns": 6,
+          "title": "File:M. Valentin Weigelii Himmlisch Manna, Azoth et Ignis, das ist- güldenes Kleinod, handelnde von dem köstlichen Eckstein der Natur und desselben wunderbaren unaussprechlichen Kräften und (IA 10253141bsb).pdf",
+          "index": 18,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/M._Valentin_Weigelii_Himmlisch_Manna%2C_Azoth_et_Ignis%2C_das_ist-_g%C3%BCldenes_Kleinod%2C_handelnde_von_dem_k%C3%B6stlichen_Eckstein_der_Natur_und_desselben_wunderbaren_unaussprechlichen_Kr%C3%A4ften_und_%28IA_10253141bsb%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 960,
+              "thumbheight": 1501,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/M._Valentin_Weigelii_Himmlisch_Manna%2C_Azoth_et_Ignis%2C_das_ist-_g%C3%BCldenes_Kleinod%2C_handelnde_von_dem_k%C3%B6stlichen_Eckstein_der_Natur_und_desselben_wunderbaren_unaussprechlichen_Kr%C3%A4ften_und_%28IA_10253141bsb%29.pdf/page1-1920px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/M._Valentin_Weigelii_Himmlisch_Manna%2C_Azoth_et_Ignis%2C_das_ist-_g%C3%BCldenes_Kleinod%2C_handelnde_von_dem_k%C3%B6stlichen_Eckstein_der_Natur_und_desselben_wunderbaren_unaussprechlichen_Kr%C3%A4ften_und_%28IA_10253141bsb%29.pdf/page1-960px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1501,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/M._Valentin_Weigelii_Himmlisch_Manna%2C_Azoth_et_Ignis%2C_das_ist-_g%C3%BCldenes_Kleinod%2C_handelnde_von_dem_k%C3%B6stlichen_Eckstein_der_Natur_und_desselben_wunderbaren_unaussprechlichen_Kr%C3%A4ften_und_%28IA_10253141bsb%29.pdf/page1-1920px-thumbnail.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/M._Valentin_Weigelii_Himmlisch_Manna%2C_Azoth_et_Ignis%2C_das_ist-_g%C3%BCldenes_Kleinod%2C_handelnde_von_dem_k%C3%B6stlichen_Eckstein_der_Natur_und_desselben_wunderbaren_unaussprechlichen_Kr%C3%A4ften_und_%28IA_10253141bsb%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:M._Valentin_Weigelii_Himmlisch_Manna,_Azoth_et_Ignis,_das_ist-_g%C3%BCldenes_Kleinod,_handelnde_von_dem_k%C3%B6stlichen_Eckstein_der_Natur_und_desselben_wunderbaren_unaussprechlichen_Kr%C3%A4ften_und_(IA_10253141bsb).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=199575025",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2026-09-16 00:21:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nM. Valentin Weigelii Himmlisch Manna, Azoth et Ignis, das ist: güldenes Kleinod, handelnde von dem köstlichen Eckstein der Natur und desselben wunderbaren unaussprechlichen Kräften und Tugenden: welches niemals vor diesem auf dergleichen klare und deutliche Weise beschrieben und ans Licht gekommen. Benebst einem Anhang noch mehr andrer fürtreflichen, fast unglaublichen raren Curiositäten, welche noch nie offenbar, sondern allezeit bisher geheim gehalten worden</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|IA uploads needing categories|PD-old missing SDC copyright status|German online libraries collection",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nWeigel, Valentin</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Amsterdam, Frankfurth und Leipzig<span typeof=\"mw:DisplaySpace\"> </span>: [Verlag nicht ermittelbar] 1787.</p>\n\n<p>Location/Holding institution: \nMünchen, Bayerische Staatsbibliothek -- Alch. 330,11</p>\n\n<p>Frankfurt und Leipzig sind vermutlich Messorte\nMit einem Holzschnitt\nBibliographischer Nachweis: Brüning, Volker Fritz: Bibliographie der alchemistischen Literatur 5431</p>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/10253141bsb\" title=\"iarchive:10253141bsb\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: 10253141bsb</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#M.%20Valentin%20Weigelii%20Himmlisch%20Manna,%20Azoth%20et%20Ignis,%20das%20ist-%20g%C3%BCldenes%20Kleinod,%20handelnde%20von%20dem%20k%C3%B6stlichen%20Eckstein%20der%20Natur%20und%20desselben%20wunderbaren%20unaussprechlichen%20Kr%C3%A4ften%20und%20(IA%2010253141bsb).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#M.%20Valentin%20Weigelii%20Himmlisch%20Manna,%20Azoth%20et%20Ignis,%20das%20ist-%20g%C3%BCldenes%20Kleinod,%20handelnde%20von%20dem%20k%C3%B6stlichen%20Eckstein%20der%20Natur%20und%20desselben%20wunderbaren%20unaussprechlichen%20Kr%C3%A4ften%20und%20(IA%2010253141bsb).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/10253141bsb/10253141bsb.pdf\" class=\"external free\">https://archive.org/download/10253141bsb/10253141bsb.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "507233": {
+          "pageid": 507233,
+          "ns": 6,
+          "title": "File:Paracelsus-um-1540.jpg",
+          "index": 9,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Paracelsus-um-1540.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1266,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Paracelsus-um-1540.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1266
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Paracelsus-um-1540.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paracelsus-um-1540.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=507233",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2006-01-11 06:28:22",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Paracelsus-um-1540",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Azoth|PD-Art (PD-old)|Template Unknown (artist)|CC-PD-Mark|Paintings without Wikidata item|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Paintings of Paracelsus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nUnknown artist<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(artist)\"><span style=\"display: none;\">Unknown artist</span></div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nParacelsus (early modern painting based on the 1540 portrait by Hirschvogel; the inscription <i>Azoth</i> on the sword pommel became conventional based on the \"Rosicrucian\" portrait of 1567)</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "unknown (18th century?)",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"https://www.art-prints-on-demand.com/a/paracelsus-1.html\" class=\"external free\">https://www.art-prints-on-demand.com/a/paracelsus-1.html</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "87677076": {
+          "pageid": 87677076,
+          "ns": 6,
+          "title": "File:Paracelsus 1567 - azoth.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Paracelsus_1567_-_azoth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1139,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Paracelsus_1567_-_azoth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1139
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Paracelsus_1567_-_azoth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Paracelsus_1567_-_azoth.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=87677076",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-03-04 16:14:36",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Paracelsus 1567 - azoth",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Rosicrucianism|Author died more than 100 years ago public domain images|Azoth|CC-PD-Mark|1567 portraits|PD-old missing SDC copyright status|Prints of Paracelsus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "The Rosicrucian portrait of Paracelsus (1567), with the inscription <i>azoth</i> on the hilt of the sword.<br>\n<p>The image was published in the \"Paracelsianist\" work <i>Philosophiae magnae Paracelsi</i> (Heirs of Arnold Birckmann , Cologne 1567). The artist is possibly  Frans Hogenberg, acting under the directions of Theodor Birckmann (1531/33–1586).\nThis is the first image in which Paracelsus' sword has the word <i>Azoth</i> inscribed on the pommel, and the first to show his attributed coat of arms. Shown in the background are Rosicrucian symbols, including the head of a child protruding from the ground symbolising rebirth.\n</p>\n<dl><dd>AUREOLUS PHILIPPUS THEOPHRASTUS.</dd>\n<dd>LAUS DEO, PAX VIVIS, REQUIES AETERNA SEPULTIS.</dd>\n<dd>ALTERIUS NON SIT, QUI SUUS ESSE POTEST.</dd>\n<dd>OMNE DONUM PERFECTUM A DEO, IMPERF. A DIABO.</dd></dl>\n<dl><dd>AV. PH. TH. PARACELSUS, AETAT. SUAE 47.</dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1567",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/File:Paracelsus_1567.jpg\" title=\"File:Paracelsus 1567.jpg\">File:Paracelsus_1567.jpg</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Heirs of Arnold Birckmann",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "9694894": {
+          "pageid": 9694894,
+          "ns": 6,
+          "title": "File:Philippus Theophrastus Paracelsus.jpg",
+          "index": 14,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Philippus_Theophrastus_Paracelsus.jpg/960px-Philippus_Theophrastus_Paracelsus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 960,
+              "thumbheight": 1328,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Philippus_Theophrastus_Paracelsus.jpg/1920px-Philippus_Theophrastus_Paracelsus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Philippus_Theophrastus_Paracelsus.jpg/960px-Philippus_Theophrastus_Paracelsus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1328,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Philippus_Theophrastus_Paracelsus.jpg/1920px-Philippus_Theophrastus_Paracelsus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Philippus_Theophrastus_Paracelsus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Philippus_Theophrastus_Paracelsus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9694894",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-03-09 21:09:58",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Philippus Theophrastus Paracelsus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Azoth|PD-Art (PD-old-70)|PD-Art (PD-old default)|Template Unknown (author)|CC-PD-Mark|PD-Art missing SDC copyright status|PD-old missing SDC copyright status|Paintings of Paracelsus|Images from Hampel Auctions",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<p>Philippus Theophrastus Paracelsus. Öl auf Holz. </p>\n21 x 15,5 cm. Vermutlich nach einem Stich von Augustin Hirschvogel (1503-1553) aus dem Jahr 1540",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "unknown (18th century?), based on a 1540 engraving",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"http://www.hampel-auctions.com\" class=\"external text\">hampel-auctions.com</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Unknown author<link rel=\"mw:PageProp/Category\" href=\"./Category:Template_Unknown_(author)\"><span style=\"display: none;\">Unknown author</span>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "35978112": {
+          "pageid": 35978112,
+          "ns": 6,
+          "title": "File:Portrait of Paracelsus Wellcome L0016512.jpg",
+          "index": 13,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Portrait_of_Paracelsus_Wellcome_L0016512.jpg/960px-Portrait_of_Paracelsus_Wellcome_L0016512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 960,
+              "thumbheight": 1408,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/3/31/Portrait_of_Paracelsus_Wellcome_L0016512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Portrait_of_Paracelsus_Wellcome_L0016512.jpg/960px-Portrait_of_Paracelsus_Wellcome_L0016512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1408,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/31/Portrait_of_Paracelsus_Wellcome_L0016512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Portrait_of_Paracelsus_Wellcome_L0016512.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Paracelsus_Wellcome_L0016512.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35978112",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-10-08 08:45:58",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nPortrait of Paracelsus</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Oswald Croll|Aegidius Sadeler|Azoth|Images uploaded by Fæ|Artworks without Wikidata item|Files from Wellcome Images|Wellcome Rare Books Collection|Portraits in the Wellcome Collection|Prints of Paracelsus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nAegidius Sadeler</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<p>Portrait of Paracelsus, detail of the title page of Oswald Croll's <i>Basilica chymica</i><a rel=\"nofollow\" class=\"external autonumber\" href=\"https://books.google.ch/books?id=z9mbCZMKIe0C&amp;pg=PA117&amp;lpg=PA117\">[1]</a>\n</p>\n<p>Rare Books</p><br>\nKeywords: Oswald Croll; Aureolus Theophrastus Bombastus von Hoenheim Paracelsus</div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1629<div style=\"display: none;\">date QS:P571,+1629-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/obf_images/99/90/c9ab31b62bac73e4bbbd0692c554.jpg\">https://wellcomeimages.org/indexplus/obf_images/99/90/c9ab31b62bac73e4bbbd0692c554.jpg</a>\n</p>\n<ul><li>Gallery: <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomeimages.org/indexplus/image/L0016512.html\">https://wellcomeimages.org/indexplus/image/L0016512.html</a></li>\n<li>Wellcome Collection gallery (2018-04-01): <a rel=\"nofollow\" class=\"external free\" href=\"https://wellcomecollection.org/works/trzkhk3w\">https://wellcomecollection.org/works/trzkhk3w</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">CC-BY-4.0</a></li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "97133824": {
+          "pageid": 97133824,
+          "ns": 6,
+          "title": "File:Portrait of Paracelsus in Basilica chymica (Croll).jpg",
+          "index": 8,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Portrait_of_Paracelsus_in_Basilica_chymica_%28Croll%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1344,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Portrait_of_Paracelsus_in_Basilica_chymica_%28Croll%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1344
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Portrait_of_Paracelsus_in_Basilica_chymica_%28Croll%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Paracelsus_in_Basilica_chymica_(Croll).jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97133824",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-29 19:01:07",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Portrait of Paracelsus in Basilica chymica (Croll)",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Oswald Croll|Aegidius Sadeler|Azoth|Self-published work|Prints of Paracelsus",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Portrait of Paracelsus, detail of the title page of Oswald Croll's <i>Basilica chymica</i>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1629",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a class=\"external autonumber\" href=\"https://commons.wikimedia.org/wiki/Image:Portrait_of_Paracelsus_Wellcome_L0016512.jpg?uselang=it\">[1]</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Aegidius Sadeler",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "22553857": {
+          "pageid": 22553857,
+          "ns": 6,
+          "title": "File:Rebis-1.jpg",
+          "index": 6,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Rebis-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1150,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Rebis-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1150
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Rebis-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rebis-1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=22553857",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2012-11-05 06:49:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Rebis-1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Azoth|Self-published work",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Rebis - Philosophers Stone - Great Work of Alchemy.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2012-11-05 07:48:34",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Afrodias?action=edit&amp;redlink=1\" title=\"User:Afrodias (page does not exist)\" class=\"new\" typeof=\"mw:LocalizedAttrs\" data-mw-i18n='{\"title\":{\"lang\":\"x-page\",\"key\":\"red-link-title\",\"params\":[\"User:Afrodias\"]}}'>Afrodias</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "6797525": {
+          "pageid": 6797525,
+          "ns": 6,
+          "title": "File:Rebis2.gif",
+          "index": 12,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Rebis2.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1293,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Rebis2.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1293
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Rebis2.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rebis2.gif",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=6797525",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-05-16 20:05:32",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Rebis2",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Occult|Stephan Michelspacher|Azoth|Alchemy in art|PD-old-100-expired|CC-PD-Mark|1 symbol|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "A diagramme from Michelspaher's \"Cabala\".",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "17<sup>th</sup> century<div style=\"display: none;\">date QS:P,+1650-00-00T00:00:00Z/7</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a rel=\"mw:ExtLink nofollow\" href=\"http://www.fourhares.com/freemasonry/alchemical_wedding.html\" class=\"external text\">Fourhares</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/en:Stephan%20Michelspacher\" title=\"w:en:Stephan Michelspacher\" class=\"extiw\"><span title=\"Tyrolean printmaker\">Stephan Michelspacher</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "26948766": {
+          "pageid": 26948766,
+          "ns": 6,
+          "title": "File:Rebis Theoria Philosophiae Hermeticae 1617.jpg",
+          "index": 10,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Rebis_Theoria_Philosophiae_Hermeticae_1617.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1079,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Rebis_Theoria_Philosophiae_Hermeticae_1617.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1079
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Rebis_Theoria_Philosophiae_Hermeticae_1617.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rebis_Theoria_Philosophiae_Hermeticae_1617.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=26948766",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2013-06-29 07:33:29",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Rebis Theoria Philosophiae Hermeticae 1617",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Azoth|Anima Mundi|Eggs in culture|Rebis|PD US expired|Uploaded with en.wp upload wizard|PD-US missing SDC copyright status|Androgyny in art",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Rebis image from the work Theoria Philosophiae Hermeticae (1617)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1617",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<p><b>Original publication</b>: Theoria Philosophiae Hermeticae<br></p>\n<b>Immediate source</b>: <a rel=\"mw:ExtLink nofollow\" href=\"http://altreligion.about.com/od/westernocculttradition/ig/King--Queen-Rebis/The-Rebis.htm\" class=\"external free\">http://altreligion.about.com/od/westernocculttradition/ig/King--Queen-Rebis/The-Rebis.htm</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<p>Heinrich Nollius<br></p>\n(Life time: before 1700)",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "88134271": {
+          "pageid": 88134271,
+          "ns": 6,
+          "title": "File:Sylva Philosophorum 10 Lapis Philosophorum.png",
+          "index": 7,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sylva_Philosophorum_10_Lapis_Philosophorum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 960,
+              "thumbheight": 1298,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sylva_Philosophorum_10_Lapis_Philosophorum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1298
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sylva_Philosophorum_10_Lapis_Philosophorum.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sylva_Philosophorum_10_Lapis_Philosophorum.png",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=88134271",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-03-15 19:28:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Sylva Philosophorum 10 Lapis Philosophorum",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Azoth|Philosopher's stone|Self-published work|Books about alchemy",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Triangolo che presenta ai tre angoli il Sole, la Luna e in alto l'Azoth, con al centro la Pietra Filosofale: decima illustrazione dal <i>Sylva Philosophorum</i> di Cornelius Petraeus (metà del XVII secolo)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "XVII secolo",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<i>Sylva Philosophorum</i>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Cornelius Petraeus",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "97520727": {
+          "pageid": 97520727,
+          "ns": 6,
+          "title": "File:Universal peace-war is mesmerism (IA cu31924007388725).pdf",
+          "index": 20,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Universal_peace-war_is_mesmerism_%28IA_cu31924007388725%29.pdf/page1-500px-Universal_peace-war_is_mesmerism_%28IA_cu31924007388725%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 960,
+              "thumbheight": 1468,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Universal_peace-war_is_mesmerism_%28IA_cu31924007388725%29.pdf/page1-500px-Universal_peace-war_is_mesmerism_%28IA_cu31924007388725%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1468
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Universal_peace-war_is_mesmerism_%28IA_cu31924007388725%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Universal_peace-war_is_mesmerism_(IA_cu31924007388725).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97520727",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-12-13 11:23:10",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nUniversal peace--war is mesmerism</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Arthur Stilwell|Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Scans from Cornell University Library",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nStilwell, Arthur Edward, 1861-1928</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>The metadata below describe the original scanning. Follow the \"All Files: HTTP\" link in the \"View the book\" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the <a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/about/faqs.php#140\" class=\"external text\">What is the directory structure for the texts?</a> FAQ for information about file content and naming conventions.</dd>\n<dd>Chapters reproduced from the author's \"Confidence, or national suicide\": p. 161-179</dd>\n<dd>Advertisements: p. 180-181</dd></dl>\n<br>Subjects: Peace; War</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/cu31924007388725\" title=\"iarchive:cu31924007388725\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: cu31924007388725</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Universal%20peace-war%20is%20mesmerism%20(IA%20cu31924007388725).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Universal%20peace-war%20is%20mesmerism%20(IA%20cu31924007388725).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/cu31924007388725/cu31924007388725.pdf\" class=\"external free\">https://archive.org/download/cu31924007388725/cu31924007388725.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "96992353": {
+          "pageid": 96992353,
+          "ns": 6,
+          "title": "File:Universal peace - war is mesmerism (IA universalpeacewa00stilrich).pdf",
+          "index": 19,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Universal_peace_-_war_is_mesmerism_%28IA_universalpeacewa00stilrich%29.pdf/page1-500px-Universal_peace_-_war_is_mesmerism_%28IA_universalpeacewa00stilrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 960,
+              "thumbheight": 1442,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Universal_peace_-_war_is_mesmerism_%28IA_universalpeacewa00stilrich%29.pdf/page1-500px-Universal_peace_-_war_is_mesmerism_%28IA_universalpeacewa00stilrich%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 960,
+                "height": 1442
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Universal_peace_-_war_is_mesmerism_%28IA_universalpeacewa00stilrich%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Universal_peace_-_war_is_mesmerism_(IA_universalpeacewa00stilrich).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96992353",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-11-26 23:23:10",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nUniversal peace - war is mesmerism</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Arthur Stilwell|Books from New York (state)|Scans from the Internet Archive/unverified|PD US expired|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|California Digital Library|PD-US missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nStilwell, Arthur Edward, 1861-1928</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\nSubjects: Peace; War</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/universalpeacewa00stilrich\" title=\"iarchive:universalpeacewa00stilrich\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: universalpeacewa00stilrich</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Universal%20peace%20-%20war%20is%20mesmerism%20(IA%20universalpeacewa00stilrich).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Universal%20peace%20-%20war%20is%20mesmerism%20(IA%20universalpeacewa00stilrich).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/universalpeacewa00stilrich/universalpeacewa00stilrich.pdf\" class=\"external free\">https://archive.org/download/universalpeacewa00stilrich/universalpeacewa00stilrich.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "checkedOn": "2026-10-15",
+  "status": "catalog-and-content-verified-photo-work-incomplete",
+  "fullRequestComplete": false,
+  "catalog": {
+    "before": 176,
+    "added": 224,
+    "after": 400,
+    "categories": 24,
+    "readingLines": 16,
+    "stages": 45,
+    "newAwardYears": [
+      2021,
+      2025
+    ],
+    "newAwardRecords": 225,
+    "newSources": 232,
+    "allCurrentSources": 744,
+    "selection": "109 independent Red Dot-led products and 115 Australian Good Design-led products; F3800 has two programmes, counted once. Seven additional programme references are explained in /awards/."
+  },
+  "content": {
+    "all400HaveFiveSourcedSections": true,
+    "new224HaveIndependentDesignAndFunctionPoints": true,
+    "correctedTruncatedSummaries": 30,
+    "supplementedDesignPoints": 5,
+    "captionFallbacksFromExistingDescriptiveAlt": 25,
+    "readerResearchNotesPreservedInExpandableDetails": true,
+    "allPrior176CanonicalRecordsPreserved": true,
+    "independentFinalReview": "docs/evidence/expansion-400/final-review.json",
+    "scope": "Original 176: structure, prose presentation and existing source scope reviewed; prior fact-check dates retained. New 224: primary award/model records read and independent explanatory prose written. No product hands-on testing claimed."
+  },
+  "photos": {
+    "illustratedProducts": 139,
+    "photographs": 137,
+    "licensedPhysicalVideoFrames": 2,
+    "addedThisTurn": 10,
+    "original47Resolved": [
+      "samsung-t7-2020",
+      "samsung-the-freestyle-2022",
+      "samsung-galaxy-xr"
+    ],
+    "original47Remaining": 44,
+    "new224Illustrated": 7,
+    "new224Unillustrated": 217,
+    "all400Unillustrated": 261,
+    "original142RequestPublished": 98,
+    "original142RequestRemaining": 44,
+    "copyright": "CC BY, CC BY-SA, CC0/public domain, original Unsplash License and two Samsung Korea original-only permissions individually evidenced. Restricted Samsung JPEGs retain original bytes and SHA256. No copyrighted award or manufacturer image permission inferred from public availability.",
+    "researchLimits": "112 new-award Commons queries returned HTTP429 and were recorded as incomplete, not no results; stopped that source. Original remaining products received Commons, WordPress and targeted primary-source research."
+  },
+  "validation": {
+    "unitTestsPassed": 21,
+    "unitTestsSkipped": 0,
+    "lint": "passed",
+    "build": "passed",
+    "broadBrowser": {
+      "file": "docs/evidence/expanded-browser-results.json",
+      "checks": 26,
+      "products": 400,
+      "illustrated": 139,
+      "viewports": [
+        320,
+        390,
+        768,
+        1440
+      ]
+    },
+    "awardBrowser": {
+      "file": "docs/evidence/expansion-400/awards-browser-results.json",
+      "checks": 4
+    },
+    "photoBrowser": [
+      {
+        "file": "docs/evidence/photo-expansion/browser-results.json",
+        "images": 98,
+        "viewports": [
+          390,
+          1440
+        ]
+      },
+      {
+        "file": "docs/evidence/photo-expansion/round3/browser-results.json",
+        "images": 7,
+        "viewports": [
+          390,
+          1440
+        ]
+      }
+    ]
+  },
+  "resolvedReviewFindings": [
+    {
+      "product": "coffeeb-globe",
+      "resolution": "Official Best of the Best level preserved in published award and source records."
+    },
+    {
+      "product": "eufy-x10-pro-omni",
+      "resolution": "Only the precisely matched Australian award record retained; conflicting X10 Omni award and 15 mm claim not transferred."
+    },
+    {
+      "product": "soundblade",
+      "resolution": "Excluded because award MSB60 and current commercial Soundblade specifications differ."
+    },
+    {
+      "product": "cleer-arc5",
+      "resolution": "UV surface treatment is not located inside charging case without supporting evidence."
+    }
+  ],
+  "remainingPhotosLedger": "docs/evidence/photo-expansion/photo-review-ledger.csv",
+  "all400ContentLedger": "docs/evidence/expansion-400/product-content-audit.csv",
+  "website": "http://127.0.0.1:4173/",
+  "deployment": "local preview only"
+}

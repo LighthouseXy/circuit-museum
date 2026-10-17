@@ -1,0 +1,1371 @@
+{
+  "schemaVersion": 1,
+  "checkedOn": "2026-10-11",
+  "status": "editorial-explanatory-revision-ready-for-review",
+  "reasoningEffort": "medium (inherited; unchanged)",
+  "base": {
+    "preservedCollection": "docs/expansion/base-40-preserved.json",
+    "selection": "docs/expansion/selection-150.json"
+  },
+  "exhibits": [
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "kitchenaid-h5",
+      "name": "H-5",
+      "brand": "KitchenAid",
+      "year": 1919,
+      "dateLabel": "1919年（原厂产品史）",
+      "dateKind": "launch",
+      "regionVersion": "美国H-5；不混1937 Model K",
+      "category": "kitchen",
+      "categoryLabel": "厨房电器",
+      "museumCategory": "kitchen",
+      "aliases": [
+        "KitchenAid H-5"
+      ],
+      "tags": [
+        "厨房电器",
+        "美国H-5；不混1937 Model K"
+      ],
+      "summary": "用固定在机体上的电动工具处理碗中食物，再通过附件延伸准备工作。H-5展现的日常变化，是把持续用力交给电机，同时保留选择材料、观察状态和清理工具的责任。",
+      "context": "KitchenAid的产品史把H-5放在1919年，并将它描述为面向家庭的早期搅拌设备。这里的年代属于品牌自身产品线，不把它扩大为世界上第一台电动厨房工具。原厂记载还提到切片与过滤附件，说明这台机器所承接的不只是一次打蛋，而是一组围绕材料准备展开的动作。厨房电气化在这个具体物件上，可以从劳动如何分配来理解：原来需要人持续握持和反复用力的动作，有一部分交给电机；决定做什么、放多少和何时结束，仍由人在旁完成。它适合与后来控制加热过程的电饭锅并看，比较动力和温度两种不同的替代。",
+      "design": "H-5的基本关系是机体提供动力，工作工具接触食物，容器承接处理结果。附件的存在让动力装置与某一种食谱之间留出变化空间，准备不同材料可以改变工具，而不必为每项工作另买一套电机。这个思路把家庭机器呈现成一个有接口的工具系统。观看时应把附件与本体分开辨认：本体的年份不能自动证明某件附件在同一年随箱供应，也不能把今天的KitchenAid配件倒推到H-5上。品牌后来1937年Model K的造型与碗固定结构另有节点，本件因此不借用后代外观来解释早期设计。",
+      "usage": "理解它的使用过程，可以沿着准备、加工、取出和清洗四个环节阅读。人在加工前先决定配方和分量，选用与任务对应的工具，把食材放进适合的容器，再让动力作用于材料。加工中仍要观察混合状态，并在需要时停止，处理下一项材料或更换工具。原厂所记的切片和过滤附件也提示，工具结束并不是饭菜已经完成：处理后的食物还要收集，接触食物的部分还要清理。这里没有把概括的工作流程写成存世H-5的操作指南，也不指定未经原说明书核准的档位、连续运行时间和拆装顺序。",
+      "significance": "家务中的混合、切片与过滤需要不同工具，却都包含重复的手部劳动。H-5把动力留在一个本体中，再通过工具接触材料，原厂回顾明确记录切片与过滤附件，能解释一台电机怎样跨越几项准备任务。与A700的行星式工作工具和速度控制相比，后者有更明确的碗内运动组织；与TM5的食谱步骤引导相比，H-5仍主要承接物理加工，不替人安排菜谱。选择它，是为了看家庭厨房怎样将动力与可换工具组合，而不是把今天所有附件追溯到一九一九年。重复动作由机器承担后，决定配方、观察材料状态和清理工具继续由人完成。已核资料证明产品和附件关系，尚不能证明家庭劳动减少了多少；可以具体指出的变化，是人在工具系统周围组织准备，而不必只靠手连续完成同一运动。",
+      "limitations": "现有原厂回顾足以支持型号、1919节点及附件思路，但没有提供本轮可逐页核查的H-5原始操作手册。因而本文保留到工作关系层面，不列电机功率、转速、容量，也不把现代同品牌搅拌机的升降机构或安全结构套给它。原厂的命名故事属于品牌回忆，不能据此推断所有当时使用者的意见。对于存世机器，附件是否原配、传动和电气部分是否仍适合运行，都需要实物档案才能回答。展览在这里展示的是材料准备如何获得电动力，不以旧机器的存在保证它今天可以安全接电或完成现代食谱。",
+      "features": [
+        "电动力承接食物准备的重复动作。",
+        "原厂历史明确记录切片与过滤附件。",
+        "1919为品牌产品史节点；与1937 Model K分开。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "H-5及1919节点；可用切片和过滤附件。",
+          "sourceIds": [
+            "HC150-S001",
+            "HC150-S002"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S001"
+      ],
+      "dateSourceIds": [
+        "HC150-S001"
+      ],
+      "sourceIds": [
+        "HC150-S001",
+        "HC150-S002",
+        "HC150-S011",
+        "HC150-S012",
+        "HC150-S061",
+        "HC150-S062"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S001",
+          "HC150-S002"
+        ],
+        "design": [
+          "HC150-S001",
+          "HC150-S002"
+        ],
+        "usage": [
+          "HC150-S001",
+          "HC150-S002"
+        ],
+        "significance": [
+          "HC150-S001",
+          "HC150-S002",
+          "HC150-S011",
+          "HC150-S012",
+          "HC150-S061",
+          "HC150-S062"
+        ],
+        "limitations": [
+          "HC150-S001",
+          "HC150-S002"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "national-ec36",
+        "kenwood-chef-a700"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "national-ec36",
+        "kenwood-chef-a700"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-1",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "chineseCharactersInFiveSections": 1052,
+      "awards": [],
+      "readerTakeaway": "看本体如何提供动力，工具如何接触食材。它入选是为了说明厨房电机与可换工具可以组成一种准备系统。",
+      "editorialRevisionScope": "具体时代任务、关键动作、逐型操作差异、证据与取舍",
+      "readerTakeawaySources": [
+        "HC150-S001",
+        "HC150-S002",
+        "HC150-S011",
+        "HC150-S012",
+        "HC150-S061",
+        "HC150-S062"
+      ]
+    },
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "toastmaster-1a1",
+      "name": "Toastmaster 1A1",
+      "brand": "Waters-Genter",
+      "year": 1926,
+      "dateLabel": "约1926；实物制造范围1926–1930",
+      "dateKind": "manufacture",
+      "regionVersion": "美国明尼阿波利斯；1A1，不混1A4/1A5",
+      "category": "kitchen",
+      "categoryLabel": "厨房电器",
+      "museumCategory": "kitchen",
+      "aliases": [
+        "Waters-Genter Toastmaster 1A1"
+      ],
+      "tags": [
+        "厨房电器",
+        "美国明尼阿波利斯；1A1，不混1A4/1A5"
+      ],
+      "summary": "将面包放入电加热器，并由自动弹出的完成动作提醒使用者。1A1让早餐中一段需要守候的过程获得机械控制，也保留了对面包、烤色和清理的判断。",
+      "context": "Smithsonian的1A1藏品目录把这台Toastmaster烤面包机的实物制造范围列在1926至1930年，照明历史展又将同一藏品置于约1926年的节点。另一件1A4的馆藏说明明确回指1926年引入的自动弹出1A1。三项信息的作用不同：前两项确定具体物件和年代范围，后一项说明前代的动作特点，不能反过来把1A4所有控制部件移给1A1。早餐桌上的电器，在这里承接的是一项小而重复的工作。它不必被写成整个社会饮食的转折，只要说明人如何把一片面包交给机器，并得到完成的反馈。",
+      "design": "烤面包机把加热区域与取放面包的动作组合在一个桌面物件中。1A1的自动弹出特点意味着过程包含保持、加热和释放，而不只是一根发热元件始终工作。弹出既让面包离开加工位置，也把完成变成可见的动作；使用者不用从同一个入口连续探看来获得全部状态。这一解释依据目录对自动弹出的明确描述，不进一步猜测计时机构内部构造。后代1A4目录中涉及的按键和温控细节不属于本件已核事实。本展品没有借用现代烤面包机的解冻、再热、单边加热等模式来丰满早期面板。",
+      "usage": "从任务角度看，一次烤制由选择面包、放入、开始、等待和取出组成。自动弹出可以把结束这一环节交给机构，但人在开始前仍要判断食材是否适合，完成后仍要判断结果是否符合口味。不同面包的厚薄和含水状态，会让同一个加工动作面对不同材料；这属于烹饪材料的差异，不是本文给出的1A1性能试验结果。面包之外，桌面位置、取放空间和碎屑清理也进入日常使用。现有资料没有核出1A1逐项操作说明，因此本文讲的是已经确认的弹出式烤制关系，不给出旋钮档位、清理拆卸步骤或连续工作的间隔。",
+      "significance": "烤制面包不仅需要发热，还需要知道何时停止并把食物取回。1A1的自动弹出将结束变成一个看得见的物理动作，Smithsonian比较目录明确记录这一型号的自动弹出特点，证据足以说明保持、加热和释放相接。与ER-4借外锅水蒸发触发断电相比，两件厨房器具都分担结束判断，但一件释放面包，另一件回应水与温度的状态；与HD9220/40的旋钮时间设定和抽屉取放相比，自动弹出又让取回路径不同。选择1A1，是因为普通早餐的一次等待可以解释控制怎样进入日用品。面包厚薄和含水仍由人准备，取出后也要判断结果，自动结束没有等同于食材理解。目录没有给出完整计时机构，因而变化应落在弹出的已核动作，而不是后代档位、再热功能或群体使用习惯。",
+      "limitations": "博物馆目录记录的是特定存世实物，约1926与1926至1930不能压成一个精确的全球首售日。1A4目录的交叉说明在本轮只从搜索索引读到，直接页面返回服务器错误，因此仅采纳其中明确点名的1A1前代关系。我们没有检查这台藏品的内部机构和运行状态，也没有测量烤色一致性或完成时间。由此，本文不把现代体验词如均匀、快速或容易清洗作为1A1已证优点。它的展示价值来自一个可以定位的设计动作：加热完成由弹出传达；这项便利依然要和材料选择、取放及保养一同理解。",
+      "features": [
+        "Smithsonian明确型号1A1及藏品编号1992.0338.19。",
+        "实物年代约1926，目录制造范围1926至1930。",
+        "后代目录回指1A1的自动弹出动作；不移植后代配置。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "Smithsonian馆藏1992.0338.19为电烤面包机；目录列约1926。",
+          "sourceIds": [
+            "HC150-S003",
+            "HC150-S004"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S003"
+      ],
+      "dateSourceIds": [
+        "HC150-S003"
+      ],
+      "sourceIds": [
+        "HC150-S003",
+        "HC150-S004",
+        "CWH-S003",
+        "HC150-S005",
+        "HC150-S006",
+        "HC150-S067",
+        "HC150-S068"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S003",
+          "HC150-S004",
+          "CWH-S003"
+        ],
+        "design": [
+          "HC150-S003",
+          "HC150-S004",
+          "CWH-S003"
+        ],
+        "usage": [
+          "HC150-S003",
+          "HC150-S004",
+          "CWH-S003"
+        ],
+        "significance": [
+          "HC150-S003",
+          "HC150-S004",
+          "CWH-S003",
+          "HC150-S005",
+          "HC150-S006",
+          "HC150-S067",
+          "HC150-S068"
+        ],
+        "limitations": [
+          "HC150-S003",
+          "HC150-S004",
+          "CWH-S003"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "national-ec36"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "national-ec36"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-1",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "chineseCharactersInFiveSections": 1013,
+      "awards": [],
+      "readerTakeaway": "重点看烤制结束时面包被弹出的动作。它把完成状态从需要持续探看的过程，变成可见的物理回应。",
+      "editorialRevisionScope": "具体时代任务、关键动作、逐型操作差异、证据与取舍",
+      "readerTakeawaySources": [
+        "HC150-S003",
+        "HC150-S004",
+        "CWH-S003",
+        "HC150-S005",
+        "HC150-S006",
+        "HC150-S067",
+        "HC150-S068"
+      ]
+    },
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "kenwood-chef-a700",
+      "name": "Chef A700",
+      "brand": "Kenwood",
+      "year": 1950,
+      "dateLabel": "1950年推出；型号生产范围1950–1957",
+      "dateKind": "launch",
+      "regionVersion": "英国A700；不混A700D、A701A",
+      "category": "kitchen",
+      "categoryLabel": "厨房电器",
+      "museumCategory": "kitchen",
+      "aliases": [
+        "Kenwood Chef A700"
+      ],
+      "tags": [
+        "厨房电器",
+        "英国A700；不混A700D、A701A"
+      ],
+      "summary": "以行星式搅拌和附件接口组织食物准备。Chef A700将一台电机的用途扩展到多种厨房任务，使用者仍要选工具、安排分量并观察加工结果。",
+      "context": "Kenwood的产品史把Chef A700放在1950年的Ideal Home Exhibition，型号辨识资料又把A700生产期列为1950至1957年。展品因此保留1950这一产品节点，同时把A700与后续A700D等名称相近的版本分开。原厂历史以行星式动作和一组附件说明它的食物准备能力。与较早的H-5并看，重点不必是争论谁最先把电机放进厨房，而是理解一台固定在台面上的机器，怎样围绕换工具而组织不同工作。同一个厨房里，打发、混合和其他准备并不是同一种材料运动；可更换工具因此需要人的判断参与。",
+      "design": "行星式动作让工作工具既围绕自身运动，又沿碗内的另一条路径移动。原厂明确用这一结构解释A700，因此可以说明它为何不是只让一根轴固定在碗的某一点转动。工具与容器的相对位置决定材料如何被反复带入加工范围，速度控制则让动力供给成为使用者可以调整的部分。附件把本体的动力延伸到其他准备任务，但本轮没有逐个核出1950首批附件组合，不能把品牌现售接口都列为A700能力。展览宜把本体、工具和碗视为相互配合的一组物件，而不是只展示外壳上的品牌名称。",
+      "usage": "操作理解从选择工具开始：使用者先知道要处理何种材料，再决定采用哪一类工作头与容器，准备分量，并在加工过程中观察食物状态。机器可以重复执行运动，却不会替人定义何时达到配方需要的稠度或混合程度。需要转换任务时，人停机、取下已处理的材料，安排下一项，并清理接触食物的部分。这里说明的是原厂确认的多用途搅拌关系，不把现代Chef使用视频写成早期A700的步骤。档位数值、附件锁定方式以及维护拆卸，仍须由对应年代的原手册来限定，不能凭系列名称推断。",
+      "significance": "食材在碗中并不是固定等在轴下，混合工具怎样覆盖材料，是厨房电动机需要解决的具体问题。A700采用行星式动作，让工具自转的同时沿碗内路径移动，速度控制再把加工节奏交给使用者安排。原厂关于一九五〇年产品的资料明确支持这一结构，可以说明工具与容器如何协同。与H-5通过附件延伸动力的系统相比，A700更具体地展示碗内运动组织；与TM5把食谱提示带入机身相比，它仍以人观察材料、选择工具与控制过程为中心。选择它，是因为多用途厨房机器的价值能从运动路线而非品牌名看懂。加工后取出、转换下一项与清洁并未被电机接管，附件也必须属于所核年代。证据支持多任务结构及控制入口，家庭是否更快、更愿意烹饪，需要另有使用资料；这里可明确的是重复运动与配方判断怎样分开。",
+      "limitations": "年代辨识页列出A700与其他版本的不同生产范围，本文沿用这一边界，不将A700D的细节并入初代。厂史提供行星式动作和附件路线，但没有在同一页面完整列出首批所有规格；电机功率、具体档位、碗容量和当年随机附件在这里不作定量陈列。原厂对产品多用途的描述也不是独立用户测试，不能据此承诺任意食材的加工结果。存世机器还涉及更换零件与维修史，今天看到的附件组合未必代表1950年的零售状态。展览能够说明它的工作组织方式，实际接电演示则仍需另做对应机器的检查。",
+      "features": [
+        "原厂记录1950年Ideal Home Exhibition的A700。",
+        "行星式工具运动覆盖碗内不同位置。",
+        "A700与A700D等版本分开，附件首批组合未核。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "原厂说明1950 Ideal Home Exhibition推出；附件形成食物准备系统。",
+          "sourceIds": [
+            "HC150-S011",
+            "HC150-S012"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S011"
+      ],
+      "dateSourceIds": [
+        "HC150-S011"
+      ],
+      "sourceIds": [
+        "HC150-S011",
+        "HC150-S012",
+        "HC150-S001",
+        "HC150-S002",
+        "HC150-S061",
+        "HC150-S062"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S011",
+          "HC150-S012"
+        ],
+        "design": [
+          "HC150-S011",
+          "HC150-S012"
+        ],
+        "usage": [
+          "HC150-S011",
+          "HC150-S012"
+        ],
+        "significance": [
+          "HC150-S011",
+          "HC150-S012",
+          "HC150-S001",
+          "HC150-S002",
+          "HC150-S061",
+          "HC150-S062"
+        ],
+        "limitations": [
+          "HC150-S011",
+          "HC150-S012"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "kitchenaid-h5",
+        "national-ec36"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "kitchenaid-h5",
+        "national-ec36"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-1",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "chineseCharactersInFiveSections": 1035,
+      "awards": [],
+      "readerTakeaway": "观察工作工具自身转动又沿碗内移动的关系。它让电机、工具和容器为何必须一起设计变得清楚。",
+      "editorialRevisionScope": "具体时代任务、关键动作、逐型操作差异、证据与取舍",
+      "readerTakeawaySources": [
+        "HC150-S011",
+        "HC150-S012",
+        "HC150-S001",
+        "HC150-S002",
+        "HC150-S061",
+        "HC150-S062"
+      ]
+    },
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "national-ec36",
+      "name": "EC-36",
+      "brand": "National／松下电器",
+      "year": 1956,
+      "dateLabel": "1956年上市（原厂回顾）",
+      "dateKind": "launch",
+      "regionVersion": "日本EC-36；排除1959出口SR系列",
+      "category": "kitchen",
+      "categoryLabel": "厨房电器",
+      "museumCategory": "kitchen",
+      "aliases": [
+        "National／松下电器 EC-36"
+      ],
+      "tags": [
+        "厨房电器",
+        "日本EC-36；排除1959出口SR系列"
+      ],
+      "summary": "让内锅接触加热板，以加热器、恒温器和重盖共同管理煮饭。EC-36把日常主食的一段火候工作交给设备，量米、配水和取饭仍由人完成。",
+      "context": "Panasonic的产品史记录National EC-36于1956年上市，并具体说明其护套加热器、恒温器和内锅直接接触加热板的安排。这里保留的是厂商可定位的产品节点，不把它扩写为世界第一台电饭锅。它与同一时期的东芝ER-4可以形成有用的对照：都把煮饭放进电气容器，但不能只凭名称相近，就假定两者采用相同的锅体和检测方式。对于每天反复做的主食，机器的价值可以从工作过程讲起。准备米和水、开始加热、等待、取饭这一序列中，EC-36所承接的是受控供热的一段。",
+      "design": "内锅直接接触加热板，使热量通过锅底进入米和水，而不是仅凭外壳的封闭感来理解加热。护套加热器负责供热，恒温器参与温度控制，原厂还说明较重的盖子用于减少蒸汽逸出、改善保温。这几个部件各自解决不同问题：热从哪里进入，何时改变供热，以及热与水汽如何留在容器中。本文没有据此赋予EC-36压力烹饪或现代保温菜单，也不指定未经手册核出的切换温度。盖子的重量与锅底接触关系提醒观众，一锅饭的处理依赖材料、结构和控制共同配合，而不是只有一个电源开关。",
+      "usage": "人在机器工作前仍要量取米、清洗材料并准备水，把内锅置于能够接触加热板的位置，再开始煮饭。此后加热与温度控制在机器内进行，使用者不必像直接用炉火那样，完全依靠手动调节热源来管理同一过程。结束后仍要处理锅盖、盛饭、移走残余食物，并清理与米饭接触的部分。这里是对已核结构所承担任务的解释，不是精确的EC-36操作规程。米水比例、装米上限、指示灯动作以及是否需要焖饭，都不能从一页历史记录中完整推定；具体操作必须由匹配型号的资料限定。",
+      "significance": "煮饭需要供热，也需要组织水与蒸汽变化到结束的过程。EC-36让内锅直接接触加热板，以加热器、恒温器和较重锅盖分担这些任务，原厂历史分别说明热量路径与保留蒸汽的结构。与前一年ER-4通过外锅水蒸发及间接加热形成控制条件相比，两者面对同一米食任务，却把锅、热与结束信号安排在不同位置。与TM5的多步骤食谱引导相比，EC-36收窄在一锅饭的热过程，人的量取和盛取依然清楚。选择它，是因为自动家务并没有只有一种实现方式：可用材料状态作为媒介，也可直接围绕锅底与温控组织。产品史可证明这套结构差异，不能单凭量产就证明每个家庭省下多少时间。米水准备、锅底放置和清理仍决定使用过程，结构让一段供热与控制进入机器，配方与食物判断并未全部移交。",
+      "limitations": "原厂页面支持1956节点和上述结构，但没有本轮可核的全套EC-36说明书，也没有独立的同期烹饪测试。因此不能写出量化的节时、口感一致性或能耗优势，更不能把后代电饭锅的微电脑菜单、预约和长时间保温当成本件功能。较重锅盖减少蒸汽逸出的说明也不意味着它是一台有密封压力系统的压力锅。展示时宜将其理解为具体年代的一种电热控制装置；存世锅盖、内锅和恒温器是否原配，需要实物资料另核。文字所解释的便利与条件，不替代今天对旧电器运行状态的判断。",
+      "features": [
+        "1956年上市节点，保留National品牌。",
+        "内锅直接接触加热板；护套加热器与恒温器。",
+        "原厂说明重盖减少蒸汽逸出，不据此称压力烹饪。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "内锅接触加热板，护套加热器和恒温器，重盖保留蒸汽。",
+          "sourceIds": [
+            "HC150-S007",
+            "HC150-S008"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S007"
+      ],
+      "dateSourceIds": [
+        "HC150-S007"
+      ],
+      "sourceIds": [
+        "HC150-S007",
+        "HC150-S008",
+        "HC150-S005",
+        "HC150-S006",
+        "HC150-S061",
+        "HC150-S062"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S007",
+          "HC150-S008"
+        ],
+        "design": [
+          "HC150-S007",
+          "HC150-S008"
+        ],
+        "usage": [
+          "HC150-S007",
+          "HC150-S008"
+        ],
+        "significance": [
+          "HC150-S007",
+          "HC150-S008",
+          "HC150-S005",
+          "HC150-S006",
+          "HC150-S061",
+          "HC150-S062"
+        ],
+        "limitations": [
+          "HC150-S007",
+          "HC150-S008"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "toshiba-er4",
+        "toastmaster-1a1",
+        "kitchenaid-h5"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "toshiba-er4",
+        "toastmaster-1a1",
+        "kitchenaid-h5"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-1",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "chineseCharactersInFiveSections": 1025,
+      "awards": [],
+      "readerTakeaway": "看内锅如何接触加热板，再与ER-4的外锅水比较。它说明同一个炊饭任务可以采用不同热量与控制路径。",
+      "editorialRevisionScope": "具体时代任务、关键动作、逐型操作差异、证据与取舍",
+      "readerTakeawaySources": [
+        "HC150-S007",
+        "HC150-S008",
+        "HC150-S005",
+        "HC150-S006",
+        "HC150-S061",
+        "HC150-S062"
+      ]
+    },
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "sharp-r10",
+      "name": "R-10",
+      "brand": "Sharp",
+      "year": 1962,
+      "dateLabel": "1962年量产／商用上市；1961开发原型",
+      "dateKind": "manufacture",
+      "regionVersion": "日本商用R-10；排除家庭R-600",
+      "category": "kitchen",
+      "categoryLabel": "厨房电器",
+      "museumCategory": "kitchen",
+      "aliases": [
+        "Sharp R-10"
+      ],
+      "tags": [
+        "厨房电器",
+        "日本商用R-10；排除家庭R-600"
+      ],
+      "summary": "把快速加热安排进商业厨房的一台量产微波炉。R-10的故事从餐饮现场开始：新热源需要与装取食物、等待完成及厨房节奏一起理解。",
+      "context": "Sharp历史资料把R-10的开发放在1961年，量产与商用产品节点放在1962年，本文以1962作为展品年代。原厂2025年回顾的图注还点明一台R-10曾用于大阪百货公司的餐厅，给这种大型厨房设备提供了具体场景。它不宜直接扮演每户台面上的现代家用微波炉：早期应用、体量和工作组织不同。这里可以从餐饮的一项普通任务读懂它，即把已经准备好的食物交给另一种加热设备，再将结果送回出餐流程。厂商对早期餐饮用途的回忆是场景证据，不代表所有餐厅的经验都一致。",
+      "design": "微波炉以电磁波作用于食品来加热，厨房人员通过把食物置于机内而让材料进入这一过程。与外部锅底受热的电饭锅比较，热源与食物的联系不同，容纳食物的空间和装取动作也成为设备设计的一部分。但本轮R-10资料并未给出可逐项核查的完整面板和原始操作手册，因此不猜按钮位置、档位及结束机构。Sharp史料分别记载后来的R-600与R-601，转盘、观察窗口和提示铃的年代要各自保留，不能仅因今天熟悉这些特征，就让1962年的R-10拥有整套现代界面。",
+      "usage": "餐饮使用可以理解为准备容器和食物、将食物放入加热空间、启动相应过程、确认结束并取出这几项衔接。设备承接供热，工作人员继续安排菜品顺序，并判断食物状态是否满足服务需要。原厂回顾提到早期快速加热使厨房意识到完成提示的重要性，随后才叙述其他型号加入铃声的故事；本文因此把注意力与厨房噪声写作场景问题，而不声称R-10已经用铃解决。本文也不提供加热时间表或容器安全指南。具体食品、分量和容器会影响使用，馆藏文字只能说明工作关系，不能替代对应机器的说明书。",
+      "significance": "餐饮厨房需要把供热接入菜品顺序，还要在同时发生的任务中知道哪一段完成。R-10作为一九六二年的商用量产微波炉，把食物装入机内的空间加工关系带到餐厅，原厂档案另记大阪餐厅使用场景。与EC-36从锅底传热的米饭专用过程相比，R-10采用不同的能量作用关系，人的工作也转到容器、装取和服务节奏；与HD9220/40的热空气和抽屉相比，外形同为容纳食物的箱体，内部加工路线仍不同。选择它，是为了让厨房电器从家用扩展到商用实际场景。Sharp对后代R-600转盘及R-601铃声的分别记载还说明，快速加热提出了均匀处理和完成提示的问题，解决办法有自己的型号节点。不能把后来界面提前给R-10，也不能由餐厅案例推出普遍生产率；可确认的是新加工关系已经进入一处具体厨房。",
+      "limitations": "本文沿用量产与商用节点，不称1962为全球微波炉的起点，也不把1961开发当成已经向消费者交付。2025年的原厂文章具有回顾与宣传性质，其中对早期用户反馈的叙述没有给出可复核的样本范围，故只作为厂家记录的设计问题。国家科技博物馆调查档案承担型号和年代的另一项定位作用，不替代操作手册。本轮尚缺R-10的完整原说明与运行检测，不能比较其加热均匀性、功耗或噪声。后代的窗口、转盘和铃声均不列作本件事实；今天是否能够演示，也须由对应实物另行确认。",
+      "features": [
+        "1961开发与1962量产、商用节点分开。",
+        "原厂回顾图注明确大阪百货餐厅的R-10。",
+        "后代R-600、R-601特征不移植。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "R-10为商用量产微波炉；厂史分1961开发和1962量产。",
+          "sourceIds": [
+            "HC150-S009",
+            "HC150-S010"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S009"
+      ],
+      "dateSourceIds": [
+        "HC150-S009"
+      ],
+      "sourceIds": [
+        "HC150-S009",
+        "HC150-S010",
+        "CWH-S002",
+        "HC150-S007",
+        "HC150-S008",
+        "HC150-S067",
+        "HC150-S068"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S009",
+          "HC150-S010",
+          "CWH-S002"
+        ],
+        "design": [
+          "HC150-S009",
+          "HC150-S010",
+          "CWH-S002"
+        ],
+        "usage": [
+          "HC150-S009",
+          "HC150-S010",
+          "CWH-S002"
+        ],
+        "significance": [
+          "HC150-S009",
+          "HC150-S010",
+          "CWH-S002",
+          "HC150-S007",
+          "HC150-S008",
+          "HC150-S067",
+          "HC150-S068"
+        ],
+        "limitations": [
+          "HC150-S009",
+          "HC150-S010",
+          "CWH-S002"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "national-ec36",
+        "toshiba-er4"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "national-ec36",
+        "toshiba-er4"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-1",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "chineseCharactersInFiveSections": 1018,
+      "awards": [],
+      "readerTakeaway": "看食物如何进入加热空间，并留意完成提示为何成为后续设计问题。R-10讲的是商用厨房中的具体加工路线。",
+      "editorialRevisionScope": "具体时代任务、关键动作、逐型操作差异、证据与取舍",
+      "readerTakeawaySources": [
+        "HC150-S009",
+        "HC150-S010",
+        "CWH-S002",
+        "HC150-S007",
+        "HC150-S008",
+        "HC150-S067",
+        "HC150-S068"
+      ]
+    },
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "dyson-dc01",
+      "name": "DC01",
+      "brand": "Dyson",
+      "year": 1993,
+      "dateLabel": "1993-07-01首件下线（原厂史）",
+      "dateKind": "manufacture",
+      "regionVersion": "英国首代直立DualCyclone；排除DC02和GForce",
+      "category": "cleaning",
+      "categoryLabel": "家务与清洁",
+      "museumCategory": "cleaning",
+      "aliases": [
+        "Dyson DC01"
+      ],
+      "tags": [
+        "家务与清洁",
+        "英国首代直立DualCyclone；排除DC02和GForce"
+      ],
+      "summary": "让空气经过旋风分离，再把收集到的灰尘留在透明桶中。DC01把清扫与维护状态变得可见，但免用集尘袋仍需要倒尘、清理气路和照看滤材。",
+      "context": "Dyson的产品史把DC01首件下线记录为1993年7月1日，本件保留制造事件作为年代锚。原厂历史同时记录DualCyclone与透明集尘容器的路线，使它可以与更早的袋式吸尘器比较。比较的重点是灰尘怎样被收集、何时清理以及人从哪里获得状态，不是照单全收广告里始终保持吸力的承诺。1997年DC01操作手册为工作过程提供了较完整的资料，说明这一型号后来仍需要滤材、分离罩和吸入通道的维护。年代资料与后期同型号说明承担不同作用，首批机器是否所有细节相同，在这里不作假定。",
+      "design": "原厂分离过程图显示空气带着灰尘进入旋转气流，较大的杂物由分离罩拦截，旋风部分继续分离，再让空气从出口离开。透明桶把收集结果留在使用者可以查看的位置，清空由人完成。直立机身则把地面清扫头、收集容器与手握部分组合成沿地面移动的工具，延长管和软管又支持不同位置的清理。气流路线说明，无袋并不等于整机没有其他需要维护的部件。1997手册列出的滤材与刷条正处在这套路线中；本文不把另一种ABS HEPA版的滤材规格并入普通DC01。",
+      "usage": "1997手册先说明延长管与软管的装配、机身倾斜和工具收纳，再说明集尘桶达到标记后如何取下并清空。它还提醒清理分离罩、处理刷条缠绕以及检查软管和通道堵塞。这样的顺序让使用过程从推机器经过地面，延伸到清扫之后的照看：人选对应吸头、移动机身，查看桶中的积尘，再处理机器收集到的东西。本文只概括这些任务，不列1997年的价格、售后电话或维修拆装步骤。需要用水清理的部分仍涉及完全干燥的条件，因此透明和可拆卸都不是可以随意冲洗整机的意思。",
+      "significance": "吸尘器除了移动吸头，还必须安排空气、杂物与收集容器的路径。DC01把旋风分离和透明桶组合，原厂过程图及一九九七年对应手册让分离、查看、清空和维护可以逐项追踪。与444的罐体和软管相比，两台都由人引导清扫，外壳和收集关系不同；与初代Roomba相比，DC01没有把路径移动交给机器，改动主要发生在收集结构与可见反馈。选择它，是因为无袋形式不是一句性能口号，而是灰尘进入、被留下、再由人取出的工作链。桶中看得到的结果帮助安排清空，刷条、滤材和堵塞却仍要求处理，手册直接记录这些维护。因而已核变化是收集过程更可见、容器可拆，不能从透明或无袋推导恒定吸力和免维护。自动移动、收集方法与人的收尾，是需要分别比较的三件事。",
+      "limitations": "首件下线日期来自原厂历史，不自动代表每个市场同日销售。1997年手册晚于1993年，支持同型号的维护关系，但不能证明首批全部滤材和电气规格都相同。手册还提到气路受限与热保护，这说明需要维持通道畅通；本文不将广告的吸力说法转换成没有条件的事实，也没有开展清洁效率测试。袋式与无袋路线都涉及灰尘处理，本文不推断个人过敏或健康结果。存世DC01的刷条、密封和滤材可能已更换，实际状态需另核；展览可以展示透明桶与分离思路，不因此保证旧机今天仍有原始性能。",
+      "features": [
+        "1993-07-01首件下线；制造节点。",
+        "DualCyclone与透明集尘桶。",
+        "1997同型号手册说明气路、刷条及滤材维护。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "原厂记录1993-07-01生产、DualCyclone、透明集尘盒；不采纳永不减吸力结论。",
+          "sourceIds": [
+            "HC150-S055",
+            "HC150-S056"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S055"
+      ],
+      "dateSourceIds": [
+        "HC150-S055"
+      ],
+      "sourceIds": [
+        "HC150-S055",
+        "HC150-S056",
+        "CWH-S001",
+        "HC150-S015",
+        "HC150-S016",
+        "L:AMQ01",
+        "L:ER09",
+        "L:ER10"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S055",
+          "HC150-S056",
+          "CWH-S001"
+        ],
+        "design": [
+          "HC150-S055",
+          "HC150-S056",
+          "CWH-S001"
+        ],
+        "usage": [
+          "HC150-S055",
+          "HC150-S056",
+          "CWH-S001"
+        ],
+        "significance": [
+          "HC150-S055",
+          "HC150-S056",
+          "CWH-S001",
+          "HC150-S015",
+          "HC150-S016",
+          "L:AMQ01",
+          "L:ER09",
+          "L:ER10"
+        ],
+        "limitations": [
+          "HC150-S055",
+          "HC150-S056",
+          "CWH-S001"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [],
+      "deferredRelatedSlugs": [
+        "irobot-roomba-2002"
+      ],
+      "relatedModelProposals": [
+        "irobot-roomba-2002"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "home-expanded-2",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "chineseCharactersInFiveSections": 1013,
+      "awards": [],
+      "readerTakeaway": "沿气流到透明桶，再看清空与维护。它让吸尘之后灰尘怎样处理成为设计的一部分。",
+      "editorialRevisionScope": "具体时代任务、关键动作、逐型操作差异、证据与取舍",
+      "readerTakeawaySources": [
+        "HC150-S055",
+        "HC150-S056",
+        "CWH-S001",
+        "HC150-S015",
+        "HC150-S016",
+        "L:AMQ01",
+        "L:ER09",
+        "L:ER10"
+      ]
+    },
+    {
+      "id": null,
+      "idStatus": "awaiting-coordinated-allocation",
+      "slug": "western-electric-500",
+      "name": "Model 500",
+      "brand": "Western Electric",
+      "year": 1949,
+      "dateLabel": "1949年问世（SFO Museum回顾）",
+      "dateKind": "launch",
+      "regionVersion": "美国Bell System旋转拨号桌机；不混1500/2500按键版",
+      "category": "telephony",
+      "categoryLabel": "电话、寻呼与接入",
+      "museumCategory": "telephony",
+      "aliases": [
+        "Western Electric Model 500"
+      ],
+      "tags": [
+        "电话、寻呼与接入",
+        "美国Bell System旋转拨号桌机；不混1500/2500按键版"
+      ],
+      "summary": "把听筒、转动拨号盘和号码标识安排为一台桌面电话。Model 500通过一组固定的拿取与拨号动作接入公共电话网络，便于使用仍有赖线路和人的注意。",
+      "context": "SFO Museum的电话回顾把Model 500的开发放在1946年、问世放在1949年。本件选取Western Electric路线，避免把同型外观的其他制造商物件直接当成原厂版。电话不仅是一件桌面外壳，还要接入能够连接另一端的线路；这使它适合与手机和后来的网络接入设备比较。阅读它时可以从一个普通的动作开始：拿起听筒，辨认号码，逐位拨号，等待另一端回应。1949节点说明产品在何时出现，不证明所有家庭同年拥有线路，也不意味着接通方式在不同地区完全相同。",
+      "design": "Model 500将听筒放在机身上，拨号盘位于使用者容易看见与伸手的位置。SFO档案特别指出数字和字母移至拨盘外围，这使号码标识在手指转动拨盘时较少被盘体遮住。这里的设计价值可以围绕读数与动作的配合解释：找准一位、转动、让盘回位，再找下一位，形成一串可重复的步骤。机身承担摆放与支撑，听筒把说话和聆听联系到同一个手持物件上。本文不把后来按键电话的星号、井号或音频拨号移植给500，也不指定未由本件原手册核出的内部铃和线路参数。",
+      "usage": "打电话时，人先从机身取起听筒，把接收声音的一端靠近耳部，并让说话的一端处在能够收音的位置，再按号码逐位拨动。拨号过程中要保持顺序，等待每次转动回位，接通之后双方轮流说与听，结束再将听筒放回。接电话则从响铃或其他提示开始，是否能听清还取决于线路和现场声音。这样的流程保留了记忆、阅读和等待等人的任务，不能只用电信号的存在概括。它也是一台有固定位置的物件：人需要靠近电话，而不是让设备一直随身移动；桌面空间由此参与通信。",
+      "significance": "固定电话要在很小的桌面上把看号码、逐位拨号和通话连接起来。Model 500把数字与字母移到拨盘外围，SFO档案明确指出这项排布，让手指转动时仍有较清楚的号码参照。与Ericofon把拨盘收到底面、拿起同一外壳通话相比，500保留底座与听筒分工，拨号发生在桌面上；与8000X的实体键、红色显示和蜂窝覆盖相比，500无需管理随身电池，使用者却必须靠近线路所在位置。选择它，是因为普通通信工具的改进可以落在一串很小的动作：找一位、转动、回位，再找下一位。已核档案支持布局与一九四九年节点，不能仅由熟悉外形证明所有人的使用习惯。固定位置、拨盘等待及线路条件仍约束联系，而把读数与动作放在一起考虑，正是这台设备可观察的界面工作。",
+      "limitations": "SFO的回顾支持开发、1949问世及号码布局，另一地方技术博物馆提供系列定位，但本轮没有完整核查Western Electric 500的同期操作与线路手册。本文因此不列重量、拨号频率或不同地区电气接口，也不凭外壳相似就认定所有后续制造版相同。SFO资料另记后来增加的彩色型号，这些配色不另算展品，也不用于推断初年供货。我们没有测试存世电话的收发与拨号，更不能以今天网络设备的兼容状态倒推历史体验。展览讲述固定桌面电话如何让人接入声音通信，线路维护和当代可用性仍是另一个需要核查的问题。",
+      "features": [
+        "1946开发、1949问世，区分事件。",
+        "数字与字母位于拨盘外围。",
+        "固定桌面听筒与旋转拨号，不并入后代按键配置。"
+      ],
+      "facts": [
+        {
+          "label": "已核身份／结构",
+          "value": "SFO档案记1946开发、1949问世，字码移至拨盘外围。",
+          "sourceIds": [
+            "HC150-S017",
+            "HC150-S018"
+          ]
+        }
+      ],
+      "identitySourceIds": [
+        "HC150-S017"
+      ],
+      "dateSourceIds": [
+        "HC150-S017"
+      ],
+      "sourceIds": [
+        "HC150-S017",
+        "HC150-S018",
+        "HC150-S019",
+        "HC150-S020",
+        "C:S16",
+        "C:TXM13A",
+        "C:TXM13B",
+        "C:S25"
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S017",
+          "HC150-S018"
+        ],
+        "design": [
+          "HC150-S017",
+          "HC150-S018"
+        ],
+        "usage": [
+          "HC150-S017",
+          "HC150-S018"
+        ],
+        "significance": [
+          "HC150-S017",
+          "HC150-S018",
+          "HC150-S019",
+          "HC150-S020",
+          "C:S16",
+          "C:TXM13A",
+          "C:TXM13B",
+          "C:S25"
+        ],
+        "limitations": [
+          "HC150-S017",
+          "HC150-S018"
+        ]
+      },
+      "mediaOpinions": [],
+      "relatedSlugs": [
+        "ericsson-ericofon",
+        "motorola-dynatac-8000x"
+      ],
+      "deferredRelatedSlugs": [],
+      "relatedModelProposals": [
+        "ericsson-ericofon",
+        "motorola-dynatac-8000x"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-only-no-media-imported",
+      "contentStatus": "explanatory-editorial-overlay-ready-for-review-not-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "stageId": "communications-expanded-1",
+        "status": "mapped-not-imported"
+      },
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "chineseCharactersInFiveSections": 994,
+      "awards": [],
+      "readerTakeaway": "拨号时看外围字码怎样与手指转动配合。它让一台普通桌面电话的便利落到可重复的小动作上。",
+      "editorialRevisionScope": "具体时代任务、关键动作、逐型操作差异、证据与取舍",
+      "readerTakeawaySources": [
+        "HC150-S017",
+        "HC150-S018",
+        "HC150-S019",
+        "HC150-S020",
+        "C:S16",
+        "C:TXM13A",
+        "C:TXM13B",
+        "C:S25"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "C:S16",
+      "title": "Cell Phone Development — Motorola Solutions",
+      "publisher": "Motorola Solutions",
+      "url": "https://www.motorolasolutions.com/en_xp/about/history/explore-motorola-heritage/cell-phone-development.html",
+      "supports": "1973年演示原型、便携蜂窝系统的研发与1983年9月21日8000X获得FCC批准；支持通话设备与网络共同构成移动性的背景。代表性段落为原创策展解读。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页正文中DynaTAC开发及获批段落；没有用厂家第一或销量叙述扩展结论。"
+    },
+    {
+      "id": "C:S25",
+      "title": "PalmPilot Professional — Centre for Computing History",
+      "publisher": "Centre for Computing History",
+      "url": "https://www.computinghistory.org.uk/det/63131/PalmPilot-Professional/",
+      "supports": "1997 PalmPilot Professional的掌上资料管理定位，背光显示、Windows/Macintosh连接、底座与可选调制解调器，1MB内存及两节AAA电池。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取博物馆正文。具体日期沿用展品已有的年份口径，未采用馆方单一精确日期覆盖原数据的资料分歧说明。"
+    },
+    {
+      "id": "C:TXM13A",
+      "title": "Motorola DynaTAC 8000X (US-Version) mit Tischladestation — MSPT",
+      "publisher": "Museumsstiftung Post und Telekommunikation",
+      "url": "https://onlinesammlung.museumsstiftung.de/detail/collection/bbfa7483-f8a1-4431-b90f-514197cc4c56",
+      "supports": "型号明确的博物馆藏品记录；红色LED号码显示、30个电话号码存储、约800克、约半小时通话与十小时充电，美国AMPS制式及地区兼容条件；区分1983获批与1984销售。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取正文及对象登记字段；藏品制造时间为1984年7月。正文价格与销量有明显排版/数字异常，未采用；重量仅使用约数。"
+    },
+    {
+      "id": "C:TXM13B",
+      "title": "Motorola DynaTAC 8000X — Mobile Phone Museum",
+      "publisher": "Mobile Phone Museum",
+      "url": "https://www.mobilephonemuseum.com/phone-detail/dynatac-8000x",
+      "supports": "1983年FCC批准、1984年商业销售、3995美元价格，以及约30分钟通话与10小时充电的使用条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取网页正文。历史金额保留原当年美元值，未采用通胀换算、文化标签、第一或销量结论。"
+    },
+    {
+      "id": "CWH-S001",
+      "title": "DC01 Operating Manual, 00753-01 (21 November 1997 revision)",
+      "publisher": "Dyson",
+      "url": "https://www.dyson.ie/content/dam/dyson/maintenance/user-guides/en_GB/vacuumcleaners/uprights/dc01/00800-01.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual",
+      "verifiedScope": "六页操作资料：装配、清空集尘桶、清洁分离罩、滤材、刷条、堵塞检查及热保护；页脚1997修订。",
+      "verificationMethod": "web.open PDF 正文逐页文本；已读六页。",
+      "limits": "1997年同型号后期手册；不据此断定1993首批所有滤材、电源及维护周期相同，不混DC01 ABS HEPA版。",
+      "independence": "与Dyson产品史同一厂商，不是独立来源。",
+      "commercialDisclosure": "原厂售后操作资料。"
+    },
+    {
+      "id": "CWH-S002",
+      "title": "昭和100年目。『チン』で広がる“当たり前”のホカホカ—レンジと冷凍食品が変えた食卓",
+      "publisher": "Sharp 官方",
+      "url": "https://note.com/sharp/n/n73b739e7adba",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-retrospective",
+      "verifiedScope": "2025-10-31刊文，R-10图注明确为大阪百货餐厅使用的商用机；1962量产与早期餐饮场景。1968铃声段明确指R-601，不移植R-10。",
+      "verificationMethod": "web.open 正文已读；限定早期R-10段落。",
+      "limits": "厂家回顾，没有同期用户样本；全文包含后代功能，不作为R-10配置。",
+      "independence": "与Sharp品牌史同厂商，不能算独立。",
+      "commercialDisclosure": "厂家内容营销及历史宣传。"
+    },
+    {
+      "id": "CWH-S003",
+      "title": "Toastmaster toaster, model 1A4",
+      "publisher": "Smithsonian National Museum of American History",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_324284",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-catalog-comparative",
+      "verifiedScope": "目录索引正文提到1926首次引入自动弹出1A1，并交叉指向藏品1992.0338.19。",
+      "verificationMethod": "搜索索引可读具体目录说明；直接open返回500 Internal Server Error，未读页面全部正文。",
+      "limits": "展品自身是1A4；仅用其明确的1A1前代说明，不移植1A4温控、按钮、材料和编号。",
+      "independence": "独立于Toastmaster厂家；与另一Smithsonian目录同机构。",
+      "commercialDisclosure": "博物馆公共藏品目录，无具体商业披露。"
+    },
+    {
+      "id": "HC150-S001",
+      "title": "KitchenAid 100年产品史",
+      "publisher": "KitchenAid",
+      "url": "https://www.kitchenaid.com/100year/history.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "H-5、1919节点、附件用途",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传",
+      "originalId": "HC150-S001",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S002",
+      "title": "Brand History",
+      "publisher": "KitchenAid",
+      "url": "https://www.kitchenaid.com/countertop-appliances/about-kitchenaid/brand-history",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "H5家庭搅拌机身份",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传",
+      "originalId": "HC150-S002",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S003",
+      "title": "Toastmaster 1A1 Electric Toaster",
+      "publisher": "Smithsonian NMAH",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1118367",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型档案",
+      "verifiedScope": "精确型号、实物制造1926–1930、材料",
+      "verificationMethod": "原机构索引；open Internal Error",
+      "limits": "只核原机构索引返回文字；未取得正文/完整PDF；Internal Error不是403。",
+      "independence": "同机构",
+      "commercialDisclosure": "馆藏页；未核到其他披露",
+      "originalId": "HC150-S003",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S004",
+      "title": "Lighting a Revolution objects",
+      "publisher": "Smithsonian NMAH",
+      "url": "https://americanhistory.si.edu/lighting/scripts/s19o.htm",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆展览目录",
+      "verifiedScope": "同馆藏号Waters-Genter 1A1约1926",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同机构",
+      "commercialDisclosure": "展览目录",
+      "originalId": "HC150-S004",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S005",
+      "title": "自动式电气釜ER-4 100611940014",
+      "publisher": "国立科学博物馆产业技术史数据库",
+      "url": "https://sts.kahaku.go.jp/sts/detail.php?c=&city=&id=&no=100611940014&org=&p=116&pref=&word=&y1=&y2=",
+      "checkedOn": "2026-10-11",
+      "sourceType": "机构产业实物档案",
+      "verifiedScope": "精确型号、量产身份、发售日期与控制原理；调查方日本电机工业会",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "机构托管；调查来源行业组织，不冒称完全独立实验",
+      "commercialDisclosure": "记录页未核到商业披露",
+      "originalId": "HC150-S005",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S006",
+      "title": "PRODUCT HISTORY 炊饭器",
+      "publisher": "Toshiba Lifestyle",
+      "url": "https://www.toshiba-lifestyle.com/jp/corporate/rd/research/history/ricecooker/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "1955 ER-4身份",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "原厂",
+      "commercialDisclosure": "品牌历史宣传",
+      "originalId": "HC150-S006",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S007",
+      "title": "1956 Panasonic Group History",
+      "publisher": "Panasonic Holdings",
+      "url": "https://holdings.panasonic/global/corporate/about/history/chronicle/1956.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "1956 EC-36上市与直接加热结构",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌历史宣传",
+      "originalId": "HC150-S007",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S008",
+      "title": "Panasonic 100-Year Journey",
+      "publisher": "Panasonic Holdings",
+      "url": "https://holdings.panasonic/global/corporate/about/history/chronicle.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂年表",
+      "verifiedScope": "1956自动炊饭器背景；不独立确认EC-36操作",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌历史宣传",
+      "originalId": "HC150-S008",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S009",
+      "title": "Japan's First Mass Produced Microwave Oven R-10",
+      "publisher": "Sharp",
+      "url": "https://global.sharp/corporate/info/his/only_one/item/t06.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "1961开发、1962量产、商用客户路线",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "原厂",
+      "commercialDisclosure": "品牌历史宣传",
+      "originalId": "HC150-S009",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S010",
+      "title": "R-10 800270031031",
+      "publisher": "国立科学博物馆产业技术史数据库",
+      "url": "https://sts.kahaku.go.jp/sts/detail.php?c=&city=&id=&no=800270031031&org=&p=1230&pref=&word=&y1=&y2=",
+      "checkedOn": "2026-10-11",
+      "sourceType": "机构产业实物档案",
+      "verifiedScope": "1962量产品及商用型号；调查方Sharp",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "机构托管、厂商填报；不是独立测试",
+      "commercialDisclosure": "记录未核到商业披露",
+      "originalId": "HC150-S010",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S011",
+      "title": "How old is my Chef?",
+      "publisher": "Kenwood／DeLonghi",
+      "url": "https://www.kenwoodworld.com/it-it/faqs/Qual-%C3%A8-l%E2%80%99et%C3%A0-del-mio-Chef/a/2910",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂型号支持",
+      "verifiedScope": "A700 1950–1957与后续型号分界",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "销售支持页面",
+      "originalId": "HC150-S011",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S012",
+      "title": "History of Kenwood Stand Mixers",
+      "publisher": "Kenwood",
+      "url": "https://www.kenwoodworld.com/en-gb/e/history-of-kenwood",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "1950 A700展示、行星动作与附件",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌历史宣传",
+      "originalId": "HC150-S012",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S015",
+      "title": "Hoover Constellation model444",
+      "publisher": "LACMA",
+      "url": "https://collections.lacma.org/object/284108",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型档案",
+      "verifiedScope": "444身份、约1956–1959、设计师、材料和附件",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "独立实物编目",
+      "commercialDisclosure": "图片有版权署名",
+      "originalId": "HC150-S015",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S016",
+      "title": "Euclid Sun Journal 1965-07-29",
+      "publisher": "Euclid Public Library馆藏同期报纸",
+      "url": "https://cdn.euclidlibrary.org/cdn/esj/1965/19650729/19650729.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "同期销售广告档案",
+      "verifiedScope": "1965广告仍列Constellation444与附件；仅销售广告而非首发",
+      "verificationMethod": "原机构PDF索引；open Internal Error",
+      "limits": "只核原机构索引返回文字；未取得正文/完整PDF；Internal Error不是403。",
+      "independence": "同期商家广告；不同于博物馆",
+      "commercialDisclosure": "广告为商业材料，价格不作购买建议",
+      "originalId": "HC150-S016",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S017",
+      "title": "Give Me a Ring gallery",
+      "publisher": "SFO Museum",
+      "url": "https://www.sfomuseum.org/exhibitions/telephone-retrospective/gallery",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆设计史",
+      "verifiedScope": "500日期、拨盘布局及Henry Dreyfuss",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "不同机构",
+      "commercialDisclosure": "展览；未核到商业披露",
+      "originalId": "HC150-S017",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S018",
+      "title": "Western Electric model500 exhibit",
+      "publisher": "Westport Tech Museum",
+      "url": "https://www.westporttechmuseum.com/products/rotary-dial-phones-1970",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆实物展品页",
+      "verifiedScope": "500实物展出身份和1949年份；不采纳近乎不坏夸张",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "不同机构；社会普及说法未独立验证",
+      "commercialDisclosure": "非售卖博物馆；部分照片背景由Gemini处理",
+      "originalId": "HC150-S018",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S019",
+      "title": "Ericofon design and innovation journey",
+      "publisher": "Ericsson",
+      "url": "https://www.ericsson.com/en/about-us/history/products/the-telephones/the-ericofon--cobra-1956-1954",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "试产/生产分界、ABS与结构开发",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "原厂历史；与MoMA不同作用",
+      "commercialDisclosure": "品牌历史宣传",
+      "originalId": "HC150-S019",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S020",
+      "title": "Ericofon Telephone",
+      "publisher": "MoMA",
+      "url": "https://www.moma.org/collection/works/1151",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型档案",
+      "verifiedScope": "实物身份、材料与作品年代1949–1959",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "独立实物编目",
+      "commercialDisclosure": "Design Store链接；馆藏非奖项",
+      "originalId": "HC150-S020",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S055",
+      "title": "Dyson who we are timeline",
+      "publisher": "Dyson",
+      "url": "https://careers.dyson.com/en-gb/who-we-are/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂生产史",
+      "verifiedScope": "DC01首件下线日期与透明盒",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "招聘/品牌宣传",
+      "originalId": "HC150-S055",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S056",
+      "title": "Invention a life chapter DC01",
+      "publisher": "James Dyson／Dyson",
+      "url": "https://www.dyson.com/james-dyson/invention-a-life/06",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原设计者结构档案",
+      "verifiedScope": "DC01旋风示意与1993生产线",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商、本人回忆",
+      "commercialDisclosure": "品牌图文与书籍宣传",
+      "originalId": "HC150-S056",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S061",
+      "title": "Thermomix TM5 September 2014 market introduction",
+      "publisher": "Vorwerk",
+      "url": "https://www.vorwerk-group.com/de/presse/publikationen/Vorwerk-Annual-Report-2014-Web-Version.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂年度报告",
+      "verifiedScope": "年报p14、17：2014年9月市场推出；触屏、食谱芯片、步骤引导",
+      "verificationMethod": "PDF正文相关页",
+      "limits": "年报中的媒体赞誉属转述，不列独立意见。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S061",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S062",
+      "title": "Die Thermomix Erfolgsgeschichte",
+      "publisher": "Vorwerk",
+      "url": "https://www.vorwerk.com/de/de/c/home/rezepte-und-ideen/ideenreich/thermomix/lifestyle/die-thermomix-erfolgsgeschichte",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "TM5 2014；后续Cook-Key属另一步而非首发配置",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S062",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S067",
+      "title": "Airfryer HD9220/40 Germany datasheet",
+      "publisher": "Philips",
+      "url": "https://www.philips.com/consumerfiles/newscenter/main/shared/assets/at/Downloadablefile/presse/22042011viva/20110413_Datenblatt_Airfryer%20HD9220.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "同期原厂规格书",
+      "verifiedScope": "HD9220/40，文档发行2010-12-10；抽屉篮、30分钟定时、230V",
+      "verificationMethod": "PDF正文3页",
+      "limits": "发行日仅证明该型号同期存在；非全球首售或饮食健康验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S067",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "HC150-S068",
+      "title": "HD9220/40 product archive",
+      "publisher": "Philips",
+      "url": "https://www.philips.com.ph/c-p/HD9220_40/viva-collection-airfryer-with-rapid-air-technology",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "相同/40型号已停产档案；抽屉篮、热空气烹饪和旋钮操作",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价",
+      "originalId": "HC150-S068",
+      "sourceFile": "docs/expansion/research-150-home-comms.json"
+    },
+    {
+      "id": "L:AMQ01",
+      "title": "Roomba Robotic Vacuum Cleaner",
+      "publisher": "Smithsonian National Museum of American History",
+      "url": "https://www.si.edu/object/nmah_1448432",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "第一代Roomba、2002进入市场、碰撞/红外及Virtual Wall描述可读；该馆藏记录不是地区型号完整说明书。",
+      "sourceType": "博物馆实物记录",
+      "independence": "第三方博物馆馆藏说明",
+      "commercialDisclosure": "馆藏为赠与；记录元数据CC0，照片明确Usage Conditions Apply，不能推导照片CC0",
+      "verificationMethod": "原研究按verifiedScope登记的指定可读资料；未由主整合声明全部正文重读",
+      "limits": "仅支持verifiedScope中登记的指定型号、时间和任务；其他地区、修订、用户群体、寿命及图像转载权未由本来源自动证明。商业/样机/版本限制另见independence与commercialDisclosure。",
+      "originalId": "AMQ01",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:ER09",
+      "title": "Roomba Robot Vacuum Cleaner, nmah_1448432",
+      "publisher": "Smithsonian National Museum of American History",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1448432",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "档案明确第一代Roomba、2002年上市，传感器/碰撞转向和虚拟墙的操作；藏品入藏编号2013.0158不作发布年。",
+      "sourceType": "museum-object",
+      "independence": "Smithsonian National Museum of American History",
+      "commercialDisclosure": "机构藏品档案；不据此假定所有图片开放",
+      "verificationMethod": "原网页正文",
+      "limits": "图片标Usage Conditions Apply；元数据开放不等于图片开放。",
+      "originalId": "ER09",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    },
+    {
+      "id": "L:ER10",
+      "title": "iRobot History",
+      "publisher": "iRobot",
+      "url": "https://about.irobot.com/history",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "公司历史表列2002推出Roomba；不把家族后来功能归给初代。",
+      "sourceType": "manufacturer-history",
+      "independence": "iRobot",
+      "commercialDisclosure": "厂商来源，存在产品宣传利益",
+      "verificationMethod": "原机构搜索索引；当前正文返回空白",
+      "limits": "不是图片转载许可，也不是独立用户效果研究。",
+      "originalId": "ER10",
+      "sourceFile": "docs/expansion/candidate-pool.json"
+    }
+  ],
+  "validation": {
+    "exhibits": 7,
+    "uniqueSlugs": true,
+    "allFiveSectionHanAtLeast825": true,
+    "allNestedSourceReferencesClosed": true,
+    "productionFilesEdited": false,
+    "minHanCharacters": 994,
+    "maxHanCharacters": 1052
+  },
+  "limitations": [
+    "沿用已核身份与日期，不把本轮文字修订称作所有来源重新核读。",
+    "比较只陈述可确认的操作和结构差异，未核采用率与长期影响不填。"
+  ]
+}

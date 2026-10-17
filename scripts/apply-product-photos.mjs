@@ -1,0 +1,40 @@
+import {readFile,writeFile,mkdir,rename} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+import assert from 'node:assert/strict';
+import {isPermittedSamsungOriginal,verifyOriginalBytes} from './photo-rights.mjs';
+const parse=async p=>JSON.parse(await readFile(p,'utf8'));
+const root=process.argv[2]||'docs/evidence/photo-expansion';
+const originalPath=`${root}/before-image-overrides.json`;
+const bytes=await readFile('src/image-overrides.json');
+try{await writeFile(originalPath,bytes,{flag:'wx'});}catch(e){if(e.code!=='EEXIST')throw e;}
+const originals=await parse(originalPath),images=JSON.parse(bytes);
+for(const [slug,image]of Object.entries(originals))assert.deepEqual(images[slug],image,`Existing image attribution changed: ${slug}`);
+const catalog=await parse('docs/collection.json'),bySlug=new Map(catalog.exhibits.map(e=>[e.slug,e]));
+const choices=await parse(`${root}/review-choices.json`),staged=await parse(`${root}/staged-records.json`);
+const records=[];
+await mkdir('public/images',{recursive:true});
+for(const choice of choices.filter(c=>c.status==='visually-reviewed')) {
+ assert(!originals[choice.slug],`Do not replace existing photograph: ${choice.slug}`);
+ const e=bySlug.get(choice.slug),c=staged.find(r=>r.slug===choice.slug&&r.title===choice.title);assert(e&&c,choice.slug);
+ assert(choice.caption&&choice.modelVerification&&choice.visualReview,`Missing manual review: ${choice.slug}`);
+ const creator=choice.creatorFromDescription||c.artist||c.creator;
+ if(choice.creatorFromDescription)assert(c.description.includes(choice.creatorFromDescription),`Author not evidenced: ${choice.slug}`);
+ assert(creator&&c.sourcePage&&c.licenseUrl&&c.width>100&&c.height>100,choice.slug);
+ assert(/^(CC BY(?:-SA)? [\d.]+(?: [a-z]+)?|CC0|Public domain)$/.test(c.license)||(c.provider==='unsplash'&&c.license==='Unsplash License'&&c.primaryLicenseVerification)||isPermittedSamsungOriginal(c),c.license);
+ const output=await readFile(c.stagedFile);assert.equal(createHash('sha256').update(output).digest('hex'),c.outputSha256);
+ verifyOriginalBytes(c,createHash('sha256').update(output).digest('hex'));
+ const path=`/images/photo-${choice.slug}.${isPermittedSamsungOriginal(c)?'jpg':'webp'}`;
+ const rawArtist=c.metadata.Artist?.value||'';
+ const href=rawArtist.match(/href="([^"]+)"/)?.[1]?.replaceAll('&amp;','&');
+ const author=href?new URL(href,c.sourcePage):null;
+ if(choice.creatorFromDescription&&author?.searchParams.has('action'))author.search='';
+ const creatorUrl=author&&['http:','https:'].includes(author.protocol)?author.href:undefined;
+ assert(new URL(c.sourcePage).hostname==='commons.wikimedia.org'||(c.provider==='wordpress'&&new URL(c.sourcePage).hostname==='wordpress.org'&&new URL(c.sourcePage).pathname.startsWith('/photos/photo/')&&c.primaryLicenseVerification&&new URL(c.original).hostname==='pd.w.org')||(c.provider==='flickr'&&new URL(c.sourcePage).hostname==='www.flickr.com'&&/^\/photos\/[^/]+\/\d+\/?$/.test(new URL(c.sourcePage).pathname)&&new URL(c.original).hostname==='live.staticflickr.com'&&c.primaryLicenseVerification)||(c.provider==='unsplash'&&new URL(c.sourcePage).hostname==='unsplash.com'&&new URL(c.sourcePage).pathname.startsWith('/photos/')&&new URL(c.original).hostname==='images.unsplash.com'&&c.primaryLicenseVerification&&c.licenseUrl==='https://unsplash.com/license')||isPermittedSamsungOriginal(c),choice.slug);
+ assert(['creativecommons.org','www.creativecommons.org','commons.wikimedia.org'].includes(new URL(c.licenseUrl).hostname)||(c.provider==='unsplash'&&c.licenseUrl==='https://unsplash.com/license')||isPermittedSamsungOriginal(c),`Unrecognized license host: ${choice.slug}`);
+ const m={sourcePage:c.sourcePage,workTitle:choice.workTitle||c.metadata.ObjectName?.value||c.title.replace(/^File:/,''),creator,...(creatorUrl?{creatorUrl}:{}),license:c.license==='Public domain'?'公有领域（原文件页声明）':c.license,licenseUrl:c.licenseUrl.replace(/^http:/,'https:'),alt:choice.alt||choice.caption.split('。')[0],caption:choice.caption,path,changes:isPermittedSamsungOriginal(c)?'原始JPEG原样转载；未裁切、改色或转码；页面等比例显示':'等比例缩小、WebP转码；原文件已有的裁切或修图见原文件页；沿用原许可',checkedOn:c.checkedOn,photographDate:c.date,modelVerification:choice.modelVerification,visualReview:choice.visualReview,...(choice.licenseVerification?{licenseVerification:choice.licenseVerification}:{}),...(choice.originalPublicationUrl?{originalPublicationUrl:choice.originalPublicationUrl}:{}),mediaKind:choice.mediaKind||'photograph'};
+ await writeFile(`public${path}.tmp`,output);await rename(`public${path}.tmp`,`public${path}`);
+ images[choice.slug]=m;records.push({slug:choice.slug,...m,sourceProvider:c.provider||'wikimedia',sourceTitle:c.title,commonsTitle:c.title,original:c.original,downloadedFrom:c.thumbnail||c.original,outputSha256:c.outputSha256,width:c.width,height:c.height,evidenceFile:choice.researchFile});
+}
+await writeFile('src/image-overrides.json.tmp',JSON.stringify(images,null,2)+'\n');await rename('src/image-overrides.json.tmp','src/image-overrides.json');
+await writeFile(`${root}/imported-photos.json`,JSON.stringify({checkedOn:records.map(r=>r.checkedOn).sort().at(-1),requestedProducts:root==='docs/evidence/photo-expansion'?142:224,imported:records.length,originalImageEntriesPreserved:Object.keys(originals).length,records},null,2)+'\n');
+console.log(`Imported ${records.length} reviewed photos; original image entries unchanged.`);

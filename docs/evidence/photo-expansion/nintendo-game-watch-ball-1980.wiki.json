@@ -1,0 +1,86 @@
+{
+  "slug": "nintendo-game-watch-ball-1980",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Game and watch logo.svg",
+      "pageid": 34749143,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Game_and_watch_logo.svg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Game_and_watch_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Game_and_watch_logo.svg/960px-Game_and_watch_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2014-08-15 00:29:01",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Game and watch logo",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Game & Watch|With trademark|PD textlogo|SVG text logos|Black outline logos|3 rows logos|9 letter alphabet logos|Logos with \"TM\" (trade mark)|Valid SVG created with Inkscape:Text logos|Nintendo console logos|& (text)|SVG logos of Nintendo consoles",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Logo of Game &amp; Watch",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "Positionen der Elemente: <a rel=\"nofollow\" class=\"external free\" href=\"http://www.nintendoeverything.com/wp-content/uploads/2009/07/game_watch_dsi.jpg\">http://www.nintendoeverything.com/wp-content/uploads/2009/07/game_watch_dsi.jpg</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Nintendo\" class=\"extiw\" title=\"w:en:Nintendo\"><span title=\"Japanese multinational video game and consumer electronics company\">Nintendo</span></a></bdi>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "trademarked",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Logo of Game & Watch",
+      "artist": "Nintendo",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    }
+  ]
+}

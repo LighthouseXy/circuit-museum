@@ -1,0 +1,94 @@
+{
+  "slug": "motorola-pageboy-i",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-15",
+  "candidates": [
+    {
+      "title": "File:Pageboy1.jpg",
+      "pageid": 760242,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pageboy1.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Pageboy1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Pageboy1.jpg/960px-Pageboy1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2006-05-05 20:49:11",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Pageboy1",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Files with no machine-readable source|License migration redundant|Motorola pagers|Self-published work|Assumed own work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "<p>Photo of a Motorola Pageboy\nMotorola type: H03BNC1102D0\nAuthor: Wilbert van de Kolk</p>\nDate of photo: 05 mei 2006",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "5 May 2006 (original upload date)",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "No machine-readable source provided. Own work assumed (based on copyright claims).<span class=\"mw-empty-elt\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Assumed_own_work\"></span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "No machine-readable author provided. <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Wilbert~commonswiki?action=edit&amp;redlink=1\" title=\"User:Wilbert~commonswiki (page does not exist)\" class=\"new\" typeof=\"mw:LocalizedAttrs\" data-mw-i18n='{\"title\":{\"lang\":\"x-page\",\"key\":\"red-link-title\",\"params\":[\"User:Wilbert~commonswiki\"]}}'>Wilbert~commonswiki</a> assumed (based on copyright claims).\n<link rel=\"mw:PageProp/Category\" href=\"./Category:Files_with_no_machine-readable_source\">",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Photo of a Motorola Pageboy\nMotorola type: H03BNC1102D0\nAuthor: Wilbert van de Kolk \nDate of photo: 05 mei 2006",
+      "artist": "No machine-readable author provided.  Wilbert~commonswiki  assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "date": "5 May 2006 (original upload date)"
+    }
+  ]
+}

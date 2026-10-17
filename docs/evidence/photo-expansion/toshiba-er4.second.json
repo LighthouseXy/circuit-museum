@@ -1,0 +1,758 @@
+{
+  "slug": "toshiba-er4",
+  "name": "ER-4",
+  "regionVersion": "日本ER-4；排除ER-8与RC-10K",
+  "query": "intitle:\"ER-4\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:PL ER 4.jpg",
+      "pageid": 42428348,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PL_ER_4.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PL_ER_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/PL_ER_4.jpg/960px-PL_ER_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2015-08-17 10:23:06",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "PL ER 4",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Road sign R-4 (Poland)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "PL ER 4 szlak rowerowy",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2015-08-17",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Sir_James_York&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Sir James York (page does not exist)\">Sir James York</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "PL ER 4 szlak rowerowy",
+      "artist": "Sir James York",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "date": "2015-08-17"
+    },
+    {
+      "title": "File:2010Arbresetlumières-er-4.jpg",
+      "pageid": 12349813,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2010Arbresetlumi%C3%A8res-er-4.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2010Arbresetlumi%C3%A8res-er-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2010Arbresetlumi%C3%A8res-er-4.jpg/960px-2010Arbresetlumi%C3%A8res-er-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2010-12-16 14:28:37",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "2010Arbresetlumières-er-4",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Panasonic Lumix DMC-TZ7|Pac-Man|With trademark|CC-BY-SA-3.0,2.5,2.0,1.0|Pac-Man ghosts|License migration redundant|Self-published work|Uploaded with Commonist|Festival Arbres en lumières 2010",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Light show for 2010 Festival Arbres et Lumières in <a href=\"https://en.wikipedia.org/wiki/Geneva\" class=\"extiw\" title=\"en:Geneva\">Geneva</a>. Artists: Bufalino Benedetto &amp; Benoît Deseille – France. Name:Pac’ → Fil Rouge",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-12-10 19:35:38",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Erdrokan\" title=\"User:Erdrokan\">User:Erdrokan</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "trademarked",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Light show for 2010 Festival Arbres et Lumières in  Geneva . Artists: Bufalino Benedetto & Benoît Deseille – France. Name:Pac’ → Fil Rouge",
+      "artist": "User:Erdrokan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2010-12-10 19:35:38"
+    },
+    {
+      "title": "File:Aubeterre-er-4.jpg",
+      "pageid": 11226351,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aubeterre-er-4.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/11/Aubeterre-er-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Aubeterre-er-4.jpg/960px-Aubeterre-er-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2010-08-19 20:55:03",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Aubeterre-er-4",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "GFDL|Taken with Panasonic Lumix DMC-TZ7|CC-BY-SA-3.0,2.5,2.0,1.0|Église monolithe Saint-Jean (Aubeterre-sur-Dronne)|License migration redundant|Self-published work|Uploaded with Commonist|Files with coordinates missing SDC location of creation",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "45.272339",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "0.171497",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Church of <a href=\"https://en.wikipedia.org/wiki/Aubeterre-sur-Dronne\" class=\"extiw\" title=\"en:Aubeterre-sur-Dronne\">Aubeterre-sur-Dronne</a>, Charente, France",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-07-20",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Erdrokan\" title=\"User:Erdrokan\">User:Erdrokan</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Church of  Aubeterre-sur-Dronne , Charente, France",
+      "artist": "User:Erdrokan",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2010-07-20"
+    },
+    {
+      "title": "File:Emergency on Southern Region, 1953, an ER 4-6-0 on stock of 'Night Ferry' at Victoria - geograph.org.uk - 4424121.jpg",
+      "pageid": 128764892,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Emergency_on_Southern_Region,_1953,_an_ER_4-6-0_on_stock_of_%27Night_Ferry%27_at_Victoria_-_geograph.org.uk_-_4424121.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Emergency_on_Southern_Region%2C_1953%2C_an_ER_4-6-0_on_stock_of_%27Night_Ferry%27_at_Victoria_-_geograph.org.uk_-_4424121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Emergency_on_Southern_Region%2C_1953%2C_an_ER_4-6-0_on_stock_of_%27Night_Ferry%27_at_Victoria_-_geograph.org.uk_-_4424121.jpg/960px-Emergency_on_Southern_Region%2C_1953%2C_an_ER_4-6-0_on_stock_of_%27Night_Ferry%27_at_Victoria_-_geograph.org.uk_-_4424121.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2023-02-16 09:42:12",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Emergency on Southern Region, 1953, an ER 4-6-0 on stock of 'Night Ferry' at Victoria - geograph.org.uk - 4424121",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Images from Geograph Britain and Ireland|Night Ferry (sleeper train)|1953 in rail transport in London|LNER Thompson Class B1s of British Railways|Steam locomotives at London Victoria station",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "51.494886",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-0.143854",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Emergency on Southern Region, 1953: an ER 4-6-0 on stock of 'Night Ferry' at Victoria <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Emergency_on_Southern_Region,_1953,_an_ER_4-6-0_on_stock_of_%27Night_Ferry%27_at_Victoria_-_geograph.org.uk_-_4424121.jpg#ooui-php-4\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1953-05-29",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/photo/4424121\">Geograph Britain and Ireland</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Emergency_on_Southern_Region,_1953,_an_ER_4-6-0_on_stock_of_%27Night_Ferry%27_at_Victoria_-_geograph.org.uk_-_4424121.jpg#P7482\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.geograph.org.uk/profile/44502\">Ben Brooksbank</a> <span class=\"mw-valign-text-top noprint\" typeof=\"mw:File/Frameless\"><a href=\"//commons.wikimedia.org/wiki/File:Emergency_on_Southern_Region,_1953,_an_ER_4-6-0_on_stock_of_%27Night_Ferry%27_at_Victoria_-_geograph.org.uk_-_4424121.jpg#P170\" title=\"Edit this at Structured Data on Commons\"><img alt=\"Edit this at Structured Data on Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"10\" height=\"10\" class=\"mw-file-element\" data-file-width=\"20\" data-file-height=\"20\"></a></span>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "<i>Emergency on Southern Region, 1953: an ER 4-6-0 on stock of 'Night Ferry' at Victoria</i> by Ben Brooksbank",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Emergency on Southern Region, 1953: an ER 4-6-0 on stock of 'Night Ferry' at Victoria",
+      "artist": "Ben Brooksbank",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "date": "1953-05-29"
+    },
+    {
+      "title": "File:2019 Photopoint ER 4, South (5-15-2019) - DPLA - 21b03f6a4bc231aae4b2f8e21e18ce80.jpg",
+      "pageid": 155179945,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2019_Photopoint_ER_4,_South_(5-15-2019)_-_DPLA_-_21b03f6a4bc231aae4b2f8e21e18ce80.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/2019_Photopoint_ER_4%2C_South_%285-15-2019%29_-_DPLA_-_21b03f6a4bc231aae4b2f8e21e18ce80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/2019_Photopoint_ER_4%2C_South_%285-15-2019%29_-_DPLA_-_21b03f6a4bc231aae4b2f8e21e18ce80.jpg/960px-2019_Photopoint_ER_4%2C_South_%285-15-2019%29_-_DPLA_-_21b03f6a4bc231aae4b2f8e21e18ce80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-06-08 02:46:51",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "2019 Photopoint ER 4, South (5-15-2019) - DPLA - 21b03f6a4bc231aae4b2f8e21e18ce80",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media contributed by the Digital Public Library of America|Media contributed by the Minnesota Digital Library|Media contributed by Carleton College",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "Silknitter, Joseph",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "A patch of dead thistle on the trailside of Engeseth-Rinde. Second in a series of 4 images of the site. (5.15.19)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "15 May 2019",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/40px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/60px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"20\" data-file-height=\"20\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://cdm17227.contentdm.oclc.org/iiif/2/PCWM:1889/full/max/0/default.jpg\">File URL</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/40px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/60px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"460\" data-file-height=\"460\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://cdm17227.contentdm.oclc.org/iiif/info/PCWM/1889/manifest.json\">IIIF manifest</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/40px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/60px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://cdm17227.contentdm.oclc.org/cdm/ref/collection/PCWM/id/1889\">Catalog record</a></span>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/4.0/deed.en\">Attribution 4.0 International</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Silknitter, Joseph / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Cc-by-4.0</a></span></div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "Silknitter, Joseph / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Cc-by-4.0</a></span>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "A patch of dead thistle on the trailside of Engeseth-Rinde. Second in a series of 4 images of the site. (5.15.19)",
+      "artist": "Silknitter, Joseph",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "date": "15 May 2019"
+    },
+    {
+      "title": "File:1) Scortum- 2) lustrum, lustrâre, χλύζω- 3) cătus, tri-quĕt-er- 4) λωτός (IA jstor-40844812).pdf",
+      "pageid": 102972571,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1)_Scortum-_2)_lustrum,_lustr%C3%A2re,_%CF%87%CE%BB%CF%8D%CE%B6%CF%89-_3)_c%C4%83tus,_tri-qu%C4%95t-er-_4)_%CE%BB%CF%89%CF%84%CF%8C%CF%82_(IA_jstor-40844812).pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ed/1%29_Scortum-_2%29_lustrum%2C_lustr%C3%A2re%2C_%CF%87%CE%BB%CF%8D%CE%B6%CF%89-_3%29_c%C4%83tus%2C_tri-qu%C4%95t-er-_4%29_%CE%BB%CF%89%CF%84%CF%8C%CF%82_%28IA_jstor-40844812%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/1%29_Scortum-_2%29_lustrum%2C_lustr%C3%A2re%2C_%CF%87%CE%BB%CF%8D%CE%B6%CF%89-_3%29_c%C4%83tus%2C_tri-qu%C4%95t-er-_4%29_%CE%BB%CF%89%CF%84%CF%8C%CF%82_%28IA_jstor-40844812%29.pdf/page1-960px-1%29_Scortum-_2%29_lustrum%2C_lustr%C3%A2re%2C_%CF%87%CE%BB%CF%8D%CE%B6%CF%89-_3%29_c%C4%83tus%2C_tri-qu%C4%95t-er-_4%29_%CE%BB%CF%89%CF%84%CF%8C%CF%82_%28IA_jstor-40844812%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2021-04-04 17:34:33",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "<div class=\"fn\">\n1) Scortum: 2) lustrum, lustrâre, χλύζω: 3) cătus, tri-quĕt-er: 4) λωτός</div>",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Historische Sprachforschung|PD-old-100-expired|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item|Internet Archive (JSTOR cover page removed)|Old books in Internet Archive additional collections",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "<div class=\"fn value\">\nJurmann, Georg</div>",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "<div class=\"description\">\n<p>\"1) Scortum: 2) lustrum, lustrâre, χλύζω: 3) cătus, tri-quĕt-er: 4) λωτός\" is an article from &lt;a href=\"/search.php?query=collection%3Ajstor_zeitvergspradeut%20AND%20volume%3A11\" rel=\"nofollow\"&gt;Zeitschrift für vergleichende Sprachforschung auf dem Gebiete des Deutschen, Griechischen und Lateinischen, Volume 11&lt;/a&gt;.</p> <p>View more articles from &lt;a href=\"/search.php?query=collection%3Ajstor_zeitvergspradeut\" rel=\"nofollow\"&gt;Zeitschrift für vergleichende Sprachforschung auf dem Gebiete des Deutschen, Griechischen und Lateinischen&lt;/a&gt;.<br>View &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"http://www.jstor.org/stable/10.2307/40844812\">http://www.jstor.org/stable/10.2307/40844812</a>\" rel=\"nofollow\"&gt;this article on JSTOR&lt;/a&gt;.<br>View &lt;a href=\"/download/jstor-40844812/10.2307_40844812.xml\" rel=\"nofollow\"&gt;this article's JSTOR metadata&lt;/a&gt;.<br></p><p>You may also retrieve all of this items metadata in JSON at the following URL: &lt;a href=\"<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/metadata/jstor-40844812\">https://archive.org/metadata/jstor-40844812</a>\" rel=\"nofollow\"&gt;<a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/metadata/jstor-40844812\">https://archive.org/metadata/jstor-40844812</a>&lt;/a&gt;</p>\n<br>Subjects:</div>",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<dl><dd><a href=\"//archive.org/details/jstor-40844812\" class=\"extiw\" title=\"iarchive:jstor-40844812\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: jstor-40844812</a></dd>\n<dd><a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/download/jstor-40844812/40844812.pdf\">https://archive.org/download/jstor-40844812/40844812.pdf</a></dd></dl>\n<ul><li>IA contributor: JSTOR</li></ul>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "\"1) Scortum: 2) lustrum, lustrâre, χλύζω: 3) cătus, tri-quĕt-er: 4) λωτός\" is an article from <a href=\"/search.php?query=collection%3Ajstor_zeitvergspradeut%20AND%20volume%3A11\" rel=\"nofollow\">Zeitschrift für vergleichende Sprachforschung auf dem Gebiete des Deutschen, Griechischen und Lateinischen, Volume 11</a>.   View more articles from <a href=\"/search.php?query=collection%3Ajstor_zeitvergspradeut\" rel=\"nofollow\">Zeitschrift für vergleichende Sprachforschung auf dem Gebiete des Deutschen, Griechischen und Lateinischen</a>. View <a href=\" http://www.jstor.org/stable/10.2307/40844812 \" rel=\"nofollow\">this article on JSTOR</a>. View <a href=\"/download/jstor-40844812/10.2307_40844812.xml\" rel=\"nofollow\">this article's JSTOR metadata</a>.   You may also retrieve all of this items metadata in JSON at the following URL: <a href=\" https://archive.org/metadata/jstor-40844812 \" rel=\"nofollow\"> https://archive.org/metadata/jstor-40844812 </a> \n Subjects:",
+      "artist": "Jurmann, Georg",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:2019 Photopoint ER 4, South (5-20-2019) - DPLA - 05933e71a6deabbe529d5be54abc4904.jpg",
+      "pageid": 155180069,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2019_Photopoint_ER_4,_South_(5-20-2019)_-_DPLA_-_05933e71a6deabbe529d5be54abc4904.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/2019_Photopoint_ER_4%2C_South_%285-20-2019%29_-_DPLA_-_05933e71a6deabbe529d5be54abc4904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2019_Photopoint_ER_4%2C_South_%285-20-2019%29_-_DPLA_-_05933e71a6deabbe529d5be54abc4904.jpg/960px-2019_Photopoint_ER_4%2C_South_%285-20-2019%29_-_DPLA_-_05933e71a6deabbe529d5be54abc4904.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-06-08 02:42:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "2019 Photopoint ER 4, South (5-20-2019) - DPLA - 05933e71a6deabbe529d5be54abc4904",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media contributed by the Digital Public Library of America|Media contributed by the Minnesota Digital Library|Media contributed by Carleton College",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "Silknitter, Joseph",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "A patch of dead thistle on the trailside of Engeseth-Rinde. Third in a series of 4 images of the site. (5.20.19)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "20 May 2019",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/40px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/60px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"20\" data-file-height=\"20\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://cdm17227.contentdm.oclc.org/iiif/2/PCWM:1886/full/max/0/default.jpg\">File URL</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/40px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/60px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"460\" data-file-height=\"460\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://cdm17227.contentdm.oclc.org/iiif/info/PCWM/1886/manifest.json\">IIIF manifest</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/40px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/60px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://cdm17227.contentdm.oclc.org/cdm/ref/collection/PCWM/id/1886\">Catalog record</a></span>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/4.0/deed.en\">Attribution 4.0 International</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Silknitter, Joseph / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Cc-by-4.0</a></span></div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "Silknitter, Joseph / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Cc-by-4.0</a></span>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "A patch of dead thistle on the trailside of Engeseth-Rinde. Third in a series of 4 images of the site. (5.20.19)",
+      "artist": "Silknitter, Joseph",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "date": "20 May 2019"
+    },
+    {
+      "title": "File:2019 Photopoint ER 4, South (5-27-2019) - DPLA - b3c2ae14699b939dae4d0b4e8fe5d85e.jpg",
+      "pageid": 155179917,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2019_Photopoint_ER_4,_South_(5-27-2019)_-_DPLA_-_b3c2ae14699b939dae4d0b4e8fe5d85e.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/df/2019_Photopoint_ER_4%2C_South_%285-27-2019%29_-_DPLA_-_b3c2ae14699b939dae4d0b4e8fe5d85e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/2019_Photopoint_ER_4%2C_South_%285-27-2019%29_-_DPLA_-_b3c2ae14699b939dae4d0b4e8fe5d85e.jpg/960px-2019_Photopoint_ER_4%2C_South_%285-27-2019%29_-_DPLA_-_b3c2ae14699b939dae4d0b4e8fe5d85e.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2026-06-08 03:04:12",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "2019 Photopoint ER 4, South (5-27-2019) - DPLA - b3c2ae14699b939dae4d0b4e8fe5d85e",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Media contributed by the Digital Public Library of America|Media contributed by the Minnesota Digital Library|Media contributed by Carleton College",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "Silknitter, Joseph",
+          "source": "commons-desc-page"
+        },
+        "ImageDescription": {
+          "value": "A patch of dead thistle on the trailside of Engeseth-Rinde. Last in a series of 4 images of the site. (5.27.19)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "27 May 2019",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/40px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Codex_icon_download_color-progressive.svg/60px-Codex_icon_download_color-progressive.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"20\" data-file-height=\"20\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"https://cdm17227.contentdm.oclc.org/iiif/2/PCWM:1885/full/max/0/default.jpg\">File URL</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/40px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/International_Image_Interoperability_Framework_logo.png/60px-International_Image_Interoperability_Framework_logo.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"460\" data-file-height=\"460\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://cdm17227.contentdm.oclc.org/iiif/info/PCWM/1885/manifest.json\">IIIF manifest</a></span><span style=\"display:inline-block; padding: 4px 16px; vertical-align: middle; border-left: 2px solid #a2a9b1;\"><span class=\"skin-invert\" typeof=\"mw:File\"><span><img alt=\"\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/40px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Breezeicons-actions-22-database-index.svg/60px-Breezeicons-actions-22-database-index.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"512\" data-file-height=\"512\"></span></span> <a rel=\"nofollow\" class=\"external text\" href=\"http://cdm17227.contentdm.oclc.org/cdm/ref/collection/PCWM/id/1885\">Catalog record</a></span>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "<div class=\"responsive-license-cc layouttemplate licensetpl\" dir=\"ltr\" lang=\"en\"><div class=\"rlicense-icons\"><span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"w:en:Creative Commons\"><img alt=\"w:en:Creative Commons\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/120px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"90\" height=\"36\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/CC_some_rights_reserved.svg/250px-CC_some_rights_reserved.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"744\" data-file-height=\"300\"></span></span><br>\n<span class=\"skin-invert\" typeof=\"mw:File\"><span title=\"attribution\"><img alt=\"attribution\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/40px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Cc-by_new_white.svg/60px-Cc-by_new_white.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"rlicense-text\"><div class=\"rlicense-declaration\">This file is licensed under the <a href=\"https://en.wikipedia.org/wiki/en:Creative_Commons\" class=\"extiw\" title=\"w:en:Creative Commons\">Creative Commons</a> <a href=\"//creativecommons.org/licenses/by/4.0/deed.en\" class=\"extiw\" title=\"creativecommons:by/4.0/deed.en\">Attribution 4.0 International</a> license.</div><div class=\"rlicense-attr\" style=\"font-weight: bold;\">Attribution: <div style=\"display:inline;font-size:larger;\" class=\"licensetpl_attr\">Silknitter, Joseph / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Cc-by-4.0</a></span></div></div><div class=\"rlicense-desc\" style=\"text-align:start;\" dir=\"ltr\" lang=\"en\">\n<dl><dd>You are free:\n<ul><li><b>to share</b> – to copy, distribute and transmit the work</li>\n<li><b>to remix</b> – to adapt the work</li></ul></dd>\n<dd>Under the following conditions:\n<ul><li><b>attribution</b> – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li></ul></dd></dl>\n</div><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/licenses/by/4.0</span><span class=\"licensetpl_short\" style=\"display:none;\">CC BY 4.0 </span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Attribution 4.0 </span><span class=\"licensetpl_link_req\" style=\"display:none;\">true</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">true</span></div></div>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "Silknitter, Joseph / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/\">Cc-by-4.0</a></span>",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "A patch of dead thistle on the trailside of Engeseth-Rinde. Last in a series of 4 images of the site. (5.27.19)",
+      "artist": "Silknitter, Joseph",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "date": "27 May 2019"
+    }
+  ]
+}

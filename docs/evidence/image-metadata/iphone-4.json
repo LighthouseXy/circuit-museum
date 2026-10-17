@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:IPhone_4_Black.jpg",
+  "creator": "Taylor Shomaker",
+  "license": "公有领域（作者释出）",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/File:IPhone_4_Black.jpg#Licensing",
+  "alt": "黑色 iPhone 4 的正面与背面，两块玻璃面板及不锈钢边框",
+  "path": "/images/iphone-4.webp",
+  "changes": "等比例缩小、WebP 转码",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPhone_4_Black.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 1830,
+  "originalHeight": 1238,
+  "output": {
+    "format": "webp",
+    "width": 1100,
+    "height": 744,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 42822
+  }
+}

@@ -1,0 +1,938 @@
+[
+  {
+    "slug": "amazon-kindle-1",
+    "researchFile": "docs/evidence/photo-expansion/amazon-kindle-1.json",
+    "title": "File:AmazonKindleUser2.jpg",
+    "status": "visually-reviewed",
+    "caption": "第一代Kindle的侧边翻页键与实体键盘；图中手持方式可与正文的移动阅读操作对照。",
+    "modelVerification": "外形为首代斜切机身与键盘，原图2008年上传，排除后来的Kindle与Fire。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "ipad-1",
+    "researchFile": "docs/evidence/photo-expansion/ipad-1.json",
+    "title": "File:IPad-WiFi-1stGen.jpg",
+    "status": "visually-reviewed",
+    "caption": "第一代iPad的触摸屏与圆形主屏幕按钮。照片为32GB Wi-Fi实物，不代表所有容量与网络版本。",
+    "modelVerification": "原文件明确1st generation、32GB WiFi；可见原代厚边框和前面板。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "macbook-air-m5-2026",
+    "researchFile": "docs/evidence/photo-expansion/macbook-air-m5-2026.json",
+    "title": "File:M5 Macbook Air 13 Sky Blue model.jpg",
+    "status": "visually-reviewed",
+    "caption": "原文件标注为13英寸M5、天蓝色的店内实物，可对照键盘与触控板布局；照片不能独立验证芯片或性能。",
+    "modelVerification": "Commons描述明确M5、13英寸、天蓝色，2026年3月拍摄；不用M4照片替代。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "motorola-dynatac-8000x",
+    "researchFile": "docs/evidence/photo-expansion/motorola-dynatac-8000x.json",
+    "title": "File:DynaTAC8000X.jpg",
+    "status": "visually-reviewed",
+    "caption": "DynaTAC 8000X的长天线、实体数字键与显示窗。该实物带运营商标识；照片不用于证明1983年首售或所有市场配置。",
+    "modelVerification": "文件描述明确8000X与1984年实物，外形及显示窗可核；不是1973原型。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "sony-cdp-101",
+    "researchFile": "docs/evidence/photo-expansion/sony-cdp-101.json",
+    "title": "File:Lettore CD Sony CDP-101 - Museo della Scienza e della Tecnologia Leonardo da Vinci.jpg",
+    "status": "visually-reviewed",
+    "caption": "CDP-101实物与遥控器，前面板可见抽屉、曲号显示及播放控制；具体地区电源规格以正文引用手册为准。",
+    "modelVerification": "博物馆文件明确Sony CDP-101，机身和配套遥控可见；不从外观推定日本电源版本。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "casio-f91w",
+    "researchFile": "docs/evidence/photo-expansion/casio-f91w.json",
+    "title": "File:Casio F-91W watch (2023) (front closeup - time) (minor retouch).jpg",
+    "status": "visually-reviewed",
+    "caption": "标准黑色F-91W的显示窗与三按钮布局。这是2023年购入的现行实物，不能视为1989年制造的首批样品。",
+    "modelVerification": "排除明确标为counterfeit的候选；采用作者注明2023年Argos购入的黑色标准款。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "ibm-thinkpad-701c",
+    "researchFile": "docs/evidence/photo-expansion/ibm-thinkpad-701c.json",
+    "title": "File:IBM ThinkPad 701C keyboard.jpg",
+    "status": "visually-reviewed",
+    "caption": "701C的键盘处于展开过程中，可看见两部分的交错结构；图示不证明UT5的处理器、存储或屏幕配置。",
+    "modelVerification": "原文件明确701C而非701CS，照片直接展示蝶式键盘；内部配置不可由照片确认。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "epson-ep101",
+    "researchFile": "docs/evidence/photo-expansion/epson-ep101.json",
+    "title": "File:EP-101 (5207073092) (cropped).jpg",
+    "status": "visually-reviewed",
+    "caption": "EP-101打印组件的滚筒、机构与机架，可对照正文关于部件而非独立打印机的说明。",
+    "modelVerification": "选择普通EP-101实物，排除金色纪念版；原照片由作者拍摄，Commons已有裁切版本。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "ericsson-ericofon",
+    "researchFile": "docs/evidence/photo-expansion/ericsson-ericofon.json",
+    "title": "File:Ericofon 1956 2.jpg",
+    "status": "visually-reviewed",
+    "caption": "档案标注1956型的Ericofon，话筒、听筒与机身融为一体；照片用于观察早期外壳形态，不将其当作后来的DBJ700。",
+    "modelVerification": "作者明确Ericofon1956；排除木制模型及DBJ700；图中为早期红色实物。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "nintendo-switch-2",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-switch-2.json",
+    "title": "File:Nintendo Switch 2 in Handheld Mode.jpg",
+    "status": "visually-reviewed",
+    "caption": "Switch 2掌机状态的实物，可对照屏幕、两侧Joy-Con 2与控制布局；不用于证明运行帧率或续航。",
+    "modelVerification": "原文件明确Nintendo Switch2，2025年6月照片；蓝橙摇杆环和新机身可见。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "hp-65",
+    "researchFile": "docs/evidence/photo-expansion/hp-65.json",
+    "title": "File:HP-65.jpg",
+    "status": "visually-reviewed",
+    "caption": "HP-65的按键、显示窗与磁卡读取区域，用于对照程序保存和运行操作；照片不代表这件机器仍可运行。",
+    "modelVerification": "文件明确HP-65；实物正面名称与布局可见，不用HP-67替代。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "sony-xel-1",
+    "researchFile": "docs/evidence/photo-expansion/sony-xel-1.json",
+    "title": "File:Sony XEL-1.jpg",
+    "status": "visually-reviewed",
+    "caption": "XEL-1侧面的薄面板、支撑臂与底座。2007年11月展台照片未显示电源铭牌，不据此确认地区电气参数。",
+    "modelVerification": "文件明确XEL-1、2007年11月拍摄；侧面对应薄面板结构，地区规格仍以文字史料为准。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "kenwood-chef-a700",
+    "researchFile": "docs/evidence/photo-expansion/kenwood-chef-a700.json",
+    "title": "File:Kenwood Chef Model 700.jpg",
+    "status": "visually-reviewed",
+    "caption": "早期Chef Model 700的搅拌碗、机头和控制旋钮；图中老化表面不代表出厂状态。",
+    "modelVerification": "作者文件明确Kenwood Chef Model700，机身上Chef字样与早期机头可见。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "dyson-dc01",
+    "researchFile": "docs/evidence/photo-expansion/dyson-dc01.json",
+    "title": "File:Dyson DC01. 01.jpg",
+    "status": "visually-reviewed",
+    "caption": "DC01的直立机身、透明集尘部分与地面清洁头，可与正文的集尘和推行任务对照。",
+    "modelVerification": "作者文件明确DysonDC01，实物外形与黄色部件可见。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "nintendo-switch-lite",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-switch-lite.json",
+    "title": "File:Nintendo Switch Lite Grey - 01.jpg",
+    "status": "visually-reviewed",
+    "caption": "Switch Lite的一体式机身和固定两侧控制区，可对照正文中与可拆卸Joy-Con结构的区别。",
+    "modelVerification": "采用实物摄影而非representation绘图；文件为灰色SwitchLite。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "nintendo-wii-u",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-wii-u.json",
+    "title": "File:Wii U Console and Gamepad.png",
+    "status": "visually-reviewed",
+    "caption": "原版Wii U主机与GamePad的实物合图，可对照独立主机和带屏控制器的分工；原Commons作者已处理背景。",
+    "modelVerification": "明确WiiU Console andGamepad，2012年照片；采用合法标明衍生编辑的实物图。",
+    "visualReview": "contact-1.png; full physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "framework-laptop-13-2021",
+    "researchFile": "docs/evidence/photo-expansion/framework-laptop-13-2021.second.json",
+    "title": "File:Framework Laptop - the Design Museum.jpg",
+    "status": "visually-reviewed",
+    "caption": "2022年1月展览中的Framework机身与拆分部件，用于对照正文的模块化结构。图中未展示处理器铭牌，不作为具体芯片或存储配置的证据。",
+    "modelVerification": "文件明确Framework Laptop及2022-01-24展览日期；展示初期机身/部件，排除明确标为AMD和RISC-V的后代候选。 原厂2022-05-19才公布12代Intel新款：https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop/；照片早于该事件。",
+    "visualReview": "contact-2.png; physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "nokia-3310-2000",
+    "researchFile": "docs/evidence/photo-expansion/nokia-3310-2000.second.json",
+    "title": "File:Nokia 3310 mobile phone.jpg",
+    "status": "visually-reviewed",
+    "caption": "原版3310的实体按键与小屏幕，可对照正文的按键操作。照片未显示SIM或铭牌，不将它认作正文引用的O2实物或2017复刻。",
+    "modelVerification": "原文件明确3310、拍摄2017-02-14；照片显示2000年原版机身，而非后来的复刻圆屏机身。",
+    "visualReview": "contact-2.png; physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "osborne-1",
+    "researchFile": "docs/evidence/photo-expansion/osborne-1.second.json",
+    "title": "File:Osborne-1 Portable Computer.jpg",
+    "status": "visually-reviewed",
+    "caption": "打开后的Osborne 1，键盘、内置小屏幕与两侧驱动器可同时看到；可对照正文中携带与展开工作的过程。",
+    "modelVerification": "文件明确Osborne1实物；图中小屏、双驱动器和键盘布局与原代一致。",
+    "visualReview": "contact-2.png; physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "sony-playstation-vr-cuh-zvr1",
+    "researchFile": "docs/evidence/photo-expansion/sony-playstation-vr-cuh-zvr1.second.json",
+    "title": "File:PlayStation VR sample, Taipei IT Month 20161211.jpg",
+    "status": "visually-reviewed",
+    "caption": "2016年12月展台上的第一代PlayStation VR实物，展示环形头带和前部头显；不以此图确认零售包装或固件。",
+    "modelVerification": "原照片2016-12-11，早于2017 CUH-ZVR2，外观为首代头显；不采用2019泛代样机或仅有控制器的照片。",
+    "visualReview": "contact-2.png; physical layout reviewed by primary agent"
+  },
+  {
+    "slug": "roland-tr808",
+    "researchFile": "docs/evidence/photo-expansion/roland-tr808.wiki.json",
+    "title": "File:TR-808 - MIM, Phoenix (2019-08-30 14.59.26 by Bryan Pocius) (cropped).jpg",
+    "status": "visually-reviewed",
+    "caption": "TR-808的音色控制旋钮与十六步按键同处面板，便于对照正文中“调整声音”和“排列节奏”的两组操作。",
+    "modelVerification": "原文件描述与实物画面相符；TR-808的音色控制旋钮与十六步按键同处面板，便于对照正文中“调整声音”和“排列节奏”的两组操作。",
+    "visualReview": "contact-2.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "roland-tb303",
+    "researchFile": "docs/evidence/photo-expansion/roland-tb303.wiki.json",
+    "title": "File:Roland TB-303 Panel.jpg",
+    "status": "visually-reviewed",
+    "caption": "TB-303的音色旋钮、步进按键与演奏键布局；图中面板可与正文的音色调整和序列编写对照。",
+    "modelVerification": "原文件描述与实物画面相符；TB-303的音色旋钮、步进按键与演奏键布局；图中面板可与正文的音色调整和序列编写对照。",
+    "visualReview": "contact-2.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "yamaha-dx7",
+    "researchFile": "docs/evidence/photo-expansion/yamaha-dx7.wiki.json",
+    "title": "File:Yamaha DX7 synthesizer - combined image with diagonal and top views.jpg",
+    "status": "visually-reviewed",
+    "caption": "原代DX7的两个实物视角，可对照键盘、显示区与参数按钮。Commons原作者已合成两幅照片，原摄影与合成署名一并保留。",
+    "modelVerification": "原文件描述与实物画面相符；原代DX7的两个实物视角，可对照键盘、显示区与参数按钮。Commons原作者已合成两幅照片，原摄影与合成署名一并保留。",
+    "visualReview": "contact-2.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "iomega-zip100",
+    "researchFile": "docs/evidence/photo-expansion/iomega-zip100.wiki.json",
+    "title": "File:Iomega Zip 100 drive with a disk.jpg",
+    "status": "visually-reviewed",
+    "caption": "外置Zip 100驱动器与100MB介质，图中的Fujifilm磁盘用于说明兼容介质，不认作Iomega品牌原装包装。",
+    "modelVerification": "原文件描述与实物画面相符；外置Zip 100驱动器与100MB介质，图中的Fujifilm磁盘用于说明兼容介质，不认作Iomega品牌原装包装。",
+    "visualReview": "contact-2.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "kobo-touch-2011",
+    "researchFile": "docs/evidence/photo-expansion/kobo-touch-2011.wiki.json",
+    "title": "File:Kobo ereader touch black front.JPG",
+    "status": "visually-reviewed",
+    "caption": "Kobo Touch的阅读屏幕与下方实体按键，可与正文的触摸阅读界面对照；不是Touch 2或后来的Kobo款式。",
+    "modelVerification": "原文件描述与实物画面相符；Kobo Touch的阅读屏幕与下方实体按键，可与正文的触摸阅读界面对照；不是Touch 2或后来的Kobo款式。",
+    "visualReview": "contact-2.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "nintendo-64",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-64.wiki.json",
+    "title": "File:Nintendo-64-wController-L.jpg",
+    "status": "visually-reviewed",
+    "caption": "原代Nintendo 64与三握把控制器，展示主机、卡带位置和控制布局；地区电源与视频制式不能从这张正面照片确认。",
+    "modelVerification": "原文件描述与实物画面相符；原代Nintendo 64与三握把控制器，展示主机、卡带位置和控制布局；地区电源与视频制式不能从这张正面照片确认。",
+    "visualReview": "contact-2.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "nintendo-game-boy-color",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-game-boy-color.wiki.json",
+    "title": "File:Nintendo-Game-Boy-Color-FL.png",
+    "status": "visually-reviewed",
+    "caption": "Game Boy Color的彩色款机身、屏幕与按键布局；透明配色属于同一型号，不把配色计作另一代产品。",
+    "modelVerification": "原文件描述与实物画面相符；Game Boy Color的彩色款机身、屏幕与按键布局；透明配色属于同一型号，不把配色计作另一代产品。",
+    "visualReview": "contact-2.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "nintendo-game-boy-advance",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-game-boy-advance.wiki.json",
+    "title": "File:Nintendo-Game-Boy-Advance-Purple-FL.png",
+    "status": "visually-reviewed",
+    "caption": "原版横向Game Boy Advance的机身与两侧控制区；不是折叠SP或缩小的Micro。",
+    "modelVerification": "原文件描述与实物画面相符；原版横向Game Boy Advance的机身与两侧控制区；不是折叠SP或缩小的Micro。",
+    "visualReview": "contact-2.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "nintendo-gamecube",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-gamecube.wiki.json",
+    "title": "File:GameCube-Console-Set.png",
+    "status": "visually-reviewed",
+    "caption": "原代GameCube主机与控制器，展示光盘盖、前部接口和提手；照片不单独证明地区代码或容量。",
+    "modelVerification": "原文件描述与实物画面相符；原代GameCube主机与控制器，展示光盘盖、前部接口和提手；照片不单独证明地区代码或容量。",
+    "visualReview": "contact-2.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "nintendo-3ds",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-3ds.wiki.json",
+    "title": "File:Nintendo-3DS-AquaOpen.png",
+    "status": "visually-reviewed",
+    "caption": "2011年纽约首发活动中的初代3DS，展示双屏、摇杆与按键；正文年代采用日本首发，不以此图证明日本零售包装。",
+    "modelVerification": "原文件描述与实物画面相符；2011年纽约首发活动中的初代3DS，展示双屏、摇杆与按键；正文年代采用日本首发，不以此图证明日本零售包装。",
+    "visualReview": "contact-2.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "western-electric-500",
+    "researchFile": "docs/evidence/photo-expansion/western-electric-500.wiki.json",
+    "title": "File:Model500Telephone1951.jpg",
+    "status": "visually-reviewed",
+    "caption": "档案标注1951年的Model 500实物，显示旋转拨号盘、听筒与卷线；照片不是1949年首批样品。",
+    "modelVerification": "原文件描述与实物画面相符；1951年制造的Model 500实物，显示旋转拨号盘、听筒与卷线；照片不是1949年首批样品。",
+    "visualReview": "contact-2.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution",
+    "creatorFromDescription": "ProhibitOnions"
+  },
+  {
+    "slug": "western-electric-picturephone-mod-ii",
+    "researchFile": "docs/evidence/photo-expansion/western-electric-picturephone-mod-ii.wiki.json",
+    "title": "File:AT&T Picturephone - upper RH oblique view.jpg",
+    "status": "visually-reviewed",
+    "caption": "1972—1973年的Picturephone Mod II，画面可见屏幕、机身顶部摄像区域及底部控制区；不是早期Mod I。",
+    "modelVerification": "原文件描述与实物画面相符；1972—1973年的Picturephone Mod II，画面可见屏幕、机身顶部摄像区域及底部控制区；不是早期Mod I。",
+    "visualReview": "contact-2.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "apple-airport-1999",
+    "researchFile": "docs/evidence/photo-expansion/apple-airport-1999.wiki.json",
+    "title": "File:Early AirPort (2364225930).jpg",
+    "status": "visually-reviewed",
+    "caption": "前景左下的石墨色设备是首代AirPort；后方两台白色设备是后续版本，仅作为对照，不把它们认作1999年首代。",
+    "modelVerification": "原文件描述与实物画面相符；前景左下的石墨色设备是首代AirPort；后方两台白色设备是后续版本，仅作为对照，不把它们认作1999年首代。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "irobot-roomba-2002",
+    "researchFile": "docs/evidence/photo-expansion/irobot-roomba-2002.wiki.json",
+    "title": "File:Roomba original.jpg",
+    "status": "visually-reviewed",
+    "caption": "第一代Roomba的圆形机身与顶部尺寸选择按钮，可与正文中的早期清扫任务对照；不套用后代建图功能。",
+    "modelVerification": "原文件描述与实物画面相符；第一代Roomba的圆形机身与顶部尺寸选择按钮，可与正文中的早期清扫任务对照；不套用后代建图功能。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "meta-quest-3",
+    "researchFile": "docs/evidence/photo-expansion/meta-quest-3.wiki.json",
+    "title": "File:Meta Quest 3 display unit.jpg",
+    "status": "visually-reviewed",
+    "caption": "Quest 3展台实物，正面可见三组竖向传感器区域及控制器；不是传感器排列不同的Quest 3S。",
+    "modelVerification": "原文件描述与实物画面相符；Quest 3展台实物，正面可见三组竖向传感器区域及控制器；不是传感器排列不同的Quest 3S。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "sony-playstation-vr2",
+    "researchFile": "docs/evidence/photo-expansion/sony-playstation-vr2.wiki.json",
+    "title": "File:PSVR2 (Non-Stereoscopic).png",
+    "status": "visually-reviewed",
+    "caption": "PSVR2头显与Sense控制器的实物照片；可对照头带、遮光部分与线缆，运行与兼容性仍依据正文资料。",
+    "modelVerification": "原文件描述与实物画面相符；PSVR2头显与Sense控制器的实物照片；可对照头带、遮光部分与线缆，运行与兼容性仍依据正文资料。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "apple-vision-pro-m2",
+    "researchFile": "docs/evidence/photo-expansion/apple-vision-pro-m2.wiki.json",
+    "title": "File:Apple Vision Pro with Solo Knit Band.jpg",
+    "status": "visually-reviewed",
+    "caption": "2024年原代Vision Pro展台实物与Solo Knit头带。图示不用于验证M2芯片、存储容量或实际空间追踪效果。",
+    "modelVerification": "原文件描述与实物画面相符；2024年原代Vision Pro展台实物与Solo Knit头带。图示不用于验证M2芯片、存储容量或实际空间追踪效果。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "canon-ae-1",
+    "researchFile": "docs/evidence/photo-expansion/canon-ae-1.wiki.json",
+    "title": "File:Canon AE-1 with 50mm f1.8 S.C. II.jpg",
+    "status": "visually-reviewed",
+    "caption": "原AE-1与示例FD镜头，快门旋钮和机身字样可见；不是AE-1 Program，示例镜头不作为所有出厂套装的证明。",
+    "modelVerification": "原文件描述与实物画面相符；原AE-1与示例FD镜头，快门旋钮和机身字样可见；不是AE-1 Program，示例镜头不作为所有出厂套装的证明。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "canon-eos-650",
+    "researchFile": "docs/evidence/photo-expansion/canon-eos-650.wiki.json",
+    "title": "File:Canon EOS 650.jpg",
+    "status": "visually-reviewed",
+    "caption": "EOS 650与示例EF变焦镜头，机身上650字样与控制布局可见；镜头搭配不改变相机型号。",
+    "modelVerification": "原文件描述与实物画面相符；EOS 650与示例EF变焦镜头，机身上650字样与控制布局可见；镜头搭配不改变相机型号。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "canon-powershot-600",
+    "researchFile": "docs/evidence/photo-expansion/canon-powershot-600.wiki.json",
+    "title": "File:Canon PowerShot 600 CP+ 2011.jpg",
+    "status": "visually-reviewed",
+    "caption": "PowerShot 600展品正面，可见镜头、取景区域与闪光灯；不是后续PowerShot 600系列近名机型。",
+    "modelVerification": "原文件描述与实物画面相符；PowerShot 600展品正面，可见镜头、取景区域与闪光灯；不是后续PowerShot 600系列近名机型。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "kodak-dcs-1991",
+    "researchFile": "docs/evidence/photo-expansion/kodak-dcs-1991.wiki.json",
+    "title": "File:Early digital!.jpg",
+    "status": "visually-reviewed",
+    "caption": "DCS 100馆藏实物，画面同时包含Nikon F3机身和外置数字存储部分，可与正文的系统组合对照。",
+    "modelVerification": "原文件描述与实物画面相符；DCS 100馆藏实物，画面同时包含Nikon F3机身和外置数字存储部分，可与正文的系统组合对照。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "xbox-adaptive-controller",
+    "researchFile": "docs/evidence/photo-expansion/xbox-adaptive-controller.wiki.json",
+    "title": "File:Xbox Adaptive Controller V&A.JPG",
+    "status": "visually-reviewed",
+    "caption": "Xbox Adaptive Controller的两块大按键与方向控制区；照片中的基础控制器不代表所有外接辅助设备组合。",
+    "modelVerification": "原文件描述与实物画面相符；Xbox Adaptive Controller的两块大按键与方向控制区；照片中的基础控制器不代表所有外接辅助设备组合。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "sony-dcr-vx1000",
+    "researchFile": "docs/evidence/photo-expansion/sony-dcr-vx1000.wiki.json",
+    "title": "File:Sony DCR-VX1000 01.jpg",
+    "status": "visually-reviewed",
+    "caption": "DCR-VX1000的机身、镜头与取景器，用于对照手持摄像操作；不是VX2000或后代型号。",
+    "modelVerification": "原文件描述与实物画面相符；DCR-VX1000的机身、镜头与取景器，用于对照手持摄像操作；不是VX2000或后代型号。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "nikon-d1",
+    "researchFile": "docs/evidence/photo-expansion/nikon-d1.wiki.json",
+    "title": "File:Nikon D1 8373.jpg",
+    "status": "visually-reviewed",
+    "caption": "原Nikon D1的机身、快门区与内置竖握结构，正面型号字样可见；不是D1H或D1X。",
+    "modelVerification": "原文件描述与实物画面相符；原Nikon D1的机身、快门区与内置竖握结构，正面型号字样可见；不是D1H或D1X。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "canon-eos-5d-mark-ii",
+    "researchFile": "docs/evidence/photo-expansion/canon-eos-5d-mark-ii.wiki.json",
+    "title": "File:Canon EOS 5D Mark II with 50mm 1.4 edit1.jpg",
+    "status": "visually-reviewed",
+    "caption": "EOS 5D Mark II与示例EF 50mm镜头，机身Mark II字样可见；照片不用于证明视频或对焦测试结果。",
+    "modelVerification": "原文件描述与实物画面相符；EOS 5D Mark II与示例EF 50mm镜头，机身Mark II字样可见；照片不用于证明视频或对焦测试结果。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "lenovo-legion-go-2023",
+    "researchFile": "docs/evidence/photo-expansion/lenovo-legion-go-2023.wiki.json",
+    "title": "File:Lenovo Legion Go.jpg",
+    "status": "visually-reviewed",
+    "caption": "原代Legion Go的屏幕与两侧可拆控制器，照片用于外观与握持布局说明；不是Legion Go S或后续代。",
+    "modelVerification": "原文件描述与实物画面相符；原代Legion Go的屏幕与两侧可拆控制器，照片用于外观与握持布局说明；不是Legion Go S或后续代。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "panasonic-lumix-dmc-g1",
+    "researchFile": "docs/evidence/photo-expansion/panasonic-lumix-dmc-g1.wiki.json",
+    "title": "File:Lumix G1 IMG 2426.jpg",
+    "status": "visually-reviewed",
+    "caption": "LUMIX G1机身与示例镜头，G1型号字样可见；用来对照机身控制布局，不当作所有镜头套装的证明。",
+    "modelVerification": "原文件描述与实物画面相符；LUMIX G1机身与示例镜头，G1型号字样可见；用来对照机身控制布局，不当作所有镜头套装的证明。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "olympus-pen-e-p1",
+    "researchFile": "docs/evidence/photo-expansion/olympus-pen-e-p1.wiki.json",
+    "title": "File:Olympus Pen img 3486.jpg",
+    "status": "visually-reviewed",
+    "caption": "Olympus PEN E-P1与示例镜头及外接取景器；外接附件不作为机身内置取景器的证明。",
+    "modelVerification": "原文件描述与实物画面相符；Olympus PEN E-P1与示例镜头及外接取景器；外接附件不作为机身内置取景器的证明。",
+    "visualReview": "contact-3.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "fujifilm-finepix-x100",
+    "researchFile": "docs/evidence/photo-expansion/fujifilm-finepix-x100.wiki.json",
+    "title": "File:Fujifilm X100 001.jpg",
+    "status": "visually-reviewed",
+    "caption": "初代FinePix X100的固定镜头、前部控制与取景区域；不是后缀不同的X100S、T或V。",
+    "modelVerification": "原文件描述与实物画面相符；初代FinePix X100的固定镜头、前部控制与取景区域；不是后缀不同的X100S、T或V。",
+    "visualReview": "contact-4.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "logitech-k380-2015",
+    "researchFile": "docs/evidence/photo-expansion/logitech-k380-2015.second.json",
+    "title": "File:Logitech K380 CJK Keyboard.jpg",
+    "status": "visually-reviewed",
+    "caption": "K380的圆形键帽与三个设备切换按钮；本图为中日韩字符布局，不把地区印字当作其他市场键位的证明。",
+    "modelVerification": "原文件描述与实物画面相符；K380的圆形键帽与三个设备切换按钮；本图为中日韩字符布局，不把地区印字当作其他市场键位的证明。",
+    "visualReview": "contact-4.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "apple-newton-messagepad-1993",
+    "researchFile": "docs/evidence/photo-expansion/apple-newton-messagepad-1993.second.json",
+    "title": "File:Apple Newton MessagePad H1000 NMAH Case.jpg",
+    "status": "visually-reviewed",
+    "caption": "Smithsonian藏品H1000的原代MessagePad与保护套；采用档案明确的1993年型号，排除后来的MessagePad 100和2000。",
+    "modelVerification": "原文件描述与实物画面相符；Smithsonian藏品H1000的原代MessagePad与保护套；采用档案明确的1993年型号，排除后来的MessagePad 100和2000。",
+    "visualReview": "contact-4.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "nintendo-switch-2017",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-switch-2017.second.json",
+    "title": "File:Nintendo-Switch-Console-Docked-wJoyConRB.jpg",
+    "status": "visually-reviewed",
+    "caption": "2017年原版Switch与底座及Joy-Con的实物组合；照片早于OLED款和Switch 2，不用后代替换首代外观。",
+    "modelVerification": "原文件描述与实物画面相符；2017年原版Switch与底座及Joy-Con的实物组合；照片早于OLED款和Switch 2，不用后代替换首代外观。",
+    "visualReview": "contact-4.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "nintendo-super-famicom",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-super-famicom.second.json",
+    "title": "File:Super Famicom.jpg",
+    "status": "visually-reviewed",
+    "caption": "日本Super Famicom的机身与彩色标志；不是外壳形态不同的北美SNES。",
+    "modelVerification": "原文件描述与实物画面相符；日本Super Famicom的机身与彩色标志；不是外壳形态不同的北美SNES。",
+    "visualReview": "contact-4.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "sony-playstation-4",
+    "researchFile": "docs/evidence/photo-expansion/sony-playstation-4.second.json",
+    "title": "File:Sony-PlayStation-4-PS4-Console-FL.png",
+    "status": "visually-reviewed",
+    "caption": "2013年原版PS4的两层机身与斜切形态；不是圆角Slim或三层Pro。",
+    "modelVerification": "原文件描述与实物画面相符；2013年原版PS4的两层机身与斜切形态；不是圆角Slim或三层Pro。",
+    "visualReview": "contact-4.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "sony-playstation-5",
+    "researchFile": "docs/evidence/photo-expansion/sony-playstation-5.second.json",
+    "title": "File:PlayStation 5 and DualSense (cropped).jpg",
+    "status": "visually-reviewed",
+    "caption": "2020年原光盘版PS5与DualSense，右侧光盘插口可见；不是两片外壳的Slim或三条黑色装饰带的Pro。",
+    "modelVerification": "原文件描述与实物画面相符；2020年原光盘版PS5与DualSense，右侧光盘插口可见；不是两片外壳的Slim或三条黑色装饰带的Pro。",
+    "visualReview": "contact-4.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "sony-psp-1000",
+    "researchFile": "docs/evidence/photo-expansion/sony-psp-1000.second.json",
+    "title": "File:Psp-1000.jpg",
+    "status": "visually-reviewed",
+    "caption": "原PSP-1000系列的显示屏、按键与机身，可对照UMD时代的掌机结构；照片未显示地区铭牌，不用于判断日本电源或地区代码。",
+    "modelVerification": "原文件描述与实物画面相符；原PSP-1000系列的显示屏、按键与机身，可对照UMD时代的掌机结构；照片未显示地区铭牌，不用于判断日本电源或地区代码。",
+    "visualReview": "contact-4.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "sony-playstation-vita",
+    "researchFile": "docs/evidence/photo-expansion/sony-playstation-vita.second.json",
+    "title": "File:PlayStation-Vita-1101-FL.jpg",
+    "status": "visually-reviewed",
+    "caption": "首代OLED Vita的PCH-1101实物，用于说明首代机身与双摇杆。该照片为北美版本，正文的日本首发日期独立引用史料。",
+    "modelVerification": "原文件描述与实物画面相符；首代OLED Vita的PCH-1101实物，用于说明首代机身与双摇杆。该照片为北美版本，正文的日本首发日期独立引用史料。",
+    "visualReview": "contact-4.png; individually inspected by primary agent; PS5 optical slot also inspected at full resolution"
+  },
+  {
+    "slug": "canon-rc-701",
+    "researchFile": "docs/evidence/photo-expansion/canon-rc-701.second.json",
+    "title": "File:Canon RC-701 img 0828.jpg",
+    "status": "visually-reviewed",
+    "caption": "RC-701展品的机身、镜头接口和上部控制区，可对照正文中的静态视频相机任务；不把它认作数字文件相机。",
+    "modelVerification": "原文件描述、日期与画面相符；RC-701展品的机身、镜头接口和上部控制区，可对照正文中的静态视频相机任务；不把它认作数字文件相机。",
+    "visualReview": "contact-4.png; physical object and generation inspected by primary agent"
+  },
+  {
+    "slug": "nikon-coolpix-300",
+    "researchFile": "docs/evidence/photo-expansion/nikon-coolpix-300.second.json",
+    "title": "File:Coolpix-300.jpg",
+    "status": "visually-reviewed",
+    "caption": "COOLPIX 300的前后视角，可对照镜头与触摸显示区域；两面来自同一型号，不将拼接视图理解为两代产品。",
+    "modelVerification": "原文件描述、日期与画面相符；COOLPIX 300的前后视角，可对照镜头与触摸显示区域；两面来自同一型号，不将拼接视图理解为两代产品。",
+    "visualReview": "contact-4.png; physical object and generation inspected by primary agent"
+  },
+  {
+    "slug": "nikon-coolpix-900",
+    "researchFile": "docs/evidence/photo-expansion/nikon-coolpix-900.second.json",
+    "title": "File:Nikon CoolPix 900 7433.jpg",
+    "status": "visually-reviewed",
+    "caption": "COOLPIX 900的旋转镜头部分和显示机身，可与正文的取景动作对照；不是后代900系近名型号。",
+    "modelVerification": "原文件描述、日期与画面相符；COOLPIX 900的旋转镜头部分和显示机身，可与正文的取景动作对照；不是后代900系近名型号。",
+    "visualReview": "contact-4.png; physical object and generation inspected by primary agent"
+  },
+  {
+    "slug": "nintendo-color-tv-game-15",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-color-tv-game-15.second.json",
+    "title": "File:Color TV-Game 15 (background removed).png",
+    "status": "visually-reviewed",
+    "caption": "Color TV-Game 15的独立有线控制器与机身选项区，照片中的15标记可见；不是控制器固定在机身上的6型。",
+    "modelVerification": "原文件描述、日期与画面相符；Color TV-Game 15的独立有线控制器与机身选项区，照片中的15标记可见；不是控制器固定在机身上的6型。",
+    "visualReview": "contact-4.png; physical object and generation inspected by primary agent"
+  },
+  {
+    "slug": "nintendo-game-watch-ball-1980",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-game-watch-ball-1980.second.json",
+    "title": "File:Game & Watch Ball.jpg",
+    "status": "visually-reviewed",
+    "caption": "原版Ball实物与AC-01说明书，可核对1980年型号；不采用RGW-001周年复刻照片。",
+    "modelVerification": "原文件描述、日期与画面相符；原版Ball实物与AC-01说明书，可核对1980年型号；不采用RGW-001周年复刻照片。",
+    "visualReview": "contact-4.png; physical object and generation inspected by primary agent"
+  },
+  {
+    "slug": "perkins-smart-brailler",
+    "researchFile": "docs/evidence/photo-expansion/perkins-smart-brailler.second.json",
+    "title": "File:Perkins SMART brailler.jpg",
+    "status": "pending-image-type-verification",
+    "reason": "候选是带功能箭头的标注示意图，尚未确认为实物摄影，不作为已补齐的实物照片。"
+  },
+  {
+    "slug": "rca-630ts",
+    "researchFile": "docs/evidence/photo-expansion/rca-630ts.second.json",
+    "title": "File:RCA 630TS Television Receiver (1946), MoMI.jpg",
+    "status": "visually-reviewed",
+    "caption": "MoMI展示的RCA 630TS，屏幕、扬声器格栅和调谐控制位于同一桌面机箱，可对照正文的家庭接收任务。",
+    "modelVerification": "原文件描述、日期与画面相符；MoMI展示的RCA 630TS，屏幕、扬声器格栅和调谐控制位于同一桌面机箱，可对照正文的家庭接收任务。",
+    "visualReview": "contact-4.png; physical object and generation inspected by primary agent"
+  },
+  {
+    "slug": "google-home-2016",
+    "researchFile": "docs/evidence/photo-expansion/google-home-2016.second.json",
+    "title": "File:Google Home sitting on table.jpg",
+    "status": "visually-reviewed",
+    "caption": "原代Google Home的斜切上部与织物底座，可与正文的房间内语音入口对照；不是Home Mini、Hub或Nest Audio。",
+    "modelVerification": "原文件描述、日期与画面相符；原代Google Home的斜切上部与织物底座，可与正文的房间内语音入口对照；不是Home Mini、Hub或Nest Audio。",
+    "visualReview": "contact-5.png; physical object and generation inspected by primary agent"
+  },
+  {
+    "slug": "violet-nabaztag-v1",
+    "researchFile": "docs/evidence/photo-expansion/violet-nabaztag-v1.second.json",
+    "title": "File:Nabaztag on desk.jpg",
+    "status": "visually-reviewed",
+    "caption": "2006年8月拍摄的第一代Nabaztag，机身腹部没有后来Nabaztag:tag的麦克风孔；不以照片暗示原服务器仍在运行。",
+    "modelVerification": "原文件描述、日期与画面相符；2006年8月拍摄的第一代Nabaztag，机身腹部没有后来Nabaztag:tag的麦克风孔；不以照片暗示原服务器仍在运行。",
+    "visualReview": "contact-5.png; physical object and generation inspected by primary agent"
+  },
+  {
+    "slug": "oculus-quest-2019",
+    "researchFile": "docs/evidence/photo-expansion/oculus-quest-2019.second.json",
+    "title": "File:Oculus Quest.jpeg",
+    "status": "visually-reviewed",
+    "caption": "2019年6月拍摄的黑色首代Quest，显示面罩、追踪摄像头与头带；不使用白色Quest 2照片替代。",
+    "modelVerification": "原文件描述、日期与画面相符；2019年6月拍摄的黑色首代Quest，显示面罩、追踪摄像头与头带；不使用白色Quest 2照片替代。",
+    "visualReview": "contact-5.png; physical object and generation inspected by primary agent"
+  },
+  {
+    "slug": "asus-rog-ally-2023",
+    "researchFile": "docs/evidence/photo-expansion/asus-rog-ally-2023.second.json",
+    "title": "File:ROG ALLY - 11.jpg",
+    "status": "visually-reviewed",
+    "caption": "2023年6月店内展示的原版ROG Ally，机身白色外壳、摇杆与控制布局可见。照片不单独证明Z1 Extreme芯片或游戏测试结果。",
+    "modelVerification": "原文件描述、日期与画面相符；2023年6月店内展示的原版ROG Ally，机身白色外壳、摇杆与控制布局可见。照片不单独证明Z1 Extreme芯片或游戏测试结果。",
+    "visualReview": "contact-5.png; physical object and generation inspected by primary agent"
+  },
+  {
+    "slug": "sony-aibo-ers-1000",
+    "researchFile": "docs/evidence/photo-expansion/sony-aibo-ers-1000.second.json",
+    "title": "File:Aibo ERS-1000 - 1.jpg",
+    "status": "visually-reviewed",
+    "caption": "ERS-1000展台实物，可见塑料机身、耳部和关节结构；不是银色外壳的ERS-110，照片不证明现行云服务状态。",
+    "modelVerification": "原文件描述、日期与画面相符；ERS-1000展台实物，可见塑料机身、耳部和关节结构；不是银色外壳的ERS-110，照片不证明现行云服务状态。",
+    "visualReview": "contact-5.png; physical object and generation inspected by primary agent"
+  },
+  {
+    "slug": "sony-playstation-5-pro",
+    "researchFile": "docs/evidence/photo-expansion/sony-playstation-5-pro.second.json",
+    "title": "File:PlayStation 5 Pro no disc drive.jpg",
+    "status": "visually-reviewed",
+    "caption": "BeatEmUps原视频中的PS5 Pro实物画面，三条黑色机身装饰带可见；本图未装光驱。原发布页的知识共享再利用许可已另行核对。",
+    "modelVerification": "原文件描述、日期与画面相符；BeatEmUps原视频中的PS5 Pro实物画面，三条黑色机身装饰带可见；本图未装光驱。原发布页的知识共享再利用许可已另行核对。",
+    "visualReview": "contact-5.png; physical object and generation inspected by primary agent",
+    "licenseVerification": "Commons上游图标记待审，已独立打开作者原视频 https://www.youtube.com/watch?v=_c-ckVp2gQU ，展开说明后看到“知识共享署名许可（允许再利用）”及 https://www.youtube.com/t/creative_commons 。2026-10-13核对；未声称完整观看视频。",
+    "originalPublicationUrl": "https://www.youtube.com/watch?v=_c-ckVp2gQU",
+    "mediaKind": "licensed-video-frame",
+    "workTitle": "PS5 Pro实物画面，取自“I spent $895.66 on the PS5 PRO and I’m not sure why…”"
+  },
+  {
+    "slug": "msi-claw-a1m",
+    "researchFile": "docs/evidence/photo-expansion/msi-claw-a1m.wiki.json",
+    "title": "File:MSI Claw Takes On Asus Rog Ally; Intel Vs AMD Showdown (2160p 60fps AV1-128kbit AAC)-00.03.03.626.png",
+    "status": "visually-reviewed",
+    "caption": "Booredatwork.com评测原视频中的首代Claw A1M实物画面；Commons记录已核准CC BY 3.0，原图已有背景模糊处理，不用于性能测试结论。",
+    "modelVerification": "原文件描述、日期与画面相符；Booredatwork.com评测原视频中的首代Claw A1M实物画面；Commons记录已核准CC BY 3.0，原图已有背景模糊处理，不用于性能测试结论。",
+    "visualReview": "contact-5.png; physical object and generation inspected by primary agent",
+    "licenseVerification": "Commons原文件页明确记录2024-12-07由Alachuckthebuck复核原视频CC BY许可，作者Booredatwork.com；原视频 https://www.youtube.com/watch?v=gooPJwtmg8k 。",
+    "originalPublicationUrl": "https://www.youtube.com/watch?v=gooPJwtmg8k",
+    "mediaKind": "licensed-video-frame",
+    "workTitle": "Claw A1M实物画面，取自“MSI Claw Takes On Asus Rog Ally: Intel Vs AMD Showdown”"
+  },
+  {
+    "slug": "htc-vive-2016",
+    "researchFile": "docs/evidence/photo-expansion/htc-vive-2016.third.json",
+    "title": "File:HTC Vive Virtual Reality Headset and Controllers.jpg",
+    "status": "visually-reviewed",
+    "caption": "2016年12月拍摄的首代VIVE消费者版头显及控制器，可见前置摄像头与机身定位传感器；不混用Vive Pre或Vive Pro。",
+    "modelVerification": "HTC Vive Virtual Reality Headset and Controllers from Thursday December 1st 2016；2016年12月拍摄的首代VIVE消费者版头显及控制器，可见前置摄像头与机身定位传感器；不混用Vive Pre或Vive Pro。",
+    "visualReview": "contact-5.png; original-generation physical form inspected by primary agent"
+  },
+  {
+    "slug": "sony-playstation-3",
+    "researchFile": "docs/evidence/photo-expansion/sony-playstation-3.third.json",
+    "title": "File:Sony-PlayStation-3-CECHA01-wController-L.jpg",
+    "status": "visually-reviewed",
+    "caption": "原版厚机身PlayStation 3，照片为北美CECHA01 60GB型号，配DualShock 3；用于展示原代外形，不代表日本首发包装与手柄配置。",
+    "modelVerification": "The Sony PlayStation 3 (PS3) video game console, shown with DualShock 3 controller.  This is a seventh generation console first released in 2006 as the successor to the PlayStation 2.  This model is the CECHA01, one of the first two models released.  It features a 60GB hard drive, hardware-based backwards compatibility with PS2 games and flash memory card readers.；原版厚机身PlayStation 3，照片为北美CECHA01 60GB型号，配DualShock 3；用于展示原代外形，不代表日本首发包装与手柄配置。",
+    "visualReview": "contact-5.png; original-generation physical form inspected by primary agent"
+  },
+  {
+    "slug": "sony-playstation-2",
+    "researchFile": "docs/evidence/photo-expansion/sony-playstation-2.third.json",
+    "title": "File:Sony-PlayStation-2-30001-Console-FL.jpg",
+    "status": "visually-reviewed",
+    "caption": "原版厚机身PlayStation 2，照片为北美SCPH-30001型号；展示原代机身与扩展结构，不替代日本首发型号的配置说明。",
+    "modelVerification": "The Sony PlayStation 2 (also known as the \"PS2\") video game console, first released in 2000.  The successor to the enormously successful PlayStation console, Sony's second system continued the trend and surpassed it to become the best-selling consoles of all time.  This is a SCPH-30001 model, a version of the first model released (the \"fat\") that included an expansion bay for a hard drive and network adapter.；原版厚机身PlayStation 2，照片为北美SCPH-30001型号；展示原代机身与扩展结构，不替代日本首发型号的配置说明。",
+    "visualReview": "contact-5.png; original-generation physical form inspected by primary agent"
+  },
+  {
+    "slug": "sony-playstation-4-pro",
+    "researchFile": "docs/evidence/photo-expansion/sony-playstation-4-pro.second.json",
+    "title": "File:PlayStation 4 Pro and PlayStation 4 Slim sample, Taipei IT Month 20161211.jpg",
+    "status": "visually-reviewed",
+    "caption": "2016年台北资讯月展出的PS4 Pro与PS4 Slim样机；左侧三层机身为Pro，右侧两层机身为Slim，用于比较外形。",
+    "modelVerification": "​2016年台北資訊月，台灣索尼攤位展示的PlayStation 4 Pro與PlayStation 4 Slim樣機。；2016年台北资讯月展出的PS4 Pro与PS4 Slim样机，图中三层机身为Pro，两层机身为Slim；用于比较外形。",
+    "visualReview": "contact-5.png; original-generation physical form inspected by primary agent"
+  },
+  {
+    "slug": "nikon-f3",
+    "researchFile": "docs/evidence/photo-expansion/nikon-f3.third.json",
+    "title": "File:Nikon F3.jpg",
+    "status": "visually-reviewed",
+    "caption": "Nikon F3标准取景器机身与50mm f/1.8镜头实物，可见F3铭牌和红色握柄线；镜头为照片中的配件，不作为机身首发配置。",
+    "modelVerification": "Nikon F3 SLR camera with Nikkor 50mm f/1.8 lens；Nikon F3机身与50mm f/1.8镜头实物；取景器版本须结合照片核验，镜头为拍摄配件，不作为机身首发配置。",
+    "visualReview": "960px photograph inspected; compact standard prism without HP marking"
+  },
+  {
+    "slug": "valve-steam-controller-2015",
+    "researchFile": "docs/evidence/photo-expansion/valve-steam-controller-2015.second.json",
+    "title": "File:Steam Controller (top) (24525157630).jpg",
+    "status": "visually-reviewed",
+    "caption": "首代Steam Controller实物俯视照片，双触控板与摇杆布局可见；拍摄于2016年，不表示这件实物生产于首发年。",
+    "modelVerification": "Steam Controller (top); full controller needs visual review",
+    "visualReview": "contact-5.png; full physical object, controls and model display inspected"
+  },
+  {
+    "slug": "sony-playstation-portal",
+    "researchFile": "docs/evidence/photo-expansion/sony-playstation-portal.second.json",
+    "title": "File:PlayStation Portal.jpg",
+    "status": "visually-reviewed",
+    "caption": "PlayStation Portal原版白色机身实物，屏幕与左右控制器的一体式结构可见；屏幕内容为拍摄时的状态。",
+    "modelVerification": "A photo of PlayStation Portal displaying its screen. On the top left we read \"Ready to play\" (in Portuguese).；PlayStation Portal原版白色机身实物，屏幕与左右控制器的一体式结构可见；屏幕内容为拍摄时的状态。",
+    "visualReview": "contact-5.png; full physical object, controls and model display inspected"
+  },
+  {
+    "slug": "ricoh-gr-iii",
+    "researchFile": "docs/evidence/photo-expansion/ricoh-gr-iii.second.json",
+    "title": "File:Ricoh GR III at Tokyo GR Space.jpg",
+    "status": "visually-reviewed",
+    "caption": "东京GR Space展示的Ricoh GR III实物，旁边有GR III展签，机身与固定镜头结构清晰；不混用GR IIIx。",
+    "modelVerification": "Ricoh GR III at Tokyo GR Space；东京GR Space展示的Ricoh GR III实物；须核对GR III铭牌与18.3mm镜头，避免混入GR IIIx。",
+    "visualReview": "contact-5.png; full physical object, controls and model display inspected"
+  },
+  {
+    "slug": "amazon-echo-1",
+    "researchFile": "docs/evidence/photo-expansion/amazon-echo-1.round2.json",
+    "title": "File:Amazon Echo unpacked (15978606333).jpg",
+    "status": "visually-reviewed",
+    "caption": "2015年1月用户开箱拍摄的初代Amazon Echo，黑色高筒机身、遥控器与电源附件可见；拍摄时间不等同于产品首次发布日。",
+    "modelVerification": "Reviewed full 960x917 real unboxing photograph; original tall black Echo, top control ring and remote visible; January 2015 EXIF and June 2015 Commons Flickr license review exclude later Dot/second-generation models.",
+    "visualReview": "Full staged photograph visually inspected by primary agent on 2026-10-15; Reviewed full 960x917 real unboxing photograph; original tall black Echo, top control ring and remote visible; January 2015 EXIF and June 2015 Commons Flickr license review exclude later Dot/second-generation models.",
+    "checkedOn": "2026-10-15",
+    "rejectedCandidate": {
+      "title": "File:Amazon Echo.jpg",
+      "researchFile": "docs/evidence/photo-expansion/amazon-echo-1.second.json",
+      "status": "pending-image-type-verification",
+      "visualReview": "isolated image might be product rendering; own-work declaration does not establish real photography"
+    }
+  },
+  {
+    "slug": "asus-rog-xbox-ally-x",
+    "researchFile": "docs/evidence/photo-expansion/asus-rog-xbox-ally-x.second.json",
+    "title": "File:ROG XBOX ALLY and ROG XBOX ALLY X.jpg",
+    "status": "visually-reviewed",
+    "caption": "2025年日本卖场拍摄的ROG Xbox Ally与ROG Xbox Ally X；右侧黑灰色款为Xbox Ally X，左侧白色款为Xbox Ally，图中展签可交叉核对型号。",
+    "modelVerification": "「ROG XBOX ALLY」と「ROG XBOX ALLY X」。名古屋市内の家電量販店で撮影。; visible price placard ROG Xbox Ally X and thick console-style grips confirm right-hand unit. Earlier mislabelled white 2023 Ally image rejected.",
+    "visualReview": "960x720 photograph inspected: right black/gray unit has Xbox grips and Xbox Ally X price/model placard; left white Xbox Ally differs from earlier 2023 Ally",
+    "rejectedCandidate": {
+      "title": "File:ASUS 2026-08-08 ROG Xbox Ally X 03.jpg",
+      "reason": "contact-6.png shows white 2023 ROG Ally, contrary to file description; reject"
+    }
+  },
+  {
+    "slug": "insta360-x5",
+    "researchFile": "docs/evidence/photo-expansion/insta360-x5.second.json",
+    "title": "File:Insta360 X5.webp",
+    "status": "visually-reviewed",
+    "caption": "作者标注为Insta360 X5的实物照片，机身装有保护套，可见双镜头全景相机的正面结构；保护套不是首发配置说明。",
+    "modelVerification": "Photograph of a 2025 360 camera from Insta360；Insta360 X5实物照片；须结合X5铭牌核对，未使用相机拍摄的风景代替机身图。 Official design reference https://www.insta360.com/product/insta360-x5 ; physical lens housing compared, casing limits visible model marking.",
+    "visualReview": "contact-6.png and 733x1100 original staged photograph inspected; physical camera with case, source explicitly identifies X5"
+  },
+  {
+    "slug": "valve-steam-controller-2026",
+    "researchFile": "docs/evidence/photo-expansion/valve-steam-controller-2026.second.json",
+    "title": "File:Steam Controller (2026) (cropped).jpg",
+    "status": "visually-reviewed",
+    "caption": "2026款Steam Controller实物照片；与2015款分别记录，具体批次不由拍摄日期推断。",
+    "modelVerification": "Steam Controller 2026；2026款Steam Controller实物照片；与2015款分别记录，具体批次不由拍摄日期推断。",
+    "visualReview": "contact-6.png physical controller on wood surface, 2026 design with two square pads and two joysticks"
+  },
+  {
+    "slug": "canon-xl1",
+    "researchFile": "docs/evidence/photo-expansion/canon-xl1.direct.json",
+    "title": "File:Canon XL-1 3 CCD Digital Video Camcorder PAL Mini DV.jpg",
+    "status": "visually-reviewed",
+    "caption": "Canon XL1的PAL制式实物，白色机身、可换镜头与肩托结构可见；图中镜头和附件为拍摄配置，不混用XL1s或XL2。",
+    "modelVerification": "Canon XL-1 3 CCD Digital Video Camcorder Mini DV; Commons model/category evidence manually consulted; Canon XL1的PAL制式实物，白色机身、可换镜头与肩托结构可见；图中镜头和附件为拍摄配置，不混用XL1s或XL2。",
+    "visualReview": "contact-6.png; actual camera XL1 nameplate / TM5 screen dial vessel and locking-arm design inspected"
+  },
+  {
+    "slug": "vorwerk-thermomix-tm5",
+    "researchFile": "docs/evidence/photo-expansion/vorwerk-thermomix-tm5.direct.json",
+    "title": "File:Thermomix 2014.jpg",
+    "status": "visually-reviewed",
+    "caption": "Thermomix TM5实物，触控屏、右侧旋钮与上方料理杯共同呈现加热、称重和搅拌一体化结构；原照片已有背景处理与裁切。",
+    "modelVerification": "Thermomix 2014; Commons model/category evidence manually consulted; Thermomix TM5实物，触控屏、右侧旋钮与上方料理杯共同呈现加热、称重和搅拌一体化结构；原照片已有背景处理与裁切。",
+    "visualReview": "contact-6.png; actual camera XL1 nameplate / TM5 screen dial vessel and locking-arm design inspected"
+  },
+  {
+    "slug": "philips-hue-2012",
+    "researchFile": "docs/evidence/photo-expansion/philips-hue-2012.third.json",
+    "title": "File:Philips Hue hub and 2 bulbs.jpg",
+    "status": "visually-reviewed",
+    "caption": "首代Hue圆形Bridge与两只彩色灯泡的实物照片；首发Starter Pack包含三只灯泡，本图只展示两只，不代表完整开箱配置。",
+    "modelVerification": "An image of a  Philips Hue  hub (1st generation) and two color changing bulbs.; dated 2014 before generation-two bridge; physical bulb version to inspect; circular bridge and pre-2015 silver original bulb design visible; two bulbs explicitly not complete three-bulb starter pack",
+    "visualReview": "800x503 photo inspected: original circular bridge, two Philips silver-body color bulbs; source explicitly identifies first generation bridge and dates 2014"
+  },
+  {
+    "slug": "dji-phantom-2013",
+    "researchFile": "docs/evidence/photo-expansion/dji-phantom-2013.fourth.json",
+    "title": "File:Drone with GoPro digital camera mounted underneath - 22 April 2013.jpg",
+    "status": "visually-reviewed",
+    "caption": "2013年4月拍摄的第一代DJI Phantom飞行实物，机身下方加装GoPro；外置相机为拍摄者的搭配，不属于原机内置配置。",
+    "modelVerification": "This  DJI  Phantom drone has a Go Pro camera mounted underneath and can go anywhere.  The pilot was practicing flying in the high wind.  I asked him to get the moon in perspective and he could put it wherever I asked.  You can buy one yourself off the Internet.   Amazing machine, but some concerns with that camera too.; dated April 2013 before Phantom 2 and Vision; inspect original red-stripe body and external camera mount",
+    "visualReview": "960x640 photograph inspected: first Phantom red-stripe vented shell, fixed white landing legs, external GoPro mount; April 2013 date before later Phantom generations"
+  },
+  {
+    "slug": "hp-laserjet-1984",
+    "researchFile": "docs/evidence/photo-expansion/hp-laserjet-1984.round2.json",
+    "title": "File:HP LaserJet I (12935740974).jpg",
+    "status": "visually-reviewed",
+    "caption": "中央展品为原代HP LaserJet，机身铭牌和上方1984年展签可见；前部按键、进出纸结构与桌面机身可对照正文。左右其他设备仅为展览背景。",
+    "modelVerification": "Reviewed full 960x640 staged image: original LaserJet front logo without Plus suffix; museum placard identifies HP LaserJet laser printer, Hewlett Packard US 1984.",
+    "visualReview": "Full staged photograph visually inspected by primary agent on 2026-10-15; Reviewed full 960x640 staged image: original LaserJet front logo without Plus suffix; museum placard identifies HP LaserJet laser printer, Hewlett Packard US 1984.",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "nest-protect-1",
+    "researchFile": "docs/evidence/photo-expansion/nest-protect-1.round2.json",
+    "title": "File:NestProtect.JPG",
+    "status": "visually-reviewed",
+    "caption": "2014年卖场演示台上的首代Nest Protect，可见中央蓝色光环、方形机身与“PUSH TO DEMO”标识；用于展示外形，不证明传感器或当前服务可用。",
+    "modelVerification": "Reviewed 960x636 photo: physical Nest Protect mounted on retail demonstration stand; source EXIF 2014-10-27 precedes official generation-two announcement 2015-06-17, https://blog.google/products-and-platforms/products/nest/meet-new-nest-protect/ .",
+    "visualReview": "Full staged photograph visually inspected by primary agent on 2026-10-15; Reviewed 960x636 photo: physical Nest Protect mounted on retail demonstration stand; source EXIF 2014-10-27 precedes official generation-two announcement 2015-06-17, https://blog.google/products-and-platforms/products/nest/meet-new-nest-protect/ .",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "braun-sixtant-sm31",
+    "researchFile": "docs/evidence/photo-expansion/braun-sixtant-sm31.round2.json",
+    "title": "File:Braun Sixtant with box.jpg",
+    "status": "visually-reviewed",
+    "caption": "Braun Sixtant SM31实物与收纳盒，黑色机身与银色剃须头形成鲜明分区；1962年为设计型号年份，不是照片中这台实物的生产日期证明。",
+    "modelVerification": "Reviewed 800x600 original photo and source 1962 Sixtant identity; black rectangular body and silver head consistent with Musashino Art University SM31 collection 200514000600, https://jmapps.ne.jp/musabi_art_lib/det.html?data_id=1062 .",
+    "visualReview": "Full staged photograph visually inspected by primary agent on 2026-10-15; Reviewed 800x600 original photo and source 1962 Sixtant identity; black rectangular body and silver head consistent with Musashino Art University SM31 collection 200514000600, https://jmapps.ne.jp/musabi_art_lib/det.html?data_id=1062 .",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "motorola-pageboy-i",
+    "researchFile": "docs/evidence/photo-expansion/motorola-pageboy-i.round2.json",
+    "title": "File:Pageboy1.jpg",
+    "status": "visually-reviewed",
+    "caption": "PageBoy I家族的H03BNC1102D0实物，可见顶部旋钮、按键与正面扬声器格栅；不从照片推定生产年份或具体接收功能。",
+    "modelVerification": "Reviewed 660x1100 image, front PAGEBOY name and first-family housing. Commons author explicitly identifies H03BNC1102D0; Motorola Communications Parts & Data Handbook 1978 indexed table identifies H03BNC as PAGEBOY I, https://www.repeater-builder.com/tech-info/pdfs/motorola-com-parts-and-data-book-1978.pdf . Only search-index table excerpt read; full large PDF fetch unavailable.",
+    "visualReview": "Full staged photograph visually inspected by primary agent on 2026-10-15; Reviewed 660x1100 image, front PAGEBOY name and first-family housing. Commons author explicitly identifies H03BNC1102D0; Motorola Communications Parts & Data Handbook 1978 indexed table identifies H03BNC as PAGEBOY I, https://www.repeater-builder.com/tech-info/pdfs/motorola-com-parts-and-data-book-1978.pdf . Only search-index table excerpt read; full large PDF fetch unavailable.",
+    "checkedOn": "2026-10-15",
+    "creatorFromDescription": "Wilbert van de Kolk"
+  },
+  {
+    "slug": "nest-learning-thermostat-1",
+    "researchFile": "docs/evidence/photo-expansion/nest-learning-thermostat-1.round2.json",
+    "title": "File:Nest Learning Thermostat (6566209207).jpg",
+    "status": "visually-reviewed",
+    "caption": "2011年12月拍摄的初代Nest Learning Thermostat安装实物，可见圆形显示屏与外圈；早于2012年第二代公布，不混用后代外形。",
+    "modelVerification": "Reviewed 960x712 photograph: physical installed first Nest, wall texture, screws and lighting visible. December 2011 photo precedes October 2012 second-generation announcement https://blog.google/products-and-platforms/products/nest/next-generation-nest-thermostat/ . Source wording from nest.com is a product link, not a reused manufacturer rendering as confirmed by visual inspection.",
+    "visualReview": "Full staged photograph visually inspected by primary agent on 2026-10-15; Reviewed 960x712 photograph: physical installed first Nest, wall texture, screws and lighting visible. December 2011 photo precedes October 2012 second-generation announcement https://blog.google/products-and-platforms/products/nest/next-generation-nest-thermostat/ . Source wording from nest.com is a product link, not a reused manufacturer rendering as confirmed by visual inspection.",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "logitech-mx-master-3",
+    "researchFile": "docs/evidence/photo-expansion/logitech-mx-master-3.wordpress-round2.json",
+    "title": "Modern Desk Setup with Tofu 60 and Logitech MX Master 3 and a wooden wrist rest",
+    "status": "visually-reviewed",
+    "caption": "原作者标注为MX Master 3的鼠标位于照片右侧，金属滚轮、侧滚轮及拇指托可与正文对照；左侧键盘和腕托为拍摄者的桌面搭配，不属于鼠标套装。",
+    "modelVerification": "Primary photo author explicitly identifies Logitech MX Master 3; full 2048px photograph inspected, right-side full mouse body, metal main/side scroll wheels and thumb platform visible. No assertion based solely on similarity to 3S. Original model naming and rights confirmed at https://wordpress.org/photos/photo/7263ccd59f/",
+    "visualReview": "Full 2048x1171 primary-author CC0 photograph inspected on 2026-10-15; no crop or generated replacement",
+    "licenseVerification": "2026-10-15 primary WordPress photo page explicitly identifies author Shamayel, exact image, CC0 license and original/large downloads. Published date is not treated as EXIF capture date.",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "lg-stanbyme-go-27lx5qkna",
+    "researchFile": "docs/evidence/photo-expansion/lg-stanbyme-go-27lx5qkna.flickr-round2.json",
+    "title": "[사진1] LG 스탠바이미(StanbyME) Go, 사전 판매서 ‘10분만에 완판’",
+    "status": "visually-reviewed",
+    "caption": "LG原厂发布的StanbyME Go场景实拍：屏幕在提箱内平放，显示唱机界面，图中并非实体黑胶唱盘；人物和布景属于宣传拍摄。",
+    "modelVerification": "Original LG Korean press account explicitly identifies first 2023 StanbyME Go; full 1600x1131 image inspected: original briefcase screen in flat configuration, matching catalog LG 27LX5QKNA structure and manufacturer source L:AMG02. Rear model label not visible; image does not establish electrical certification or performance.",
+    "visualReview": "Full 1600px primary-source photo inspected on 2026-10-15; real case, support and screen with a model. Manufacturer description explicitly calls it a photo of models experiencing StanbyME Go. Screen artwork and promotional scene disclosed.",
+    "licenseVerification": "2026-10-15 original Flickr page read through browser UI: LG전자 / LGEPR author links to /photos/lge/; exact photo title identifies StanbyME Go; Additional Information shows CC BY 2.0 and https://creativecommons.org/licenses/by/2.0/deed.zh-hant ; Content Type Photo, Public. UI dates: photographed 2023-04-12, uploaded 2023-06-08. No login or external message sent.",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "valve-steam-machine-2026",
+    "researchFile": "docs/evidence/photo-expansion/valve-steam-machine-2026.round2.json",
+    "title": "File:Steam machine front.jpg",
+    "status": "visually-reviewed",
+    "caption": "2026年7月拍摄的Valve Steam Machine新版正面实物；立方体机身与正面接口布局可见，不混用2015年的多厂商Steam Machine设备。",
+    "modelVerification": "来源作者明确标注为2026年Valve Steam Machine；逐图核对黑色立方体机身、可拆前面板和正面底部双USB接口，与早期多厂商Steam Machine区别明确。照片不能验证内部配置或性能。",
+    "visualReview": "完整实拍可见布面背景、机壳接缝、表面灰尘与反光；主体完整，正面双USB接口清晰，无渲染或他机替代。",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "nintendo-virtual-boy-jp",
+    "researchFile": "docs/evidence/photo-expansion/nintendo-virtual-boy-jp.round2.json",
+    "title": "File:Virtualboyinashopinjapan-oct2012.jpg",
+    "status": "pending-model-verification",
+    "caption": "2012年日本商店中的Virtual Boy实物；须结合包装文字与机身核对原日本版本，不混用2026年复刻件。",
+    "modelVerification": "日本版准确区域型号尚未核准，暂不导入。",
+    "visualReview": "实拍为日本复古店内带日文标识的Virtual Boy展示台；能确认原式设备和展示场景，但未见机身区域型号背标，日本拍摄地点与日文展示架不能单独证明该机器为日本零售型号。",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "sony-access-controller",
+    "researchFile": "docs/evidence/photo-expansion/sony-access-controller.round2.json",
+    "title": "File:Sony Access Controller Buttons Trigger 2.jpg",
+    "status": "visually-reviewed",
+    "caption": "Sony Access控制器实物与外接按钮、扳机的辅助操作搭配；外接设备为照片中的示例配置，不属于原控制器标配。",
+    "modelVerification": "来源作者明确标注Sony Access Controller；逐图核对环形白色可更换按键、黑色中央圆盘、连接摇杆与三件外接输入设备。文件名2为照片序号，不代表第二代。",
+    "visualReview": "实拍可见Access本体完整环形布局、独立摇杆及下方三件Logitech外接按钮/扳机；保留完整搭配场景，图注说明外接设备不属于控制器标配。",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "samsung-t7-2020",
+    "title": "Samsung external ssd connected to a laptop",
+    "caption": "普通Portable SSD T7连接电脑的实物照片；平滑金属外壳，不是带橡胶包覆的T7 Shield或指纹识别的T7 Touch。照片不用于证明首发年份或容量。",
+    "modelVerification": "原作者明确标注Samsung T7 Portable ssd，2025-09-02发布；亲看外壳平滑无Shield纹理和Touch指纹方框，连接线与自然实物摄影可辨。年份是摄影日期，不等于产品上市年份。",
+    "visualReview": "亲自单张查看1600px已下载实拍：前景T7平滑金属外壳、Samsung标识及USB连接清晰，无Touch指纹区、无Shield包覆；非白底渲染。",
+    "researchFile": "docs/evidence/photo-expansion/round3/normalized-research/samsung-t7-2020.json",
+    "status": "visually-reviewed",
+    "checkedOn": "2026-10-15"
+  },
+  {
+    "slug": "samsung-the-freestyle-2022",
+    "researchFile": "docs/evidence/photo-expansion/round3/normalized-research/samsung-the-freestyle-2022.json",
+    "title": "The Freestyle 国内发布原始照片1（2022-01-27）",
+    "status": "visually-reviewed",
+    "checkedOn": "2026-10-15",
+    "caption": "2022年初代The Freestyle的三星官方场景实拍，桌面圆筒投影机与可转动支架可见；人物、布景和投影画面属于宣传拍摄，不用于证明亮度或画质。",
+    "modelVerification": "2022-01-27原始发布稿明确是CES2022首次发布的The Freestyle；早于第二代，原目录范围为2022款，无跨地区SKU配置推定。",
+    "visualReview": "亲自完整查看1000×660原图：两位模特、桌面投影机、接线、支架与实际房间场景，主体为物理设备；无底部SamsungNewsroom受限水印。背景投影为宣传画面，不视为画质实测。",
+    "licenseVerification": "三星韩国新闻室逐图原图转载许可；不裁切、不改色、不转码，发布字节SHA256与原图一致。"
+  },
+  {
+    "slug": "samsung-galaxy-xr",
+    "title": "Galaxy XR 韩国发布现场展示原始照片14（2025-10-23）",
+    "caption": "2025年10月韩国Galaxy XR商用发布现场的实物展示；原图含两个角度，保持三星发布的原始JPEG，不裁切、转码或改画。",
+    "modelVerification": "原稿明确10月22日韩国首次商用产品发布活动，末幅图注为三星江南媒体简报展示的Galaxy XR。原图展台印有Galaxy XR，机身传感器、镜片和头带可见，排除2024 Project Moohan原型资料。",
+    "visualReview": "亲自单张查看1000×333原始JPEG：展台实拍的两个角度组成原图；无底部SamsungNewsroom受限水印，无外部署名或外部图片来源标记。未进行任何图像加工。",
+    "researchFile": "docs/evidence/photo-expansion/round3/normalized-research/samsung-galaxy-xr.json",
+    "status": "visually-reviewed",
+    "checkedOn": "2026-10-15",
+    "licenseVerification": "原图依据Samsung Korea新闻室自制图片许可原样转载；原JPEG的文件SHA256保持一致。"
+  }
+]

@@ -1,0 +1,103 @@
+{
+  "slug": "sharp-r10",
+  "query": "Sharp R10 microwave",
+  "checkedOn": "2026-10-15",
+  "data": {
+    "batchcomplete": "",
+    "query": {
+      "pages": {
+        "93706786": {
+          "pageid": 93706786,
+          "ns": 6,
+          "title": "File:Design of a carrier-telephone translator. (IA designofcarriert00tyne).pdf",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Design_of_a_carrier-telephone_translator._%28IA_designofcarriert00tyne%29.pdf/page1-960px-Design_of_a_carrier-telephone_translator._%28IA_designofcarriert00tyne%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1235,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Design_of_a_carrier-telephone_translator._%28IA_designofcarriert00tyne%29.pdf/page1-960px-Design_of_a_carrier-telephone_translator._%28IA_designofcarriert00tyne%29.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1235
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Design_of_a_carrier-telephone_translator._%28IA_designofcarriert00tyne%29.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Design_of_a_carrier-telephone_translator._(IA_designofcarriert00tyne).pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=93706786",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2020-08-31 11:59:14",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "<div class=\"fn\">\nDesign of a carrier-telephone translator.</div>",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "PD US Government|FEDLINK - United States Federal Collection|Scans from the Internet Archive/unverified|CC-PD-Mark|Scans from the Internet Archive|Books uploaded by Fæ|Books without Wikidata item",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nTyner, Jimmie Cortez</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<dl><dd>Thesis (M.S. in E.E.)--Naval Postgraduate School, 1969</dd>\n<dd>Bibliography: p. 48</dd>\n<dd>Internally distributed report</dd></dl>\n<br>Subjects:</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<dl><dd><a rel=\"mw:WikiLink/Interwiki\" href=\"//archive.org/details/designofcarriert00tyne\" title=\"iarchive:designofcarriert00tyne\" class=\"extiw\"><bdi class=\"description en\" lang=\"en\" dir=\"ltr\">Internet Archive identifier</bdi>: designofcarriert00tyne</a><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive#Design%20of%20a%20carrier-telephone%20translator.%20(IA%20designofcarriert00tyne).pdf\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive\"><link rel=\"mw:PageProp/Category\" href=\"./Category:Scans_from_the_Internet_Archive/unverified#Design%20of%20a%20carrier-telephone%20translator.%20(IA%20designofcarriert00tyne).pdf\"></dd>\n<dd><a rel=\"mw:ExtLink nofollow\" href=\"https://archive.org/download/designofcarriert00tyne/designofcarriert00tyne.pdf\" class=\"external free\">https://archive.org/download/designofcarriert00tyne/designofcarriert00tyne.pdf</a></dd></dl>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

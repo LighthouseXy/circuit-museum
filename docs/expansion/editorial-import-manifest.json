@@ -1,0 +1,490 @@
+{
+  "assembledOn": "2026-10-13",
+  "status": "staged-prose-delivery-not-production-acceptance",
+  "actualProductionObserved": 54,
+  "additionalUniqueReady": 122,
+  "potentialCompleteCoverage": 176,
+  "selectionCount": 216,
+  "remainingDossiers": 40,
+  "navigation": [
+    "首页",
+    "馆藏",
+    "产品编年史",
+    "关于"
+  ],
+  "productionSha256Observed": "17324ff805a9ccb4786dbe1d9c0086e35b1e79c336f7e69b02b673f5fcdca213",
+  "checks": [
+    "Identity and proposed IDs preserved against preceding natural import packets",
+    "Every nested sourceId/sourceIds/paragraphSources resolves",
+    "Related links refer only to current production, previous packets or same packet",
+    "Original40 excluded from new import/revision packets",
+    "136 distinct new-product texts, including14 already imported and122 additional",
+    "Five nonempty prose sections plus readerTakeaway; at least825 Han characters is an auxiliary check",
+    "Production bytes unchanged during assembly"
+  ],
+  "packets": [
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-batch-14.json",
+      "count": 14,
+      "slugs": [
+        "casio-f91w",
+        "epson-ep101",
+        "ericsson-ericofon",
+        "framework-laptop-13-2021",
+        "ibm-thinkpad-701c",
+        "logitech-mx-master-3",
+        "nintendo-switch-2",
+        "nokia-3310-2000",
+        "osborne-1",
+        "sony-cdp-101",
+        "sony-playstation-5-pro",
+        "sony-playstation-vr-cuh-zvr1",
+        "sony-xel-1",
+        "toshiba-er4"
+      ],
+      "action": "review-already-imported-revisions-no-append",
+      "coverageIfApplied": 54,
+      "ids": {
+        "sony-cdp-101": "41",
+        "casio-f91w": "42",
+        "ibm-thinkpad-701c": "43",
+        "nokia-3310-2000": "44",
+        "logitech-mx-master-3": "45",
+        "framework-laptop-13-2021": "46",
+        "osborne-1": "47",
+        "epson-ep101": "48",
+        "toshiba-er4": "49",
+        "ericsson-ericofon": "50",
+        "sony-xel-1": "51",
+        "sony-playstation-vr-cuh-zvr1": "52",
+        "nintendo-switch-2": "53",
+        "sony-playstation-5-pro": "54"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-compute-01.json",
+      "count": 4,
+      "slugs": [
+        "hp-65",
+        "roland-tb303",
+        "roland-tr808",
+        "yamaha-dx7"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 58,
+      "ids": {
+        "hp-65": "55",
+        "roland-tr808": "56",
+        "roland-tb303": "57",
+        "yamaha-dx7": "58"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-compute-02.json",
+      "count": 4,
+      "slugs": [
+        "apple-newton-messagepad-1993",
+        "hp-laserjet-1984",
+        "iomega-zip100",
+        "teac-portastudio144"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 62,
+      "ids": {
+        "teac-portastudio144": "59",
+        "hp-laserjet-1984": "60",
+        "apple-newton-messagepad-1993": "61",
+        "iomega-zip100": "62"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-compute-03.json",
+      "count": 4,
+      "slugs": [
+        "kobo-touch-2011",
+        "logitech-k380-2015",
+        "pfu-scansnap-fi4110eox",
+        "samsung-t7-2020"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 66,
+      "ids": {
+        "pfu-scansnap-fi4110eox": "63",
+        "logitech-k380-2015": "64",
+        "kobo-touch-2011": "65",
+        "samsung-t7-2020": "66"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-gaming-01.json",
+      "count": 8,
+      "slugs": [
+        "nintendo-switch-2017",
+        "sony-playstation-2",
+        "sony-playstation-3",
+        "sony-playstation-4",
+        "sony-playstation-4-pro",
+        "sony-playstation-5",
+        "sony-playstation-vita",
+        "sony-psp-1000"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 74,
+      "ids": {
+        "sony-playstation-2": "67",
+        "sony-psp-1000": "68",
+        "sony-playstation-3": "69",
+        "sony-playstation-vita": "70",
+        "sony-playstation-4": "71",
+        "sony-playstation-4-pro": "72",
+        "sony-playstation-5": "73",
+        "nintendo-switch-2017": "74"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-gaming-02.json",
+      "count": 8,
+      "slugs": [
+        "nintendo-3ds",
+        "nintendo-64",
+        "nintendo-game-boy-advance",
+        "nintendo-game-boy-color",
+        "nintendo-gamecube",
+        "nintendo-super-famicom",
+        "nintendo-switch-lite",
+        "nintendo-wii-u"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 82,
+      "ids": {
+        "nintendo-super-famicom": "75",
+        "nintendo-64": "76",
+        "nintendo-game-boy-color": "77",
+        "nintendo-game-boy-advance": "78",
+        "nintendo-gamecube": "79",
+        "nintendo-3ds": "80",
+        "nintendo-wii-u": "81",
+        "nintendo-switch-lite": "82"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-gaming-03.json",
+      "count": 7,
+      "slugs": [
+        "nintendo-color-tv-game-15",
+        "nintendo-game-watch-ball-1980",
+        "nintendo-virtual-boy-jp",
+        "sega-dreamcast-jp",
+        "sony-access-controller",
+        "valve-steam-controller-2015",
+        "xbox-adaptive-controller"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 89,
+      "ids": {
+        "nintendo-color-tv-game-15": "134",
+        "nintendo-game-watch-ball-1980": "135",
+        "nintendo-virtual-boy-jp": "136",
+        "sega-dreamcast-jp": "137",
+        "xbox-adaptive-controller": "138",
+        "valve-steam-controller-2015": "139",
+        "sony-access-controller": "140"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-gaming-04.json",
+      "count": 7,
+      "slugs": [
+        "asus-rog-ally-2023",
+        "asus-rog-xbox-ally-x",
+        "lenovo-legion-go-2023",
+        "msi-claw-a1m",
+        "sony-playstation-portal",
+        "valve-steam-controller-2026",
+        "valve-steam-machine-2026"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 96,
+      "ids": {
+        "sony-playstation-portal": "163",
+        "asus-rog-ally-2023": "164",
+        "lenovo-legion-go-2023": "165",
+        "msi-claw-a1m": "166",
+        "asus-rog-xbox-ally-x": "167",
+        "valve-steam-controller-2026": "168",
+        "valve-steam-machine-2026": "169"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-home-01.json",
+      "count": 7,
+      "slugs": [
+        "dyson-dc01",
+        "kenwood-chef-a700",
+        "kitchenaid-h5",
+        "national-ec36",
+        "sharp-r10",
+        "toastmaster-1a1",
+        "western-electric-500"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 103,
+      "ids": {
+        "kitchenaid-h5": "83",
+        "toastmaster-1a1": "84",
+        "kenwood-chef-a700": "85",
+        "national-ec36": "86",
+        "sharp-r10": "87",
+        "dyson-dc01": "88",
+        "western-electric-500": "89"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-home-02.json",
+      "count": 8,
+      "slugs": [
+        "braun-hl1",
+        "braun-sixtant-sm31",
+        "garmin-gps155-tso",
+        "hoover-constellation-444",
+        "magellan-nav1000",
+        "motorola-pageboy-i",
+        "omron-hem1",
+        "western-electric-picturephone-mod-ii"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 111,
+      "ids": {
+        "hoover-constellation-444": "90",
+        "braun-hl1": "91",
+        "braun-sixtant-sm31": "92",
+        "motorola-pageboy-i": "93",
+        "western-electric-picturephone-mod-ii": "94",
+        "omron-hem1": "95",
+        "magellan-nav1000": "96",
+        "garmin-gps155-tso": "97"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-home-03.json",
+      "count": 8,
+      "slugs": [
+        "apple-airport-1999",
+        "avm-fritzbox-2004",
+        "husqvarna-solar-mower-1995",
+        "irobot-roomba-2002",
+        "philips-airfryer-hd9220",
+        "sony-aibo-ers110",
+        "tomtom-go-2004",
+        "violet-nabaztag-v1"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 119,
+      "ids": {
+        "husqvarna-solar-mower-1995": "98",
+        "apple-airport-1999": "99",
+        "sony-aibo-ers110": "100",
+        "irobot-roomba-2002": "101",
+        "avm-fritzbox-2004": "102",
+        "tomtom-go-2004": "103",
+        "violet-nabaztag-v1": "104",
+        "philips-airfryer-hd9220": "105"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-home-04.json",
+      "count": 8,
+      "slugs": [
+        "amazon-echo-1",
+        "google-home-2016",
+        "nest-learning-thermostat-1",
+        "nest-protect-1",
+        "perkins-smart-brailler",
+        "philips-hue-2012",
+        "sony-aibo-ers-1000",
+        "vorwerk-thermomix-tm5"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 127,
+      "ids": {
+        "nest-learning-thermostat-1": "141",
+        "perkins-smart-brailler": "142",
+        "philips-hue-2012": "143",
+        "nest-protect-1": "144",
+        "amazon-echo-1": "145",
+        "vorwerk-thermomix-tm5": "146",
+        "google-home-2016": "147",
+        "sony-aibo-ers-1000": "148"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-home-05.json",
+      "count": 7,
+      "slugs": [
+        "aqara-presence-fp2",
+        "aqara-spatial-fp400",
+        "humanware-victor-reader-stream-3",
+        "ikea-dirigera",
+        "roborock-s7",
+        "sourcenext-pocketalk-w",
+        "switchbot-s10"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 134,
+      "ids": {
+        "sourcenext-pocketalk-w": "156",
+        "roborock-s7": "157",
+        "ikea-dirigera": "158",
+        "aqara-presence-fp2": "159",
+        "humanware-victor-reader-stream-3": "160",
+        "switchbot-s10": "161",
+        "aqara-spatial-fp400": "162"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-imaging-01.json",
+      "count": 7,
+      "slugs": [
+        "lg-signature-oled-r-rx",
+        "rca-630ts",
+        "samsung-the-frame-ls003",
+        "samsung-the-sero-ls05t",
+        "sharp-aquos-lc20c1",
+        "sony-kv-1310",
+        "sony-tv8-301"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 141,
+      "ids": {
+        "rca-630ts": "106",
+        "sony-tv8-301": "107",
+        "sony-kv-1310": "108",
+        "sharp-aquos-lc20c1": "109",
+        "samsung-the-frame-ls003": "110",
+        "samsung-the-sero-ls05t": "111",
+        "lg-signature-oled-r-rx": "112"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-imaging-02.json",
+      "count": 7,
+      "slugs": [
+        "epson-vpj-700",
+        "htc-vive-2016",
+        "lg-oled-evo-m5-65",
+        "lg-stanbyme-go-27lx5qkna",
+        "microsoft-hololens-2",
+        "samsung-micro-rgb-r95h-65",
+        "samsung-the-freestyle-2022"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 148,
+      "ids": {
+        "epson-vpj-700": "113",
+        "samsung-the-freestyle-2022": "114",
+        "lg-stanbyme-go-27lx5qkna": "115",
+        "lg-oled-evo-m5-65": "116",
+        "samsung-micro-rgb-r95h-65": "117",
+        "htc-vive-2016": "118",
+        "microsoft-hololens-2": "119"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-imaging-03.json",
+      "count": 7,
+      "slugs": [
+        "apple-vision-pro-m2",
+        "canon-ae-1",
+        "meta-quest-3",
+        "oculus-quest-2019",
+        "samsung-galaxy-xr",
+        "sony-betamax-sl-6300",
+        "sony-playstation-vr2"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 155,
+      "ids": {
+        "oculus-quest-2019": "120",
+        "meta-quest-3": "121",
+        "sony-playstation-vr2": "122",
+        "apple-vision-pro-m2": "123",
+        "samsung-galaxy-xr": "124",
+        "sony-betamax-sl-6300": "125",
+        "canon-ae-1": "126"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-imaging-04.json",
+      "count": 7,
+      "slugs": [
+        "canon-eos-650",
+        "canon-rc-701",
+        "kodak-dcs-1991",
+        "nikon-coolscan-ls-10",
+        "nikon-f3",
+        "sony-ccd-tr55",
+        "sony-ccd-v8"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 162,
+      "ids": {
+        "nikon-f3": "127",
+        "sony-ccd-v8": "128",
+        "canon-rc-701": "129",
+        "canon-eos-650": "130",
+        "sony-ccd-tr55": "131",
+        "kodak-dcs-1991": "132",
+        "nikon-coolscan-ls-10": "133"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-imaging-05.json",
+      "count": 7,
+      "slugs": [
+        "canon-eos-5d-mark-ii",
+        "canon-powershot-600",
+        "canon-xl1",
+        "nikon-coolpix-300",
+        "nikon-coolpix-900",
+        "nikon-d1",
+        "sony-dcr-vx1000"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 169,
+      "ids": {
+        "sony-dcr-vx1000": "149",
+        "canon-powershot-600": "150",
+        "nikon-coolpix-300": "151",
+        "canon-xl1": "152",
+        "nikon-coolpix-900": "153",
+        "nikon-d1": "154",
+        "canon-eos-5d-mark-ii": "155"
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-imaging-06.json",
+      "count": 7,
+      "slugs": [
+        "dji-phantom-2013",
+        "fujifilm-finepix-x100",
+        "insta360-x5",
+        "olympus-pen-e-p1",
+        "panasonic-lumix-dc-tz300",
+        "panasonic-lumix-dmc-g1",
+        "ricoh-gr-iii"
+      ],
+      "action": "validate-and-import-new-products",
+      "coverageIfApplied": 176,
+      "ids": {
+        "panasonic-lumix-dmc-g1": "170",
+        "olympus-pen-e-p1": "171",
+        "fujifilm-finepix-x100": "172",
+        "dji-phantom-2013": "173",
+        "ricoh-gr-iii": "174",
+        "insta360-x5": "175",
+        "panasonic-lumix-dc-tz300": "176"
+      }
+    }
+  ],
+  "acceptanceBoundary": "Ready coverage176 is research delivery. Actual production remains54 until original implementation imports, builds and checks pages. Source verification dates/scopes remain their individual records."
+}

@@ -1,0 +1,104 @@
+{
+  "slug": "irobot-roomba-2002",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Roomba original.jpg",
+      "pageid": 610397,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Roomba_original.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Roomba_original.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Roomba_original.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2010-07-21 18:51:58",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Roomba original",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Taken with Kodak EasyShare Z740|Roomba|Files by User:Nv8200p|Self-published work|Electronic devices on white background|United States photographs taken on 2006-02-27",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "First generation <a href=\"https://en.wikipedia.org/wiki/Roomba\" class=\"extiw\" title=\"w:Roomba\">Roomba</a> (Roomba is a trademark of <a href=\"https://en.wikipedia.org/wiki/iRobot\" class=\"extiw\" title=\"en:iRobot\">iRobot</a>).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Taken on 27 February 2006",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"https://en.wikipedia.org/wiki/User:Nv8200pa\" class=\"extiw\" title=\"en:User:Nv8200pa\">Larry D. Moore</a>",
+          "source": "commons-desc-page"
+        },
+        "Permission": {
+          "value": "© 2006 Larry D. Moore. Licensed under <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">CC BY 4.0</a>.<br><b>Attribution Specification:</b> Reuse without attribution is a violation of the license. The photographer's name and the link to the license are required. A link back to this source is requested. Example: <i>Larry D. Moore, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">CC BY 4.0</a>, Wikimedia Commons</i>.",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseShortName": {
+          "value": "CC BY 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Attribution": {
+          "value": "Larry D. Moore",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "First generation  Roomba  (Roomba is a trademark of  iRobot ).",
+      "artist": "Larry D. Moore",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "date": "Taken on 27 February 2006"
+    }
+  ]
+}

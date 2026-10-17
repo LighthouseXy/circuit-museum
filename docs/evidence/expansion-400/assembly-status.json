@@ -1,0 +1,20 @@
+{
+  "target": 400,
+  "baseline": 176,
+  "uniqueCandidates": 224,
+  "requiredAdditions": 224,
+  "pendingParagraphs": [],
+  "excludedCandidates": {
+    "pegiant-power-station": "获奖登记名未锁定准确商业型号，不跨版本导入参数。",
+    "bosch-accent-line-coffee": "获奖对象为系列，尚未核准单一商业型号。",
+    "philips-e7000": "显示器系列缺少唯一型号，保留为研究候选。",
+    "philips-air-purifier-600": "系列记录尚未核准具体AC型号。",
+    "philips-homerun-3000-aqua": "系列命名未确认唯一型号范围。",
+    "hp-pavilion-all-in-one-desktop": "产品家族记录缺少明确配置型号。",
+    "asko-elements-wine-climate-cabinet": "系列酒柜缺少本条对应的唯一商业型号。",
+    "soundblade": "2023获奖MSB60与现售Soundblade官方接口及功率存在差异，暂不跨版本使用。",
+    "asus-zenbook17-fold": "已核查备用产品；本轮400件范围暂不加入。",
+    "canon-octr1": "已核查备用产品；本轮400件范围暂不加入。"
+  },
+  "automaticApproval": false
+}

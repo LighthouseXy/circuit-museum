@@ -1,0 +1,70 @@
+{
+  "query": "Valve Steam Machine 2026",
+  "checkedOn": "2026-10-15",
+  "result_count": 2,
+  "page_count": 1,
+  "page_size": 20,
+  "page": 1,
+  "results": [
+    {
+      "id": "cc555a73-3e23-42f3-aa79-a269a300c750",
+      "title": "Steam machine back",
+      "indexed_on": "2026-07-09T00:19:45.361036Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=195330211",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Steam_machine_back.jpg",
+      "creator": "Masem",
+      "creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Masem&action=edit&redlink=1",
+      "license": "by-sa",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 3132308,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"Steam machine back\" by Masem is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 3000,
+      "width": 4000,
+      "thumbnail": "https://api.openverse.org/v1/images/cc555a73-3e23-42f3-aa79-a269a300c750/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/cc555a73-3e23-42f3-aa79-a269a300c750/",
+      "related_url": "https://api.openverse.org/v1/images/cc555a73-3e23-42f3-aa79-a269a300c750/related/",
+      "unstable__sensitivity": []
+    },
+    {
+      "id": "aed81224-8310-4839-b3c3-a681f7b1cad4",
+      "title": "Steam machine front",
+      "indexed_on": "2026-07-09T00:19:45.361036Z",
+      "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=195330210",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Steam_machine_front.jpg",
+      "creator": "Masem",
+      "creator_url": "https://commons.wikimedia.org/w/index.php?title=User:Masem&action=edit&redlink=1",
+      "license": "by-sa",
+      "license_version": "4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "provider": "wikimedia",
+      "source": "wikimedia",
+      "category": null,
+      "filesize": 3131178,
+      "filetype": "jpg",
+      "tags": [],
+      "attribution": "\"Steam machine front\" by Masem is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/.",
+      "fields_matched": [
+        "description",
+        "title"
+      ],
+      "mature": false,
+      "height": 3000,
+      "width": 4000,
+      "thumbnail": "https://api.openverse.org/v1/images/aed81224-8310-4839-b3c3-a681f7b1cad4/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/aed81224-8310-4839-b3c3-a681f7b1cad4/",
+      "related_url": "https://api.openverse.org/v1/images/aed81224-8310-4839-b3c3-a681f7b1cad4/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

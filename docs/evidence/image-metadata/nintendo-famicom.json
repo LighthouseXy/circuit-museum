@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Nintendo-Famicom-Console-Set-FL.png",
+  "creator": "Evan-Amos",
+  "license": "公有领域（作者释出）",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/File:Nintendo-Famicom-Console-Set-FL.png#Licensing",
+  "alt": "红白色 Famicom 主机与两只固定连线控制器",
+  "path": "/images/nintendo-famicom.webp",
+  "changes": "等比例缩小、WebP 转码",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Nintendo-Famicom-Console-Set-FL.png",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 4830,
+  "originalHeight": 2580,
+  "output": {
+    "format": "webp",
+    "width": 1100,
+    "height": 588,
+    "channels": 4,
+    "premultiplied": true,
+    "hasAlpha": true,
+    "size": 58764
+  }
+}

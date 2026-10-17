@@ -1,0 +1,222 @@
+{
+  "checkedOn": "2026-10-11",
+  "counts": {
+    "originalBaseline": 40,
+    "previousCompleteNew": 14,
+    "additionalCompleteNew": 122,
+    "completeNewTotal": 136,
+    "completeCoverageIncludingOriginal": 176,
+    "selectedTotal": 216,
+    "remainingSelectedDossiers": 40,
+    "actualProductionObserved": 54,
+    "actualProductionObservation": "文件去重数量；不是页面可达或布局验收证明",
+    "minimumActualStageTarget": 150,
+    "additionalNeededBeyondReadyFor150": 0
+  },
+  "packets": [
+    {
+      "file": "complete-batch-14.json",
+      "count": 14,
+      "minimumChineseCharacters": 906,
+      "maximumChineseCharacters": 1153,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-compute-01.json",
+      "count": 4,
+      "minimumChineseCharacters": 965,
+      "maximumChineseCharacters": 982,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-compute-02.json",
+      "count": 4,
+      "minimumChineseCharacters": 952,
+      "maximumChineseCharacters": 982,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-compute-03.json",
+      "count": 4,
+      "minimumChineseCharacters": 941,
+      "maximumChineseCharacters": 957,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-gaming-01.json",
+      "count": 8,
+      "minimumChineseCharacters": 1000,
+      "maximumChineseCharacters": 1090,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-gaming-02.json",
+      "count": 8,
+      "minimumChineseCharacters": 995,
+      "maximumChineseCharacters": 1051,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-gaming-03.json",
+      "count": 7,
+      "minimumChineseCharacters": 1044,
+      "maximumChineseCharacters": 1072,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-gaming-04.json",
+      "count": 7,
+      "minimumChineseCharacters": 1020,
+      "maximumChineseCharacters": 1066,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-home-01.json",
+      "count": 7,
+      "minimumChineseCharacters": 932,
+      "maximumChineseCharacters": 979,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-home-02.json",
+      "count": 8,
+      "minimumChineseCharacters": 900,
+      "maximumChineseCharacters": 931,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-home-03.json",
+      "count": 8,
+      "minimumChineseCharacters": 888,
+      "maximumChineseCharacters": 922,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-home-04.json",
+      "count": 8,
+      "minimumChineseCharacters": 869,
+      "maximumChineseCharacters": 919,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-home-05.json",
+      "count": 7,
+      "minimumChineseCharacters": 861,
+      "maximumChineseCharacters": 913,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-imaging-01.json",
+      "count": 7,
+      "minimumChineseCharacters": 934,
+      "maximumChineseCharacters": 969,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-imaging-02.json",
+      "count": 7,
+      "minimumChineseCharacters": 925,
+      "maximumChineseCharacters": 982,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-imaging-03.json",
+      "count": 7,
+      "minimumChineseCharacters": 841,
+      "maximumChineseCharacters": 919,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-imaging-04.json",
+      "count": 7,
+      "minimumChineseCharacters": 864,
+      "maximumChineseCharacters": 898,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-imaging-05.json",
+      "count": 7,
+      "minimumChineseCharacters": 856,
+      "maximumChineseCharacters": 893,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    },
+    {
+      "file": "complete-wave-imaging-06.json",
+      "count": 7,
+      "minimumChineseCharacters": 848,
+      "maximumChineseCharacters": 902,
+      "referenceClosure": true,
+      "linkClosure": true,
+      "proseStatus": "complete-five-sections",
+      "mediaRights": "text-fallback"
+    }
+  ],
+  "integrityChecks": {
+    "frozen40Preserved": true,
+    "uniqueSelectedModels": true,
+    "fiveSectionMinimum825": true,
+    "nestedSourceClosure": true,
+    "packetAndCumulativeRelatedLinks": true,
+    "opinionAttribution": true,
+    "noUnreviewedMedia": true
+  },
+  "limits": [
+    "结构断言不等于逐份原始来源全文重读或实物体验。",
+    "生产文件数量观察不替代原实现的实际可浏览验收。",
+    "双核心和全生命周期额外稿仅作后续规划，不作为本轮必须或验收条件。"
+  ]
+}

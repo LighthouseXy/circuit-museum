@@ -1,0 +1,12 @@
+{
+  "testedAt": "2026-10-15T06:05:07.312Z",
+  "base": "http://127.0.0.1:4173",
+  "resumedFrom": null,
+  "checks": [
+    "No horizontal overflow and primary images render at 320px on all page types"
+  ],
+  "errors": [],
+  "exhibitCount": 400,
+  "failure": "AssertionError [ERR_ASSERTION]: First product photo or record must enter the initial mobile viewport\n    at file:///Users/xyu/Program/circuit-museum/tests/expanded-browser.mjs:83:9",
+  "url": "http://127.0.0.1:4173/exhibits/"
+}

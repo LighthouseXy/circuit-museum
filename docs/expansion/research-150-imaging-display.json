@@ -1,0 +1,3917 @@
+{
+  "scope": "图像输入、电子相机/摄像机、电视/显示/投影、商品化VR/AR；现40及旧51排除；正式建议不等于ready或导入。",
+  "checkedOn": "2026-10-11",
+  "candidates": [
+    {
+      "id": "IMG001",
+      "slug": "canon-rc-701",
+      "name": "RC-701",
+      "brand": "Canon",
+      "year": 1986,
+      "dateLabel": "1986-07（日本上市档案）",
+      "dateKind": "launch",
+      "regionVersion": "日本市场档案；RC-701非1984实验机",
+      "productFamily": "Still Video",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "把模拟静态视频与数字照片区分，补入电子摄影的另一条路线。",
+      "keyFacts": [
+        {
+          "text": "1986-07（日本上市档案）",
+          "sourceIds": [
+            "I150-S001"
+          ]
+        },
+        {
+          "text": "CCD记录到Still Video软盘，属于模拟记录。",
+          "sourceIds": [
+            "I150-S002"
+          ]
+        },
+        {
+          "text": "专用卡口，可经适配器用FD镜头。",
+          "sourceIds": [
+            "I150-S001"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S001",
+        "I150-S002"
+      ],
+      "identitySourceIds": [
+        "I150-S001",
+        "I150-S002"
+      ],
+      "dateSourceIds": [
+        "I150-S001"
+      ],
+      "evidenceLimits": [
+        "无独立销量/长期使用样本；仅完整身份关键事实档案，非完整入库稿。"
+      ],
+      "gapContribution": "把模拟静态视频与数字照片区分，补入电子摄影的另一条路线。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不将厂商便利/首创宣传推为社会效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG002",
+      "slug": "canon-eos-650",
+      "name": "EOS 650",
+      "brand": "Canon",
+      "year": 1987,
+      "dateLabel": "1987-03（日本上市）",
+      "dateKind": "launch",
+      "regionVersion": "原EOS650；不混EOS650 QD日期背",
+      "productFamily": "EOS film",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "电子卡口把镜头驱动和机身通信重新组织；胶片相机也可作为电子产品。",
+      "keyFacts": [
+        {
+          "text": "1987-03（日本上市）",
+          "sourceIds": [
+            "I150-S003"
+          ]
+        },
+        {
+          "text": "EF卡口只在镜头与机身间交换电子信号。",
+          "sourceIds": [
+            "I150-S003"
+          ]
+        },
+        {
+          "text": "电子快门、自动输片、6V 2CR5供电。",
+          "sourceIds": [
+            "I150-S003"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S003",
+        "I150-S004"
+      ],
+      "identitySourceIds": [
+        "I150-S003",
+        "I150-S004"
+      ],
+      "dateSourceIds": [
+        "I150-S003"
+      ],
+      "evidenceLimits": [
+        "无独立销量/长期使用样本；仅完整身份关键事实档案，非完整入库稿。"
+      ],
+      "gapContribution": "电子卡口把镜头驱动和机身通信重新组织；胶片相机也可作为电子产品。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不将厂商便利/首创宣传推为社会效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG003",
+      "slug": "canon-powershot-600",
+      "name": "PowerShot 600",
+      "brand": "Canon",
+      "year": 1996,
+      "dateLabel": "1996-07（日本）",
+      "dateKind": "launch",
+      "regionVersion": "日本国内规格；非后续600N",
+      "productFamily": "PowerShot",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "补入没有即时LCD预览、依赖电脑传输的日常数码相机。",
+      "keyFacts": [
+        {
+          "text": "1996-07（日本）",
+          "sourceIds": [
+            "I150-S005"
+          ]
+        },
+        {
+          "text": "光学取景器、没有LCD。",
+          "sourceIds": [
+            "I150-S005"
+          ]
+        },
+        {
+          "text": "内置1MB闪存并接受PC卡。",
+          "sourceIds": [
+            "I150-S005"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S005",
+        "I150-S006"
+      ],
+      "identitySourceIds": [
+        "I150-S005",
+        "I150-S006"
+      ],
+      "dateSourceIds": [
+        "I150-S005"
+      ],
+      "evidenceLimits": [
+        "无独立销量/长期使用样本；仅完整身份关键事实档案，非完整入库稿。"
+      ],
+      "gapContribution": "补入没有即时LCD预览、依赖电脑传输的日常数码相机。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不将厂商便利/首创宣传推为社会效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG004",
+      "slug": "canon-xl1",
+      "name": "XL1",
+      "brand": "Canon",
+      "year": 1998,
+      "dateLabel": "1998-02（日本）",
+      "dateKind": "launch",
+      "regionVersion": "档案日本版，不混XL1S",
+      "productFamily": "XL DV",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "以可换镜头的DV摄像机补入移动制作工具，与固定镜头家庭机形成对照。",
+      "keyFacts": [
+        {
+          "text": "1998-02（日本）",
+          "sourceIds": [
+            "I150-S007"
+          ]
+        },
+        {
+          "text": "三片CCD分别处理RGB，专用XL卡口。",
+          "sourceIds": [
+            "I150-S007"
+          ]
+        },
+        {
+          "text": "DV端口基于IEEE1394。",
+          "sourceIds": [
+            "I150-S007"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S007",
+        "I150-S008"
+      ],
+      "identitySourceIds": [
+        "I150-S007",
+        "I150-S008"
+      ],
+      "dateSourceIds": [
+        "I150-S007"
+      ],
+      "evidenceLimits": [
+        "无独立销量/长期使用样本；仅完整身份关键事实档案，非完整入库稿。"
+      ],
+      "gapContribution": "以可换镜头的DV摄像机补入移动制作工具，与固定镜头家庭机形成对照。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不将厂商便利/首创宣传推为社会效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG005",
+      "slug": "canon-eos-5d-mark-ii",
+      "name": "EOS 5D Mark II",
+      "brand": "Canon",
+      "year": 2008,
+      "dateLabel": "2008-11（日本上市）",
+      "dateKind": "launch",
+      "regionVersion": "原MarkII；不转用后续固件的所有帧率",
+      "productFamily": "EOS digital",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "一台可换镜头相机把静态照片与视频放到同一机身，补入任务交叠。",
+      "keyFacts": [
+        {
+          "text": "2008-11（日本上市）",
+          "sourceIds": [
+            "I150-S009"
+          ]
+        },
+        {
+          "text": "约2110万有效像素，全画幅CMOS。",
+          "sourceIds": [
+            "I150-S009"
+          ]
+        },
+        {
+          "text": "原档案列1920×1080、30fps与CF介质。",
+          "sourceIds": [
+            "I150-S009"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S009",
+        "I150-S010"
+      ],
+      "identitySourceIds": [
+        "I150-S009",
+        "I150-S010"
+      ],
+      "dateSourceIds": [
+        "I150-S009"
+      ],
+      "evidenceLimits": [
+        "无独立销量/长期使用样本；仅完整身份关键事实档案，非完整入库稿。"
+      ],
+      "gapContribution": "一台可换镜头相机把静态照片与视频放到同一机身，补入任务交叠。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不将厂商便利/首创宣传推为社会效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG006",
+      "slug": "rca-630ts",
+      "name": "630TS 桌面电视",
+      "brand": "RCA",
+      "year": 1946,
+      "dateLabel": "1946–1948（所编实物制造范围，排序取起年）",
+      "dateKind": "manufacture",
+      "regionVersion": "美国桌面KCS20A；不混底盘/套件销售形式",
+      "productFamily": "630TS",
+      "categoryProposal": "display",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "补入战后电子管桌面电视与机柜/底盘生产组织。",
+      "keyFacts": [
+        {
+          "text": "1946–1948（所编实物制造范围，排序取起年）",
+          "sourceIds": [
+            "I150-S011"
+          ]
+        },
+        {
+          "text": "博物馆实物铭牌为115V、60Hz。",
+          "sourceIds": [
+            "I150-S011"
+          ]
+        },
+        {
+          "text": "可见桌面、底盘与套件多种销售形式的档案说明。",
+          "sourceIds": [
+            "I150-S011"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S011",
+        "I150-S012"
+      ],
+      "identitySourceIds": [
+        "I150-S011",
+        "I150-S012"
+      ],
+      "dateSourceIds": [
+        "I150-S011"
+      ],
+      "evidenceLimits": [
+        "无独立销量/长期使用样本；仅完整身份关键事实档案，非完整入库稿。"
+      ],
+      "gapContribution": "补入战后电子管桌面电视与机柜/底盘生产组织。",
+      "relatedExistingSlugs": [
+        "magnavox-odyssey"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不将厂商便利/首创宣传推为社会效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG007",
+      "slug": "sony-tv8-301",
+      "name": "TV8-301",
+      "brand": "Sony",
+      "year": 1960,
+      "dateLabel": "1960-05（原厂上市回顾）",
+      "dateKind": "launch",
+      "regionVersion": "日本原TV8-301；不混TV5-303",
+      "productFamily": "portable television",
+      "categoryProposal": "display",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "把电视从固定家庭机柜转为可携带个人设备。",
+      "keyFacts": [
+        {
+          "text": "1960-05（原厂上市回顾）",
+          "sourceIds": [
+            "I150-S014"
+          ]
+        },
+        {
+          "text": "23个晶体管与19个二极管。",
+          "sourceIds": [
+            "I150-S013"
+          ]
+        },
+        {
+          "text": "可选择三种供电输入。",
+          "sourceIds": [
+            "I150-S013"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S013",
+        "I150-S014"
+      ],
+      "identitySourceIds": [
+        "I150-S013",
+        "I150-S014"
+      ],
+      "dateSourceIds": [
+        "I150-S013",
+        "I150-S014"
+      ],
+      "evidenceLimits": [
+        "无独立销量/长期使用样本；仅完整身份关键事实档案，非完整入库稿。"
+      ],
+      "gapContribution": "把电视从固定家庭机柜转为可携带个人设备。",
+      "relatedExistingSlugs": [
+        "magnavox-odyssey"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不将厂商便利/首创宣传推为社会效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG008",
+      "slug": "sony-kv-1310",
+      "name": "KV-1310",
+      "brand": "Sony",
+      "year": 1968,
+      "dateLabel": "1968（日本原厂推出年份）",
+      "dateKind": "launch",
+      "regionVersion": "日本原型号；不混英国KV-1330UB",
+      "productFamily": "Trinitron",
+      "categoryProposal": "display",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "补入彩色CRT的栅格与电子枪结构路线。",
+      "keyFacts": [
+        {
+          "text": "1968（日本原厂推出年份）",
+          "sourceIds": [
+            "I150-S015"
+          ]
+        },
+        {
+          "text": "Trinitron使用三合一电子枪与孔径栅格。",
+          "sourceIds": [
+            "I150-S013"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S015",
+        "I150-S013"
+      ],
+      "identitySourceIds": [
+        "I150-S015",
+        "I150-S013"
+      ],
+      "dateSourceIds": [
+        "I150-S015"
+      ],
+      "evidenceLimits": [
+        "无独立销量/长期使用样本；仅完整身份关键事实档案，非完整入库稿。"
+      ],
+      "gapContribution": "补入彩色CRT的栅格与电子枪结构路线。",
+      "relatedExistingSlugs": [
+        "magnavox-odyssey"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不将厂商便利/首创宣传推为社会效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG009",
+      "slug": "sony-xel-1",
+      "name": "XEL-1",
+      "brand": "Sony",
+      "year": 2007,
+      "dateLabel": "2007-12（日本实际推出；公告计划日12-01）",
+      "dateKind": "launch",
+      "regionVersion": "日本数字电视版本；不混2008美国型号电源/调谐器",
+      "productFamily": "OLED television",
+      "categoryProposal": "display",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "小屏OLED把屏幕厚度与基座分离，补入技术转折与面积限制。",
+      "keyFacts": [
+        {
+          "text": "2007-12（日本实际推出；公告计划日12-01）",
+          "sourceIds": [
+            "I150-S017"
+          ]
+        },
+        {
+          "text": "11英寸OLED，最薄部约3mm。",
+          "sourceIds": [
+            "I150-S016"
+          ]
+        },
+        {
+          "text": "年度报告确认2007年12月日本推出。",
+          "sourceIds": [
+            "I150-S017"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S017",
+        "I150-S016",
+        "I150-S073"
+      ],
+      "identitySourceIds": [
+        "I150-S017",
+        "I150-S016"
+      ],
+      "dateSourceIds": [
+        "I150-S017"
+      ],
+      "evidenceLimits": [
+        "五节稿在readyExhibits；2008美洲版手册仅用于共同OLED保养边界，不混入日本调谐器与软件。"
+      ],
+      "gapContribution": "小屏OLED把屏幕厚度与基座分离，补入技术转折与面积限制。",
+      "relatedExistingSlugs": [
+        "magnavox-odyssey"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不将厂商便利/首创宣传推为社会效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG010",
+      "slug": "sharp-aquos-lc20c1",
+      "name": "AQUOS LC-20C1",
+      "brand": "Sharp",
+      "year": 2001,
+      "dateLabel": "2001-01-01（日本）",
+      "dateKind": "launch",
+      "regionVersion": "20英寸LC20C1；不将13英寸延迟上市算此款日期",
+      "productFamily": "AQUOS",
+      "categoryProposal": "display",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "补入家中搬动、安装位置与LCD电视造型之间的联系。",
+      "keyFacts": [
+        {
+          "text": "2001-01-01（日本）",
+          "sourceIds": [
+            "I150-S018"
+          ]
+        },
+        {
+          "text": "喜多俊之设计的原AQUOS系列20英寸款。",
+          "sourceIds": [
+            "I150-S018"
+          ]
+        },
+        {
+          "text": "原厂档案列450cd/m²亮度，非独立实测。",
+          "sourceIds": [
+            "I150-S019"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S018",
+        "I150-S019"
+      ],
+      "identitySourceIds": [
+        "I150-S018",
+        "I150-S019"
+      ],
+      "dateSourceIds": [
+        "I150-S018"
+      ],
+      "evidenceLimits": [
+        "无独立销量/长期使用样本；仅完整身份关键事实档案，非完整入库稿。"
+      ],
+      "gapContribution": "补入家中搬动、安装位置与LCD电视造型之间的联系。",
+      "relatedExistingSlugs": [
+        "magnavox-odyssey"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不将厂商便利/首创宣传推为社会效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG011",
+      "slug": "htc-vive-2016",
+      "name": "VIVE 消费者版",
+      "brand": "HTC / Valve",
+      "year": 2016,
+      "dateLabel": "2016-04-05（首批预订发货）",
+      "dateKind": "launch",
+      "regionVersion": "2016消费者版；非Vive Pre开发者版",
+      "productFamily": "VIVE",
+      "categoryProposal": "immersive",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "房间范围追踪把清理空间、站位与电脑共同纳入VR使用。",
+      "keyFacts": [
+        {
+          "text": "2016-04-05（首批预订发货）",
+          "sourceIds": [
+            "I150-S020"
+          ]
+        },
+        {
+          "text": "HTC与Valve合作开发room-scale系统。",
+          "sourceIds": [
+            "I150-S021"
+          ]
+        },
+        {
+          "text": "日本7月由线上延伸至实体零售。",
+          "sourceIds": [
+            "I150-S021"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S020",
+        "I150-S021"
+      ],
+      "identitySourceIds": [
+        "I150-S020",
+        "I150-S021"
+      ],
+      "dateSourceIds": [
+        "I150-S020"
+      ],
+      "evidenceLimits": [
+        "仅身份/关键事实档案；没有完整正文者不可称可入库。"
+      ],
+      "gapContribution": "房间范围追踪把清理空间、站位与电脑共同纳入VR使用。",
+      "relatedExistingSlugs": [
+        "sony-playstation"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展比较不等于销量、普及率、健康或训练效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG012",
+      "slug": "oculus-quest-2019",
+      "name": "Oculus Quest 第一代",
+      "brand": "Oculus",
+      "year": 2019,
+      "dateLabel": "2019（五月计划发货，八月原厂确认已可获得）",
+      "dateKind": "launch",
+      "regionVersion": "第一代Quest，不混Quest2；容量合并",
+      "productFamily": "Quest",
+      "categoryProposal": "immersive",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "独立运算与inside-out追踪减少外置主机/追踪器，保留场地边界设置。",
+      "keyFacts": [
+        {
+          "text": "2019（五月计划发货，八月原厂确认已可获得）",
+          "sourceIds": [
+            "I150-S023"
+          ]
+        },
+        {
+          "text": "Quest独立运行，无需系到PC。",
+          "sourceIds": [
+            "I150-S022"
+          ]
+        },
+        {
+          "text": "Insight用相机和惯性数据追踪头和控制器。",
+          "sourceIds": [
+            "I150-S023"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S023",
+        "I150-S022"
+      ],
+      "identitySourceIds": [
+        "I150-S023",
+        "I150-S022"
+      ],
+      "dateSourceIds": [
+        "I150-S023"
+      ],
+      "evidenceLimits": [
+        "仅身份/关键事实档案；没有完整正文者不可称可入库。"
+      ],
+      "gapContribution": "独立运算与inside-out追踪减少外置主机/追踪器，保留场地边界设置。",
+      "relatedExistingSlugs": [
+        "sony-playstation"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展比较不等于销量、普及率、健康或训练效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG013",
+      "slug": "meta-quest-3",
+      "name": "Meta Quest 3",
+      "brand": "Meta",
+      "year": 2023,
+      "dateLabel": "2023-10-10（日本销售开始）",
+      "dateKind": "launch",
+      "regionVersion": "2023原Quest3；不混Quest3S；容量合并",
+      "productFamily": "Quest",
+      "categoryProposal": "immersive",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "日常独立VR加入彩色混合现实，将虚拟场景与实际房间连接。",
+      "keyFacts": [
+        {
+          "text": "2023-10-10（日本销售开始）",
+          "sourceIds": [
+            "I150-S024"
+          ]
+        },
+        {
+          "text": "VR/MR独立头显，容量款合并为同型号。",
+          "sourceIds": [
+            "I150-S025"
+          ]
+        },
+        {
+          "text": "日本厂商记录确认当日销售。",
+          "sourceIds": [
+            "I150-S024"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S024",
+        "I150-S025"
+      ],
+      "identitySourceIds": [
+        "I150-S024",
+        "I150-S025"
+      ],
+      "dateSourceIds": [
+        "I150-S024"
+      ],
+      "evidenceLimits": [
+        "仅身份/关键事实档案；没有完整正文者不可称可入库。"
+      ],
+      "gapContribution": "日常独立VR加入彩色混合现实，将虚拟场景与实际房间连接。",
+      "relatedExistingSlugs": [
+        "sony-playstation"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展比较不等于销量、普及率、健康或训练效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG014",
+      "slug": "sony-playstation-vr-cuh-zvr1",
+      "name": "PlayStation VR（CUH-ZVR1）",
+      "brand": "Sony Interactive Entertainment",
+      "year": 2016,
+      "dateLabel": "2016-10-13（美国、加拿大）",
+      "dateKind": "launch",
+      "regionVersion": "原2016 CUH-ZVR1；不混2017 CUH-ZVR2",
+      "productFamily": "PlayStation VR",
+      "categoryProposal": "immersive",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "主机加头显与电视旁观画面，补入同一家庭的佩戴者/旁观者关系。",
+      "keyFacts": [
+        {
+          "text": "2016-10-13（美国、加拿大）",
+          "sourceIds": [
+            "I150-S026"
+          ]
+        },
+        {
+          "text": "原发售core含头显、Processor Unit、耳机与线缆。",
+          "sourceIds": [
+            "I150-S026"
+          ]
+        },
+        {
+          "text": "VR操作依赖PS4和PS Camera；Social Screen输出2D旁观画面。",
+          "sourceIds": [
+            "I150-S027"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S026",
+        "I150-S027",
+        "I150-S072"
+      ],
+      "identitySourceIds": [
+        "I150-S026",
+        "I150-S027",
+        "I150-S072"
+      ],
+      "dateSourceIds": [
+        "I150-S026"
+      ],
+      "evidenceLimits": [
+        "五节稿在readyExhibits；2017FAQ动态修订，不套用ZVR2结构。"
+      ],
+      "gapContribution": "主机加头显与电视旁观画面，补入同一家庭的佩戴者/旁观者关系。",
+      "relatedExistingSlugs": [
+        "sony-playstation"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展比较不等于销量、普及率、健康或训练效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG015",
+      "slug": "sony-playstation-vr2",
+      "name": "PlayStation VR2",
+      "brand": "Sony Interactive Entertainment",
+      "year": 2023,
+      "dateLabel": "2023-02-22（原厂全球区域发售口径）",
+      "dateKind": "launch",
+      "regionVersion": "PSVR2原2023款，PS5流程；不转用2024PC适配器兼容性",
+      "productFamily": "PlayStation VR",
+      "categoryProposal": "immersive",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "主机VR加入眼追踪和Sense反馈；生态代际需要明确，避免只看分辨率。",
+      "keyFacts": [
+        {
+          "text": "2023-02-22（原厂全球区域发售口径）",
+          "sourceIds": [
+            "I150-S028"
+          ]
+        },
+        {
+          "text": "原2023系统以PS5供给运算，眼追踪及Sense控制器。",
+          "sourceIds": [
+            "I150-S028"
+          ]
+        },
+        {
+          "text": "当日供应Horizon Call of the Mountain。",
+          "sourceIds": [
+            "I150-S029"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S028",
+        "I150-S029"
+      ],
+      "identitySourceIds": [
+        "I150-S028",
+        "I150-S029"
+      ],
+      "dateSourceIds": [
+        "I150-S028"
+      ],
+      "evidenceLimits": [
+        "仅身份/关键事实档案；没有完整正文者不可称可入库。"
+      ],
+      "gapContribution": "主机VR加入眼追踪和Sense反馈；生态代际需要明确，避免只看分辨率。",
+      "relatedExistingSlugs": [
+        "sony-playstation"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展比较不等于销量、普及率、健康或训练效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG016",
+      "slug": "microsoft-hololens-2",
+      "name": "HoloLens 2",
+      "brand": "Microsoft",
+      "year": 2019,
+      "dateLabel": "2019-11-07（开始客户出货）",
+      "dateKind": "launch",
+      "regionVersion": "原HoloLens2；非工业edition/IVAS",
+      "productFamily": "HoloLens",
+      "categoryProposal": "immersive",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "光学透视AR保留直接看环境的路径，与视频透视头显对照。",
+      "keyFacts": [
+        {
+          "text": "2019-11-07（开始客户出货）",
+          "sourceIds": [
+            "I150-S030"
+          ]
+        },
+        {
+          "text": "光学透视waveguides，无线Windows Holographic计算设备。",
+          "sourceIds": [
+            "I150-S031"
+          ]
+        },
+        {
+          "text": "需要用户账号；有手和眼追踪输入。",
+          "sourceIds": [
+            "I150-S031"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S030",
+        "I150-S031"
+      ],
+      "identitySourceIds": [
+        "I150-S030",
+        "I150-S031"
+      ],
+      "dateSourceIds": [
+        "I150-S030"
+      ],
+      "evidenceLimits": [
+        "仅身份/关键事实档案；没有完整正文者不可称可入库。"
+      ],
+      "gapContribution": "光学透视AR保留直接看环境的路径，与视频透视头显对照。",
+      "relatedExistingSlugs": [
+        "sony-playstation"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展比较不等于销量、普及率、健康或训练效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG017",
+      "slug": "apple-vision-pro-m2",
+      "name": "Apple Vision Pro（M2）",
+      "brand": "Apple",
+      "year": 2024,
+      "dateLabel": "2024-02-02（美国实际门店销售）",
+      "dateKind": "launch",
+      "regionVersion": "2024M2/R1原代；容量合并；非后代",
+      "productFamily": "Vision Pro",
+      "categoryProposal": "immersive",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "视线和捏合手势控制空间窗口，同时外部电池显示穿戴运算的供电边界。",
+      "keyFacts": [
+        {
+          "text": "2024-02-02（美国实际门店销售）",
+          "sourceIds": [
+            "I150-S032"
+          ]
+        },
+        {
+          "text": "M2与R1处理运算/感知，双microOLED显示。",
+          "sourceIds": [
+            "I150-S033"
+          ]
+        },
+        {
+          "text": "以视线、手势、语音操作visionOS。",
+          "sourceIds": [
+            "I150-S033"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S032",
+        "I150-S033"
+      ],
+      "identitySourceIds": [
+        "I150-S032",
+        "I150-S033"
+      ],
+      "dateSourceIds": [
+        "I150-S032"
+      ],
+      "evidenceLimits": [
+        "仅身份/关键事实档案；没有完整正文者不可称可入库。"
+      ],
+      "gapContribution": "视线和捏合手势控制空间窗口，同时外部电池显示穿戴运算的供电边界。",
+      "relatedExistingSlugs": [
+        "sony-playstation"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展比较不等于销量、普及率、健康或训练效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG018",
+      "slug": "samsung-galaxy-xr",
+      "name": "Galaxy XR",
+      "brand": "Samsung",
+      "year": 2025,
+      "dateLabel": "2025-10-21（美国22:00ET销售）；2026-07-10英国销售",
+      "dateKind": "launch",
+      "regionVersion": "2025GalaxyXR商品化头显；非此前Project Moohan原型",
+      "productFamily": "Android XR",
+      "categoryProposal": "immersive",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "补入AndroidXR应用平台路径，近期研究覆盖2026地区扩展而不虚构新代。",
+      "keyFacts": [
+        {
+          "text": "2025-10-21（美国22:00ET销售）；2026-07-10英国销售",
+          "sourceIds": [
+            "I150-S034"
+          ]
+        },
+        {
+          "text": "AndroidXR头显，SnapdragonXR2+Gen2。",
+          "sourceIds": [
+            "I150-S034"
+          ]
+        },
+        {
+          "text": "英国2026销售公告明确当前商品化范围。",
+          "sourceIds": [
+            "I150-S035"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S034",
+        "I150-S035"
+      ],
+      "identitySourceIds": [
+        "I150-S034",
+        "I150-S035"
+      ],
+      "dateSourceIds": [
+        "I150-S034"
+      ],
+      "evidenceLimits": [
+        "仅身份/关键事实档案；没有完整正文者不可称可入库。"
+      ],
+      "gapContribution": "补入AndroidXR应用平台路径，近期研究覆盖2026地区扩展而不虚构新代。",
+      "relatedExistingSlugs": [
+        "sony-playstation"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展比较不等于销量、普及率、健康或训练效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG019",
+      "slug": "sony-ccd-v8",
+      "name": "CCD-V8",
+      "brand": "Sony",
+      "year": 1985,
+      "dateLabel": "1985-01-21（日本销售）",
+      "dateKind": "launch",
+      "regionVersion": "原CCD-V8；不混V8AF或实验VideoMovie",
+      "productFamily": "Video8",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "摄像与录像合为一台机器，8mm磁带体现格式与携带关系。",
+      "keyFacts": [
+        {
+          "text": "1985-01-21（日本销售）",
+          "sourceIds": [
+            "I150-S037"
+          ]
+        },
+        {
+          "text": "CCD摄像与8mm磁带录制集成，250000像素。",
+          "sourceIds": [
+            "I150-S036"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S037",
+        "I150-S036"
+      ],
+      "identitySourceIds": [
+        "I150-S037",
+        "I150-S036"
+      ],
+      "dateSourceIds": [
+        "I150-S037"
+      ],
+      "evidenceLimits": [
+        "仅身份/关键事实档案；没有完整正文者不可称可入库。"
+      ],
+      "gapContribution": "摄像与录像合为一台机器，8mm磁带体现格式与携带关系。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展比较不等于销量、普及率、健康或训练效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG020",
+      "slug": "sony-dcr-vx1000",
+      "name": "DCR-VX1000",
+      "brand": "Sony",
+      "year": 1995,
+      "dateLabel": "1995-09（日本上市回顾）",
+      "dateKind": "launch",
+      "regionVersion": "日本NTSC原VX1000；不混VX1000E PAL",
+      "productFamily": "DV Handycam",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "便携DV记录让图像采集进入数字接口链，与XL1可换镜头机对照。",
+      "keyFacts": [
+        {
+          "text": "1995-09（日本上市回顾）",
+          "sourceIds": [
+            "I150-S039"
+          ]
+        },
+        {
+          "text": "三CCD、DV摄像机，中轴镜头和麦克风布局。",
+          "sourceIds": [
+            "I150-S038"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S039",
+        "I150-S038"
+      ],
+      "identitySourceIds": [
+        "I150-S039",
+        "I150-S038"
+      ],
+      "dateSourceIds": [
+        "I150-S039"
+      ],
+      "evidenceLimits": [
+        "仅身份/关键事实档案；没有完整正文者不可称可入库。"
+      ],
+      "gapContribution": "便携DV记录让图像采集进入数字接口链，与XL1可换镜头机对照。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展比较不等于销量、普及率、健康或训练效果。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG021",
+      "slug": "nikon-f3",
+      "name": "F3",
+      "brand": "Nikon",
+      "year": 1980,
+      "dateLabel": "1980-03（原厂上市历史）",
+      "dateKind": "launch",
+      "regionVersion": "标准F3黑机身；不混F3HP或NASA定制品",
+      "productFamily": "F",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "胶片相机电子曝光控制的代表，与纯机械机区别。",
+      "keyFacts": [
+        {
+          "text": "1980-03（原厂上市历史）",
+          "sourceIds": [
+            "I150-S041"
+          ]
+        },
+        {
+          "text": "采用电子光圈优先自动曝光，需要电池。",
+          "sourceIds": [
+            "I150-S041"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S041",
+        "I150-S040"
+      ],
+      "identitySourceIds": [
+        "I150-S041",
+        "I150-S040"
+      ],
+      "dateSourceIds": [
+        "I150-S041"
+      ],
+      "evidenceLimits": [
+        "未写五节长稿；仅完整身份与关键事实档案。",
+        "同厂商不同角色来源，未提供独立体验样本。"
+      ],
+      "gapContribution": "胶片相机电子曝光控制的代表，与纯机械机区别。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展判断，不以规格或厂商成功叙述证明普遍体验与社会影响。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG022",
+      "slug": "nikon-coolpix-300",
+      "name": "COOLPIX 300",
+      "brand": "Nikon",
+      "year": 1997,
+      "dateLabel": "1997（原厂产品史）",
+      "dateKind": "launch",
+      "regionVersion": "COOLPIX300标准型号，不混100",
+      "productFamily": "COOLPIX",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "保留照片、声音和手写注释合流的另类日常影像工具。",
+      "keyFacts": [
+        {
+          "text": "1997（原厂产品史）",
+          "sourceIds": [
+            "I150-S042"
+          ]
+        },
+        {
+          "text": "33万像素CCD，可在LCD写备忘或绘画。",
+          "sourceIds": [
+            "I150-S042"
+          ]
+        },
+        {
+          "text": "可收音并以笔在图像上记录。",
+          "sourceIds": [
+            "I150-S043"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S042",
+        "I150-S043"
+      ],
+      "identitySourceIds": [
+        "I150-S042",
+        "I150-S043"
+      ],
+      "dateSourceIds": [
+        "I150-S042"
+      ],
+      "evidenceLimits": [
+        "未写五节长稿；仅完整身份与关键事实档案。",
+        "同厂商不同角色来源，未提供独立体验样本。"
+      ],
+      "gapContribution": "保留照片、声音和手写注释合流的另类日常影像工具。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展判断，不以规格或厂商成功叙述证明普遍体验与社会影响。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG023",
+      "slug": "nikon-coolpix-900",
+      "name": "COOLPIX 900",
+      "brand": "Nikon",
+      "year": 1998,
+      "dateLabel": "1998（原厂产品史）",
+      "dateKind": "launch",
+      "regionVersion": "COOLPIX900；不混900s/950",
+      "productFamily": "COOLPIX",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "旋转机身为取景角度提供日常实用路径。",
+      "keyFacts": [
+        {
+          "text": "1998（原厂产品史）",
+          "sourceIds": [
+            "I150-S042"
+          ]
+        },
+        {
+          "text": "130万像素CCD、3倍38–115mm等效变焦。",
+          "sourceIds": [
+            "I150-S042"
+          ]
+        },
+        {
+          "text": "镜头部可相对握持与屏幕部旋转。",
+          "sourceIds": [
+            "I150-S044"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S042",
+        "I150-S044"
+      ],
+      "identitySourceIds": [
+        "I150-S042",
+        "I150-S044"
+      ],
+      "dateSourceIds": [
+        "I150-S042"
+      ],
+      "evidenceLimits": [
+        "未写五节长稿；仅完整身份与关键事实档案。",
+        "同厂商不同角色来源，未提供独立体验样本。"
+      ],
+      "gapContribution": "旋转机身为取景角度提供日常实用路径。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展判断，不以规格或厂商成功叙述证明普遍体验与社会影响。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG024",
+      "slug": "nikon-d1",
+      "name": "D1",
+      "brand": "Nikon",
+      "year": 1999,
+      "dateLabel": "1999-09（原厂上市历史）",
+      "dateKind": "launch",
+      "regionVersion": "原版D1；非D1X或D1H",
+      "productFamily": "D",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "专业影像进入整合机身的数字工作流。",
+      "keyFacts": [
+        {
+          "text": "1999-09（原厂上市历史）",
+          "sourceIds": [
+            "I150-S040"
+          ]
+        },
+        {
+          "text": "23.7×15.6mm CCD、274万有效像素。",
+          "sourceIds": [
+            "I150-S042"
+          ]
+        },
+        {
+          "text": "最高4.5张/秒，连续最多21张（原厂条件）。",
+          "sourceIds": [
+            "I150-S042"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S040",
+        "I150-S042",
+        "I150-S045"
+      ],
+      "identitySourceIds": [
+        "I150-S040",
+        "I150-S042",
+        "I150-S045"
+      ],
+      "dateSourceIds": [
+        "I150-S040"
+      ],
+      "evidenceLimits": [
+        "未写五节长稿；仅完整身份与关键事实档案。",
+        "同厂商不同角色来源，未提供独立体验样本。"
+      ],
+      "gapContribution": "专业影像进入整合机身的数字工作流。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展判断，不以规格或厂商成功叙述证明普遍体验与社会影响。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG025",
+      "slug": "nikon-coolscan-ls-10",
+      "name": "COOLSCAN LS-10",
+      "brand": "Nikon",
+      "year": 1993,
+      "dateLabel": "1993（逐型号产品史）",
+      "dateKind": "launch",
+      "regionVersion": "35mm LS-10；不混LS-1000",
+      "productFamily": "COOLSCAN",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "补入已有胶片到数字图像的输入工作，而不是只收相机。",
+      "keyFacts": [
+        {
+          "text": "1993（逐型号产品史）",
+          "sourceIds": [
+            "I150-S042"
+          ]
+        },
+        {
+          "text": "2700dpi，LED照明，35mm胶片扫描器。",
+          "sourceIds": [
+            "I150-S042"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S042",
+        "I150-S046"
+      ],
+      "identitySourceIds": [
+        "I150-S042",
+        "I150-S046"
+      ],
+      "dateSourceIds": [
+        "I150-S042"
+      ],
+      "evidenceLimits": [
+        "未写五节长稿；仅完整身份与关键事实档案。",
+        "同厂商不同角色来源，未提供独立体验样本。"
+      ],
+      "gapContribution": "补入已有胶片到数字图像的输入工作，而不是只收相机。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展判断，不以规格或厂商成功叙述证明普遍体验与社会影响。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG026",
+      "slug": "sony-ccd-tr55",
+      "name": "CCD-TR55",
+      "brand": "Sony",
+      "year": 1989,
+      "dateLabel": "1989（原厂历史与设计档案）",
+      "dateKind": "launch",
+      "regionVersion": "日本CCD-TR55；不混TR5/TR55E",
+      "productFamily": "Handycam",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "便携录像机把磁带仓、镜头和握持结构相接。",
+      "keyFacts": [
+        {
+          "text": "1989（原厂历史与设计档案）",
+          "sourceIds": [
+            "I150-S036"
+          ]
+        },
+        {
+          "text": "机身790g；镜头置于一侧，磁带仓作为握持部。",
+          "sourceIds": [
+            "I150-S047"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S036",
+        "I150-S047"
+      ],
+      "identitySourceIds": [
+        "I150-S036",
+        "I150-S047"
+      ],
+      "dateSourceIds": [
+        "I150-S036"
+      ],
+      "evidenceLimits": [
+        "未写五节长稿；仅完整身份与关键事实档案。",
+        "同厂商不同角色来源，未提供独立体验样本。"
+      ],
+      "gapContribution": "便携录像机把磁带仓、镜头和握持结构相接。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展判断，不以规格或厂商成功叙述证明普遍体验与社会影响。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG027",
+      "slug": "panasonic-lumix-dmc-g1",
+      "name": "LUMIX DMC-G1",
+      "brand": "Panasonic",
+      "year": 2008,
+      "dateLabel": "2008-10（日本原厂上市回顾）",
+      "dateKind": "launch",
+      "regionVersion": "日本G1机身；英文G1K套装手册仅核共通规格",
+      "productFamily": "LUMIX G",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "可换镜头、电子取景、轻便机身形成另一类摄影工具。",
+      "keyFacts": [
+        {
+          "text": "2008-10（日本原厂上市回顾）",
+          "sourceIds": [
+            "I150-S048"
+          ]
+        },
+        {
+          "text": "采用4/3 Live MOS、1210万有效像素，电子取景器。",
+          "sourceIds": [
+            "I150-S049"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S048",
+        "I150-S049"
+      ],
+      "identitySourceIds": [
+        "I150-S048",
+        "I150-S049"
+      ],
+      "dateSourceIds": [
+        "I150-S048"
+      ],
+      "evidenceLimits": [
+        "未写五节长稿；仅完整身份与关键事实档案。",
+        "同厂商不同角色来源，未提供独立体验样本。"
+      ],
+      "gapContribution": "可换镜头、电子取景、轻便机身形成另一类摄影工具。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展判断，不以规格或厂商成功叙述证明普遍体验与社会影响。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG028",
+      "slug": "olympus-pen-e-p1",
+      "name": "PEN E-P1",
+      "brand": "Olympus",
+      "year": 2009,
+      "dateLabel": "2009（11月同期公告确认已售）",
+      "dateKind": "launch",
+      "regionVersion": "日本E-P1；首发机身/套装不把计划日期当实售日",
+      "productFamily": "PEN digital",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "把日常随身拍摄与可换镜头放进金属紧凑机身。",
+      "keyFacts": [
+        {
+          "text": "2009（11月同期公告确认已售）",
+          "sourceIds": [
+            "I150-S051"
+          ]
+        },
+        {
+          "text": "1230万像素Live MOS、Micro Four Thirds，可拍720p视频。",
+          "sourceIds": [
+            "I150-S050"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S050",
+        "I150-S051"
+      ],
+      "identitySourceIds": [
+        "I150-S050",
+        "I150-S051"
+      ],
+      "dateSourceIds": [
+        "I150-S051"
+      ],
+      "evidenceLimits": [
+        "未写五节长稿；仅完整身份与关键事实档案。",
+        "同厂商不同角色来源，未提供独立体验样本。"
+      ],
+      "gapContribution": "把日常随身拍摄与可换镜头放进金属紧凑机身。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展判断，不以规格或厂商成功叙述证明普遍体验与社会影响。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG029",
+      "slug": "fujifilm-finepix-x100",
+      "name": "FinePix X100",
+      "brand": "Fujifilm",
+      "year": 2011,
+      "dateLabel": "2011-03（财报确认上市）",
+      "dateKind": "launch",
+      "regionVersion": "初代FinePix X100，不混X100S或X100VI",
+      "productFamily": "X100",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "固定镜头紧凑数码机的光学/电子混合取景选择。",
+      "keyFacts": [
+        {
+          "text": "2011-03（财报确认上市）",
+          "sourceIds": [
+            "I150-S052"
+          ]
+        },
+        {
+          "text": "可切换光学与电子显示的混合取景器。",
+          "sourceIds": [
+            "I150-S053"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S052",
+        "I150-S053"
+      ],
+      "identitySourceIds": [
+        "I150-S052",
+        "I150-S053"
+      ],
+      "dateSourceIds": [
+        "I150-S052"
+      ],
+      "evidenceLimits": [
+        "未写五节长稿；仅完整身份与关键事实档案。",
+        "同厂商不同角色来源，未提供独立体验样本。"
+      ],
+      "gapContribution": "固定镜头紧凑数码机的光学/电子混合取景选择。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展判断，不以规格或厂商成功叙述证明普遍体验与社会影响。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG030",
+      "slug": "pfu-scansnap-ix500",
+      "name": "ScanSnap iX500",
+      "brand": "PFU",
+      "year": 2013,
+      "dateLabel": "2013-01（7月公告追述已发布）",
+      "dateKind": "launch",
+      "regionVersion": "原版iX500；首发WiFi移动端与7月电脑更新分开",
+      "productFamily": "ScanSnap",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "保留日常纸张数字化工具，不要求首创或巨大影响。",
+      "keyFacts": [
+        {
+          "text": "2013-01（7月公告追述已发布）",
+          "sourceIds": [
+            "I150-S055"
+          ]
+        },
+        {
+          "text": "内置GI处理器，首发可通过WiFi扫描至移动设备。",
+          "sourceIds": [
+            "I150-S054"
+          ]
+        },
+        {
+          "text": "电脑无线扫描于2013年7月更新加入。",
+          "sourceIds": [
+            "I150-S055"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S055",
+        "I150-S054"
+      ],
+      "identitySourceIds": [
+        "I150-S055",
+        "I150-S054"
+      ],
+      "dateSourceIds": [
+        "I150-S055"
+      ],
+      "evidenceLimits": [
+        "未写五节长稿；仅完整身份与关键事实档案。",
+        "同厂商不同角色来源，未提供独立体验样本。"
+      ],
+      "gapContribution": "保留日常纸张数字化工具，不要求首创或巨大影响。",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "策展判断，不以规格或厂商成功叙述证明普遍体验与社会影响。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG031",
+      "slug": "epson-perfection-v600-photo",
+      "name": "Perfection V600 Photo",
+      "brand": "Epson",
+      "year": 2009,
+      "dateLabel": "2009-09-15（美国公告）",
+      "dateKind": "announcement",
+      "regionVersion": "美国原版V600 Photo",
+      "productFamily": "Perfection",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "保留日常照片、胶片和文档共用平板扫描器。",
+      "keyFacts": [
+        {
+          "text": "2009-09-15（美国公告）",
+          "sourceIds": [
+            "I150-S056"
+          ]
+        },
+        {
+          "text": "平板式，支持35mm和中画幅胶片。",
+          "sourceIds": [
+            "I150-S057"
+          ]
+        },
+        {
+          "text": "厂商列6400dpi光学分辨率，不能等同真实细节解析力。",
+          "sourceIds": [
+            "I150-S057"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S056",
+        "I150-S057"
+      ],
+      "identitySourceIds": [
+        "I150-S056",
+        "I150-S057"
+      ],
+      "dateSourceIds": [
+        "I150-S056"
+      ],
+      "evidenceLimits": [
+        "仅身份与关键事实档案，不是五节可入库稿。",
+        "同厂商两角色资料，非独立评测。"
+      ],
+      "gapContribution": "保留日常照片、胶片和文档共用平板扫描器。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不推定消费者普遍体验、市场规模或首创。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG032",
+      "slug": "samsung-the-frame-ls003",
+      "name": "The Frame 55 LS003",
+      "brand": "Samsung",
+      "year": 2017,
+      "dateLabel": "2017（英国同期已售公告）",
+      "dateKind": "launch",
+      "regionVersion": "欧洲55英寸LS003；不混后续LS03系列，地区调谐器不合并",
+      "productFamily": "The Frame",
+      "categoryProposal": "display",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "电视待机艺术显示与室内摆放也是产品选择理由。",
+      "keyFacts": [
+        {
+          "text": "2017（英国同期已售公告）",
+          "sourceIds": [
+            "I150-S058"
+          ]
+        },
+        {
+          "text": "55英寸4K；Art Mode显示艺术内容。",
+          "sourceIds": [
+            "I150-S059"
+          ]
+        },
+        {
+          "text": "外置One Connect连接盒。",
+          "sourceIds": [
+            "I150-S059"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S058",
+        "I150-S059"
+      ],
+      "identitySourceIds": [
+        "I150-S058",
+        "I150-S059"
+      ],
+      "dateSourceIds": [
+        "I150-S058"
+      ],
+      "evidenceLimits": [
+        "仅身份与关键事实档案，不是五节可入库稿。",
+        "同厂商两角色资料，非独立评测。"
+      ],
+      "gapContribution": "电视待机艺术显示与室内摆放也是产品选择理由。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不推定消费者普遍体验、市场规模或首创。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG033",
+      "slug": "samsung-the-sero-ls05t",
+      "name": "The Sero 43 LS05T",
+      "brand": "Samsung",
+      "year": 2020,
+      "dateLabel": "2020（法国已售公告、欧洲型号档案）",
+      "dateKind": "launch",
+      "regionVersion": "欧洲LS05T 43英寸；奥地利后缀仅核该地区版本",
+      "productFamily": "The Sero",
+      "categoryProposal": "display",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "横屏与竖屏内容产生可旋转电视形态。",
+      "keyFacts": [
+        {
+          "text": "2020（法国已售公告、欧洲型号档案）",
+          "sourceIds": [
+            "I150-S060"
+          ]
+        },
+        {
+          "text": "43英寸4K；可由横向转为竖向显示。",
+          "sourceIds": [
+            "I150-S060"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S060",
+        "I150-S061"
+      ],
+      "identitySourceIds": [
+        "I150-S060",
+        "I150-S061"
+      ],
+      "dateSourceIds": [
+        "I150-S060"
+      ],
+      "evidenceLimits": [
+        "仅身份与关键事实档案，不是五节可入库稿。",
+        "同厂商两角色资料，非独立评测。"
+      ],
+      "gapContribution": "横屏与竖屏内容产生可旋转电视形态。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不推定消费者普遍体验、市场规模或首创。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG034",
+      "slug": "lg-signature-oled-r-rx",
+      "name": "SIGNATURE OLED R (RX)",
+      "brand": "LG",
+      "year": 2020,
+      "dateLabel": "2020-10-20（韩国首批店铺实际销售）",
+      "dateKind": "launch",
+      "regionVersion": "韩国65英寸RX；波兰RX9LA仅共通结构参考",
+      "productFamily": "SIGNATURE OLED R",
+      "categoryProposal": "display",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "可收卷屏幕改变关闭时电视占据的空间。",
+      "keyFacts": [
+        {
+          "text": "2020-10-20（韩国首批店铺实际销售）",
+          "sourceIds": [
+            "I150-S062"
+          ]
+        },
+        {
+          "text": "65英寸4K可卷OLED；Full/Line/Zero View三种展开模式。",
+          "sourceIds": [
+            "I150-S062"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S062",
+        "I150-S063"
+      ],
+      "identitySourceIds": [
+        "I150-S062",
+        "I150-S063"
+      ],
+      "dateSourceIds": [
+        "I150-S062"
+      ],
+      "evidenceLimits": [
+        "仅身份与关键事实档案，不是五节可入库稿。",
+        "同厂商两角色资料，非独立评测。"
+      ],
+      "gapContribution": "可收卷屏幕改变关闭时电视占据的空间。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不推定消费者普遍体验、市场规模或首创。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG035",
+      "slug": "lg-oled-evo-m5-65",
+      "name": "OLED evo M5 65",
+      "brand": "LG",
+      "year": 2025,
+      "dateLabel": "2025-07（新加坡商业促销观察）",
+      "dateKind": "observed",
+      "regionVersion": "新加坡OLED65M5PSA，65英寸",
+      "productFamily": "OLED evo M",
+      "categoryProposal": "display",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "保留连接盒与屏幕分置的近期日常电视方案。",
+      "keyFacts": [
+        {
+          "text": "2025-07（新加坡商业促销观察）",
+          "sourceIds": [
+            "I150-S064"
+          ]
+        },
+        {
+          "text": "Zero Connect传输音视频；屏幕和连接盒仍需电源。",
+          "sourceIds": [
+            "I150-S065"
+          ]
+        },
+        {
+          "text": "65英寸档厂商列最高4K144Hz。",
+          "sourceIds": [
+            "I150-S065"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S064",
+        "I150-S065"
+      ],
+      "identitySourceIds": [
+        "I150-S064",
+        "I150-S065"
+      ],
+      "dateSourceIds": [
+        "I150-S064"
+      ],
+      "evidenceLimits": [
+        "仅身份与关键事实档案，不是五节可入库稿。",
+        "同厂商两角色资料，非独立评测。"
+      ],
+      "gapContribution": "保留连接盒与屏幕分置的近期日常电视方案。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不推定消费者普遍体验、市场规模或首创。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG036",
+      "slug": "samsung-micro-rgb-r95h-65",
+      "name": "Micro RGB R95H 65",
+      "brand": "Samsung",
+      "year": 2026,
+      "dateLabel": "2026-04-14（美国公告；不声称首售日）",
+      "dateKind": "announcement",
+      "regionVersion": "美国MRN65R95HAFXZA，65英寸",
+      "productFamily": "Micro RGB",
+      "categoryProposal": "display",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "截至2026的RGB背光显示路线，品牌命名与显示结构分开。",
+      "keyFacts": [
+        {
+          "text": "2026-04-14（美国公告；不声称首售日）",
+          "sourceIds": [
+            "I150-S066"
+          ]
+        },
+        {
+          "text": "RGB背光电视；不是逐像素自发光MicroLED屏幕。",
+          "sourceIds": [
+            "I150-S066"
+          ]
+        },
+        {
+          "text": "官方产品页明确65英寸R95H(2026)型号。",
+          "sourceIds": [
+            "I150-S067"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S066",
+        "I150-S067"
+      ],
+      "identitySourceIds": [
+        "I150-S066",
+        "I150-S067"
+      ],
+      "dateSourceIds": [
+        "I150-S066"
+      ],
+      "evidenceLimits": [
+        "仅身份与关键事实档案，不是五节可入库稿。",
+        "同厂商两角色资料，非独立评测。"
+      ],
+      "gapContribution": "截至2026的RGB背光显示路线，品牌命名与显示结构分开。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不推定消费者普遍体验、市场规模或首创。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG037",
+      "slug": "epson-vpj-700",
+      "name": "VPJ-700",
+      "brand": "Epson",
+      "year": 1989,
+      "dateLabel": "1989-01（原厂上市档案）",
+      "dateKind": "launch",
+      "regionVersion": "日本AC100V VPJ-700",
+      "productFamily": "LCD projector",
+      "categoryProposal": "display",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "补入投射图像的显示路线和早期家用摆放成本。",
+      "keyFacts": [
+        {
+          "text": "1989-01（原厂上市档案）",
+          "sourceIds": [
+            "I150-S068"
+          ]
+        },
+        {
+          "text": "三片TFT对应红绿蓝；厂商列100lm、7.6kg。",
+          "sourceIds": [
+            "I150-S068"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S068",
+        "I150-S069"
+      ],
+      "identitySourceIds": [
+        "I150-S068",
+        "I150-S069"
+      ],
+      "dateSourceIds": [
+        "I150-S068"
+      ],
+      "evidenceLimits": [
+        "仅身份与关键事实档案，不是五节可入库稿。",
+        "同厂商两角色资料，非独立评测。"
+      ],
+      "gapContribution": "补入投射图像的显示路线和早期家用摆放成本。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不推定消费者普遍体验、市场规模或首创。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG038",
+      "slug": "samsung-the-freestyle-2022",
+      "name": "The Freestyle (2022)",
+      "brand": "Samsung",
+      "year": 2022,
+      "dateLabel": "2022（7月马来西亚已售公告）",
+      "dateKind": "launch",
+      "regionVersion": "马来西亚2022初代；不混2023二代GamingHub",
+      "productFamily": "The Freestyle",
+      "categoryProposal": "display",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "小型可转向投影器适用于临时位置观看，无须强写里程碑。",
+      "keyFacts": [
+        {
+          "text": "2022（7月马来西亚已售公告）",
+          "sourceIds": [
+            "I150-S070"
+          ]
+        },
+        {
+          "text": "自动梯形校正与水平调整；厂商称最大100英寸。",
+          "sourceIds": [
+            "I150-S071"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S070",
+        "I150-S071"
+      ],
+      "identitySourceIds": [
+        "I150-S070",
+        "I150-S071"
+      ],
+      "dateSourceIds": [
+        "I150-S070"
+      ],
+      "evidenceLimits": [
+        "仅身份与关键事实档案，不是五节可入库稿。",
+        "同厂商两角色资料，非独立评测。"
+      ],
+      "gapContribution": "小型可转向投影器适用于临时位置观看，无须强写里程碑。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展判断；不推定消费者普遍体验、市场规模或首创。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG039",
+      "slug": "ricoh-gr-iii",
+      "name": "GR III",
+      "brand": "Ricoh",
+      "year": 2019,
+      "dateLabel": "2019-02-22（公告；非3月计划等同实售）",
+      "dateKind": "announcement",
+      "regionVersion": "标准GRIII，非GRIIIx/HDF/Street Edition",
+      "productFamily": "GR",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "正面具体评测与原厂身份相接，保留日常口袋快拍相机，不强写里程碑。",
+      "keyFacts": [
+        {
+          "text": "2019-02-22原厂公布。",
+          "sourceIds": [
+            "I150-S074"
+          ]
+        },
+        {
+          "text": "APS-C约2424万有效像素，固定28mm等效F2.8镜头。",
+          "sourceIds": [
+            "I150-S074"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S074",
+        "I150-S075"
+      ],
+      "identitySourceIds": [
+        "I150-S074"
+      ],
+      "dateSourceIds": [
+        "I150-S074"
+      ],
+      "evidenceLimits": [
+        "完整身份事实档案；未写五节稿。",
+        "评测结论属于2019作者与样机条件。"
+      ],
+      "gapContribution": "普通随身快拍工具",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "不以媒体81%分数推定跨年排名、全民好评或历史影响。",
+      "mediaOpinions": [
+        {
+          "media": "DPReview",
+          "author": "Barney Britton / Richard Butler / Carey Rose",
+          "articleDate": "2019-05-14",
+          "modelVersion": "标准GRIII",
+          "url": "https://www.dpreview.com/reviews/8690273264/ricoh-gr-iii/",
+          "praise": "作者肯定口袋尺寸与图像质量。",
+          "shortcomings": "无闪光灯与电池表现；弱光对焦有条件。",
+          "evaluationConditions": "实体相机评测，日常快拍与图像比较；未复测。",
+          "commercialDisclosure": "页面未核到样机与利益关系说明。",
+          "verificationDepth": "正文与结论索引；没有全部分页",
+          "sourceId": "I150-S075"
+        }
+      ]
+    },
+    {
+      "id": "IMG040",
+      "slug": "insta360-x5",
+      "name": "X5",
+      "brand": "Insta360",
+      "year": 2025,
+      "dateLabel": "2025-04-22（原厂可订购公告）",
+      "dateKind": "launch",
+      "regionVersion": "2025标准X5；非BMW/白色限量套装",
+      "productFamily": "X",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "具体积极实测与原厂日期构成日常360运动摄影候选，保留普通好用设备。",
+      "keyFacts": [
+        {
+          "text": "2025-04-22原厂宣布可订购。",
+          "sourceIds": [
+            "I150-S076"
+          ]
+        },
+        {
+          "text": "双向采集360视频；不以8K宣传推定裁切后单视角8K。",
+          "sourceIds": [
+            "I150-S076"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S076",
+        "I150-S077"
+      ],
+      "identitySourceIds": [
+        "I150-S076"
+      ],
+      "dateSourceIds": [
+        "I150-S076"
+      ],
+      "evidenceLimits": [
+        "完整身份事实档案；未写五节稿。",
+        "评测结论属于2019作者与样机条件。"
+      ],
+      "gapContribution": "当代全景运动摄影",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "暗处改善是该作者短测结论，不证明所有照明下绝对领先。",
+      "mediaOpinions": [
+        {
+          "media": "TechRadar",
+          "author": "Sam Kieldsen",
+          "articleDate": "2025-04-22；更新2025-04-30",
+          "modelVersion": "标准X5",
+          "url": "https://www.techradar.com/cameras/360-cameras/insta360-x5-review",
+          "praise": "作者肯定暗处画质改善与使用灵活性。",
+          "shortcomings": "刚买X4者未必值得升级；一般单向运动记录有更便宜简单选择。",
+          "evaluationConditions": "试用数日，自拍杆步行/骑行/车窗外拍摄，iPhone13 App编辑。",
+          "commercialDisclosure": "购物链接可产生佣金；样机关系未明确核。",
+          "verificationDepth": "正文测试条件、署名与结论；未自行测试",
+          "sourceId": "I150-S077"
+        }
+      ]
+    },
+    {
+      "id": "IMG041",
+      "slug": "valve-steam-frame",
+      "name": "Steam Frame",
+      "brand": "Valve",
+      "year": 2025,
+      "dateLabel": "2025-11-12公告；2026售卖事件待核",
+      "dateKind": "announcement",
+      "regionVersion": "未完成地区/商业版本消歧；不计数",
+      "productFamily": "Steam Frame",
+      "categoryProposal": "immersive",
+      "selectionStatus": "待核不计数",
+      "selectionReason": "动态硬件页未完整显示日期/地区；不能把搜索商店日期或计划当已发售。",
+      "keyFacts": [
+        {
+          "text": "2025-11-12公告；2026售卖事件待核",
+          "sourceIds": [
+            "I150-S078",
+            "I150-S079"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S078",
+        "I150-S079"
+      ],
+      "identitySourceIds": [
+        "I150-S078",
+        "I150-S079"
+      ],
+      "dateSourceIds": [
+        "I150-S078",
+        "I150-S079"
+      ],
+      "evidenceLimits": [
+        "动态硬件页未完整显示日期/地区；不能把搜索商店日期或计划当已发售。"
+      ],
+      "gapContribution": "广搜保留发现路径，后续解决证据缺口",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "未作为已正式入选或可入库稿。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG042",
+      "slug": "baird-tin-box-televisor",
+      "name": "Baird tin-box Televisor",
+      "brand": "Baird",
+      "year": 1930,
+      "dateLabel": "1930–1940（馆藏制造范围）",
+      "dateKind": "manufacture",
+      "regionVersion": "未完成地区/商业版本消歧；不计数",
+      "productFamily": "Baird tin-box Televisor",
+      "categoryProposal": "display",
+      "selectionStatus": "待核不计数",
+      "selectionReason": "馆藏物件制造范围不能定位单一商业版本与上市事件。",
+      "keyFacts": [
+        {
+          "text": "1930–1940（馆藏制造范围）",
+          "sourceIds": [
+            "I150-S080",
+            "I150-S081"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S080",
+        "I150-S081"
+      ],
+      "identitySourceIds": [
+        "I150-S080",
+        "I150-S081"
+      ],
+      "dateSourceIds": [
+        "I150-S080",
+        "I150-S081"
+      ],
+      "evidenceLimits": [
+        "馆藏物件制造范围不能定位单一商业版本与上市事件。"
+      ],
+      "gapContribution": "广搜保留发现路径，后续解决证据缺口",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "未作为已正式入选或可入库稿。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG043",
+      "slug": "sharp-14-lcd-prototype-1988",
+      "name": "14-inch colour LCD prototype",
+      "brand": "Sharp",
+      "year": 1988,
+      "dateLabel": "1988（原型）",
+      "dateKind": "prototype",
+      "regionVersion": "未商品化原型",
+      "productFamily": "14-inch colour LCD prototype",
+      "categoryProposal": "display",
+      "selectionStatus": "淘汰",
+      "selectionReason": "原厂明确为原型，不能作为真实商业产品计数。",
+      "keyFacts": [
+        {
+          "text": "1988（原型）",
+          "sourceIds": [
+            "I150-S082"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S082"
+      ],
+      "identitySourceIds": [
+        "I150-S082"
+      ],
+      "dateSourceIds": [
+        "I150-S082"
+      ],
+      "evidenceLimits": [
+        "原厂明确为原型，不能作为真实商业产品计数。"
+      ],
+      "gapContribution": "广搜保留发现路径，后续解决证据缺口",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "未作为已正式入选或可入库稿。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG044",
+      "slug": "canon-eos-d30",
+      "name": "EOS D30",
+      "brand": "Canon",
+      "year": 2000,
+      "dateLabel": "2000（原厂9月/10月事件地区差待核）",
+      "dateKind": "announcement",
+      "regionVersion": "未完成地区/商业版本消歧；不计数",
+      "productFamily": "EOS D30",
+      "categoryProposal": "imaging",
+      "selectionStatus": "待核不计数",
+      "selectionReason": "商品真实，但不同原档日期未解决；本轮不计正式。",
+      "keyFacts": [
+        {
+          "text": "2000（原厂9月/10月事件地区差待核）",
+          "sourceIds": [
+            "I150-S083",
+            "I150-S084"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S083",
+        "I150-S084"
+      ],
+      "identitySourceIds": [
+        "I150-S083",
+        "I150-S084"
+      ],
+      "dateSourceIds": [
+        "I150-S083",
+        "I150-S084"
+      ],
+      "evidenceLimits": [
+        "商品真实，但不同原档日期未解决；本轮不计正式。"
+      ],
+      "gapContribution": "广搜保留发现路径，后续解决证据缺口",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "未作为已正式入选或可入库稿。",
+      "mediaOpinions": []
+    },
+    {
+      "id": "IMG045",
+      "slug": "xreal-one",
+      "name": "One",
+      "brand": "XREAL",
+      "year": 2025,
+      "dateLabel": "2025-04-06（评测；首发事件仍待核）",
+      "dateKind": "observed",
+      "regionVersion": "One非OnePro；销售地区和首发年份待核",
+      "productFamily": "One",
+      "categoryProposal": "immersive",
+      "selectionStatus": "发现候选",
+      "selectionReason": "单篇具体积极评测已足以保留普通外接个人显示眼镜；未核身份事件不计正式。",
+      "keyFacts": [],
+      "sourceIds": [
+        "I150-S085"
+      ],
+      "identitySourceIds": [],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "媒体评测年不能当产品上市年。"
+      ],
+      "gapContribution": "日常私人显示与配套设备成本",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "媒体认为好用，不等同真正世界锚定AR或行业共识。",
+      "mediaOpinions": [
+        {
+          "media": "TechRadar",
+          "author": "Hamish Hector",
+          "articleDate": "2025-04-06",
+          "modelVersion": "Xreal One",
+          "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/xreal-one-review-top-notch-ar-smart-glasses-that-come-at-a-price",
+          "praise": "作者肯定图像和声音。",
+          "shortcomings": "认为BeamPro配套让方案完整，但增加成本。",
+          "evaluationConditions": "PC、PS5、Galaxy Z Fold6、主要BeamPro；影片与游戏、佩戴数小时。",
+          "commercialDisclosure": "购物佣金；样机关系未核。",
+          "verificationDepth": "正文、署名、日期与测试条件",
+          "sourceId": "I150-S085"
+        }
+      ]
+    },
+    {
+      "id": "IMG046",
+      "slug": "dell-ultrasharp-u2723qe",
+      "name": "UltraSharp U2723QE",
+      "brand": "Dell",
+      "year": 2024,
+      "dateLabel": "2024-05-17更新；2025-08-11复测（媒体评测事件；不是上市）",
+      "dateKind": "observed",
+      "regionVersion": "UltraSharp U2723QE；原厂事件及地区尚待核",
+      "productFamily": "UltraSharp U2723QE",
+      "categoryProposal": "display",
+      "selectionStatus": "发现候选",
+      "selectionReason": "具体积极评测进入发现池，普通办公/旅行用途值得保留；未核原厂身份与上市事件，不计正式。",
+      "keyFacts": [],
+      "sourceIds": [
+        "I150-S086"
+      ],
+      "identitySourceIds": [],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "媒体评测年不能当产品上市年。"
+      ],
+      "gapContribution": "日常私人显示与配套设备成本",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "媒体认为好用，不等同真正世界锚定AR或行业共识。",
+      "mediaOpinions": [
+        {
+          "media": "RTINGS",
+          "author": "Matthew Lopes / Nicholas Di Giovanni / John Peroramas",
+          "articleDate": "2024-05-17更新；2025-08-11复测",
+          "modelVersion": "UltraSharp U2723QE",
+          "url": "https://www.rtings.com/monitor/reviews/dell/u2723qe",
+          "praise": "办公文字清晰、USB hub与KVM、人体工学。",
+          "shortcomings": "反光处理与HDR不足，不适合重视高速运动的游戏。",
+          "evaluationConditions": "自购27英寸样机、方法v2.0.1；部分量测付费锁定，不读页面0.0占位数。",
+          "commercialDisclosure": "会员及购物链接佣金；机构声明自购样机。",
+          "verificationDepth": "正文或明确评测摘录，付费/分页限制如实保留",
+          "sourceId": "I150-S086"
+        }
+      ]
+    },
+    {
+      "id": "IMG047",
+      "slug": "panasonic-lumix-dc-zs200",
+      "name": "LUMIX DC-ZS200 / TZ200",
+      "brand": "Panasonic",
+      "year": 2018,
+      "dateLabel": "2018-05-16（媒体评测事件；不是上市）",
+      "dateKind": "observed",
+      "regionVersion": "LUMIX DC-ZS200 / TZ200；原厂事件及地区尚待核",
+      "productFamily": "LUMIX DC-ZS200 / TZ200",
+      "categoryProposal": "imaging",
+      "selectionStatus": "发现候选",
+      "selectionReason": "具体积极评测进入发现池，普通办公/旅行用途值得保留；未核原厂身份与上市事件，不计正式。",
+      "keyFacts": [],
+      "sourceIds": [
+        "I150-S087"
+      ],
+      "identitySourceIds": [],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "媒体评测年不能当产品上市年。"
+      ],
+      "gapContribution": "日常私人显示与配套设备成本",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "媒体认为好用，不等同真正世界锚定AR或行业共识。",
+      "mediaOpinions": [
+        {
+          "media": "DPReview",
+          "author": "Jeff Keller / Dan Bracaglia",
+          "articleDate": "2018-05-16",
+          "modelVersion": "LUMIX DC-ZS200 / TZ200",
+          "url": "https://www.dpreview.com/reviews/5091676591/panasonic-lumix-dmc-zs200-tz200/",
+          "praise": "紧凑旅行长焦、画质与对焦总体积极。",
+          "shortcomings": "镜头解析不一致、取景器及视频对焦不足；部分人更适合ZS100。",
+          "evaluationConditions": "多场景使用与实验室测试摘要；没有读全部分页。",
+          "commercialDisclosure": "购物链接佣金，样机关系本轮未核。",
+          "verificationDepth": "正文或明确评测摘录，付费/分页限制如实保留",
+          "sourceId": "I150-S087"
+        }
+      ]
+    },
+    {
+      "id": "IMG048",
+      "slug": "panasonic-lumix-dc-tz300",
+      "name": "LUMIX DC-TZ300",
+      "brand": "Panasonic",
+      "year": 2026,
+      "dateLabel": "2026-03-24（德国公告）",
+      "dateKind": "announcement",
+      "regionVersion": "欧洲TZ300；ZS300为北美名称，区域视频格式不合并",
+      "productFamily": "LUMIX Travel Zoom",
+      "categoryProposal": "imaging",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "2026具体旅行正评与原厂型号事件相接；保留成熟用途的迭代，无须宣称首创。",
+      "keyFacts": [
+        {
+          "text": "2026-03-24德国原厂公布TZ300。",
+          "sourceIds": [
+            "I150-S089"
+          ]
+        },
+        {
+          "text": "15倍光学变焦、24–360mm等效，1英寸BSI CMOS。",
+          "sourceIds": [
+            "I150-S089"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S089",
+        "I150-S088"
+      ],
+      "identitySourceIds": [
+        "I150-S089"
+      ],
+      "dateSourceIds": [
+        "I150-S089"
+      ],
+      "evidenceLimits": [
+        "完整身份事实档案；未写五节稿。",
+        "评测结论属于2019作者与样机条件。"
+      ],
+      "gapContribution": "2026日常旅行摄影",
+      "relatedExistingSlugs": [
+        "casio-qv10"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "publicImpactBoundary": "暗处改善是该作者短测结论，不证明所有照明下绝对领先。",
+      "mediaOpinions": [
+        {
+          "media": "TechRadar",
+          "author": "Timothy Coleman",
+          "articleDate": "2026-04-06",
+          "modelVersion": "借测欧洲TZ300，非旧TZ200",
+          "url": "https://www.techradar.com/cameras/compact-cameras/panasonic-lumix-tz300-review",
+          "praise": "作者肯定长焦覆盖、稳定与旅行便携。",
+          "shortcomings": "无取景器、固定屏幕、旧对焦与长焦端偏软；价格偏高。",
+          "evaluationConditions": "Panasonic借机两周，中国旅行、多模式RAW/JPEG/视频与电池记录。",
+          "commercialDisclosure": "明确原厂借测两周，购物链接佣金。",
+          "verificationDepth": "全文相关评测及How I tested正文",
+          "sourceId": "I150-S088"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "I150-S001",
+      "title": "RC-701",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/product/svc443.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1986年7月上市、CCD、SV软盘、专用卡口",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S002",
+      "title": "1976–1986 history",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/history/story06.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "RC-701商业化；模拟磁记录静态视频路线",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S003",
+      "title": "EOS 650 / EOS 650 QD",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/product/film122.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1987年3月EOS650，QD同年9月；EF全电子联接与自动输片",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S004",
+      "title": "EOS 620/650 Instruction Manual",
+      "publisher": "Canon",
+      "url": "https://global.canon/ja/c-museum/wp-content/uploads/2017/01/film122-manual-en.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual",
+      "verifiedScope": "标题明确EOS620/650；操作手册原机构索引",
+      "verificationMethod": "原手册索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S005",
+      "title": "PowerShot 600",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/product/dcc451.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1996年7月；无LCD，内置1MB、PC卡、570000像素CCD",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S006",
+      "title": "1992–1996 history",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/history/story08.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "PowerShot600于1996年7月面向一般用户上市",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S007",
+      "title": "XL1",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/product/dvc666.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1998年2月、XL可换镜头、三CCD、IEEE1394",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S008",
+      "title": "1997–2000 history",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/history/story09.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "XL1于1998年2月面向进阶与专业摄影者推出",
+      "verificationMethod": "网页正文（型号段）",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S009",
+      "title": "EOS 5D Mark II",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/product/dslr800.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2008年11月、全画幅、全高清视频、CF记录",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S010",
+      "title": "Canon Sustainability Report 2012",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/sustainability/report/pdf/sustainability2012e.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "EOS5DMarkII于2008年推出并带全HD视频",
+      "verificationMethod": "原厂PDF索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S011",
+      "title": "RCA tabletop 630TS, 1946–1948",
+      "publisher": "The Henry Ford",
+      "url": "https://www.thehenryford.org/collections/explore/artifact/178373",
+      "checkedOn": "2026-10-11",
+      "sourceType": "museum-object",
+      "verifiedScope": "具体藏品00.4.4595；630TS桌面形态、1946–1948制造、115V/60Hz铭牌",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "独立博物馆实物编目；与RCA原手册不同角色",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S012",
+      "title": "RCA 630TS Instructions",
+      "publisher": "RCA / Early Television Foundation mirror",
+      "url": "https://www.earlytelevision.org/pdf/rca_630TS_instruction_manual.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-manual-mirror",
+      "verifiedScope": "原RCA630TS使用说明身份",
+      "verificationMethod": "原手册镜像索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "原厂说明书镜像；不是第二篇独立研究",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S013",
+      "title": "Television milestones",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/sonyhistory-c.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "TV8-301 1960；KV-1310 1968；晶体管便携机与Trinitron结构",
+      "verificationMethod": "网页正文（型号段）",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S014",
+      "title": "Time Capsule Vol.21",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/capsule/21/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "TV8-301于1960年5月推出",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S015",
+      "title": "Sony corporate chronology",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/ja/SonyInfo/CorporateInfo/History/company/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1968年KV-1310推出；不把Trinitron技术团队奖当单机设计奖",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S016",
+      "title": "Sony Launches OLED TV",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/News/Press/200710/07-1001E/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2007-10-01公告、日本计划12-01；11英寸/最薄3mm/无背光/侧臂与遥控",
+      "verificationMethod": "网页正文：型号、特点、设计概念",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S017",
+      "title": "Sony Annual Report 2008",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/IR/library/ar/SonyAR08-E.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "追述2007年12月在日本实际推出；同期LCD仍是主力，大面板投资计划不能当商品",
+      "verificationMethod": "PDF正文第16页（零基）XEL1专段",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S018",
+      "title": "2001 Debut of AQUOS",
+      "publisher": "Sharp",
+      "url": "https://global.sharp/corporate/info/his/h_company/2001/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2001-01-01 LC20C1推出，喜多俊之设计；13C1另在2月",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S019",
+      "title": "AQUOS LC20C1/15C1/13C1 product story",
+      "publisher": "Sharp",
+      "url": "https://global.sharp/corporate/info/his/only_one/item/t36.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "指定AQUOS初代系列、450cd/m2原厂指标与设计者",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅核上述具体范围；不证明销量、普遍体验、实物状态或转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述/产品宣传；博物馆档案则非商业评测。"
+    },
+    {
+      "id": "I150-S020",
+      "title": "Vive consumer shipment begins",
+      "publisher": "HTC",
+      "url": "https://www.htc.com/cn/newsroom/2016-04-06/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2016-04-05消费者版首批预订开始发货，中国大陆付尾款用户",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S021",
+      "title": "HTC Japan retail partners",
+      "publisher": "HTC",
+      "url": "https://www.htc.com/jp/newsroom/2016-07-07/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2016年4月全球销售，7月日本实体零售；与Valve共同开发360度room-scale",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S022",
+      "title": "F8 2019 Day1",
+      "publisher": "Facebook",
+      "url": "https://about.fb.com/news/2019/04/f8-2019-day-1/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2019-05-21 Quest计划发货；独立头显不绑PC",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S023",
+      "title": "Powered by AI Oculus Insight",
+      "publisher": "Meta AI",
+      "url": "https://ai.meta.com/blog/powered-by-ai-oculus-insight/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2019-08-22确认Quest已可获得；Insight头显/控制器6DoF追踪",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S024",
+      "title": "Meta Quest3 Japan on sale today",
+      "publisher": "Meta",
+      "url": "https://about.fb.com/ja/news/2023/10/meta-quest-3-popup-event-shibuya-shinjuku/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2023-10-10日本实际销售开始",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S025",
+      "title": "Meet Meta Quest3",
+      "publisher": "Meta",
+      "url": "https://about.fb.com/news/2023/09/meet-meta-quest-3-mixed-reality-headset/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2023-09-27公告，10-10上市，128/512GB合并，mixed reality",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S026",
+      "title": "PlayStation VR launches today US/Canada",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/2016/10/13/playstation-vr-launches-today-across-the-united-states-and-canada/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2016-10-13正式销售；PS4兼容与零售core套装",
+      "verificationMethod": "网页正文（产品与上市段）",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S027",
+      "title": "PlayStation VR ultimate FAQ",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/2017/10/02/playstation-vr-the-ultimate-faq/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "原2016要求PS4/PS Camera、Social Screen；2017另增CUH-ZVR2版本说明",
+      "verificationMethod": "原机构检索索引摘录；直接打开报Internal Error",
+      "limits": "全文直读失败；所列内容在原机构检索摘录中可核；动态FAQ含2017修订，不将新Processor Unit HDR转给2016款。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S028",
+      "title": "PlayStation VR2 ultimate FAQ",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/2023/02/06/playstation-vr2-the-ultimate-faq/?sf264031684=1",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2023-02-22各区域计划销售；PS5、眼追踪、Sense、HDR、原套装",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S029",
+      "title": "Horizon Call of the Mountain launches today",
+      "publisher": "Guerrilla / Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/2023/02/22/horizon-call-of-the-mountain-launches-today-on-ps-vr2/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2023-02-22PSVR2实际游戏供应，4K HDR/110度视野；属同集团游戏团队",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S030",
+      "title": "HoloLens2 shipping to customers",
+      "publisher": "Microsoft",
+      "url": "https://news.microsoft.com/source/features/innovation/hololens-2-shipping-to-customers/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2019-11-07开始向客户出货的原厂故事",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S031",
+      "title": "About HoloLens2 hardware",
+      "publisher": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/hololens/hololens2-hardware?source=recommendations",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-documentation",
+      "verifiedScope": "光学透视波导、Windows Holographic、手/眼与头追踪、需要账号",
+      "verificationMethod": "原机构文档检索摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S032",
+      "title": "VisionPro arrives in stores US",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2024/02/apple-vision-pro-arrives-in-apple-store-locations-across-the-us/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2024-02-02美国实际门店销售；原M2代",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S033",
+      "title": "VisionPro available February2",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "M2/R1、microOLED、视线手势语音、外部电池；2024首代",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S034",
+      "title": "Introducing Galaxy XR US",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/us/introducing-galaxy-xr-opening-new-worlds/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2025-10-21 22:00ET美国销售、AndroidXR、XR2+Gen2、microOLED",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S035",
+      "title": "GalaxyXR available to buy UK",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/uk/galaxy-xr-is-available-to-buy-now-in-the-uk",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2026-07-10英国实际销售、AndroidXR、眼/手/语音控制",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S036",
+      "title": "Video camera milestones",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/SonyInfo/CorporateInfo/History/sonyhistory-f.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "CCD-V8 1985年1月上市、250000像素CCD、8mm；CCDTR55 1989",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S037",
+      "title": "Early Stages Imaging Business",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/CorporateInfo/History/SonyHistory/2-06.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "CCD-V8于1985-01-21销售、8mm格式竞争；CCDTR55 1989公告",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S038",
+      "title": "DCR-VX1000 design gallery",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/design/gallery/DCR-VX1000/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1995年DV摄像机、三CCD，光学与麦克风中轴布局",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S039",
+      "title": "DHR1000 Japanese release, VX1000 historical note",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/ja/SonyInfo/News/Press/199709/97-086/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1997公告回顾DCRVX1000于1995年9月上市",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "仅上述范围；不证明销量、普遍使用体验及图片转载许可。",
+      "independence": "同厂商来源，不独立交叉验证",
+      "commercialDisclosure": "原厂自述与宣传。"
+    },
+    {
+      "id": "I150-S040",
+      "title": "Corporate History",
+      "publisher": "Nikon",
+      "url": "https://www.nikon.com/company/corporate/history/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "F3 1980；COOLPIX300 1997；D1 1999年9月上市",
+      "verificationMethod": "正文读取",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S041",
+      "title": "Debut of Nikon F3",
+      "publisher": "Nikon",
+      "url": "https://imaging.nikon.com/imaging/information/chronicle/history-f3/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1980年3月F3上市，电子光圈优先曝光、SR44电源",
+      "verificationMethod": "正文读取",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S042",
+      "title": "Our Product History: 1990s",
+      "publisher": "Nikon",
+      "url": "https://imaging.nikon.com/imaging/information/products_history/1990/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "COOLPIX300/900、D1、LS-10各年条目及规格",
+      "verificationMethod": "正文读取；逐型号段落",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S043",
+      "title": "Frontier 02: COOLPIX 300",
+      "publisher": "Nikon",
+      "url": "https://www.nikon.com/company/corporate/history/frontier/02/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1997；可用笔在照片上写画、收音、触屏",
+      "verificationMethod": "检索索引摘录",
+      "limits": "厂商委托WIRED Japan内容，不计独立媒体评测。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S044",
+      "title": "Frontier 07: COOLPIX 900",
+      "publisher": "Nikon",
+      "url": "https://www.nikon.com/company/corporate/history/frontier/07/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1998；镜头与显示握持部可旋转",
+      "verificationMethod": "检索索引摘录",
+      "limits": "厂商委托WIRED Japan内容，不计独立媒体评测。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S045",
+      "title": "Frontier 08: D1",
+      "publisher": "Nikon",
+      "url": "https://www.nikon.com/company/corporate/history/frontier/08/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "D1 1999专业数字工作流",
+      "verificationMethod": "正文读取",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S046",
+      "title": "Frontier 04: COOLSCAN",
+      "publisher": "Nikon",
+      "url": "https://www.nikon.com/company/corporate/history/frontier/04/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1993COOLSCAN，LED照明胶片扫描",
+      "verificationMethod": "检索索引摘录",
+      "limits": "厂商委托WIRED Japan内容，不计独立媒体评测。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S047",
+      "title": "CCD-TR55 design gallery",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/design/gallery/CCD-TR55/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1989 CCD-TR55、790g、磁带仓兼握持部",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S048",
+      "title": "LUMIX G lens announcement retrospective",
+      "publisher": "Panasonic",
+      "url": "https://news.panasonic.com/jp/press/jn170125-3",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "DMC-G1 2008年10月上市回顾",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S049",
+      "title": "DMC-G1 operating instructions",
+      "publisher": "Panasonic",
+      "url": "https://www.panasonic.com/content/dam/Panasonic/support_manual/Digital_Still_Camera/English_02-vqt3-vqt9_other/DMC-G1K%20_vqt1u50_OI.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "原机身1210万像素4/3 Live MOS、EVF",
+      "verificationMethod": "PDF检索索引摘录",
+      "limits": "英文套装手册；只核机身共通规格，没有逐页操作读取。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S050",
+      "title": "OLYMPUS PEN E-P1 announcement",
+      "publisher": "Olympus",
+      "url": "https://olycojp.olympus-global.com/jp/news/2009a/nr090616ep1j.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2009-06-16公布；1230万像素、MFT、金属机身、720p",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S051",
+      "title": "E-P1 campaign announcement",
+      "publisher": "Olympus",
+      "url": "https://olycojp.olympus-global.com/jp/news/2009b/nr091124songj.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2009-11-24明确E-P1已在销售",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S052",
+      "title": "FY2011 earnings presentation notes",
+      "publisher": "Fujifilm",
+      "url": "https://ir.fujifilm.com/en/investors/ir-materials/earnings-presentations/main/010/teaserItems5/0/linkList/00/link/ff_fy_2011q4_001_note.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "FinePix X100于2011年3月上市",
+      "verificationMethod": "PDF索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S053",
+      "title": "Sustainability Report 2011",
+      "publisher": "Fujifilm",
+      "url": "https://www.fujifilm.com/files-holdings/en/sustainability/report/2011/sustainability_activity_report_2011_ff_sr_2011_en_all.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "X100混合光学/电子取景器、2011生产受地震影响",
+      "verificationMethod": "PDF索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S054",
+      "title": "ScanSnap iX500 announcement",
+      "publisher": "PFU",
+      "url": "https://www.pfu.ricoh.com/global/scanners/news/press130107.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2013-01-07公告、GI处理器与移动端WiFi扫描",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S055",
+      "title": "iX500 computer WiFi update",
+      "publisher": "PFU",
+      "url": "https://www.pfu.ricoh.com/global/scanners/news/press130729.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "确认2013年1月已发布；7月新增电脑WiFi支持",
+      "verificationMethod": "正文读取",
+      "limits": "只核列出的具体事实，未核独立销量或长期体验。",
+      "independence": "同厂商资料，不是独立交叉验证",
+      "commercialDisclosure": "厂商自述；不视作独立评价"
+    },
+    {
+      "id": "I150-S056",
+      "title": "Epson Delivers High Performance V600",
+      "publisher": "Epson",
+      "url": "https://news.epson.com/news/epson-delivers-high-performance-102003",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2009-09-15 V600公告，平板扫描照片胶片文件",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S057",
+      "title": "Perfection V600 Photo fact sheet",
+      "publisher": "Epson",
+      "url": "https://news.epson.com/facts/epson-perfection-v600-photo-scanner-150179",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2009-12-22产品事实，35mm与中画幅、6400dpi",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S058",
+      "title": "The Frame now available in UK",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/uk/samsungs-the-frame-now-available-in-the-uk",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2017-07-17 UK已可购55/65英寸Frame",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S059",
+      "title": "The Frame LS003 brochure",
+      "publisher": "Samsung",
+      "url": "https://images.samsung.com/is/content/samsung/p5/de/tvs/theframe/Sonderbeilage_AV.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2017 UE55LS003、ArtMode、OneConnect",
+      "verificationMethod": "PDF索引摘录",
+      "limits": "德国型号册只核55英寸LS003共同设计；内嵌媒体引述不当独立评测。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S060",
+      "title": "The Sero disponible en France",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/fr/the-sero-disponible-en-france",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2020-06-26法国已售43英寸Sero，可旋转屏幕",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S061",
+      "title": "43 The Sero LS05T 2020",
+      "publisher": "Samsung",
+      "url": "https://www.samsung.com/at/lifestyle-tvs/the-sero/ls05t-43-inch-the-sero-4k-smart-tv-navy-blue-qe43ls05tauxzg/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "QE43LS05TAUXZG 2020欧洲43英寸4K型号",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S062",
+      "title": "Rollable OLED TV launch release, archive",
+      "publisher": "LG",
+      "url": "https://www.lgnewsroom.com/page/77/?f=rmluywxft2n0yw5lx0rhdgfzagvldc5wzgy%3D&p=l3jlc291cmnll3bvc3qvmtexmc9gaw5hbf9py3rhbmvfrgf0yxnozwv0lnbkzg%3D%3D",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2020-10-20韩国七店已售65英寸RX，三种展开模式",
+      "verificationMethod": "厂商归档检索正文摘录",
+      "limits": "原独立新闻URL直接读取失败；使用含该新闻全文索引的分页归档。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S063",
+      "title": "OLED65RX9LA product archive",
+      "publisher": "LG",
+      "url": "https://www.lg.com/pl/telewizory-i-soundbary/oled/oled65rx9la/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "65英寸4K可卷屏电视型号及结构",
+      "verificationMethod": "索引摘录",
+      "limits": "波兰RX9LA只能核共通卷屏结构，不把其调谐器规格用于韩国版。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S064",
+      "title": "LG SG60 product promotion",
+      "publisher": "LG",
+      "url": "https://www.lg.com/content/dam/channel/wcms/sg/promotions/2025/07/03-sg60/LG_SG60_Celebrate_with_Smarter_Living_2PP.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2025-07-11至08-11新加坡OLED65M5PSA商业促销",
+      "verificationMethod": "PDF索引摘录",
+      "limits": "促销观察证明商业供应，不用于推定首售日。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S065",
+      "title": "OLED evo M5 rollout release archive",
+      "publisher": "LG",
+      "url": "https://www.lgnewsroom.com/page/2/?p=l3jlc291cmnll3bvc3qvnduxmy9mr19hm18xlkpqrw%3D%3D",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2025-07-03 M5型号65英寸、ZeroConnect与4K144Hz",
+      "verificationMethod": "新闻归档索引摘录",
+      "limits": "独立新闻URL502；档案页摘录可读。无线音视频仍需显示器和连接盒供电。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S066",
+      "title": "Micro RGB TV lineup announcement",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/us/samsung-new-standard-color-micro-rgb-tv-lineup/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2026-04-14美国R95H/R85H公布、RGB背光",
+      "verificationMethod": "正文读取",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S067",
+      "title": "65 Micro RGB R95H 2026",
+      "publisher": "Samsung",
+      "url": "https://www.samsung.com/us/tvs/micro-rgb/65-inch-micro-rgb-4k-tv-r95h-sku-mrn65r95hafxza/?r=true",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "美国MRN65R95HAFXZA、65英寸R95H(2026)产品身份",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S068",
+      "title": "VPJ-700 milestone",
+      "publisher": "Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/1989-1-vpj700.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1989年1月上市，3TFT RGB投影、100lm、7.6kg",
+      "verificationMethod": "正文读取",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S069",
+      "title": "Milestone products index",
+      "publisher": "Epson",
+      "url": "https://corporate.epson/en/about/history/milestone-products/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1989年1月VPJ-700归档索引",
+      "verificationMethod": "索引摘录",
+      "limits": "索引与详细档案关联同一原厂历史记录；不独立证实。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S070",
+      "title": "Freestyle officially available in stores",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/my/samsung-the-freestyle-is-now-officially-available-at-the-nearest-stores-near-you",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2022-07-07马来西亚已在店销售，初代Freestyle",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S071",
+      "title": "Freestyle preorder announcement",
+      "publisher": "Samsung",
+      "url": "https://news.samsung.com/my/pre-order-the-all-new-samsung-freestyle-at-just-rm4999-and-receive-gifts-bundle-worth-up-to-rm1496-from-7-to-31-march-2022",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2022-03首发预订，自动校正与最大100英寸",
+      "verificationMethod": "原机构检索索引摘录",
+      "limits": "只核列出的具体范围，未核独立体验或销量。",
+      "independence": "同厂商来源，不独立",
+      "commercialDisclosure": "厂商资料；不是独立评测"
+    },
+    {
+      "id": "I150-S072",
+      "title": "CUH-ZVR1U instruction manual",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://manuals.playstation.net/document/pdf/CUH-ZVR1U_2.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "北美CUH-ZVR1型号、PS4/Camera、头带/线控/处理盒、使用空间、参数",
+      "verificationMethod": "PDF正文：第2、7、9–14页（零基页）",
+      "limits": "未验实物；手册提示软件版本变化。",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案"
+    },
+    {
+      "id": "I150-S073",
+      "title": "XEL-1 Manual de instrucciones",
+      "publisher": "Sony",
+      "url": "https://pro.sony/s3/cms-static-content/operation-manual/3282657311.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "XEL1共同屏幕保养、静态图像残留；西语美洲版",
+      "verificationMethod": "PDF正文：第3与31页（零基）",
+      "limits": "地区版本不同，不把ATSC/QAM、MemoryStick或菜单配置直接用于日本2007款。日本原手册3210556041重定向失败；此资料仅核OLED共通保养风险。",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案"
+    },
+    {
+      "id": "I150-S074",
+      "title": "GR III announcement",
+      "publisher": "Ricoh Imaging",
+      "url": "https://news.ricoh-imaging.co.jp/rim_info2/2019/20190222_019929.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2019-02-22正式公布GRIII；APS-C2424万像素，28mm等效F2.8",
+      "verificationMethod": "检索索引摘录",
+      "limits": "仅上述范围，未读全文。",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案"
+    },
+    {
+      "id": "I150-S075",
+      "title": "Ricoh GR III review",
+      "publisher": "DPReview",
+      "url": "https://www.dpreview.com/reviews/8690273264/ricoh-gr-iii/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "media-review",
+      "verifiedScope": "2019-05-14具体GRIII评测，画质与便携正评，电池与无闪光不足",
+      "verificationMethod": "网页正文与产品结论索引",
+      "limits": "未读全部分页或复测样机；出版页写初稿04-21、正式05-14。",
+      "independence": "与Ricoh原厂独立的编辑媒体",
+      "commercialDisclosure": "此次页面未核到样机来源或商业关系，不推定无利益关系。"
+    },
+    {
+      "id": "I150-S076",
+      "title": "Insta360 launches X5",
+      "publisher": "Insta360",
+      "url": "https://www.insta360.com/blog/news/insta360-launches-X5-360-action-cam.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "2025-04-22可订购X5，标准型号360相机",
+      "verificationMethod": "检索索引摘录",
+      "limits": "仅上述范围，未读全文。",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案"
+    },
+    {
+      "id": "I150-S077",
+      "title": "Insta360 X5 review",
+      "publisher": "TechRadar",
+      "url": "https://www.techradar.com/cameras/360-cameras/insta360-x5-review",
+      "checkedOn": "2026-10-11",
+      "sourceType": "media-review",
+      "verifiedScope": "Sam Kieldsen实测X5，暗处表现与编辑，试用数日",
+      "verificationMethod": "网页正文：署名/更新日/评测与测试条件",
+      "limits": "只测试数日；非长期耐久验证。",
+      "independence": "与Insta360原厂独立的编辑媒体",
+      "commercialDisclosure": "公开购物链接佣金；未核样机是否付费/免费。"
+    },
+    {
+      "id": "I150-S078",
+      "title": "Steam Frame hardware",
+      "publisher": "Valve",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "身份/流式VR硬件说明；动态页只部分解析",
+      "verificationMethod": "检索索引摘录",
+      "limits": "检索索引范围有限；不可推断精确上市日期",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案"
+    },
+    {
+      "id": "I150-S079",
+      "title": "Steam hardware announcement",
+      "publisher": "Valve",
+      "url": "https://steamcommunity.com/groups/steam_hardware/announcements/detail/578276333072679813",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "原公告读取超过4MB限制，未读正文",
+      "verificationMethod": "检索索引摘录",
+      "limits": "全文读取失败：超过4MB；不能引用原公告正文",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案"
+    },
+    {
+      "id": "I150-S080",
+      "title": "Baird tin-box televisor",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co34349/baird-tin-box-televisor",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "馆藏日期1930–1940",
+      "verificationMethod": "检索索引摘录",
+      "limits": "检索索引范围有限；不可推断精确上市日期",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案"
+    },
+    {
+      "id": "I150-S081",
+      "title": "John Logie Baird archive",
+      "publisher": "Science Museum Group",
+      "url": "https://collection.sciencemuseumgroup.org.uk/people/cp3684/john-logie-baird",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "1930商业电视背景，非该物件首售证明",
+      "verificationMethod": "检索索引摘录",
+      "limits": "检索索引范围有限；不可推断精确上市日期",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案"
+    },
+    {
+      "id": "I150-S082",
+      "title": "Sharp 1988–1989 history",
+      "publisher": "Sharp",
+      "url": "https://global.sharp/corporate/info/his/h_company/1988_1989/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "14英寸LCD原型1988；非商品",
+      "verificationMethod": "检索索引摘录",
+      "limits": "检索索引范围有限；不可推断精确上市日期",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案"
+    },
+    {
+      "id": "I150-S083",
+      "title": "EOS D30 product archive",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/product/dslr779.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "Marketed October2000",
+      "verificationMethod": "检索索引摘录",
+      "limits": "检索索引范围有限；不可推断精确上市日期",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案"
+    },
+    {
+      "id": "I150-S084",
+      "title": "Canon camera story10",
+      "publisher": "Canon",
+      "url": "https://global.canon/en/c-museum/history/story10.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-archive",
+      "verifiedScope": "叙述September2000 launch；事件/地区需消歧",
+      "verificationMethod": "检索索引摘录",
+      "limits": "检索索引范围有限；不可推断精确上市日期",
+      "independence": "同厂商资料，不独立",
+      "commercialDisclosure": "厂商宣传或档案"
+    },
+    {
+      "id": "I150-S085",
+      "title": "Xreal One review",
+      "publisher": "TechRadar",
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/xreal-one-review-top-notch-ar-smart-glasses-that-come-at-a-price",
+      "checkedOn": "2026-10-11",
+      "sourceType": "media-review",
+      "verifiedScope": "2025-04-06 Hamish Hector具体One实测，图像/声音与成本",
+      "verificationMethod": "网页正文：署名、结论与测试条件",
+      "limits": "尚未核原厂首发事件/地区；媒体评测日期不是上市。",
+      "independence": "独立编辑媒体",
+      "commercialDisclosure": "购物链接佣金；样机关系未核"
+    },
+    {
+      "id": "I150-S086",
+      "title": "UltraSharp U2723QE review",
+      "publisher": "RTINGS",
+      "url": "https://www.rtings.com/monitor/reviews/dell/u2723qe",
+      "checkedOn": "2026-10-11",
+      "sourceType": "media-review",
+      "verifiedScope": "办公文字清晰、USB hub与KVM、人体工学。；反光处理与HDR不足，不适合重视高速运动的游戏。",
+      "verificationMethod": "网页正文",
+      "limits": "只核上述具体范围；未自行复测。",
+      "independence": "编辑媒体与厂商独立",
+      "commercialDisclosure": "会员及购物链接佣金；机构声明自购样机。"
+    },
+    {
+      "id": "I150-S087",
+      "title": "LUMIX DC-ZS200 / TZ200 review",
+      "publisher": "DPReview",
+      "url": "https://www.dpreview.com/reviews/5091676591/panasonic-lumix-dmc-zs200-tz200/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "media-review",
+      "verifiedScope": "紧凑旅行长焦、画质与对焦总体积极。；镜头解析不一致、取景器及视频对焦不足；部分人更适合ZS100。",
+      "verificationMethod": "具体评测索引摘录",
+      "limits": "只核上述具体范围；未自行复测。",
+      "independence": "编辑媒体与厂商独立",
+      "commercialDisclosure": "购物链接佣金，样机关系本轮未核。"
+    },
+    {
+      "id": "I150-S088",
+      "title": "LUMIX TZ300 review",
+      "publisher": "TechRadar",
+      "url": "https://www.techradar.com/cameras/compact-cameras/panasonic-lumix-tz300-review",
+      "checkedOn": "2026-10-11",
+      "sourceType": "media-review",
+      "verifiedScope": "2026-04-06具体旅行评测；长焦便携优点与EVF缺失/旧AF缺点",
+      "verificationMethod": "正文读取",
+      "limits": "只核上述具体范围；未自行复测。",
+      "independence": "编辑媒体与厂商独立",
+      "commercialDisclosure": "购物链接佣金；厂商借机两周。"
+    },
+    {
+      "id": "I150-S089",
+      "title": "Panasonic announces TZ300",
+      "publisher": "Panasonic",
+      "url": "https://www.panasonic.com/de/corporate/presse/alle-meldungen/44-fy2025-lumix-tz300.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "manufacturer-announcement",
+      "verifiedScope": "2026-03-24德国公告，TZ30015倍24–360mm等效、1英寸传感器",
+      "verificationMethod": "原厂索引摘录",
+      "limits": "只核上述具体范围；未自行复测。",
+      "independence": "原厂资料，不独立",
+      "commercialDisclosure": "原厂宣传"
+    }
+  ],
+  "readyExhibits": [
+    {
+      "slug": "sony-xel-1",
+      "year": 2007,
+      "name": "XEL-1",
+      "brand": "Sony",
+      "category": "display",
+      "categoryLabel": "电视与显示",
+      "aliases": [
+        "Sony XEL-1"
+      ],
+      "tags": [
+        "OLED",
+        "电视",
+        "日本",
+        "2000年代"
+      ],
+      "summary": "以薄OLED与侧臂呈现另一种电视轮廓；小尺寸真实商品与产业期待分开阅读。",
+      "context": "2007年十二月，Sony在日本实际推出十一英寸XEL-1，上市后的年度报告与此前公告共同确认这一事件。它适合放在CRT与液晶之后，观察电视的发光结构怎样影响外形。这里的比较围绕具体商品，而不是把所有OLED演示样板都当成已经进入家庭的产品。编年史可以把它安排在“平板显示继续分化”的阶段：一台真实可售的小电视，让新的面板路线获得可指认的型号与使用场景。其尺寸也提醒观众，技术可商品化与大尺寸家庭电视普及并非同一件事，推出一款机器还不能证明一种路线已取代同期主流。",
+      "design": "XEL-1的OLED面板无需单独背光，屏幕最薄处约三毫米；铝制侧臂支撑显示面，厂商把这种构图解释为悬浮感。展览可以让观众沿侧面读它：薄的是显示部分，支撑与底座仍然存在。把面板厚度、支架位置和整机轮廓区分，能避免将一个局部数字误读成整台电视都只有三毫米。与中心支架相比，侧臂使空隙成为可见的设计元素，这属于根据结构作出的策展解读。它既是承重部件，也安排观看者如何注意屏幕；这种关系不需要借“革命性”措辞才能成立。",
+      "usage": "这是一台需要选择内容并控制播放的电视，而不是只有发光面板的样本。公告列出随产品设计的薄型遥控器，使换台与调整继续由手中的控制物完成。观众可据此观察一个有趣关系：显示面显著变薄，人的观看动作仍以面对屏幕、拿起控制器和选择内容组织。展览建议用文字示意这些动作，避免在没有实机的情况下承诺真实画质演示。地区版本另行管理，日本首售机器的广播配置不从后来的美洲手册推导；本档只把后者的共同面板保养要求用于说明使用边界，不把其菜单和接口全部移植给首售版本。",
+      "significance": "XEL-1可与本研究中的KV-1310和AQUOS LC20C1并读：不同显示结构给机壳、支撑和观看距离留下不同的设计问题。这个关联是一种展陈比较，不声称它们的购买者按同一条路线升级。年度报告也保留了必要背景：同期液晶仍是Sony电视业务的主力，扩大OLED面板的投资写作未来计划。因而本展品的价值是展示商业产品里的另一条可行路径，而非宣布它当时已经获胜。把具体机器与厂商下一步设想放在一起，可帮助观众分辨“已交付的物件”和“期待中的产业规模”，这种阅读方法同样适用于当代显示新品。",
+      "limitations": "三毫米是最薄部位，不能代表底座、侧臂和全部设备厚度；公告中的画质评价来自原厂，不当成独立测量。2008年美洲版原手册提醒，长期反复显示固定图像存在永久残留风险，本研究只用它说明OLED共同保养问题，不推定每台日本实物已出现损伤。当前没有本机实物检测、独立耐久样本或可授权照片，因此文本能够说明结构与档案，不能复现当年的观看效果，也不代替维修判断。陈列时应同时读发布日期、实际上市回顾和地区标签，避免将后续大屏OLED的成熟程度反写到这台十一英寸商品上。",
+      "dateLabel": "2007-12（日本实际推出；公告计划日12-01）",
+      "dateKind": "launch",
+      "regionVersion": "日本数字电视版本；不混2008美国型号电源/调谐器",
+      "significanceLabel": "显示结构与整机形态",
+      "features": [
+        "11英寸OLED",
+        "最薄处约3毫米",
+        "侧臂支撑"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2007-12（日本实际推出；公告计划日12-01）",
+          "sourceIds": [
+            "I150-S017"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "日本数字电视版本；不混2008美国型号电源/调谐器",
+          "sourceIds": [
+            "I150-S017",
+            "I150-S016"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S017",
+        "I150-S016",
+        "I150-S073"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S017",
+          "I150-S016"
+        ],
+        "design": [
+          "I150-S016"
+        ],
+        "usage": [
+          "I150-S016",
+          "I150-S073"
+        ],
+        "significance": [
+          "I150-S017"
+        ],
+        "limitations": [
+          "I150-S016",
+          "I150-S073"
+        ]
+      },
+      "heroMediaId": null,
+      "videoIds": [],
+      "relatedSlugs": [
+        "sony-kv-1310",
+        "sharp-aquos-lc20c1"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [],
+      "chroniclePlacementProposal": {
+        "category": "display",
+        "phase": "平板显示继续分化",
+        "year": 2007,
+        "eventKind": "launch",
+        "change": "发光面与支撑轮廓重新安排",
+        "isContemporary": false,
+        "existingChronicleId": null,
+        "requiresCoordinatorCategoryDecision": true
+      }
+    },
+    {
+      "slug": "sony-playstation-vr-cuh-zvr1",
+      "year": 2016,
+      "name": "PlayStation VR（CUH-ZVR1）",
+      "brand": "Sony Interactive Entertainment",
+      "category": "immersive",
+      "categoryLabel": "沉浸与空间显示",
+      "aliases": [
+        "Sony Interactive Entertainment PlayStation VR（CUH-ZVR1）"
+      ],
+      "tags": [
+        "VR",
+        "游戏",
+        "系统配套",
+        "2010年代"
+      ],
+      "summary": "依靠PS4、外部摄像机与处理盒，让头戴显示进入主机游戏的消费套件。",
+      "context": "2016年十月十三日，PlayStation VR在美国与加拿大正式销售。本稿限定初代CUH-ZVR1，不把2017年的CUH-ZVR2改款或2023年的VR2合并进同一个物件。它可以关联馆藏PlayStation，观察游戏主机生态如何接入另一种观看设备，但两者并不构成直接兼容关系：这套头显使用PS4。展陈阶段建议为“外部主机与摄像机配合的消费VR”，把头显放回其所需设备中理解。这个阶段描述只解释本产品的系统安排，不把它当作所有VR的共同起点，也不将正式销售自动等同于家庭普遍采用。",
+      "design": "CUH-ZVR1原手册把前后头部支撑、调节拨盘、追踪灯、线控与处理盒分别列为部件。头显的形态同时面对两项任务：让屏幕保持在眼前，以及让外部摄像机认识头部的位置与运动。展览可通过文字部件表引导观众读这两层关系，而不是只关注镜片内的图像。处理盒与线控也意味着一部分连接和操作离开了头戴外壳；这种分配是产品结构，不能因为照片里没有全部线缆就说它是一体式设备。这里对部件分工的解释属于策展分析，没有实测佩戴舒适度，也不按外观推定适合每一种头形。",
+      "usage": "原手册要求配合PS4与PlayStation Camera，并按设置画面调整摄像机位置和角度。使用者不仅要戴上设备，还要安排摄像机能够捕捉的活动空间。展览可以把“连接—调整—进入内容”写成动作顺序，让观众理解沉浸体验背后仍有房间与设备的准备工作；这不是现场操作承诺。对这台初代机器，线控承担电源与音量等操作，处理盒连接电视与主机。后续软件和支持页面可能加入新平台说明，因此本稿以同期机型手册为结构依据，不用今天的兼容表推定2016年首发已经具备所有支持方式。",
+      "significance": "PlayStation VR与本研究的Quest 3可并读，以比较依赖外部主机和摄像机的方案，与另一类独立头显如何分配计算及追踪任务。这个比较不是对两款机器的综合性能排名，也不把较晚年份写成必然优越。它的入选理由在于让“戴上屏幕”这句话重新变具体：设备之间的关系、身体可活动的范围和软件内容一起组成体验。与电视展品相比，画面从房间中的共同屏幕移到眼前，观看和旁观的关系也值得讨论。但本轮证据主要是厂商销售与操作资料，没有独立用户调查，因此这些讨论作为展陈提问保留，而不写成社会行为已经改变的结论。",
+      "limitations": "这套系统的活动范围由外部摄像机可见区域决定，原手册要求清理障碍物并按引导调整位置；不能仅凭头显有运动传感器就认为它能在任意房间自由行走。手册还说明软件版本会影响功能描述，因此使用经验应注明时期。2017年动态FAQ同时介绍了另一款处理盒，本稿不把新增结构套给CUH-ZVR1。没有现场体验、长期耐久测试或图片转载授权，本档采用文字回退；所谓沉浸感、舒适度与易用性都未由本研究亲自验证。展品可以呈现系统构成和操作条件，但不把制造商的体验宣传当作所有使用者的共同感受。",
+      "dateLabel": "2016-10-13（美国、加拿大）",
+      "dateKind": "launch",
+      "regionVersion": "原2016 CUH-ZVR1；不混2017 CUH-ZVR2",
+      "significanceLabel": "头显与主机生态",
+      "features": [
+        "外部Camera追踪",
+        "PS4配套",
+        "独立处理盒"
+      ],
+      "facts": [
+        {
+          "label": "事件",
+          "value": "2016-10-13（美国、加拿大）",
+          "sourceIds": [
+            "I150-S026"
+          ]
+        },
+        {
+          "label": "版本",
+          "value": "原2016 CUH-ZVR1；不混2017 CUH-ZVR2",
+          "sourceIds": [
+            "I150-S026",
+            "I150-S027",
+            "I150-S072"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "I150-S026",
+        "I150-S027",
+        "I150-S072",
+        "I150-S024",
+        "I150-S025"
+      ],
+      "paragraphSources": {
+        "context": [
+          "I150-S026",
+          "I150-S072"
+        ],
+        "design": [
+          "I150-S072"
+        ],
+        "usage": [
+          "I150-S072"
+        ],
+        "significance": [
+          "I150-S026",
+          "I150-S072",
+          "I150-S024",
+          "I150-S025"
+        ],
+        "limitations": [
+          "I150-S072",
+          "I150-S027"
+        ]
+      },
+      "heroMediaId": null,
+      "videoIds": [],
+      "relatedSlugs": [
+        "sony-playstation",
+        "meta-quest-3"
+      ],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "chronicleIds": [],
+      "chroniclePlacementProposal": {
+        "category": "immersive",
+        "phase": "外部主机和摄像机配合的消费VR",
+        "year": 2016,
+        "eventKind": "launch",
+        "change": "头戴显示纳入主机、追踪与内容的系统",
+        "isContemporary": false,
+        "existingChronicleId": null,
+        "requiresCoordinatorCategoryDecision": true
+      }
+    }
+  ],
+  "limitations": [
+    "多数原厂材料之间不独立；只支持身份、日期及操作，不支持销量或普遍用户体验。",
+    "未下载图片或视频，全部使用文字回退。",
+    "原机构检索摘录与已读取网页正文分开记录；未读取全文不写全文核查。",
+    "正式建议41件是身份/关键事实核准，不等于41件可入库；仅readyExhibits两篇完成五节稿。",
+    "广搜入口允许单篇具体积极评测；发现候选不能把媒体评测日期当上市。",
+    "Steam Frame动态页及社区4MB限制未完成售卖日期与地区核准。"
+  ]
+}

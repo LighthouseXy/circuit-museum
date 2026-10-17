@@ -1,0 +1,37 @@
+{
+  "checkedOn": "2026-10-15",
+  "candidates": [
+    {
+      "provider": "samsung-newsroom-kr",
+      "title": "The Freestyle 国内发布原始照片1（2022-01-27）",
+      "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%ED%8F%AC%ED%84%B0%EB%B8%94-%EC%8A%A4%ED%81%AC%EB%A6%B0-%EB%8D%94-%ED%94%84%EB%A6%AC%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B5%AD%EB%82%B4-%EC%B6%9C",
+      "original": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2022/01/%EB%8D%94-%ED%94%84%EB%A6%AC%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C1-2.jpg",
+      "thumbnail": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2022/01/%EB%8D%94-%ED%94%84%EB%A6%AC%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C1-2.jpg",
+      "artist": "Samsung Electronics / Samsung Newsroom Korea",
+      "license": "Samsung Newsroom Korea 原图转载许可（禁止改动）",
+      "licenseUrl": "https://news.samsung.com/kr/삼성전자-뉴스룸-콘텐츠-이용에-대한-안내",
+      "description": "2022年1月27日韩国新闻室初代The Freestyle发布稿：三星模特展示便携投影机。",
+      "publicationDate": "2022-01-27",
+      "originalSha256": "ff8066ae02360471bff6ba6dd7018c7d31bd11d768faa236636aca8cca7fdcea",
+      "localFile": "docs/evidence/photo-expansion/round3/samsung-freestyle-2022-original.jpg",
+      "metadata": {
+        "Artist": {
+          "value": "<a href=\"https://news.samsung.com/kr/\">Samsung Electronics / Samsung Newsroom Korea</a>"
+        },
+        "ObjectName": {
+          "value": "The Freestyle 国内发布原始照片1（2022-01-27）"
+        }
+      },
+      "primaryLicenseVerification": {
+        "checkedOn": "2026-10-15",
+        "directProductionVerified": true,
+        "noRestrictedWatermarkVerified": true,
+        "noExternalBylineVerified": true,
+        "preserveOriginal": true,
+        "termsArchive": "docs/evidence/photo-expansion/round3/samsung-kr-content-permission.html",
+        "termsSha256": "6231743d49858dd74157efa2b473b7eb531ae405cca452b75aeebb63d0c7fdf2",
+        "scope": "原稿页与新闻室指南均说明自制文章图片任何人可自由使用；受限外部图以底部新闻室水印识别，外部署名文章需另许可。该图逐像素检查无受限水印，原稿无外部署名，图注注明三星模特。禁止加工，本站原字节转载，不套用Global Newsroom的个人用途条款或CC许可。"
+      }
+    }
+  ]
+}

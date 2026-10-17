@@ -1,0 +1,117 @@
+{
+  "reviewedOn": "2026-10-03",
+  "videos": [
+    {
+      "id": "V01",
+      "exhibitSlug": "sony-tps-l2",
+      "publisher": "Sony Design",
+      "title": "#01 Throwback Walkman",
+      "landingUrl": "https://www.sony.com/en/SonyInfo/design/bside/01_throwback_walkman/",
+      "rightsMode": "external-link-only",
+      "summary": "官方设计短片通过旋转视角展示 TPS-L2 的机身、磁带窗与控制部件。",
+      "embedUrl": null,
+      "language": null,
+      "duration": null,
+      "checkedOn": "2026-10-03",
+      "playbackStatus": "原发布页面与影像入口已确认；未在本站或访客网络测试播放"
+    },
+    {
+      "id": "V02",
+      "exhibitSlug": "palmpilot-professional",
+      "publisher": "Computer History Museum",
+      "title": "The PalmPilot Story",
+      "landingUrl": "https://computerhistory.org/events/palmpilot-story/",
+      "rightsMode": "external-link-only",
+      "summary": "2002年对谈，Palm 创办团队回顾掌上电脑的开发和产品取舍。",
+      "embedUrl": null,
+      "language": null,
+      "duration": null,
+      "checkedOn": "2026-10-03",
+      "playbackStatus": "原发布页面与影像入口已确认；未在本站或访客网络测试播放"
+    },
+    {
+      "id": "V03",
+      "exhibitSlug": "steam-deck-lcd",
+      "publisher": "iFixit",
+      "title": "Steam Deck Teardown: Everything Valve Said Not to Do!",
+      "landingUrl": "https://www.ifixit.com/News/57101/steam-deck-teardown",
+      "rightsMode": "external-link-only",
+      "summary": "2022年原始 LCD 版拆解，观察握持机身内的模块、连接和维修取舍。",
+      "embedUrl": null,
+      "language": null,
+      "duration": null,
+      "checkedOn": "2026-10-03",
+      "playbackStatus": "原发布页面与影像入口已确认；未在本站或访客网络测试播放"
+    },
+    {
+      "id": "V04",
+      "exhibitSlug": "speak-and-spell",
+      "publisher": "Texas Instruments",
+      "title": "How TI’s 1978 invention sparked the edge AI revolution",
+      "landingUrl": "https://www.ti.com/video/6398906240112",
+      "rightsMode": "external-link-only",
+      "summary": "TI 工程师回顾 Speak & Spell 的语音技术及其后续影响；这是2026年回顾影像。",
+      "embedUrl": null,
+      "language": null,
+      "duration": null,
+      "checkedOn": "2026-10-03",
+      "playbackStatus": "原发布页面与影像入口已确认；未在本站或访客网络测试播放"
+    },
+    {
+      "id": "V05",
+      "exhibitSlug": "sony-playstation",
+      "publisher": "PlayStation",
+      "title": "PlayStation history — 1994（开机影像）",
+      "landingUrl": "https://www.playstation.com/en-us/playstation-history/1994-ps-one/",
+      "rightsMode": "external-link-only",
+      "summary": "官方历史页面附第一代 PlayStation 开机片段，适合观察声音与品牌识别。",
+      "embedUrl": null,
+      "language": null,
+      "duration": null,
+      "checkedOn": "2026-10-03",
+      "playbackStatus": "原发布页面与影像入口已确认；未在本站或访客网络测试播放"
+    }
+  ],
+  "teardowns": {
+    "iphone-4": {
+      "title": "玻璃与钢框之内",
+      "summary": "iFixit 对 2010 年 iPhone 4 的实物拆解显示，外观材料同时参与结构与射频设计。",
+      "points": [
+        "不锈钢边框兼作结构支撑和天线，外壳不是与功能无关的装饰。",
+        "电池通过连接器接入主板；后盖可以单独移除，正面组件的拆装路径更复杂。"
+      ],
+      "sourceIds": [
+        "TD01"
+      ],
+      "mediaIds": [],
+      "rightsNote": "原创简述并外链原拆解；本轮不转载 iFixit 图片。"
+    },
+    "steam-deck-lcd": {
+      "title": "模块化与胶粘并存",
+      "summary": "2022 年 LCD 版拆解展示了一种不完全一致的维修取舍：部分部件容易独立更换，电池则受胶粘影响。",
+      "points": [
+        "摇杆、电路子板与 M.2 存储采用可拆换结构；不要据此称整机全部接口都可独立替换。",
+        "电池胶粘固定；USB-C 与 microSD 接口焊在主板上。外形相近的 OLED 版不在这次拆解范围。"
+      ],
+      "sourceIds": [
+        "TD02"
+      ],
+      "mediaIds": [],
+      "rightsNote": "原创简述并外链原拆解；本轮不转载 iFixit 图片。"
+    },
+    "hp-35": {
+      "title": "从焊接面观察紧凑布局",
+      "summary": "这张开放许可实物照片展示 HP-35 主板的焊接面，可配合整机照片观察电路、键盘与显示空间之间的关系。",
+      "points": [
+        "照片可用于观察走线与焊点；单凭此面不标注未经确认的芯片型号、层数或制造工艺。"
+      ],
+      "sourceIds": [
+        "TD03"
+      ],
+      "mediaIds": [
+        "M25"
+      ],
+      "rightsNote": "M25 可按 CC BY-SA 4.0 使用；这是一张内部细节图，不是完整拆机教程。"
+    }
+  }
+}

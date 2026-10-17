@@ -1,0 +1,171 @@
+{
+  "slug": "perkins-smart-brailler",
+  "name": "SMART Brailler",
+  "regionVersion": "Perkins SMART电子反馈型号；排除1951纯机械Classic",
+  "query": "\"Smart\" AND \"Brailler\"",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Engineer update - USACE-p16021coll8-2089.pdf",
+      "pageid": 153107029,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Engineer_update_-_USACE-p16021coll8-2089.pdf",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Engineer_update_-_USACE-p16021coll8-2089.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Engineer_update_-_USACE-p16021coll8-2089.pdf/page1-960px-Engineer_update_-_USACE-p16021coll8-2089.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2024-09-24 22:27:34",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Engineer update – 2007 April",
+          "source": "commons-desc-page"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Uploaded with OpenRefine|PD US Army USACE|Books without Wikidata item|Images from USACE to check|Images from USACE, Magazines & Newsletters collection",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Artist": {
+          "value": "United States. Army. Corps of Engineers; United States. Army. Corps of Engineers. Public Affairs Office",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://usace.contentdm.oclc.org/digital/collection/p16021coll8/id/2089\">https://usace.contentdm.oclc.org/digital/collection/p16021coll8/id/2089</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "",
+      "artist": "United States. Army. Corps of Engineers; United States. Army. Corps of Engineers. Public Affairs Office",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "date": ""
+    },
+    {
+      "title": "File:Perkins SMART brailler.jpg",
+      "pageid": 19779492,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Perkins_SMART_brailler.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Perkins_SMART_brailler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Perkins_SMART_brailler.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "metadata": {
+        "DateTime": {
+          "value": "2012-06-05 19:01:50",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Perkins SMART brailler",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Perkins braille typewriters",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Perkins SMART Brailler combines the Next Generation v2.0 model with modern audio/video technology (a speaker and a digital screen). The added accessibility allows sighted teachers to see what their students are typing in braille; it allows students who are blind or partially sighted to hear what they're typing. All of these modifications were made in an effort to further improve braille literacy for blind, visually impaired and sighted readers alike.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2012-06-05",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Movierain&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Movierain (page does not exist)\">Movierain</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The Perkins SMART Brailler combines the Next Generation v2.0 model with modern audio/video technology (a speaker and a digital screen). The added accessibility allows sighted teachers to see what their students are typing in braille; it allows students who are blind or partially sighted to hear what they're typing. All of these modifications were made in an effort to further improve braille literacy for blind, visually impaired and sighted readers alike.",
+      "artist": "Movierain",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2012-06-05"
+    }
+  ]
+}

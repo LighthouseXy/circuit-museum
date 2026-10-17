@@ -1,0 +1,23 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Atari-2600-Six-Switch-Console-01.jpg",
+  "creator": "Evan-Amos",
+  "license": "PD-self",
+  "licenseUrl": "https://commons.wikimedia.org/wiki/File:Atari-2600-Six-Switch-Console-02.jpg#Licensing",
+  "alt": "六开关 Atari VCS 主机，木纹前面板",
+  "path": "/images/atari-vcs-exterior.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "caption": "早期六开关版本实物。1977 年指 VCS 产品推出年份。",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Atari-2600-Six-Switch-Console-01.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 5240,
+  "originalHeight": 3260,
+  "output": {
+    "format": "webp",
+    "width": 1100,
+    "height": 684,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 74614
+  }
+}

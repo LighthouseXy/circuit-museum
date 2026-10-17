@@ -1,0 +1,3285 @@
+{
+  "scope": "家用电器、生活护理、智能家居与机器人、导航定位、固定/个人通信、辅助电子；独立新增研究，不修改正式馆藏。广泛发现池的状态与正式建议分开。",
+  "checkedOn": "2026-10-11",
+  "candidates": [
+    {
+      "id": "HCM001",
+      "slug": "kitchenaid-h5",
+      "name": "H-5",
+      "brand": "KitchenAid",
+      "year": 1919,
+      "dateLabel": "1919年（原厂产品史）",
+      "dateKind": "launch",
+      "regionVersion": "美国H-5；不混1937 Model K",
+      "productFamily": "厨房电动搅拌",
+      "categoryProposal": "家务与食物",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "附件让电动搅拌成为可扩展食物准备工具。",
+      "keyFacts": [
+        {
+          "text": "H-5及1919节点；可用切片和过滤附件。",
+          "sourceIds": [
+            "HC150-S001",
+            "HC150-S002"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S001",
+        "HC150-S002"
+      ],
+      "identitySourceIds": [
+        "HC150-S001"
+      ],
+      "dateSourceIds": [
+        "HC150-S001"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "家务与食物；附件让电动搅拌成为可扩展食物准备工具。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "电气进入日常",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM002",
+      "slug": "toastmaster-1a1",
+      "name": "Toastmaster 1A1",
+      "brand": "Waters-Genter",
+      "year": 1926,
+      "dateLabel": "约1926；实物制造范围1926–1930",
+      "dateKind": "manufacture",
+      "regionVersion": "美国明尼阿波利斯；1A1，不混1A4/1A5",
+      "productFamily": "电烤面包机",
+      "categoryProposal": "家务与食物",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "补入加热与自动退出的早餐任务；以制造年代而非争议首发排序。",
+      "keyFacts": [
+        {
+          "text": "Smithsonian馆藏1992.0338.19为电烤面包机；目录列约1926。",
+          "sourceIds": [
+            "HC150-S003",
+            "HC150-S004"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S003",
+        "HC150-S004"
+      ],
+      "identitySourceIds": [
+        "HC150-S003"
+      ],
+      "dateSourceIds": [
+        "HC150-S003"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "家务与食物；补入加热与自动退出的早餐任务；以制造年代而非争议首发排序。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "电气进入日常",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM003",
+      "slug": "toshiba-er4",
+      "name": "ER-4",
+      "brand": "东京芝浦电气（Toshiba）",
+      "year": 1955,
+      "dateLabel": "1955-12-10（日本发售）",
+      "dateKind": "launch",
+      "regionVersion": "日本ER-4；排除ER-8与RC-10K",
+      "productFamily": "自动炊饭",
+      "categoryProposal": "家务与食物",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "间接加热与水蒸发控制，补足米食地区家务路线。",
+      "keyFacts": [
+        {
+          "text": "三重锅结构，外锅水蒸发后温控器切断；量产品，1955-12-10发售。",
+          "sourceIds": [
+            "HC150-S005",
+            "HC150-S006"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S005",
+        "HC150-S006"
+      ],
+      "identitySourceIds": [
+        "HC150-S005"
+      ],
+      "dateSourceIds": [
+        "HC150-S005"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "家务与食物；间接加热与水蒸发控制，补足米食地区家务路线。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM004",
+      "slug": "national-ec36",
+      "name": "EC-36",
+      "brand": "National／松下电器",
+      "year": 1956,
+      "dateLabel": "1956年上市（原厂回顾）",
+      "dateKind": "launch",
+      "regionVersion": "日本EC-36；排除1959出口SR系列",
+      "productFamily": "自动炊饭",
+      "categoryProposal": "家务与食物",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "直接接触加热与ER-4间接路线形成具体对照。",
+      "keyFacts": [
+        {
+          "text": "内锅接触加热板，护套加热器和恒温器，重盖保留蒸汽。",
+          "sourceIds": [
+            "HC150-S007",
+            "HC150-S008"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S007",
+        "HC150-S008"
+      ],
+      "identitySourceIds": [
+        "HC150-S007"
+      ],
+      "dateSourceIds": [
+        "HC150-S007"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "家务与食物；直接接触加热与ER-4间接路线形成具体对照。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM005",
+      "slug": "sharp-r10",
+      "name": "R-10",
+      "brand": "Sharp",
+      "year": 1962,
+      "dateLabel": "1962年量产／商用上市；1961开发原型",
+      "dateKind": "manufacture",
+      "regionVersion": "日本商用R-10；排除家庭R-600",
+      "productFamily": "微波烹饪",
+      "categoryProposal": "家务与食物",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "展示家庭技术的商用前史，不能误写为1962家庭普及。",
+      "keyFacts": [
+        {
+          "text": "R-10为商用量产微波炉；厂史分1961开发和1962量产。",
+          "sourceIds": [
+            "HC150-S009",
+            "HC150-S010"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S009",
+        "HC150-S010"
+      ],
+      "identitySourceIds": [
+        "HC150-S009"
+      ],
+      "dateSourceIds": [
+        "HC150-S009"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "家务与食物；展示家庭技术的商用前史，不能误写为1962家庭普及。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM006",
+      "slug": "kenwood-chef-a700",
+      "name": "Chef A700",
+      "brand": "Kenwood",
+      "year": 1950,
+      "dateLabel": "1950年推出；型号生产范围1950–1957",
+      "dateKind": "launch",
+      "regionVersion": "英国A700；不混A700D、A701A",
+      "productFamily": "厨房电动搅拌",
+      "categoryProposal": "家务与食物",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "行星搅拌与配件接口，补入英国厨房工作系统。",
+      "keyFacts": [
+        {
+          "text": "原厂说明1950 Ideal Home Exhibition推出；附件形成食物准备系统。",
+          "sourceIds": [
+            "HC150-S011",
+            "HC150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S011",
+        "HC150-S012"
+      ],
+      "identitySourceIds": [
+        "HC150-S011"
+      ],
+      "dateSourceIds": [
+        "HC150-S011"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "家务与食物；行星搅拌与配件接口，补入英国厨房工作系统。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM007",
+      "slug": "braun-hl1",
+      "name": "HL1",
+      "brand": "Braun",
+      "year": 1961,
+      "dateLabel": "1961年（博物馆作品年代）",
+      "dateKind": "manufacture",
+      "regionVersion": "德国HL1；Pompidou条目为HL1/11",
+      "productFamily": "桌面电风扇",
+      "categoryProposal": "家务与环境",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "可触及的小型定向气流设备，补入环境调节的实体工具。",
+      "keyFacts": [
+        {
+          "text": "MoMA编目1961 Desk Fan model HL1，塑料与钢壳，Reinhold Weiss设计。",
+          "sourceIds": [
+            "HC150-S013",
+            "HC150-S014"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S013",
+        "HC150-S014"
+      ],
+      "identitySourceIds": [
+        "HC150-S013"
+      ],
+      "dateSourceIds": [
+        "HC150-S013"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "家务与环境；可触及的小型定向气流设备，补入环境调节的实体工具。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM008",
+      "slug": "hoover-constellation-444",
+      "name": "Constellation model 444",
+      "brand": "Hoover",
+      "year": 1956,
+      "dateLabel": "约1956–1959（LACMA实物制造区间）",
+      "dateKind": "manufacture",
+      "regionVersion": "美国model444；不混英国86或其他Constellation代际",
+      "productFamily": "吸尘清洁",
+      "categoryProposal": "家务与清洁",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "球形罐体、软管与外置刷头改变机身和手的分工。",
+      "keyFacts": [
+        {
+          "text": "LACMA逐型编目444，约1956–1959，Henry Dreyfuss，金属与塑料。",
+          "sourceIds": [
+            "HC150-S015",
+            "HC150-S016"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S015",
+        "HC150-S016"
+      ],
+      "identitySourceIds": [
+        "HC150-S015"
+      ],
+      "dateSourceIds": [
+        "HC150-S015"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "家务与清洁；球形罐体、软管与外置刷头改变机身和手的分工。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM009",
+      "slug": "western-electric-500",
+      "name": "Model 500",
+      "brand": "Western Electric",
+      "year": 1949,
+      "dateLabel": "1949年问世（SFO Museum回顾）",
+      "dateKind": "launch",
+      "regionVersion": "美国Bell System旋转拨号桌机；不混1500/2500按键版",
+      "productFamily": "固定电话",
+      "categoryProposal": "通信与接入",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "拨盘周边字码与听筒、底座分工补足固定通信日常。",
+      "keyFacts": [
+        {
+          "text": "SFO档案记1946开发、1949问世，字码移至拨盘外围。",
+          "sourceIds": [
+            "HC150-S017",
+            "HC150-S018"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S017",
+        "HC150-S018"
+      ],
+      "identitySourceIds": [
+        "HC150-S017"
+      ],
+      "dateSourceIds": [
+        "HC150-S017"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "通信与接入；拨盘周边字码与听筒、底座分工补足固定通信日常。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM010",
+      "slug": "ericsson-ericofon",
+      "name": "Ericofon",
+      "brand": "Ericsson",
+      "year": 1956,
+      "dateLabel": "1956年量产（1954试产；1953展示不等同销售）",
+      "dateKind": "manufacture",
+      "regionVersion": "早期两半壳Ericofon，主要讨论瑞典生产；不混1958单件注塑改型",
+      "productFamily": "固定电话",
+      "categoryProposal": "通信与接入",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "把听筒与拨盘合为一体，解释放置动作和通信线路的关系。",
+      "keyFacts": [
+        {
+          "text": "原厂记1954试产、1956–1982 Karlskrona生产；MoMA实物年代1949–1959不能作为1956全球首发。",
+          "sourceIds": [
+            "HC150-S019",
+            "HC150-S020"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S019",
+        "HC150-S020"
+      ],
+      "identitySourceIds": [
+        "HC150-S019"
+      ],
+      "dateSourceIds": [
+        "HC150-S019"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "通信与接入；把听筒与拨盘合为一体，解释放置动作和通信线路的关系。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM011",
+      "slug": "magellan-nav1000",
+      "name": "NAV 1000",
+      "brand": "Magellan",
+      "year": 1988,
+      "dateLabel": "1988年（Smithsonian实物制造年）",
+      "dateKind": "manufacture",
+      "regionVersion": "美国馆藏2010.0118.01；不混NAV1200",
+      "productFamily": "手持卫星定位",
+      "categoryProposal": "导航与定位",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "把卫星坐标带到户外；日期采用实物制造而非常见1989首发说法。",
+      "keyFacts": [
+        {
+          "text": "Smithsonian记1988制造、电池供电手持GPS；档案记录第一代单通道。",
+          "sourceIds": [
+            "HC150-S021",
+            "HC150-S022"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S021",
+        "HC150-S022"
+      ],
+      "identitySourceIds": [
+        "HC150-S021"
+      ],
+      "dateSourceIds": [
+        "HC150-S021"
+      ],
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "gapContribution": "导航与定位；把卫星坐标带到户外；日期采用实物制造而非常见1989首发说法。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 图权待核，未下载",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展判断；功能不证明教学效果、道路/飞行安全或全球普及。",
+      "chroniclePlacement": {
+        "period": "个人信息与自动化",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM012",
+      "slug": "tomtom-go-2004",
+      "name": "GO（2004原版）",
+      "brand": "TomTom",
+      "year": 2004,
+      "dateLabel": "2004年3月推出（2005年报）",
+      "dateKind": "launch",
+      "regionVersion": "欧洲初代GO；不混GO300/GO系列现款",
+      "productFamily": "车载个人导航",
+      "categoryProposal": "导航与定位",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "独立机内整合地图、定位与触屏，补足车内找路日常。",
+      "keyFacts": [
+        {
+          "text": "2005年报明确2004年3月推出；厂商回顾列触屏、GPS、地图和软件组合。",
+          "sourceIds": [
+            "HC150-S023",
+            "HC150-S024"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S023",
+        "HC150-S024"
+      ],
+      "identitySourceIds": [
+        "HC150-S023"
+      ],
+      "dateSourceIds": [
+        "HC150-S023"
+      ],
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "gapContribution": "导航与定位；独立机内整合地图、定位与触屏，补足车内找路日常。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 图权待核，未下载",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展判断；功能不证明教学效果、道路/飞行安全或全球普及。",
+      "chroniclePlacement": {
+        "period": "网络进入家庭",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM013",
+      "slug": "motorola-pageboy-i",
+      "name": "PageBoy I",
+      "brand": "Motorola",
+      "year": 1964,
+      "dateLabel": "1964年（HNF博物馆史）",
+      "dateKind": "launch",
+      "regionVersion": "美国初代Pageboy，排除PageboyII与语音后代",
+      "productFamily": "寻呼通知",
+      "categoryProposal": "通信与接入",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "只通知再回拨的联系链，展示随身联系的另一种分工。",
+      "keyFacts": [
+        {
+          "text": "HNF记Motorola Pageboy1964；Westport有PageBoy I实物型号记录。",
+          "sourceIds": [
+            "HC150-S025",
+            "HC150-S026"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S025",
+        "HC150-S026"
+      ],
+      "identitySourceIds": [
+        "HC150-S025"
+      ],
+      "dateSourceIds": [
+        "HC150-S025"
+      ],
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "gapContribution": "通信与接入；只通知再回拨的联系链，展示随身联系的另一种分工。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 图权待核，未下载",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展判断；功能不证明教学效果、道路/飞行安全或全球普及。",
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM014",
+      "slug": "apple-airport-1999",
+      "name": "AirPort Base Station（首代）",
+      "brand": "Apple",
+      "year": 1999,
+      "dateLabel": "1999-07-21公布；公告预计9月供货",
+      "dateKind": "announcement",
+      "regionVersion": "北美首代AirPort；日本后称AirMac，不把日本计划日期当销售",
+      "productFamily": "家庭无线网络接入",
+      "categoryProposal": "通信与接入",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "把家中网络接入的固定线端与移动电脑分离。",
+      "keyFacts": [
+        {
+          "text": "1999-07-21公布，11Mbps网络、调制解调器和以太网连接；日本名称另有商标约束。",
+          "sourceIds": [
+            "HC150-S027",
+            "HC150-S028"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S027",
+        "HC150-S028"
+      ],
+      "identitySourceIds": [
+        "HC150-S027"
+      ],
+      "dateSourceIds": [
+        "HC150-S027"
+      ],
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "gapContribution": "通信与接入；把家中网络接入的固定线端与移动电脑分离。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 图权待核，未下载",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展判断；功能不证明教学效果、道路/飞行安全或全球普及。",
+      "chroniclePlacement": {
+        "period": "个人信息与自动化",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM015",
+      "slug": "avm-fritzbox-2004",
+      "name": "FRITZ!Box（初代无WLAN）",
+      "brand": "AVM",
+      "year": 2004,
+      "dateLabel": "2004-03-18 CeBIT公布",
+      "dateKind": "announcement",
+      "regionVersion": "德国初代两LAN口DSL路由器；不混秋季WLAN/Fon版",
+      "productFamily": "家庭宽带网关",
+      "categoryProposal": "通信与接入",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "日常宽带接入由多个盒子转向合一；保留欧洲DSL路线。",
+      "keyFacts": [
+        {
+          "text": "原厂记3月18日公布；初代DSL modem/router两LAN口，WiFi为秋季后续。",
+          "sourceIds": [
+            "HC150-S029",
+            "HC150-S030"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S029",
+        "HC150-S030"
+      ],
+      "identitySourceIds": [
+        "HC150-S029"
+      ],
+      "dateSourceIds": [
+        "HC150-S029"
+      ],
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "gapContribution": "通信与接入；日常宽带接入由多个盒子转向合一；保留欧洲DSL路线。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 图权待核，未下载",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展判断；功能不证明教学效果、道路/飞行安全或全球普及。",
+      "chroniclePlacement": {
+        "period": "网络进入家庭",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM016",
+      "slug": "western-electric-picturephone-mod-ii",
+      "name": "Picturephone Mod II",
+      "brand": "Western Electric／Bell System",
+      "year": 1970,
+      "dateLabel": "1970-07-01商业服务开始（CMU档案说明）",
+      "dateKind": "commission",
+      "regionVersion": "美国匹兹堡商业服务终端；排除1964 ModI展览电话",
+      "productFamily": "可视固定通信",
+      "categoryProposal": "通信与接入",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "可视通话、文档镜面与专用线路的早期服务依赖。",
+      "keyFacts": [
+        {
+          "text": "CMU保存ModII；档案注明1970-07-01商业开始；三对电话线分别承接视频及音频信令。",
+          "sourceIds": [
+            "HC150-S031",
+            "HC150-S032"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S031",
+        "HC150-S032"
+      ],
+      "identitySourceIds": [
+        "HC150-S031"
+      ],
+      "dateSourceIds": [
+        "HC150-S031"
+      ],
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "gapContribution": "通信与接入；可视通话、文档镜面与专用线路的早期服务依赖。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 图权待核，未下载",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展判断；功能不证明教学效果、道路/飞行安全或全球普及。",
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM017",
+      "slug": "husqvarna-solar-mower-1995",
+      "name": "Solar Mower",
+      "brand": "Husqvarna",
+      "year": 1995,
+      "dateLabel": "1995年销售（原厂历史）",
+      "dateKind": "launch",
+      "regionVersion": "1995首代太阳能割草机器人；不混1998 Automower",
+      "productFamily": "户外家务机器人",
+      "categoryProposal": "机器人与环境",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "补足花园照管与太阳能路线，区别室内吸尘。",
+      "keyFacts": [
+        {
+          "text": "原厂记Solar Mower1995售出，自动、机器人、太阳能；后代效率数不归给初代。",
+          "sourceIds": [
+            "HC150-S033",
+            "HC150-S034"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S033",
+        "HC150-S034"
+      ],
+      "identitySourceIds": [
+        "HC150-S033"
+      ],
+      "dateSourceIds": [
+        "HC150-S033"
+      ],
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "gapContribution": "机器人与环境；补足花园照管与太阳能路线，区别室内吸尘。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 图权待核，未下载",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展判断；功能不证明教学效果、道路/飞行安全或全球普及。",
+      "chroniclePlacement": {
+        "period": "个人信息与自动化",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM018",
+      "slug": "sony-aibo-ers110",
+      "name": "AIBO ERS-110",
+      "brand": "Sony",
+      "year": 1999,
+      "dateLabel": "1999-05-11公布；6月已完成5000件销售",
+      "dateKind": "announcement",
+      "regionVersion": "日本3000／美国2000限量；排除ERS111与ERS1000",
+      "productFamily": "家庭娱乐机器人",
+      "categoryProposal": "机器人与陪伴",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "可更换本地MemoryStick程序与动作，不混当代云端aibo。",
+      "keyFacts": [
+        {
+          "text": "1999公告列ERS110、18自由度与音调遥控；10月回顾证实6月5000件销售。",
+          "sourceIds": [
+            "HC150-S035",
+            "HC150-S036"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S035",
+        "HC150-S036"
+      ],
+      "identitySourceIds": [
+        "HC150-S035"
+      ],
+      "dateSourceIds": [
+        "HC150-S035"
+      ],
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "gapContribution": "机器人与陪伴；可更换本地MemoryStick程序与动作，不混当代云端aibo。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 图权待核，未下载",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展判断；功能不证明教学效果、道路/飞行安全或全球普及。",
+      "chroniclePlacement": {
+        "period": "个人信息与自动化",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM019",
+      "slug": "garmin-gps155-tso",
+      "name": "GPS 155 TSO",
+      "brand": "Garmin",
+      "year": 1994,
+      "dateLabel": "1994-02-16 FAA TSO批准（原厂回顾）",
+      "dateKind": "approval",
+      "regionVersion": "美国FAA批准飞机面板155；排除不同安装宽度165",
+      "productFamily": "航空卫星导航",
+      "categoryProposal": "导航与定位",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "定位设备进入仪表飞行的批准与完整性监测约束。",
+      "keyFacts": [
+        {
+          "text": "原厂记1994-02-16 TSO批准；GPS155标准6.25英寸面板，RAIM与NavData卡。",
+          "sourceIds": [
+            "HC150-S037",
+            "HC150-S038"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S037",
+        "HC150-S038"
+      ],
+      "identitySourceIds": [
+        "HC150-S037"
+      ],
+      "dateSourceIds": [
+        "HC150-S037"
+      ],
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "gapContribution": "导航与定位；定位设备进入仪表飞行的批准与完整性监测约束。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 图权待核，未下载",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展判断；功能不证明教学效果、道路/飞行安全或全球普及。",
+      "chroniclePlacement": {
+        "period": "个人信息与自动化",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM020",
+      "slug": "perkins-smart-brailler",
+      "name": "SMART Brailler",
+      "brand": "Perkins",
+      "year": 2012,
+      "dateLabel": "2012年推出（制造机构产品史）",
+      "dateKind": "launch",
+      "regionVersion": "Perkins SMART电子反馈型号；排除1951纯机械Classic",
+      "productFamily": "点字学习辅助",
+      "categoryProposal": "可及性与学习",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "让视力不同的师生共享音频、屏幕与触觉文字反馈。",
+      "keyFacts": [
+        {
+          "text": "2012 SMART版本加入音频反馈和显示屏，基础机械brailler并非本展品。",
+          "sourceIds": [
+            "HC150-S039",
+            "HC150-S040"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S039",
+        "HC150-S040"
+      ],
+      "identitySourceIds": [
+        "HC150-S039"
+      ],
+      "dateSourceIds": [
+        "HC150-S039"
+      ],
+      "evidenceLimits": [
+        "关键日期采用明确事件口径；未做实机/当代服务验证。",
+        "厂商总体销量、宣传首次、群体体验不扩大给单款。"
+      ],
+      "gapContribution": "可及性与学习；让视力不同的师生共享音频、屏幕与触觉文字反馈。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 图权待核，未下载",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展判断；功能不证明教学效果、道路/飞行安全或全球普及。",
+      "chroniclePlacement": {
+        "period": "网络进入家庭",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM021",
+      "slug": "nest-learning-thermostat-1",
+      "name": "Nest Learning Thermostat（初代）",
+      "brand": "Nest Labs",
+      "year": 2011,
+      "dateLabel": "2011年（MoMA作品年代；2012厂商确认初代仍在售）",
+      "dateKind": "manufacture",
+      "regionVersion": "北美2011初代；排除2012二代与后续Farsight",
+      "productFamily": "家庭温控",
+      "categoryProposal": "智能家居与环境",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "转环、显示和学习日程，让温控成为家庭中可编辑的设置。",
+      "keyFacts": [
+        {
+          "text": "MoMA2011实物；2012厂商列初代仍售，并将二代传感器/兼容改善与初代分开。",
+          "sourceIds": [
+            "HC150-S041",
+            "HC150-S042"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S041",
+        "HC150-S042"
+      ],
+      "identitySourceIds": [
+        "HC150-S041"
+      ],
+      "dateSourceIds": [
+        "HC150-S041"
+      ],
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "gapContribution": "智能家居与环境；转环、显示和学习日程，让温控成为家庭中可编辑的设置。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "仅陈述产品结构与可核事件，节能/健康/安全效果及普及不作无证据外推。",
+      "chroniclePlacement": {
+        "period": "网络进入家庭",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM022",
+      "slug": "philips-hue-2012",
+      "name": "Hue Starter Pack（首代）",
+      "brand": "Philips",
+      "year": 2012,
+      "dateLabel": "2012-10-29公布；10-30美欧Apple商店开售安排",
+      "dateKind": "announcement",
+      "regionVersion": "美欧首代三灯泡与Bridge；不混后续蓝牙/Matter代",
+      "productFamily": "联网灯泡",
+      "categoryProposal": "智能家居与照明",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "保持螺口灯具却增加手机和网桥操作，照明进入场景设置。",
+      "keyFacts": [
+        {
+          "text": "套装三颗600流明灯、网桥和LAN线；应用保存场景与定时。",
+          "sourceIds": [
+            "HC150-S043",
+            "HC150-S044"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S043",
+        "HC150-S044"
+      ],
+      "identitySourceIds": [
+        "HC150-S043"
+      ],
+      "dateSourceIds": [
+        "HC150-S043"
+      ],
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "gapContribution": "智能家居与照明；保持螺口灯具却增加手机和网桥操作，照明进入场景设置。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "仅陈述产品结构与可核事件，节能/健康/安全效果及普及不作无证据外推。",
+      "chroniclePlacement": {
+        "period": "网络进入家庭",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM023",
+      "slug": "amazon-echo-1",
+      "name": "Echo（初代）",
+      "brand": "Amazon",
+      "year": 2014,
+      "dateLabel": "2014年11月推出／邀请销售（原厂回顾）",
+      "dateKind": "launch",
+      "regionVersion": "美国初代黑色圆柱；排除2017日本第二代",
+      "productFamily": "语音家庭终端",
+      "categoryProposal": "智能家居与语音",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "把声音命令接到云端服务；保留邀请销售与后来公开订购的差别。",
+      "keyFacts": [
+        {
+          "text": "初代2014年11月；2015公告记录邀请销售后开放，七麦克风与云端Alexa。",
+          "sourceIds": [
+            "HC150-S045",
+            "HC150-S046"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S045",
+        "HC150-S046"
+      ],
+      "identitySourceIds": [
+        "HC150-S045"
+      ],
+      "dateSourceIds": [
+        "HC150-S045"
+      ],
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "gapContribution": "智能家居与语音；把声音命令接到云端服务；保留邀请销售与后来公开订购的差别。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "仅陈述产品结构与可核事件，节能/健康/安全效果及普及不作无证据外推。",
+      "chroniclePlacement": {
+        "period": "网络进入家庭",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM024",
+      "slug": "google-home-2016",
+      "name": "Google Home（初代）",
+      "brand": "Google",
+      "year": 2016,
+      "dateLabel": "2016-10-04公布并预订；11月供货计划",
+      "dateKind": "announcement",
+      "regionVersion": "美国首代；排除HomeMini/NestAudio",
+      "productFamily": "语音家庭终端",
+      "categoryProposal": "智能家居与语音",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "保留语音家庭助手的不同服务生态与可替换底座路线。",
+      "keyFacts": [
+        {
+          "text": "公告列OkGoogle音乐/问题/温控照明；2016-10-04预订。",
+          "sourceIds": [
+            "HC150-S047",
+            "HC150-S048"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S047",
+        "HC150-S048"
+      ],
+      "identitySourceIds": [
+        "HC150-S047"
+      ],
+      "dateSourceIds": [
+        "HC150-S047"
+      ],
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "gapContribution": "智能家居与语音；保留语音家庭助手的不同服务生态与可替换底座路线。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "仅陈述产品结构与可核事件，节能/健康/安全效果及普及不作无证据外推。",
+      "chroniclePlacement": {
+        "period": "当代日常与辅助电子",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM025",
+      "slug": "nest-protect-1",
+      "name": "Nest Protect（首代）",
+      "brand": "Nest Labs",
+      "year": 2013,
+      "dateLabel": "2013-11-15起美国销售（CPSC召回记录）",
+      "dateKind": "launch",
+      "regionVersion": "首代烟雾/CO报警器；保留2014撤销NestWave前后软件差别",
+      "productFamily": "家庭警报",
+      "categoryProposal": "智能家居与安全",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "语音解释警报状态，同时展出交互手势与安全功能冲突。",
+      "keyFacts": [
+        {
+          "text": "2013公告公布；CPSC记2013-11-15开售与2014更新禁用NestWave，未报告伤害。",
+          "sourceIds": [
+            "HC150-S049",
+            "HC150-S050"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S049",
+        "HC150-S050"
+      ],
+      "identitySourceIds": [
+        "HC150-S049"
+      ],
+      "dateSourceIds": [
+        "HC150-S049"
+      ],
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "gapContribution": "智能家居与安全；语音解释警报状态，同时展出交互手势与安全功能冲突。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "仅陈述产品结构与可核事件，节能/健康/安全效果及普及不作无证据外推。",
+      "chroniclePlacement": {
+        "period": "网络进入家庭",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM026",
+      "slug": "omron-hem1",
+      "name": "HEM-1",
+      "brand": "Omron",
+      "year": 1973,
+      "dateLabel": "1973年推出（原厂产品史）",
+      "dateKind": "launch",
+      "regionVersion": "日本初代电子手动manometer；不是后来的全自动数显HEM77",
+      "productFamily": "家庭测量",
+      "categoryProposal": "生活测量与照护",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "日常自测的手动操作与电子检测，区别智能穿戴的自动记录。",
+      "keyFacts": [
+        {
+          "text": "1973 HEM-1为电子血压计但manometer手动类型，厂商史明确。",
+          "sourceIds": [
+            "HC150-S051",
+            "HC150-S052"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S051",
+        "HC150-S052"
+      ],
+      "identitySourceIds": [
+        "HC150-S051"
+      ],
+      "dateSourceIds": [
+        "HC150-S051"
+      ],
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "gapContribution": "生活测量与照护；日常自测的手动操作与电子检测，区别智能穿戴的自动记录。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "仅陈述产品结构与可核事件，节能/健康/安全效果及普及不作无证据外推。",
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM027",
+      "slug": "violet-nabaztag-v1",
+      "name": "Nabaztag v1",
+      "brand": "Violet",
+      "year": 2005,
+      "dateLabel": "2005年（V&A）；6月日期来自原厂文案存档",
+      "dateKind": "launch",
+      "regionVersion": "法国初代无麦克风肚脐；排除Nabaztag:tag/Karotz",
+      "productFamily": "联网生活提示",
+      "categoryProposal": "智能家居与另类终端",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "天气与信息通过发光耳朵声音表现；产品身体与服务寿命可分。",
+      "keyFacts": [
+        {
+          "text": "V&A实物CD.3-2022列2005；WiFi消息、耳朵和灯光，后代语音不能归初代。",
+          "sourceIds": [
+            "HC150-S053",
+            "HC150-S054"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S053",
+        "HC150-S054"
+      ],
+      "identitySourceIds": [
+        "HC150-S053"
+      ],
+      "dateSourceIds": [
+        "HC150-S053"
+      ],
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "gapContribution": "智能家居与另类终端；天气与信息通过发光耳朵声音表现；产品身体与服务寿命可分。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "仅陈述产品结构与可核事件，节能/健康/安全效果及普及不作无证据外推。",
+      "chroniclePlacement": {
+        "period": "网络进入家庭",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM028",
+      "slug": "dyson-dc01",
+      "name": "DC01",
+      "brand": "Dyson",
+      "year": 1993,
+      "dateLabel": "1993-07-01首件下线（原厂史）",
+      "dateKind": "manufacture",
+      "regionVersion": "英国首代直立DualCyclone；排除DC02和GForce",
+      "productFamily": "吸尘清洁",
+      "categoryProposal": "家务与清洁",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "透明集尘盒让收集与清倒成为可见维护任务。",
+      "keyFacts": [
+        {
+          "text": "原厂记录1993-07-01生产、DualCyclone、透明集尘盒；不采纳永不减吸力结论。",
+          "sourceIds": [
+            "HC150-S055",
+            "HC150-S056"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S055",
+        "HC150-S056"
+      ],
+      "identitySourceIds": [
+        "HC150-S055"
+      ],
+      "dateSourceIds": [
+        "HC150-S055"
+      ],
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "gapContribution": "家务与清洁；透明集尘盒让收集与清倒成为可见维护任务。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "仅陈述产品结构与可核事件，节能/健康/安全效果及普及不作无证据外推。",
+      "chroniclePlacement": {
+        "period": "个人信息与自动化",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM029",
+      "slug": "ikea-dirigera",
+      "name": "DIRIGERA Hub",
+      "brand": "IKEA",
+      "year": 2022,
+      "dateLabel": "2022-11-02荷兰公告确认现售；5月公布计划",
+      "dateKind": "launch",
+      "regionVersion": "荷兰初代网桥；Matter-ready不等于2022具备完整Matter功能",
+      "productFamily": "家庭网关",
+      "categoryProposal": "智能家居与接入",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "家居零售生态里的普通网关，场景与既有设备接入有具体操作价值。",
+      "keyFacts": [
+        {
+          "text": "荷兰公告确认店内/网上现售；5月原稿仍是10月计划；场景分组。",
+          "sourceIds": [
+            "HC150-S057",
+            "HC150-S058"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S057",
+        "HC150-S058"
+      ],
+      "identitySourceIds": [
+        "HC150-S057"
+      ],
+      "dateSourceIds": [
+        "HC150-S057"
+      ],
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "gapContribution": "智能家居与接入；家居零售生态里的普通网关，场景与既有设备接入有具体操作价值。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "仅陈述产品结构与可核事件，节能/健康/安全效果及普及不作无证据外推。",
+      "chroniclePlacement": {
+        "period": "当代日常与辅助电子",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM030",
+      "slug": "aqara-presence-fp2",
+      "name": "Presence Sensor FP2",
+      "brand": "Aqara",
+      "year": 2023,
+      "dateLabel": "2023-04-20北美与指定欧洲市场现售公告",
+      "dateKind": "launch",
+      "regionVersion": "全球FP2 WiFi USB供电；排除FP1/FP300/FP400",
+      "productFamily": "非摄像存在感知",
+      "categoryProposal": "智能家居与感知",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "不拍画面而分区触发自动化，补足智能家居的输入端。",
+      "keyFacts": [
+        {
+          "text": "毫米波分区感知，AqaraHome设区后映射第三方平台；跌倒模式需吊顶且不能与分区多人同用。",
+          "sourceIds": [
+            "HC150-S059",
+            "HC150-S060"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S059",
+        "HC150-S060"
+      ],
+      "identitySourceIds": [
+        "HC150-S059"
+      ],
+      "dateSourceIds": [
+        "HC150-S059"
+      ],
+      "evidenceLimits": [
+        "公告计划与确认销售分开。",
+        "联网服务、地区协议和软件状态随年代变化；不承诺现售或当前仍可用。"
+      ],
+      "gapContribution": "智能家居与感知；不拍画面而分区触发自动化，补足智能家居的输入端。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; heroMediaId:null; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "仅陈述产品结构与可核事件，节能/健康/安全效果及普及不作无证据外推。",
+      "chroniclePlacement": {
+        "period": "当代日常与辅助电子",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM031",
+      "slug": "vorwerk-thermomix-tm5",
+      "name": "Thermomix TM5",
+      "brand": "Vorwerk",
+      "year": 2014,
+      "dateLabel": "2014-09市场推出",
+      "dateKind": "launch",
+      "regionVersion": "2014 TM5；不套TM6/TM7或后来的Cook-Key",
+      "productFamily": "厨房与食谱引导",
+      "categoryProposal": "厨房与食谱引导",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "用步骤引导承接普通烹饪操作，无需声称首创或世界性转折。",
+      "keyFacts": [
+        {
+          "text": "触屏与配方芯片提供分步骤操作；2014年9月推出。",
+          "sourceIds": [
+            "HC150-S061",
+            "HC150-S062"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S061",
+        "HC150-S062"
+      ],
+      "identitySourceIds": [
+        "HC150-S061"
+      ],
+      "dateSourceIds": [
+        "HC150-S061"
+      ],
+      "evidenceLimits": [
+        "仅陈述来源支持的该版本；不把计划、后续固件或地区版互套。"
+      ],
+      "gapContribution": "用步骤引导承接普通烹饪操作，无需声称首创或世界性转折。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "设计用途与作者体验可讨论，普及、安全、健康及长期可靠性不外推。",
+      "chroniclePlacement": {
+        "period": "网络进入家庭",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM032",
+      "slug": "sourcenext-pocketalk-w",
+      "name": "POCKETALK W",
+      "brand": "Sourcenext",
+      "year": 2018,
+      "dateLabel": "2018-09-07日本发售",
+      "dateKind": "launch",
+      "regionVersion": "日本W系列；地区/通信订阅区分，配色不另计",
+      "productFamily": "个人通信与翻译",
+      "categoryProposal": "个人通信与翻译",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "以专用设备、云服务与通信计划支持面对面跨语言交流。",
+      "keyFacts": [
+        {
+          "text": "W1PG含两年全球eSIM，W1PW不含；触屏显示翻译；更新仍需WiFi。",
+          "sourceIds": [
+            "HC150-S063",
+            "HC150-S064"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S063",
+        "HC150-S064"
+      ],
+      "identitySourceIds": [
+        "HC150-S063"
+      ],
+      "dateSourceIds": [
+        "HC150-S063"
+      ],
+      "evidenceLimits": [
+        "仅陈述来源支持的该版本；不把计划、后续固件或地区版互套。"
+      ],
+      "gapContribution": "以专用设备、云服务与通信计划支持面对面跨语言交流。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "设计用途与作者体验可讨论，普及、安全、健康及长期可靠性不外推。",
+      "chroniclePlacement": {
+        "period": "当代日常与辅助电子",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM033",
+      "slug": "humanware-victor-reader-stream-3",
+      "name": "Victor Reader Stream 3",
+      "brand": "HumanWare",
+      "year": 2024,
+      "dateLabel": "2024目录可核在售型号；首发日未主张",
+      "dateKind": "observed",
+      "regionVersion": "美国英文目录第三代；非2007第一代/第二代",
+      "productFamily": "可及性与阅读",
+      "categoryProposal": "可及性与阅读",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "触觉按键、音频导航与专门阅读设备补足屏幕中心展览。",
+      "keyFacts": [
+        {
+          "text": "2024目录明确第三代；触觉界面读书、广播与播客，厂商标称15小时续航。",
+          "sourceIds": [
+            "HC150-S066",
+            "HC150-S065"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S066",
+        "HC150-S065"
+      ],
+      "identitySourceIds": [
+        "HC150-S066"
+      ],
+      "dateSourceIds": [
+        "HC150-S066"
+      ],
+      "evidenceLimits": [
+        "仅陈述来源支持的该版本；不把计划、后续固件或地区版互套。"
+      ],
+      "gapContribution": "触觉按键、音频导航与专门阅读设备补足屏幕中心展览。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "设计用途与作者体验可讨论，普及、安全、健康及长期可靠性不外推。",
+      "chroniclePlacement": {
+        "period": "当代日常与辅助电子",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM034",
+      "slug": "philips-airfryer-hd9220",
+      "name": "Airfryer HD9220/40",
+      "brand": "Philips",
+      "year": 2010,
+      "dateLabel": "2010-12-10规格书发行锚；未代替全球首售",
+      "dateKind": "observed",
+      "regionVersion": "德国规格书HD9220/40 230V；其它后缀不另计",
+      "productFamily": "厨房与日常烹饪",
+      "categoryProposal": "厨房与日常烹饪",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "日常抽屉式热空气设备以篮、旋钮和清洁步骤呈现，不把健康口号作为事实。",
+      "keyFacts": [
+        {
+          "text": "可调温度与30分钟计时、抽屉与篮；2010规格书明确HD9220/40。",
+          "sourceIds": [
+            "HC150-S067",
+            "HC150-S068"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S067",
+        "HC150-S068"
+      ],
+      "identitySourceIds": [
+        "HC150-S067"
+      ],
+      "dateSourceIds": [
+        "HC150-S067"
+      ],
+      "evidenceLimits": [
+        "仅陈述来源支持的该版本；不把计划、后续固件或地区版互套。"
+      ],
+      "gapContribution": "日常抽屉式热空气设备以篮、旋钮和清洁步骤呈现，不把健康口号作为事实。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "设计用途与作者体验可讨论，普及、安全、健康及长期可靠性不外推。",
+      "chroniclePlacement": {
+        "period": "网络进入家庭",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM035",
+      "slug": "switchbot-s10",
+      "name": "Floor Cleaning Robot S10",
+      "brand": "SwitchBot",
+      "year": 2024,
+      "dateLabel": "2024-04末零售；04-30原刊已实测并确认可购",
+      "dateKind": "launch",
+      "regionVersion": "2024初始S10与水站；非S10后来的水箱配件单独型号",
+      "productFamily": "家务与机器人",
+      "categoryProposal": "家务与机器人",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "具体正面实测即可入选；分离充电集尘座与接水站体现家务基础设施。",
+      "keyFacts": [
+        {
+          "text": "两站分工：充电集尘与水补给/排放；2024年4月同期实测确认现售。",
+          "sourceIds": [
+            "HC150-S069",
+            "HC150-S070",
+            "HC150-S071"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S069",
+        "HC150-S070",
+        "HC150-S071"
+      ],
+      "identitySourceIds": [
+        "HC150-S069"
+      ],
+      "dateSourceIds": [
+        "HC150-S071",
+        "HC150-S069"
+      ],
+      "evidenceLimits": [
+        "仅陈述来源支持的该版本；不把计划、后续固件或地区版互套。"
+      ],
+      "gapContribution": "具体正面实测即可入选；分离充电集尘座与接水站体现家务基础设施。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [
+        {
+          "media": "The Verge",
+          "author": "Jennifer Pattison Tuohy",
+          "articleDate": "2024-04-30",
+          "modelVersion": "初始S10",
+          "url": "https://www.theverge.com/24144618/switchbot-s10-review-robot-vacuum",
+          "praise": "作者认为分离水站和滚筒清洗减少手动添水清理，约一周测试表现良好。",
+          "shortcomings": "约1000平方英尺两层清理需三小时补电；当时应用无仅拖地模式。",
+          "evaluationConditions": "约一周家中实测，水站接管道；不足以验证数月免维护。",
+          "commercialDisclosure": "原刊披露购物链接可能返佣；未据此推定厂商赞助。",
+          "verificationDepth": "原刊正文",
+          "sourceId": "HC150-S071"
+        }
+      ],
+      "publicImpactBoundary": "设计用途与作者体验可讨论，普及、安全、健康及长期可靠性不外推。",
+      "chroniclePlacement": {
+        "period": "当代日常与辅助电子",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM036",
+      "slug": "aqara-spatial-fp400",
+      "name": "Spatial Multi-Sensor FP400",
+      "brand": "Aqara",
+      "year": 2026,
+      "dateLabel": "2026-09-16正式现售公告",
+      "dateKind": "launch",
+      "regionVersion": "官方市场不含俄罗斯/日本；普通FP400，非Pro",
+      "productFamily": "智能家居与感知",
+      "categoryProposal": "智能家居与感知",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "补到当前2026；协议选择与第三方能力限制比笼统智能口号更值得呈现。",
+      "keyFacts": [
+        {
+          "text": "Thread或Zigbee；第三方Thread接入仅整体存在/光照；分区能力依平台与配置。",
+          "sourceIds": [
+            "HC150-S072",
+            "HC150-S073"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S072",
+        "HC150-S073"
+      ],
+      "identitySourceIds": [
+        "HC150-S072"
+      ],
+      "dateSourceIds": [
+        "HC150-S072"
+      ],
+      "evidenceLimits": [
+        "仅陈述来源支持的该版本；不把计划、后续固件或地区版互套。"
+      ],
+      "gapContribution": "补到当前2026；协议选择与第三方能力限制比笼统智能口号更值得呈现。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-only; 未下载，图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "设计用途与作者体验可讨论，普及、安全、健康及长期可靠性不外推。",
+      "chroniclePlacement": {
+        "period": "当代日常与辅助电子",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM037",
+      "slug": "ge-monitor-top",
+      "name": "Monitor-Top（具体机型待核）",
+      "brand": "General Electric",
+      "year": 1927,
+      "dateLabel": "发现锚；关键事件仍待核",
+      "dateKind": "observed",
+      "regionVersion": "确切版本待核",
+      "productFamily": "发现池",
+      "categoryProposal": "家居/通信/可及性",
+      "selectionStatus": "待核不计数",
+      "discoveryStatus": "发现候选",
+      "selectionReason": "冰箱/冷藏缺口；需要机型铭牌，不用系列名凑正式。",
+      "keyFacts": [
+        {
+          "text": "约1927实物，顶置制冷单元；未列确切机型",
+          "sourceIds": [
+            "HC150-S074"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S074"
+      ],
+      "identitySourceIds": [
+        "HC150-S074"
+      ],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "冰箱/冷藏缺口；需要机型铭牌，不用系列名凑正式。"
+      ],
+      "gapContribution": "冰箱/冷藏缺口；需要机型铭牌，不用系列名凑正式。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "无媒体下载；图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "不计正式、不称正文ready，不用未知版本支撑影响论断。",
+      "chroniclePlacement": {
+        "period": "电气进入日常",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM038",
+      "slug": "bendix-home-laundry-1937",
+      "name": "Home Laundry（具体版本待核）",
+      "brand": "Bendix",
+      "year": 1937,
+      "dateLabel": "发现锚；关键事件仍待核",
+      "dateKind": "observed",
+      "regionVersion": "确切版本待核",
+      "productFamily": "发现池",
+      "categoryProposal": "家居/通信/可及性",
+      "selectionStatus": "待核不计数",
+      "discoveryStatus": "发现候选",
+      "selectionReason": "自动洗衣早期路线保留；需要同期逐型手册与版本。",
+      "keyFacts": [
+        {
+          "text": "收藏编号327，1937前开门滚筒；没有明确Deluxe/Standard版本",
+          "sourceIds": [
+            "HC150-S075"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S075"
+      ],
+      "identitySourceIds": [
+        "HC150-S075"
+      ],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "自动洗衣早期路线保留；需要同期逐型手册与版本。"
+      ],
+      "gapContribution": "自动洗衣早期路线保留；需要同期逐型手册与版本。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "无媒体下载；图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "不计正式、不称正文ready，不用未知版本支撑影响论断。",
+      "chroniclePlacement": {
+        "period": "电气进入日常",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM039",
+      "slug": "garmin-gps100-pending",
+      "name": "GPS 100",
+      "brand": "Garmin",
+      "year": null,
+      "dateLabel": "发现锚；关键事件仍待核",
+      "dateKind": "observed",
+      "regionVersion": "确切版本待核",
+      "productFamily": "发现池",
+      "categoryProposal": "家居/通信/可及性",
+      "selectionStatus": "待核不计数",
+      "discoveryStatus": "发现候选",
+      "selectionReason": "精确首发年尚未解决，不能以截图日期替代。",
+      "keyFacts": [
+        {
+          "text": "原厂历史页本次仅JS壳；既有索引年与其它历史有1990/1991分歧",
+          "sourceIds": [
+            "HC150-S076"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S076"
+      ],
+      "identitySourceIds": [
+        "HC150-S076"
+      ],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "精确首发年尚未解决，不能以截图日期替代。"
+      ],
+      "gapContribution": "精确首发年尚未解决，不能以截图日期替代。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "无媒体下载；图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "不计正式、不称正文ready，不用未知版本支撑影响论断。",
+      "chroniclePlacement": {
+        "period": "年代待核",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM040",
+      "slug": "apple-airport-express-2004-pending",
+      "name": "AirPort Express（2004）",
+      "brand": "Apple",
+      "year": 2004,
+      "dateLabel": "发现锚；关键事件仍待核",
+      "dateKind": "observed",
+      "regionVersion": "确切版本待核",
+      "productFamily": "发现池",
+      "categoryProposal": "家居/通信/可及性",
+      "selectionStatus": "待核不计数",
+      "discoveryStatus": "发现候选",
+      "selectionReason": "便携网络/音频入口值得续核；不能混2008版n手册。",
+      "keyFacts": [
+        {
+          "text": "2004-06-07公告802.11g、USB/音频、预计7月；没有读取原版手册与确认交付",
+          "sourceIds": [
+            "HC150-S077"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S077"
+      ],
+      "identitySourceIds": [
+        "HC150-S077"
+      ],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "便携网络/音频入口值得续核；不能混2008版n手册。"
+      ],
+      "gapContribution": "便携网络/音频入口值得续核；不能混2008版n手册。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "无媒体下载；图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "不计正式、不称正文ready，不用未知版本支撑影响论断。",
+      "chroniclePlacement": {
+        "period": "网络进入家庭",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM041",
+      "slug": "google-wifi-2016-pending",
+      "name": "Google Wifi（2016）",
+      "brand": "Google",
+      "year": 2016,
+      "dateLabel": "发现锚；关键事件仍待核",
+      "dateKind": "observed",
+      "regionVersion": "确切版本待核",
+      "productFamily": "发现池",
+      "categoryProposal": "家居/通信/可及性",
+      "selectionStatus": "待核不计数",
+      "discoveryStatus": "发现候选",
+      "selectionReason": "Mesh与网络日常体验可入发现池，尚缺第二角色来源。",
+      "keyFacts": [
+        {
+          "text": "2016-10-04公告mesh及App，11月预售计划；未读取同期实售/测试",
+          "sourceIds": [
+            "HC150-S078"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S078"
+      ],
+      "identitySourceIds": [
+        "HC150-S078"
+      ],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "Mesh与网络日常体验可入发现池，尚缺第二角色来源。"
+      ],
+      "gapContribution": "Mesh与网络日常体验可入发现池，尚缺第二角色来源。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "无媒体下载；图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "不计正式、不称正文ready，不用未知版本支撑影响论断。",
+      "chroniclePlacement": {
+        "period": "当代日常与辅助电子",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM042",
+      "slug": "perkins-braille-bloom-pending",
+      "name": "Braille Bloom",
+      "brand": "Perkins",
+      "year": 2026,
+      "dateLabel": "发现锚；关键事件仍待核",
+      "dateKind": "observed",
+      "regionVersion": "确切版本待核",
+      "productFamily": "发现池",
+      "categoryProposal": "家居/通信/可及性",
+      "selectionStatus": "待核不计数",
+      "discoveryStatus": "发现候选",
+      "selectionReason": "2026辅助设备线索保留，不能仅导航链接视作交付。",
+      "keyFacts": [
+        {
+          "text": "历史文章导航列Braille Bloom；不足以核发售、电子结构与型号",
+          "sourceIds": [
+            "HC150-S079"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S079"
+      ],
+      "identitySourceIds": [
+        "HC150-S079"
+      ],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "2026辅助设备线索保留，不能仅导航链接视作交付。"
+      ],
+      "gapContribution": "2026辅助设备线索保留，不能仅导航链接视作交付。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "无媒体下载；图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "不计正式、不称正文ready，不用未知版本支撑影响论断。",
+      "chroniclePlacement": {
+        "period": "当代日常与辅助电子",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM043",
+      "slug": "vorwerk-tm7-pending",
+      "name": "Thermomix TM7",
+      "brand": "Vorwerk",
+      "year": 2025,
+      "dateLabel": "发现锚；关键事件仍待核",
+      "dateKind": "observed",
+      "regionVersion": "确切版本待核",
+      "productFamily": "发现池",
+      "categoryProposal": "家居/通信/可及性",
+      "selectionStatus": "待核不计数",
+      "discoveryStatus": "发现候选",
+      "selectionReason": "新一代日常烹饪发现，不因TM5入选就当然新增。",
+      "keyFacts": [
+        {
+          "text": "原始PDF本次Internal Error，原站索引表明TM7；未精读关键参数",
+          "sourceIds": [
+            "HC150-S080"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S080"
+      ],
+      "identitySourceIds": [
+        "HC150-S080"
+      ],
+      "dateSourceIds": [],
+      "evidenceLimits": [
+        "新一代日常烹饪发现，不因TM5入选就当然新增。"
+      ],
+      "gapContribution": "新一代日常烹饪发现，不因TM5入选就当然新增。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "无媒体下载；图权待核",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "不计正式、不称正文ready，不用未知版本支撑影响论断。",
+      "chroniclePlacement": {
+        "period": "当代日常与辅助电子",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "HC150-S001",
+      "title": "KitchenAid 100年产品史",
+      "publisher": "KitchenAid",
+      "url": "https://www.kitchenaid.com/100year/history.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "H-5、1919节点、附件用途",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传"
+    },
+    {
+      "id": "HC150-S002",
+      "title": "Brand History",
+      "publisher": "KitchenAid",
+      "url": "https://www.kitchenaid.com/countertop-appliances/about-kitchenaid/brand-history",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "H5家庭搅拌机身份",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传"
+    },
+    {
+      "id": "HC150-S003",
+      "title": "Toastmaster 1A1 Electric Toaster",
+      "publisher": "Smithsonian NMAH",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1118367",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型档案",
+      "verifiedScope": "精确型号、实物制造1926–1930、材料",
+      "verificationMethod": "原机构索引；open Internal Error",
+      "limits": "只核原机构索引返回文字；未取得正文/完整PDF；Internal Error不是403。",
+      "independence": "同机构",
+      "commercialDisclosure": "馆藏页；未核到其他披露"
+    },
+    {
+      "id": "HC150-S004",
+      "title": "Lighting a Revolution objects",
+      "publisher": "Smithsonian NMAH",
+      "url": "https://americanhistory.si.edu/lighting/scripts/s19o.htm",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆展览目录",
+      "verifiedScope": "同馆藏号Waters-Genter 1A1约1926",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同机构",
+      "commercialDisclosure": "展览目录"
+    },
+    {
+      "id": "HC150-S005",
+      "title": "自动式电气釜ER-4 100611940014",
+      "publisher": "国立科学博物馆产业技术史数据库",
+      "url": "https://sts.kahaku.go.jp/sts/detail.php?c=&city=&id=&no=100611940014&org=&p=116&pref=&word=&y1=&y2=",
+      "checkedOn": "2026-10-11",
+      "sourceType": "机构产业实物档案",
+      "verifiedScope": "精确型号、量产身份、发售日期与控制原理；调查方日本电机工业会",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "机构托管；调查来源行业组织，不冒称完全独立实验",
+      "commercialDisclosure": "记录页未核到商业披露"
+    },
+    {
+      "id": "HC150-S006",
+      "title": "PRODUCT HISTORY 炊饭器",
+      "publisher": "Toshiba Lifestyle",
+      "url": "https://www.toshiba-lifestyle.com/jp/corporate/rd/research/history/ricecooker/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "1955 ER-4身份",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "原厂",
+      "commercialDisclosure": "品牌历史宣传"
+    },
+    {
+      "id": "HC150-S007",
+      "title": "1956 Panasonic Group History",
+      "publisher": "Panasonic Holdings",
+      "url": "https://holdings.panasonic/global/corporate/about/history/chronicle/1956.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "1956 EC-36上市与直接加热结构",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌历史宣传"
+    },
+    {
+      "id": "HC150-S008",
+      "title": "Panasonic 100-Year Journey",
+      "publisher": "Panasonic Holdings",
+      "url": "https://holdings.panasonic/global/corporate/about/history/chronicle.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂年表",
+      "verifiedScope": "1956自动炊饭器背景；不独立确认EC-36操作",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌历史宣传"
+    },
+    {
+      "id": "HC150-S009",
+      "title": "Japan's First Mass Produced Microwave Oven R-10",
+      "publisher": "Sharp",
+      "url": "https://global.sharp/corporate/info/his/only_one/item/t06.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "1961开发、1962量产、商用客户路线",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "原厂",
+      "commercialDisclosure": "品牌历史宣传"
+    },
+    {
+      "id": "HC150-S010",
+      "title": "R-10 800270031031",
+      "publisher": "国立科学博物馆产业技术史数据库",
+      "url": "https://sts.kahaku.go.jp/sts/detail.php?c=&city=&id=&no=800270031031&org=&p=1230&pref=&word=&y1=&y2=",
+      "checkedOn": "2026-10-11",
+      "sourceType": "机构产业实物档案",
+      "verifiedScope": "1962量产品及商用型号；调查方Sharp",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "机构托管、厂商填报；不是独立测试",
+      "commercialDisclosure": "记录未核到商业披露"
+    },
+    {
+      "id": "HC150-S011",
+      "title": "How old is my Chef?",
+      "publisher": "Kenwood／DeLonghi",
+      "url": "https://www.kenwoodworld.com/it-it/faqs/Qual-%C3%A8-l%E2%80%99et%C3%A0-del-mio-Chef/a/2910",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂型号支持",
+      "verifiedScope": "A700 1950–1957与后续型号分界",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "销售支持页面"
+    },
+    {
+      "id": "HC150-S012",
+      "title": "History of Kenwood Stand Mixers",
+      "publisher": "Kenwood",
+      "url": "https://www.kenwoodworld.com/en-gb/e/history-of-kenwood",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "1950 A700展示、行星动作与附件",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌历史宣传"
+    },
+    {
+      "id": "HC150-S013",
+      "title": "Desk Fan model HL1",
+      "publisher": "MoMA",
+      "url": "https://www.moma.org/collection/works/2495?classifications=any&date_begin=Pre-1850&date_end=2018&locale=en&page=1&q=fan&with_images=1",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型档案",
+      "verifiedScope": "HL1、1961、Braun、设计师和材料",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "不同博物馆独立编目",
+      "commercialDisclosure": "馆藏页有Design Store链接；不作为奖项"
+    },
+    {
+      "id": "HC150-S014",
+      "title": "Ventilateur HL1/11",
+      "publisher": "Centre Pompidou",
+      "url": "https://www.centrepompidou.fr/en/ressources/oeuvre/cKxk7pz",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型档案",
+      "verifiedScope": "HL1/11 1961及设计师；不把后缀等同所有电气版本",
+      "verificationMethod": "原机构索引；open Internal Error",
+      "limits": "只核原机构索引返回文字；未取得正文/完整PDF；Internal Error不是403。",
+      "independence": "不同博物馆独立编目",
+      "commercialDisclosure": "索引未核到商业披露"
+    },
+    {
+      "id": "HC150-S015",
+      "title": "Hoover Constellation model444",
+      "publisher": "LACMA",
+      "url": "https://collections.lacma.org/object/284108",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型档案",
+      "verifiedScope": "444身份、约1956–1959、设计师、材料和附件",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "独立实物编目",
+      "commercialDisclosure": "图片有版权署名"
+    },
+    {
+      "id": "HC150-S016",
+      "title": "Euclid Sun Journal 1965-07-29",
+      "publisher": "Euclid Public Library馆藏同期报纸",
+      "url": "https://cdn.euclidlibrary.org/cdn/esj/1965/19650729/19650729.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "同期销售广告档案",
+      "verifiedScope": "1965广告仍列Constellation444与附件；仅销售广告而非首发",
+      "verificationMethod": "原机构PDF索引；open Internal Error",
+      "limits": "只核原机构索引返回文字；未取得正文/完整PDF；Internal Error不是403。",
+      "independence": "同期商家广告；不同于博物馆",
+      "commercialDisclosure": "广告为商业材料，价格不作购买建议"
+    },
+    {
+      "id": "HC150-S017",
+      "title": "Give Me a Ring gallery",
+      "publisher": "SFO Museum",
+      "url": "https://www.sfomuseum.org/exhibitions/telephone-retrospective/gallery",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆设计史",
+      "verifiedScope": "500日期、拨盘布局及Henry Dreyfuss",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "不同机构",
+      "commercialDisclosure": "展览；未核到商业披露"
+    },
+    {
+      "id": "HC150-S018",
+      "title": "Western Electric model500 exhibit",
+      "publisher": "Westport Tech Museum",
+      "url": "https://www.westporttechmuseum.com/products/rotary-dial-phones-1970",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆实物展品页",
+      "verifiedScope": "500实物展出身份和1949年份；不采纳近乎不坏夸张",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "不同机构；社会普及说法未独立验证",
+      "commercialDisclosure": "非售卖博物馆；部分照片背景由Gemini处理"
+    },
+    {
+      "id": "HC150-S019",
+      "title": "Ericofon design and innovation journey",
+      "publisher": "Ericsson",
+      "url": "https://www.ericsson.com/en/about-us/history/products/the-telephones/the-ericofon--cobra-1956-1954",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "试产/生产分界、ABS与结构开发",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "原厂历史；与MoMA不同作用",
+      "commercialDisclosure": "品牌历史宣传"
+    },
+    {
+      "id": "HC150-S020",
+      "title": "Ericofon Telephone",
+      "publisher": "MoMA",
+      "url": "https://www.moma.org/collection/works/1151",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型档案",
+      "verifiedScope": "实物身份、材料与作品年代1949–1959",
+      "verificationMethod": "正文",
+      "limits": "核返回正文相关段落；未做实物、耐久、市场采用或图像许可验证。",
+      "independence": "独立实物编目",
+      "commercialDisclosure": "Design Store链接；馆藏非奖项"
+    },
+    {
+      "id": "HC150-S021",
+      "title": "NAV1000 Hand-Held GPS Receiver",
+      "publisher": "Smithsonian NMAH",
+      "url": "https://americanhistory.si.edu/collections/object/nmah_1405613",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型档案",
+      "verifiedScope": "型号、1988实物制造年、电池供电",
+      "verificationMethod": "原机构索引；open Internal Error",
+      "limits": "只核返回文字或原机构索引；未取得完整正文；Internal Error不是403。",
+      "independence": "同机构",
+      "commercialDisclosure": "未核到商业披露"
+    },
+    {
+      "id": "HC150-S022",
+      "title": "First Generation NAV1000 and NAV1200",
+      "publisher": "Smithsonian Archives Center",
+      "url": "https://americanhistory.si.edu/ja/collections/archival-item/sova-nmah-ac-1214-ref306?form=FUNPYRYGFFP",
+      "checkedOn": "2026-10-11",
+      "sourceType": "机构原始企业档案目录",
+      "verifiedScope": "单通道、尺寸与工程文档范围；未读馆内文件",
+      "verificationMethod": "原机构索引；open Internal Error",
+      "limits": "只核返回文字或原机构索引；未取得完整正文；Internal Error不是403。",
+      "independence": "同机构，原企业档案目录",
+      "commercialDisclosure": "未核到商业披露"
+    },
+    {
+      "id": "HC150-S023",
+      "title": "2005 Annual Report p10",
+      "publisher": "TomTom",
+      "url": "https://corporate.tomtom.com/static-files/17232660-32c7-4fde-9fdb-791b82902f51",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期年报",
+      "verifiedScope": "2004年3月初代GO；不把全产品销量算GO单款",
+      "verificationMethod": "PDF原文相关页",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "上市公司投资者披露"
+    },
+    {
+      "id": "HC150-S024",
+      "title": "Goddijn Hall of Fame story",
+      "publisher": "TomTom",
+      "url": "https://www.tomtom.com/newsroom/life-at-tomtom/automotive-hall-of-fame-awards-tomtom-ceo/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂回顾",
+      "verifiedScope": "2004 GO整合结构；CEO奖不能给产品",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传"
+    },
+    {
+      "id": "HC150-S025",
+      "title": "Pager history",
+      "publisher": "Heinz Nixdorf MuseumsForum",
+      "url": "https://blog.hnf.de/und-es-hat-piep-gemacht-die-geschichte-des-pagers/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆技术史",
+      "verifiedScope": "1964 Pageboy及寻呼器路线",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "不同机构",
+      "commercialDisclosure": "馆史未核到商业披露"
+    },
+    {
+      "id": "HC150-S026",
+      "title": "PageBoy I exhibit",
+      "publisher": "Westport Tech Museum",
+      "url": "https://www.westporttechmuseum.com/collections/technological-firsts/products/motorola-pageboy-i-1964-1975",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆实物展品",
+      "verifiedScope": "PageBoy I身份与1964–1975展品标签；图源eBay",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "不同机构但图源不作电气版本证据",
+      "commercialDisclosure": "非售卖展品；页面购物组件为模板，背景有AI处理"
+    },
+    {
+      "id": "HC150-S027",
+      "title": "Apple lance AirPort",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/ca/fr/press/1999/07/airport.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "首代基站身份、公布日期、11Mbps与接口、供货计划",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "原厂商业公告"
+    },
+    {
+      "id": "HC150-S028",
+      "title": "Japanese wireless name change",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/jp/newsroom/2000/01/17Apple-to-change-the-name-of-wireless-networking-products/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂地区公告",
+      "verifiedScope": "日本商标与2000上市计划，非全球首发",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "原厂商业公告"
+    },
+    {
+      "id": "HC150-S029",
+      "title": "20 Years FRITZ!Box",
+      "publisher": "FRITZ!／AVM",
+      "url": "https://about.fritz.com/en/press/press-releases/2024/03/20-years-of-fritzbox-the-heart-of-the-digital-home-is-celebrating-its-birthday",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史公告",
+      "verifiedScope": "2004-03-18 CeBIT公布及DSL起点",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌纪念宣传"
+    },
+    {
+      "id": "HC150-S030",
+      "title": "About us milestones",
+      "publisher": "FRITZ!／AVM",
+      "url": "https://about.fritz.com/en/about-us",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂型号演进史",
+      "verifiedScope": "初代modem/router、两LAN口、秋季WiFi分界",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传"
+    },
+    {
+      "id": "HC150-S031",
+      "title": "Picturephone launch media",
+      "publisher": "Carnegie Mellon University历史技术小组",
+      "url": "https://www.videocall50th.com/additional-media",
+      "checkedOn": "2026-10-11",
+      "sourceType": "机构原档案说明",
+      "verifiedScope": "1970-07-01商业启动与CMU原实物；部分图片来自AT&T档案",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同项目；原AT&T资料托管",
+      "commercialDisclosure": "图权另核；非采购"
+    },
+    {
+      "id": "HC150-S032",
+      "title": "Picturephone ModII collection",
+      "publisher": "Carnegie Mellon University历史技术小组",
+      "url": "https://www.videocall50th.com/picturephone",
+      "checkedOn": "2026-10-11",
+      "sourceType": "机构实物技术说明",
+      "verifiedScope": "翻转镜面与三对线路；不采用网页0.8MP疑似错误数字",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同项目",
+      "commercialDisclosure": "未核到商业披露"
+    },
+    {
+      "id": "HC150-S033",
+      "title": "History timeline",
+      "publisher": "Husqvarna Group",
+      "url": "https://www.husqvarnagroup.com/en/history-timeline",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "Solar Mower1995销售及太阳能",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传"
+    },
+    {
+      "id": "HC150-S034",
+      "title": "Robotic mower production heights 2015",
+      "publisher": "Husqvarna Group",
+      "url": "https://www.husqvarnagroup.com/sites/husqvarna/files/pr/201505046730-1.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂公告",
+      "verifiedScope": "初代1995；后代总体生产与能耗不移植单款",
+      "verificationMethod": "PDF原文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌及投资者公告"
+    },
+    {
+      "id": "HC150-S035",
+      "title": "Sony launches four-legged robot",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/News/Press/199905/99-046/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "ERS110身份、公布日期、功能与地区计划",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "原厂商业公告"
+    },
+    {
+      "id": "HC150-S036",
+      "title": "Special Edition AIBO October1999",
+      "publisher": "Sony",
+      "url": "https://www.sony.com/en/SonyInfo/News/Press/199910/99-076/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂后续同期公告",
+      "verifiedScope": "ERS110 6月实际销售5000，与ERS111分界",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "原厂商业公告"
+    },
+    {
+      "id": "HC150-S037",
+      "title": "GPS milestone aviation 2014",
+      "publisher": "Garmin",
+      "url": "https://www.garmin.com/en-US/newsroom/press-release/aviation/2014-garmin-recognizes-a-gps-milestone-in-aviation/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂批准回顾",
+      "verifiedScope": "GPS155 TSO批准日期；本轮未独立读取FAA原证书",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌商业公告"
+    },
+    {
+      "id": "HC150-S038",
+      "title": "GPS155/165 TSO product",
+      "publisher": "Garmin",
+      "url": "https://www.garmin.com/en-GB/p/492/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂型号产品档案",
+      "verifiedScope": "GPS155/165安装宽度、RAIM与数据卡；没有当前库存承诺",
+      "verificationMethod": "正文及原厂索引补充；open仅16行",
+      "limits": "只核返回文字或原机构索引；未取得完整正文；Internal Error不是403。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业产品页"
+    },
+    {
+      "id": "HC150-S039",
+      "title": "Perkins Overview",
+      "publisher": "Perkins School for the Blind",
+      "url": "https://brailler.perkins.org/pages/perkins-overview",
+      "checkedOn": "2026-10-11",
+      "sourceType": "制造机构历史",
+      "verifiedScope": "SMART Brailler2012与部门历史",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同机构制造方",
+      "commercialDisclosure": "机构商店页面"
+    },
+    {
+      "id": "HC150-S040",
+      "title": "Evolution of the brailler",
+      "publisher": "Perkins School for the Blind",
+      "url": "https://www.perkins.org/how-the-evolution-of-the-brailler-expanded-braille-literacy/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "制造机构产品功能史",
+      "verifiedScope": "2012 SMART及音频/屏幕；不以Classic累积数量作SMART销量",
+      "verificationMethod": "正文",
+      "limits": "核正文相关段落；未做实物和社会效果测试。",
+      "independence": "同机构",
+      "commercialDisclosure": "机构推广；未核到独立教学效果"
+    },
+    {
+      "id": "HC150-S041",
+      "title": "Nest Learning Thermostat 2011",
+      "publisher": "MoMA",
+      "url": "https://www.moma.org/collection/works/292756",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆逐型档案",
+      "verifiedScope": "2011型号、塑料电子、馆藏号1282.2018",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "不同机构",
+      "commercialDisclosure": "馆藏页含DesignStore"
+    },
+    {
+      "id": "HC150-S042",
+      "title": "Next generation thermostat 2012",
+      "publisher": "Nest／Google",
+      "url": "https://blog.google/products-and-platforms/products/nest/next-generation-nest-thermostat/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂后续公告",
+      "verifiedScope": "初代上市不到一年、2012仍在售及初代二代结构差异",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "原厂",
+      "commercialDisclosure": "商业公告"
+    },
+    {
+      "id": "HC150-S043",
+      "title": "Introducing Philips hue 2012",
+      "publisher": "Philips／Signify档案",
+      "url": "https://www.signify.com/global/our-company/news/press-release-archive/2012/20121029-introducing-philips-hue",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "日期、初代套装、600流明、Bridge",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业公告"
+    },
+    {
+      "id": "HC150-S044",
+      "title": "Hue factsheet 2012",
+      "publisher": "Philips／Signify档案",
+      "url": "https://www.signify.com/ja-jp/our-company/news/press-release-archive/2012/121029-hue-factsheet",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期功能补充",
+      "verifiedScope": "场景保存、定时与iOS/Android要求；日文材料不证明日本开售",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业公告"
+    },
+    {
+      "id": "HC150-S045",
+      "title": "Alexa what's the latest",
+      "publisher": "Amazon",
+      "url": "https://www.aboutamazon.com/news/devices/alexa-whats-the-latest",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂回顾",
+      "verifiedScope": "首代Echo2014年11月及TTS历史",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌宣传"
+    },
+    {
+      "id": "HC150-S046",
+      "title": "Echo available to all customers 2015",
+      "publisher": "Amazon",
+      "url": "https://press.aboutamazon.com/2015/6/amazon-echo-now-available-to-all-customers",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "邀请销售、初代七麦克风/云端、2015公开订购",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业公告；用户好评引述不作独立评测"
+    },
+    {
+      "id": "HC150-S047",
+      "title": "Make yourself at home",
+      "publisher": "Google",
+      "url": "https://blog.google/products-and-platforms/products/home/make-yourself-home-google-home/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "公布/预订、功能与供货计划",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业公告"
+    },
+    {
+      "id": "HC150-S048",
+      "title": "Google Assistant is here",
+      "publisher": "Google",
+      "url": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/2016-google-assistant-en/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期生态说明",
+      "verifiedScope": "初代Home语音Assistant定位",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "品牌公告"
+    },
+    {
+      "id": "HC150-S049",
+      "title": "Nest Protect recall2014",
+      "publisher": "US CPSC",
+      "url": "https://www.cpsc.gov/Recalls/2014/Nest-Labs-Recalls-to-Repair-Nest-Protect-Smoke-CO-Alarms",
+      "checkedOn": "2026-10-11",
+      "sourceType": "监管原始召回记录",
+      "verifiedScope": "型号、销售起始、召回范围/修复；原机构索引取得完整相关描述",
+      "verificationMethod": "原机构索引；open返回(403) Forbidden",
+      "limits": "只核原机构检索返回；403限制正文重读。",
+      "independence": "不同监管机构",
+      "commercialDisclosure": "监管公告；open (403) Forbidden"
+    },
+    {
+      "id": "HC150-S050",
+      "title": "Meet Nest Protect",
+      "publisher": "Nest／Google",
+      "url": "https://blog.google/products-and-platforms/products/nest/meet-nest-protect-smoke-and-co-alarm/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期公告",
+      "verifiedScope": "2013-10-08公布、声音/灯光/手机状态设计",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "原厂",
+      "commercialDisclosure": "商业公告"
+    },
+    {
+      "id": "HC150-S051",
+      "title": "Omron Healthcare History",
+      "publisher": "Omron",
+      "url": "https://healthcare.omron.com/about/our-history",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂历史",
+      "verifiedScope": "1973、HEM1、手动manometer身份",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业品牌史"
+    },
+    {
+      "id": "HC150-S052",
+      "title": "Product development history",
+      "publisher": "Omron",
+      "url": "https://healthcare.omron.com/about/history-of-product-development",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂逐型年表",
+      "verifiedScope": "1973 HEM1电子身份，1978后代不混",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业品牌史"
+    },
+    {
+      "id": "HC150-S053",
+      "title": "Revisiting Nabaztag",
+      "publisher": "Victoria and Albert Museum",
+      "url": "https://www.vam.ac.uk/blog/museum-life/going-down-the-rabbit-hole-revisiting-the-nabaztag",
+      "checkedOn": "2026-10-11",
+      "sourceType": "博物馆原实物研究",
+      "verifiedScope": "2005实物、功能及研究观察；不将文中服务关闭日期作无争议全球结论",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "独立博物馆",
+      "commercialDisclosure": "未核到商业披露"
+    },
+    {
+      "id": "HC150-S054",
+      "title": "Nabaztag André archive",
+      "publisher": "Nabaztag社区原厂文案存档",
+      "url": "https://nabaztag.com/archive/andre",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂文案存档",
+      "verifiedScope": "2005年6月v1与2006后代区别",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "存档非现原厂；文案原来源",
+      "commercialDisclosure": "原厂推广文案；当前维护方身份未完全核"
+    },
+    {
+      "id": "HC150-S055",
+      "title": "Dyson who we are timeline",
+      "publisher": "Dyson",
+      "url": "https://careers.dyson.com/en-gb/who-we-are/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂生产史",
+      "verifiedScope": "DC01首件下线日期与透明盒",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "招聘/品牌宣传"
+    },
+    {
+      "id": "HC150-S056",
+      "title": "Invention a life chapter DC01",
+      "publisher": "James Dyson／Dyson",
+      "url": "https://www.dyson.com/james-dyson/invention-a-life/06",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原设计者结构档案",
+      "verifiedScope": "DC01旋风示意与1993生产线",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商、本人回忆",
+      "commercialDisclosure": "品牌图文与书籍宣传"
+    },
+    {
+      "id": "HC150-S057",
+      "title": "DIRIGERA Netherlands launch",
+      "publisher": "IKEA Netherlands",
+      "url": "https://www.ikea.com/nl/nl/newsroom/corporate-news/ikea-introduceert-dirigera-hub-om-slimme-apparaten-mee-te-bedienen-pub8d094e00/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂地区销售公告",
+      "verifiedScope": "2022-11-02荷兰现售与场景；网页后续编辑故不反推Matter当年实现",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同品牌不同地区公告",
+      "commercialDisclosure": "商业公告"
+    },
+    {
+      "id": "HC150-S058",
+      "title": "DIRIGERA global announcement",
+      "publisher": "Inter IKEA",
+      "url": "https://www.ikea.com/global/en/newsroom/innovation/ikea-launches-dirigera-the-matter-ready-hub-for-smart-products-and-a-new-ikea-home-smart-app-220525/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂公布",
+      "verifiedScope": "5月公布与10月计划；TRADFRI兼容安排",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同品牌",
+      "commercialDisclosure": "商业公告"
+    },
+    {
+      "id": "HC150-S059",
+      "title": "FP2 introduction",
+      "publisher": "Aqara",
+      "url": "https://www.aqara.com/us/news-us/aqara-adds-presence-sensor-fp2-to-its-smart-sensor-portfolio/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂同期销售公告",
+      "verifiedScope": "日期、市场、mmWave、模式互斥与非医疗设备",
+      "verificationMethod": "正文相关段落",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "商业公告"
+    },
+    {
+      "id": "HC150-S060",
+      "title": "FP2 User Manual",
+      "publisher": "Aqara",
+      "url": "https://www.aqara.com/wp-content/uploads/2023/07/Presence-Sensor-FP2_.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂说明书",
+      "verifiedScope": "AqaraHome需求、区域/安装、当地自动化需兼容Hub",
+      "verificationMethod": "PDF原文相关页",
+      "limits": "没有实机、服务持续可用性、群体效果或图权验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "厂商操作文档"
+    },
+    {
+      "id": "HC150-S061",
+      "title": "Thermomix TM5 September 2014 market introduction",
+      "publisher": "Vorwerk",
+      "url": "https://www.vorwerk-group.com/de/presse/publikationen/Vorwerk-Annual-Report-2014-Web-Version.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂年度报告",
+      "verifiedScope": "年报p14、17：2014年9月市场推出；触屏、食谱芯片、步骤引导",
+      "verificationMethod": "PDF正文相关页",
+      "limits": "年报中的媒体赞誉属转述，不列独立意见。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价"
+    },
+    {
+      "id": "HC150-S062",
+      "title": "Die Thermomix Erfolgsgeschichte",
+      "publisher": "Vorwerk",
+      "url": "https://www.vorwerk.com/de/de/c/home/rezepte-und-ideen/ideenreich/thermomix/lifestyle/die-thermomix-erfolgsgeschichte",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "TM5 2014；后续Cook-Key属另一步而非首发配置",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价"
+    },
+    {
+      "id": "HC150-S063",
+      "title": "POCKETALK W 本日発売",
+      "publisher": "Sourcenext",
+      "url": "https://sourcenext.co.jp/pressrelease_html/JS/2018/2018090702",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂发售公告",
+      "verifiedScope": "2018-09-07日本实际发售；W1PGK含两年eSIM/W1PWK不含，2.4寸触屏，网络地区限制",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价"
+    },
+    {
+      "id": "HC150-S064",
+      "title": "POCKETALK W software update 2019-11-18",
+      "publisher": "Sourcenext",
+      "url": "https://www.sourcenext.com/support/i/2019/191118_1/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂支持文档",
+      "verifiedScope": "更新需WiFi，即使含全球通信版；软件及语言随版本变化",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价"
+    },
+    {
+      "id": "HC150-S065",
+      "title": "Victor Reader Stream 3 product",
+      "publisher": "HumanWare",
+      "url": "https://store.humanware.com/hus/victor-reader-stream-handheld-media-player.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "精确第三代Stream3、触觉界面、有声内容无线获取、阅读位置提示",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价"
+    },
+    {
+      "id": "HC150-S066",
+      "title": "HumanWare 2024 US product showcase",
+      "publisher": "HumanWare",
+      "url": "https://www.humanware.com/wp-content/uploads/2025/04/Catalogue-HW-2024-US-EN-LR.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品目录",
+      "verifiedScope": "2024目录p12列Stream3；使用目录年作存在锚，非发售日",
+      "verificationMethod": "PDF目录正文",
+      "limits": "不将2025上传路径作为2025发售。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价"
+    },
+    {
+      "id": "HC150-S067",
+      "title": "Airfryer HD9220/40 Germany datasheet",
+      "publisher": "Philips",
+      "url": "https://www.philips.com/consumerfiles/newscenter/main/shared/assets/at/Downloadablefile/presse/22042011viva/20110413_Datenblatt_Airfryer%20HD9220.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "同期原厂规格书",
+      "verifiedScope": "HD9220/40，文档发行2010-12-10；抽屉篮、30分钟定时、230V",
+      "verificationMethod": "PDF正文3页",
+      "limits": "发行日仅证明该型号同期存在；非全球首售或饮食健康验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价"
+    },
+    {
+      "id": "HC150-S068",
+      "title": "HD9220/40 product archive",
+      "publisher": "Philips",
+      "url": "https://www.philips.com.ph/c-p/HD9220_40/viva-collection-airfryer-with-rapid-air-technology",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "相同/40型号已停产档案；抽屉篮、热空气烹饪和旋钮操作",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价"
+    },
+    {
+      "id": "HC150-S069",
+      "title": "SwitchBot six newcomers",
+      "publisher": "SwitchBot",
+      "url": "https://blog.switch-bot.com/six-newcomers-to-the-switchbot-family-youre-gonna-love-these/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂回顾",
+      "verifiedScope": "S10 IFA亮相/众筹与其后四月底正式推出分开；两座结构",
+      "verificationMethod": "读取原站正文",
+      "limits": "页面只显示相对时间，年份需同期实测交叉。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价"
+    },
+    {
+      "id": "HC150-S070",
+      "title": "SwitchBot S10 Canada product",
+      "publisher": "SwitchBot",
+      "url": "https://ca.switch-bot.com/pages/switchbot-floor-cleaning-robot-s10",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "S10与独立水站，接管道或外置水箱；当前页面功能可能后更新",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价"
+    },
+    {
+      "id": "HC150-S071",
+      "title": "SwitchBot S10 review",
+      "publisher": "The Verge",
+      "url": "https://www.theverge.com/24144618/switchbot-s10-review-robot-vacuum",
+      "checkedOn": "2026-10-11",
+      "sourceType": "署名媒体评测",
+      "verifiedScope": "Jennifer Pattison Tuohy，2024-04-30，约一周实测且确认当时可购买；分离水站体验及补电",
+      "verificationMethod": "原刊正文",
+      "limits": "单样机短期家居测试，不保证长期故障率。",
+      "independence": "独立署名媒体，非厂商转载",
+      "commercialDisclosure": "媒体页面含购物返佣披露"
+    },
+    {
+      "id": "HC150-S072",
+      "title": "Spatial Multi-Sensor FP400 available",
+      "publisher": "Aqara",
+      "url": "https://www.aqara.com/eu/news-eu/spatial-multi-sensor-fp400-availability-announcement/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂产品档案",
+      "verifiedScope": "2026-09-16现售；60GHz、Thread/Zigbee；第三方Thread仅整体存在和光照，勿混FP400Pro",
+      "verificationMethod": "读取原站正文",
+      "limits": "未做实机或当前服务验证。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价"
+    },
+    {
+      "id": "HC150-S073",
+      "title": "FP400 original official forum release",
+      "publisher": "AqaraOfficial",
+      "url": "https://forum.aqara.com/t/introducing-the-spatial-multi-sensor-fp400-automations-that-know-where-you-are/335567",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂论坛公告",
+      "verifiedScope": "09-16官方现售帖子明确全球市场不含RU/JP；USB-C供电及Matter边界",
+      "verificationMethod": "读取原站正文",
+      "limits": "同厂两种发布；评论与试用者不作为独立媒体。",
+      "independence": "同厂商",
+      "commercialDisclosure": "机构或原厂发布；不作为独立消费评价"
+    },
+    {
+      "id": "HC150-S074",
+      "title": "Monitor-Top（具体机型待核） discovery evidence",
+      "publisher": "Maine Historical Society",
+      "url": "https://www.mainememory.net/record/74888",
+      "checkedOn": "2026-10-11",
+      "sourceType": "发现池原始来源",
+      "verifiedScope": "约1927实物，顶置制冷单元；未列确切机型",
+      "verificationMethod": "正文",
+      "limits": "冰箱/冷藏缺口；需要机型铭牌，不用系列名凑正式。",
+      "independence": "机构自有藏品档案",
+      "commercialDisclosure": "机构档案或厂商资料；不作为消费推荐"
+    },
+    {
+      "id": "HC150-S075",
+      "title": "Home Laundry（具体版本待核） discovery evidence",
+      "publisher": "Lee Maxwell Washing Machine Museum",
+      "url": "https://www.oldewash.com/cf/detail_report.cfm?machine_num=327",
+      "checkedOn": "2026-10-11",
+      "sourceType": "发现池原始来源",
+      "verifiedScope": "收藏编号327，1937前开门滚筒；没有明确Deluxe/Standard版本",
+      "verificationMethod": "正文",
+      "limits": "自动洗衣早期路线保留；需要同期逐型手册与版本。",
+      "independence": "机构自有藏品档案",
+      "commercialDisclosure": "机构档案或厂商资料；不作为消费推荐"
+    },
+    {
+      "id": "HC150-S076",
+      "title": "GPS 100 discovery evidence",
+      "publisher": "Garmin",
+      "url": "https://www.garmin.com/en-CA/company/history/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "发现池原始来源",
+      "verifiedScope": "原厂历史页本次仅JS壳；既有索引年与其它历史有1990/1991分歧",
+      "verificationMethod": "JS壳，非正文",
+      "limits": "精确首发年尚未解决，不能以截图日期替代。",
+      "independence": "厂商/产品机构发布，不是独立评测",
+      "commercialDisclosure": "机构档案或厂商资料；不作为消费推荐"
+    },
+    {
+      "id": "HC150-S077",
+      "title": "AirPort Express（2004） discovery evidence",
+      "publisher": "Apple",
+      "url": "https://www.apple.com/newsroom/2004/06/07Apple-Unveils-AirPort-Express-for-Mac-PC-Users/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "发现池原始来源",
+      "verifiedScope": "2004-06-07公告802.11g、USB/音频、预计7月；没有读取原版手册与确认交付",
+      "verificationMethod": "正文",
+      "limits": "便携网络/音频入口值得续核；不能混2008版n手册。",
+      "independence": "厂商/产品机构发布，不是独立评测",
+      "commercialDisclosure": "机构档案或厂商资料；不作为消费推荐"
+    },
+    {
+      "id": "HC150-S078",
+      "title": "Google Wifi（2016） discovery evidence",
+      "publisher": "Google",
+      "url": "https://blog.google/products-and-platforms/products/google-wifi/introducing-new-kind-wi-fi-system/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "发现池原始来源",
+      "verifiedScope": "2016-10-04公告mesh及App，11月预售计划；未读取同期实售/测试",
+      "verificationMethod": "正文",
+      "limits": "Mesh与网络日常体验可入发现池，尚缺第二角色来源。",
+      "independence": "厂商/产品机构发布，不是独立评测",
+      "commercialDisclosure": "机构档案或厂商资料；不作为消费推荐"
+    },
+    {
+      "id": "HC150-S079",
+      "title": "Braille Bloom discovery evidence",
+      "publisher": "Perkins School for the Blind",
+      "url": "https://www.perkins.org/historic-braillers/",
+      "checkedOn": "2026-10-11",
+      "sourceType": "发现池原始来源",
+      "verifiedScope": "历史文章导航列Braille Bloom；不足以核发售、电子结构与型号",
+      "verificationMethod": "正文导航",
+      "limits": "2026辅助设备线索保留，不能仅导航链接视作交付。",
+      "independence": "厂商/产品机构发布，不是独立评测",
+      "commercialDisclosure": "机构档案或厂商资料；不作为消费推荐"
+    },
+    {
+      "id": "HC150-S080",
+      "title": "Thermomix TM7 discovery evidence",
+      "publisher": "Vorwerk",
+      "url": "https://www.vorwerk-group.com/de/tm7/dossier/Thermomix_TM7_Press%20Dossier_EN250214.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "发现池原始来源",
+      "verifiedScope": "原始PDF本次Internal Error，原站索引表明TM7；未精读关键参数",
+      "verificationMethod": "原站索引；open Internal Error",
+      "limits": "新一代日常烹饪发现，不因TM5入选就当然新增。",
+      "independence": "厂商/产品机构发布，不是独立评测",
+      "commercialDisclosure": "机构档案或厂商资料；不作为消费推荐"
+    }
+  ],
+  "readyExhibits": [
+    {
+      "id": "HCM003",
+      "slug": "toshiba-er4",
+      "name": "ER-4",
+      "brand": "东京芝浦电气（Toshiba）",
+      "year": 1955,
+      "dateLabel": "1955-12-10（日本发售）",
+      "dateKind": "launch",
+      "regionVersion": "日本ER-4；排除ER-8与RC-10K",
+      "productFamily": "自动炊饭",
+      "categoryProposal": "家务与食物",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "间接加热与水蒸发控制，补足米食地区家务路线。",
+      "keyFacts": [
+        {
+          "text": "三重锅结构，外锅水蒸发后温控器切断；量产品，1955-12-10发售。",
+          "sourceIds": [
+            "HC150-S005",
+            "HC150-S006"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S005",
+        "HC150-S006"
+      ],
+      "identitySourceIds": [
+        "HC150-S005"
+      ],
+      "dateSourceIds": [
+        "HC150-S005"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "家务与食物；间接加热与水蒸发控制，补足米食地区家务路线。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-ready-license-candidate-not-imported",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      },
+      "category": "home",
+      "categoryLabel": "家务与食物",
+      "aliases": [
+        "东京芝浦电气（Toshiba） ER-4"
+      ],
+      "tags": [
+        "自动炊饭",
+        "1955",
+        "日常设备"
+      ],
+      "summary": "以外锅水的蒸发组织炊饭结束，ER-4将米食准备与自动断电相接。",
+      "context": "ER-4的年代锚是日本的实际发售事件。国立科学博物馆产业技术史数据库将它列为一九五五年的量产品，并明确记录十二月十日推出；这份条目由电机行业协会调查填报，所在地是东芝未来科学馆。另一份厂商技术史也把ER-4放在自动炊饭器的发展中。这里首先确认产品的身份，不把数据库所在机构误称为对每项社会影响都做过独立研究。以米食为中心观察家电，能补充常见展览中由冰箱、烤箱和搅拌器组织的厨房叙事：需要完成的日常任务不同，控制机器结束工作的信号也因此不同。这个比较是策展角度，并不意味着一种饮食或家务方式优于另一种。",
+      "design": "资料描述的重点是内外锅之间的三重结构，以及预定在一段时间内蒸发的外锅水。当时温度传感的精度与米、水分及环境条件共同影响炊饭结果，设计用间接加热和水的状态变化组织自动控制。它不是把任意食材的成熟程度直接读成数字，而是让一个准备好的物理过程到达温控器可以回应的条件。外锅中的水因此同时承担操作材料与控制媒介两种角色。展览可以用剖面图说明这条关系，但图示应另作并注明为解释性绘制；档案图片没有因此取得使用许可。这样的结构分析关注如何安排任务，而不声称还原了每一台存世设备的全部电路。",
+      "usage": "根据已核结构，一次炊饭需要人准备食物和水，再让电热与温控机构完成其中一段工作。外锅水的设定量不是可随意省略的附件，它参与决定过程何时结束。使用者和机器的分工可以据此解释：人承担装填与预备，装置承接加热及结束判断。这里没有读取到足够完整的逐步原版说明书，因此不提供可直接用于旧机的操作处方，也不自行添加米量、计量杯刻度或维修方法。展示时更适合用静态结构、流程与相关产品的对照说明，而不是让观众据本文试用一台电源、绝缘和锅体状况未知的设备；本轮也没有进行实物运行检查。",
+      "significance": "ER-4的入选理由是它让自动控制进入一个具体、反复出现的家务任务。把外锅水变成时间与状态的媒介，可以帮助观众看到自动化不一定从复杂软件开始；材料、容器和传感机构的配合也能分担判断。与次年的National EC-36直接加热结构并置时，展览可以讨论两种路径如何组织热量与结束信号。再与Thermomix TM5的屏幕步骤引导相连，比较机器承担的是过程结束、动作提示还是更多工作，而不写成旧产品必然通向新产品的直线。这样的关联依据本研究已核产品成立，不以所有家庭的购买行为或劳动时间变化作为未经证明的结论。",
+      "limitations": "数据库条目包含厂商成功与厨房变革的叙述，这些用语没有在本展稿中当作群体影响的证据。早期生产数量、后续畅销与家庭普及属于不同问题，不能由一个量产品档案直接推出。两份来源各有作用，却都与原厂和产业记录相关，不能包装成两次独立效果测量。发售日期限定日本，也不替代出口市场、不同后缀或后来的保温型号日期。现存机的安全、温控器精度和食品结果都不在研究范围内。图片缺口单独保留，文字完整也不代表媒体许可或正式导入已经完成；在实施阶段，仍需选择有明确许可的实物照片或回退到文字展示。",
+      "features": [
+        "三重锅结构，外锅水蒸发后温控器切断；量产品，1955-12-10发售。"
+      ],
+      "facts": [
+        {
+          "label": "已核事实1",
+          "value": "三重锅结构，外锅水蒸发后温控器切断；量产品，1955-12-10发售。",
+          "sourceIds": [
+            "HC150-S005",
+            "HC150-S006"
+          ]
+        }
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S005",
+          "HC150-S006"
+        ],
+        "design": [
+          "HC150-S005",
+          "HC150-S006"
+        ],
+        "usage": [
+          "HC150-S005",
+          "HC150-S006"
+        ],
+        "significance": [
+          "HC150-S005",
+          "HC150-S006"
+        ],
+        "limitations": [
+          "HC150-S005",
+          "HC150-S006"
+        ]
+      },
+      "relatedSlugs": [
+        "national-ec36",
+        "vorwerk-thermomix-tm5"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chronicleNodeProposal": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    },
+    {
+      "id": "HCM010",
+      "slug": "ericsson-ericofon",
+      "name": "Ericofon",
+      "brand": "Ericsson",
+      "year": 1956,
+      "dateLabel": "1956年量产（1954试产；1953展示不等同销售）",
+      "dateKind": "manufacture",
+      "regionVersion": "早期两半壳Ericofon，主要讨论瑞典生产；不混1958单件注塑改型",
+      "productFamily": "固定电话",
+      "categoryProposal": "通信与接入",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "把听筒与拨盘合为一体，解释放置动作和通信线路的关系。",
+      "keyFacts": [
+        {
+          "text": "原厂记1954试产、1956–1982 Karlskrona生产；MoMA实物年代1949–1959不能作为1956全球首发。",
+          "sourceIds": [
+            "HC150-S019",
+            "HC150-S020"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "HC150-S019",
+        "HC150-S020"
+      ],
+      "identitySourceIds": [
+        "HC150-S019"
+      ],
+      "dateSourceIds": [
+        "HC150-S019"
+      ],
+      "evidenceLimits": [
+        "只采纳来源明确支持的型号、事件和结构；不主张全球首次或社会效果。",
+        "地区销售范围及现存机电状态未核。"
+      ],
+      "gapContribution": "通信与接入；把听筒与拨盘合为一体，解释放置动作和通信线路的关系。",
+      "relatedExistingSlugs": [],
+      "mediaStatus": "text-ready-license-candidate-not-imported",
+      "awards": [],
+      "publicImpactBoundary": "入选理由为策展解读；未证明销量、群体体验、劳动时间或全球普及率。",
+      "mediaOpinions": [],
+      "chroniclePlacement": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      },
+      "category": "communication",
+      "categoryLabel": "通信与接入",
+      "aliases": [
+        "Ericsson Ericofon"
+      ],
+      "tags": [
+        "固定电话",
+        "1956",
+        "日常设备"
+      ],
+      "summary": "把拨盘和听筒放入同一外壳，Ericofon使拿起与放下也成为通信操作的一部分。",
+      "context": "Ericofon的生产年代不能只从一张原型照片或馆藏年代范围读出。原厂历史区分了长期设计过程、早期模型、一九五四年的试制与一九五六年开始的Karlskrona生产；MoMA则把所藏实物的设计年代写为一九四九至一九五九。这些日期承担不同作用，所以本展以一九五六年量产为锚，保留馆藏范围而不把它解释成全球同日首售。固定电话的使用还嵌在运营商提供的线路和设备安排中，外观选择并不意味着通信服务已经变成完全个人化的系统。这样的背景让一体式电话可以与Western Electric 500并置，讨论桌面设备怎样从分开的听筒和机座获得另一种安排。",
+      "design": "原厂说明其概念是让桌面电话站在拨盘上，并在拨盘中央设置控制断路的按钮。听筒和拨号装置因而进入同一个外壳，底部不再只是摆放的支点，也是操作界面的一部分。厂商历史记录了模型试作和人体使用试验，以及在投产时采用ABS热塑性材料的选择；MoMA实物记录又提供材料与设计者信息作为另一种核对。展览解读的重点可以放在形态如何对应动作：弯曲外壳让握持部、听筒位置和桌面支撑发生联系。这里不把形态的醒目等同于每个人都感到舒适，也不将原厂所说的耐冲击和颜色优势转换成未经量测的耐用排名。",
+      "usage": "理解这台电话时，可以从拿起、翻看底部拨盘、进行拨号以及重新放置的动作展开。底部中央按钮承担断路控制，说明放置姿态和线路状态之间有具体关系；这不是仅供观赏的一体造型。原厂还描述过把铃声机构安排在独立墙盒中的概念，因此展览不应假定所有地区、所有生产阶段的Ericofon都有完全相同的铃声组件。本轮没有逐型接线手册和实机通话测试，不能提供接入今天电话网络的步骤。动作分析适用于理解已核设计概念，实际演示仍需核实展品的地区配置与运行条件，或者用非通电的展示让观众认识部件位置。",
+      "significance": "它值得入选，是因为把通常分开的使用动作压缩到一个可握持物体中。观众可以比较Western Electric 500的机座、听筒与外圈数字，再看Ericofon的底部拨盘，理解控制界面的位置怎样改变看、拿、转动和放下的顺序。这种比较不是宣称一种形式在所有场景都更好，而是使日常通信的具体动作成为可讨论的设计内容。与现有iPhone关联时，话题也应限定为设备如何安排握持和界面；移动网络、屏幕软件与固定线路有各自的条件，不能仅凭外形相似写成直接技术继承。MoMA收藏支持它作为设计实物的研究对象，却不是销量、服务可及性或公众满意度的证明。",
+      "limitations": "本稿不将原厂历史中的范式转移赞语当作已经独立验证的社会结论。馆藏材料帮助确认实物身份，厂商叙述帮助区分开发与生产，两者不能替代地区运营商档案或完整维修资料。早期两半外壳、后来的生产改型、不同铃声配置与出口市场还需要逐一对应；配色不作为新增展品，后缀也不能在缺乏结构证据时自动拆成多个型号。没有检查现存塑料老化、触点与接线状态，因此不对今天的使用可靠性作承诺。馆藏或原厂页面可见照片只代表研究线索，媒体许可尚未取得；heroMediaId保持空值，正文可实施与正式网站已导入仍分开计数。",
+      "features": [
+        "原厂记1954试产、1956–1982 Karlskrona生产；MoMA实物年代1949–1959不能作为1956全球首发。"
+      ],
+      "facts": [
+        {
+          "label": "已核事实1",
+          "value": "原厂记1954试产、1956–1982 Karlskrona生产；MoMA实物年代1949–1959不能作为1956全球首发。",
+          "sourceIds": [
+            "HC150-S019",
+            "HC150-S020"
+          ]
+        }
+      ],
+      "paragraphSources": {
+        "context": [
+          "HC150-S019",
+          "HC150-S020"
+        ],
+        "design": [
+          "HC150-S019",
+          "HC150-S020"
+        ],
+        "usage": [
+          "HC150-S019",
+          "HC150-S020"
+        ],
+        "significance": [
+          "HC150-S019",
+          "HC150-S020"
+        ],
+        "limitations": [
+          "HC150-S019",
+          "HC150-S020"
+        ]
+      },
+      "relatedSlugs": [
+        "western-electric-500",
+        "iphone-1"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chronicleNodeProposal": {
+        "period": "家庭与公共基础设施",
+        "status": "阶段位置建议，非已创建编年史节点"
+      }
+    }
+  ],
+  "limitations": [
+    "正式入选建议不等于正文ready或已入库。图片均未下载，授权另核。",
+    "两条同厂商来源不视为独立交叉验证；厂商社会影响和世界第一宣传不自动采纳。",
+    "43个实际发现条目中36为身份/事件已核正式建议，7为待核发现；没有把发现池计入正式数。",
+    "36件中仅ER-4和Ericofon两件完成五节长文；另外34件正式建议仍需独立展文。",
+    "本范围补足厨房、家务、通信、导航与可及性；个人护理、冷藏和洗衣机逐型证据仍有缺口，未因类别名称列出就宣称均衡完成。",
+    "个别原始页只读到机构搜索索引，正文open Internal Error；CPSC来源明确403；具体读取层级在各source记录，不能统称完整精读。",
+    "Stream3与HD9220使用同期目录/规格书存在锚observed而非猜测首次销售年；早期馆藏制造年和批准年也与launch分开。"
+  ]
+}

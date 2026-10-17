@@ -1,0 +1,417 @@
+{
+  "schemaVersion": 1,
+  "status": "content-ready-pending-coordinator-verification-and-implementation",
+  "scope": "两件游戏硬件完整稿；不追加型号计数，不修改gaming研究池和正式网站",
+  "checkedOn": "2026-10-11",
+  "sources": [
+    {
+      "id": "G150-S007",
+      "title": "SIE launches PlayStation 5 Pro",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://sonyinteractive.com/en/press-releases/2024/sony-interactive-entertainment-launches-playstation-5-pro/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2024-11-07",
+      "verifiedScope": "2024-11-07实际上市、PSSR、增强因游戏而异。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S017",
+      "title": "Nintendo Switch 2 April 2 announcement",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/corporate/release/en/2025/250402.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2025-04-02",
+      "verifiedScope": "Switch2屏幕、磁吸控制器、鼠标控制条件、支架、顶部USB-C；GameChat需会员且免费期截至2026-03-31。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S018",
+      "title": "Nintendo FY2026 first-quarter financial results",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/ir/pdf/2025/250801_2e.pdf",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2025-08-01",
+      "verifiedScope": "事后财报确认Switch2 2025-06-05推出；不采用销量数字。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "PDF原文/原机构表述摘录",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S019",
+      "title": "GameChat Guide and FAQ",
+      "publisher": "Nintendo",
+      "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/68390",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "当前会员/网络条件、语音视频屏幕共享、相机兼容测试；2025-06-05到2026-03-31免费期已结束。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "GR150-S001",
+      "title": "Nintendo Switch 2 review",
+      "publisher": "TechRadar",
+      "url": "https://www.techradar.com/gaming/nintendo/nintendo-switch-2-review",
+      "publishedOn": "2025-06-30（网页更新时间，初发日未核）",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "Rhys Wood署名；赞所测性能/屏幕与旧游戏兼容；批评掌机续航、蓝牙延迟；两周、LG CX OLED、指定耳机与游戏条件。",
+      "verificationMethod": "原评测正文署名、评价和How I tested段落；没有逐一重做测试",
+      "independence": "独立于Nintendo的原媒体评测；不要求多家一致意见",
+      "commercialDisclosure": "页面明示购买链接可能获联盟佣金；样机提供/付费赞助未核到。",
+      "limits": "2025评测不是2026服务条件；只用所测对象的意见，不用当代网页动态价格/侧栏。",
+      "sourceType": "original-signed-review"
+    },
+    {
+      "id": "GR150-S002",
+      "title": "PS5 Pro review: a high-performing enthusiast console with a pricey sting in the tail",
+      "publisher": "TechRadar",
+      "url": "https://www.techradar.com/gaming/ps5-pro-review",
+      "publishedOn": "2024-11-06",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "Rob Dwiar署名；赞所测视觉/性能改善，认为收益多为细微且价格高；一周、近20款PS4/5游戏、Acer X32QFS与Samsung Q6F条件。",
+      "verificationMethod": "原评测正文署名、优缺点、设计与How I tested段落；未复做测量",
+      "independence": "独立于SIE的原媒体实测；与Switch2评测属同媒体集团但不同产品/作者",
+      "commercialDisclosure": "购买链接可能赚联盟佣金；样机供应/稿件赞助未核到。",
+      "limits": "作者自述有限样机和游戏库，不证明全库4K60或普遍购买价值；不用现动态价格。",
+      "sourceType": "original-signed-review"
+    },
+    {
+      "id": "GR150-S003",
+      "title": "Welcome PlayStation 5 Pro",
+      "publisher": "Sony Interactive Entertainment / PlayStation Blog",
+      "url": "https://blog.playstation.com/2024/09/10/welcome-playstation-5-pro-the-most-visually-impressive-way-to-play-games-on-playstation/",
+      "publishedOn": "2024-09-10",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原发布配置是无光驱主机，光驱可另外购买；PS5界面和网络服务沿用；增强只适用选定已增强游戏、随游戏不同。",
+      "verificationMethod": "原厂正文配置、界面与脚注段落",
+      "independence": "同厂公告；与G150-S007非独立交叉来源",
+      "commercialDisclosure": "厂商自身宣传，不用营销性能百分比当独立实测。",
+      "limits": "该页11/7是当时计划，实际日期用11/7当日上市公告；未读取安装手册。",
+      "sourceType": "manufacturer-announcement"
+    },
+    {
+      "id": "GR150-S004",
+      "title": "PS5 Pro review access limitation",
+      "publisher": "Digital Trends",
+      "url": "https://www.digitaltrends.com/gaming/ps5-pro-review/",
+      "publishedOn": null,
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "仅定位评测网址；本轮打开失败，不采用其事实/评价。",
+      "verificationMethod": "原网址直接打开失败",
+      "independence": "独立媒体，但未取得正文不能作独立核查",
+      "commercialDisclosure": "未核到",
+      "limits": "不被正文、事实或媒体意见引用。",
+      "sourceType": "unread-review-index"
+    }
+  ],
+  "readyExhibits": [
+    {
+      "id": "待协调分配",
+      "slug": "nintendo-switch-2",
+      "year": 2025,
+      "name": "Nintendo Switch 2",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "category": "gaming",
+      "categoryLabel": "电子游戏与互动",
+      "aliases": [
+        "Nintendo Switch 2"
+      ],
+      "tags": [
+        "混合主机与鼠标输入",
+        "2025"
+      ],
+      "summary": "磁吸控制器与鼠标式输入延续混合游戏系统，也让桌面、手持和在线交流各自的使用条件更可见。",
+      "context": "Nintendo Switch 2于二〇二五年六月五日推出。这里采用八月公布的事后财报确认实际事件，而不是把四月发布稿中的计划直接当已发生的销售。产品延续一件系统在不同场所使用的方向，控制器又加入另一种输入方式。本展品关注的日常问题是：从电视前离开后，游戏怎样继续，换一个任务时手里的控制器又怎样改变用法。这样的策展问题不要求产品是历史首创，也不需要用销量证明价值。它可以与馆内的Game Boy、Nintendo DS和Steam Deck并置，分别观察独立掌机、不同输入界面与电脑游戏平台如何安排可携游戏。几条路线对应的是不同条件，不能只以推出年份把它们排成一条高低顺序。",
+      "design": "Joy-Con 2以磁力连接主机，背面的释放按钮用于拆下。官方发布资料还说明，控制器可以把与主机相接的一侧向下，沿表面移动，作为鼠标输入；左右两只均可承担这一任务，但前提是游戏支持。策展解读是，同一物件在手握按键与平面滑动之间转换，改变了使用者、桌面和屏幕之间的关系。它既是可拆部件，也是与特定软件共同成立的输入工具。观察这种转换时，说明表面和游戏条件比笼统赞美精确更有意义。某种材料或织物可能影响响应，故不能承诺任何位置都能得到相同控制效果。展览也不从外观推断内部磁铁或传感器的维修步骤。",
+      "usage": "使用情境可从三个位置展开：电视前、桌面上和手中。可调支架与顶部接口使桌面摆放时的连接安排成为可讨论的设计细节。GameChat则给这种空间迁移增加了与朋友交流的任务。核查截止二〇二六年十月十一日，官方FAQ要求Nintendo Switch Online会员及持续网络连接；此前开放使用期已在三月三十一日结束。语音可用主机内置麦克风，视频还要兼容USB相机。策展上，这表明屏幕、控制器之外还存在服务条件。设备可以携带，交流权限与网络却不能由便携外形保证。这里说明所需条件，不替玩家承诺在旅途中任意网络环境都能顺利使用，也不把旧评测中免费体验的条件写成当前条件。",
+      "significance": "一篇可靠的具体正面评测也能提供入选线索，无须把普通改善包装成时代转折。TechRadar的Rhys Wood在二〇二五年的署名评测中肯定了所测游戏表现和屏幕，同时指出续航及蓝牙音频问题。这个有条件的评价可以和厂家功能表互补：厂商说明能做什么，评测者说明指定样机在自己的环境中怎样表现。策展解读是，不同空间之间的切换仍要承担能量、显示和输入上的取舍。观众可以据自己的任务理解这些差异，而不是被要求接受统一的优秀排名。评测中测试过的游戏不能代表所有游戏，作者的屏幕感受也不等于每个人的视觉偏好；这些边界与正面评价一同保留。",
+      "limitations": "本稿的年代锚为二〇二五年原代，不将语言版、捆绑软件或配色另算产品。官方资料的鼠标功能限制随游戏与接触表面而变，兼容USB相机也需要检查，不能把宣传中的典型场景扩大为所有第三方设备保证。二〇二五年评测采用的有限样机和软件状态，不是二〇二六年所有系统更新的验证；全文没有据此主张固定续航、全库性能或故障率。发布公告、财报与FAQ虽然网址不同，仍属同一家厂商，不能称三份独立交叉研究。独立意见来自署名原评测，网页明示联盟佣金，样机供应未核到。没有下载原厂或媒体照片，没有登记视频，采用文字回退。服务条件将来改变时应重新核FAQ，保留本次核查日以免把时间相关限制当永久事实。",
+      "dateLabel": "2025-06-05推出（事后财报确认）",
+      "dateKind": "launch",
+      "regionVersion": "2025原代，语言/捆绑版不另算；服务截至2026-10-11",
+      "features": [
+        "Joy-Con2磁吸与释放按钮",
+        "鼠标控制依游戏和表面",
+        "GameChat当前需会员/网络"
+      ],
+      "facts": [
+        {
+          "label": "实际推出",
+          "value": "2025-06-05；2025-08-01财报PDF第10页事后确认",
+          "sourceIds": [
+            "G150-S018"
+          ]
+        },
+        {
+          "label": "控制器",
+          "value": "Joy-Con 2磁吸连接，支持鼠标控制的游戏中可沿表面移动；接触材料有条件",
+          "sourceIds": [
+            "G150-S017"
+          ]
+        },
+        {
+          "label": "当前GameChat条件",
+          "value": "截至2026-10-11需Nintendo Switch Online会员及持续网络；免费期截至2026-03-31",
+          "sourceIds": [
+            "G150-S019"
+          ]
+        },
+        {
+          "label": "独立实测",
+          "value": "Rhys Wood署名评测更新于2025-06-30；有限样机/游戏环境",
+          "sourceIds": [
+            "GR150-S001"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S018",
+        "G150-S017",
+        "G150-S019",
+        "GR150-S001"
+      ],
+      "identitySourceIds": [
+        "G150-S017",
+        "G150-S018",
+        "G150-S019"
+      ],
+      "dateSourceIds": [
+        "G150-S018"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S018",
+          "G150-S017"
+        ],
+        "design": [
+          "G150-S017"
+        ],
+        "usage": [
+          "G150-S017",
+          "G150-S019"
+        ],
+        "significance": [
+          "GR150-S001"
+        ],
+        "limitations": [
+          "G150-S017",
+          "G150-S019",
+          "GR150-S001"
+        ]
+      },
+      "relatedSlugs": [
+        "game-boy",
+        "nintendo-ds",
+        "steam-deck-lcd"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-ready-no-images-downloaded-no-videos-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "category": "gaming",
+        "stage": "混合空间与多种输入",
+        "year": 2025,
+        "anchorEvent": "2025-06-05实际推出",
+        "placementReason": "联系馆内GameBoy/DS/SteamDeck的可携与输入问题；不宣称史上首次",
+        "status": "proposal-pending-coordinator-chronicle-mapping"
+      },
+      "mediaOpinions": [
+        {
+          "media": "TechRadar",
+          "author": "Rhys Wood",
+          "articleDate": "2025-06-30（更新日；初发日未核）",
+          "modelVersion": "Nintendo Switch 2原代；评测时固件未在所读段落核到",
+          "exactModelVersion": "Nintendo Switch 2原代",
+          "url": "https://www.techradar.com/gaming/nintendo/nintendo-switch-2-review",
+          "originalURL": "https://www.techradar.com/gaming/nintendo/nintendo-switch-2-review",
+          "praise": "作者肯定所测游戏表现、屏幕和原Switch游戏兼容体验。",
+          "shortcomings": "掌机续航、蓝牙音频延迟和首发功能仍有不足。",
+          "evaluationConditions": "略超过两周；手持与底座均用，底座接LG CX OLED；指定新旧游戏与RIG900MaxHS/NothingEar(a)/RazerBlackSharkV2等音频设备；不能推广全库。",
+          "commercialDisclosure": "联盟购买佣金明示；样机供应与稿件赞助未核到。",
+          "verificationDepth": "正文署名、评价、测试方法；没有复做测试",
+          "sourceId": "GR150-S001"
+        }
+      ],
+      "awards": [],
+      "contentStatus": "ready-pending-coordinator-verification-and-implementation",
+      "publicImpactBoundary": "真实产品与有限实测；不主张第一、最高设计奖、普遍口碑、销量或耐久效果。"
+    },
+    {
+      "id": "待协调分配",
+      "slug": "sony-playstation-5-pro",
+      "year": 2024,
+      "name": "PlayStation 5 Pro",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "category": "gaming",
+      "categoryLabel": "电子游戏与互动",
+      "aliases": [
+        "PlayStation 5 Pro"
+      ],
+      "tags": [
+        "增强家用主机",
+        "2024"
+      ],
+      "summary": "在熟悉的游戏平台内改善选定游戏的画面和运动表现。PS5 Pro让增强效果、显示设备、软件支持与光盘配置的条件一起成为可比较的选择。",
+      "context": "PlayStation 5 Pro于二〇二四年十一月七日实际上市，原厂当日公告明确写出可购买。九月发布资料中的日期原本只是计划，本稿把两种事件区分开。它属于同一代平台里的增强型号，馆藏选它所回答的问题很具体：在已经使用熟悉游戏和界面的条件下，更换硬件想改善的究竟是哪一部分体验。这样的选择不必宣称全新游戏方式，也不必把产品定位于所有玩家。策展可以从原有PlayStation的家用游戏场景继续展开，把固定屏幕、软件库和具体游戏设置之间的关系放到前台。新机器的价值需要在任务里理解，不能由一个型号中的Pro字样自动推出。",
+      "design": "原厂以升级图形处理、光线追踪和PSSR图像重建解释增强方向。这里不复述最高性能宣传或把理论百分比当每款游戏的结果。机器仍沿用PS5的用户界面与网络服务，首发配置则是无光驱主机，实体光盘使用者需要另购对应光驱。这组安排让设计问题超出外壳：原来的内容介质如何继续使用，软件界面是否需要重新学习，什么配件进入基本配置，什么要追加。策展解读是，硬件增强并不总与操作方式翻新一起发生；也可以让熟悉流程在选定任务上获得不同结果。展览据资料保留这一关系，不从产品照片推断拆装难度、散热寿命或所有配件都能通用。",
+      "usage": "代表性使用任务是选择一款支持增强的游戏，在相同场景中观察画面与运动表现。原厂脚注明确，增强只存在于选定、针对Pro增强的作品，而且结果随游戏而不同。玩家因此需要同时看硬件、软件支持和显示条件，而不是只看主机标签。策展时可以用这样的观察问题引导观众：更细的画面和更顺畅的运动分别影响什么，坐在多远的位置看屏幕，哪种设置更适合正在玩的内容。这里是任务分析，不给所有作品承诺同一帧率或分辨率。若游戏以实体光盘取得，还要处理另外购买光驱的条件；数字和实体内容的使用路径不同，不能因为界面延续就忽略获取与读取介质的步骤。",
+      "significance": "TechRadar的Rob Dwiar用约一周和近二十款游戏作比较，署名评价肯定所测视觉与性能改善，也认为收益并非普遍剧变，价格需要衡量。作者在指定屏幕和游戏中的观察为选品提供了普通而具体的正面依据，不必抬高成行业里程碑。策展解读是，中期增强产品让体验改善的尺度变得可讨论：有些差异在相同场景的直接比较中清楚，有些则取决于观众距离、显示设备和个人任务。媒体意见与厂商特性可以放在同一页，却应各自署明角色。推荐标签也不是产品获得某种最高设计奖的证据；本稿不登记奖项，不将单篇正面评价写成所有玩家一致认可。",
+      "limitations": "型号范围为二〇二四年原PS5 Pro，不将地区价格、纪念配色或可选光驱拆成新增主机。首发价格只属于当时公告，本稿不作当前购买推荐。PSSR和增强效果受游戏实现与更新影响，不能从发布日特性推断二〇二六年每款作品的状态。署名评测给出了有限样机、约一周和指定屏幕的条件，并不能证明长期故障率，也没有替本站进行物理测试。厂家发布稿和上市稿同属一个组织，独立意见仅来自读到的原媒体实测；媒体网页披露联盟佣金，样机供应和赞助状态未核到。另一个评测网址打开失败，未被算作额外支持。没有下载品牌图或评测照片，没有登记视频，采用合法文字回退。未来展示具体画面对比，仍须补足游戏版本、捕获条件与媒体许可。",
+      "dateLabel": "2024-11-07实际上市",
+      "dateKind": "launch",
+      "regionVersion": "2024原PS5Pro；不分周年颜色",
+      "features": [
+        "PSSR图像重建",
+        "增强随支持游戏不同",
+        "首发无光驱、可另购"
+      ],
+      "facts": [
+        {
+          "label": "实际上市",
+          "value": "2024-11-07当日原厂公告确认available now",
+          "sourceIds": [
+            "G150-S007"
+          ]
+        },
+        {
+          "label": "增强条件",
+          "value": "PSSR图像重建与图形增强；选定已增强游戏，表现随游戏不同",
+          "sourceIds": [
+            "G150-S007",
+            "GR150-S003"
+          ]
+        },
+        {
+          "label": "首发配置",
+          "value": "无光驱，可另购光驱；沿用PS5界面和网络服务",
+          "sourceIds": [
+            "GR150-S003"
+          ]
+        },
+        {
+          "label": "独立观察",
+          "value": "Rob Dwiar 2024-11-06原评测，约一周/近20款游戏与指定4K屏",
+          "sourceIds": [
+            "GR150-S002"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S007",
+        "GR150-S003",
+        "GR150-S002"
+      ],
+      "identitySourceIds": [
+        "G150-S007"
+      ],
+      "dateSourceIds": [
+        "G150-S007"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S007",
+          "GR150-S003"
+        ],
+        "design": [
+          "G150-S007",
+          "GR150-S003"
+        ],
+        "usage": [
+          "G150-S007",
+          "GR150-S003"
+        ],
+        "significance": [
+          "GR150-S002"
+        ],
+        "limitations": [
+          "G150-S007",
+          "GR150-S003",
+          "GR150-S002"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "steam-deck-lcd",
+        "nintendo-wii"
+      ],
+      "heroMediaId": null,
+      "videoIds": [],
+      "reviewedOn": "2026-10-11",
+      "mediaStatus": "text-ready-no-images-downloaded-no-videos-imported",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "category": "gaming",
+        "stage": "同代平台增强与显示条件",
+        "year": 2024,
+        "anchorEvent": "2024-11-07实际上市",
+        "placementReason": "连接馆内原PlayStation家用游戏平台与SteamDeck不同游戏空间；不直接排列性能高低",
+        "status": "proposal-pending-coordinator-chronicle-mapping"
+      },
+      "mediaOpinions": [
+        {
+          "media": "TechRadar",
+          "author": "Rob Dwiar",
+          "articleDate": "2024-11-06",
+          "modelVersion": "PS5 Pro原代；所读段落未确认样机地区与固件",
+          "exactModelVersion": "PlayStation 5 Pro 2024",
+          "url": "https://www.techradar.com/gaming/ps5-pro-review",
+          "originalURL": "https://www.techradar.com/gaming/ps5-pro-review",
+          "praise": "作者肯定所测游戏视觉/性能改善，认为高刷新屏幕更能体现部分收益。",
+          "shortcomings": "改变总体较细微；价格高，首发不附光驱和直立支架。",
+          "evaluationConditions": "约一周、近20款PS4/PS5游戏直接比较；AcerPredatorX32QFS4K高刷新显示器及SamsungQ6F4K电视；非全库测试。",
+          "commercialDisclosure": "页面明示联盟佣金；样机供应和稿件赞助未核到。",
+          "verificationDepth": "署名、优缺点、设计和How I tested正文，未复做测试",
+          "sourceId": "GR150-S002"
+        }
+      ],
+      "awards": [],
+      "contentStatus": "ready-pending-coordinator-verification-and-implementation",
+      "publicImpactBoundary": "真实产品与有限实测；不主张第一、最高设计奖、普遍口碑、销量或耐久效果。"
+    }
+  ],
+  "verificationRecheck": {
+    "G150-S017": "2026-10-11重读控制器、鼠标表面限制、支架接口段落",
+    "G150-S018": "2026-10-11重读财报第10页实际推出事件",
+    "G150-S019": "2026-10-11重读会员、网络、免费期、相机兼容FAQ",
+    "G150-S007": "2026-10-11重读当日实际上市与增强脚注"
+  },
+  "validation": {
+    "readyChineseCounts": {
+      "nintendo-switch-2": 1140,
+      "sony-playstation-5-pro": 1141
+    },
+    "uniqueSourceIds": true,
+    "factsResolve": true,
+    "paragraphSourcesResolve": true,
+    "existingRelatedSlugsResolve": true,
+    "mediaFallback": true
+  },
+  "limitations": [
+    "ready代表完整稿待统一核验，不代表导入或部署。",
+    "两篇各有独立于厂商的署名原评测；两媒体文章均TechRadar同集团，不称多家一致认可。",
+    "已有G150源记录原样保留，重读范围见verificationRecheck。",
+    "Steam Controller2026未作为此两稿，不把May4计划写为全球实际上市。",
+    "无图片下载；服务依赖按2026-10-11核查；未实际试用、拆解或做全库验证。"
+  ]
+}

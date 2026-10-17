@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.DS_Store
+
+# Private GitHub source sync: credentials, caches and local runtime files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+tmp/
+output/
+*.log
+docs/evidence/**/*.png
+docs/evidence/**/*.jpg
+docs/evidence/**/*.webp

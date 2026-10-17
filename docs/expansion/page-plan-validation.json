@@ -1,0 +1,80 @@
+{
+  "checkedOn": "2026-10-11",
+  "scope": "阶段/页面方案完整性；不代表正式网站已导入或验收",
+  "checks": [
+    {
+      "name": "正式馆藏基线保留",
+      "status": "pass",
+      "details": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a"
+    },
+    {
+      "name": "正式编年史基线保留",
+      "status": "pass",
+      "details": "e2f4f4a8fce0dc0a4c0166c62f29fe538124d72098f1368a8fc9ad0ae64e2e34"
+    },
+    {
+      "name": "数据结构与唯一身份",
+      "status": "pass",
+      "details": "40现有+6ready；7线/26阶段/47唯一节点"
+    },
+    {
+      "name": "节点身份与馆藏区别",
+      "status": "pass",
+      "details": "9背景，38不重复展品；背景不计新增馆藏"
+    },
+    {
+      "name": "阶段归属与顺序",
+      "status": "pass",
+      "details": "每节点恰归一个阶段，跨阶段和阶段内年代非递减；阶段与起读产品可解析"
+    },
+    {
+      "name": "原29节点事实与锚点",
+      "status": "pass",
+      "details": "原id/year/dateLabel/dateKind/kind/title/summary/change及引用编号映射保持"
+    },
+    {
+      "name": "首批提议位置与日期",
+      "status": "pass",
+      "details": "4提议各导入一次；Framework首批出货仅归一枚举，原日期文字保留"
+    },
+    {
+      "name": "来源与版本边界",
+      "status": "pass",
+      "details": "所有来源逐字段沿用；首批节点提供regionVersion；未重核全部URL或抬高读取深度"
+    },
+    {
+      "name": "首页与全46条目绑定",
+      "status": "pass",
+      "details": "6实物品类入口、4有界专题；没有未ready候选入口"
+    },
+    {
+      "name": "导航与真实照片数量",
+      "status": "pass",
+      "details": "46件计划池仍33主照片，13文字回退；新6零导入照片"
+    },
+    {
+      "name": "内部文件链接",
+      "status": "pass",
+      "details": "本目录Markdown相对文件链接可解析；外部URL未全量重开"
+    }
+  ],
+  "mediumReadOnlyReview": {
+    "agent": "/root/stage_plan_review_medium",
+    "reasoningEffortRequested": "medium",
+    "filesReviewed": [
+      "stage-chronicles.json",
+      "page-content.json"
+    ],
+    "result": "未发现阻断内容方案交付的问题",
+    "changesApplied": [
+      "保留首批regionVersion于节点和完整稿",
+      "前史采用1879选点，不用始于措辞",
+      "iPod改为直接描述整理/同步/选曲操作"
+    ]
+  },
+  "limitations": [
+    "没有导入正式40件数据或修改网站代码；布局预览验证另见preview-validation.json。",
+    "未逐一重新打开外部资料、下载新照片或运行实机。",
+    "本轮方案日期不表示所有旧来源在本日重新核查。"
+  ]
+}

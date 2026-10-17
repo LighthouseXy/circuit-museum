@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Regency_TR-1.jpg",
+  "creator": "Cmglee",
+  "license": "CC BY-SA 3.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "alt": "红色 Regency TR-1 晶体管收音机，圆形调谐盘与金色扬声器网格",
+  "path": "/images/regency-tr1.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Regency_TR-1.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 1024,
+  "originalHeight": 1536,
+  "output": {
+    "format": "webp",
+    "width": 733,
+    "height": 1100,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 64430
+  }
+}

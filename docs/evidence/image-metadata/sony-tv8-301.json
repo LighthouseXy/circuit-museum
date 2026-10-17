@@ -1,0 +1,22 @@
+{
+  "sourcePage": "https://commons.wikimedia.org/wiki/File:Sony_portable_tv_TV8-301.jpg",
+  "creator": "ブルーノ・プラス",
+  "license": "CC BY 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "alt": "Sony TV8-301 便携电视的屏幕与控制面板",
+  "path": "/images/sony-tv8-301.webp",
+  "changes": "等比例缩小、WebP 转码；沿用原许可",
+  "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sony_portable_tv_TV8-301.jpg",
+  "checkedOn": "2026-10-03",
+  "originalWidth": 3648,
+  "originalHeight": 2736,
+  "output": {
+    "format": "webp",
+    "width": 1100,
+    "height": 825,
+    "channels": 3,
+    "premultiplied": false,
+    "hasAlpha": false,
+    "size": 51962
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "slug": "canon-ae-1",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:Canon AE-1 with 50mm f1.8 S.C. II.jpg",
+      "pageid": 23915880,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Canon_AE-1_with_50mm_f1.8_S.C._II.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Canon_AE-1_with_50mm_f1.8_S.C._II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Canon_AE-1_with_50mm_f1.8_S.C._II.jpg/960px-Canon_AE-1_with_50mm_f1.8_S.C._II.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2013-01-17 01:08:45",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Canon AE-1 with 50mm f1.8 S.C. II",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Canon AE-1|1976 Summer Olympics memorabilia|Self-published work|Cameras and lenses on white background|Canon FD 50mm f/1.8",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Canon AE-1 camera with FD 50mm f/1.8 S.C. II lens (with 1976 Olympics front cap).",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2008-05-19 13:43:48",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Charles.lanteigne\" title=\"User:Charles.lanteigne\">Charles Lanteigne</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "Canon AE-1 camera with FD 50mm f/1.8 S.C. II lens (with 1976 Olympics front cap).",
+      "artist": "Charles Lanteigne",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "date": "2008-05-19 13:43:48"
+    }
+  ]
+}

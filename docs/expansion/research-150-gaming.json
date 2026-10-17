@@ -1,0 +1,2241 @@
+{
+  "scope": "游戏及输入硬件：PlayStation、任天堂家用与掌上、Steam生态和明确不同厂商PC掌机。研究到2026-10-11；旧40及51避重。",
+  "checkedOn": "2026-10-11",
+  "candidates": [
+    {
+      "id": "GAM001",
+      "slug": "sony-playstation-2",
+      "name": "PlayStation 2（原版）",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2000,
+      "dateLabel": "2000-03-04日本；北美10-26/欧洲11-24",
+      "dateKind": "launch",
+      "regionVersion": "初代日本家用款；Slim/配色不单算",
+      "productFamily": "家用光盘主机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "游戏光盘与家庭DVD播放的两种任务放到一个主机。",
+      "keyFacts": [
+        {
+          "text": "DVD播放及原PlayStation光盘兼容。",
+          "sourceIds": [
+            "G150-S001"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S001"
+      ],
+      "identitySourceIds": [
+        "G150-S001"
+      ],
+      "dateSourceIds": [
+        "G150-S001"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "游戏光盘与家庭DVD播放的两种任务放到一个主机。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM002",
+      "slug": "sony-psp-1000",
+      "name": "PSP-1000",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2004,
+      "dateLabel": "2004-12-12日本（事后原厂确认）；10-27公布",
+      "dateKind": "launch",
+      "regionVersion": "日本原PSP-1000；不混PSPgo或后期Slim",
+      "productFamily": "UMD掌机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "便携屏幕、专用小光盘与本地无线输入的掌机路线。",
+      "keyFacts": [
+        {
+          "text": "UMD和无线LAN。",
+          "sourceIds": [
+            "G150-S008",
+            "G150-S009"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S008",
+        "G150-S009"
+      ],
+      "identitySourceIds": [
+        "G150-S008",
+        "G150-S009"
+      ],
+      "dateSourceIds": [
+        "G150-S008",
+        "G150-S009"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "周年页写12-11，与原公告及事后2011发布相矛盾；采用两份原始资料12-12。"
+      ],
+      "gapContribution": "便携屏幕、专用小光盘与本地无线输入的掌机路线。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM003",
+      "slug": "sony-playstation-3",
+      "name": "PlayStation 3（原版）",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2006,
+      "dateLabel": "2006-11-11日本；美国11-17；欧洲2007-03-23",
+      "dateKind": "launch",
+      "regionVersion": "原代日本光盘主机，容量不分件",
+      "productFamily": "家用高清光盘主机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "Blu-ray与屏幕菜单把游戏、影音和服务放到同一入口。",
+      "keyFacts": [
+        {
+          "text": "Blu-ray与XMB界面。",
+          "sourceIds": [
+            "G150-S002"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S002"
+      ],
+      "identitySourceIds": [
+        "G150-S002"
+      ],
+      "dateSourceIds": [
+        "G150-S002"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "Blu-ray与屏幕菜单把游戏、影音和服务放到同一入口。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM004",
+      "slug": "sony-playstation-vita",
+      "name": "PlayStation Vita（初代OLED）",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2011,
+      "dateLabel": "2011-12-17日本；欧美2012-02-22",
+      "dateKind": "launch",
+      "regionVersion": "原OLED代；Wi-Fi/3G不拆成两件",
+      "productFamily": "触摸掌机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "前后触摸控制与双手持握可以在一台掌机里比较。",
+      "keyFacts": [
+        {
+          "text": "前触摸屏和后触摸板；后来的RemotePlay非首发一概功能。",
+          "sourceIds": [
+            "G150-S002"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S002"
+      ],
+      "identitySourceIds": [
+        "G150-S002"
+      ],
+      "dateSourceIds": [
+        "G150-S002"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "前后触摸控制与双手持握可以在一台掌机里比较。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM005",
+      "slug": "sony-playstation-4",
+      "name": "PlayStation 4（原版）",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2013,
+      "dateLabel": "2013-11-15美国；欧洲11-29；日本2014-02-22",
+      "dateKind": "launch",
+      "regionVersion": "2013原代；Slim及配色合并",
+      "productFamily": "家用网络主机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "手柄上的分享入口使游戏记录成为可操作任务。",
+      "keyFacts": [
+        {
+          "text": "DualShock4分享按钮与触摸板。",
+          "sourceIds": [
+            "G150-S003"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S003"
+      ],
+      "identitySourceIds": [
+        "G150-S003"
+      ],
+      "dateSourceIds": [
+        "G150-S003"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "手柄上的分享入口使游戏记录成为可操作任务。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM006",
+      "slug": "sony-playstation-4-pro",
+      "name": "PlayStation 4 Pro",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2016,
+      "dateLabel": "2016-11-10上市",
+      "dateKind": "launch",
+      "regionVersion": "原Pro家族；容量/底盘修订合并",
+      "productFamily": "同平台增强主机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "在同一游戏平台内取舍显示增强与兼容。",
+      "keyFacts": [
+        {
+          "text": "增强依游戏支持，仍与标准PS4共享游戏库。",
+          "sourceIds": [
+            "G150-S005"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S005"
+      ],
+      "identitySourceIds": [
+        "G150-S005"
+      ],
+      "dateSourceIds": [
+        "G150-S005"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "在同一游戏平台内取舍显示增强与兼容。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM007",
+      "slug": "sony-playstation-5",
+      "name": "PlayStation 5（原光盘版）",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2020,
+      "dateLabel": "2020-11-12首七市场；其余11-19为原计划",
+      "dateKind": "launch",
+      "regionVersion": "原2020光盘版；不独计Digital/Slim容量配色",
+      "productFamily": "SSD家用主机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "存储与手柄反馈进入代际设计的核心。",
+      "keyFacts": [
+        {
+          "text": "SSD与DualSense；首市场日期不冒全球同日。",
+          "sourceIds": [
+            "G150-S004",
+            "G150-S006"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S004",
+        "G150-S006"
+      ],
+      "identitySourceIds": [
+        "G150-S004",
+        "G150-S006"
+      ],
+      "dateSourceIds": [
+        "G150-S004",
+        "G150-S006"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "存储与手柄反馈进入代际设计的核心。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM008",
+      "slug": "sony-playstation-5-pro",
+      "name": "PlayStation 5 Pro",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2024,
+      "dateLabel": "2024-11-07实际上市",
+      "dateKind": "launch",
+      "regionVersion": "2024原PS5Pro；不分周年颜色",
+      "productFamily": "增强家用主机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "同平台增强依软件支持，适合解释硬件与游戏更新的分工。",
+      "keyFacts": [
+        {
+          "text": "PSSR超分辨；增强随具体游戏而异。",
+          "sourceIds": [
+            "G150-S007"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S007"
+      ],
+      "identitySourceIds": [
+        "G150-S007"
+      ],
+      "dateSourceIds": [
+        "G150-S007"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "同平台增强依软件支持，适合解释硬件与游戏更新的分工。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM009",
+      "slug": "sony-playstation-portal",
+      "name": "PlayStation Portal（原版）",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2023,
+      "dateLabel": "2023-08-23公布；11-15为原市场计划",
+      "dateKind": "announcement",
+      "regionVersion": "原版2023设备；2026服务功能另核",
+      "productFamily": "串流手持屏幕",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "显示与输入在手中，游戏执行在家中主机或后续服务。",
+      "keyFacts": [
+        {
+          "text": "原公告用途为PS5 RemotePlay；不把2023限制写成2026全功能结论。",
+          "sourceIds": [
+            "G150-S010"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S010"
+      ],
+      "identitySourceIds": [
+        "G150-S010"
+      ],
+      "dateSourceIds": [
+        "G150-S010"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "显示与输入在手中，游戏执行在家中主机或后续服务。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM010",
+      "slug": "sony-access-controller",
+      "name": "Access controller for PS5",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2023,
+      "dateLabel": "2023-12-06上市",
+      "dateKind": "launch",
+      "regionVersion": "原PS5 Access套装",
+      "productFamily": "可自定义输入",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "按钮、摇杆和安装位置可以按使用者动作安排。",
+      "keyFacts": [
+        {
+          "text": "19可换按钮帽与3摇杆帽；不保证适合所有身体条件。",
+          "sourceIds": [
+            "G150-S011"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S011"
+      ],
+      "identitySourceIds": [
+        "G150-S011"
+      ],
+      "dateSourceIds": [
+        "G150-S011"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "按钮、摇杆和安装位置可以按使用者动作安排。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM011",
+      "slug": "nintendo-color-tv-game-15",
+      "name": "Color TV-Game 15",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 1977,
+      "dateLabel": "1977日本产品史",
+      "dateKind": "launch",
+      "regionVersion": "日本电视游戏15；不混6型",
+      "productFamily": "专用电视游戏机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "卡带之前，固定规则被装入连接电视的专用设备。",
+      "keyFacts": [
+        {
+          "text": "原厂列为1977家庭电视游戏机。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012"
+      ],
+      "identitySourceIds": [
+        "G150-S012"
+      ],
+      "dateSourceIds": [
+        "G150-S012"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "卡带之前，固定规则被装入连接电视的专用设备。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM012",
+      "slug": "nintendo-game-watch-ball-1980",
+      "name": "Game & Watch: Ball（原版）",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 1980,
+      "dateLabel": "1980-04原版；不猜28日",
+      "dateKind": "launch",
+      "regionVersion": "原1980银色系列；不混2010复刻/DSi软件",
+      "productFamily": "专用LCD掌机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "少量固定图形与按键让接球规则成为一件随身工具。",
+      "keyFacts": [
+        {
+          "text": "创作者访谈脚注明确1980年4月及接球玩法。",
+          "sourceIds": [
+            "G150-S014"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S014"
+      ],
+      "identitySourceIds": [
+        "G150-S014"
+      ],
+      "dateSourceIds": [
+        "G150-S014"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "少量固定图形与按键让接球规则成为一件随身工具。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM013",
+      "slug": "nintendo-super-famicom",
+      "name": "Super Famicom",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 1990,
+      "dateLabel": "1990年（日本原厂逐型推出记录）",
+      "dateKind": "launch",
+      "regionVersion": "原代日本产品名；不混后期小修订",
+      "productFamily": "家用主机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "家用平台的新代际仍保留电视与双手控制分工。",
+      "keyFacts": [
+        {
+          "text": "原厂逐型记录1990年推出及家用主机分类；具体操作另核后写稿。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012"
+      ],
+      "identitySourceIds": [
+        "G150-S012"
+      ],
+      "dateSourceIds": [
+        "G150-S012"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "家用平台的新代际仍保留电视与双手控制分工。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM014",
+      "slug": "nintendo-64",
+      "name": "Nintendo 64",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 1996,
+      "dateLabel": "1996年（日本原厂逐型推出记录）",
+      "dateKind": "launch",
+      "regionVersion": "原代日本产品名；不混后期小修订",
+      "productFamily": "家用主机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "与同期光盘主机并置，保留任天堂的家用平台支线。",
+      "keyFacts": [
+        {
+          "text": "原厂逐型记录1996年推出及家用主机分类；具体操作另核后写稿。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012"
+      ],
+      "identitySourceIds": [
+        "G150-S012"
+      ],
+      "dateSourceIds": [
+        "G150-S012"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "与同期光盘主机并置，保留任天堂的家用平台支线。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM015",
+      "slug": "nintendo-game-boy-advance",
+      "name": "Game Boy Advance（原版）",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 2001,
+      "dateLabel": "2001年（日本原厂逐型推出记录）",
+      "dateKind": "launch",
+      "regionVersion": "原代日本产品名；不混后期小修订",
+      "productFamily": "掌机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "原GBA连接前一代GameBoy与之后DS的掌上路线。",
+      "keyFacts": [
+        {
+          "text": "原厂逐型记录2001年推出及掌机分类；具体操作另核后写稿。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012"
+      ],
+      "identitySourceIds": [
+        "G150-S012"
+      ],
+      "dateSourceIds": [
+        "G150-S012"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "原GBA连接前一代GameBoy与之后DS的掌上路线。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM016",
+      "slug": "nintendo-gamecube",
+      "name": "Nintendo GameCube（原版）",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 2001,
+      "dateLabel": "2001年（日本原厂逐型推出记录）",
+      "dateKind": "launch",
+      "regionVersion": "原代日本产品名；不混后期小修订",
+      "productFamily": "家用主机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "同年家用和掌上平台各自安排游玩场景。",
+      "keyFacts": [
+        {
+          "text": "原厂逐型记录2001年推出及家用主机分类；具体操作另核后写稿。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012"
+      ],
+      "identitySourceIds": [
+        "G150-S012"
+      ],
+      "dateSourceIds": [
+        "G150-S012"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "同年家用和掌上平台各自安排游玩场景。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM017",
+      "slug": "nintendo-3ds",
+      "name": "Nintendo 3DS（原版）",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 2011,
+      "dateLabel": "2011年（日本原厂逐型推出记录）",
+      "dateKind": "launch",
+      "regionVersion": "原代日本产品名；不混后期小修订",
+      "productFamily": "立体显示掌机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "手持双屏路线继续扩展，原3DS与后来的New修订分开研究。",
+      "keyFacts": [
+        {
+          "text": "原厂逐型记录2011年推出及立体显示掌机分类；具体操作另核后写稿。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012"
+      ],
+      "identitySourceIds": [
+        "G150-S012"
+      ],
+      "dateSourceIds": [
+        "G150-S012"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "手持双屏路线继续扩展，原3DS与后来的New修订分开研究。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM018",
+      "slug": "nintendo-wii-u",
+      "name": "Wii U（原版）",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 2012,
+      "dateLabel": "2012年（日本原厂逐型推出记录）",
+      "dateKind": "launch",
+      "regionVersion": "原代日本产品名；不混后期小修订",
+      "productFamily": "家用主机与带屏输入",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "家用平台与手中带屏输入的组合成为Switch前的对照。",
+      "keyFacts": [
+        {
+          "text": "原厂逐型记录2012年推出及家用主机与带屏输入分类；具体操作另核后写稿。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012"
+      ],
+      "identitySourceIds": [
+        "G150-S012"
+      ],
+      "dateSourceIds": [
+        "G150-S012"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "家用平台与手中带屏输入的组合成为Switch前的对照。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM019",
+      "slug": "nintendo-game-boy-color",
+      "name": "Game Boy Color",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 1998,
+      "dateLabel": "1998年（原厂回顾）",
+      "dateKind": "launch",
+      "regionVersion": "原GBC，颜色不分件",
+      "productFamily": "彩色掌机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "彩色掌上平台与普通GameBoy并列；写稿需补专用游戏兼容证据。",
+      "keyFacts": [
+        {
+          "text": "原厂1998年记录GameBoyColor及同期Camera/Printer。",
+          "sourceIds": [
+            "G150-S013"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S013"
+      ],
+      "identitySourceIds": [
+        "G150-S013"
+      ],
+      "dateSourceIds": [
+        "G150-S013"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "不采用专用游戏兼容细节作已核事实；待写稿补手册，不影响型号和年份。"
+      ],
+      "gapContribution": "彩色掌上平台与普通GameBoy并列；写稿需补专用游戏兼容证据。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM020",
+      "slug": "nintendo-switch-2017",
+      "name": "Nintendo Switch（2017原版）",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 2017,
+      "dateLabel": "2017-03（原厂事后公告）",
+      "dateKind": "launch",
+      "regionVersion": "原Switch；2019电池版/容量配色合并",
+      "productFamily": "混合家用掌机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "电视、桌面与手持三种模式在同一系统中切换。",
+      "keyFacts": [
+        {
+          "text": "原厂列TV、桌面、手持三模式。",
+          "sourceIds": [
+            "G150-S015"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S015"
+      ],
+      "identitySourceIds": [
+        "G150-S015"
+      ],
+      "dateSourceIds": [
+        "G150-S015"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "电视、桌面与手持三种模式在同一系统中切换。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM021",
+      "slug": "nintendo-switch-lite",
+      "name": "Nintendo Switch Lite",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 2019,
+      "dateLabel": "2019-09-20日本/美国（事后财报）",
+      "dateKind": "launch",
+      "regionVersion": "原Lite控制器一体；颜色合并",
+      "productFamily": "手持专用主机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "取消TV输出与可拆控制器，形成与原Switch实质不同的携带任务。",
+      "keyFacts": [
+        {
+          "text": "原厂定位携带专用。",
+          "sourceIds": [
+            "G150-S015",
+            "G150-S016"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S015",
+        "G150-S016"
+      ],
+      "identitySourceIds": [
+        "G150-S015",
+        "G150-S016"
+      ],
+      "dateSourceIds": [
+        "G150-S015",
+        "G150-S016"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "取消TV输出与可拆控制器，形成与原Switch实质不同的携带任务。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM022",
+      "slug": "nintendo-switch-2",
+      "name": "Nintendo Switch 2",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 2025,
+      "dateLabel": "2025-06-05推出（事后财报确认）",
+      "dateKind": "launch",
+      "regionVersion": "2025原代，语言/捆绑版不另算；服务截至2026-10-11",
+      "productFamily": "混合主机与鼠标输入",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "磁吸与鼠标控制把原混合形态扩成不同输入条件。",
+      "keyFacts": [
+        {
+          "text": "鼠标控制仅支持对应游戏；GameChat免费期已于2026-03-31结束。",
+          "sourceIds": [
+            "G150-S017",
+            "G150-S018",
+            "G150-S019"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S017",
+        "G150-S018",
+        "G150-S019"
+      ],
+      "identitySourceIds": [
+        "G150-S017",
+        "G150-S018",
+        "G150-S019"
+      ],
+      "dateSourceIds": [
+        "G150-S017",
+        "G150-S018",
+        "G150-S019"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "磁吸与鼠标控制把原混合形态扩成不同输入条件。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM023",
+      "slug": "valve-steam-controller-2015",
+      "name": "Steam Controller（2015）",
+      "brand": "Valve",
+      "hardwareManufacturer": "Valve",
+      "softwareEcosystem": "Steam / SteamOS",
+      "year": 2015,
+      "dateLabel": "2015-11-10原商店上市记录",
+      "dateKind": "launch",
+      "regionVersion": "原2015硬件；非2026同名款",
+      "productFamily": "PC游戏输入",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "触摸板与软件映射把鼠标式PC任务带到手柄。",
+      "keyFacts": [
+        {
+          "text": "双触摸板、两段扳机；需要Steam映射软件条件。",
+          "sourceIds": [
+            "G150-S020"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S020"
+      ],
+      "identitySourceIds": [
+        "G150-S020"
+      ],
+      "dateSourceIds": [
+        "G150-S020"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "触摸板与软件映射把鼠标式PC任务带到手柄。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM024",
+      "slug": "valve-steam-controller-2026",
+      "name": "Steam Controller（2026）",
+      "brand": "Valve",
+      "hardwareManufacturer": "Valve",
+      "softwareEcosystem": "Steam / SteamOS",
+      "year": 2026,
+      "dateLabel": "2026-04-27评测视频观察／05-04为当时上市计划",
+      "dateKind": "observed",
+      "regionVersion": "2026新控制器；非2015原版",
+      "productFamily": "PC游戏输入",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "结合多种输入与新的连接方式；普通正面实测也是入选路径。",
+      "keyFacts": [
+        {
+          "text": "GamersNexus实际测试2026款；官方现指南明确同名2026版本。",
+          "sourceIds": [
+            "G150-S024",
+            "G150-S025"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S024",
+        "G150-S025"
+      ],
+      "identitySourceIds": [
+        "G150-S024",
+        "G150-S025"
+      ],
+      "dateSourceIds": [
+        "G150-S024",
+        "G150-S025"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "这里只按实测观察年排序；未将评测中的May4计划当全部市场首发。"
+      ],
+      "gapContribution": "结合多种输入与新的连接方式；普通正面实测也是入选路径。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [
+        {
+          "media": "GamersNexus",
+          "author": "Steve Burke / Patrick Lathan；网页编辑 Jimmy Thang",
+          "articleDate": "2026-05-01；原视频2026-04-27",
+          "exactModelVersion": "Valve Steam Controller（2026）评测样机",
+          "originalURL": "https://gamersnexus.net/handheld-pcs-peripherals/valve-steam-controller-review-latency-benchmarks-battery-life",
+          "praise": "所测有线与puck连接的延迟表现获得正面评价；拆解维修受到称赞。",
+          "shortcomings": "定价需要体现使用价值；不同连接和Steam映射有条件，未推断人人适合。",
+          "evaluationConditions": "实际延迟、充电、电池和拆解测试；本轮只读指定段落，不转录全部测量数字。",
+          "commercialDisclosure": "所读段落未核到样机提供、稿件赞助或联盟披露；不声称无商业关系。",
+          "verificationDepth": "原评测正文的介绍、署名和测试描述；其余图表未全量复核",
+          "sourceId": "G150-S024"
+        }
+      ],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM025",
+      "slug": "valve-steam-machine-2026",
+      "name": "Steam Machine（Valve 2026款）",
+      "brand": "Valve",
+      "hardwareManufacturer": "Valve",
+      "softwareEcosystem": "Steam / SteamOS",
+      "year": 2026,
+      "dateLabel": "2026-07-01日本编辑部实际到货观察",
+      "dateKind": "observed",
+      "regionVersion": "GIGAZINE日本自购2026新款；非2015第三方SteamMachines",
+      "productFamily": "客厅PC游戏主机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "PC游戏回到大屏与盒式主机；和掌机、串流盒区分本地执行条件。",
+      "keyFacts": [
+        {
+          "text": "原厂GDC列新Machine；独立编辑部自购样本与包装已到货。",
+          "sourceIds": [
+            "G150-S022",
+            "G150-S023"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S022",
+        "G150-S023"
+      ],
+      "identitySourceIds": [
+        "G150-S022",
+        "G150-S023"
+      ],
+      "dateSourceIds": [
+        "G150-S022",
+        "G150-S023"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "未得到动态商店全文；不主张全球首发日、长期供货、性能优于全部PC。"
+      ],
+      "gapContribution": "PC游戏回到大屏与盒式主机；和掌机、串流盒区分本地执行条件。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM026",
+      "slug": "asus-rog-ally-2023",
+      "name": "ROG Ally（Z1 Extreme）",
+      "brand": "ASUS",
+      "hardwareManufacturer": "ASUS",
+      "softwareEcosystem": "Windows PC / 可安装Steam等；非Valve制造",
+      "year": 2023,
+      "dateLabel": "2023-05-11公布；06-13为原供货计划",
+      "dateKind": "announcement",
+      "regionVersion": "原Z1Extreme，Z1/容量修订不重复计",
+      "productFamily": "Windows PC掌机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "ASUS掌机让PC商店与触屏桌面同处一台手持设备。",
+      "keyFacts": [
+        {
+          "text": "Windows11、Z1Extreme；Steam是可安装平台，非制造商。",
+          "sourceIds": [
+            "G150-S026"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S026"
+      ],
+      "identitySourceIds": [
+        "G150-S026"
+      ],
+      "dateSourceIds": [
+        "G150-S026"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "ASUS掌机让PC商店与触屏桌面同处一台手持设备。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM027",
+      "slug": "lenovo-legion-go-2023",
+      "name": "Legion Go（原版）",
+      "brand": "Lenovo",
+      "hardwareManufacturer": "Lenovo",
+      "softwareEcosystem": "Windows PC / 可安装Steam等；非Valve制造",
+      "year": 2023,
+      "dateLabel": "2023-09-01公布；EMEA11月为计划",
+      "dateKind": "announcement",
+      "regionVersion": "2023原8.8英寸、Z1Extreme；地区容量合并",
+      "productFamily": "可拆输入Windows掌机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "可拆右控制器进入FPS底座，改变手持与桌面输入。",
+      "keyFacts": [
+        {
+          "text": "Windows11、可拆控制器、右控制器光学FPS模式。",
+          "sourceIds": [
+            "G150-S027"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S027"
+      ],
+      "identitySourceIds": [
+        "G150-S027"
+      ],
+      "dateSourceIds": [
+        "G150-S027"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "可拆右控制器进入FPS底座，改变手持与桌面输入。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM028",
+      "slug": "msi-claw-a1m",
+      "name": "Claw A1M",
+      "brand": "MSI",
+      "hardwareManufacturer": "MSI",
+      "softwareEcosystem": "Windows PC / 可安装Steam等；非Valve制造",
+      "year": 2024,
+      "dateLabel": "2024-01-08 CES公布；网页01-09",
+      "dateKind": "announcement",
+      "regionVersion": "原A1M CoreUltra，非后续8AI+",
+      "productFamily": "Intel PC掌机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "把Intel处理平台列作AMD掌机之外的一条硬件选择。",
+      "keyFacts": [
+        {
+          "text": "CoreUltra及7英寸120Hz显示；无世界第一主张。",
+          "sourceIds": [
+            "G150-S028"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S028"
+      ],
+      "identitySourceIds": [
+        "G150-S028"
+      ],
+      "dateSourceIds": [
+        "G150-S028"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "把Intel处理平台列作AMD掌机之外的一条硬件选择。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM029",
+      "slug": "asus-rog-xbox-ally-x",
+      "name": "ROG Xbox Ally X",
+      "brand": "ASUS",
+      "hardwareManufacturer": "ASUS",
+      "softwareEcosystem": "Windows PC / 可安装Steam等；非Valve制造",
+      "year": 2025,
+      "dateLabel": "2025-10-16原计划；10-30官网确认已可购买",
+      "dateKind": "launch",
+      "regionVersion": "2025 AllyX合作款；非2024 ROGAllyX",
+      "productFamily": "Windows PC掌机",
+      "categoryProposal": "gaming",
+      "selectionStatus": "正式入选建议",
+      "selectionReason": "Xbox入口与Windows商店任务共存；制造和生态合作拆开。",
+      "keyFacts": [
+        {
+          "text": "ASUS ROG与Xbox合作，Windows设备；兼容须逐游戏查看。",
+          "sourceIds": [
+            "G150-S029",
+            "G150-S030"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S029",
+        "G150-S030"
+      ],
+      "identitySourceIds": [
+        "G150-S029",
+        "G150-S030"
+      ],
+      "dateSourceIds": [
+        "G150-S029",
+        "G150-S030"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。"
+      ],
+      "gapContribution": "Xbox入口与Windows商店任务共存；制造和生态合作拆开。",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM030",
+      "slug": "sony-playstation-5-slim",
+      "name": "PlayStation 5 Slim",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2023,
+      "dateLabel": "2023研究线索；日期仍有范围限制",
+      "dateKind": "research",
+      "regionVersion": "发现用；非完整身份交付",
+      "productFamily": "发现支线",
+      "categoryProposal": "gaming",
+      "selectionStatus": "淘汰重复",
+      "selectionReason": "与原PS5合并，不以轻微机身/驱动配件修订重复计数",
+      "keyFacts": [
+        {
+          "text": "保留该支线的发现记录。",
+          "sourceIds": [
+            "G150-S004"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S004"
+      ],
+      "identitySourceIds": [
+        "G150-S004"
+      ],
+      "dateSourceIds": [
+        "G150-S004"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "与原PS5合并，不以轻微机身/驱动配件修订重复计数"
+      ],
+      "gapContribution": "与原PS5合并，不以轻微机身/驱动配件修订重复计数",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM031",
+      "slug": "sony-playstation-5-digital",
+      "name": "PS5 Digital Edition",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2020,
+      "dateLabel": "2020研究线索；日期仍有范围限制",
+      "dateKind": "research",
+      "regionVersion": "发现用；非完整身份交付",
+      "productFamily": "发现支线",
+      "categoryProposal": "gaming",
+      "selectionStatus": "淘汰重复",
+      "selectionReason": "光驱缺省版本留比较记录，本轮不独立增数",
+      "keyFacts": [
+        {
+          "text": "保留该支线的发现记录。",
+          "sourceIds": [
+            "G150-S004"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S004"
+      ],
+      "identitySourceIds": [
+        "G150-S004"
+      ],
+      "dateSourceIds": [
+        "G150-S004"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "光驱缺省版本留比较记录，本轮不独立增数"
+      ],
+      "gapContribution": "光驱缺省版本留比较记录，本轮不独立增数",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM032",
+      "slug": "sony-ps4-glacier-white",
+      "name": "PS4 Glacier White",
+      "brand": "Sony",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "year": 2017,
+      "dateLabel": "2017研究线索；日期仍有范围限制",
+      "dateKind": "research",
+      "regionVersion": "发现用；非完整身份交付",
+      "productFamily": "发现支线",
+      "categoryProposal": "gaming",
+      "selectionStatus": "淘汰重复",
+      "selectionReason": "颜色，不计新增型号",
+      "keyFacts": [
+        {
+          "text": "保留该支线的发现记录。",
+          "sourceIds": [
+            "G150-S003"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S003"
+      ],
+      "identitySourceIds": [
+        "G150-S003"
+      ],
+      "dateSourceIds": [
+        "G150-S003"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "颜色，不计新增型号"
+      ],
+      "gapContribution": "颜色，不计新增型号",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM033",
+      "slug": "nintendo-color-tv-game-6",
+      "name": "Color TV-Game 6",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 1977,
+      "dateLabel": "1977研究线索；日期仍有范围限制",
+      "dateKind": "research",
+      "regionVersion": "发现用；非完整身份交付",
+      "productFamily": "发现支线",
+      "categoryProposal": "gaming",
+      "selectionStatus": "发现候选",
+      "selectionReason": "和15同批专用规则路线，发现池保留，本轮不优先独计",
+      "keyFacts": [
+        {
+          "text": "保留该支线的发现记录。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012"
+      ],
+      "identitySourceIds": [
+        "G150-S012"
+      ],
+      "dateSourceIds": [
+        "G150-S012"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "和15同批专用规则路线，发现池保留，本轮不优先独计"
+      ],
+      "gapContribution": "和15同批专用规则路线，发现池保留，本轮不优先独计",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM034",
+      "slug": "nintendo-new-3ds",
+      "name": "New Nintendo 3DS",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 2014,
+      "dateLabel": "2014研究线索；日期仍有范围限制",
+      "dateKind": "research",
+      "regionVersion": "发现用；非完整身份交付",
+      "productFamily": "发现支线",
+      "categoryProposal": "gaming",
+      "selectionStatus": "发现候选",
+      "selectionReason": "有实质控制差异待专门核，避免只据名字当新件",
+      "keyFacts": [
+        {
+          "text": "保留该支线的发现记录。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012"
+      ],
+      "identitySourceIds": [
+        "G150-S012"
+      ],
+      "dateSourceIds": [
+        "G150-S012"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "有实质控制差异待专门核，避免只据名字当新件"
+      ],
+      "gapContribution": "有实质控制差异待专门核，避免只据名字当新件",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM035",
+      "slug": "nintendo-dsi",
+      "name": "Nintendo DSi",
+      "brand": "Nintendo",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "year": 2008,
+      "dateLabel": "2008研究线索；日期仍有范围限制",
+      "dateKind": "research",
+      "regionVersion": "发现用；非完整身份交付",
+      "productFamily": "发现支线",
+      "categoryProposal": "gaming",
+      "selectionStatus": "发现候选",
+      "selectionReason": "保留发现，先补相机/下载/兼容细节再决定独特增量",
+      "keyFacts": [
+        {
+          "text": "保留该支线的发现记录。",
+          "sourceIds": [
+            "G150-S012"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S012"
+      ],
+      "identitySourceIds": [
+        "G150-S012"
+      ],
+      "dateSourceIds": [
+        "G150-S012"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "保留发现，先补相机/下载/兼容细节再决定独特增量"
+      ],
+      "gapContribution": "保留发现，先补相机/下载/兼容细节再决定独特增量",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM036",
+      "slug": "valve-steam-deck-oled",
+      "name": "Steam Deck OLED",
+      "brand": "Valve",
+      "hardwareManufacturer": "Valve",
+      "softwareEcosystem": "Steam / SteamOS",
+      "year": 2023,
+      "dateLabel": "2023研究线索；日期仍有范围限制",
+      "dateKind": "research",
+      "regionVersion": "发现用；非完整身份交付",
+      "productFamily": "发现支线",
+      "categoryProposal": "gaming",
+      "selectionStatus": "发现候选",
+      "selectionReason": "原Deck更新支线保留，正式选择不靠OLED/容量增加凑数；发布年待原公告",
+      "keyFacts": [
+        {
+          "text": "保留该支线的发现记录。",
+          "sourceIds": [
+            "G150-S022"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S022"
+      ],
+      "identitySourceIds": [
+        "G150-S022"
+      ],
+      "dateSourceIds": [
+        "G150-S022"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "原Deck更新支线保留，正式选择不靠OLED/容量增加凑数；发布年待原公告"
+      ],
+      "gapContribution": "原Deck更新支线保留，正式选择不靠OLED/容量增加凑数；发布年待原公告",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM037",
+      "slug": "valve-steam-link-2015",
+      "name": "Steam Link（2015硬件）",
+      "brand": "Valve",
+      "hardwareManufacturer": "Valve",
+      "softwareEcosystem": "Steam / SteamOS",
+      "year": 2015,
+      "dateLabel": "2015研究线索；日期仍有范围限制",
+      "dateKind": "research",
+      "regionVersion": "发现用；非完整身份交付",
+      "productFamily": "发现支线",
+      "categoryProposal": "gaming",
+      "selectionStatus": "发现候选",
+      "selectionReason": "硬件身份与串流条件有原厂证据，首次日期待核，不以手册版权年当制造年",
+      "keyFacts": [
+        {
+          "text": "保留该支线的发现记录。",
+          "sourceIds": [
+            "G150-S021"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S021"
+      ],
+      "identitySourceIds": [
+        "G150-S021"
+      ],
+      "dateSourceIds": [
+        "G150-S021"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "硬件身份与串流条件有原厂证据，首次日期待核，不以手册版权年当制造年"
+      ],
+      "gapContribution": "硬件身份与串流条件有原厂证据，首次日期待核，不以手册版权年当制造年",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    },
+    {
+      "id": "GAM038",
+      "slug": "valve-steam-frame",
+      "name": "Steam Frame",
+      "brand": "Valve",
+      "hardwareManufacturer": "Valve",
+      "softwareEcosystem": "Steam / SteamOS",
+      "year": 2026,
+      "dateLabel": "2026研究线索；日期仍有范围限制",
+      "dateKind": "research",
+      "regionVersion": "发现用；非完整身份交付",
+      "productFamily": "发现支线",
+      "categoryProposal": "gaming",
+      "selectionStatus": "发现候选",
+      "selectionReason": "新原厂GDC产品及动态销售索引有线索，实际上市/版本仍待核，由VR研究负责",
+      "keyFacts": [
+        {
+          "text": "保留该支线的发现记录。",
+          "sourceIds": [
+            "G150-S022"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "G150-S022"
+      ],
+      "identitySourceIds": [
+        "G150-S022"
+      ],
+      "dateSourceIds": [
+        "G150-S022"
+      ],
+      "evidenceLimits": [
+        "只采用明确事实，原厂宣传不证明每个人的感受。多数仅身份档案，不能称正文ready。",
+        "新原厂GDC产品及动态销售索引有线索，实际上市/版本仍待核，由VR研究负责"
+      ],
+      "gapContribution": "新原厂GDC产品及动态销售索引有线索，实际上市/版本仍待核，由VR研究负责",
+      "relatedExistingSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd"
+      ],
+      "mediaStatus": "text-fallback-no-photo-no-video",
+      "awards": [],
+      "mediaOpinions": [],
+      "publicImpactBoundary": "策展取舍与事实分开，无销量、全球第一或耐用结论。"
+    }
+  ],
+  "sources": [
+    {
+      "id": "G150-S001",
+      "title": "PlayStation history: PS2 / PSP",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/en-us/playstation-history/2000-ps2-psp/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "PS2日本2000-03-04、DVD和初代光盘兼容；PSP UMD路线。PSP日本日期与当年公告冲突，不采用本页12-11。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S002",
+      "title": "PlayStation history: PS3 / PS Vita",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/en-us/playstation-history/2007-ps3-ps-vita/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "PS3日本2006-11-11/Blu-ray/XMB；Vita日本2011-12-17、原OLED和后触摸板；后来的Remote Play不作首发功能。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S003",
+      "title": "PlayStation history: PS4 / PS VR",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/en-us/playstation-history/2013-ps4-ps-vr/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "PS4美国2013-11-15、日本2014-02-22；分享按钮与触摸板。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S004",
+      "title": "PlayStation history: PS5 / PS VR2",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/en-us/playstation-history/2020-ps5-ps-vr2/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "PS5原光盘版与SSD、DualSense；不采用页面把11-12简化为全球同时发售的口径。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S005",
+      "title": "PS4 Pro launches today",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/2016/11/10/playstation-4-pro-launches-today/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2016-11-10",
+      "verifiedScope": "2016-11-10实际上市；同PS4游戏库，增强随游戏支持。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S006",
+      "title": "PS5 launches in November",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/2020/09/16/playstation-5-launches-in-november-starting-at-399-for-ps5-digital-edition-and-499-for-ps5-with-ultra-hd-blu-ray-disc-drive/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2020-09-16",
+      "verifiedScope": "2020-09-16公布；11-12首七个市场、11-19另一批市场为当时计划。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S007",
+      "title": "SIE launches PlayStation 5 Pro",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://sonyinteractive.com/en/press-releases/2024/sony-interactive-entertainment-launches-playstation-5-pro/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2024-11-07",
+      "verifiedScope": "2024-11-07实际上市、PSSR、增强因游戏而异。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S008",
+      "title": "PSP enters market December 12",
+      "publisher": "Sony Computer Entertainment",
+      "url": "https://sonyinteractive.com/en/press-releases/2004/psp-enters-the-market-on-december-12-2004-at-19800-yen-in-japan/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2004-10-27",
+      "verifiedScope": "2004-10-27原公告，PSP-1000日本12-12计划及UMD/无线LAN；优先于周年页日期。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S009",
+      "title": "PSP sales release 2011",
+      "publisher": "Sony Computer Entertainment",
+      "url": "https://www.sony.com/SonyInfo/IR/news/sce2_G.pdf",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2011-06-07",
+      "verifiedScope": "回顾证实PSP日本2004-12-12推出；不采用销量宣传。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "原机构PDF检索摘录",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S010",
+      "title": "Portal original launch announcement",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/?p=383588",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2023-08-23",
+      "verifiedScope": "2023原版Remote Play用途、指定市场11-15计划；不冒称当前只能Remote Play。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S011",
+      "title": "Access controller launches today",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/?p=387113",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2023-12-06",
+      "verifiedScope": "2023-12-06实际上市；19按钮帽和3摇杆帽、自定义控制安排。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S012",
+      "title": "Nintendo corporate history",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/corporate/history/index.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "日本电视游戏15/6(1977)、SFC(1990)、N64(1996)、GBA/GC(2001)、3DS(2011)、WiiU(2012)、Switch(2017)、Switch2(2025)逐型年份和家用/掌上分类。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S013",
+      "title": "Nintendo UK hardware history",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-History-625945.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "N64日本1996-06-23、GameBoyColor1998；DSi2008、游戏掌机系列史。未采用销量/首创口号。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S014",
+      "title": "Iwata Asks Game & Watch",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/n10/interview/game_and_watch/vol1/index2.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "创作者访谈脚注Ball原版1980-04；接球游戏与计算器芯片路径。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S015",
+      "title": "Nintendo Switch Lite announcement",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/corporate/release/2019/190710.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2019-07-10",
+      "verifiedScope": "原Switch三模式；Lite携带专用、控制器一体，2019-09-20当时计划。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S016",
+      "title": "Nintendo FY2020 second-quarter release dates",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/ir/pdf/2019/191031_3e.pdf",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2019-10-31",
+      "verifiedScope": "季度表记录Lite日本/美国2019-09-20上市。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "原机构PDF表格检索摘录",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S017",
+      "title": "Nintendo Switch 2 April 2 announcement",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/corporate/release/en/2025/250402.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2025-04-02",
+      "verifiedScope": "Switch2屏幕、磁吸控制器、鼠标控制条件、支架、顶部USB-C；GameChat需会员且免费期截至2026-03-31。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S018",
+      "title": "Nintendo FY2026 first-quarter financial results",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/ir/pdf/2025/250801_2e.pdf",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2025-08-01",
+      "verifiedScope": "事后财报确认Switch2 2025-06-05推出；不采用销量数字。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "PDF原文/原机构表述摘录",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S019",
+      "title": "GameChat Guide and FAQ",
+      "publisher": "Nintendo",
+      "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/68390",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "当前会员/网络条件、语音视频屏幕共享、相机兼容测试；2025-06-05到2026-03-31免费期已结束。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S020",
+      "title": "Steam Controller (2015) official store record",
+      "publisher": "Valve",
+      "url": "https://store.steampowered.com/app/353370/Steam_Controller_2015/?l=english",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "制造商Valve、2015-11-10上市；双触摸板、两段扳机、Steam映射条件。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S021",
+      "title": "Steam Link Hardware support",
+      "publisher": "Valve",
+      "url": "https://help.steampowered.com/en/faqs/view/7BE7-BB7D-D904-03AE",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "硬件使用需主机电脑运行Steam、HDMI显示、家中网络与输入设备；独立盒子不是Link软件。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "原机构检索摘录；直接打开动态空壳",
+      "limits": "不能证明首次上市日期；不作全文核查。"
+    },
+    {
+      "id": "G150-S022",
+      "title": "Steam Hardware Talk GDC 2026",
+      "publisher": "Valve / Steamworks",
+      "url": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/steamworks_docs/english/GDC_2026_HWTalk.pdf",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2026-03",
+      "verifiedScope": "SteamOS/Deck/Machine/Frame与第三方设备区分；Machine Verified及输入预期，非量产销售证明。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "PDF所读文字页",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S023",
+      "title": "Steam Machine bought and received in Japan",
+      "publisher": "GIGAZINE",
+      "url": "https://gigazine.net/gsc_news/en/20260703-steam-machine-appearance/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2026-07-03",
+      "verifiedScope": "编辑部自购2026新SteamMachine于日本2026-07-01到货，包装及连接条件观察。只代表这份实际样本。",
+      "sourceType": "原始实测/实物观察",
+      "independence": "独立媒体；只采用自己的观察",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只采用自购/到货/包装观察，不推出全球首发日、持续供货、长期可靠性。作者未在所读页署名。"
+    },
+    {
+      "id": "G150-S024",
+      "title": "Steam Controller latency / battery / repair review",
+      "publisher": "GamersNexus",
+      "url": "https://gamersnexus.net/handheld-pcs-peripherals/valve-steam-controller-review-latency-benchmarks-battery-life",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2026-05-01",
+      "verifiedScope": "2026款实测，原视频2026-04-27、文字2026-05-01；puck/有线延迟评价、维修拆解；May4为当时上市计划。",
+      "sourceType": "原始实测/实物观察",
+      "independence": "独立媒体；只采用自己的观察",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "正文所读部分未核到样机供应/赞助披露；具体结论受测试方法和样机限制。"
+    },
+    {
+      "id": "G150-S025",
+      "title": "Steam Controller (2026) support",
+      "publisher": "Valve",
+      "url": "https://help.steampowered.com/en/faqs/view/33E8-5EDF-24E6-4CFB",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "当前官方指南明确命名2026款；Steam输入兼容条件。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "原机构检索摘录；直接打开动态空壳",
+      "limits": "未全文读取；不单独证明全球上市日。"
+    },
+    {
+      "id": "G150-S026",
+      "title": "ROG Ally original announcement",
+      "publisher": "ASUS",
+      "url": "https://press.asus.com/news/press-releases/asus-republic-of-gamers-unveils-the-rog-ally/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2023-05-11",
+      "verifiedScope": "Z1 Extreme版本、Windows11、2023-05-11公布/06-13当时计划；ASUS制造/多PC商店。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S027",
+      "title": "Legion Go original announcement",
+      "publisher": "Lenovo",
+      "url": "https://news.lenovo.com/pressroom/press-releases/legion-go-gaming-handheld-device-and-accessories/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2023-09-01",
+      "verifiedScope": "2023-09-01公布、Windows11、可拆控制器和右控制器FPS底座；EMEA计划11月并非全球同日。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S028",
+      "title": "MSI original Claw announcement",
+      "publisher": "MSI",
+      "url": "https://us.msi.com/news/detail/MSI-Unveils-World-s-First-Gaming-Handheld-with-Core--Ultra-at-CES-2024143060",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2024-01-09",
+      "verifiedScope": "Claw A1M在2024-01-08 CES公告、1月9日网页发表；CoreUltra路线。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S029",
+      "title": "Xbox September 2025 update",
+      "publisher": "Microsoft / Xbox",
+      "url": "https://news.xbox.com/en-us/2025/09/29/xbox-september-update-2025/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2025-09-29",
+      "verifiedScope": "ROGXboxAlly/X预订与2025-10-16计划；Xbox是平台合作，不是Valve硬件。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "原机构检索摘录",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    },
+    {
+      "id": "G150-S030",
+      "title": "ROG Xbox Ally available now / October update",
+      "publisher": "Microsoft / Xbox",
+      "url": "https://news.xbox.com/en-us/2025/10/30/xbox-october-update-rog-xbox-ally-available-now/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2025-10-30",
+      "verifiedScope": "2025-10-30已上市及两款Windows掌机；兼容标记随游戏，非所有Xbox主机游戏原生支持。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。"
+    }
+  ],
+  "readyExhibits": [],
+  "limitations": [
+    "选择建议与ready、实际导入分开。当前新Steam原厂动态产品页为空或浏览器ERR_EMPTY_RESPONSE；实物到货/实测只按其观察日期。",
+    "原PSP周年页与原公告的日期冲突已缩小并由2011事后原资料处理。",
+    "同厂多个网址不构成独立社会效果证据。"
+  ]
+}

@@ -1,0 +1,3420 @@
+{
+  "slug": "braun-hl1",
+  "query": "Braun HL 1",
+  "checkedOn": "2026-10-15",
+  "data": {
+    "batchcomplete": "",
+    "continue": {
+      "gsroffset": 30,
+      "continue": "gsroffset||"
+    },
+    "query": {
+      "pages": {
+        "116499584": {
+          "pageid": 116499584,
+          "ns": 6,
+          "title": "File:2022-03-26 Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten 1DX 7354 by Stepro.jpg",
+          "index": 1,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7354_by_Stepro.jpg/960px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7354_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 900,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7354_by_Stepro.jpg/1920px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7354_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7354_by_Stepro.jpg/960px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7354_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 900,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7354_by_Stepro.jpg/1920px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7354_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7354_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:2022-03-26_Handball,_Bundesliga_Frauen,_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7354_by_Stepro.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116499584",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-03-29 13:17:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "2022-03-26 Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten 1DX 7354 by Stepro",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Personality rights warning|Kim Braun|Supported by Wikimedia Deutschland|Uploaded with LrMediaWiki|2022-03-26 Handball Thüringer HC - HL Buchholz 08-Rosengarten|Files with coordinates missing SDC location of creation (51° N, 10° E)|Files by User:Stepro",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.102168",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "10.648387",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten: Kim Braun (Thüringer HC, 34)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2022-03-26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Steffen Prößdorf",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "personality",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "116499878": {
+          "pageid": 116499878,
+          "ns": 6,
+          "title": "File:2022-03-26 Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten 1DX 7419 by Stepro.jpg",
+          "index": 4,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7419_by_Stepro.jpg/960px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7419_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7419_by_Stepro.jpg/1920px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7419_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7419_by_Stepro.jpg/960px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7419_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 600,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7419_by_Stepro.jpg/1920px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7419_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7419_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:2022-03-26_Handball,_Bundesliga_Frauen,_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7419_by_Stepro.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116499878",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-03-29 13:23:35",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "2022-03-26 Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten 1DX 7419 by Stepro",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Personality rights warning|Kim Braun|Supported by Wikimedia Deutschland|Uploaded with LrMediaWiki|2022-03-26 Handball Thüringer HC - HL Buchholz 08-Rosengarten|Files with coordinates missing SDC location of creation (51° N, 10° E)|Files by User:Stepro",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.102168",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "10.648387",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten: Kim Braun (Thüringer HC, 34)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2022-03-26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Steffen Prößdorf",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "personality",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "116499881": {
+          "pageid": 116499881,
+          "ns": 6,
+          "title": "File:2022-03-26 Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten 1DX 7421 by Stepro.jpg",
+          "index": 3,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7421_by_Stepro.jpg/960px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7421_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 900,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7421_by_Stepro.jpg/1920px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7421_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7421_by_Stepro.jpg/960px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7421_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 900,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7421_by_Stepro.jpg/1920px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7421_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7421_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:2022-03-26_Handball,_Bundesliga_Frauen,_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7421_by_Stepro.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116499881",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-03-29 13:23:43",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "2022-03-26 Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten 1DX 7421 by Stepro",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Personality rights warning|Kim Braun|Supported by Wikimedia Deutschland|Uploaded with LrMediaWiki|2022-03-26 Handball Thüringer HC - HL Buchholz 08-Rosengarten|Files with coordinates missing SDC location of creation (51° N, 10° E)|Files by User:Stepro",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.102168",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "10.648387",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten: Kim Braun (Thüringer HC, 34)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2022-03-26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Steffen Prößdorf",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "personality",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "116500518": {
+          "pageid": 116500518,
+          "ns": 6,
+          "title": "File:2022-03-26 Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten 1DX 7482 by Stepro.jpg",
+          "index": 5,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7482_by_Stepro.jpg/960px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7482_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7482_by_Stepro.jpg/1920px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7482_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7482_by_Stepro.jpg/960px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7482_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 600,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7482_by_Stepro.jpg/1920px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7482_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7482_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:2022-03-26_Handball,_Bundesliga_Frauen,_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7482_by_Stepro.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116500518",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-03-29 13:41:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "2022-03-26 Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten 1DX 7482 by Stepro",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Personality rights warning|Kim Braun|Supported by Wikimedia Deutschland|Uploaded with LrMediaWiki|2022-03-26 Handball Thüringer HC - HL Buchholz 08-Rosengarten|Files with coordinates missing SDC location of creation (51° N, 10° E)|Files by User:Stepro",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.102168",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "10.648387",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten: Kim Braun (Thüringer HC, 34) wirft ein Tor",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2022-03-26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Steffen Prößdorf",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "personality",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "116500542": {
+          "pageid": 116500542,
+          "ns": 6,
+          "title": "File:2022-03-26 Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten 1DX 7494 by Stepro.jpg",
+          "index": 14,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7494_by_Stepro.jpg/960px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7494_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7494_by_Stepro.jpg/1920px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7494_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7494_by_Stepro.jpg/960px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7494_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 600,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7494_by_Stepro.jpg/1920px-2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7494_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/2022-03-26_Handball%2C_Bundesliga_Frauen%2C_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7494_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:2022-03-26_Handball,_Bundesliga_Frauen,_Th%C3%BCringer_HC_-_HL_Buchholz_08-Rosengarten_1DX_7494_by_Stepro.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116500542",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2022-03-29 13:42:22",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "2022-03-26 Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten 1DX 7494 by Stepro",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Personality rights warning|Supported by Wikimedia Deutschland|Uploaded with LrMediaWiki|2022-03-26 Handball Thüringer HC - HL Buchholz 08-Rosengarten|Files with coordinates missing SDC location of creation (51° N, 10° E)|Files by User:Stepro",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.102168",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "10.648387",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Handball, Bundesliga Frauen, Thüringer HC - HL Buchholz 08-Rosengarten: Jubel, celebration beim Thüringer HC über den Sieg; von links: Yuki Tanabe (Thüringer HC, 7), Dominika Zachova (Thüringer HC, 8), Laura Kuske (Thüringer HC, 1, Torhüterin), Kim Braun (Thüringer HC, 34), Asli Iskit (Thüringer HC, 9)",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2022-03-26",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\">Self-photographed</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:Stepro\" title=\"User:Stepro\">Steffen Prößdorf</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "Steffen Prößdorf",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "personality",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "146738808": {
+          "pageid": 146738808,
+          "ns": 6,
+          "title": "File:BRAUN, WERNHER VON.pdf",
+          "index": 11,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/BRAUN%2C_WERNHER_VON.pdf/page1-960px-BRAUN%2C_WERNHER_VON.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1264,
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/BRAUN%2C_WERNHER_VON.pdf/page1-960px-BRAUN%2C_WERNHER_VON.pdf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1264
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/BRAUN%2C_WERNHER_VON.pdf?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:BRAUN,_WERNHER_VON.pdf",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=146738808",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-03-24 19:57:22",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "BRAUN, WERNHER VON",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Wernher von Braun|PD CIA|Images from the National Archives and Records Administration|Media contributed by the National Archives and Records Administration|Artworks without Wikidata item|Uploaded with OpenRefine|National Archives and Records Administration media without a National Archives Identifier|US National Archives series: Second Release of Name Files Under the Nazi War Crimes and Japanese Imperial Government Disclosure Acts, ca. 1981–ca. 2002|Digital Public Library of America files missing creator|US National Archives location: other|Digital Public Library of America files missing DPLA-mandated SDC statements",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<div class=\"fn value\">\nCentral Intelligence Agency</div>",
+                  "source": "commons-desc-page"
+                },
+                "ImageDescription": {
+                  "value": "<div class=\"description\">\n<ul><li><b>Scope and content:</b>  This series consists of various records. Most of the materials relate to people in one, or both, of two categories: Axis personnel accused of committing war crimes, or of belonging to criminal organizations, during World War II; and former Axis personnel who were used by the U.S. or West Germany as intelligence sources during the Cold War. The series also includes files relating to people who were never accused of war crimes or of belonging to criminal organizations, but who may have been associated with war crimes as victims, witnesses, investigators, sources, or officials.</li></ul></div>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "1936 – 2002",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<a href=\"https://en.wikipedia.org/wiki/U.S._National_Archives_and_Records_Administration\" class=\"extiw\" title=\"en:U.S. National Archives and Records Administration\">U.S. National Archives and Records Administration</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "153278190": {
+          "pageid": 153278190,
+          "ns": 6,
+          "title": "File:Braun-Bethlehem-1.jpg",
+          "index": 10,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Braun-Bethlehem-1.jpg/960px-Braun-Bethlehem-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 407,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Braun-Bethlehem-1.jpg/1920px-Braun-Bethlehem-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Braun-Bethlehem-1.jpg/960px-Braun-Bethlehem-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 407,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Braun-Bethlehem-1.jpg/1920px-Braun-Bethlehem-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Braun-Bethlehem-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Braun-Bethlehem-1.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153278190",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-09-28 13:47:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Braun-Bethlehem-1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Betlém in Nový les near Kuks|Self-published work|Cultural monuments in the Czech Republic with known IDs|Czech Wiki Photo 2024:Příroda|Uploaded via Campaign:wmcz-cwp2024|Photos by SchiDD/2024|Czech Wiki Photo 2024",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.398240",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "15.850820",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Skulpturen von Matthias Bernhard Braun im Neuwald bei Kuks: \n<ul><li>Relief der Anbetung der Heiligen Drei Könige</li>\n<li>Relief der Anbetung der Hirten</li>\n<li>Höhle, ursprünglich mit der eigentlichen Bethlehem-Szene</li>\n<li>Relief der Vision des hl. Hubert</li>\n<li>Statue (liegend) der hl. Maria Magdalena</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-09-25 12:22:14",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:SchiDD\" title=\"User:SchiDD\">SchiDD</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "153278189": {
+          "pageid": 153278189,
+          "ns": 6,
+          "title": "File:Braun-Bethlehem-2.jpg",
+          "index": 24,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Braun-Bethlehem-2.jpg/960px-Braun-Bethlehem-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 416,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Braun-Bethlehem-2.jpg/1920px-Braun-Bethlehem-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Braun-Bethlehem-2.jpg/960px-Braun-Bethlehem-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 416,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Braun-Bethlehem-2.jpg/1920px-Braun-Bethlehem-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Braun-Bethlehem-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Braun-Bethlehem-2.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153278189",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-09-28 13:47:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Braun-Bethlehem-2",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Betlém in Nový les near Kuks|Self-published work|Cultural monuments in the Czech Republic with known IDs|Czech Wiki Photo 2024:Příroda|Uploaded via Campaign:wmcz-cwp2024|Photos by SchiDD/2024|Czech Wiki Photo 2024",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.398240",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "15.850820",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Skulpturen von Matthias Bernhard Braun im Neuwald bei Kuks: \n<ul><li>Relief der Anbetung der Heiligen Drei Könige</li>\n<li>Relief der Anbetung der Hirten</li>\n<li>Höhle, ursprünglich mit der eigentlichen Bethlehem-Szene</li>\n<li>Relief der Vision des hl. Hubert</li>\n<li>Statue (liegend) der hl. Maria Magdalena</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-09-25 12:22:40",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:SchiDD\" title=\"User:SchiDD\">SchiDD</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "153278191": {
+          "pageid": 153278191,
+          "ns": 6,
+          "title": "File:Braun-Bethlehem-3.jpg",
+          "index": 27,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Braun-Bethlehem-3.jpg/960px-Braun-Bethlehem-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 471,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Braun-Bethlehem-3.jpg/1920px-Braun-Bethlehem-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Braun-Bethlehem-3.jpg/960px-Braun-Bethlehem-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 471,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Braun-Bethlehem-3.jpg/1920px-Braun-Bethlehem-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Braun-Bethlehem-3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Braun-Bethlehem-3.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153278191",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-09-28 13:47:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Braun-Bethlehem-3",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Betlém in Nový les near Kuks|Self-published work|Cultural monuments in the Czech Republic with known IDs|Czech Wiki Photo 2024:Vyřazené fotografie|Uploaded via Campaign:wmcz-cwp2024|Photos by SchiDD/2024|Czech Wiki Photo 2024",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.398240",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "15.850820",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Skulpturen von Matthias Bernhard Braun im Neuwald bei Kuks: \n<ul><li>Relief der Anbetung der Heiligen Drei Könige</li>\n<li>Relief der Anbetung der Hirten</li>\n<li>Höhle, ursprünglich mit der eigentlichen Bethlehem-Szene</li>\n<li>Relief der Vision des hl. Hubert</li>\n<li>Statue (liegend) der hl. Maria Magdalena</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-09-25 12:24:52",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:SchiDD\" title=\"User:SchiDD\">SchiDD</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "153278192": {
+          "pageid": 153278192,
+          "ns": 6,
+          "title": "File:Braun-Bethlehem-4.jpg",
+          "index": 26,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Braun-Bethlehem-4.jpg/960px-Braun-Bethlehem-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Braun-Bethlehem-4.jpg/1920px-Braun-Bethlehem-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Braun-Bethlehem-4.jpg/960px-Braun-Bethlehem-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 600,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Braun-Bethlehem-4.jpg/1920px-Braun-Bethlehem-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Braun-Bethlehem-4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Braun-Bethlehem-4.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153278192",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-09-28 13:47:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Braun-Bethlehem-4",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Betlém in Nový les near Kuks|Self-published work|Cultural monuments in the Czech Republic with known IDs|Czech Wiki Photo 2024:Příroda|Uploaded via Campaign:wmcz-cwp2024|Photos by SchiDD/2024|Czech Wiki Photo 2024",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.398240",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "15.850820",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Skulpturen von Matthias Bernhard Braun im Neuwald bei Kuks: \n<ul><li>Relief der Anbetung der Heiligen Drei Könige</li>\n<li>Relief der Anbetung der Hirten</li>\n<li>Höhle, ursprünglich mit der eigentlichen Bethlehem-Szene</li>\n<li>Relief der Vision des hl. Hubert</li>\n<li>Statue (liegend) der hl. Maria Magdalena</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-09-25 12:21:52",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:SchiDD\" title=\"User:SchiDD\">SchiDD</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "153278193": {
+          "pageid": 153278193,
+          "ns": 6,
+          "title": "File:Braun-Bethlehem-5.jpg",
+          "index": 25,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Braun-Bethlehem-5.jpg/960px-Braun-Bethlehem-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Braun-Bethlehem-5.jpg/1920px-Braun-Bethlehem-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Braun-Bethlehem-5.jpg/960px-Braun-Bethlehem-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 600,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Braun-Bethlehem-5.jpg/1920px-Braun-Bethlehem-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Braun-Bethlehem-5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Braun-Bethlehem-5.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153278193",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-09-28 13:47:55",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Braun-Bethlehem-5",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Betlém in Nový les near Kuks|Self-published work|Cultural monuments in the Czech Republic with known IDs|Uploaded via Campaign:wmcz-cwp2024|Photos by SchiDD/2024",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.398240",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "15.850820",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Skulpturen von Matthias Bernhard Braun im Neuwald bei Kuks: \n<ul><li>Relief der Anbetung der Heiligen Drei Könige</li>\n<li>Relief der Anbetung der Hirten</li>\n<li>Höhle, ursprünglich mit der eigentlichen Bethlehem-Szene</li>\n<li>Relief der Vision des hl. Hubert</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-09-25 12:22:14",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:SchiDD\" title=\"User:SchiDD\">SchiDD</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "153278196": {
+          "pageid": 153278196,
+          "ns": 6,
+          "title": "File:Braun-Bethlehem-6a.jpg",
+          "index": 22,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Braun-Bethlehem-6a.jpg/960px-Braun-Bethlehem-6a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Braun-Bethlehem-6a.jpg/1920px-Braun-Bethlehem-6a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Braun-Bethlehem-6a.jpg/960px-Braun-Bethlehem-6a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 600,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Braun-Bethlehem-6a.jpg/1920px-Braun-Bethlehem-6a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Braun-Bethlehem-6a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Braun-Bethlehem-6a.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153278196",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-09-28 13:47:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Braun-Bethlehem-6a",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Betlém in Nový les near Kuks|Self-published work|Cultural monuments in the Czech Republic with known IDs|Czech Wiki Photo 2024:Vyřazené fotografie|Uploaded via Campaign:wmcz-cwp2024|Photos by SchiDD/2024|Czech Wiki Photo 2024",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.398240",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "15.850820",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Skulpturen von Matthias Bernhard Braun im Neuwald bei Kuks: \n<ul><li>Relief der Vision des hl. Hubert</li>\n<li>Statue (liegend) der hl. Maria Magdalena</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-09-25 12:22:19",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:SchiDD\" title=\"User:SchiDD\">SchiDD</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "153278197": {
+          "pageid": 153278197,
+          "ns": 6,
+          "title": "File:Braun-Bethlehem-7a.jpg",
+          "index": 23,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Braun-Bethlehem-7a.jpg/960px-Braun-Bethlehem-7a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 509,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Braun-Bethlehem-7a.jpg/1920px-Braun-Bethlehem-7a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Braun-Bethlehem-7a.jpg/960px-Braun-Bethlehem-7a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 509,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Braun-Bethlehem-7a.jpg/1920px-Braun-Bethlehem-7a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Braun-Bethlehem-7a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Braun-Bethlehem-7a.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153278197",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-09-28 13:47:59",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Braun-Bethlehem-7a",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Betlém in Nový les near Kuks|Self-published work|Cultural monuments in the Czech Republic with known IDs|Uploaded via Campaign:wmcz-cwp2024|Photos by SchiDD/2024",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.398240",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "15.850820",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Skulpturen von Matthias Bernhard Braun im Neuwald bei Kuks: \n<ul><li>Höhle, ursprünglich mit der eigentlichen Bethlehem-Szene</li>\n<li>Relief der Vision des hl. Hubert</li>\n<li>Statue (liegend) der hl. Maria Magdalena</li></ul>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-09-25 12:22:46",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:SchiDD\" title=\"User:SchiDD\">SchiDD</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "153279474": {
+          "pageid": 153279474,
+          "ns": 6,
+          "title": "File:Braun-Bethlehem-Hubertus.jpg",
+          "index": 8,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Braun-Bethlehem-Hubertus.jpg/960px-Braun-Bethlehem-Hubertus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 786,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Braun-Bethlehem-Hubertus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Braun-Bethlehem-Hubertus.jpg/960px-Braun-Bethlehem-Hubertus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 786,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Braun-Bethlehem-Hubertus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Braun-Bethlehem-Hubertus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Braun-Bethlehem-Hubertus.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153279474",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-09-28 14:30:37",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Braun-Bethlehem-Hubertus",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Cultural monuments in the Czech Republic with known IDs|Relief of the vision of Saint Hubertus by Matyáš Bernard Braun|Photos by SchiDD/2024",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.398240",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "15.850820",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Skulpturen von Matthias Bernhard Braun im Neuwald bei Kuks: Relief der Vision des hl. Hubert",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-09-25 12:22:14",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:SchiDD\" title=\"User:SchiDD\">SchiDD</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "153280980": {
+          "pageid": 153280980,
+          "ns": 6,
+          "title": "File:Braun-Bethlehem-Johannes-Onophrius.jpg",
+          "index": 6,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Braun-Bethlehem-Johannes-Onophrius.jpg/960px-Braun-Bethlehem-Johannes-Onophrius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Braun-Bethlehem-Johannes-Onophrius.jpg/1920px-Braun-Bethlehem-Johannes-Onophrius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Braun-Bethlehem-Johannes-Onophrius.jpg/960px-Braun-Bethlehem-Johannes-Onophrius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 600,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Braun-Bethlehem-Johannes-Onophrius.jpg/1920px-Braun-Bethlehem-Johannes-Onophrius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Braun-Bethlehem-Johannes-Onophrius.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Braun-Bethlehem-Johannes-Onophrius.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153280980",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-09-28 15:06:51",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Braun-Bethlehem-Johannes-Onophrius",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Cultural monuments in the Czech Republic with known IDs|Onuphrius by Matyáš Bernard Braun|Statue of Saint John the Baptist by Matyáš Bernard Braun|Photos by SchiDD/2024",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.398110",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "15.849760",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Skulpturen von Matthias Bernhard Braun im Neuwald bei Kuks: Statue des hl. Johannes des Täufers und des hl. Onophrius",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-09-25 12:18:23",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:SchiDD\" title=\"User:SchiDD\">SchiDD</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "153280978": {
+          "pageid": 153280978,
+          "ns": 6,
+          "title": "File:Braun-Bethlehem-Johannes.jpg",
+          "index": 9,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Braun-Bethlehem-Johannes.jpg/960px-Braun-Bethlehem-Johannes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Braun-Bethlehem-Johannes.jpg/1920px-Braun-Bethlehem-Johannes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Braun-Bethlehem-Johannes.jpg/960px-Braun-Bethlehem-Johannes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 600,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Braun-Bethlehem-Johannes.jpg/1920px-Braun-Bethlehem-Johannes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Braun-Bethlehem-Johannes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Braun-Bethlehem-Johannes.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=153280978",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2024-09-28 15:06:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Braun-Bethlehem-Johannes",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Self-published work|Cultural monuments in the Czech Republic with known IDs|Statue of Saint John the Baptist by Matyáš Bernard Braun|Photos by SchiDD/2024",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "50.398110",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "15.849760",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Skulpturen von Matthias Bernhard Braun im Neuwald bei Kuks: Statue des hl. Johannes des Täufers",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2024-09-25 12:18:40",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:SchiDD\" title=\"User:SchiDD\">SchiDD</a>",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "CC BY 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "61475246": {
+          "pageid": 61475246,
+          "ns": 6,
+          "title": "File:Dülmen, St.-Viktor-Kirche -- 2015 -- 9906.jpg",
+          "index": 20,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/D%C3%BClmen%2C_St.-Viktor-Kirche_--_2015_--_9906.jpg/960px-D%C3%BClmen%2C_St.-Viktor-Kirche_--_2015_--_9906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 600,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/D%C3%BClmen%2C_St.-Viktor-Kirche_--_2015_--_9906.jpg/1920px-D%C3%BClmen%2C_St.-Viktor-Kirche_--_2015_--_9906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/D%C3%BClmen%2C_St.-Viktor-Kirche_--_2015_--_9906.jpg/960px-D%C3%BClmen%2C_St.-Viktor-Kirche_--_2015_--_9906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 600,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/D%C3%BClmen%2C_St.-Viktor-Kirche_--_2015_--_9906.jpg/1920px-D%C3%BClmen%2C_St.-Viktor-Kirche_--_2015_--_9906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/D%C3%BClmen%2C_St.-Viktor-Kirche_--_2015_--_9906.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_St.-Viktor-Kirche_--_2015_--_9906.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=61475246",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2017-08-04 06:11:06",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Dülmen, St.-Viktor-Kirche -- 2015 -- 9906",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Photographs by Dietmar Rabich/Featured pictures of Germany|Churches in Germany photographed in 2015|Taken with Canon EOS 70D|Photographs with aspect ratio of 3:2|Taken with Canon EF-S 15-85mm F3.5-5.6 IS USM|ISO speed rating 100|Uploaded with VicuñaUploader|Self-published work|Falling leaves|F-number f/7.1|Brown leaves|Photographs by Dietmar Rabich/Dülmen|Photographs by Dietmar Rabich/Featured pictures|Photographs by Dietmar Rabich/Quality images|Information field template with formatting|Church portals in Kreis Coesfeld|Files with derivative versions|Photographs by Dietmar Rabich/Quality images of churches|Photographs by Dietmar Rabich/Quality images of trees|Exposure time 1/1600 sec|Buildings with addresses|Images by XRay (flat list)|Fog in Dülmen|Trees in autumn 2015 in North Rhine-Westphalia|Portals in Dülmen|Fog in October|Dülmen photographs taken on 2015-10-31|Autumn 2015 in Dülmen|Indian summer in North Rhine-Westphalia|Featured pictures of cultural heritage monuments in North Rhine-Westphalia|Fallen leaves in North Rhine-Westphalia|Trees in North Rhine-Westphalia in October 2015|Photographs by Dietmar Rabich/Featured pictures on Wikimedia Commons|Leaves in autumn 2015|Leaves in October 2015|Buildings in fog|Doors in Dülmen-Mitte|Trees in Dülmen-Mitte|Photographs by Dietmar Rabich/Architectural photography/Religious buildings|Churchyard of St. Viktor (Dülmen)|Exterior of St. Viktor (Dülmen)|Churches in fog|Photographs by Dietmar Rabich/Quality images of North Rhine-Westphalia|Photographs by Dietmar Rabich/Quality images of doors|Lens focal length 44 mm|Photographs by Dietmar Rabich/Quality images of cemeteries|Photographs by Dietmar Rabich/Quality images of natural phenomena|Photographs by Dietmar Rabich/Year/2015|Trees in autumn in Dülmen|Featured pictures of churches in Dülmen",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "quality|featured|potd",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "51.828800",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "7.278100",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Entry of the St Viktor Church in <a href=\"https://en.wikipedia.org/wiki/D%C3%BClmen\" class=\"extiw\" title=\"en:Dülmen\">Dülmen</a>, <a href=\"https://en.wikipedia.org/wiki/North_Rhine-Westphalia\" class=\"extiw\" title=\"en:North Rhine-Westphalia\">North Rhine-Westphalia</a>, Germany<br><small>The Roman Catholic parish church of St. Victor is the oldest church in Dülmen. It is located in the town center and is the only one within the former town walls. It was founded in 780 by Abbot Bernrad or St. Liudger on a Saxon (later episcopal) main farmstead. It is not only considered the original parish church of Dülmen, but also one of the oldest churches in the diocese of <a href=\"https://en.wikipedia.org/wiki/M%C3%BCnster\" class=\"extiw\" title=\"en:Münster\">Münster</a>. The church is named after and dedicated to St. Victor. The consecration of a larger church, which was probably the first stone church, took place in 1074. The church building was destroyed, rebuilt, renovated, or remodeled several times, but was always oriented toward the east, the place of sunrise. The church took on its current form around 1500, but was destroyed on March 21 and 22, 1945, and then rebuilt, with traces of the difficult reconstruction still visible.</small>",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "Taken on 31 October 2015, 09:50",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<bdi><a href=\"https://www.wikidata.org/wiki/Q34788025\" class=\"extiw\" title=\"d:Q34788025\"><span title=\"German photographer and mathematician\">Dietmar Rabich</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table class=\"layouttemplate navigation-not-searchable\" style=\"margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;border:1px solid var(--background-color-disabled,#eeeeee)\" data-nosnippet=\"\">\n<tbody><tr>\n<td><span typeof=\"mw:File\"><span><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"14\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"1000\" data-file-height=\"600\"></span></span>\n</td>\n<td>Dieser Text und viele andere auch sind ebenso in deutscher Sprache verfügbar. Um diese sehen zu können, wähle bitte auf dieser Webseite die Spracheinstellung „Deutsch“.\n</td></tr></tbody></table><div style=\"clear:both;border:1px solid var(--background-color-disabled,#eeeeee);margin:.25em;padding:.25em .5em;background-color:var(--background-color-base,#ffffff);color:inherit;font-size:90%;\" class=\"searchaux\" data-nosnippet=\"\">\n<figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:HSSection_sign.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/120px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"100\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/HSSection_sign.svg/250px-HSSection_sign.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"156\" data-file-height=\"156\"></a><figcaption></figcaption></figure><figure class=\"mw-halign-right\" typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Cc_by-sa_(1).svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/120px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"100\" height=\"35\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Cc_by-sa_%281%29.svg/250px-Cc_by-sa_%281%29.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"120\" data-file-height=\"42\"></a><figcaption></figcaption></figure><div><b>I. Licence</b></div>\n<div style=\"margin-top:0.5em;\">This photograph is protected by copyright law. However, it may be used for free by anyone, provided it is used in accordance with the license <b>Creative Commons License <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed\">“Attribution-ShareAlike 4.0 International”</a></b> (CC BY-SA 4.0). These include, among other things, the naming of the author and the license, as well as the setting of a link to the license text or its complete imprint. The attribution should be done as follows:</div>\n<div style=\"margin-top:0.5em; text-align:center;\"><i><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a> / <a href=\"//commons.wikimedia.org/wiki/Main_Page\" title=\"Main Page\">Wikimedia Commons</a> / <span class=\"plainlinks noprint\"><a class=\"external text\" data-mw-original-href=\"//commons.wikimedia.org/wiki/File:D%C3%BClmen,_St.-Viktor-Kirche_--_2015_--_9906.jpg\" href=\"https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_St.-Viktor-Kirche_--_2015_--_9906.jpg\">“Dülmen, St.-Viktor-Kirche -- 2015 -- 9906”</a></span> / <span class=\"plainlinks noprint\"><a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0</a></span></i></div>\n<div style=\"margin-top:0.5em;\">Please read the text of the license carefully before using the photograph. If you do not agree with the conditions of the license or if you do not understand these conditions, please refrain from using the photo. If you have any questions regarding the license or the reuse of the image, please contact me before using it. If you do not comply with the terms of the license, you do not acquire any right to use the image. If you need another license to use, please contact the author <b>before</b> using.</div>\n<div style=\"margin-top:0.5em;\">For informations about the licence see section <a class=\"mw-selflink-fragment\" href=\"#ImgLic\">Licensing</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">human-readable summary</a> or as <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/4.0/legalcode\">full licence text</a> at Creative Commons. In addition to the above, a link to the source - so this page with the descriptions and license terms - is appreciated. More information or examples of use can be found at <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">re-use (with example file)</a>. The <a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_St.-Viktor-Kirche_--_2015_--_9906.jpg\">Attribution Generator</a> is helpful in licensing matters.</div>\n<div style=\"margin:0.5em auto 1em;text-align:center;\" class=\"plainlinks\"><span class=\"plainlinks\"><a rel=\"nofollow\" class=\"external text\" href=\"https://lizenzhinweisgenerator.de/?lang=en&amp;url=https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_St.-Viktor-Kirche_--_2015_--_9906.jpg\"><span class=\"submit ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-secondary ui-button-blue\" role=\"button\"><span class=\"ui-button-text\">Generate License <b>Attribution</b></span><span class=\"ui-button-icon-secondary ui-icon ui-icon-extlink\"> </span></span></a></span></div>\n<div style=\"margin-top:0.5em;\">As an alternative to the Creative Commons License <i>CC BY-SA 4.0</i>, the <i><a href=\"https://en.wikipedia.org/wiki/Free_Art_License\" class=\"extiw\" title=\"en:Free Art License\">Free Art License</a></i> (<a rel=\"nofollow\" class=\"external text\" href=\"http://artlibre.org/licence/lal/en/\">from version 1.3</a>) may also be used.</div>\n<div style=\"margin-top:0.75em;\"><b>II. Fairness</b></div>\n<div style=\"margin-top:0.5em;\">From printed materials and other tangible products that use that work, the user is asked to send a copy to the author as thank you. However, this is not a condition for the use of the photo, but a voluntary service. The mailing address can be requested via the contact options.</div>\n<div style=\"margin-top:0.5em;\">Please note that the author had quite considerable effort to draw up this file. Thus, it is only fair to comply with the conditions of <a href=\"https://en.wikipedia.org/wiki/Free_license\" class=\"extiw\" title=\"en:Free license\">free licenses</a> listed here. In the case of violation of the license conditions, the rights granted hereunder will expire automatically.</div>\n<div style=\"margin-top:0.75em; clear: both;\"><b>III. Disclaimer</b></div>\n<div style=\"margin-top:0.5em;\">Please note that the rights granted under the license apply exclusively to the photograph itself, but not to the rights of third parties — such as copyrights or property rights in the object depicted or the personal rights of any individuals who may be depicted. (See <a href=\"//commons.wikimedia.org/wiki/Commons:L\" class=\"mw-redirect\" title=\"Commons:L\">licences</a> and <a href=\"//commons.wikimedia.org/wiki/Commons:SOSUMI\" class=\"mw-redirect\" title=\"Commons:SOSUMI\">non-copyright restrictions</a>.) I do not grant any warranty that the subsequent use of the photograph is legally possible concerning the object or person shown in the photograph. You are responsible to check and respect these rights in the publication in the respective medium or country.</div>\n<div style=\"margin-top:0.5em;\">The author is not responsible for the accuracy of the information contained herein (description, title, etc.). Likewise, the author assumes no liability for further use. Please note the <a href=\"//commons.wikimedia.org/wiki/Commons:General_disclaimer\" title=\"Commons:General disclaimer\">general disclaimer</a> and please read <a href=\"//commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia\" title=\"Commons:Reusing content outside Wikimedia\">reusing content outside Wikimedia</a> too.</div>\n<div style=\"margin-top:0.75em;\"><b>IV. Contact</b></div>\n<div style=\"margin-top:0.5em;\"><b><span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:UserIconMail.svg\" class=\"mw-file-description\"><img src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/40px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"24\" height=\"24\" class=\"mw-file-element\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/UserIconMail.svg/60px-UserIconMail.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"700\" data-file-height=\"700\"></a></span> <a href=\"//commons.wikimedia.org/wiki/Special:EmailUser/XRay\" title=\"Special:EmailUser/XRay\">E-mail to the author</a></b> or the <a href=\"//commons.wikimedia.org/wiki/User_talk:XRay\" title=\"User talk:XRay\">author's talk page</a> <small>or the <a rel=\"nofollow\" class=\"external text\" href=\"http://www.rabich.de/\">author's website</a></small></div></div>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Attribution": {
+                  "value": "<b><a href=\"//commons.wikimedia.org/wiki/User:XRay\" title=\"User:XRay\">Dietmar Rabich</a></b>",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 4.0",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 4.0",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-4.0",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "10619122": {
+          "pageid": 10619122,
+          "ns": 6,
+          "title": "File:Fromiller - Hl Josef mit dem Jesuskind.jpeg",
+          "index": 30,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Fromiller_-_Hl_Josef_mit_dem_Jesuskind.jpeg/960px-Fromiller_-_Hl_Josef_mit_dem_Jesuskind.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1947,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/5/51/Fromiller_-_Hl_Josef_mit_dem_Jesuskind.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Fromiller_-_Hl_Josef_mit_dem_Jesuskind.jpeg/960px-Fromiller_-_Hl_Josef_mit_dem_Jesuskind.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1947,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/51/Fromiller_-_Hl_Josef_mit_dem_Jesuskind.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Fromiller_-_Hl_Josef_mit_dem_Jesuskind.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fromiller_-_Hl_Josef_mit_dem_Jesuskind.jpeg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10619122",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-06-12 17:43:40",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hl. Josef mit dem Jesuskind",
+                  "source": "commons-desc-page"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Josef Ferdinand Fromiller|Author died more than 100 years ago public domain images|Artworks without Wikidata item|PD-Art (PD-old-100)|CC-PD-Mark",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Artist": {
+                  "value": "<bdi><a rel=\"mw:WikiLink/Interwiki\" href=\"https://www.wikidata.org/wiki/Q1704568\" title=\"d:Q1704568\" class=\"extiw\"><span title=\"Austrian painter (1693-1760)\">Josef Ferdinand Fromiller</span></a></bdi>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "repro from artbook",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "<table class=\"licensetpl\" style=\"display:none\">\n<tbody><tr><td><span class=\"licensetpl_short\">Public domain</span><span class=\"licensetpl_long\">Public domain</span><span class=\"licensetpl_link_req\">false</span><span class=\"licensetpl_attr_req\">false</span></td></tr>\n</tbody></table>\n<table style=\"width: 100%; clear: both; margin: 0.5em auto; background-color: var(--background-color-progressive-subtle, #f7f8ff); color: var(--color-base, #202122); border: var(--border-subtle, 2px solid #8888aa); border-spacing: 8px; padding: 0px;\" dir=\"ltr\" class=\"layouttemplate\" lang=\"en\">\n<tbody><tr><td rowspan=\"2\"><span typeof=\"mw:File\" data-mw='{\"caption\":\"Public domain\"}'><span title=\"Public domain\"><img resource=\"https://commons.wikimedia.org/wiki/File:PD-icon.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/120px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/250px-PD-icon.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" alt=\"Public domain\" data-file-width=\"196\" data-file-height=\"196\" data-file-type=\"drawing\" height=\"64\" width=\"64\" class=\"mw-file-element\"></span></span></td>\n<td>\n<p>This work is in the <b><a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/public%20domain\" title=\"en:public domain\" class=\"extiw\">public domain</a></b> in its country of origin and other countries and areas where the <a rel=\"mw:WikiLink/Interwiki\" href=\"https://en.wikipedia.org/wiki/List%20of%20countries'%20copyright%20lengths\" title=\"w:List of countries' copyright lengths\" class=\"extiw\">copyright term</a> is the author's <b>life plus 100 years or fewer</b>.</p>\n<hr><span typeof=\"mw:File\"><span><img resource=\"https://commons.wikimedia.org/wiki/File:Dialog-warning.svg\" src=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/40px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" srcset=\"https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Dialog-warning.svg/60px-Dialog-warning.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"48\" data-file-height=\"48\" data-file-type=\"drawing\" height=\"25\" width=\"25\" class=\"mw-file-element\"></span></span> <small>You must also include a <a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/Commons:Copyright_tags/Country-specific_tags#United_States_of_America\" title=\"Commons:Copyright tags/Country-specific tags\">United States public domain tag</a> to indicate why this work is in the public domain in the United States.<div class=\"navigation-not-searchable\"></div></small></td></tr>\n\n<tr>\n<td colspan=\"2\" style=\"text-align:center;font-size:x-small;line-height:140%;\"><a rel=\"mw:WikiLink/Interwiki\" href=\"https://creativecommons.org/publicdomain/mark/1.0/deed.en\" title=\"ccorg:publicdomain/mark/1.0/deed.en\" class=\"extiw\">This file has been identified as being free of known restrictions under copyright law, including all related and neighboring rights.</a></td></tr>\n</tbody></table><span class=\"licensetpl_link\" style=\"display:none;\">https://creativecommons.org/publicdomain/mark/1.0/</span><span class=\"licensetpl_short\" style=\"display:none;\">PDM</span><span class=\"licensetpl_long\" style=\"display:none;\">Creative Commons Public Domain Mark 1.0</span><span class=\"licensetpl_link_req\" style=\"display:none;\">false</span><span class=\"licensetpl_attr_req\" style=\"display:none;\">false</span><link rel=\"mw:PageProp/Category\" href=\"./Category:CC-PD-Mark\">\n<link rel=\"mw:PageProp/Category\" href=\"./Category:Author_died_more_than_100_years_ago_public_domain_images\">",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "5822467": {
+          "pageid": 5822467,
+          "ns": 6,
+          "title": "File:Hl Anna Stangenach 1.JPG",
+          "index": 7,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hl_Anna_Stangenach_1.JPG/960px-Hl_Anna_Stangenach_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1300,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/7/79/Hl_Anna_Stangenach_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Hl_Anna_Stangenach_1.JPG/960px-Hl_Anna_Stangenach_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1300,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/79/Hl_Anna_Stangenach_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Hl_Anna_Stangenach_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hl_Anna_Stangenach_1.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5822467",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-01-29 21:35:11",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hl Anna Stangenach 1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Konica Minolta Dynax 7D|Kapelle Hl. Anna (Stangenach)|Self-published work|Photos by Böhringer|Cultural heritage monuments in Austria with known IDs|Chapels in Austria in snow",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "47.423472",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "9.867758",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>aus dem <a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Dehio\" title=\"de:Dehio\" class=\"extiw\">DEHIO</a> Vorarlberg 1983:</b> KAPELLE hl. Anna, in Stangenach (<a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Schwarzenberg%20(Vorarlberg)\" title=\"de:Schwarzenberg (Vorarlberg)\" class=\"extiw\">Schwarzenberg</a>). 1689 vom Landschreiber Alois Braun und Anna Hiller gestiftet. 1717 geweiht, 1751 Vergrößerung durch Anton Metzler, Jakob Oberhauser, Josef Maier, 1910 Chorneubau, 1909-1911 und 1977 Restauriert. Rechteckbau mit eingezogenem 3/8-Chor unter gemeinsamem Satteldach mit Glockentürmchen über dem Chor. Am Portalscheitelstein bezeichnet 1751.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-01-10",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:B%C3%B6hringer\" title=\"User:Böhringer\">böhringer friedrich</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "5822434": {
+          "pageid": 5822434,
+          "ns": 6,
+          "title": "File:Hl Anna Stangenach 2.JPG",
+          "index": 13,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Hl_Anna_Stangenach_2.JPG/960px-Hl_Anna_Stangenach_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 1300,
+              "responsiveUrls": {
+                "2": "https://upload.wikimedia.org/wikipedia/commons/3/38/Hl_Anna_Stangenach_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Hl_Anna_Stangenach_2.JPG/960px-Hl_Anna_Stangenach_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1300,
+                "srcset": "https://upload.wikimedia.org/wikipedia/commons/3/38/Hl_Anna_Stangenach_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Hl_Anna_Stangenach_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hl_Anna_Stangenach_2.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5822434",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2009-01-29 21:32:12",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hl Anna Stangenach 2",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Konica Minolta Dynax 7D|Kapelle Hl. Anna (Stangenach)|Self-published work|Photos by Böhringer|Cultural heritage monuments in Austria with known IDs|Chapels in Austria in snow",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "47.423742",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "9.867539",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "<b>aus dem <a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Dehio\" title=\"de:Dehio\" class=\"extiw\">DEHIO</a> Vorarlberg 1983:</b> KAPELLE hl. Anna, in Stangenach (<a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Schwarzenberg%20(Vorarlberg)\" title=\"de:Schwarzenberg (Vorarlberg)\" class=\"extiw\">Schwarzenberg</a>). 1689 vom Landschreiber Alois Braun und Anna Hiller gestiftet. 1717 geweiht, 1751 Vergrößerung durch Anton Metzler, Jakob Oberhauser, Josef Maier, 1910 Chorneubau, 1909-1911 und 1977 Restauriert. Rechteckbau mit eingezogenem 3/8-Chor unter gemeinsamem Satteldach mit Glockentürmchen über dem Chor. Am Portalscheitelstein bezeichnet 1751.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2009-01-10",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a rel=\"mw:WikiLink\" href=\"https://commons.wikimedia.org/wiki/User:B%C3%B6hringer\" title=\"User:Böhringer\">böhringer friedrich</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "10244272": {
+          "pageid": 10244272,
+          "ns": 6,
+          "title": "File:Hl Sebastian Gisingen 1.JPG",
+          "index": 2,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Hl_Sebastian_Gisingen_1.JPG/960px-Hl_Sebastian_Gisingen_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 900,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Hl_Sebastian_Gisingen_1.JPG/1920px-Hl_Sebastian_Gisingen_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Hl_Sebastian_Gisingen_1.JPG/960px-Hl_Sebastian_Gisingen_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 900,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Hl_Sebastian_Gisingen_1.JPG/1920px-Hl_Sebastian_Gisingen_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hl_Sebastian_Gisingen_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hl_Sebastian_Gisingen_1.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10244272",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-05-04 20:57:12",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hl Sebastian Gisingen 1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Sony DSLR-A700|Stadtpfarrkirche Hl. Sebastian (Gisingen)|Self-published work|Photos by Böhringer|Cultural heritage monuments in Austria with known IDs",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "47.258322",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "9.596809",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Stadtpfarrkirche \"hl. Sebastian\" in <a href=\"https://de.wikipedia.org/wiki/Gisingen_(Feldkirch)\" class=\"extiw\" title=\"de:Gisingen (Feldkirch)\">Gisingen </a> in <a href=\"https://de.wikipedia.org/wiki/Feldkirch\" class=\"extiw\" title=\"de:Feldkirch\">Feldkirch</a>.1922 erweitert im Langhaus und Anbau von zwei Seitenschiffe durch <a href=\"https://de.wikipedia.org/wiki/Willibald_Braun\" class=\"extiw\" title=\"de:Willibald Braun\">Willibald Braun</a>.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2010-04-28",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:B%C3%B6hringer\" title=\"User:Böhringer\">böhringer friedrich</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "10244376": {
+          "pageid": 10244376,
+          "ns": 6,
+          "title": "File:Hl Sebastian Gisingen 2.JPG",
+          "index": 12,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hl_Sebastian_Gisingen_2.JPG/960px-Hl_Sebastian_Gisingen_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 685,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hl_Sebastian_Gisingen_2.JPG/1920px-Hl_Sebastian_Gisingen_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hl_Sebastian_Gisingen_2.JPG/960px-Hl_Sebastian_Gisingen_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 685,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Hl_Sebastian_Gisingen_2.JPG/1920px-Hl_Sebastian_Gisingen_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Hl_Sebastian_Gisingen_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hl_Sebastian_Gisingen_2.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10244376",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2010-05-04 21:02:47",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Hl Sebastian Gisingen 2",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Taken with Sony DSLR-A700|Stadtpfarrkirche Hl. Sebastian (Gisingen)|Self-published work|Photos by Böhringer|Files with coordinates missing SDC location of creation",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "47.258167",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "9.596436",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Stadtpfarrkirche \"hl. Sebastian\" in <a href=\"https://de.wikipedia.org/wiki/Gisingen_(Feldkirch)\" class=\"extiw\" title=\"de:Gisingen (Feldkirch)\">Gisingen </a> in <a href=\"https://de.wikipedia.org/wiki/Feldkirch\" class=\"extiw\" title=\"de:Feldkirch\">Feldkirch</a>.1922 erweitert im Lanhaus und Anbau von zwei Seitenschiffe durch <a href=\"https://de.wikipedia.org/wiki/Willibald_Braun\" class=\"extiw\" title=\"de:Willibald Braun\">Willibald Braun</a>. Rechts im Bild das Pfarrhaus.",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2010-04-28",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "<a href=\"//commons.wikimedia.org/wiki/User:B%C3%B6hringer\" title=\"User:Böhringer\">böhringer friedrich</a>",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "I, the copyright holder of this work, hereby publish it under the following license:",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 2.5",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 2.5",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/2.5",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-2.5",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "35192434": {
+          "pageid": 35192434,
+          "ns": 6,
+          "title": "File:Holzackergasse 2 hl Gebhard, 1.JPG",
+          "index": 21,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Holzackergasse_2_hl_Gebhard%2C_1.JPG/960px-Holzackergasse_2_hl_Gebhard%2C_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 601,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Holzackergasse_2_hl_Gebhard%2C_1.JPG/1920px-Holzackergasse_2_hl_Gebhard%2C_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Holzackergasse_2_hl_Gebhard%2C_1.JPG/960px-Holzackergasse_2_hl_Gebhard%2C_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 601,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Holzackergasse_2_hl_Gebhard%2C_1.JPG/1920px-Holzackergasse_2_hl_Gebhard%2C_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Holzackergasse_2_hl_Gebhard%2C_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Holzackergasse_2_hl_Gebhard,_1.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35192434",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-09-06 21:36:31",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Holzackergasse 2 hl Gebhard, 1",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Taken with Nikon D800E|License migration redundant|Pfarrkirche St Gebhard (Bregenz-Vorkloster)|Self-published work|Photos by Böhringer|Cultural heritage monuments in Austria with known IDs|Images from Wiki Loves Monuments 2014|Images from Wiki Loves Monuments 2014 in Austria|Images from Wiki Loves Monuments 2014 in Austria selected for jury (remove me if image should not take part in the competition)|Austria photographs taken on 2014-05-17|Images from Wiki Loves Monuments missing SDC creator",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "47.493036",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "9.716215",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Kath. Pfarrkirche hl. Gebhard in <a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Bregenz\" title=\"de:Bregenz\" class=\"extiw\">Bregenz Vorkloster</a>, Relativ junger Kirchenbau (1956-1961 nach Plänen von <a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Willibald%20Braun\" title=\"de:Willibald Braun\" class=\"extiw\">Willibald Braun</a>. Hölzerne Schutzmantelmadonna und Hl. Josef von Emil Gehrer über den Seitenaltären; Orgel (1975) von Herbert Gollini; Glasfenster (1959) von Fritz Krcal, Ausführung Tiroler Glasmalereianstalt. Bei Umbau und Restaurierung 2010/2011 Altar ins Hauptschiff verlegt und freigewordene Apsis zu einem Werktagsgottesdienstraum umgewandelt. Optische Trennung im oberen Bereich durch Triptychon „Das bewegliche St. Gebhardsbild“ von <a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Hubert%20Berchtold%20(Maler)\" title=\"de:Hubert Berchtold (Maler)\" class=\"extiw\">Hubert Berchtold</a> (einst für den Burghof auf dem Gebhardsberg gefertigt).",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-05-17",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Feel free to use my photos, but please mention me as the author and if you want send me a  <a rel=\"mw:ExtLink\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:B%C3%B6hringer&amp;action=edit&amp;section=new\" class=\"external text\" data-mw-original-href=\"http://commons.wikimedia.org/w/index.php?title=User_talk:Böhringer&amp;action=edit&amp;section=new\">message</a>. or (<a rel=\"mw:ExtLink nofollow\" href=\"mailto:rufre@lenz-nenning.at\" class=\"external text\">rufre@lenz-nenning.at</a>)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "You may select the license of your choice.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0 at",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0 at",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0-at",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "35192624": {
+          "pageid": 35192624,
+          "ns": 6,
+          "title": "File:Holzackergasse 2 hl Gebhard, 2.JPG",
+          "index": 29,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Holzackergasse_2_hl_Gebhard%2C_2.JPG/960px-Holzackergasse_2_hl_Gebhard%2C_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 601,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Holzackergasse_2_hl_Gebhard%2C_2.JPG/1920px-Holzackergasse_2_hl_Gebhard%2C_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Holzackergasse_2_hl_Gebhard%2C_2.JPG/960px-Holzackergasse_2_hl_Gebhard%2C_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 601,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Holzackergasse_2_hl_Gebhard%2C_2.JPG/1920px-Holzackergasse_2_hl_Gebhard%2C_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Holzackergasse_2_hl_Gebhard%2C_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Holzackergasse_2_hl_Gebhard,_2.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35192624",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-09-06 21:40:19",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Holzackergasse 2 hl Gebhard, 2",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Taken with Nikon D800E|License migration redundant|Pfarrkirche St Gebhard (Bregenz-Vorkloster)|Self-published work|Photos by Böhringer|Cultural heritage monuments in Austria with known IDs|Images from Wiki Loves Monuments 2014|Images from Wiki Loves Monuments 2014 in Austria|Images from Wiki Loves Monuments 2014 in Austria selected for jury (remove me if image should not take part in the competition)|Austria photographs taken on 2014-05-17|Images from Wiki Loves Monuments missing SDC creator",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "47.493036",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "9.716215",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Kath. Pfarrkirche hl. Gebhard in <a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Bregenz\" title=\"de:Bregenz\" class=\"extiw\">Bregenz Vorkloster</a>, Relativ junger Kirchenbau (1956-1961 nach Plänen von <a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Willibald%20Braun\" title=\"de:Willibald Braun\" class=\"extiw\">Willibald Braun</a>. Hölzerne Schutzmantelmadonna und Hl. Josef von Emil Gehrer über den Seitenaltären; Orgel (1975) von Herbert Gollini; Glasfenster (1959) von Fritz Krcal, Ausführung Tiroler Glasmalereianstalt. Bei Umbau und Restaurierung 2010/2011 Altar ins Hauptschiff verlegt und freigewordene Apsis zu einem Werktagsgottesdienstraum umgewandelt. Optische Trennung im oberen Bereich durch Triptychon „Das bewegliche St. Gebhardsbild“ von <a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Hubert%20Berchtold%20(Maler)\" title=\"de:Hubert Berchtold (Maler)\" class=\"extiw\">Hubert Berchtold</a> (einst für den Burghof auf dem Gebhardsberg gefertigt).",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-05-17",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Feel free to use my photos, but please mention me as the author and if you want send me a  <a rel=\"mw:ExtLink\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:B%C3%B6hringer&amp;action=edit&amp;section=new\" class=\"external text\" data-mw-original-href=\"http://commons.wikimedia.org/w/index.php?title=User_talk:Böhringer&amp;action=edit&amp;section=new\">message</a>. or (<a rel=\"mw:ExtLink nofollow\" href=\"mailto:rufre@lenz-nenning.at\" class=\"external text\">rufre@lenz-nenning.at</a>)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "You may select the license of your choice.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0 at",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0 at",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0-at",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "35192579": {
+          "pageid": 35192579,
+          "ns": 6,
+          "title": "File:Holzackergasse 2 hl Gebhard, 3.JPG",
+          "index": 28,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Holzackergasse_2_hl_Gebhard%2C_3.JPG/960px-Holzackergasse_2_hl_Gebhard%2C_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "thumbwidth": 900,
+              "thumbheight": 601,
+              "responsiveUrls": {
+                "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Holzackergasse_2_hl_Gebhard%2C_3.JPG/1920px-Holzackergasse_2_hl_Gebhard%2C_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+              },
+              "thumbattribs": {
+                "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Holzackergasse_2_hl_Gebhard%2C_3.JPG/960px-Holzackergasse_2_hl_Gebhard%2C_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 601,
+                "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Holzackergasse_2_hl_Gebhard%2C_3.JPG/1920px-Holzackergasse_2_hl_Gebhard%2C_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Holzackergasse_2_hl_Gebhard%2C_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Holzackergasse_2_hl_Gebhard,_3.JPG",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35192579",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2014-09-06 21:39:44",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Holzackergasse 2 hl Gebhard, 3",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "GFDL|Taken with Nikon D800E|License migration redundant|Pipe organs in Vorarlberg|Pfarrkirche St Gebhard (Bregenz-Vorkloster)|Self-published work|Photos by Böhringer|Cultural heritage monuments in Austria with known IDs|Images from Wiki Loves Monuments 2014|Images from Wiki Loves Monuments 2014 in Austria|Images from Wiki Loves Monuments 2014 in Austria selected for jury (remove me if image should not take part in the competition)|Austria photographs taken on 2014-05-17|Images from Wiki Loves Monuments missing SDC creator",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "GPSLatitude": {
+                  "value": "47.493036",
+                  "source": "commons-desc-page"
+                },
+                "GPSLongitude": {
+                  "value": "9.716215",
+                  "source": "commons-desc-page"
+                },
+                "GPSMapDatum": {
+                  "value": "WGS-84",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Kath. Pfarrkirche hl. Gebhard in <a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Bregenz\" title=\"de:Bregenz\" class=\"extiw\">Bregenz Vorkloster</a>, Relativ junger Kirchenbau (1956-1961 nach Plänen von <a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Willibald%20Braun\" title=\"de:Willibald Braun\" class=\"extiw\">Willibald Braun</a>. Hölzerne Schutzmantelmadonna und Hl. Josef von Emil Gehrer über den Seitenaltären; Orgel (1975) von Herbert Gollini; Glasfenster (1959) von Fritz Krcal, Ausführung Tiroler Glasmalereianstalt. Bei Umbau und Restaurierung 2010/2011 Altar ins Hauptschiff verlegt und freigewordene Apsis zu einem Werktagsgottesdienstraum umgewandelt. Optische Trennung im oberen Bereich durch Triptychon „Das bewegliche St. Gebhardsbild“ von <a rel=\"mw:WikiLink/Interwiki\" href=\"https://de.wikipedia.org/wiki/Hubert%20Berchtold%20(Maler)\" title=\"de:Hubert Berchtold (Maler)\" class=\"extiw\">Hubert Berchtold</a> (einst für den Burghof auf dem Gebhardsberg gefertigt).",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "2014-05-17",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Feel free to use my photos, but please mention me as the author and if you want send me a  <a rel=\"mw:ExtLink\" href=\"https://commons.wikimedia.org/w/index.php?title=User_talk:B%C3%B6hringer&amp;action=edit&amp;section=new\" class=\"external text\" data-mw-original-href=\"http://commons.wikimedia.org/w/index.php?title=User_talk:Böhringer&amp;action=edit&amp;section=new\">message</a>. or (<a rel=\"mw:ExtLink nofollow\" href=\"mailto:rufre@lenz-nenning.at\" class=\"external text\">rufre@lenz-nenning.at</a>)",
+                  "source": "commons-desc-page"
+                },
+                "Permission": {
+                  "value": "You may select the license of your choice.",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseShortName": {
+                  "value": "CC BY-SA 3.0 at",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Creative Commons Attribution-Share Alike 3.0 at",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "true",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "LicenseUrl": {
+                  "value": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+                  "source": "commons-desc-page"
+                },
+                "Copyrighted": {
+                  "value": "True",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "cc-by-sa-3.0-at",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "65495515": {
+          "pageid": 65495515,
+          "ns": 6,
+          "title": "File:Koblenz - Kirche des hl. Johannes d. T. - Inneres, Chor.jpg",
+          "index": 18,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Inneres%2C_Chor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 900,
+              "thumbheight": 1240,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Inneres%2C_Chor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1240
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Inneres%2C_Chor.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Inneres,_Chor.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65495515",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-01-13 18:37:06",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Koblenz - Kirche des hl. Johannes d. T. - Inneres, Chor",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Joseph Braun|PD-old-70-expired|Jesuitenkirche (Koblenz)|Koblenz in the 1900s|CC-PD-Mark|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Koblenz - Kirche des hl. Johannes d. T. - Inneres, Chor",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "before 1908<div style=\"display: none;\">date QS:P,+1908-00-00T00:00:00Z/7,P1326,+1908-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Joseph Braun: <i>Die Kirchenbauten der deutschen Jesuiten.</i> 1908, <a rel=\"mw:ExtLink nofollow\" href=\"http://digital.ub.uni-paderborn.de/ihd/content/pageview/1407100\" class=\"external text\">Tafel 2</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Joseph Braun",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "65495516": {
+          "pageid": 65495516,
+          "ns": 6,
+          "title": "File:Koblenz - Kirche des hl. Johannes d. T. - Inneres, Schiff.jpg",
+          "index": 16,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Inneres%2C_Schiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 900,
+              "thumbheight": 1180,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Inneres%2C_Schiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1180
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Inneres%2C_Schiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Inneres,_Schiff.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65495516",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-01-13 18:37:06",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Koblenz - Kirche des hl. Johannes d. T. - Inneres, Schiff",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Joseph Braun|PD-old-70-expired|Jesuitenkirche (Koblenz)|Koblenz in the 1900s|CC-PD-Mark|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Koblenz - Kirche des hl. Johannes d. T. - Inneres, Schiff",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "before 1908<div style=\"display: none;\">date QS:P,+1908-00-00T00:00:00Z/7,P1326,+1908-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Joseph Braun: <i>Die Kirchenbauten der deutschen Jesuiten.</i> 1908, <a rel=\"mw:ExtLink nofollow\" href=\"http://digital.ub.uni-paderborn.de/ihd/content/pageview/1407100\" class=\"external text\">Tafel 2</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Joseph Braun",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "65495771": {
+          "pageid": 65495771,
+          "ns": 6,
+          "title": "File:Koblenz - Kirche des hl. Johannes d. T. - Inneres, Seitenschiff.jpg",
+          "index": 19,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Inneres%2C_Seitenschiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 900,
+              "thumbheight": 1509,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Inneres%2C_Seitenschiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1509
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Inneres%2C_Seitenschiff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Inneres,_Seitenschiff.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65495771",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-01-13 18:45:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Koblenz - Kirche des hl. Johannes d. T. - Inneres, Seitenschiff",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Joseph Braun|PD-old-70-expired|Jesuitenkirche (Koblenz)|Koblenz in the 1900s|CC-PD-Mark|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Koblenz - Kirche des hl. Johannes d. T. - Inneres, Seitenschiff",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "before 1908<div style=\"display: none;\">date QS:P,+1908-00-00T00:00:00Z/7,P1326,+1908-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Joseph Braun: <i>Die Kirchenbauten der deutschen Jesuiten.</i> 1908, <a rel=\"mw:ExtLink nofollow\" href=\"http://digital.ub.uni-paderborn.de/ihd/content/pageview/1407118\" class=\"external text\">Tafel 3</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Joseph Braun",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "65495769": {
+          "pageid": 65495769,
+          "ns": 6,
+          "title": "File:Koblenz - Kirche des hl. Johannes d. T. - Portal.jpg",
+          "index": 17,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Portal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 900,
+              "thumbheight": 1227,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Portal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 1227
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Portal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Koblenz_-_Kirche_des_hl._Johannes_d._T._-_Portal.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65495769",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-01-13 18:45:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Koblenz - Kirche des hl. Johannes d. T. - Portal",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Joseph Braun|PD-old-70-expired|Jesuitenkirche (Koblenz)|Koblenz in the 1900s|CC-PD-Mark|Church portals in Koblenz|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Koblenz - Kirche des hl. Johannes d. T. - Portal",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "before 1908<div style=\"display: none;\">date QS:P,+1908-00-00T00:00:00Z/7,P1326,+1908-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Joseph Braun: <i>Die Kirchenbauten der deutschen Jesuiten.</i> 1908, <a rel=\"mw:ExtLink nofollow\" href=\"http://digital.ub.uni-paderborn.de/ihd/content/pageview/1407118\" class=\"external text\">Tafel 3</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Joseph Braun",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        },
+        "65495770": {
+          "pageid": 65495770,
+          "ns": 6,
+          "title": "File:Koblenz - Kirche des hl. Johannes d. T. - Äußeres System.jpg",
+          "index": 15,
+          "imagerepository": "local",
+          "imageinfo": [
+            {
+              "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_%C3%84u%C3%9Feres_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "thumbwidth": 900,
+              "thumbheight": 2415,
+              "thumbattribs": {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_%C3%84u%C3%9Feres_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+                "decoding": "async",
+                "loading": "lazy",
+                "width": 900,
+                "height": 2415
+              },
+              "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Koblenz_-_Kirche_des_hl._Johannes_d._T._-_%C3%84u%C3%9Feres_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+              "descriptionurl": "https://commons.wikimedia.org/wiki/File:Koblenz_-_Kirche_des_hl._Johannes_d._T._-_%C3%84u%C3%9Feres_System.jpg",
+              "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=65495770",
+              "extmetadata": {
+                "DateTime": {
+                  "value": "2018-01-13 18:45:52",
+                  "source": "mediawiki-metadata",
+                  "hidden": ""
+                },
+                "ObjectName": {
+                  "value": "Koblenz - Kirche des hl. Johannes d. T. - Äußeres System",
+                  "source": "mediawiki-metadata"
+                },
+                "CommonsMetadataExtension": {
+                  "value": 1.2,
+                  "source": "extension",
+                  "hidden": ""
+                },
+                "Categories": {
+                  "value": "Joseph Braun|PD-old-70-expired|Jesuitenkirche (Koblenz)|CC-PD-Mark|PD-old missing SDC copyright status",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "Assessments": {
+                  "value": "",
+                  "source": "commons-categories",
+                  "hidden": ""
+                },
+                "ImageDescription": {
+                  "value": "Koblenz - Kirche des hl. Johannes d. T. - Äußeres System",
+                  "source": "commons-desc-page"
+                },
+                "DateTimeOriginal": {
+                  "value": "before 1908<div style=\"display: none;\">date QS:P,+1908-00-00T00:00:00Z/7,P1326,+1908-00-00T00:00:00Z/9</div>",
+                  "source": "commons-desc-page"
+                },
+                "Credit": {
+                  "value": "Joseph Braun: <i>Die Kirchenbauten der deutschen Jesuiten.</i> 1908, <a rel=\"mw:ExtLink nofollow\" href=\"http://digital.ub.uni-paderborn.de/ihd/content/pageview/1407118\" class=\"external text\">Tafel 3</a>",
+                  "source": "commons-desc-page"
+                },
+                "Artist": {
+                  "value": "Joseph Braun",
+                  "source": "commons-desc-page"
+                },
+                "LicenseShortName": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "UsageTerms": {
+                  "value": "Public domain",
+                  "source": "commons-desc-page"
+                },
+                "AttributionRequired": {
+                  "value": "false",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Copyrighted": {
+                  "value": "False",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "Restrictions": {
+                  "value": "",
+                  "source": "commons-desc-page",
+                  "hidden": ""
+                },
+                "License": {
+                  "value": "pd",
+                  "source": "commons-templates",
+                  "hidden": ""
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

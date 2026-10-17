@@ -1,0 +1,94 @@
+{
+  "slug": "epson-ep101",
+  "query": "Commons file metadata for Wikipedia discovery hint",
+  "checkedOn": "2026-10-13",
+  "candidates": [
+    {
+      "title": "File:EP-101 (5207073092) (cropped).jpg",
+      "pageid": 114312031,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:EP-101_(5207073092)_(cropped).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/04/EP-101_%285207073092%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/EP-101_%285207073092%29_%28cropped%29.jpg/960px-EP-101_%285207073092%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "metadata": {
+        "DateTime": {
+          "value": "2022-01-15 08:31:48",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "EP-101 (5207073092) (cropped)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "EP-101|Extracted images|Epson Micro Piezo Press Tour 210",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The actual printer that gave Epson its name: the EP-101. This printer was made in 1968 by Shinshu Seiki - a subsidiary of the Seiko watch company which eventually became renamed as \"Epson\" to produce the \"sons\" of this printer.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2010-11-25 13:35",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/andrewchan/5207073092/\">EP-101</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/7259323@N05\">Andrew Chan</a> from Singapore, Singapore",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "description": "The actual printer that gave Epson its name: the EP-101. This printer was made in 1968 by Shinshu Seiki - a subsidiary of the Seiko watch company which eventually became renamed as \"Epson\" to produce the \"sons\" of this printer.",
+      "artist": "Andrew Chan  from Singapore, Singapore",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "date": "2010-11-25 13:35"
+    }
+  ]
+}

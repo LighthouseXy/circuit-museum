@@ -1,0 +1,1415 @@
+{
+  "schemaVersion": 2,
+  "checkedOn": "2026-10-11",
+  "status": "revised-prose-ready-for-implementation-validation",
+  "base": {
+    "path": "docs/collection.json",
+    "sha256": "41ab8a43935829933ba6b0de54a1d03627eb0d94cf8f4fdc61bdf5d2632e7f8a",
+    "importedExhibitCount": 40,
+    "preservedSlugs": [
+      "airpods-1",
+      "airpods-5",
+      "altair-8800",
+      "amazon-kindle-1",
+      "apple-1",
+      "apple-watch-1",
+      "apple-watch-series-12",
+      "atari-vcs",
+      "casio-qv10",
+      "commodore-64",
+      "fitbit-flex",
+      "game-boy",
+      "hamilton-pulsar-p1",
+      "hp-35",
+      "ibm-pc-5150",
+      "imac-g3",
+      "ipad-1",
+      "iphone-1",
+      "iphone-18-pro",
+      "iphone-4",
+      "ipod-1",
+      "koss-sp3",
+      "macbook-2006",
+      "macbook-air-m5-2026",
+      "macintosh-128k",
+      "magnavox-odyssey",
+      "motorola-dynatac-8000x",
+      "nintendo-ds",
+      "nintendo-famicom",
+      "nintendo-wii",
+      "palmpilot-professional",
+      "radiola-iii",
+      "raspberry-pi-model-b",
+      "regency-tr1",
+      "sony-playstation",
+      "sony-tps-l2",
+      "speak-and-spell",
+      "steam-deck-lcd",
+      "xiaomi-mi-band-1",
+      "xiaomi-smart-band-11-active"
+    ],
+    "snapshotPath": "docs/expansion/base-40-preserved.json"
+  },
+  "exhibits": [
+    {
+      "slug": "sony-playstation-2",
+      "name": "PlayStation 2（原版）",
+      "brand": "Sony",
+      "year": 2000,
+      "dateLabel": "2000-03-04日本；北美10-26/欧洲11-24",
+      "dateKind": "launch",
+      "regionVersion": "初代日本家用款；Slim/配色不单算",
+      "context": "日本原代PlayStation 2于二〇〇〇年三月四日推出，北美和欧洲则分别在同年十月、十一月进入市场。它延续连接电视的家用主机位置，同时加入DVD播放，并能使用初代PlayStation格式的游戏光盘。于是购买一台机器，不再只有选择一套新游戏的含义，也包含如何安排已有收藏与家庭电影的任务。展览把原代版本放在初代PlayStation之后观察，重点是媒介和使用入口怎样合并，而不是用品牌回顾中的成功语言替代每个家庭的实际选择。新机器仍要通过电视、控制器和相应软件才能形成一次具体游玩。",
+      "design": "初代黑色机身把装盘机构和控制接口集中在主机，显示交给电视，手指动作交给双手持握的DualShock 2。双模拟摇杆与振动反馈继续发展初代的控制布局；记忆卡接口则让进度成为独立于游戏光盘的另一件物品。原日本SCPH-10000手册还单列Utility Disc的使用，说明电影播放的准备并不能直接套用后来机型的经验。机身、光盘与卡片各自承接运算、内容和个人记录，使用者在几个物件之间组织任务。这种分工很适合与后来内置存储和下载列表比较：外观上只是一台盒子，实际使用却是一组相接的装置。",
+      "usage": "一次游戏从连接开始：把主机接到电视的相应音视频输入，接好电源及控制器，确认电视正在显示所用输入，再放入对应格式的光盘。读取后，玩家用方向键、按键或摇杆操作游戏；需要保留进度时，使用与软件格式相匹配的记忆卡。原代日本DVD功能还应按照随机器资料准备Utility Disc和相关设置，不能把后来的简化流程冒作原机默认。换游戏与继续进度是不同动作，前者换内容介质，后者读取个人记录。看电影时，控制目标又从角色动作转成播放位置、菜单和字幕，这让同一控制器承担了另一套家庭影音任务。",
+      "significance": "PS2把一个家庭问题变成产品安排：已有初代游戏怎样继续使用，同时让新主机也读取DVD。最该观察的是装入不同介质后，玩家怎样在游戏、DVD播放与存档之间选择；日本SCPH-10000手册还要求对应的工具与记忆卡条件，说明多用途并非只由盘仓外形完成。与初代PlayStation的CD与独立记忆卡相比，PS2扩大了读取任务并延续部分旧内容，DVD用途也使电视旁的机器不只在游戏时开机。\n\n后来PS3转向Blu-ray与XMB组织内容，原PS2的工具盘和播放准备不能被后继系统菜单覆盖。Sony硬件史与逐型手册分别支持这两代介质、界面和兼容差异；它们没有替所有家庭证明DVD用途增加了多少游戏购买。选择PS2，是因为它让“更新主机”与“继续使用旧内容、共用电视设备”同时出现在真实操作里。软件兼容、记忆卡格式和首代日本机的DVD准备仍须分别确认，保留这些条件才能看清一台多用途机器的实际边界。",
+      "limitations": "兼容初代游戏光盘不意味着所有配套、记忆卡和地区内容都可以任意互换。日本原代的连接与DVD准备有版本条件，后来的Slim又加入了不同的接口安排，因此不能用整个PS2产品寿命中的功能概括首发机器。原厂历史把在线游戏放到后续网络适配器节点，本展品也不把联网视作原机开箱即有的完整服务。实体光盘保留可见收藏和更换动作，同时依赖读取机构、正确格式与存档介质。对今天的观众而言，这些条件比一句向后兼容更能说明使用取舍：拥有一张碟、能够读取它以及保留自己的进度，是三个相互连接而又不同的任务。",
+      "id": "67",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Sony PlayStation 2（原版）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "家用游戏设备",
+        "2000年"
+      ],
+      "summary": "日本原代PlayStation 2于二〇〇〇年三月四日推出，北美和欧洲则分别在同年十月、十一月进入市场。它延续连接电视的家用主机位置，同时加入DVD播放，并能使用初代PlayStation格式的游戏光……",
+      "features": [
+        "DVD与初代PlayStation游戏光盘",
+        "DualShock2与独立记忆卡"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2000-03-04日本；北美10-26/欧洲11-24；初代日本家用款；Slim/配色不单算",
+          "sourceIds": [
+            "G150-S001"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "DVD播放及原PlayStation光盘兼容。",
+          "sourceIds": [
+            "G150-S001"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "C:TXM17A",
+        "C:TXM17C",
+        "CWG-S001",
+        "CWG-S003",
+        "CWG-S007",
+        "G150-S001",
+        "G150-S002"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S001",
+          "CWG-S001"
+        ],
+        "design": [
+          "G150-S001",
+          "CWG-S001"
+        ],
+        "usage": [
+          "G150-S001",
+          "CWG-S001"
+        ],
+        "significance": [
+          "G150-S001",
+          "CWG-S001",
+          "C:TXM17C",
+          "C:TXM17A",
+          "G150-S002",
+          "CWG-S003",
+          "CWG-S007"
+        ],
+        "limitations": [
+          "G150-S001",
+          "CWG-S001"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-playstation-3",
+        "sony-psp-1000"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-playstation-3",
+        "sony-psp-1000"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-3",
+        "stageTitle": "平台、连接与动作输入",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1097,
+      "deliveryPacket": "complete-wave-gaming-01.json",
+      "readerTakeaway": "选择日本原PS2，是为了观察新主机如何继续读取旧游戏，并增加DVD任务。最该看的是不同光盘进入同一盘仓之后，播放工具、控制方式和存档条件怎样分别成立。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "sony-psp-1000",
+      "name": "PSP-1000",
+      "brand": "Sony",
+      "year": 2004,
+      "dateLabel": "2004-12-12日本（事后原厂确认）；10-27公布",
+      "dateKind": "launch",
+      "regionVersion": "日本原PSP-1000；不混PSPgo或后期Slim",
+      "context": "PSP-1000是Sony把游戏和影音带到手中屏幕的原代掌机。本条以原公告和事后原厂记录确认的二〇〇四年十二月十二日日本推出为年代锚，不采用周年回顾页相矛盾的十一日。家用PlayStation依赖外部电视，PSP则把显示、读取和控制集中在可拿起的机器上。它使用UMD小光盘，并提供无线局域网连接，便携因此不是只把主机缩小，还需要新的内容介质和连接方式。展览关注原1000型号的组合，不把后来的PSPgo、轻薄改型或整个生命周期中出现的软件服务，混成一台在首发时就已经具备全部能力的设备。",
+      "design": "原机横向展开，屏幕夹在两侧按键之间，使用者双手持握时可以同时观察画面和输入动作。UMD在背部盖内读取，Memory Stick Duo则承接可写入的数据，两种介质在结构上分开。原手册说明装入UMD时要滑动顶部OPEN开关，标签面朝背部；这使换游戏成为一种明确的手部操作，而不是在任意目录里选一个文件。无线LAN又增加了无需物理连线的通信选择。把这些部件一起看，掌机兼顾内容读取、个人记录和连接，但每个任务仍有不同条件。屏幕和控制器绑在一起，带来随身使用，也决定眼睛与双手围绕同一个物件安排。",
+      "usage": "使用UMD游戏时，先准备电量，把光盘放入读取仓并关好盖子，再从主菜单的游戏分类选择UMD项目。需要保存的进度写到Memory Stick Duo，管理记录时进入相应保存数据项目；存储卡访问灯亮起时，手册要求不要取卡或断电。播放音乐与视频则进入对应分类，选择能够识别的介质或文件，而不是把所有格式都交给同一入口。无线游玩还要查看游戏支持的连接方式并安排通信条件。整套流程把开盖装入、菜单选择和保存确认连接起来，既保留实体游戏的可拿取性，也让随身影音依赖文件、介质和系统菜单的共同配合。",
+      "significance": "PSP-1000回应的是较丰富的游戏与媒体内容怎样在离开电视后仍可使用。它把宽屏、实体输入、UMD和Memory Stick放在横向机身中，玩家实际要做的是分辨内容来自光盘还是存储卡，再用菜单找到游戏、照片、音乐或影片。与Game Boy DMG-01的卡带及单色屏相比，便携对象不再只是一份专用游戏：不同内容介质与格式也成为随身管理的任务。\n\n与后来的PS Vita相比，原PSP没有双摇杆、前后触控这一组输入；PSP菜单和UMD开盖代表的是另一套内容与控制关系。日本PSP-1000原手册明确了媒体入口与读写条件，原厂上市记录确认具体型号与日期，支持选择它来解释游戏掌机怎样成为多种内容的携带器。无线功能虽存在，仍须软件和网络条件配合，不是全部媒体都能任意取得。它的代表性在于把播放、换盘、存储与按键游戏放到同一个日常装置中；这种操作扩展有证据，是否由此改变某群用户的媒体习惯则仍没有本项采用数据。",
+      "limitations": "PSP-1000的能力应按原机和系统版本理解。后续指南列出1000型号没有后来型号的UMD缓存或USB充电功能，周年历史中的Skype和网络商店也属于生命周期叙述，不能移植为首发配置。UMD提供专用内容，却要求读取机构和正确装盘；保存记录要求另外的可写介质，格式支持又限制了影音文件的使用。无线LAN不是任意游戏都能与任意远处玩家连接的保证。携带时，电池、光盘与存储卡共同影响一段游玩的准备量。展览因此把它解释为一种有具体条件的便携组合，让观众理解随身设备的便利来自整合，也仍需要管理介质与电量。",
+      "id": "68",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Sony PSP-1000"
+      ],
+      "tags": [
+        "游戏与互动",
+        "手持/混合主机",
+        "2004年"
+      ],
+      "summary": "PSP-1000是Sony把游戏和影音带到手中屏幕的原代掌机。本条以原公告和事后原厂记录确认的二〇〇四年十二月十二日日本推出为年代锚，不采用周年回顾页相矛盾的十一日。家用PlayStation依赖外部……",
+      "features": [
+        "UMD装入与主菜单启动",
+        "Memory Stick Duo承接保存数据"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2004-12-12日本（事后原厂确认）；10-27公布；日本原PSP-1000；不混PSPgo或后期Slim",
+          "sourceIds": [
+            "G150-S008",
+            "G150-S009"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "UMD和无线LAN。",
+          "sourceIds": [
+            "G150-S008",
+            "G150-S009"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "C:S20",
+        "C:TXM16A",
+        "CWG-S002",
+        "CWG-S004",
+        "G150-S002",
+        "G150-S008",
+        "G150-S009"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S008",
+          "G150-S009",
+          "CWG-S002"
+        ],
+        "design": [
+          "G150-S008",
+          "G150-S009",
+          "CWG-S002"
+        ],
+        "usage": [
+          "G150-S008",
+          "G150-S009",
+          "CWG-S002"
+        ],
+        "significance": [
+          "G150-S008",
+          "G150-S009",
+          "CWG-S002",
+          "C:S20",
+          "C:TXM16A",
+          "G150-S002",
+          "CWG-S004"
+        ],
+        "limitations": [
+          "G150-S008",
+          "G150-S009",
+          "CWG-S002"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-playstation-2",
+        "sony-playstation-vita"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-playstation-2",
+        "sony-playstation-vita"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-3",
+        "stageTitle": "平台、连接与动作输入",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [
+        "周年页写12-11，与原公告及事后2011发布相矛盾；采用两份原始资料12-12。"
+      ],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1104,
+      "deliveryPacket": "complete-wave-gaming-01.json",
+      "readerTakeaway": "选择PSP-1000，是为了看掌机怎样同时承担光盘游戏与存储卡媒体。最该观察的是UMD和Memory Stick进入不同内容入口的动作，而不是把后代触控功能投射回它。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "sony-playstation-3",
+      "name": "PlayStation 3（原版）",
+      "brand": "Sony",
+      "year": 2006,
+      "dateLabel": "2006-11-11日本；美国11-17；欧洲2007-03-23",
+      "dateKind": "launch",
+      "regionVersion": "原代日本光盘主机，容量不分件",
+      "context": "原代PlayStation 3在二〇〇六年十一月十一日进入日本市场，北美在同月十七日，欧洲则在次年三月推出。它把Blu-ray读取与XMB屏幕界面带到家用主机，让游戏、视频和系统设置围绕一个分类入口安排。展品保留原代日本光盘机的时间与版本，后来的容量修订并不另算一件。与PS2的DVD任务相比，变化不只是另一种光盘名称，也包括使用者怎样在电视上浏览不同内容。主机继续位于房间，玩家用手柄把光标移向需要的项目；因此，这条路线既延续家用设备的空间分工，也让更多准备与选择发生在屏幕菜单内部。",
+      "design": "XMB用横向分类和纵向项目组织界面，机器把多种任务排成可以用方向输入逐步移动的图标。原代SIXAXIS手柄采用蓝牙连接并加入动作感应，保持双手持握的基本布局；它与后来加入振动的DualShock 3必须区分。Blu-ray读取机构位于主机，而显示仍交给外部电视，手柄在玩家与界面之间完成选择和游戏输入。这个设计可以从物理与屏幕两个层面读：房间里的设备不必因为菜单变多而增加同样多的外部控制器，但使用者要学会不同分类、图标和选项对应的任务。控制器的无线化也将连接准备转成配对与电量管理。",
+      "usage": "原代快速参考资料从连接屏幕、电源和控制器开始，首次使用先完成系统的初始设置。进入XMB后，左右移动选择游戏、视频或设置等分类，上下移动找到具体项目，再执行启动或播放。放入光盘后，内容在对应分类中出现，使用者不是仅凭装盘就完成全部选择；选项菜单还承接信息与管理动作。第一次准备无线控制器需要按原资料完成连接注册，之后继续注意充电。当前英文指南的确认与取消键排列不能强加到日本首发设置，展览用选择、确认和返回描述动作。这样既展示菜单的实际顺序，也保留地区和软件版本对操作细节的影响。",
+      "significance": "PS3面对的是电视旁的设备如何组织越来越多的内容任务。光盘、下载、媒体和网络入口需要可辨认的路径，XMB用横向类别与纵向项目安排选择。最该观察的是先换类别，再进入相应项目；玩家不再仅靠装盘后的启动动作理解所有用途。与PS2的游戏、DVD和工具盘准备相比，PS3将Blu-ray与分层菜单放进新的系统组织，介质变化和入口变化在此一起出现。\n\n与后来的PS4相比，PS3仍以这套XMB为明显入口，PS4的触摸板和SHARE键则将游玩中的输入与分享动作带到手边。Sony原版快速指南与XMB说明支持PS3内容分类和控制步骤，后继控制器指南支持输入差异；比较不能被改写为所有家庭从PS3开始采用网络娱乐的结论。选择它，是因为一台主机在玩游戏之前的导航工作已经值得独立展示。型号、系统版本与旧游戏兼容各有条件，网络入口也要依账号、服务和连接成立，主机中出现类别并不表示其中内容始终可用。",
+      "limitations": "原代PS3的手柄是SIXAXIS，后续DualShock 3的振动不能借给首发套装。不同容量和地区机型又可能有不同接口及兼容条件，本条不凭系列名称承诺所有旧游戏或所有影音格式可用。当前XMB指南包含生命周期中变化的服务项目，正文只采用分类和基本内容选择动作，避免把后续联网界面当成二〇〇六年的完整列表。多功能入口使电视旁的操作更集中，却也需要理解格式、账户、连接和菜单之间的关系。对一件保存下来的机器，历史资料证明设计用途，而运行状态仍是另一问题；展览通过明确原代分工，避免把完整产品寿命写成一次无条件的首发体验。",
+      "id": "69",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Sony PlayStation 3（原版）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "家用游戏设备",
+        "2006年"
+      ],
+      "summary": "原代PlayStation 3在二〇〇六年十一月十一日进入日本市场，北美在同月十七日，欧洲则在次年三月推出。它把Blu-ray读取与XMB屏幕界面带到家用主机，让游戏、视频和系统设置围绕一个分类入口安……",
+      "features": [
+        "Blu-ray与XMB分类界面",
+        "原SIXAXIS蓝牙及动作感应"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2006-11-11日本；美国11-17；欧洲2007-03-23；原代日本光盘主机，容量不分件",
+          "sourceIds": [
+            "G150-S002"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "Blu-ray与XMB界面。",
+          "sourceIds": [
+            "G150-S002"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CWG-S001",
+        "CWG-S003",
+        "CWG-S005",
+        "CWG-S007",
+        "G150-S002",
+        "G150-S003"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S002",
+          "CWG-S003",
+          "CWG-S007"
+        ],
+        "design": [
+          "G150-S002",
+          "CWG-S003",
+          "CWG-S007"
+        ],
+        "usage": [
+          "G150-S002",
+          "CWG-S003",
+          "CWG-S007"
+        ],
+        "significance": [
+          "G150-S002",
+          "CWG-S003",
+          "CWG-S007",
+          "CWG-S001",
+          "G150-S003",
+          "CWG-S005"
+        ],
+        "limitations": [
+          "G150-S002",
+          "CWG-S003",
+          "CWG-S007"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-playstation-2",
+        "sony-playstation-4",
+        "sony-playstation-vita"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-playstation-2",
+        "sony-playstation-4",
+        "sony-playstation-vita"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-3",
+        "stageTitle": "平台、连接与动作输入",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1138,
+      "deliveryPacket": "complete-wave-gaming-01.json",
+      "readerTakeaway": "选择PS3，是为了观察主机怎样用系统界面组织光盘、媒体和网络任务。最该看的是XMB的类别与项目选择：装有多种能力的机器，也需要一条能走通的内容入口。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "sony-playstation-vita",
+      "name": "PlayStation Vita（初代OLED）",
+      "brand": "Sony",
+      "year": 2011,
+      "dateLabel": "2011-12-17日本；欧美2012-02-22",
+      "dateKind": "launch",
+      "regionVersion": "原OLED代；Wi-Fi/3G不拆成两件",
+      "context": "原代PlayStation Vita在二〇一一年十二月十七日于日本推出，本条以带OLED屏幕的原代掌机为对象。它延续Sony的便携游戏路线，同时把前面触摸屏和背面触摸板放进同一件机器，让手指不只按实体按钮，也能从两个表面参与操作。与PSP的小光盘结构相比，策展重点转向显示与输入如何靠近身体。Vita无需家庭电视就能呈现游戏，但它仍属于有专用内容与系统条件的平台。展览将其放在掌机与连接方式变化的阶段，借原机的两面触控说明一种具体尝试，不把生命周期中后来的PS4串流服务倒写成日本首发时已经具备的任务。",
+      "design": "Vita把OLED显示和触摸输入叠在正面，实体按键与摇杆安排在两侧，背部另有可触摸区域。眼睛看向前面，手指可以从握持位置接触背面，因此输入和画面之间并不总是直接遮挡的关系；它给软件设计者提供了不同于只按键的操作位置。这种结构本身并不保证每款游戏都要使用背触板，具体动作仍由软件决定。系统首页又用可选的应用图标进入LiveArea，再启动程序。屏幕既是观看面也是操作面，实体控件则继续承接持续方向和按压动作。多个输入渠道的共存，使原机比一个单纯播放画面的随身屏幕有更丰富的分工。",
+      "usage": "使用者先为掌机准备电量和相应游戏内容，在首页选应用图标，进入该应用的LiveArea，再选择Start开始。当前指南明确说明，按PS键可暂停并返回应用页面，选择Continue则恢复；结束应用时还可以揭开页面将它关闭。本条把这组基本交互作为现有指南里的操作示例，注明指南版本，并不声称所有菜单文字都与首发一致。进入游戏后，玩家依据软件说明使用实体按键、前触屏或背触板。眼睛观察前面的反馈，手指在不同表面寻找相应动作，一次使用因此包含系统启动、游戏输入和暂停返回三个层次，而不是任意触摸就能完成所有任务。",
+      "significance": "原OLED版PS Vita要处理的是掌机内容变复杂后，按键、视角控制与直接触摸怎样并存。最该观察的是从LiveArea进入游戏以后，同一作品分别怎样调用双摇杆、前触屏或后触摸板；机身有一种输入，不等于软件一定使用它。与PSP-1000的菜单、UMD和原实体控制相比，Vita增加了另一组输入可能，也改变内容接入方式。\n\n与Nintendo DS相比，两者都把触摸纳入掌机，但DS将触笔动作集中在下屏，Vita的后触摸板提供了不直接遮住前屏的另一位置。原Vita史与当前LiveArea指南支持具体型号及启动动作，DS原说明书支持可触位置差异。这足以选择Vita来解释“更多输入”怎样需要软件协调，而不是把接口数量直接换成更好体验。后来的Remote Play能力不作为二零一一年首发证据，当前界面的说明亦保留软件版本范围；这些条件让观察落在真实功能而不是全部时代的Vita集合。",
+      "limitations": "本条保留原OLED型号，后来的液晶改型不作为同一屏幕规格使用。背部触摸板提供可能性，也增加了软件与使用者需要理解的输入分工；不是每个人都能在相同握持姿态下方便地用到它。原厂回顾提及PS4 Remote Play，但那是后续平台关系，不能成为二〇一一年首发能力的证明。现行应用指南标明较晚系统版本，所以它支持基本交互示例，不独自承担首发菜单史。掌机的独立屏幕减少对电视的依赖，同时把显示距离、持握和电量放到同一设备上。展览用这组取舍说明便携与多种控制方式怎样结合，不写没有测量依据的舒适度或持续游玩时长。",
+      "id": "70",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Sony PlayStation Vita（初代OLED）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "手持/混合主机",
+        "2011年"
+      ],
+      "summary": "原代PlayStation Vita在二〇一一年十二月十七日于日本推出，本条以带OLED屏幕的原代掌机为对象。它延续Sony的便携游戏路线，同时把前面触摸屏和背面触摸板放进同一件机器，让手指不只按实体……",
+      "features": [
+        "原OLED屏幕",
+        "前触摸屏与背触摸板",
+        "LiveArea启动及暂停返回"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2011-12-17日本；欧美2012-02-22；原OLED代；Wi-Fi/3G不拆成两件",
+          "sourceIds": [
+            "G150-S002"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "前触摸屏和后触摸板；后来的RemotePlay非首发一概功能。",
+          "sourceIds": [
+            "G150-S002"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "C:TXM22A",
+        "CWG-S002",
+        "CWG-S004",
+        "G150-S002",
+        "G150-S008"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S002",
+          "CWG-S004"
+        ],
+        "design": [
+          "G150-S002",
+          "CWG-S004"
+        ],
+        "usage": [
+          "G150-S002",
+          "CWG-S004"
+        ],
+        "significance": [
+          "G150-S002",
+          "CWG-S004",
+          "G150-S008",
+          "CWG-S002",
+          "C:TXM22A"
+        ],
+        "limitations": [
+          "G150-S002",
+          "CWG-S004"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-psp-1000",
+        "nintendo-ds"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-psp-1000",
+        "nintendo-ds"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-3",
+        "stageTitle": "平台、连接与动作输入",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1112,
+      "deliveryPacket": "complete-wave-gaming-01.json",
+      "readerTakeaway": "选择原OLED Vita，是为了观察双摇杆与前后触控怎样被同一款游戏分别使用。最该看的是手指的位置和屏幕遮挡关系；更多输入只有经过软件安排才成为用途。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "sony-playstation-4",
+      "name": "PlayStation 4（原版）",
+      "brand": "Sony",
+      "year": 2013,
+      "dateLabel": "2013-11-15美国；欧洲11-29；日本2014-02-22",
+      "dateKind": "launch",
+      "regionVersion": "2013原代；Slim及配色合并",
+      "context": "原代PlayStation 4在二〇一三年十一月十五日于美国推出，日本市场到二〇一四年二月二十二日。它继续以外部屏幕和独立手柄构成家庭游玩场景，同时在DualShock 4上加入分享按钮与触摸板。展品以原代设备为对象，观察游戏过程中除了操纵角色，还怎样进入系统、管理选择和记录片段。与PS3相比，主机与电视的基本空间关系延续，手中的控制入口却出现了新的任务。展览不会因为一个按钮名叫SHARE，就推断所有使用者都公开发布内容；更具体的问题是，厂商把分享入口放到常用控制器上之后，游戏动作和系统动作怎样在同一双手之间切换。",
+      "design": "DualShock 4仍用握柄、摇杆和按键承接持续游戏输入，中央触摸板则加入点触、拖动和按压等可能，SHARE与OPTIONS分开安排内容记录和选项。无线控制器首次使用要通过USB与主机配对，光条帮助区分连接用户，充电也经由USB完成。控制器由此既是角色动作的工具，也是登录选择、返回主屏幕和进入系统命令的工具。触摸板的外形并不能告诉观众每个游戏怎么使用它，功能要看软件。这个设计值得从手部动作阅读：一件熟悉的双手工具吸收了新入口，而不是把所有系统控制移到另一只遥控器上。",
+      "usage": "开始使用时，先连接主机与显示设备，开机后用USB线完成手柄的首次配对，再按PS键选择用户。进入游戏用方向键或左摇杆选择项目，游戏内的控制方式则遵循软件说明。需要系统入口时，PS键可返回主屏幕，长按能显示快捷菜单；SHARE打开分享功能菜单，OPTIONS打开当前任务的选项。触摸板既可触摸也可按下，但能做什么取决于正在使用的内容。给手柄充电要接USB并注意主机的工作或待机供电设置。一次游玩因此不仅有按键和摇杆，也有用户选择、系统返回和电量准备，控制器在这些层次间承担清楚的切换作用。",
+      "significance": "PS4把游玩中的一个新任务放到控制器上：怎样从正在发生的游戏进入捕获与分享。最该观察的是SHARE键发起什么流程，以及触摸板在当前作品承担按钮、滑动还是其他输入；这不是只看手柄上多了一块区域。与PS3的XMB类别导航相比，PS4给游玩时的操作安排了更直接的实体入口，同时维持家用主机、电视与软件库的使用关系。\n\n与PS4 Pro相比，原PS4代表基础平台，Pro使用同一代内容并在支持作品中提供增强，二者没有因名称变化便成为两套独立软件世代。Sony产品史和DUALSHOCK 4指南支持输入结构，Pro上市说明支持同库与条件性增强；本项未据此测量所有人的分享频率。选择原PS4，是为了把游戏体验之外的记录与传播动作放进一件具体设备中看。分享仍依账号、网络、设置与内容限制，触摸板也由游戏定义，实体快捷键简化入口而没有消除这些环节。",
+      "limitations": "当前英文手册的确认与取消键不应当作所有地区和历史设置的固定规则。触摸板功能取决于软件，控制器扬声器同样可能只在相应游戏里发声；有一个部件不等于每一次使用都能体验全部特性。手柄无线连接带来摆放自由，也要求首次配对、充电和用户识别。分享功能还涉及用户操作、账户与发布选择，不能把硬件入口当成无条件的服务承诺。本展品只讲已核的原代控制布局与基础动作，不把Pro的增强表现或后来的软件菜单移作首发事实。对观众而言，这些取舍说明控制器整合新任务时，便利和学习成本如何一起进入双手之间。",
+      "id": "71",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Sony PlayStation 4（原版）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "家用游戏设备",
+        "2013年"
+      ],
+      "summary": "原代PlayStation 4在二〇一三年十一月十五日于美国推出，日本市场到二〇一四年二月二十二日。它继续以外部屏幕和独立手柄构成家庭游玩场景，同时在DualShock 4上加入分享按钮与触摸板。展品……",
+      "features": [
+        "SHARE与OPTIONS分工",
+        "触摸板输入依软件",
+        "USB首次配对及充电"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2013-11-15美国；欧洲11-29；日本2014-02-22；2013原代；Slim及配色合并",
+          "sourceIds": [
+            "G150-S003"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "DualShock4分享按钮与触摸板。",
+          "sourceIds": [
+            "G150-S003"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CWG-S003",
+        "CWG-S005",
+        "CWG-S007",
+        "G150-S003",
+        "G150-S005"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S003",
+          "CWG-S005"
+        ],
+        "design": [
+          "G150-S003",
+          "CWG-S005"
+        ],
+        "usage": [
+          "G150-S003",
+          "CWG-S005"
+        ],
+        "significance": [
+          "G150-S003",
+          "CWG-S005",
+          "CWG-S003",
+          "CWG-S007",
+          "G150-S005"
+        ],
+        "limitations": [
+          "G150-S003",
+          "CWG-S005"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-playstation-3",
+        "sony-playstation-4-pro",
+        "sony-playstation-5"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-playstation-3",
+        "sony-playstation-4-pro",
+        "sony-playstation-5"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-3",
+        "stageTitle": "平台、连接与动作输入",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1111,
+      "deliveryPacket": "complete-wave-gaming-01.json",
+      "readerTakeaway": "选择原PS4，是为了看游戏中的记录与分享怎样获得一个手边的入口。最该观察SHARE键之后的选择与限制，以及触摸板是否真的参与所玩的内容。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "sony-playstation-4-pro",
+      "name": "PlayStation 4 Pro",
+      "brand": "Sony",
+      "year": 2016,
+      "dateLabel": "2016-11-10上市",
+      "dateKind": "launch",
+      "regionVersion": "原Pro家族；容量/底盘修订合并",
+      "context": "PlayStation 4 Pro于二〇一六年十一月十日推出，属于PS4平台内部的增强型号。它没有要求使用者把软件库理解为一套全新的主机世代，而是围绕同一PS4游戏平台提供有条件的画面与性能改善。这个位置适合放在普通PS4之后观察：产品更新不一定只以彻底换代发生，也可能让相同游戏在另一套硬件和显示条件下呈现不同结果。展览保留具体的Pro型号，并把原厂推出日期与各游戏的支持情况分开。它的入选价值是展示一个实际使用选择，玩家可以围绕既有内容、电视和游戏模式考虑是否升级，不必把旗舰名称当成自动更好的个人体验。",
+      "design": "Pro仍然把游戏运行放在主机，把画面交给外部电视，并使用DualShock 4控制器。变化集中在同平台内容能够得到的增强处理，而不是重新发明双手按键和摇杆的基本动作。原厂推出文章把增强效果与支持它的游戏联系起来，因此设计应连同软件模式和显示设备理解。四K相关能力并不能直接概括每款游戏的内部渲染方式，也不能由输出标签推定所有画面都一样。控制器的分享入口、触摸板和USB配对流程继续沿PS4体系使用。硬件加强与操作延续并存，使这台机器可以帮助观众分辨看得见的画面变化与不需要重新学习的控制关系。",
+      "usage": "第一次准备仍要连接主机、显示设备和电源，为手柄完成配对，进入用户与游戏选择。玩家开始一个支持增强的PS4游戏后，应按该游戏提供的设置理解画面或性能模式，再结合电视的能力观察实际输出。没有相应支持时，不能仅因机身写着Pro就假定菜单里出现同样的增强选项。按PS键进入主屏幕或快捷菜单，SHARE进入分享操作，OPTIONS查看当前任务选项，基本手部动作与普通PS4相接。游戏安装、更新和显示设置也是这套使用的准备环节。展览通过这条流程说明升级如何落到一次游戏里：主机、作品版本和屏幕要共同成立，才有具体可比较的结果。",
+      "significance": "PS4 Pro回答的是同一代内容能否在不建立一套新软件世代的情况下获得不同显示结果。最该观察的动作是选择明确支持Pro增强的作品，再核对游戏设置与显示器条件；机箱上的Pro标识本身不能完成比较。与原PS4相比，手柄和游戏库的熟悉关系延续，变化集中在支持内容怎样利用增强硬件，而不是所有操作从头学习。\n\n与后来的PS5相比，PS4 Pro仍属于PS4这一代平台；PS5另有SSD与DualSense输入反馈的组织。原厂当日上市稿明确同库和增强随游戏支持，PS5硬件史说明后继结构，因而选择Pro可以让观众区分“世代更新”与“同代改善”。这些来源支持产品关系，不等同一次统一的帧率、清晰度或用户收益测试。显示设备、作品更新及所选模式仍决定差异是否呈现；若只看外壳和理论参数，这件产品最有说明力的条件性改善反而会被略掉。",
+      "limitations": "增强表现受具体游戏与显示条件限制，原厂发布资料的积极描述不等于独立测试证明。不同作品可能选择不同的画面与性能安排，不能把一个支持标题的效果推给全部PS4内容。使用者仍需要准备安装、更新、显示连接和控制器电量；较强硬件并没有取消平台的这些步骤。当前控制器指南提供基本操作，但它不是Pro首发时每个软件菜单的历史截图。本条也不从输出能力推出显示设备一定合适或画面一定更讨人喜欢。展览保留这个取舍：延续既有操作和软件平台可以减少转换，但升级的价值需要在具体作品和具体屏幕里判断，不能只由Pro这个后缀决定。",
+      "id": "72",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Sony PlayStation 4 Pro"
+      ],
+      "tags": [
+        "游戏与互动",
+        "家用游戏设备",
+        "2016年"
+      ],
+      "summary": "PlayStation 4 Pro于二〇一六年十一月十日推出，属于PS4平台内部的增强型号。它没有要求使用者把软件库理解为一套全新的主机世代，而是围绕同一PS4游戏平台提供有条件的画面与性能改善。这个……",
+      "features": [
+        "PS4同平台增强型号",
+        "增强效果随游戏及显示条件"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2016-11-10上市；原Pro家族；容量/底盘修订合并",
+          "sourceIds": [
+            "G150-S005"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "增强依游戏支持，仍与标准PS4共享游戏库。",
+          "sourceIds": [
+            "G150-S005"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CWG-S005",
+        "G150-S003",
+        "G150-S004",
+        "G150-S005"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S005",
+          "CWG-S005"
+        ],
+        "design": [
+          "G150-S005",
+          "CWG-S005"
+        ],
+        "usage": [
+          "G150-S005",
+          "CWG-S005"
+        ],
+        "significance": [
+          "G150-S005",
+          "CWG-S005",
+          "G150-S003",
+          "G150-S004"
+        ],
+        "limitations": [
+          "G150-S005",
+          "CWG-S005"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-playstation-4",
+        "sony-playstation-5"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-playstation-4",
+        "sony-playstation-5"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-4",
+        "stageTitle": "混合使用与PC游戏生态",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1144,
+      "deliveryPacket": "complete-wave-gaming-01.json",
+      "readerTakeaway": "选择PS4 Pro，是为了理解同一代软件库怎样获得有条件的硬件增强。最该看的是支持作品的模式与显示条件，而不是将Pro当作一套全新游戏世代。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "sony-playstation-5",
+      "name": "PlayStation 5（原光盘版）",
+      "brand": "Sony",
+      "year": 2020,
+      "dateLabel": "2020-11-12首七市场；其余11-19为原计划",
+      "dateKind": "launch",
+      "regionVersion": "原2020光盘版；不独计Digital/Slim容量配色",
+      "context": "原光盘版PlayStation 5以二〇二〇年十一月十二日首七市场推出为年代锚，其余市场十一月十九日是原公告安排，不能简化成同一天全球上市。它把SSD与DualSense手柄反馈放到新代家用主机的叙述中心，继续通过外部屏幕呈现游戏。展品保留原二〇二〇年光盘款，不把后来Slim、Digital或容量配色都当成独立条目。与PS4并看，机身和控制器都承担了新的平台任务，而使用者依然要在屏幕、主机和手中的工具之间安排动作。展览关注这种连接结构如何延续，以及存储和触觉怎样参与一次具体游玩，不用首发热度替代每个人的使用经验。",
+      "design": "PS5把SSD放进主机的内容读取体系，原光盘版还保留实体光盘入口；内容、安装与运行之间因此需要一起理解。DualSense以触觉反馈和自适应扳机提供与按键、摇杆不同的输出方式，控制器既传入动作，也能把相应游戏设计的感觉传回双手。电视继续承担主要画面，手柄则在身体附近承接持续操作。这个设计不等于每个游戏都同样使用触觉或阻力，相关功能需要软件安排。展览可从握住控制器的想象展开，让观众分辨屏幕表现、存储读取和手部反馈三种不同任务；技术组合的意义在这些任务接续时出现，而不是只靠一张规格表成立。",
+      "usage": "一次使用先要把原光盘版主机与相应显示设备及电源连接，准备控制器并完成初始系统设置。玩家再选择自己的用户，装入对应光盘或进入已有内容，按游戏与系统要求完成必要准备后启动。握持DualSense时，用摇杆、按钮和扳机输入动作，并在支持的内容里接收触觉和扳机反馈；不支持相关功能的内容不能被写成同一种体验。离开游戏、选择系统项目和继续内容又属于另一层操作。原光盘入口让拿取介质仍可见，SSD则在主机内部参与内容处理。展览把这两个部分放在同一流程解释，避免把装盘、读取、安装与运行压缩成一个看不见准备的瞬间。",
+      "significance": "PS5要处理的不是单项画面参数，而是运行端与手中反馈怎样一起变化。SSD承担内容读取任务，DualSense把支持软件的触觉与扳机阻力带给玩家；最该观察的是同一个游戏动作在屏幕上发生时，手指和手掌收到什么回应。与PS4的触摸板、SHARE及传统按钮组合相比，PS5增加的是软件可安排的反馈关系，并没有取消按键和模式选择。\n\nPS5 Pro又在同一代界面与服务上强化图形处理，原PS5因此适合解释基础世代与中期增强的区别。Sony硬件史与发布日期公告支持结构及首批地区时间，Pro原稿支持后继仍沿用界面的范围。它们证明厂商给出了这套运行与反馈能力，具体效果仍要由支持作品实现；本项没有将厂商特性写成所有玩家一致的触感体验。选择原光盘版，还能观察实体内容与安装、SSD存储及账号任务怎样并存，显示图像与手柄效果都不能替代这些实际准备。",
+      "limitations": "首发地区日期和后续推出安排需要保留，不能把一份九月公告当作所有市场的事后到货证明。DualSense特性也依赖具体软件，原光盘款与数字款的内容入口不能互换描述；后来的外接驱动器或机身修订不属于原机默认结构。SSD相关功能不意味着任何内容都没有等待，也不能由技术路线直接推出所有游戏的性能。这里采用原厂历史和公告支持硬件身份与基本设计，不登记未核的普遍体验判断。作为展品，它呈现的是设备、内容与显示条件的配合：新的存储与手部反馈扩展了使用方式，同时仍需要准备平台、连接和游戏，具体收益应在实际作品中观察。",
+      "id": "73",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Sony",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Sony PlayStation 5（原光盘版）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "家用游戏设备",
+        "2020年"
+      ],
+      "summary": "原光盘版PlayStation 5以二〇二〇年十一月十二日首七市场推出为年代锚，其余市场十一月十九日是原公告安排，不能简化成同一天全球上市。它把SSD与DualSense手柄反馈放到新代家用主机的叙述……",
+      "features": [
+        "原2020光盘版",
+        "SSD与DualSense反馈",
+        "首七市场日期保留"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2020-11-12首七市场；其余11-19为原计划；原2020光盘版；不独计Digital/Slim容量配色",
+          "sourceIds": [
+            "G150-S004",
+            "G150-S006"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "SSD与DualSense；首市场日期不冒全球同日。",
+          "sourceIds": [
+            "G150-S004",
+            "G150-S006"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CWG-S005",
+        "G150-S003",
+        "G150-S004",
+        "G150-S006",
+        "G150-S007",
+        "GR150-S003"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S004",
+          "G150-S006"
+        ],
+        "design": [
+          "G150-S004",
+          "G150-S006"
+        ],
+        "usage": [
+          "G150-S004",
+          "G150-S006"
+        ],
+        "significance": [
+          "G150-S004",
+          "G150-S006",
+          "G150-S003",
+          "CWG-S005",
+          "G150-S007",
+          "GR150-S003"
+        ],
+        "limitations": [
+          "G150-S004",
+          "G150-S006"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-playstation-4",
+        "sony-playstation-4-pro"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "sony-playstation-4",
+        "sony-playstation-4-pro"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-4",
+        "stageTitle": "混合使用与PC游戏生态",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1153,
+      "deliveryPacket": "complete-wave-gaming-01.json",
+      "readerTakeaway": "选择原PS5，是为了观察内容读取与手中反馈怎样在一代主机中共同更新。最该看支持游戏的扳机与触觉回应，再分清原光盘版的内容安装路径。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    },
+    {
+      "slug": "nintendo-switch-2017",
+      "name": "Nintendo Switch（2017原版）",
+      "brand": "Nintendo",
+      "year": 2017,
+      "dateLabel": "2017-03（原厂事后公告）",
+      "dateKind": "launch",
+      "regionVersion": "原Switch；2019电池版/容量配色合并",
+      "context": "二〇一七年原版Nintendo Switch把家用显示与手持显示安排在同一平台中。它的重点不是仅有一个便携屏幕，而是主机可从电视底座取出，控制器又可从屏幕两侧拆下，于是同一件设备能够重新组合游玩位置。展品保留原HAC-001主机及原Joy-Con，不套用OLED底座或Switch 2磁吸控制器的结构。与馆内Wii的客厅动作输入、DS的掌上屏幕并看，Switch展示了另一种空间安排：屏幕和手部工具有时靠在一起，有时分开。展览关注三种模式的实际连接与动作，不把便携理解成任何游戏、任何地点都没有条件的使用保证。",
+      "design": "原Switch由带屏幕的主机、两侧滑轨Joy-Con和电视底座组成。手持模式中，控制器接在机身两侧，双手和眼睛围绕同一物件；桌面模式中，背部支架撑起屏幕，玩家拿着拆下的控制器；电视模式则把主机插入底座，把主要画面交给外部显示设备。控制器可独立存在，使输入工具和显示面能够重新分配位置。原HAC底座的接口安排与OLED版不同，连接时要按相应图示理解。结构上的可拆并不自动决定每款游戏的玩法，它提供了几种组合，实际单人、多人和控制方式仍由软件支持范围完成。",
+      "usage": "准备电视模式时，打开原HAC底座背盖，接好电源适配器和位于相应位置的HDMI线，将另一端接入电视并选择该输入。开机后拆下Joy-Con，再把主机对准底座插入；主机屏幕变黑，画面转向电视。需要桌面模式时，拿出主机、打开背部支架，把它放在合适平面，使用拆下的控制器。手持模式则把左右Joy-Con接回两侧并持握游玩。每次变化都包含物件位置和控制连接的重新安排，玩家还要检查软件支持的模式。这个流程让换场景成为可理解的动作，而不是一个只有名称的卖点，也能说明为何一台机器的附件是其实际使用的一部分。",
+      "significance": "原Switch面对的是在家庭电视、桌面和手中之间切换，是否一定要换一套游戏设备。最该观察的是拆下Joy-Con、用支架摆放或回到底座之后，屏幕与输入分别移到哪里；模式名称背后是有步骤的硬件组合。与Wii U相比，Switch本体承担游戏运行并随人移动，Wii U的GamePad仍依赖主机通信，外观相似的手持屏幕因此有不同执行位置。\n\n与Switch Lite相比，原机保留电视与拆分输入路线，Lite用固定控制器换取专门手持的安排。原Nintendo模式指南与Lite公告明确这些差别，支持选择原Switch解释“一套内容、多个摆放位置”的产品组织，未在本项证明所有人都按相同比例切换模式。Joy-Con握法、支架和底座的作用需要具体游戏与场景配合；可拆不表示每只控制器在所有作品都能独立供一人使用。它的代表性在于让移动和共同参与成为可实际执行的组合动作，而不是把三种模式只当三个宣传词。",
+      "limitations": "三种模式并不是所有游戏都支持；软件包装与说明中的模式范围比主机能拆装更能决定实际玩法。原机的滑轨Joy-Con、较窄背部支架和HAC底座不能被后代磁吸、支架或接口替代描述。电视模式需要外部显示和电源，桌面模式需要放置平面，手持模式则把显示与握持重新绑在一起；便携并未取消电量和控制准备。主机插入底座时也要把控制器安排到可以使用的位置。展览保留这些具体条件，让混合模式的便利和准备量同时可见，不从结构直接推出舒适度、续航或人人适用。它是一套可重新组合的工具，价值要落到软件和实际场景之中。",
+      "id": "74",
+      "idStatus": "proposed-stable-check-live-before-import",
+      "category": "gaming",
+      "categoryLabel": "游戏与互动",
+      "museumCategory": "gaming",
+      "hardwareManufacturer": "Nintendo",
+      "softwareEcosystem": "各厂平台",
+      "aliases": [
+        "Nintendo Nintendo Switch（2017原版）"
+      ],
+      "tags": [
+        "游戏与互动",
+        "手持/混合主机",
+        "2017年"
+      ],
+      "summary": "二〇一七年原版Nintendo Switch把家用显示与手持显示安排在同一平台中。它的重点不是仅有一个便携屏幕，而是主机可从电视底座取出，控制器又可从屏幕两侧拆下，于是同一件设备能够重新组合游玩位置。……",
+      "features": [
+        "HAC001三模式",
+        "滑轨JoyCon与原HAC底座",
+        "模式支持随软件"
+      ],
+      "facts": [
+        {
+          "label": "年代与版本",
+          "value": "2017-03（原厂事后公告）；原Switch；2019电池版/容量配色合并",
+          "sourceIds": [
+            "G150-S015"
+          ]
+        },
+        {
+          "label": "已核关键事实",
+          "value": "原厂列TV、桌面、手持三模式。",
+          "sourceIds": [
+            "G150-S015"
+          ]
+        }
+      ],
+      "sourceIds": [
+        "CWG-S006",
+        "CWG-S017",
+        "CWG-S018",
+        "G150-S015",
+        "G150-S016"
+      ],
+      "paragraphSources": {
+        "context": [
+          "G150-S015",
+          "CWG-S006"
+        ],
+        "design": [
+          "G150-S015",
+          "CWG-S006"
+        ],
+        "usage": [
+          "G150-S015",
+          "CWG-S006"
+        ],
+        "significance": [
+          "G150-S015",
+          "CWG-S006",
+          "CWG-S017",
+          "G150-S016",
+          "CWG-S018"
+        ],
+        "limitations": [
+          "G150-S015",
+          "CWG-S006"
+        ]
+      },
+      "relatedSlugs": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-wii",
+        "nintendo-ds",
+        "nintendo-switch-2"
+      ],
+      "relatedModelProposals": [
+        "sony-playstation",
+        "game-boy",
+        "steam-deck-lcd",
+        "nintendo-wii",
+        "nintendo-ds",
+        "nintendo-switch-2"
+      ],
+      "deferredRelatedSlugs": [],
+      "heroMediaId": null,
+      "videoIds": [],
+      "mediaStatus": "text-ready-no-image-no-video-rights-not-assumed",
+      "reviewedOn": "2026-10-11",
+      "contentStatus": "complete-text-reviewed-ready-for-import",
+      "significanceLabel": "策展解读",
+      "chronicleIds": [],
+      "chroniclePlacement": {
+        "lineId": "gaming",
+        "stageId": "gaming-expanded-4",
+        "stageTitle": "混合使用与PC游戏生态",
+        "status": "沿冻结页面计划的策展阶段；不是新增历史节点"
+      },
+      "mediaOpinions": [],
+      "awards": [],
+      "evidenceLimits": [],
+      "publicImpactBoundary": "意义段为基于已核结构的策展解读；无销量、首创、普遍体验或耐用推论。",
+      "chineseCharactersInFiveSections": 1090,
+      "deliveryPacket": "complete-wave-gaming-01.json",
+      "readerTakeaway": "选择二零一七年原Switch，是为了观察同一台执行游戏的机器怎样在电视、桌面和手中切换。最该看的是屏幕、Joy-Con与底座的重新组合，再辨认它与依赖主机的手持屏幕有何不同。",
+      "contentRevisionOn": "2026-10-13",
+      "contentRevisionScope": "Museum prose revision assembled from individually attributed source records; no new claim of all sources re-read today."
+    }
+  ],
+  "sources": [
+    {
+      "id": "C:S20",
+      "title": "Game Boy — Nintendo History",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Game-Boy/Game-Boy-627031.html",
+      "supports": "1989年在日本推出，原Game Boy单色四灰阶屏、尺寸、四节AA供电和约15小时电池指标；可携带游戏的平台背景。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取正文和原Game Boy规格列；页面同时介绍Pocket及后续软件，只使用明确属于原机的字段，未采用页面Pocket年份或音源表述。",
+      "originalId": "S20",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM16A",
+      "title": "Game Boy Owner's Manual, DMG-GB-USA-1 (1989)",
+      "publisher": "Nintendo of America (original manual; Manualzz mirror)",
+      "url": "https://manualzz.com/doc/22866609/nintendo-game-boy-handheld-game-console-user-manual",
+      "supports": "原DMG-01说明书的电池、卡带插拔与电源顺序、音量/对比度调节、耳机、Video Link双机条件和环境光要求。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取原说明书转录正文及1989版权、DMG-01型号；使用Document正文，未引用页面AI生成介绍/FAQ。",
+      "originalId": "TXM16A",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM17A",
+      "title": "Sony Group History, Part 2 Chapter 9: PlayStation",
+      "publisher": "Sony Group",
+      "url": "https://www.sony.com/ja/SonyInfo/CorporateInfo/History/SonyHistory/2-09.html",
+      "supports": "独立PlayStation路线的CD-ROM与3D图形开发背景、1994年12月3日发售，圆形盘盖/握柄与形状按钮，以及光盘制造与内容供应之间的关系。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取公司史第1–3节正文。仅采用具体开发、介质和设计事实，不采用销售数字、宣传口号或厂家成功评价。",
+      "originalId": "TXM17A",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM17C",
+      "title": "PlayStation SCPH-1001 Instruction Manual (1995) — scan",
+      "publisher": "Sony Computer Entertainment (original manual; ManualsLib mirror)",
+      "url": "https://www.manualslib.com/manual/4045608/Sony-Playstation-Scph-1001.html",
+      "supports": "原PlayStation说明书的OPEN/POWER/RESET和控制器按键，标签朝上的装盘流程，另购记忆卡存取、复制/删除及音乐CD播放。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读首页原手册转录及所呈现第6/8/10/12页摘录；1995版权明确。封面OCR型号字符不清，另读3466089同型号扫描封面交叉核对。单独第8页URL不可读，未声称完整逐页核验；不外推北美版接口到1994日本型号。",
+      "originalId": "TXM17C",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "C:TXM22A",
+      "title": "Nintendo DS Instruction Booklet（C/NTR-USA-1，55877C）",
+      "publisher": "Nintendo",
+      "url": "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/ds_english",
+      "supports": "原版DS双屏、下屏触摸、触笔、按键、麦克风、插槽；关机插卡、菜单启动、Download Play与PictoChat实际操作；GBA单人兼容和近距离通信条件。",
+      "checkedOn": "2026-10-04",
+      "verification": "已读取15页官方PDF的文本正文，版权2004–2005、C/NTR-USA-1。重点核查印刷页4–5、8、10–18；不将DS Lite、DSi或3DS功能回写。",
+      "originalId": "TXM22A",
+      "sourceFile": "docs/expansion/base-40-preserved.json"
+    },
+    {
+      "id": "CWG-S001",
+      "title": "SCPH-10000 日本原版取扱説明書",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/ps2-docs/JA_SCPH-10000_WEB.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "32页PDF指定连接、光盘、存储卡及Utility Disc/DVD章节；图文抽取含分散假名。",
+      "verificationMethod": "原机构PDF指定章节与目录阅读；非全部页面逐字审校",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S002",
+      "title": "PSP-1000 取扱説明書 1.52以前",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/psp-docs/JA_PSP-1000_WEB.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "原PSP1000；p29—40 UMD装入、Memory Stick Duo、游戏与保存；p41起影音。",
+      "verificationMethod": "原机构132页PDF指定操作章节阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S003",
+      "title": "PS3 原CECHA00/B00 Quick Reference Ver1.00",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/content/dam/global_pdc/en/corporate/support/manuals/ps3-docs/JA_PS3-00-1.0_2_WEB.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "原代连接、初始设置、无线控制器与内容菜单。",
+      "verificationMethod": "原机构32页PDF指定初始连接与菜单章节",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S004",
+      "title": "PS Vita: starting and closing applications",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://manuals.playstation.net/document/en/psvita/basic/start.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "首页图标→LiveArea→Start；PS暂停、Continue恢复、揭页关闭。指南3.73或后续。",
+      "verificationMethod": "原机构正文所列段落阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S005",
+      "title": "PS4: using wireless controller",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://manuals.playstation.net/document/en/ps4/basic/usecontroller.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "USB首次配对与充电、PS/SHARE/OPTIONS、触摸板动作；当前英文指南。",
+      "verificationMethod": "原机构正文所列段落阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S006",
+      "title": "Nintendo Switch: play modes and connecting",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/sg/support/switch/playmode/index.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "分别读取原HAC001底座接口连接、JoyCon拆卸与桌面支架；Lite限制；不借用OLED底座接口。",
+      "verificationMethod": "原机构正文所列段落阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S007",
+      "title": "PS3: about XMB menu",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://manuals.playstation.net/document/en/ps3/current/basicoperations/xmb.html",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "横向分类纵向项目、方向键选择、光盘项目开始、三角选项；英文确认键不强加日本原设置。",
+      "verificationMethod": "原机构正文所列段落阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S017",
+      "title": "WiiU操作手册欧洲修订",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.com/eu/media/downloads/support_1/wii_u_3/WiiU_OperationsManual_EN.pdf",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "2017版；GamePad触屏/摇杆/按钮、独立充电、主机连接与SYNC，支持内容与配件条件；不据2017指南当2012全部服务。",
+      "verificationMethod": "45页PDF指定部件/初始连接章节阅读",
+      "limits": "只支持登记功能与操作；不是独立评测，不把当前指南新增菜单当首发功能。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "CWG-S018",
+      "title": "Switch Lite模式兼容FAQ",
+      "publisher": "Nintendo",
+      "url": "https://en-americas-support.nintendo.com/app/answers/detail/a_id/47229/~/nintendo-switch-play-mode%252C-accessory%252C-and-features-compatibility-faq",
+      "checkedOn": "2026-10-11",
+      "sourceType": "原厂手册/支持资料",
+      "verifiedScope": "Lite不支持TV，无内置支架，支持手持模式游戏；可通过另购架及无线控制器桌面摆放。",
+      "verificationMethod": "原机构检索正文摘录",
+      "limits": "当前FAQ；区分软件兼容及另购配件，不把支架缺失写成无法外接控制器。",
+      "independence": "制造商第一方；同厂网址不构成独立交叉",
+      "commercialDisclosure": "原厂产品与支持资料，商业来源明确"
+    },
+    {
+      "id": "G150-S001",
+      "title": "PlayStation history: PS2 / PSP",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/en-us/playstation-history/2000-ps2-psp/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "PS2日本2000-03-04、DVD和初代光盘兼容；PSP UMD路线。PSP日本日期与当年公告冲突，不采用本页12-11。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S001",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S002",
+      "title": "PlayStation history: PS3 / PS Vita",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/en-us/playstation-history/2007-ps3-ps-vita/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "PS3日本2006-11-11/Blu-ray/XMB；Vita日本2011-12-17、原OLED和后触摸板；后来的Remote Play不作首发功能。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S002",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S003",
+      "title": "PlayStation history: PS4 / PS VR",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/en-us/playstation-history/2013-ps4-ps-vr/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "PS4美国2013-11-15、日本2014-02-22；分享按钮与触摸板。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S003",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S004",
+      "title": "PlayStation history: PS5 / PS VR2",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://www.playstation.com/en-us/playstation-history/2020-ps5-ps-vr2/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": null,
+      "verifiedScope": "PS5原光盘版与SSD、DualSense；不采用页面把11-12简化为全球同时发售的口径。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S004",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S005",
+      "title": "PS4 Pro launches today",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/2016/11/10/playstation-4-pro-launches-today/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2016-11-10",
+      "verifiedScope": "2016-11-10实际上市；同PS4游戏库，增强随游戏支持。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S005",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S006",
+      "title": "PS5 launches in November",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://blog.playstation.com/2020/09/16/playstation-5-launches-in-november-starting-at-399-for-ps5-digital-edition-and-499-for-ps5-with-ultra-hd-blu-ray-disc-drive/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2020-09-16",
+      "verifiedScope": "2020-09-16公布；11-12首七个市场、11-19另一批市场为当时计划。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S006",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S007",
+      "title": "SIE launches PlayStation 5 Pro",
+      "publisher": "Sony Interactive Entertainment",
+      "url": "https://sonyinteractive.com/en/press-releases/2024/sony-interactive-entertainment-launches-playstation-5-pro/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2024-11-07",
+      "verifiedScope": "2024-11-07实际上市、PSSR、增强因游戏而异。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S007",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S008",
+      "title": "PSP enters market December 12",
+      "publisher": "Sony Computer Entertainment",
+      "url": "https://sonyinteractive.com/en/press-releases/2004/psp-enters-the-market-on-december-12-2004-at-19800-yen-in-japan/",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2004-10-27",
+      "verifiedScope": "2004-10-27原公告，PSP-1000日本12-12计划及UMD/无线LAN；优先于周年页日期。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文所读段落",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S008",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S009",
+      "title": "PSP sales release 2011",
+      "publisher": "Sony Computer Entertainment",
+      "url": "https://www.sony.com/SonyInfo/IR/news/sce2_G.pdf",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2011-06-07",
+      "verifiedScope": "回顾证实PSP日本2004-12-12推出；不采用销量宣传。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "原机构PDF检索摘录",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S009",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S015",
+      "title": "Nintendo Switch Lite announcement",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/corporate/release/2019/190710.html",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2019-07-10",
+      "verifiedScope": "原Switch三模式；Lite携带专用、控制器一体，2019-09-20当时计划。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "网页正文",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S015",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "G150-S016",
+      "title": "Nintendo FY2020 second-quarter release dates",
+      "publisher": "Nintendo",
+      "url": "https://www.nintendo.co.jp/ir/pdf/2019/191031_3e.pdf",
+      "checkedOn": "2026-10-11",
+      "publishedOn": "2019-10-31",
+      "verifiedScope": "季度表记录Lite日本/美国2019-09-20上市。",
+      "sourceType": "原厂档案/公告/技术资料",
+      "independence": "厂商第一方；同厂页面不算独立交叉核对",
+      "commercialDisclosure": "厂商资料为自身宣传；媒体披露另登记，不推断无商业关系",
+      "verificationMethod": "原机构PDF表格检索摘录",
+      "limits": "只支持所列型号、事件和功能；不证明普遍体验、销量、寿命或最高性能。",
+      "originalId": "G150-S016",
+      "sourceFile": "docs/expansion/research-150-gaming.json"
+    },
+    {
+      "id": "GR150-S003",
+      "title": "Welcome PlayStation 5 Pro",
+      "publisher": "Sony Interactive Entertainment / PlayStation Blog",
+      "url": "https://blog.playstation.com/2024/09/10/welcome-playstation-5-pro-the-most-visually-impressive-way-to-play-games-on-playstation/",
+      "publishedOn": "2024-09-10",
+      "checkedOn": "2026-10-11",
+      "verifiedScope": "原发布配置是无光驱主机，光驱可另外购买；PS5界面和网络服务沿用；增强只适用选定已增强游戏、随游戏不同。",
+      "verificationMethod": "原厂正文配置、界面与脚注段落",
+      "independence": "同厂公告；与G150-S007非独立交叉来源",
+      "commercialDisclosure": "厂商自身宣传，不用营销性能百分比当独立实测。",
+      "limits": "该页11/7是当时计划，实际日期用11/7当日上市公告；未读取安装手册。",
+      "sourceType": "manufacturer-announcement",
+      "originalId": "GR150-S003",
+      "sourceFile": "docs/expansion/research-150-gaming-ready.json"
+    }
+  ],
+  "importInstructions": [
+    "Use editorial-import-manifest.json in order; check live slugs/IDs before mutation.",
+    "Already imported 14 are revision proposals only; do not append duplicates.",
+    "Original40 production text remains preserved; no original40 records in these packets.",
+    "Copy museum prose and readerTakeaway with paragraph sources; future product-database fields are not required.",
+    "Actual page/build validation belongs to original implementation chat."
+  ],
+  "assembledOn": "2026-10-13"
+}

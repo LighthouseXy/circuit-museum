@@ -1,0 +1,5371 @@
+[
+  {
+    "slug": "thinkbook-kb-pro",
+    "name": "ThinkBook KB Pro Mechanical Keyboard",
+    "brand": "Lenovo",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/thinkbook-kb-pro-mechanical-keyboard-65310"
+    },
+    "productUrl": "https://www.red-dot.org/project/thinkbook-kb-pro-mechanical-keyboard-65310",
+    "category": "input-printing",
+    "designDetails": [
+      "用键帽颜色区分功能区域，帮助识别按键分组",
+      "窄键设计减少桌面占用，键帽可更换并提供两种配色"
+    ],
+    "functionDetails": [
+      "专设会议功能区，可直接控制音量",
+      "一键锁屏或显示桌面，减少会议中寻找系统命令的步骤"
+    ],
+    "limitations": [
+      "会议快捷功能需与所用电脑环境配合"
+    ],
+    "whyRepresentative": "把远程会议常用操作做成可触摸的独立输入区。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/thinkbook-kb-pro-mechanical-keyboard-65310",
+        "facts": [
+          "用键帽颜色区分功能区域，帮助识别按键分组",
+          "窄键设计减少桌面占用，键帽可更换并提供两种配色",
+          "专设会议功能区，可直接控制音量",
+          "一键锁屏或显示桌面，减少会议中寻找系统命令的步骤"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2023 ThinkBook KB Pro Mechanical Keyboard。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "ThinkBook KB Pro将远程会议中反复使用的系统命令移到键盘本体。用户除了打字，还需要调音量、锁定屏幕和迅速回到桌面；这台键盘把这些动作视为办公输入的一部分，而不是要求人每次到应用菜单里寻找。",
+    "design": "不同颜色的键帽划分功能区域，会议控制也有对应的独立位置。窄键设计收紧整体尺寸，可更换键帽提供两种配色，使视觉分区能随用户偏好调整；颜色在这里既表达外观，也帮助余光辨认常用功能。",
+    "usage": "会议中可以直接按专用功能键控制音量、锁屏或显示桌面，减少离开键盘再移动指针的动作。输入文字与管理会议状态因此由同一双手连续完成，功能分区也帮助使用者记住这些系统命令位于哪里。",
+    "significance": "它把视频会议的行为变化落实到键盘布局。与仅增加外观灯效不同，会议区针对实际会反复调用的命令，双色键帽则辅助快速定位；代表性来自把新工作场景转换成可触摸输入结构的过程。",
+    "limitationsNarrative": "快捷键最终仍要与电脑系统和会议软件配合，不能保证所有应用都赋予完全相同含义。紧凑布局减少占地，也需要适应键位间距与分区；选用哪套键帽时，应同时考虑视觉辨认和长期输入习惯。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "logitech-mx-mechanical",
+    "name": "MX Mechanical",
+    "brand": "Logitech",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/mx-mechanical-65529"
+    },
+    "productUrl": "https://news.logitech.com/press-releases/news-details/2022/Feel-the-Performance-with-Logitechs-First-Ever-MX-Mechanical-Keyboards-Designed-for-Creation-and-Productivity/default.aspx",
+    "category": "input-printing",
+    "designDetails": [
+      "全尺寸布局采用低矮机械按键",
+      "双色键帽建立打字时的视觉分区"
+    ],
+    "functionDetails": [
+      "三种轴体版本提供不同触感和声音",
+      "手靠近时点亮背光，并随环境亮度调整"
+    ],
+    "limitations": [
+      "轴体版本需购买时选择，不能由该获奖页推断支持热插拔"
+    ],
+    "whyRepresentative": "把机械键盘触感与办公无线键盘的自动照明结合。",
+    "commercialStatus": "已量产商用品；制造商型号说明/使用指引已核对",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/mx-mechanical-65529",
+        "facts": [
+          "全尺寸布局采用低矮机械按键",
+          "双色键帽建立打字时的视觉分区",
+          "三种轴体版本提供不同触感和声音",
+          "手靠近时点亮背光，并随环境亮度调整"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2023 MX Mechanical。搜索读取结果显示该年度栏目，不依据项目ID。"
+      },
+      {
+        "url": "https://news.logitech.com/press-releases/news-details/2022/Feel-the-Performance-with-Logitechs-First-Ever-MX-Mechanical-Keyboards-Designed-for-Creation-and-Productivity/default.aspx",
+        "facts": [
+          "2022年5月上市；低矮轴、双色键帽、智能背光；Options+可自定义按键。"
+        ]
+      }
+    ],
+    "context": "MX Mechanical面向在电脑前持续写作、开发和处理表格的用户，把机械按键反馈带入无线办公键盘。它保留全尺寸数字区，同时采用低矮机械轴，回应了桌面空间、输入手感和多台电脑切换这几个相互关联的问题。",
+    "design": "低矮机械轴降低键盘整体高度，双色键帽则让功能区域在余光中更容易分辨。三个轴体版本分别提供不同触感和声音，使用者是在购买时选择输入性格；这些版本不能据此理解为同一把键盘可随时自行换轴。",
+    "usage": "手靠近时，键盘会点亮背光；环境亮度变化时，另一层自动控制会调整背光强度。这是两个不同动作：前者判断人是否准备输入，后者判断照明是否需要增强。Easy-Switch还可在最多三台已连接设备之间切换。",
+    "significance": "它的代表性在于把机械反馈、视觉分区和感知照明安排到同一办公流程。人从查看屏幕转向键盘时，双色键帽提供定位，背光按需要出现，随后又可把同样的输入习惯带到另一台电脑，减少重复适应。",
+    "limitationsNarrative": "全尺寸数字区方便数字录入，也会占用比无数字区键盘更多的横向空间。低矮结构不能替代合适的桌面高度与坐姿，轴体的声音也随版本改变；多设备切换解决连接入口，文件和应用本身仍由各台电脑管理。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "asus-rog-azoth",
+    "name": "ROG Azoth",
+    "brand": "ASUS",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/rog-azoth-65461"
+    },
+    "productUrl": "https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-azoth-model/",
+    "category": "input-printing",
+    "designDetails": [
+      "铝质外壳配三层缓冲，控制敲击触感",
+      "OLED屏旁布置旋钮，形成小型设置区"
+    ],
+    "functionDetails": [
+      "OLED可显示时间、日期或CPU频率",
+      "可更换轴体，旋钮直接调节设置"
+    ],
+    "limitations": [
+      "OLED信息与设置依赖配置，不能视为独立电脑屏幕"
+    ],
+    "whyRepresentative": "用可维护轴体、缓冲结构和局部屏幕把键盘变成可定制输入设备。",
+    "commercialStatus": "已量产商用品；制造商型号说明/使用指引已核对",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/rog-azoth-65461",
+        "facts": [
+          "铝质外壳配三层缓冲，控制敲击触感",
+          "OLED屏旁布置旋钮，形成小型设置区",
+          "OLED可显示时间、日期或CPU频率",
+          "可更换轴体，旋钮直接调节设置"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2023 ROG Azoth。搜索读取结果显示该年度栏目，不依据项目ID。"
+      },
+      {
+        "url": "https://rog.asus.com/keyboards/keyboards/aura-rgb/rog-azoth-model/",
+        "facts": [
+          "75%布局、硅胶gasket、三层缓冲、热插拔预润ROG NX轴、三模连接、OLED和三向旋钮、三档脚撑。"
+        ]
+      }
+    ],
+    "context": "ROG Azoth将原本常见于定制键盘的结构带入成套游戏外设。75%布局保留常用功能区，又收紧数字区所占空间；它把换轴、润轴和设置反馈放在同一件可直接购买使用的产品中，面向希望逐步调整手感的玩家。",
+    "design": "金属上盖下面采用硅胶垫片支承和三层吸音缓冲，处理按下时的支承感与声音。大按键配预润滑稳定器，轴体支持热插拔；OLED旁的三向旋钮和侧键组成小型控制台，使部分设置无需回到电脑软件中寻找。",
+    "usage": "用户可从有线USB、蓝牙或2.4GHz连接进入使用，再用OLED检查连接模式、电量等状态。旋钮和侧键配合屏幕调整设置；想改变敲击感时，可以更换轴体或使用随附润滑工具，底部双组脚撑还提供三档倾角。",
+    "significance": "这件键盘将“输入设备”进一步变成可以维护和调校的桌面工具。缓冲层处理内部敲击，热插拔改变单键反馈，旋钮负责即时设置，屏幕则让状态可见；这些部件分别对应一种明确动作，形成了完整的调整路径。",
+    "limitationsNarrative": "热插拔降低了换轴门槛，润滑和拆换仍需要按说明操作，不能把所有机械问题都视为可随手修复。OLED和RGB也占用电能，官方很长的无线续航数据是在两者关闭时测得；75%布局还需要用户适应压缩的键位。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "lexon-tamo",
+    "name": "Tamo",
+    "brand": "Lexon",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/tamo-70513"
+    },
+    "productUrl": "https://www.red-dot.org/project/tamo-70513",
+    "category": "players",
+    "designDetails": [
+      "圆润机身配多色铝质表面，兼作家居摆件",
+      "触摸控制隐藏在底座，减少主体上的按钮"
+    ],
+    "functionDetails": [
+      "多台可互联形成更宽声场",
+      "内置免提通话麦克风，并支持自拍触发"
+    ],
+    "limitations": [
+      "多机连接功能不等于完整家庭影院声道解码"
+    ],
+    "whyRepresentative": "展示小音箱怎样将摆件形态与日常交互结合。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/tamo-70513",
+        "facts": [
+          "圆润机身配多色铝质表面，兼作家居摆件",
+          "触摸控制隐藏在底座，减少主体上的按钮",
+          "多台可互联形成更宽声场",
+          "内置免提通话麦克风，并支持自拍触发"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 Tamo。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "Tamo是一只兼顾日常声音和家居摆放的小型蓝牙音箱。它把机身做成圆润铝质物件，使用者不播放时也会继续把它放在桌上，因此外形、触面与看得见的控制数量，都成为产品使用的一部分。",
+    "design": "多色铝质表面包裹有机圆润形体，触摸控制集中到底座，主机身因此保持连续。底座承担调节音量等动作，上部更接近摆件；这种分工让手知道到哪里操作，也避免在小曲面上散布许多独立按钮。",
+    "usage": "接入蓝牙音源后，可从底座触控调整播放；内置麦克风还能进行免提通话，自拍触发则把音箱扩展为手机拍摄时的辅助工具。多只Tamo可互联，使单只桌面小物进一步组成覆盖更宽的声音布置。",
+    "significance": "它将便携音箱的交互从正面按键移到支撑位置。圆润铝壳负责视觉和触觉，底座负责操作，互联则提供扩展方式；这些关系让“像家居摆件”不只是造型评价，而能从具体部件分工得到解释。",
+    "limitationsNarrative": "多机互联不等于拥有完整家庭影院解码或任意声道配置，应按支持方式建立连接。触控底座需要能被手接近，过于拥挤的摆位会影响操作；通话、自拍和音乐也仍依赖所连接手机或其他音源设备。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "topwise-pr800",
+    "name": "PR800",
+    "brand": "Topwise",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/pr800-69525"
+    },
+    "productUrl": "https://www.red-dot.org/project/pr800-69525",
+    "category": "input-printing",
+    "designDetails": [
+      "双色注塑外壳使表面和边界保持柔和",
+      "光滑表面便于清洁，结构支持桌放或壁挂"
+    ],
+    "functionDetails": [
+      "承担小幅面票据打印",
+      "壁挂方式释放收银台桌面空间"
+    ],
+    "limitations": [
+      "面向票据输出，不能替代A4文档打印机"
+    ],
+    "whyRepresentative": "把安装方式和清洁维护纳入小型商业设备外观。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/pr800-69525",
+        "facts": [
+          "双色注塑外壳使表面和边界保持柔和",
+          "光滑表面便于清洁，结构支持桌放或壁挂",
+          "承担小幅面票据打印",
+          "壁挂方式释放收银台桌面空间"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 PR800。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "PR800面向收银台等需要小幅面票据输出的空间。这里的设备经常靠近人、货物与清洁动作，因此设计不仅是缩小打印机，还包括怎样摆放、如何擦拭外壳，以及在有限台面上为其他工作留下位置。",
+    "design": "双色注塑把不同材料外观组织成柔和连续的外壳，光滑表面减少擦拭阻碍。设备既能放在桌上，也能安装在墙上，两种安装方式对应同一主体；黑白两种配色提供与商业空间匹配的基本选择。",
+    "usage": "桌放时，打印机靠近收银员完成票据输出；需要释放台面时，可以采用壁挂方案，把设备移出主要摆放区。使用者仍要接近纸张出口、装纸和清理位置，打印机的安装方向因而会改变日常补充耗材的动作。",
+    "significance": "它代表小型商业设备从后台工具进入可见服务空间的设计思路。外壳表面处理清洁，安装细节处理空间，票据输出再与收银流程衔接；这些设计不依赖大屏，而通过容易被忽视的摆放和维护关系改善使用。",
+    "limitationsNarrative": "PR800承担票据打印，不能替代A4文档打印或其他大幅面输出。壁挂虽释放桌面，也需要合适固定位置和线缆路径；选址时应保留装纸与取票空间，否则外观整洁可能换来维护时的不便。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "asiga-ultra",
+    "name": "Ultra",
+    "brand": "Asiga",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/ultra-69552"
+    },
+    "productUrl": "https://www.red-dot.org/project/ultra-69552",
+    "category": "making",
+    "designDetails": [
+      "紧凑机身以高对比外观区分操作区域",
+      "围绕非3D打印专家设计操作流程"
+    ],
+    "functionDetails": [
+      "生产监测技术支持精确打印",
+      "面向牙科和助听器等个性化医疗器件制造"
+    ],
+    "limitations": [
+      "医疗用途仍依赖相应材料及专业工作流程"
+    ],
+    "whyRepresentative": "说明数字制造设备如何通过界面降低专业操作门槛。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/ultra-69552",
+        "facts": [
+          "紧凑机身以高对比外观区分操作区域",
+          "围绕非3D打印专家设计操作流程",
+          "生产监测技术支持精确打印",
+          "面向牙科和助听器等个性化医疗器件制造"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 Ultra。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "Asiga Ultra面向牙科和助听器等需要个性化器件的专业制造。其设计问题是让医疗人员使用数字模型制造实体时，不必先成为3D打印专家；生产监测、操作界面和紧凑机身共同服务这条专业工作路径。",
+    "design": "机身采用紧凑、高对比的外观，帮助操作者辨认设备主体与操作位置。设计把易用性放到制造系统中，而不只是让打印过程隐藏在罩壳后；结构和界面都围绕医疗人员较少接触打印技术的情境组织。",
+    "usage": "使用者在专业流程中准备对应数字模型与材料，再调用打印系统制作个性化器件。生产监测支持对制作过程的控制，面向非打印专家的操作功能减少参数寻找与判断负担，使注意力更多留在所制作器件的要求上。",
+    "significance": "它把数字制造从通用工程工具带到更具体的医疗工作场景。产品形态的意义在于衔接人员、数字数据和实体器件：医疗人员理解用途，监测系统处理制造过程，清楚界面让两个专业领域能在一台设备上接合。",
+    "limitationsNarrative": "牙科或助听器用途仍依赖合适的材料、模型准备和完整专业流程，打印完成不等于成品已经满足所有使用要求。易用界面降低操作门槛，却不能替代材料选择、后处理和成品检查，也不能取消专业人员的判断。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "bose-quietcomfort-ultra",
+    "name": "QuietComfort Ultra Headphones",
+    "brand": "Bose",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Best of the Best",
+      "url": "https://www.red-dot.org/project/bose-quietcomfort-ultra-headphones-70593"
+    },
+    "productUrl": "https://www.red-dot.org/project/bose-quietcomfort-ultra-headphones-70593",
+    "category": "headphones",
+    "designDetails": [
+      "金属结构件在保持强度的同时收紧体积",
+      "头梁到耳垫采用连续有机曲线，并配收纳盒",
+      "官方评奖说明写明故障部件可更换，但未列出具体零件和维修方式"
+    ],
+    "functionDetails": [
+      "主动降噪降低环境干扰",
+      "沉浸音频分Motion和Still模式，分别跟随移动或固定声像"
+    ],
+    "limitations": [
+      "沉浸音频模式的空间效果不同于录音本身的多声道内容"
+    ],
+    "whyRepresentative": "把头戴结构、可更换故障部件和空间音频放在同一设计中。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/bose-quietcomfort-ultra-headphones-70593",
+        "facts": [
+          "金属结构件在保持强度的同时收紧体积",
+          "头梁到耳垫采用连续有机曲线，并配收纳盒",
+          "主动降噪降低环境干扰",
+          "沉浸音频分Motion和Still模式，分别跟随移动或固定声像",
+          "官方评奖说明称defective parts can be replaced；本研究不扩展为用户可自行维修。"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 QuietComfort Ultra Headphones。搜索读取结果显示该年度栏目，不依据项目ID。",
+        "levelEvidence": "型号页标示 Image: Red Dot: Best of the Best"
+      }
+    ],
+    "context": "QuietComfort Ultra Headphones在头戴耳机中结合主动降噪和空间声音处理。它既面对出行中隔离干扰的要求，也面向家中较长时间聆听，因此机身重量、接触面和音频模式必须适应身体移动与静坐两种状态。",
+    "design": "金属结构件在较小截面下提供强度，头梁到耳垫采用连续有机曲线，柔软接触面对应头部与耳周。配套收纳盒保护搬运中的耳机；官方评奖说明还提到故障部件可更换，但没有把具体零件和维修步骤展开。",
+    "usage": "用户可通过主动降噪减少环境干扰，再选择沉浸音频模式。Motion让空间效果随移动调整，Still则把声像保持在相对固定的位置，适合静坐聆听；两者把身体是否移动作为声音呈现的不同条件。",
+    "significance": "它将佩戴结构与空间声音的关系变得更具体。耳机需要先稳定、舒适地留在头上，传感和数字处理再决定声音如何相对身体存在；金属结构、软接触面与两种模式分别处理机械承托、持续佩戴和听觉定位。",
+    "limitationsNarrative": "沉浸音频是一种声音处理方式，不能把任何立体声内容都视为原生多声道录音。官方称部件可更换，并不代表用户能自行维修全部内部零件；长时间舒适度还取决于个人头型、眼镜和耳垫贴合状态。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "poly-surround-80-uc",
+    "name": "Poly Surround 80 UC",
+    "brand": "HP Poly",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/poly-surround-80-uc-70606"
+    },
+    "productUrl": "https://www.red-dot.org/project/poly-surround-80-uc-70606",
+    "category": "headphones",
+    "designDetails": [
+      "无麦克风杆设计使外观接近日常耳机",
+      "轻质结构与贴耳触控减少移动办公负担"
+    ],
+    "functionDetails": [
+      "六麦克风用于通话拾音",
+      "自适应降噪、自动接听传感器及最长21小时通话"
+    ],
+    "limitations": [
+      "21小时为官方条件下的最长通话数据"
+    ],
+    "whyRepresentative": "把会议耳麦的通话能力融入可跨场所佩戴的耳机形态。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/poly-surround-80-uc-70606",
+        "facts": [
+          "无麦克风杆设计使外观接近日常耳机",
+          "轻质结构与贴耳触控减少移动办公负担",
+          "六麦克风用于通话拾音",
+          "自适应降噪、自动接听传感器及最长21小时通话"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 Poly Surround 80 UC。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "Poly Surround 80 UC面向需要在不同场所工作的会议用户。它采用接近日常头戴耳机的外形，不让长麦克风杆持续伸在面前，同时又要在通话时清楚收音，使一副耳机能够在专注工作和远程会议之间切换。",
+    "design": "无麦克风杆的轮廓让佩戴更低调，轻质结构与耳周贴合共同承担长期使用。控制放在耳罩触面，传感器则参与自动接听；可见按钮减少后，触控区域与佩戴动作成为人发出命令的主要入口。",
+    "usage": "用户戴上耳机后可通过触控管理通话，智能传感器支持自动接听。六个麦克风处理收音，自适应主动降噪帮助专注；官方列最长21小时通话时间，使它面向连续工作日，而非只处理短暂一次电话。",
+    "significance": "它把企业会议耳麦的一组专门能力放进更通用的佩戴形态。麦克风阵列替代外伸杆，传感器减少接听步骤，耳罩负责触控；这些变化使工作设备能随着人移动，而不用一直维持传统呼叫中心耳麦的轮廓。",
+    "limitationsNarrative": "21小时是官方条件下的最长通话数据，实际使用受连接、音量和功能设置影响。触控与自动接听需要先熟悉对应动作，减少实体键也改变了确认方式；阵列拾音仍受环境和佩戴情况影响，不能消除所有背景声音。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "roborock-s8-maxv-ultra",
+    "name": "S8 MaxV Ultra",
+    "brand": "Roborock",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/s8-maxv-ultra-69765"
+    },
+    "productUrl": "https://www.red-dot.org/project/s8-maxv-ultra-69765",
+    "category": "cleaning",
+    "designDetails": [
+      "传感器融入黑白高光机身",
+      "紧凑底座降低常驻客厅的视觉负担"
+    ],
+    "functionDetails": [
+      "伸缩边刷和侧置拖布加强边角清洁",
+      "语音助手用灯光回应指令"
+    ],
+    "limitations": [
+      "仍需维护水箱、拖布和耗材，自动化不等于免维护"
+    ],
+    "whyRepresentative": "以会伸出的清洁部件改善圆形机器人靠墙覆盖。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/s8-maxv-ultra-69765",
+        "facts": [
+          "传感器融入黑白高光机身",
+          "紧凑底座降低常驻客厅的视觉负担",
+          "伸缩边刷和侧置拖布加强边角清洁",
+          "语音助手用灯光回应指令"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 S8 MaxV Ultra。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "S8 MaxV Ultra把圆形扫拖机器人难以接近墙角的问题作为结构设计重点。它不仅依靠路线规划，还让边刷和侧置拖布更接近边缘；机身、感知系统和基站一起构成长期放在家里的自动清洁设备。",
+    "design": "伸缩边刷从圆形主体边界向外工作，侧置拖布补充靠边区域。多种传感器融进黑白高光外壳，基站则以紧凑轮廓收拢维护位置；这些部件把地面上的清洁范围与停靠时的家居存在感分别处理。",
+    "usage": "机器人在房间内导航清洁时，外伸部件帮助接近边角、墙边和较低缝隙；需要指令时，语音助手可回应用户，并用灯光表示交互状态。完成或维护时回到基站，移动工作与集中停靠形成日常循环。",
+    "significance": "它用会伸出的部件回应固定圆形外壳的覆盖局限。路线规划解决“去哪里”，伸缩边刷和侧拖布解决“到达后怎样接近”，灯光又让语音交互有可见反馈，展示了清洁机器人软硬件各自承担的问题。",
+    "limitationsNarrative": "外伸清洁部件仍需要家具和障碍物留出工作空间，不能据此承诺每个角落都能完全覆盖。水箱、拖布与耗材最终仍需维护，传感和语音功能也受现场环境影响；自动完成任务不等于设备永远不需要人接触。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "nexaro-nr1500",
+    "name": "NR 1500",
+    "brand": "Nexaro",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/nexaro-nr-1500-69738"
+    },
+    "productUrl": "https://www.red-dot.org/project/nexaro-nr-1500-69738",
+    "category": "cleaning",
+    "designDetails": [
+      "不同表面纹理形成克制的专业设备外观",
+      "稳固结构围绕清洁人员的低维护需求设计"
+    ],
+    "functionDetails": [
+      "通过移动网络直接连接管理软件",
+      "中央软件可管理多台组成的清洁机器人机队"
+    ],
+    "limitations": [
+      "面向专业清洁管理，需配套软件和网络"
+    ],
+    "whyRepresentative": "把单台家用机器人扩展为可管理的商用清洁工具。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/nexaro-nr-1500-69738",
+        "facts": [
+          "不同表面纹理形成克制的专业设备外观",
+          "稳固结构围绕清洁人员的低维护需求设计",
+          "通过移动网络直接连接管理软件",
+          "中央软件可管理多台组成的清洁机器人机队"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 NR 1500。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "NR 1500针对专业清洁人员的工作场所，重点从单台机器转到多台设备的管理。它需要在办公室等环境中完成重复地面清洁，同时把运行情况送回中央系统，使工作人员能安排设备而不是逐台跟随。",
+    "design": "不同表面纹理在低调外形中区分区域，坚固结构与便于维护的处理强调日常专业使用。设备没有依赖醒目装饰表达能力，而是以稳固、可管理的工具形态进入工作环境，便于成为清洁流程的一部分。",
+    "usage": "机器人通过移动通信网络直接连接运行软件，工作人员从中央界面管理多台组成的机队。单机负责现场地面清洁，软件负责跨设备安排；这种关系让同类任务可以由多个独立移动设备共同承担。",
+    "significance": "它展示了清洁机器人从家用消费品转为专业工具时，管理界面如何与机身同样重要。可靠的单台运行提供基础，移动网络传回状态，中央软件再组织数量；代表性来自这组连接关系，而不只是吸尘能力。",
+    "limitationsNarrative": "机队管理需要配套软件和网络条件，不能把设备数量可扩展理解为无需部署成本。专业现场仍要安排障碍物、作业时段和维护责任；设备能自主行走，并不取消工作人员对整个清洁服务的检查和组织。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "dreame-l10s-plus",
+    "name": "L10s Plus",
+    "brand": "Dreame",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/dreame-l10s-plus-69732"
+    },
+    "productUrl": "https://www.red-dot.org/project/dreame-l10s-plus-69732",
+    "category": "cleaning",
+    "designDetails": [
+      "黑白简洁机身与基站组成统一轮廓",
+      "集尘容器设在基站以减少机器人上的维护频次"
+    ],
+    "functionDetails": [
+      "4升集尘容量，官方以最长90天描述储尘能力",
+      "超声波识别地毯，支持地图、清洁模式及语音控制"
+    ],
+    "limitations": [
+      "90天取决于垃圾量和使用条件"
+    ],
+    "whyRepresentative": "以基站储尘和地毯识别组织自动清洁流程。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/dreame-l10s-plus-69732",
+        "facts": [
+          "黑白简洁机身与基站组成统一轮廓",
+          "集尘容器设在基站以减少机器人上的维护频次",
+          "4升集尘容量，官方以最长90天描述储尘能力",
+          "超声波识别地毯，支持地图、清洁模式及语音控制"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 L10s Plus。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "L10s Plus通过集尘基站减少频繁倒垃圾的动作，同时在移动机身上结合吸尘、拖地和地毯识别。它把“每天清洁地面”与“隔一段时间集中维护”分开，使自动化不只发生在移动路线里，也发生在污物收集方式中。",
+    "design": "黑白机身与基站采用简洁一致的轮廓，较大的储尘空间放在基站而非全部堆进机器人。移动部分因此继续保持适合家具下方工作的形态，停靠部分则承担长时间存放垃圾的职责，形成大小不同的两个工作体。",
+    "usage": "机器人按地图和清洁模式运行，超声波识别地毯后调整对应清洁行为，用户也可用语音发出命令。收集到的垃圾进入基站的4升容器；官方以最长90天描述储尘能力，强调的是减少日常倒垃圾频次。",
+    "significance": "它把自动清洁的便利从一次运行延伸到多天使用。地图安排路线，地毯感知识别材质，基站管理垃圾，三者分别处理空间、地面和维护频率；产品的完整性因此需要同时观察机器人和基站，而非只看圆盘。",
+    "limitationsNarrative": "90天是官方特定条件下的储尘描述，垃圾量、宠物毛发和使用频率都会改变维护间隔。拖地部件也仍需清理，语音控制依赖支持环境；把垃圾集中存起来并不等于消除清洁基站和更换耗材的工作。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "eufy-x10-omni",
+    "name": "X10 Omni",
+    "brand": "Anker eufy",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/x10-omni-69726"
+    },
+    "productUrl": "https://www.red-dot.org/project/x10-omni-69726",
+    "category": "cleaning",
+    "designDetails": [
+      "连续曲面收拢双水箱和集尘箱",
+      "紧凑D形机器人适应角落和家具下方"
+    ],
+    "functionDetails": [
+      "支持吸尘与拖地",
+      "拖布抬升15毫米适应地毯清洁"
+    ],
+    "limitations": [
+      "拖布抬升高度有限，厚地毯仍需核对适用性"
+    ],
+    "whyRepresentative": "使清洁基站从附件变成集中收纳水和灰尘的常驻家居设备。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/x10-omni-69726",
+        "facts": [
+          "连续曲面收拢双水箱和集尘箱",
+          "紧凑D形机器人适应角落和家具下方",
+          "支持吸尘与拖地",
+          "拖布抬升15毫米适应地毯清洁"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 X10 Omni。搜索读取结果显示该年度栏目，不依据项目ID。",
+        "warning": "奖项页写D形机身和15mm，官方X10 Pro Omni文档为圆形，勿把这两项当成X10ProOmni事实。"
+      }
+    ],
+    "duplicateOf": "eufy-x10-pro-omni",
+    "integrationStatus": "建议跳过：与B重复且奖项描述D形/15mm疑似混淆，采用B的厂家精确型号资料",
+    "narrativeStatus": "排除重复与型号冲突，不用于正文"
+  },
+  {
+    "slug": "philips-homerun-3000-aqua",
+    "name": "HomeRun 3000 Series Aqua",
+    "brand": "Philips Versuni",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/philips-homerun-3000-series-aqua-69745"
+    },
+    "productUrl": "https://www.red-dot.org/project/philips-homerun-3000-series-aqua-69745",
+    "category": "cleaning",
+    "designDetails": [
+      "柔和细节与织物般表面纹理降低电器感",
+      "机器人和自动集尘基站提供统一的深色或金属白鲸配色"
+    ],
+    "functionDetails": [
+      "一步完成吸尘和拖地",
+      "配套Auto-Empty充电站自动集尘"
+    ],
+    "limitations": [
+      "仍需补水与维护拖布，集尘站不等于全自动清洗站"
+    ],
+    "whyRepresentative": "用家居材料语言处理长期暴露在房间里的清洁机器人。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/philips-homerun-3000-series-aqua-69745",
+        "facts": [
+          "柔和细节与织物般表面纹理降低电器感",
+          "机器人和自动集尘基站提供统一的深色或金属白鲸配色",
+          "一步完成吸尘和拖地",
+          "配套Auto-Empty充电站自动集尘"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 HomeRun 3000 Series Aqua。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "HomeRun 3000 Series Aqua面向吸尘与拖地在一次运行中连续完成的日常需要。机器人和自动集尘充电站都会长时间留在房间里，设计因此同时处理清扫任务和家居摆放：怎样让设备工作，也怎样让它停在客厅。",
+    "design": "柔和细节和织物般表面纹理减少硬塑料电器感，机器人与基站提供一致的深色或金属白鲸配色。两个体量在视觉上相互对应，尤其在开放房间中，停靠站不再像临时多出的附件，而是整套产品的固定部分。",
+    "usage": "启动任务后，移动机器人在同一次流程中完成吸尘与拖地，随后回到Auto-Empty充电站补电和集尘。用户处理地面任务时主要调用一次运行，之后把维护集中到停靠位置，而不必每次分别拿出两种清洁工具。",
+    "significance": "它把自动清洁设备的家居适应性放到表面和成套关系中。移动机身提供扫拖功能，基站接管储尘，配色与纹理让两者能够长期被看见；这说明日常家电的设计既发生在工作时，也发生在闲置等待时。",
+    "limitationsNarrative": "Auto-Empty表示自动集尘，不能据此理解为拖布也会自动清洗或水箱自动补水。实际清洁依赖地面和家具条件，用户仍要维护拖布与耗材；织物般纹理是表面表达，清洁外壳时应遵循真实材料要求。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "nexigo-trivision-ultra",
+    "name": "TriVision Ultra",
+    "brand": "NexiGo",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/nexigo-trivision-ultra-70422"
+    },
+    "productUrl": "https://www.red-dot.org/project/nexigo-trivision-ultra-70422",
+    "category": "projectors",
+    "designDetails": [
+      "直线、圆角和金属表面形成可移动音箱般轮廓",
+      "将光源、声音和系统收进单一机身"
+    ],
+    "functionDetails": [
+      "混合三色LED与RGB激光光源",
+      "4K图像、Dolby Sound与内置Google TV应用平台"
+    ],
+    "limitations": [
+      "投影画面对环境光和投射条件敏感"
+    ],
+    "whyRepresentative": "结合两种光源路线，把内容系统和声音整合为家庭投影终端。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/nexigo-trivision-ultra-70422",
+        "facts": [
+          "直线、圆角和金属表面形成可移动音箱般轮廓",
+          "将光源、声音和系统收进单一机身",
+          "混合三色LED与RGB激光光源",
+          "4K图像、Dolby Sound与内置Google TV应用平台"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 TriVision Ultra。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "TriVision Ultra将投影、声音与内容系统集中在一台设备中，面向家庭观看及临时活动。机身需要从一个位置搬到另一个位置，因此画面能力之外，轮廓、材料和系统整合也共同决定准备工作是否容易完成。",
+    "design": "直线轮廓配圆角和金属表面，使机身接近一只较大的便携音箱。内部同时安排三色LED与RGB激光光源，外部则避免把不同技术分散成独立附件，让投影光学、声音和电子系统以单一体量被摆放。",
+    "usage": "设置好投射位置后，可从内置Google TV进入应用内容，由4K投影和内置Dolby Sound声音系统共同播放。使用者不必先另外连接播放器和音箱，搬动时也主要处理这一台机身，而不是多件分散设备。",
+    "significance": "它显示家用投影怎样从显示器发展为一体观看终端。混合光源负责图像，Google TV负责内容入口，扬声器负责声音，外壳再把它们组织成可搬运物件；这种关系直接影响从摆放到开始观看的步骤。",
+    "limitationsNarrative": "内置系统仍需要支持的网络与内容服务，不能保证所有地区都提供相同应用。投影画面也受环境光、距离和表面影响，整合音响减少外接步骤，却不能取消对观看位置、通风和供电条件的安排。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "coway-airmega350",
+    "name": "Airmega350",
+    "brand": "Coway",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/airmega350-airmega450-69348"
+    },
+    "productUrl": "https://www.red-dot.org/project/airmega350-airmega450-69348",
+    "category": "environment",
+    "designDetails": [
+      "圆柱机身的顶部横纹过渡为竖向凹槽",
+      "后侧进风口隐藏在整体轮廓中"
+    ],
+    "functionDetails": [
+      "顶部界面用于选择过滤功能",
+      "从顶部观察和控制空气质量"
+    ],
+    "limitations": [
+      "获奖对象同时包含450，本条只选350，性能数值不跨型号借用"
+    ],
+    "whyRepresentative": "把风道格栅转译成连续的外壳纹理。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/airmega350-airmega450-69348",
+        "facts": [
+          "圆柱机身的顶部横纹过渡为竖向凹槽",
+          "后侧进风口隐藏在整体轮廓中",
+          "顶部界面用于选择过滤功能",
+          "从顶部观察和控制空气质量"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 Airmega350。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "Airmega350把空气净化器处理成圆柱形家居设备。它与Airmega450共同获奖，本条只选350观察；重点是空气通路、操作位置和外壳纹理怎样形成一个整体，而不把同组两个尺寸拆成多个独立例子。",
+    "design": "顶部横向纹理逐渐转接到机身竖向凹槽，建立从上到下的连续视觉关系。后侧进风口隐藏在整体轮廓里，顶部留给用户界面；需要空气流通的开口因此不完全以工业格栅方式暴露在房间正面。",
+    "usage": "用户从顶部选择过滤相关功能，并查看或控制空气质量状态。圆柱外形让设备可以作为房间中的独立物体摆放，而后侧空气通路提醒人仍需为机器留出呼吸空间，不能只按家具摆件的方式紧贴遮挡。",
+    "significance": "它把风道所需结构转成外壳纹理的一部分。横纹与竖槽不只是表面装饰，也组织人对空气设备的理解；顶部操作和背部进风进一步分开日常接触与持续工作，让净化器保持较平静的正面。",
+    "limitationsNarrative": "获奖记录同时涵盖350和450，本文不跨型号挪用洁净空气量或适用面积。圆柱外形能减轻视觉负担，却仍要遵守摆放间距、滤网清洁和更换要求；空气质量表现最终也与房间体积和污染来源有关。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "philips-air-purifier-600",
+    "name": "Air Purifier 600 Series",
+    "brand": "Philips Versuni",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/philips-air-purifier-600-series-69294"
+    },
+    "productUrl": "https://www.red-dot.org/project/philips-air-purifier-600-series-69294",
+    "category": "environment",
+    "designDetails": [
+      "三角形机身形成区别于圆筒的占地轮廓",
+      "顶部出风口内凹，进风口采用更明确的视觉表达"
+    ],
+    "functionDetails": [
+      "单按键切换净化模式",
+      "灯环提示空气质量和滤网维护"
+    ],
+    "limitations": [
+      "滤网需要定期维护和更换"
+    ],
+    "whyRepresentative": "用按键与灯环把复杂空气信息压缩为简单日常操作。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/philips-air-purifier-600-series-69294",
+        "facts": [
+          "三角形机身形成区别于圆筒的占地轮廓",
+          "顶部出风口内凹，进风口采用更明确的视觉表达",
+          "单按键切换净化模式",
+          "灯环提示空气质量和滤网维护"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 Air Purifier 600 Series。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "Philips 600 Series把小型空气净化器的日常操作压缩到按钮和灯环。它面对的是用户需要快速知道空气状态、选择工作方式的需求，不必每次通过复杂屏幕读取大量数据，也能留在日常居住空间中。",
+    "design": "三角机身改变常见圆筒净化器的占地轮廓，顶部出风口内凹，进风位置则表达得更明显。一个模式键和环形灯成为界面中心，外壳因此主要处理空气通路，少量可见控制处理使用者的判断与动作。",
+    "usage": "用户按模式键选择净化方式，再从灯环了解空气质量与滤网维护提示。设备持续工作时，人不必一直面对屏幕；需要干预时，灯光先给出状态，再由一个按键完成设置，形成简洁的查看与回应过程。",
+    "significance": "它把环境信息转译为容易被余光看见的信号。三角外壳组织空气结构，灯环组织状态，按键组织选择，各自承担一个明确工作；这种少量控制适合反复发生、但不值得占据大量注意力的日常任务。",
+    "limitationsNarrative": "灯环降低了读数负担，也意味着用户得到的是经过组织的状态提示，而非完整检测报告。滤网维护提示仍需要人实际处理，净化效果则取决于房间和污染物；简化界面不能使空气设备免于正确摆放与保养。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "govee-mini-air-purifier",
+    "name": "Mini Air Purifier",
+    "brand": "Govee",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/govee-mini-air-purifier-69342"
+    },
+    "productUrl": "https://www.red-dot.org/project/govee-mini-air-purifier-69342",
+    "category": "environment",
+    "designDetails": [
+      "提手便于在卧室与书桌之间移动",
+      "简洁操作结构围绕个人空间使用"
+    ],
+    "functionDetails": [
+      "通过应用控制净化",
+      "可添加香氛或精油，并可作为风扇使用"
+    ],
+    "limitations": [
+      "香氛功能不代表提高过滤效果"
+    ],
+    "whyRepresentative": "以便携和个人空间使用拓展净化器形态。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/govee-mini-air-purifier-69342",
+        "facts": [
+          "提手便于在卧室与书桌之间移动",
+          "简洁操作结构围绕个人空间使用",
+          "通过应用控制净化",
+          "可添加香氛或精油，并可作为风扇使用"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 Mini Air Purifier。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "Govee Mini Air Purifier针对卧室和家庭书桌等个人空间，将净化功能装进容易移动的小设备。它不只追求固定房间的长期安装，也考虑人从工作转向休息时，把同一设备带到身边继续使用的行为。",
+    "design": "提手让机身拿起和调整位置更直接，简化控制降低在床边或桌面的操作负担。香氛添加和风扇用途被安排到同一设备中，使空气处理不只有过滤一种感受，也包含气流和气味，但各功能的作用应区分理解。",
+    "usage": "用户可把设备移到需要的位置，通过应用管理净化；想改变气味时，可按支持方式添加香氛或精油。提手也方便调整风扇位置，日常动作围绕搬动、启动和少量设置展开，而不要求一直守在机器旁。",
+    "significance": "它展示环境设备怎样围绕个人活动范围设计。提携结构把净化器从固定角落带到使用者附近，应用减少靠近面板的需要，附加风扇与气味功能再回应不同感官；可移动性由此具有明确的使用理由。",
+    "limitationsNarrative": "添加香氛不代表提高颗粒过滤效果，也不能把气味改善等同于空气污染已经解决。小型设备的作用范围仍需核对具体条件，搬动后要保留通风空间，并按说明处理滤网及香氛部分，避免只因体积小就忽略维护。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "winix-t1000",
+    "name": "T1000",
+    "brand": "Winix",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/t1000-69362"
+    },
+    "productUrl": "https://www.red-dot.org/project/t1000-69362",
+    "category": "environment",
+    "designDetails": [
+      "圆柱机身以深色横槽对比白色外壳",
+      "滤网设置方便抽取的提手"
+    ],
+    "functionDetails": [
+      "360度进风并从顶部出风",
+      "官方描述适用房间最高128平方米"
+    ],
+    "limitations": [
+      "128平方米为官方条件下的适用范围，实际净化随房间条件变化"
+    ],
+    "whyRepresentative": "把全周进风和滤网更换动线纳入圆柱布局。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/t1000-69362",
+        "facts": [
+          "圆柱机身以深色横槽对比白色外壳",
+          "滤网设置方便抽取的提手",
+          "360度进风并从顶部出风",
+          "官方描述适用房间最高128平方米"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 T1000。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "T1000以圆柱结构组织较大范围的空气净化，重点是让机器从四周吸入空气、再从顶部送出。外观需要容纳持续通风，同时适应办公室和居住空间，因而没有把空气处理结构隐藏成完全封闭的家具。",
+    "design": "白色表面与深色横向凹槽形成对比，凹槽表达通风区并延续圆柱体的环绕关系。出风口位于顶部，滤网设置便于抽取的提手；进风、出风和维护因此在机身上有不同位置，不必从同一窄口争用空间。",
+    "usage": "设备通过360度进风组织空气循环，用户在界面中管理运行并在需要时抽取滤网维护。官方获奖说明列出最高128平方米房间范围，说明产品定位于较大空间，但日常仍要为周围进风和顶部排风保留位置。",
+    "significance": "它的代表性来自把空气流动关系直接落实为外形。圆周凹槽与全周进风协调，顶部出口给气流明确方向，滤网提手又让维护路径可接近；这些结构让大型净化器的技术需求能够从外部被理解。",
+    "limitationsNarrative": "128平方米来自官方条件下的范围描述，不是任何开放办公室都能获得同一结果的保证。房间高度、隔间和污染来源会改变效果；滤网提手方便更换，却仍需要按说明清理，周围堆放物品也可能影响进风。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "coffeeb-globe",
+    "name": "CoffeeB Globe",
+    "brand": "Delica Café Royal",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Best of the Best",
+      "url": "https://www.red-dot.org/project/coffeeb-62006"
+    },
+    "productUrl": "https://www.red-dot.org/project/coffeeb-62006",
+    "category": "kitchen",
+    "designDetails": [
+      "无涂装再生塑料机身便于材料回收",
+      "圆润机身和透明堆叠分配器呼应咖啡球形状"
+    ],
+    "functionDetails": [
+      "使用植物膜包裹的压制咖啡球冲煮",
+      "约20秒预热，一分钟后自动待机"
+    ],
+    "limitations": [
+      "需专用咖啡球，不能推断兼容普通胶囊"
+    ],
+    "whyRepresentative": "通过改变耗材结构保留分份咖啡便利并减少铝塑胶囊。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/coffeeb-62006",
+        "facts": [
+          "无涂装再生塑料机身便于材料回收",
+          "圆润机身和透明堆叠分配器呼应咖啡球形状",
+          "使用植物膜包裹的压制咖啡球冲煮",
+          "约20秒预热，一分钟后自动待机"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2023 CoffeeB Globe。搜索读取结果显示该年度栏目，不依据项目ID。",
+        "levelEvidence": "官方型号页https://www.red-dot.org/project/coffeeb-62006 明确标示Image: Red Dot: Best of the Best，2023产品设计栏目。"
+      }
+    ],
+    "context": "CoffeeB Globe保留分份咖啡便于快速制作的习惯，却改变了耗材结构：以植物膜包裹压制咖啡球，替代常见铝塑胶囊。机器从咖啡球的装入和用后处理出发设计，外观与材料选择也随之调整。",
+    "design": "圆润机身与细竖纹呼应球形耗材，透明分配器可以堆放咖啡球，装入机构让一份咖啡进入冲煮位置。机身主要使用再生塑料且不涂漆，减少回收时分离表面涂层的问题，材料策略与耗材策略相互呼应。",
+    "usage": "用户从分配器取出一颗咖啡球，装入机器后进行冲煮，用后处理咖啡球。设备约20秒预热，一分钟后自动待机，把等待与闲置能耗也纳入流程；植物膜包裹的球体则按照官方指引进入相应堆肥处理。",
+    "significance": "它用耗材的改变带动整台咖啡机重设计。装填动作仍然简短，但物料从塑料或铝壳转成有保护膜的咖啡球，机身再选择无涂装再生塑料；这使环保议题具体落在每次制作后产生什么和机器最后怎样回收。",
+    "limitationsNarrative": "它需要专用咖啡球，不能据此推断兼容普通胶囊或任意咖啡粉。堆肥处理也应按官方条件进行；取消胶囊外壳没有取消水箱补充、机器清洁和专用耗材供应，便利仍建立在一套配套系统之上。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "bosch-accent-line-coffee",
+    "name": "Series 8 Accent Line Built-in Coffee Machine",
+    "brand": "Bosch",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/bosch-series-8-accent-line-built-in-coffee-machine-61913"
+    },
+    "productUrl": "https://www.red-dot.org/project/bosch-series-8-accent-line-built-in-coffee-machine-61913",
+    "category": "kitchen",
+    "designDetails": [
+      "线性嵌入式面板与同系列厨房电器协调",
+      "数字控制环作为核心操作与品牌识别元素"
+    ],
+    "functionDetails": [
+      "固定供水连接减少手动补水",
+      "AutoMilk Clean自动清洁奶路相关部件"
+    ],
+    "limitations": [
+      "需要嵌入式安装及固定供水条件"
+    ],
+    "whyRepresentative": "把供水和奶路维护融入厨房整合式咖啡设备。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/bosch-series-8-accent-line-built-in-coffee-machine-61913",
+        "facts": [
+          "线性嵌入式面板与同系列厨房电器协调",
+          "数字控制环作为核心操作与品牌识别元素",
+          "固定供水连接减少手动补水",
+          "AutoMilk Clean自动清洁奶路相关部件"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2023 Series 8 Accent Line Built-in Coffee Machine。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "博世Series 8 Accent Line嵌入式咖啡机将咖啡准备纳入固定厨房界面。它与橱柜和其他嵌入电器长期并列，设计重点不再是单独搬到桌上的小机器，而是供水、面板操作和奶路清洁如何融入日常厨房。",
+    "design": "线性面板与同系列电器保持连续，Digital Ring数字控制环成为最容易辨认的操作位置。固定供水连接放在安装关系中，AutoMilk Clean则处理奶路相关清洁；视觉简洁背后，是把频繁补充和收尾步骤交给设备连接。",
+    "usage": "使用者从数字控制环进入饮品设置，固定供水减少反复取下水箱装水的动作。制作含奶饮品后，AutoMilk Clean辅助清洁相关管路，让选择、出杯和清理保持在同一个嵌入工作站，而不是在台面上移动多件工具。",
+    "significance": "它把厨房整合从外观统一推进到实际工作连接。控制环组织选择，供水连接组织补充，奶路清洁组织收尾；三种关系共同解释为何咖啡机成为建筑般固定界面，而不是把普通台式机简单塞进橱柜。",
+    "limitationsNarrative": "固定供水与嵌入安装需要预先核对橱柜、连接和维护空间，不能按普通台面电器随意移动。自动奶路清洁也不代表所有部件都无需手动保养；耗材、咖啡残渣和其他接触食品的区域仍需按说明处理。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "sonicare-diamondclean-essential",
+    "name": "Sonicare DiamondClean Essential",
+    "brand": "Philips",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/philips-sonicare-diamondclean-essential-electric-toothbrush-68551"
+    },
+    "productUrl": "https://www.red-dot.org/project/philips-sonicare-diamondclean-essential-electric-toothbrush-68551",
+    "category": "care",
+    "designDetails": [
+      "金属质感外壳采用流动轮廓",
+      "完成刷牙后以笑脸动画提供结束反馈"
+    ],
+    "functionDetails": [
+      "Gum Pro以不同强度改变马达频率",
+      "压力传感器帮助避免过大刷牙压力"
+    ],
+    "limitations": [
+      "刷牙反馈不能替代专业口腔检查"
+    ],
+    "whyRepresentative": "将压力感知和完成反馈嵌入日常刷牙动作。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/philips-sonicare-diamondclean-essential-electric-toothbrush-68551",
+        "facts": [
+          "金属质感外壳采用流动轮廓",
+          "完成刷牙后以笑脸动画提供结束反馈",
+          "Gum Pro以不同强度改变马达频率",
+          "压力传感器帮助避免过大刷牙压力"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 Sonicare DiamondClean Essential。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "DiamondClean Essential围绕年轻使用者的日常刷牙习惯，把力度管理和完成反馈装进手柄。它不仅驱动刷头振动，也让设备感知使用者施加的压力，并在一次刷牙结束时给出容易理解的可见回应。",
+    "design": "流动轮廓配金属质感表面，使手柄保持连续，笑脸动画则把刷牙完成表现为清楚状态。压力传感器藏在日常握持和接触流程背后，不要求人主动读取数值，就能在刷牙中增加一层力度提醒与使用反馈。",
+    "usage": "Gum Pro模式以不同强度改变马达频率，并在末段提供较轻柔的振动。刷牙过程中压力传感器帮助避免过大用力，完成时笑脸动画给出结束信号；振动、压力和显示分别处理清洁动作、手部力度与时间节点。",
+    "significance": "它把护理设备的反馈从单纯“开或关”拓展到过程与结束。使用者不必一直盯着屏幕，马达变化和压力感知在动作中工作，结束动画再确认一次习惯已经完成，使电子能力直接服务可重复的身体行为。",
+    "limitationsNarrative": "刷牙压力和完成动画不能替代专业口腔检查，也无法判断所有牙齿或牙龈状况。使用者仍需正确移动刷头、清洁不同区域并定期更换耗材；把手柄握得轻松和读懂反馈，只是护理过程的一部分。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "logitech-yeti-gx",
+    "name": "Yeti GX",
+    "brand": "Logitech",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/logitech-yeti-gx-70564"
+    },
+    "productUrl": "https://www.red-dot.org/project/logitech-yeti-gx-70564",
+    "category": "music",
+    "designDetails": [
+      "单侧支架配内置胶囊减震结构",
+      "塑料件大多使用认证再生材料，机身带LIGHTSYNC灯光"
+    ],
+    "functionDetails": [
+      "超心形动圈胶囊聚焦声音",
+      "软件抑制噪声与键盘敲击声"
+    ],
+    "limitations": [
+      "软件降噪效果依赖设置与声学环境"
+    ],
+    "whyRepresentative": "针对直播桌面把拾音指向性、减震与视觉反馈结合。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/logitech-yeti-gx-70564",
+        "facts": [
+          "单侧支架配内置胶囊减震结构",
+          "塑料件大多使用认证再生材料，机身带LIGHTSYNC灯光",
+          "超心形动圈胶囊聚焦声音",
+          "软件抑制噪声与键盘敲击声"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 Yeti GX。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "Yeti GX针对游戏直播桌面，把收音、抗震和视觉反馈组合在一只动圈麦克风中。主播的声音与键盘、环境噪声常同时发生，设备因此既要支持近距离讲话，也要处理桌面振动和不希望被传出去的声音。",
+    "design": "单侧支架给麦克风主体留下完整轮廓，内部胶囊减震处理结构传来的扰动。RGB LIGHTSYNC灯光用于桌面视觉表达，大多塑料部件采用认证再生材料；支架、胶囊和外壳分别对应摆位、拾音与制造。",
+    "usage": "将麦克风放到合适讲话位置后，超心形动圈胶囊聚焦主要声音方向，软件进一步抑制噪声及键盘点击。主播可以在保持游戏输入的同时讲话；硬件指向性先形成收音基础，数字处理再处理不想要的声学成分。",
+    "significance": "它把直播场景的几种干扰分配到不同设计层。内部减震针对振动，拾音指向针对声音来源，软件针对残余噪声，灯光则参与桌面呈现；这种分工比单独强调麦克风外观或降噪名词更能解释产品。",
+    "limitationsNarrative": "降噪依赖软件设置和实际环境，不能保证所有敲击或背景人声都被完美删除。超心形拾音也需要合理朝向与讲话距离；灯光能配合桌面风格，却不会直接提高录音质量，两类功能应分开理解。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "philips-e7000",
+    "name": "E7000 Monitor",
+    "brand": "Philips TPV",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/philips-e7000-monitor-71203"
+    },
+    "productUrl": "https://www.red-dot.org/project/philips-e7000-monitor-71203",
+    "category": "display",
+    "designDetails": [
+      "简洁紧凑支架减少桌面占用",
+      "27英寸宽屏与细长支撑结构匹配"
+    ],
+    "functionDetails": [
+      "支持升降、旋转和转向调整",
+      "宽画面方便多任务窗口排布"
+    ],
+    "limitations": [
+      "获奖页未给出具体分辨率，不能自行补写"
+    ],
+    "whyRepresentative": "把桌面空间与可调姿势作为显示器核心设计。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/philips-e7000-monitor-71203",
+        "facts": [
+          "简洁紧凑支架减少桌面占用",
+          "27英寸宽屏与细长支撑结构匹配",
+          "支持升降、旋转和转向调整",
+          "宽画面方便多任务窗口排布"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 E7000 Monitor。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "E7000 Monitor围绕家庭办公室的桌面空间与姿势调整设计。27英寸画面需要提供多任务工作区，又不能让庞大底座占去全部台面，因此显示器的支架与屏幕本身一起决定它怎样进入真实工作桌。",
+    "design": "简洁紧凑的支撑结构缩减可见体积，宽屏留给窗口排布。支架支持升降、旋转与转向，屏幕不必始终固定在同一高度和方向；外形的克制因此对应可调整的观看关系，而不仅是边框看起来更薄。",
+    "usage": "用户先按桌面与坐姿调整高度，再根据任务改变屏幕方向和朝向。宽画面可以并排放置窗口，转向或旋转则回应不同内容与交流方式；显示器通过支架改变位置，而不是要求人持续扭转身体适应它。",
+    "significance": "它将显示器的设计价值放到屏幕与人之间的空间。支架占地关系到桌面可用区域，多方向调节关系到观看姿势，宽画面关系到信息布局；这些是能够从每天工作的动作里解释的具体差异。",
+    "limitationsNarrative": "获奖页面没有提供足够信息确认此名称对应的全部分辨率和接口，本文不自行补写。支架可调仍需合适桌深和稳定台面，窗口效率也依赖电脑与应用；27英寸尺寸本身不能保证每种任务都更舒适。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "redmi-g-pro27",
+    "name": "G Pro27 Gaming Monitor",
+    "brand": "Xiaomi Redmi",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/redmi-g-pro27-gaming-monitor-71352"
+    },
+    "productUrl": "https://www.red-dot.org/project/redmi-g-pro27-gaming-monitor-71352",
+    "category": "display",
+    "designDetails": [
+      "27英寸屏配多角度可调支架",
+      "Mini-LED背光控制画面明暗区域"
+    ],
+    "functionDetails": [
+      "2K分辨率和180Hz刷新",
+      "官方记载99% DCI-P3色域覆盖"
+    ],
+    "limitations": [
+      "高刷新率实际输出取决于显卡和连接设置"
+    ],
+    "whyRepresentative": "将局部背光和高刷新率结合于桌面游戏显示。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/redmi-g-pro27-gaming-monitor-71352",
+        "facts": [
+          "27英寸屏配多角度可调支架",
+          "Mini-LED背光控制画面明暗区域",
+          "2K分辨率和180Hz刷新",
+          "官方记载99% DCI-P3色域覆盖"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 G Pro27 Gaming Monitor。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "Redmi G Pro27将高刷新游戏显示与Mini-LED局部亮度控制结合在27英寸桌面设备中。它面对快速运动画面的连续性，也处理亮暗场景中的对比，因此屏幕技术与可调支架共同服务于游戏观看位置。",
+    "design": "显示面板由可调整角度的支架承托，使用者能按照桌面和视线安排屏幕。Mini-LED背光将亮度控制细化到局部区域，外观并不需要把这些内部发光结构全部暴露，显示性能由屏幕内层承担。",
+    "usage": "接入支持的电脑信号后，2K画面与最高180Hz刷新用于快速显示；官方还列出99% DCI-P3色域覆盖。使用者先调整支架与观看位置，再按游戏和电脑输出设置选择模式，让画面能力与实际信号配合。",
+    "significance": "它展示桌面游戏屏从单一刷新率竞争走向同时管理时间与亮度。刷新率处理画面更新，Mini-LED处理明暗区域，支架处理人的位置；这三种设计分别作用在不同层面，最终汇合成一次观看体验。",
+    "limitationsNarrative": "180Hz需要电脑、接口和内容支持，色域覆盖也不意味着所有内容自动色准正确。局部背光效果随画面变化，观看角度与环境照明仍需调整；不能把标称参数直接等同于任何游戏都能获得的表现。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "xiaomi-g34wq",
+    "name": "34-inch Curved Monitor G34WQ",
+    "brand": "Xiaomi",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/xiaomi-34-inch-curved-monitor-g34wq-71355"
+    },
+    "productUrl": "https://www.red-dot.org/project/xiaomi-34-inch-curved-monitor-g34wq-71355",
+    "category": "display",
+    "designDetails": [
+      "34英寸21:9宽屏采用1500R曲率",
+      "横向宽画面适合并排窗口"
+    ],
+    "functionDetails": [
+      "3440×1440分辨率",
+      "支持分屏与画中画配置，官方列100% sRGB覆盖"
+    ],
+    "limitations": [
+      "宽曲面需要相应桌面深度与内容布局"
+    ],
+    "whyRepresentative": "让一块连续曲面同时承担游戏视野与多任务工作区。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/xiaomi-34-inch-curved-monitor-g34wq-71355",
+        "facts": [
+          "34英寸21:9宽屏采用1500R曲率",
+          "横向宽画面适合并排窗口",
+          "3440×1440分辨率",
+          "支持分屏与画中画配置，官方列100% sRGB覆盖"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 34-inch Curved Monitor G34WQ。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "G34WQ以34英寸21:9画面扩大横向工作与游戏视野。它不是简单把普通屏幕放大，而是让较宽内容在1500R曲面上展开，使用者面对的是一块连续表面，而不是两台显示器之间的边框断点。",
+    "design": "宽曲面把屏幕两侧朝使用者包围，3440×1440的像素空间容纳横向内容与并排窗口。弯曲结构与超宽比例共同决定桌面深度和坐姿关系，外壳因此需要被当作一整块观看空间来安排。",
+    "usage": "游戏中可用宽画面获得连续视野，工作时则把不同窗口并排；设备还支持分屏和画中画配置。用户应根据所接信号选择布局，再安排坐姿与观看距离，使超宽表面真正服务于需要同时查看的信息。",
+    "significance": "它把屏幕扩展从“更多台”转为“一块更宽的连续面”。曲率缓和两侧与人的空间关系，分屏功能重新划分逻辑区域，物理连续与内容分区由此共存，适合观察显示器如何参与桌面工作方式的变化。",
+    "limitationsNarrative": "超宽比例需要应用和游戏正确支持，未适配内容可能不能充分利用两侧空间。34英寸机身也需要足够桌宽与深度；曲面和分屏提高布局选择，却不会自动替用户决定信息优先级或提供更好的坐姿。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "revlon-airflow-control",
+    "name": "Airflow Control",
+    "brand": "Revlon",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/revlon-airflow-control-68648"
+    },
+    "productUrl": "https://www.red-dot.org/project/revlon-airflow-control-68648",
+    "category": "care",
+    "designDetails": [
+      "旋转集风嘴方便配合梳子改变方向",
+      "加长圆润手柄搭配哑光到亮光的表面过渡"
+    ],
+    "functionDetails": [
+      "集中气流可针对刘海和卷曲造型",
+      "大扩散风嘴面向卷发使用"
+    ],
+    "limitations": [
+      "造型仍需手工配合梳具，不是自动卷发设备"
+    ],
+    "whyRepresentative": "把气流方向调整做成出风口本身的机械结构。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/revlon-airflow-control-68648",
+        "facts": [
+          "旋转集风嘴方便配合梳子改变方向",
+          "加长圆润手柄搭配哑光到亮光的表面过渡",
+          "集中气流可针对刘海和卷曲造型",
+          "大扩散风嘴面向卷发使用"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 Airflow Control。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "Revlon Airflow Control把吹风时不断改变气流方向的动作移到旋转风嘴上。用户通常一手持吹风机、一手持梳，设备需要让两只手更容易配合，而不是要求手腕为了每一束头发反复改变角度。",
+    "design": "集风嘴可旋转，窄截面聚焦气流，长圆润手柄则帮助机身转动和定位。外表从哑光过渡到亮光，附带的大扩散风嘴面向卷发；两种附件分别表达集中吹整与更分散的气流用途。",
+    "usage": "用梳子处理刘海或局部造型时，可以转动风嘴把气流对准所需方向；处理卷发则换用较大的扩散附件。用户仍操纵吹风机和梳具，但出风口增加了调整自由度，不必每次连同整个机身一起转向。",
+    "significance": "它把一个常见动作中的重复困难落实成机械调节。旋转结构处理气流朝向，手柄处理握持，大扩散附件处理不同发型；产品的区别因此能从一只手如何配合另一只手解释，而不只靠功率或颜色。",
+    "limitationsNarrative": "旋转风嘴并不自动完成造型，仍需要使用者安排距离、温度和梳具动作。不同发质与发型也需要不同方法；附件增加灵活性，同时带来收纳和清洁要求，不能将全部护理结果归于风嘴结构。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "jbl-partybox-wireless-mic",
+    "name": "PartyBox Wireless Mic",
+    "brand": "JBL",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/jbl-partybox-wireless-mic-70481"
+    },
+    "productUrl": "https://www.red-dot.org/project/jbl-partybox-wireless-mic-70481",
+    "category": "music",
+    "designDetails": [
+      "橙色橡胶环同时标识品牌并防止麦克风滚落",
+      "凹陷胶囊形电源键减少误触"
+    ],
+    "functionDetails": [
+      "接收器可接带麦克风接口的音箱",
+      "无线手持使用减少演唱活动中的线缆"
+    ],
+    "limitations": [
+      "音箱需要匹配麦克风输入接口"
+    ],
+    "whyRepresentative": "用小型防滚与防误触细节改善共享娱乐场景。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/jbl-partybox-wireless-mic-70481",
+        "facts": [
+          "橙色橡胶环同时标识品牌并防止麦克风滚落",
+          "凹陷胶囊形电源键减少误触",
+          "接收器可接带麦克风接口的音箱",
+          "无线手持使用减少演唱活动中的线缆"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 PartyBox Wireless Mic。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "PartyBox Wireless Mic面向聚会中轮流拿取和演唱的场景，重点是让麦克风容易连接、容易放下而不滚动，也不因手握位置变化而误触电源。设计由这些简单但频繁发生的动作展开。",
+    "design": "麦克风头上的两条橙色橡胶环既识别品牌，也阻止圆柱机身在桌面滚动。电源键做成凹陷胶囊形，置于更大的标识区域中，使手掌滑过时不容易误按；小细节分别处理放下与握持两种状态。",
+    "usage": "将配套接收器接到带麦克风输入的音箱，再拿起无线手持麦克风演唱。结束或交给下一位时可直接放在桌面，橡胶环帮助保持位置；无线连接则减少多人活动时线缆缠绕和需要传递整段电线的问题。",
+    "significance": "它用两个很具体的结构改善共享娱乐场景。橡胶环同时负责识别与防滚，凹键处理误触，接收器处理不同音箱的连接；这些变化没有增加复杂界面，却让连接、拿取和放下连续得更顺手。",
+    "limitationsNarrative": "音箱仍需具备相容麦克风输入，不能把接收器理解为所有扬声器都可直接使用。无线链路也受环境和距离影响；防滚橡胶只能减少桌面滚动，并不能保证在倾斜或拥挤表面上完全不会跌落。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "arcway-x",
+    "name": "Arcway X",
+    "brand": "ArcTec",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/arcway-x-70509"
+    },
+    "productUrl": "https://www.red-dot.org/project/arcway-x-70509",
+    "category": "music",
+    "designDetails": [
+      "接收机用OLED触屏集中显示操作",
+      "麦克风和接收机采用相互呼应的轮廓和界面"
+    ],
+    "functionDetails": [
+      "支持192kHz/24bit录音和双麦克风立体声",
+      "提供安全音轨，官方描述无线最远250米"
+    ],
+    "limitations": [
+      "250米为理想条件能力，障碍物与干扰影响距离"
+    ],
+    "whyRepresentative": "把便携无线收音、安全备份和现场设置集中在小型系统。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/arcway-x-70509",
+        "facts": [
+          "接收机用OLED触屏集中显示操作",
+          "麦克风和接收机采用相互呼应的轮廓和界面",
+          "支持192kHz/24bit录音和双麦克风立体声",
+          "提供安全音轨，官方描述无线最远250米"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 Arcway X。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "Arcway X针对内容创作者与音乐人的移动收音，将双麦克风、接收显示和安全音轨组合成一套系统。它需要兼顾现场快速设置与录制可靠性，让声音来源从镜头附近扩展到更自由的位置。",
+    "design": "接收机用OLED触屏集中呈现操作，麦克风和接收机采用互相对应的轮廓与界面。人可以从接收端管理信息，而麦克风继续留在声源附近；同一设计语言帮助辨认两者属于共同工作的一套工具。",
+    "usage": "用户按需要使用两个麦克风做立体声录音，并从接收机触屏检查状态。设备支持192kHz/24bit记录与安全音轨，录制中为数据保留另一层保障；无线传输让接收端和声源位置不必紧贴。",
+    "significance": "它的代表性在于把现场收音中的自由与备份同时考虑。无线减少线缆约束，双麦克风提供声源安排，安全音轨回应录制不可重来的风险，OLED则让这些能力有可查看和操作的入口。",
+    "limitationsNarrative": "官方最远250米传输是特定条件下的能力，障碍物和干扰会改变结果。安全音轨减少部分风险，却不等于任何故障都不会丢数据；仍需正确设置电平、保持电量，并在关键录制前确认真实连接状态。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "797-doughnut",
+    "name": "Doughnut",
+    "brand": "797 Audio",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/doughnut-70544"
+    },
+    "productUrl": "https://www.red-dot.org/project/doughnut-70544",
+    "category": "music",
+    "designDetails": [
+      "可回收锌合金主体由灯带分隔上下两部",
+      "减少实体按键以降低成本和视觉负担"
+    ],
+    "functionDetails": [
+      "灯带颜色提示工作状态",
+      "驻极体胶囊用于录音"
+    ],
+    "limitations": [
+      "获奖页未列指向性及连接协议，不宜补写"
+    ],
+    "whyRepresentative": "把状态指示和外壳分界合成同一条灯带。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/doughnut-70544",
+        "facts": [
+          "可回收锌合金主体由灯带分隔上下两部",
+          "减少实体按键以降低成本和视觉负担",
+          "灯带颜色提示工作状态",
+          "驻极体胶囊用于录音"
+        ],
+        "yearEvidence": "实际读取的官方型号明细页页首：Back Product Design 2024 Doughnut。搜索读取结果显示该年度栏目，不依据项目ID。"
+      }
+    ],
+    "context": "Doughnut麦克风围绕较少控制和易理解状态设计。它将上下机身的分界变成一条灯带，让声音设备在录音之外还能清楚显示工作状态；外壳因此同时承担结构、触感和信息提示。",
+    "design": "可回收锌合金主体由灯带分隔为上下两部，减少实体按键控制制造成本和视觉复杂度。灯带在轮廓上是分界，在使用中又以颜色变化提示状态，避免另外增加一块显示屏来承担简单反馈。",
+    "usage": "录音由驻极体胶囊完成，用户从颜色变化了解当前工作状态。较少实体按钮使主要动作集中，但也需要先认识不同灯色的含义；录音时的音源位置和声音大小仍通过实际摆位与设置来管理。",
+    "significance": "它把状态提示做成外形的一部分。灯带既组织比例，又传递工作信息，锌合金机身保留清楚触感，减少按键则让产品更容易以低复杂度制造；功能与成本在可见结构上形成对应。",
+    "limitationsNarrative": "获奖记录没有列出完整指向性和连接协议，不能自行补充它适合的所有录音系统。减少按钮也可能把部分设置交给配套设备；使用者需要辨认灯色，并通过实际监听确认收音，而不能只看外壳状态。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "spectrum-wifi6e-mdu",
+    "name": "Advanced WiFi 6E Multi-Dwelling Unit Router",
+    "brand": "Spectrum",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/advanced-wifi-6e-multi-dwelling-unit-router-71036"
+    },
+    "productUrl": "https://www.red-dot.org/project/advanced-wifi-6e-multi-dwelling-unit-router-71036",
+    "category": "smart-home",
+    "designDetails": [
+      "低调紧凑外壳面向公寓永久安装",
+      "可隐藏线缆，减少房间内杂乱"
+    ],
+    "functionDetails": [
+      "提供Wi-Fi 6E网络接入",
+      "围绕多住户建筑的安装和维护优化"
+    ],
+    "limitations": [
+      "面向运营商固定安装场景，非普通自由摆放消费路由器"
+    ],
+    "whyRepresentative": "把网络基础设施的线缆和安装问题纳入家居设计。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/advanced-wifi-6e-multi-dwelling-unit-router-71036",
+        "facts": [
+          "低调紧凑外壳面向公寓永久安装",
+          "可隐藏线缆，减少房间内杂乱",
+          "提供Wi-Fi 6E网络接入",
+          "围绕多住户建筑的安装和维护优化"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Advanced WiFi 6E Multi-Dwelling Unit Router；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "这台Spectrum Wi-Fi 6E路由器面向公寓等多住户建筑的永久安装。与经常被拿起设置的小型配件不同，它需要在布置完成后长期稳定工作，因此易安装、隐藏线缆和低干扰外观成为同样重要的设计条件。",
+    "design": "紧凑低调外壳将线缆收拢在不显眼的位置，减少墙面或室内空间的零乱。壳体没有依靠大量外伸部件表现网络能力，而是让固定安装后的整体保持安静，使设备能够成为建筑服务设施的一部分。",
+    "usage": "安装人员在合适位置完成网络与线缆连接，住户再通过Wi-Fi接入设备。路由器在后台持续提供无线服务，日常用户不必反复接触机身；清楚的安装关系让后续更换或检查时能找到设备与线缆路径。",
+    "significance": "它把网络性能之外的部署问题转成设计内容。公寓环境里，设备需要既能到达用户又不妨碍生活，藏线和紧凑外壳因此具有实际作用；这类基础设施的易用性往往首先体现在安装与维护人员的动作上。",
+    "limitationsNarrative": "它针对运营商和多住户建筑部署，不能直接按任意家用路由器的零售使用方式理解。网络覆盖仍受建筑布局和安装位置影响；藏线也需要给检查、散热和连接保留空间，整洁不应换来无法维护。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "honeywell-8675i",
+    "name": "8675i Wearable Scanner with Glove",
+    "brand": "Honeywell",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/8675i-wearable-scanner-with-glove-69594"
+    },
+    "productUrl": "https://www.red-dot.org/project/8675i-wearable-scanner-with-glove-69594",
+    "category": "input-printing",
+    "designDetails": [
+      "柔软氯丁橡胶边缘和无缝腕带提升佩戴舒适性",
+      "橡胶环形扳机配可更换、可机洗绑带"
+    ],
+    "functionDetails": [
+      "无线佩戴式条码扫描使双手可继续搬运",
+      "IP65防护，官方列使用温度-20至50摄氏度"
+    ],
+    "limitations": [
+      "腕带可机洗不代表扫描器本体可机洗"
+    ],
+    "whyRepresentative": "将工业数据输入设备做成可穿戴、可清洗的工作工具。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/8675i-wearable-scanner-with-glove-69594",
+        "facts": [
+          "柔软氯丁橡胶边缘和无缝腕带提升佩戴舒适性",
+          "橡胶环形扳机配可更换、可机洗绑带",
+          "无线佩戴式条码扫描使双手可继续搬运",
+          "IP65防护，官方列使用温度-20至50摄氏度"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 8675i Wearable Scanner with Glove；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "8675i将条码扫描器做成佩戴在手上的工作工具，适合需要持续搬货和识别物品的现场。它要解决的是扫描与抓取交替时反复拿起、放下设备的动作，使输入信息能够与物流操作更连续地发生。",
+    "design": "手带采用柔软氯丁橡胶边缘和无缝处理，橡胶环形扳机把触发位置带到手指附近。绑带可更换并支持机洗，设备主体与接触皮肤的附件因此分开维护，兼顾长期佩戴和多人工作环境的清洁需求。",
+    "usage": "工作人员把扫描器固定到手上，用环形扳机触发条码读取，再继续抓取和搬动物品。无线连接减少缠线，IP65防护和官方列出的-20至50摄氏度范围面向较复杂环境；手上的设备成为动作中的一部分。",
+    "significance": "它把工业数据输入从“拿一台机器”转成“戴一件工具”。扳机位置回应手指动作，绑带回应接触舒适性，附件可清洗回应重复使用；数字识别因此更紧密地嵌入实体物品搬运流程。",
+    "limitationsNarrative": "腕带可机洗不代表扫描器本体可以放进洗衣机，拆洗应按说明进行。防护等级和温度范围也有具体条件；佩戴前需调整尺寸和位置，避免手带或扳机影响抓握，实际识别仍依赖条码状态与系统连接。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "lg-uplus-mesh-router",
+    "name": "Main & Mesh Wi-Fi Router",
+    "brand": "LG Uplus",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/lg-u-main-mesh-wi-fi-router-71009"
+    },
+    "productUrl": "https://www.red-dot.org/project/lg-u-main-mesh-wi-fi-router-71009",
+    "category": "smart-home",
+    "designDetails": [
+      "白色罐状小机身收纳内置天线",
+      "LED显示工作状态而不外露复杂控制"
+    ],
+    "functionDetails": [
+      "连接主路由扩展建筑内网络覆盖",
+      "内置天线缩小外部轮廓"
+    ],
+    "limitations": [
+      "需要配套主路由与网络部署，覆盖受建筑条件影响"
+    ],
+    "whyRepresentative": "用内置天线和小型机身降低网络扩展节点的存在感。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/lg-u-main-mesh-wi-fi-router-71009",
+        "facts": [
+          "白色罐状小机身收纳内置天线",
+          "LED显示工作状态而不外露复杂控制",
+          "连接主路由扩展建筑内网络覆盖",
+          "内置天线缩小外部轮廓"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Main & Mesh Wi-Fi Router；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "LG U+ Main & Mesh Wi-Fi Router为扩大建筑内无线覆盖而设计。扩展节点通常需要放在人活动的区域，它既要让信号到达，也要适应家具和室内布置，因此紧凑外形与内置天线具有直接的部署意义。",
+    "design": "白色罐状壳体把天线收在内部，避免多根外伸天线占据周围空间。LED提供状态信息，连接能力则隐藏在较小体量里；外壳对房间来说是一件低调物件，对网络来说又是需要正确摆放的节点。",
+    "usage": "将节点连接到主路由后，它扩展网络覆盖，用户从LED观察工作状态。部署时可以根据房间关系选择位置，而不是只把设备塞进最隐蔽角落；节点虽小，仍承担与其他网络设备交换信号的任务。",
+    "significance": "它展示Mesh设备如何通过形态改善可放置性。内置天线和圆润小体量减少摆放阻碍，让节点更容易出现在有利覆盖的位置；网络设备的设计价值由此与实际覆盖关系相连，而不是只看参数。",
+    "limitationsNarrative": "扩展覆盖需要主路由和正确组网，不能把单个节点视为无需网络基础的独立互联网来源。墙体、距离和干扰仍影响连接；白色小机身可以融入室内，但遮挡、封闭柜体和拥挤电器区可能不利于运行。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "denon-dp3000ne",
+    "name": "DP-3000NE",
+    "brand": "Denon",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/denon-dp-3000ne-70621"
+    },
+    "productUrl": "https://www.red-dot.org/project/denon-dp-3000ne-70621",
+    "category": "players",
+    "designDetails": [
+      "乌木贴皮与金属转盘、唱臂形成材质对比",
+      "隔振支脚与S形唱臂针对振动控制"
+    ],
+    "functionDetails": [
+      "直驱电机快速达到工作转速",
+      "S形唱臂优化循迹角度和稳定读唱片"
+    ],
+    "limitations": [
+      "黑胶重放需要唱头和音响系统正确搭配"
+    ],
+    "whyRepresentative": "把外观材料、机械隔振和唱臂几何统一到精确重放目标。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/denon-dp-3000ne-70621",
+        "facts": [
+          "乌木贴皮与金属转盘、唱臂形成材质对比",
+          "隔振支脚与S形唱臂针对振动控制",
+          "直驱电机快速达到工作转速",
+          "S形唱臂优化循迹角度和稳定读唱片"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 DP-3000NE；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "DP-3000NE是以机械稳定性服务黑胶重放的唱盘。它的可见部件各有对应任务：转盘维持唱片旋转，唱臂控制唱针沿沟槽移动，底部支脚隔离环境振动，材料和外观因此同时参与聆听系统的搭建。",
+    "design": "深色乌木贴皮与金属转盘、唱臂、控制件形成对比，稳固隔振脚把机身托离支撑平面。S形唱臂并非纯装饰，它对应循迹角度与振动控制；黑色木质体量和亮金属运动部件也让静止结构与工作结构容易辨认。",
+    "usage": "唱片放在转盘后，由直驱电机快速达到工作转速，唱臂负责把唱针带入唱片沟槽。用户在开始聆听前仍需完成系统连接和相关调校；播放时看到的缓慢机械运动，就是声音连续读出的过程，而不是隐藏在屏幕后的文件读取。",
+    "significance": "这件唱盘把精确重放所需的机械关系保留为可观察结构。直驱转盘处理旋转，S形唱臂处理读唱轨迹，隔振脚处理桌面传来的扰动；外观精度由此可以通过部件的实际作用解释，而不只归结为高端材料。",
+    "limitationsNarrative": "它需要与合适的唱头、放大和音箱系统配合，机身本身不是完整音响。唱片状态、唱针设置和摆放平面也影响结果；隔振设计减少部分扰动，却不能取消对支撑稳定、调校和唱片维护的要求。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "xiaomi-router6500pro",
+    "name": "Router 6500 Pro",
+    "brand": "Xiaomi",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/xiaomi-router-6500-pro-71004"
+    },
+    "productUrl": "https://www.red-dot.org/project/xiaomi-router-6500-pro-71004",
+    "category": "smart-home",
+    "designDetails": [
+      "薄型竖直机身减少占地",
+      "可拆盖板兼顾安装和散热"
+    ],
+    "functionDetails": [
+      "作为小米设备的中央网关",
+      "通过Wi-Fi及蓝牙连接物联网设备"
+    ],
+    "limitations": [
+      "智能家居整合依赖支持的设备和生态"
+    ],
+    "whyRepresentative": "将无线路由与智能家居网关收入薄型竖直外壳。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/xiaomi-router-6500-pro-71004",
+        "facts": [
+          "薄型竖直机身减少占地",
+          "可拆盖板兼顾安装和散热",
+          "作为小米设备的中央网关",
+          "通过Wi-Fi及蓝牙连接物联网设备"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Router 6500 Pro；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Router 6500 Pro把家庭路由与小米设备网关能力放到同一薄型机身中。它需要连接普通上网设备，也要接入Wi-Fi和蓝牙物联网终端，因此长期运行、低延迟连接与室内摆放共同构成产品任务。",
+    "design": "竖直方形外壳减少桌面占地，可拆盖板帮助安装与散热。没有把机身做成平摊的大盒子，而是通过竖向体量组织内部电子结构，使网络中心更容易留在家具边缘，同时保留维护时打开的可能。",
+    "usage": "用户完成网络配置后，可让路由器连接上网终端，并作为兼容小米设备的中央网关。Wi-Fi和蓝牙承担不同设备的接入，薄型机身则长期留在合适位置；日常使用多发生在所连设备上而非路由器面板。",
+    "significance": "它的代表性是把家庭网络中心与物联网入口合并。路由连接处理数据通路，网关处理设备生态，竖直外壳处理空间和热量；几种工作虽然不常被用户看见，却共同决定智能家居设备如何持续在线。",
+    "limitationsNarrative": "中央网关能力依赖支持的设备和生态，不能把所有蓝牙或Wi-Fi设备都视为自动兼容。薄型外壳仍需要通风，盖板也应按说明拆装；家庭网络质量还受宽带、摆位、墙体和同时运行的终端影响。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "osstem-onescan-o",
+    "name": "OneScan O",
+    "brand": "OSSTEM",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/onescan-o-69939"
+    },
+    "productUrl": "https://www.red-dot.org/project/onescan-o-69939",
+    "category": "care",
+    "designDetails": [
+      "可反转圆润探头适应狭窄口腔角度",
+      "曲线机身围绕医生手持扫描动作"
+    ],
+    "functionDetails": [
+      "获取三维数字牙模并实时反馈扫描状态",
+      "防雾技术保持镜面可用，数据可用于义齿或牙套制造"
+    ],
+    "limitations": [
+      "专业牙科器械，需要医生操作和配套数字工作流"
+    ],
+    "whyRepresentative": "以光学数字印模替代传统橡胶印模步骤。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/onescan-o-69939",
+        "facts": [
+          "可反转圆润探头适应狭窄口腔角度",
+          "曲线机身围绕医生手持扫描动作",
+          "获取三维数字牙模并实时反馈扫描状态",
+          "防雾技术保持镜面可用，数据可用于义齿或牙套制造"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 OneScan O；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "OneScan O面向牙科数字印模，用光学扫描取得口腔三维数据。它要代替的不只是传统橡胶材料，也包括医生在狭窄空间中调整角度、确认是否扫描完整，再将结果交给后续制作人员的整条工作路径。",
+    "design": "圆润探头能够反转，帮助医生接近不同角度与狭窄位置，曲线机身服务手持动作。镜面防雾和口腔温度控制则处理持续扫描条件，让光学采集不必频繁因镜面状态变化而中断。",
+    "usage": "医生移动探头扫描口腔，同时从系统获得实时状态反馈，确认哪些区域已经形成数据。三维数字印模随后进入牙科技工流程，可用于义齿或牙套等制作；扫描动作与后续制造由数字数据衔接。",
+    "significance": "它把传统印模中的材料接触转成可检查、可传递的数字采集。探头转向处理人体空间，防雾处理光学可用性，实时反馈处理完整性判断；这些部件分别对应临床动作中的实际困难。",
+    "limitationsNarrative": "这是专业牙科器械，需要医生操作、合适扫描流程和后续数据处理。取得三维图像不等于义齿或牙套已经完成，成品仍需设计与检查；防雾结构也不能替代探头清洁和专业卫生流程。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "shining-aoralscan3-wireless",
+    "name": "Aoralscan 3 Wireless",
+    "brand": "SHINING 3D",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/aoralscan-3-wireless-69950"
+    },
+    "productUrl": "https://www.red-dot.org/project/aoralscan-3-wireless-69950",
+    "category": "care",
+    "designDetails": [
+      "330克机身配单键操作",
+      "光滑表面结合不同色彩材料，附不同扫描头"
+    ],
+    "functionDetails": [
+      "动作传感器简化扫描流程",
+      "Wi-Fi 6与软件同步，带防雾系统"
+    ],
+    "limitations": [
+      "需配套口扫软件及专业操作"
+    ],
+    "whyRepresentative": "用无线连接和单键操作减少口扫过程中的线缆和界面切换。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/aoralscan-3-wireless-69950",
+        "facts": [
+          "330克机身配单键操作",
+          "光滑表面结合不同色彩材料，附不同扫描头",
+          "动作传感器简化扫描流程",
+          "Wi-Fi 6与软件同步，带防雾系统"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Aoralscan 3 Wireless；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Aoralscan 3 Wireless在口腔扫描工作中减少线缆牵扯，同时保留实时软件连接。设计面对医生持机绕口腔移动的动作，重量、单键操作和防雾结构都与连续采集有关，而不是把无线本身当成唯一目标。",
+    "design": "330克机身以光滑表面和协调色块形成易握轮廓，单键把常用操作集中到手指附近。不同附件适应扫描需求，内部动作传感器辅助控制，使医生在保持握持时就能完成部分操作，减少跨到电脑端的动作。",
+    "usage": "扫描时使用者手持探头沿所需区域移动，Wi-Fi 6将数据与配套软件同步，防雾系统维持镜面状态。单键和动作感知让控制留在扫描动作附近；医生继续根据屏幕和专业流程确认数据是否满足要求。",
+    "significance": "它用无线连接改变临床工具与电脑之间的物理关系。线缆减少后，重量与握持变得更重要，单键和动作控制再降低频繁切换界面的需要，展示数字采集设备如何围绕操作者移动路径设计。",
+    "limitationsNarrative": "无线同步仍依赖配套软件和可靠网络，不能把失去线缆理解为完全独立运行。专业人员仍需检查扫描完整性并处理附件清洁；330克是整机重量描述，个人长时间操作的舒适性也受握法和任务影响。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "asus-rtbe58u",
+    "name": "RT-BE58U",
+    "brand": "ASUS",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/rt-be58u-71024"
+    },
+    "productUrl": "https://www.red-dot.org/project/rt-be58u-71024",
+    "category": "smart-home",
+    "designDetails": [
+      "多方向散热开孔配可调天线",
+      "约三分之一机身采用再生塑料"
+    ],
+    "functionDetails": [
+      "2.5G端口优先流量与灵活WAN/LAN配置",
+      "支持移动游戏模式和四根高增益天线"
+    ],
+    "limitations": [
+      "网络延迟仍取决于上游线路与无线干扰"
+    ],
+    "whyRepresentative": "让入门游戏网络需求落实为端口、散热和外部天线。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/rt-be58u-71024",
+        "facts": [
+          "多方向散热开孔配可调天线",
+          "约三分之一机身采用再生塑料",
+          "2.5G端口优先流量与灵活WAN/LAN配置",
+          "支持移动游戏模式和四根高增益天线"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 RT-BE58U；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "RT-BE58U面向入门游戏网络，把散热、端口和无线信号安排到一台桌面路由器中。持续游戏不只需要某个标称速度，也需要设备在多终端连接时处理流量，并能放在合适位置保持工作。",
+    "design": "多方向开孔形成散热路径，可调角度的四根高增益天线让摆放仍有调整空间。约三分之一机身使用再生塑料，外形保持简洁；天线、开孔和端口是可见结构中与运行最直接相关的部分。",
+    "usage": "用户可按网络需要配置WAN与LAN，利用2.5G端口和流量优先级安排连接；移动游戏模式进一步针对手机游戏。部署时同时调整天线和机身位置，留出散热空间，而不是只在软件中切换一个模式。",
+    "significance": "它将游戏路由的定位落实为具体连接和热管理。端口决定有线设备如何接入，优先级处理共享网络任务，天线和开孔处理无线覆盖与连续运行；这种分工让游戏外设的能力能够从结构和设置解释。",
+    "limitationsNarrative": "游戏模式不能消除上游线路、服务器或无线干扰造成的全部延迟。2.5G连接也需要其他设备相容，天线调整需结合现场效果；再生塑料比例不意味着整机不需正确散热和后续电子废弃物处理。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "acer-predator-t7",
+    "name": "Predator Connect T7 Wi-Fi 7 Mesh Router",
+    "brand": "Acer",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/predator-connect-t7-wi-fi-7-mesh-router-71233"
+    },
+    "productUrl": "https://www.red-dot.org/project/predator-connect-t7-wi-fi-7-mesh-router-71233",
+    "category": "smart-home",
+    "designDetails": [
+      "顶部散热槽之间布置蓝色状态灯",
+      "后侧集中连接接口，前部保持简洁"
+    ],
+    "functionDetails": [
+      "Wi-Fi 7配MLO多链路功能",
+      "支持Mesh组网与最高256设备连接"
+    ],
+    "limitations": [
+      "连接数上限不等于所有设备可同时满速"
+    ],
+    "whyRepresentative": "把组网节点的散热、指示和接口整合成干净的外壳。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/predator-connect-t7-wi-fi-7-mesh-router-71233",
+        "facts": [
+          "顶部散热槽之间布置蓝色状态灯",
+          "后侧集中连接接口，前部保持简洁",
+          "Wi-Fi 7配MLO多链路功能",
+          "支持Mesh组网与最高256设备连接"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Predator Connect T7 Wi-Fi 7 Mesh Router；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Predator Connect T7把Wi-Fi 7和Mesh组网放进简洁路由节点中，面向多设备和较大住宅。它不仅要在单个位置提供无线连接，也要与其他节点协作，因此状态反馈、接口方向和散热都要适合长期摆放。",
+    "design": "顶部通风槽之间布置蓝色灯光，前方也用灯显示状态，后侧集中连接接口。需要观察的信息朝向用户，线缆则尽量留在背面，顶部开孔继续为热量提供路径，形成清楚的前、后、上三种分工。",
+    "usage": "完成组网后，MLO多链路功能在无线链路之间协同工作，Mesh帮助覆盖不同房间。官方列最高256设备连接能力；用户从状态灯了解运行，再根据住宅条件安排节点位置与上游连接。",
+    "significance": "它让路由器的简单外观对应不同位置的实际任务。前部灯光供人查看，后侧接口接线，顶部结构散热，内部再处理多链路与Mesh；网络技术虽然隐藏在壳内，使用关系仍能从可见组织中读出。",
+    "limitationsNarrative": "256设备是连接能力上限，不能理解为所有设备可同时满速传输，也不能保证任何房型都没有延迟。MLO和Wi-Fi 7需要终端支持，Mesh节点位置同样重要；装进封闭柜体可能妨碍散热与无线表现。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "pegiant-power-station",
+    "name": "Portable Power Station",
+    "brand": "Pegiant",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/pegiant-portable-power-station-68146"
+    },
+    "productUrl": "https://www.red-dot.org/project/pegiant-portable-power-station-68146",
+    "category": "environment",
+    "designDetails": [
+      "肩包式提携轮廓配倾斜操作面板",
+      "梯形机身和爪形脚提高不平地面稳定性"
+    ],
+    "functionDetails": [
+      "磷酸铁锂电池提供移动供电；官网MItos Y700持续700W、U-Thrust最高1000W",
+      "支持太阳能板、市电或汽车充电"
+    ],
+    "limitations": [
+      "需核对所接负载的持续与峰值功率"
+    ],
+    "whyRepresentative": "把户外搬运、读屏角度和落地稳定同时纳入电源设计。",
+    "commercialStatus": "获奖登记名为Portable Power Station；官网对应形态MItos Y700已商业销售，但精确型号映射仍需厂家明确说明",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/pegiant-portable-power-station-68146",
+        "facts": [
+          "肩包式提携轮廓配倾斜操作面板",
+          "梯形机身和爪形脚提高不平地面稳定性",
+          "磷酸铁锂电池提供1000瓦输出",
+          "支持太阳能板、市电或汽车充电"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Portable Power Station；年度来自栏目文本而非项目编号。"
+      },
+      {
+        "url": "https://pegiant.com/products/mitos-y700-solar-generator-pv100",
+        "facts": [
+          "官网MItos Y700为肩包式，307Wh及700W持续输出，U-Thrust模式最高1000W",
+          "获奖登记名未直接注明Y700，因此仅用于辨认产品范围，不混合重量等矛盾参数"
+        ]
+      }
+    ],
+    "context": "Pegiant获奖作品以肩包式便携电源为核心，官网MItos Y700呈现相同的斜面和跨身携带思路。它把电源从只能拎在手里的盒子转为可背负工具，面向带着相机、电脑等电子设备移动的户外使用。",
+    "design": "倾斜操作面板便于俯视，梯形机身和爪形脚为落地稳定服务，背带释放搬运时的一只手。磷酸铁锂电池收在紧凑机身里，外部接口集中安排，使携带姿态与使用时读取、连接的姿态各有对应结构。",
+    "usage": "到达场地后放稳电源，连接相机、电脑或其他匹配负载，使用后再通过市电、汽车或太阳能板补电。官网将700瓦持续输出与最高1000瓦U-Thrust能力区分；选负载时应按相应模式核对，而非只看最高数字。",
+    "significance": "它的设计重点是能源设备的搬运方式。背带改变双手分配，斜面改变看屏角度，支脚改变不平地面的落位；这些人体与地面的关系，让便携电源的区别能从真实移动场景理解。",
+    "limitationsNarrative": "红点登记名为Pegiant Portable Power Station，没有直接写Y700；本文保留这个获奖范围，不把官网参数全部自动归入所有版本。官网的持续输出与U-Thrust值不同，供电前仍应核对设备铭牌与负载条件。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "mijia-3d-printer",
+    "name": "3D Printer",
+    "brand": "Xiaomi MIJIA",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/mijia-3d-printer-69612"
+    },
+    "productUrl": "https://www.red-dot.org/project/mijia-3d-printer-69612",
+    "category": "making",
+    "designDetails": [
+      "橙色上盖可观察打印状态，同时阻挡紫外线",
+      "固化托盘与料槽上下堆叠，隔离不需要固化的材料"
+    ],
+    "functionDetails": [
+      "在一台设备中完成打印和固化",
+      "自动供料与回流系统监测液位"
+    ],
+    "limitations": [
+      "树脂打印仍需正确处理材料与后处理，外壳不是免防护承诺"
+    ],
+    "whyRepresentative": "将打印、材料管理和固化整合到家庭体量机身。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/mijia-3d-printer-69612",
+        "facts": [
+          "橙色上盖可观察打印状态，同时阻挡紫外线",
+          "固化托盘与料槽上下堆叠，隔离不需要固化的材料",
+          "在一台设备中完成打印和固化",
+          "自动供料与回流系统监测液位"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 3D Printer；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "米家3D打印机围绕家用树脂打印中分散的材料与固化步骤设计。它不仅让三维模型变成实体，还把液体材料的供给、回流和成品固化安排到同一机身，使不同工作阶段能在较小的家庭空间内衔接。",
+    "design": "橙色上盖在遮挡紫外线的同时保留对内部打印状态的观察。固化托盘和材料槽上下堆叠，并以结构隔离不应固化的液体；盖板颜色、可视范围与内部层级共同告诉使用者哪些空间在工作、哪些材料需要保护。",
+    "usage": "打印过程中，自动供料与回流系统监测液位，减少频繁手动添加材料的需要。成品制作后的固化也可在设备中完成，材料槽与固化区域各司其职；用户仍要根据模型、材料与操作说明安排取件和后续处理。",
+    "significance": "它的代表性在于把数字制造的周边步骤纳入产品形态。自动液位管理处理连续供料，遮光上盖让过程可看而不过度暴露光源，堆叠区域再减少多台设备间的搬运，形成比单一打印动作更完整的家庭工具。",
+    "limitationsNarrative": "一体化不等于树脂材料不再需要正确处理。取件、清理和废料管理仍要按材料要求进行，橙色盖板也只对应规定结构下的光线防护；模型支撑与后处理会影响成品用途，不能把自动供料理解成任何模型都能直接成功。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "anker-solix-f3800",
+    "name": "SOLIX F3800",
+    "brand": "Anker",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/anker-solix-f3800-69253"
+    },
+    "productUrl": "https://www.red-dot.org/project/anker-solix-f3800-69253",
+    "category": "environment",
+    "designDetails": [
+      "哑光表面弱化大容量设备的工业感",
+      "可移动的紧凑外壳适合家庭备电布置"
+    ],
+    "functionDetails": [
+      "3.8kWh容量并可接扩展电池",
+      "支持三种快速充电模式，官方列一小时充至80%"
+    ],
+    "limitations": [
+      "全屋备电需要相应安装和配套设备，不能仅插上即覆盖所有家庭回路"
+    ],
+    "whyRepresentative": "把户外储能形态扩展到可扩容家庭备用能源系统。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/anker-solix-f3800-69253",
+        "facts": [
+          "哑光表面弱化大容量设备的工业感",
+          "可移动的紧凑外壳适合家庭备电布置",
+          "3.8kWh容量并可接扩展电池",
+          "支持三种快速充电模式，官方列一小时充至80%"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 SOLIX F3800；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "SOLIX F3800把便携储能扩展到家庭应急供电，主机容量为3.8kWh，并可连接额外电池。它面对的不只是给一台笔记本补电，而是家中停电、房车或更大负载需要持续能源时，怎样安排移动与扩容。",
+    "design": "哑光外壳将较大容量系统收拢成可移动机身，减少设备在家庭中的工业感。扩展连接让能源容量不必全部固定在一台主机内，基础机身与附加电池分担不同体量，用户可以按需要建立更大的供电组合。",
+    "usage": "用户根据负载连接设备，再选择相应充电方式补充能源。官方描述三种快充模式及一小时充至80%的能力，最多十二只附加电池可组成更大系统；供电与扩容因此是需要分别安排的两条操作路径。",
+    "significance": "它适合观察移动电源如何走向家庭能源基础设施。主机处理日常连接与移动，扩展电池处理持续容量，充电模式处理补能速度，产品范围从单台电子附件延伸到一套需要规划的能源系统。",
+    "limitationsNarrative": "全屋备用供电需要相应配套与安装，不能仅凭主机容量就推断可直接覆盖所有家庭回路。负载的持续及启动功率也需核对，扩容会增加设备数量和空间；本条与B的F3800相同，只保留证据，不重复计数。",
+    "duplicateOf": "anker-solix-f3800-portable-power-station",
+    "integrationStatus": "与B同一产品，保留证据但不重复计数",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "samsung-galaxy-watch6",
+    "name": "Galaxy Watch6",
+    "brand": "Samsung",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/galaxy-watch6-70842"
+    },
+    "productUrl": "https://www.red-dot.org/project/galaxy-watch6-70842",
+    "category": "watches",
+    "designDetails": [
+      "屏幕到表耳形成连续轮廓",
+      "对称控制布局保持传统腕表的整洁感"
+    ],
+    "functionDetails": [
+      "相较前代显示面积增加20%",
+      "提供健康追踪与室内外日常使用功能"
+    ],
+    "limitations": [
+      "健康追踪功能不等于医疗诊断，具体功能受地区和设备支持限制"
+    ],
+    "whyRepresentative": "以传统腕表形态收纳更大的数字显示界面。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/galaxy-watch6-70842",
+        "facts": [
+          "屏幕到表耳形成连续轮廓",
+          "对称控制布局保持传统腕表的整洁感",
+          "相较前代显示面积增加20%",
+          "提供健康追踪与室内外日常使用功能"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Galaxy Watch6；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Galaxy Watch6在传统圆形腕表轮廓中扩大数字显示面积。屏幕、表耳与侧面控制都围绕腕部尺寸安排，目标是在日常抬腕时读到更多内容，同时保持一件可以持续佩戴的腕上物件。",
+    "design": "屏幕到表耳形成连续轮廓，对称控制位置保持整洁，较前代增大20%的显示区域被收入熟悉的圆形外观。数字界面扩大后，外壳仍以腕表的边界组织它，避免让手腕上的设备只像缩小的手机屏幕。",
+    "usage": "使用者抬腕查看信息，通过屏幕和侧面控制访问功能，并在日常活动中使用健康追踪。更大显示区域减少同等体量内界面的局促感，圆形外壳则继续跟随手腕，信息查看与身体活动因此交替发生。",
+    "significance": "它适合观察传统腕表与数字界面的相互调整。表耳承接佩戴，圆形屏承接信息，侧控承接动作，显示面积变化再改变可见内容；产品的意义来自这些结构如何协调，而不只是代际性能提升。",
+    "limitationsNarrative": "健康追踪受正确佩戴、软件和地区支持影响，不能直接等同于医疗诊断。更大的屏幕也不会取消小尺寸界面的限制；是否舒适仍取决于个人腕围、表带调整和使用习惯，续航应按具体设置判断。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "gravastar-mercury-mouse",
+    "name": "Mercury Gaming Mouse",
+    "brand": "GravaStar",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/gravastar-mercury-gaming-mouse-71431"
+    },
+    "productUrl": "https://www.red-dot.org/project/gravastar-mercury-gaming-mouse-71431",
+    "category": "input-printing",
+    "designDetails": [
+      "三维骨架外形借鉴虚构生物与有机结构",
+      "根据玩家手部扫描数据调整握持轮廓"
+    ],
+    "functionDetails": [
+      "Omron微动开关处理点击输入",
+      "RGB背光提供游戏桌面视觉反馈"
+    ],
+    "limitations": [
+      "骨架轮廓的握持适配仍取决于用户手型"
+    ],
+    "whyRepresentative": "把手部数据和强烈生物机械外形结合在指针输入工具。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/gravastar-mercury-gaming-mouse-71431",
+        "facts": [
+          "三维骨架外形借鉴虚构生物与有机结构",
+          "根据玩家手部扫描数据调整握持轮廓",
+          "Omron微动开关处理点击输入",
+          "RGB背光提供游戏桌面视觉反馈"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Mercury Gaming Mouse；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "GravaStar Mercury用立体骨架外形表达游戏鼠标的个性，同时把玩家手部扫描作为轮廓调整依据。它需要让强烈视觉形态仍能被手掌实际握住，因此有机结构不只是外观主题，也面对输入工具的接触要求。",
+    "design": "三维骨架借鉴虚构生物和未来机械，开敞的外形让表面出现不同层次。团队根据玩家手部数据调整人体工学轮廓，Omron微动与RGB背光再分别承担点击反馈和视觉表达，内外结构共同形成游戏物件。",
+    "usage": "用户以适合自己的握法移动鼠标，微动开关读取点击，机身轮廓承托手部。RGB作为桌面视觉反馈出现；骨架外形较普通封闭鼠标更容易被看见，也让使用者在抓握时接触到不同的支撑边界。",
+    "significance": "它展示数据化人体适配与叙事造型如何并置。手部扫描影响接触关系，骨架语言影响情绪和识别，微动仍完成具体输入；评价这件产品时可以同时观察它怎样被看见，以及手实际落在哪里。",
+    "limitationsNarrative": "手部扫描来自一组用户，并不代表每个人的手型和握法都适合这只鼠标。骨架结构也需要实际试握与清洁，RGB不会提高指针精度；输入体验仍应结合所用表面、灵敏度和长期操作习惯判断。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "yamaha-csp295",
+    "name": "CSP-295",
+    "brand": "Yamaha",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/csp-295-68316"
+    },
+    "productUrl": "https://www.red-dot.org/project/csp-295-68316",
+    "category": "music",
+    "designDetails": [
+      "去掉大屏和塑料开关，保持传统钢琴外观",
+      "琴键上方LED把指导信息放在演奏位置"
+    ],
+    "functionDetails": [
+      "灯光提示应按的琴键与时机",
+      "通过外部智能设备应用调节音色和节奏"
+    ],
+    "limitations": [
+      "完整教学与设置体验依赖外部智能设备"
+    ],
+    "whyRepresentative": "把学习提示从外部乐谱转移到琴键附近。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/csp-295-68316",
+        "facts": [
+          "去掉大屏和塑料开关，保持传统钢琴外观",
+          "琴键上方LED把指导信息放在演奏位置",
+          "灯光提示应按的琴键与时机",
+          "通过外部智能设备应用调节音色和节奏"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 CSP-295；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "CSP-295把数字钢琴的学习辅助放到琴键周围，同时让乐器保留接近传统钢琴的外观。它将大量音色和节奏设置交给外部应用，而不是把一块显眼显示器固定在琴上，使演奏表面仍以键盘为中心。",
+    "design": "琴键上方的LED提示灯将下一步应按的位置直接标在手即将到达的地方。琴体减少显示屏与塑料开关，获得更像传统钢琴的连续外观；数字功能主要通过外部智能设备展开，实体乐器和设置界面形成分工。",
+    "usage": "练习者可在应用中选择音色、节奏或学习内容，随后按LED给出的琴键位置和时机弹奏。屏幕负责呈现和选择信息，灯光把信息送到键盘位置；演奏者不必在读谱与寻找对应琴键之间反复进行同样的视觉转换。",
+    "significance": "它把数字教学从屏幕中的说明推进到乐器本体上的动作提示。灯光与具体琴键建立直接映射，而应用保留丰富内容，这种分工让初学者先完成可理解的动作，也让琴体在不使用教学功能时继续作为普通乐器存在。",
+    "limitationsNarrative": "灯光提示可以帮助起步，但节奏、力度和音乐理解仍需要练习，不能把按对亮灯位置等同于掌握演奏。丰富设置依赖支持的智能设备和应用；使用者也应安排屏幕位置，避免为了看设置而打断演奏姿势。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "asus-rog-keris2ace",
+    "name": "ROG Keris II Ace",
+    "brand": "ASUS",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/rog-keris-ii-ace-71318"
+    },
+    "productUrl": "https://www.red-dot.org/project/rog-keris-ii-ace-71318",
+    "category": "input-printing",
+    "designDetails": [
+      "54克轻量机身减少连续移动负担",
+      "采用蓖麻油来源的生物基尼龙"
+    ],
+    "functionDetails": [
+      "光学微动设计寿命为一亿次点击",
+      "支持Polling Rate Booster，无线最高4000Hz、有线最高8000Hz"
+    ],
+    "limitations": [
+      "高回报率需匹配附件与电脑性能，不能直接保证游戏获胜"
+    ],
+    "whyRepresentative": "以轻量材料和输入采样速度服务竞技鼠标需求。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/rog-keris-ii-ace-71318",
+        "facts": [
+          "54克轻量机身减少连续移动负担",
+          "采用蓖麻油来源的生物基尼龙",
+          "光学微动设计寿命为一亿次点击",
+          "支持Polling Rate Booster，无线最高4000Hz、有线最高8000Hz"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 ROG Keris II Ace；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "ROG Keris II Ace针对竞技玩家反复快速移动鼠标的动作，把54克轻量机身与高回报率输入结合。它减少手腕需要推动的质量，同时保留适合不同手型的轮廓，设计目标直接落在连续操作上。",
+    "design": "机身采用蓖麻油来源的生物基尼龙，轻量并未通过极端叙事外形表达，而以简洁黑白轮廓保持接触完整。光学微动设计寿命为一亿次点击，材料与开关分别处理移动负担和高频按键使用。",
+    "usage": "用户按握法与桌面调整鼠标后，可结合Polling Rate Booster提高输入回报率，无线最高4000Hz、有线最高8000Hz。轻量机身降低移动惯性，高采样则缩短输入报告间隔，两者作用于不同环节。",
+    "significance": "它让竞技鼠标的差异落实到力和时间。重量关系到手需要移动多少实体，高回报率关系到电脑多久接收一次输入，光学开关关系到点击；这些具体层面比笼统的“更快”更容易被理解和比较。",
+    "limitationsNarrative": "高回报率需要匹配附件、系统和足够性能，不能直接保证游戏结果，也可能改变功耗。54克的轻量不等于任何手型都舒适，仍需实际握持；长寿命点击数据是设计指标，不代表不受使用环境和损耗影响。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "roland-aira-t8",
+    "name": "AIRA Compact T-8 Beat Machine",
+    "brand": "Roland",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/aira-compact-t-8-beat-machine-j-6-chord-synthesizer-e-4-voice-tweaker-62578"
+    },
+    "productUrl": "https://www.red-dot.org/project/aira-compact-t-8-beat-machine-j-6-chord-synthesizer-e-4-voice-tweaker-62578",
+    "category": "music",
+    "designDetails": [
+      "紧凑轻量布局适合移动创作",
+      "清晰排列的控制器面向直接操作"
+    ],
+    "functionDetails": [
+      "可与同系列乐器组合",
+      "可接MIDI设备、电脑和应用进行音乐创作"
+    ],
+    "limitations": [
+      "获奖对象包含三台，本条只收T-8，不把同组产品拆成三条"
+    ],
+    "whyRepresentative": "把电子节奏创作从工作室桌面压缩为便携模块。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/aira-compact-t-8-beat-machine-j-6-chord-synthesizer-e-4-voice-tweaker-62578",
+        "facts": [
+          "紧凑轻量布局适合移动创作",
+          "清晰排列的控制器面向直接操作",
+          "可与同系列乐器组合",
+          "可接MIDI设备、电脑和应用进行音乐创作"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2023 AIRA Compact T-8 Beat Machine；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "AIRA Compact T-8把节奏创作压缩成可随身携带的电子乐器。它在与J-6、E-4共同获奖的产品组中承担节拍机器角色，本条只记录T-8，重点观察便携模块如何保持直接操作和外部连接能力。",
+    "design": "小型轻量机身以清晰排列的控制器组织功能，让使用者在有限面板上找到可调整的位置。同系列乐器可以并列组合，紧凑外壳因而同时适合单机即兴和多台联动；缩小体积后仍保留专用乐器的实体操作入口。",
+    "usage": "使用者可直接从面板尝试节奏想法，再与其他AIRA Compact模块或MIDI设备连接，把局部创作并入更大的音乐设置。电脑和应用也能加入这条连接路径，使随手记录的想法不必停留在独立小盒子之内。",
+    "significance": "T-8说明便携电子乐器可以通过模块连接延长用途。面板让声音变化和手部动作对应，外部接口又让它继续参与电脑或其他硬件的创作；代表性来自这种从单机玩奏到组合系统的连续性，而非以同系列数量取胜。",
+    "limitationsNarrative": "紧凑面板需要在功能数量和直接可见性之间取舍，连接外部设备时也必须正确设置同步和信号路径。它承担节奏机器的具体角色，不能把获奖组里J-6或E-4的能力都移植到T-8这一台设备的说明中。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "roland-f107",
+    "name": "F107",
+    "brand": "Roland",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/f107-roland-piano-app-62599"
+    },
+    "productUrl": "https://www.red-dot.org/project/f107-roland-piano-app-62599",
+    "category": "music",
+    "designDetails": [
+      "瘦身琴体减少家中占用空间",
+      "常用控制可快速触达，减少演奏分心"
+    ],
+    "functionDetails": [
+      "搭配Roland Piano应用支持弹奏与学习",
+      "数字功能可由熟悉的钢琴形态直接使用"
+    ],
+    "limitations": [
+      "应用扩展功能需要支持的外部设备"
+    ],
+    "whyRepresentative": "在家具般紧凑琴体里保留电子乐器的学习和音色扩展。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/f107-roland-piano-app-62599",
+        "facts": [
+          "瘦身琴体减少家中占用空间",
+          "常用控制可快速触达，减少演奏分心",
+          "搭配Roland Piano应用支持弹奏与学习",
+          "数字功能可由熟悉的钢琴形态直接使用"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2023 F107；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "F107将数字钢琴与Roland Piano应用配合，面向家中演奏和学习。它需要容纳电子音色与学习功能，又希望房间里的乐器仍保持简洁，因此把实体常用控制与外部应用设置分开安排。",
+    "design": "纤细琴体减少地面占用，克制外形让它容易靠墙融入居住空间。重要控制留在快速可触达的位置，避免弹奏时被大量按钮分散注意；较丰富数字能力则由应用展开，琴体保持熟悉乐器的基本轮廓。",
+    "usage": "用户可以直接从琴上开始弹奏，再通过Roland Piano应用进入学习或其他数字功能。常用操作不必离开乐器，扩展设置则借助智能设备显示，演奏动作与信息浏览在两个界面之间形成有目的的分工。",
+    "significance": "它说明数字乐器不必把所有功能都永久堆在面板上。精简琴体处理家居空间，实体控制处理正在弹奏时的动作，应用处理更丰富的设置；这种分工让电子扩展与传统演奏关系保持清楚。",
+    "limitationsNarrative": "应用功能依赖相容的智能设备和连接，不能把外部软件能力视为琴体上始终可独立使用。紧凑形态也不替代合适琴凳与姿势；学习程序提供辅助，节奏、力度和音乐理解仍需通过持续练习形成。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "instax-mini12",
+    "name": "INSTAX mini 12",
+    "brand": "Fujifilm",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/instax-mini-12-70695"
+    },
+    "productUrl": "https://www.red-dot.org/project/instax-mini-12-70695",
+    "category": "imaging",
+    "designDetails": [
+      "圆润机身像气泡或充气物，配柔和粉彩颜色",
+      "旋转镜头同时完成开机，减少独立开关"
+    ],
+    "functionDetails": [
+      "自动调整快门速度和闪光以适应环境光",
+      "拍摄后直接得到实体即时照片"
+    ],
+    "limitations": [
+      "每次拍摄消耗相纸，自动曝光减少手动控制空间"
+    ],
+    "whyRepresentative": "用镜头转动和柔软轮廓降低即时摄影的学习负担。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/instax-mini-12-70695",
+        "facts": [
+          "圆润机身像气泡或充气物，配柔和粉彩颜色",
+          "旋转镜头同时完成开机，减少独立开关",
+          "自动调整快门速度和闪光以适应环境光",
+          "拍摄后直接得到实体即时照片"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 INSTAX mini 12；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "INSTAX mini 12把即时摄影组织成少量容易理解的动作。它不要求初次使用者先学习多级曝光菜单，而是以自动调整快门和闪光承担基础判断，让拍摄者把注意力放在取景、距离以及即将交给别人的实体照片上。",
+    "design": "圆润机身借用气泡和充气物的形态，粉彩颜色进一步减轻精密相机的严肃感。镜头转环同时承担开机动作，使用者握着镜筒旋转后即可准备拍摄，省去在机身另找电源键的步骤，也把收拢与使用状态直接表现出来。",
+    "usage": "旋转镜头开启相机后，通过取景器安排主体并按下快门，设备根据环境光自动选择快门速度和闪光等设置。照片随后成为可以拿取、等待显影并递给朋友的物件；拍摄、输出和分享在同一现场衔接，不经过手机文件选择。",
+    "significance": "它将即时摄影的门槛降低在开机和曝光这两个具体环节。外形的柔软语言邀请人握持，镜头转动建立工作状态，自动曝光减少参数选择；最终的实体照片则保留了一次拍摄对应一次真实输出的时间感和选择感。",
+    "limitationsNarrative": "每次按快门都会消耗一张相纸，不能像数字相机那样先预览再决定是否打印。自动曝光也意味着拍摄者不能随意指定全部参数；构图、拍摄距离和现场光线仍需自己判断，并按相纸要求避免不合适的操作。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "instax-mini-evo-brown",
+    "name": "INSTAX mini EVO Brown",
+    "brand": "Fujifilm",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Best of the Best",
+      "url": "https://www.red-dot.org/project/instax-mini-evo-brown-70692"
+    },
+    "productUrl": "https://www.red-dot.org/project/instax-mini-evo-brown-70692",
+    "category": "imaging",
+    "designDetails": [
+      "皮革般纹理配金属部件和实体拨轮",
+      "镜头环选择效果，过片扳手触发打印"
+    ],
+    "functionDetails": [
+      "十种镜头模式和十种胶片效果构成百种组合",
+      "屏幕预览后决定打印，并可蓝牙连接手机传图"
+    ],
+    "limitations": [
+      "打印仍消耗相纸；获奖为Brown具体款，不将配色单列多个展品"
+    ],
+    "whyRepresentative": "将胶片相机操作仪式映射到数字效果和选择性打印。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/instax-mini-evo-brown-70692",
+        "facts": [
+          "皮革般纹理配金属部件和实体拨轮",
+          "镜头环选择效果，过片扳手触发打印",
+          "十种镜头模式和十种胶片效果构成百种组合",
+          "屏幕预览后决定打印，并可蓝牙连接手机传图"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 INSTAX mini EVO Brown；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "INSTAX mini EVO Brown把即时照片的输出体验与数字相机的选择能力结合。相机可以先记录并在屏幕中查看，再决定哪些值得打印，因而把传统即时摄影中拍摄与耗材输出同步发生的关系，拆成前后两个动作。",
+    "design": "皮革般触面和金属细节保留传统相机触感，镜头环用于选择镜头效果，类似过片杆的扳手则触发打印。旧相机上熟悉的机械位置在这里拥有新的数字工作：一个改变画面风格，另一个把已选影像变成实体照片。",
+    "usage": "拍摄前可组合十种镜头模式和十种胶片效果，形成不同视觉处理。拍摄后在显示屏中确认结果，保留数字文件或拉动扳手打印；蓝牙还连接手机，相机照片可以送出分享，手机照片也可传入这台设备输出。",
+    "significance": "它并不是只把复古外壳罩在数字功能上，而是重新分配镜头环和过片动作的含义。用户既能保留操作相机的节奏，又获得数字预览和选择性输出，显示了实体照片如何在手机分享时代继续找到独立的使用位置。",
+    "limitationsNarrative": "屏幕预览能减少不想要的打印，却不能免除相纸成本和装填维护。数字效果也只是预设的视觉处理，不等于更换真实光学镜头；本条只以Brown获奖版本记录mini EVO这一产品，不把同机不同配色拆成独立展品。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "skyworth-r1pro",
+    "name": "R1 Pro",
+    "brand": "Skyworth",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/r1-pro-70406"
+    },
+    "productUrl": "https://www.red-dot.org/project/r1-pro-70406",
+    "category": "projectors",
+    "designDetails": [
+      "有机硅磁吸翻盖同时充当电源开关",
+      "底部发光声锥与向下低音单元形成共同结构"
+    ],
+    "functionDetails": [
+      "提供4K激光投影",
+      "待机时灯光可响应音乐节奏和语音"
+    ],
+    "limitations": [
+      "氛围灯模式仍需供电，待机并非完全关闭"
+    ],
+    "whyRepresentative": "让镜头保护、开关和客厅氛围功能成为可理解的物理动作。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/r1-pro-70406",
+        "facts": [
+          "有机硅磁吸翻盖同时充当电源开关",
+          "底部发光声锥与向下低音单元形成共同结构",
+          "提供4K激光投影",
+          "待机时灯光可响应音乐节奏和语音"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 R1 Pro；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "创维R1 Pro把投影机的工作状态与机身动作相连：翻开镜头前盖，就同时发出开机命令。它还在不投影时提供响应声音的灯光，面向需要长期留在客厅而非每次拿进拿出的使用方式。",
+    "design": "有机硅磁吸翻盖覆盖前部镜头，既提供保护，也充当电源开关。底部发光声锥与向下的低音单元合并成支撑结构，不同材料和表面纹理划分主体与底座，让光、声音和摆放位置彼此对应。",
+    "usage": "使用者打开前盖准备观看，由4K激光投影呈现内容，低音单元从底部参与发声。待机时可以让灯光响应音乐节拍和语音，使同一设备继续承担氛围功能；盖板状态则给人直观的操作线索。",
+    "significance": "它把常见的镜头盖从被动附件变成工作入口。拿掉保护这一必要动作同时完成开机，底座又同时承担声音和光，减少分离零件；代表性来自功能如何附着在本来就会发生的动作和结构上。",
+    "limitationsNarrative": "氛围灯仍需要供电，待机功能不应按完全断电理解。投影画面需要适合的表面和光线，低音出口也应保留空间；磁吸盖板虽易操作，仍需保持清洁和正确放置，不能替代所有光学维护。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "ultimea-poseidon-e40",
+    "name": "Poseidon E40",
+    "brand": "Ultimea",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/ultimea-poseidon-e40-70428"
+    },
+    "productUrl": "https://www.red-dot.org/project/ultimea-poseidon-e40-70428",
+    "category": "projectors",
+    "designDetails": [
+      "铝制提手可翻转作为支架",
+      "镜头用银色边框强调，下方穿孔表面布置散热风口"
+    ],
+    "functionDetails": [
+      "可调整摆放投射角度",
+      "机身整合散热结构以支持室内外搬动使用"
+    ],
+    "limitations": [
+      "户外投影仍需要合适的光线和投射表面"
+    ],
+    "whyRepresentative": "让同一金属件承担搬运与角度支撑两种工作。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/ultimea-poseidon-e40-70428",
+        "facts": [
+          "铝制提手可翻转作为支架",
+          "镜头用银色边框强调，下方穿孔表面布置散热风口",
+          "可调整摆放投射角度",
+          "机身整合散热结构以支持室内外搬动使用"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Poseidon E40；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Poseidon E40把便携投影的两个动作合并：搬运时握住提手，摆好后把同一提手转成支架。它面向室内外临时观看，让使用者少带一件支撑附件，也能为不同投射高度调整机身。",
+    "design": "铝制提手围绕机身移动，可在放下后支撑并调整角度。镜头嵌在黑色亮面中，以银框强调位置，下方穿孔表面对应散热风口；搬运、投射和散热各有清楚区域，不必靠额外部件完成。",
+    "usage": "到达观看位置后，用户翻转提手托起机身，调节投射方向，再接入内容进行观看。结束后收回支撑结构便可拿走，临时空间里的准备与收拾都围绕同一金属件展开，减少零散支架的管理。",
+    "significance": "它以可变用途的机械件解释便携性。提手不只证明“可以拿”，还在使用阶段决定角度；镜头框和散热区又让主要功能位置容易辨认，适合观察移动电器如何通过结构复用减少准备步骤。",
+    "limitationsNarrative": "可调支架不能取消投影距离和表面的限制，户外观看仍需合适光线与供电。提手支撑也必须放在稳定平面上，散热风口不能被遮挡；调整角度后仍需确认画面，而不是仅凭机身倾斜判断已经对齐。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "blackmagic-studio-camera4k",
+    "name": "Studio Camera 4K",
+    "brand": "Blackmagic Design",
+    "year": 2022,
+    "dateKind": "award",
+    "dateLabel": "2022 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2022,
+      "level": "Best of the Best",
+      "url": "https://www.red-dot.org/project/blackmagic-studio-camera-4k-55634"
+    },
+    "productUrl": "https://www.red-dot.org/project/blackmagic-studio-camera-4k-55634",
+    "category": "imaging",
+    "designDetails": [
+      "碳纤维与聚碳酸酯复合外壳以中央成型件减少零件",
+      "大屏、旋钮和自定义实体键组成混合控制界面"
+    ],
+    "functionDetails": [
+      "7英寸明亮LCD支持构图与对焦",
+      "触控访问扩展功能，旋钮可不移开视线微调"
+    ],
+    "limitations": [
+      "面向现场制作，需要镜头及相应录制或导播系统"
+    ],
+    "whyRepresentative": "将传统演播设备的多部件结构压缩成轻便、可直接操作的拍摄终端。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/blackmagic-studio-camera-4k-55634",
+        "facts": [
+          "碳纤维与聚碳酸酯复合外壳以中央成型件减少零件",
+          "大屏、旋钮和自定义实体键组成混合控制界面",
+          "7英寸明亮LCD支持构图与对焦",
+          "触控访问扩展功能，旋钮可不移开视线微调"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2022 Studio Camera 4K；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Studio Camera 4K针对现场内容制作，把传统演播设备的观察与控制集中在紧凑机身上。它让操作者能够直接看构图、调关键参数，同时减少外壳零件和重量，面向需要频繁部署和移动的拍摄现场。",
+    "design": "中央成型壳件以碳纤维和聚碳酸酯复合材料减少零件数量。背部7英寸明亮LCD、实体旋钮和自定义键共同组成界面：大屏用于查看场景，触控进入扩展功能，常用参数则留给手指直接调节。",
+    "usage": "操作员通过大屏检查构图与焦点，在拍摄过程中使用旋钮微调关键设置，不必每次离开画面打开菜单。需要更多选项时再进入触屏界面，实体与数字控制分工让实时拍摄保持连续。",
+    "significance": "它把降低制造复杂度与降低操作复杂度放在同一产品中。复合材料壳件处理重量和装配，大屏处理观察，旋钮处理即时动作；这样的减法没有只追求小型化，而是保留现场真正需要的可见控制。",
+    "limitationsNarrative": "它面向专业制作，需要镜头和相应录制或导播系统配合，不能把机身视为独立完成所有流程的摄像机。大屏便于现场观察，也需要正确布置供电和支撑；焦点、曝光与制作流程仍由操作者确认。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "epson-cofh02",
+    "name": "CO-FH02",
+    "brand": "Epson",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/co-fh02-64344"
+    },
+    "productUrl": "https://www.red-dot.org/project/co-fh02-64344",
+    "category": "projectors",
+    "designDetails": [
+      "内部风道重新组织，避免过大的进排气口",
+      "简洁机壳面向家庭与会议室共用"
+    ],
+    "functionDetails": [
+      "官方列3000流明亮度",
+      "整合流媒体功能与扬声器，减少外接设备"
+    ],
+    "limitations": [
+      "流媒体内容需相应网络与服务，亮度不消除环境光影响"
+    ],
+    "whyRepresentative": "通过风道和内容系统整合让商务投影进入日常客厅。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/co-fh02-64344",
+        "facts": [
+          "内部风道重新组织，避免过大的进排气口",
+          "简洁机壳面向家庭与会议室共用",
+          "官方列3000流明亮度",
+          "整合流媒体功能与扬声器，减少外接设备"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2023 CO-FH02；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "CO-FH02将会议与家庭观看需求放在同一投影机中。它通过内置流媒体和扬声器减少外接设备，再以内部风道重新组织散热，让机器在办公室与客厅之间转换时，仍能保持简洁外观和准备方式。",
+    "design": "设计团队从内部结构开始减少大型进排气口的需要，使外部轮廓保持干净。声音、内容入口与投影光学收在单一机身中，用户看到的是一台完整设备，而不是必须组合播放器和音箱才能使用的显示部件。",
+    "usage": "用户摆好投射位置后，可调用流媒体内容并使用机内扬声器观看。官方列出3000流明亮度，说明它考虑白天客厅和会议室等较亮环境；实际使用仍需调整表面、位置和环境光，而不只是启动应用。",
+    "significance": "它代表投影从专业显示工具向通用观看设备的整合。风道工程支持简洁外壳，内容系统减少连接，声音系统减少附件，几项设计共同缩短从摆机器到看内容的路径，而不是只改变机壳颜色。",
+    "limitationsNarrative": "3000流明不能消除所有环境光影响，实际清晰度还与画面大小和表面有关。流媒体需要支持的网络与服务，进排气区域也必须保持畅通；内建声音方便快速部署，是否外接音响仍由场景决定。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "formovie-q2",
+    "name": "Q2",
+    "brand": "Formovie",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/formovie-q2-64256"
+    },
+    "productUrl": "https://www.red-dot.org/project/formovie-q2-64256",
+    "category": "projectors",
+    "designDetails": [
+      "雕塑般有机轮廓采用一体外壳",
+      "重新设计内部结构和散热以保持连续形状"
+    ],
+    "functionDetails": [
+      "便携体量适合室内聚会或露营搬运",
+      "集成投影功能将临时场所变为观看空间"
+    ],
+    "limitations": [
+      "便携不代表无需电源或可在日光下清晰投影"
+    ],
+    "whyRepresentative": "从内部散热重新安排来支持完整、有机的一体式形态。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/formovie-q2-64256",
+        "facts": [
+          "雕塑般有机轮廓采用一体外壳",
+          "重新设计内部结构和散热以保持连续形状",
+          "便携体量适合室内聚会或露营搬运",
+          "集成投影功能将临时场所变为观看空间"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2023 Q2；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Formovie Q2以雕塑般有机形态呈现移动投影机，面向家庭聚会和露营等临时场景。它希望投影机在房间里作为一件完整物体存在，因此外壳连续性并非最后包覆，而从内部结构重新组织开始。",
+    "design": "为了让有机外壳能以一体方式制造，内部架构尤其是散热重新安排。连续曲面减少被格栅和零件分割的感觉，紧凑体量也支持搬运；外观的自由因此建立在气流和电子部件布局的约束之上。",
+    "usage": "使用者把设备带到需要观看的位置，安排投射面与供电，再开始播放内容。结束后移动的是单一体量，而非复杂固定装置；在家里，它又可以继续留在桌面，让投影机的闲置形态参与空间布置。",
+    "significance": "Q2适合说明有机外形如何需要内部工程支撑。一体壳体要求重新规划热量与部件，而不是简单把圆角画得更大；便携场景又给这种完整物体明确理由，使外观、制造和搬动能够相互解释。",
+    "limitationsNarrative": "移动投影仍需合适电源、光线和投射表面，便携不等于在日光下也能保持同样画面。连续外壳也不能被杂物包裹影响通风；露营等场景还需按设备实际防护条件使用，不能从外形推断耐雨水能力。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "opal-c1",
+    "name": "C1 Camera",
+    "brand": "Opal",
+    "year": 2022,
+    "dateKind": "award",
+    "dateLabel": "2022 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/opal-c1-camera-59936"
+    },
+    "productUrl": "https://www.red-dot.org/project/opal-c1-camera-59936",
+    "category": "imaging",
+    "designDetails": [
+      "90%铝质机身兼顾稳固与材料回收",
+      "功能性外壳围绕桌面视频沟通布局"
+    ],
+    "functionDetails": [
+      "4K摄像与图像处理支持光线、色彩和虚化表现",
+      "人脸跟踪和重新构图保持用户在画面中心"
+    ],
+    "limitations": [
+      "虚化与构图依赖配套处理，不能等同于电影镜头的光学效果"
+    ],
+    "whyRepresentative": "把网络摄像头从普通配件升级为桌面图像处理终端。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/opal-c1-camera-59936",
+        "facts": [
+          "90%铝质机身兼顾稳固与材料回收",
+          "功能性外壳围绕桌面视频沟通布局",
+          "4K摄像与图像处理支持光线、色彩和虚化表现",
+          "人脸跟踪和重新构图保持用户在画面中心"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2022 C1 Camera；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Opal C1把网络摄像头从普通电脑附属件变成带图像处理的桌面拍摄设备。它针对视频交流中的照明、色彩和构图，把硬件相机与实时处理结合，使用户不必先搭建一整套传统摄影系统。",
+    "design": "机身约90%由铝组成，强调耐用和材料可回收性，紧凑外壳留在显示器附近。内部4K相机与处理系统共同工作，外部则以功能性结构承托设备，让视频质量改进不必表现为庞大的镜头与支架组合。",
+    "usage": "连接并布置好摄像头后，图像处理调整光线、色彩与自然虚化，人脸跟踪和重新构图帮助把用户留在画面中心。用户在视频交流中可以移动姿势，而设备继续处理画面范围，减少手动移动摄像头的频次。",
+    "significance": "它将网络摄像从固定角度的信号采集扩展为持续构图。铝壳处理桌面物件的耐用性，成像单元获取原始信息，处理和跟踪再组织输出；摄像头因此更像一个小型影像系统，而不只是一个眼睛。",
+    "limitationsNarrative": "处理得到的虚化和构图并不等于使用电影镜头的全部光学效果，实际结果仍受现场光线和背景影响。设备也依赖配套软件与系统支持；4K传感采集不能自动等同于每种会议软件都输出同样分辨率。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "fujifilm-z6000",
+    "name": "Z6000",
+    "brand": "Fujifilm",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/fujifilm-z6000-64300"
+    },
+    "productUrl": "https://www.red-dot.org/project/fujifilm-z6000-64300",
+    "category": "projectors",
+    "designDetails": [
+      "双轴旋转镜头可在不移动主机时改变投射方向",
+      "紧凑轻量机身可横放或竖放"
+    ],
+    "functionDetails": [
+      "官方列6000 ANSI流明",
+      "几何校正支持曲面投射等展示场景"
+    ],
+    "limitations": [
+      "面向安装展示，镜头旋转仍受现场空间和投射条件限制"
+    ],
+    "whyRepresentative": "把投射方向从主机摆位中分离，扩大建筑与展览布置自由。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/fujifilm-z6000-64300",
+        "facts": [
+          "双轴旋转镜头可在不移动主机时改变投射方向",
+          "紧凑轻量机身可横放或竖放",
+          "官方列6000 ANSI流明",
+          "几何校正支持曲面投射等展示场景"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2023 Z6000；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Z6000把投射方向与主机朝向分开，面向展览和专业展示中不容易摆放传统投影机的空间。机器可以横放或竖放，而双轴旋转镜头在不同方向送出画面，让安装者不必为每面墙重找整机位置。",
+    "design": "紧凑主机配可双轴旋转的镜头，光学头成为整台设备最有辨识度的运动部件。机身承担主要电子与散热体量，镜头承担投射方向，两者分工让固定安装和画面朝向之间出现更多组合。",
+    "usage": "安装时先选择主机适合的位置与放置方向，再转动镜头对准目标表面。官方列6000 ANSI流明，并提供几何校正以适应曲面等展示；操作者从空间布局出发安排机器，再在光学和数字层面对齐画面。",
+    "significance": "它将投影设备的外形从“镜头必须朝前”中释放。可转镜头不仅改变外观，更改变安装关系，几何校正再扩展表面选择；这使产品适合观察专业影像设备如何与建筑和展览空间协商。",
+    "limitationsNarrative": "镜头旋转扩大方向选择，却仍受镜头活动空间、投射距离和现场结构限制。曲面校正需要正确设置，不能把任何不平表面都当作理想画面；专业安装也必须保留供电、散热和维护通道。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "asus-zenbeam-l2",
+    "name": "ZenBeam L2",
+    "brand": "ASUS",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/asus-zenbeam-l2-64253"
+    },
+    "productUrl": "https://www.red-dot.org/project/asus-zenbeam-l2-64253",
+    "category": "projectors",
+    "designDetails": [
+      "专门进风通道配内部风扇及散热器",
+      "小占地机身将光源、声学和内容设备集中收纳"
+    ],
+    "functionDetails": [
+      "1080级图像配Harman Kardon音响",
+      "集成Android TV盒提供内容入口"
+    ],
+    "limitations": [
+      "系统内容需相应服务与网络，散热风道使用时要保持畅通"
+    ],
+    "whyRepresentative": "以小体积风道设计支撑完整的移动观影系统。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/asus-zenbeam-l2-64253",
+        "facts": [
+          "专门进风通道配内部风扇及散热器",
+          "小占地机身将光源、声学和内容设备集中收纳",
+          "1080级图像配Harman Kardon音响",
+          "集成Android TV盒提供内容入口"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2023 ZenBeam L2；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "ZenBeam L2将光源、音响和Android TV盒整合进便携投影设备。设计重点是在较小占地中维持散热与观影功能，让使用者搬动后不必重新组装多件设备，适合家庭不同位置的临时观看。",
+    "design": "专门气流通道把外部空气引入内部风扇和散热器，再带走光源与电子结构产生的热量。紧凑外壳因此依赖清楚的内部风道，而非完全封闭；声音和内容模块同时收纳，减少需要摆在旁边的附件。",
+    "usage": "用户安排投射位置后，可从Android TV盒进入内容，由1080级图像与Harman Kardon声音系统一起播放。准备过程集中在一台机器上；移动到另一个房间时，仍需重新确认画面，但不必另搬独立音箱和播放器。",
+    "significance": "它说明便携投影的整合需要工程而不只是缩小体积。风道让光源能持续工作，内置声音和内容入口减少外接，外壳再让它们可以一起拿走；这种整合直接改变了开始观看前要处理的物件数量。",
+    "limitationsNarrative": "内置内容系统仍需要网络、支持的应用和相应服务，不能保证任何地区都有同样节目。风道使用时必须保持畅通，机身也应放稳；1080级显示和内建声音适合哪些场景，应结合画面尺寸和实际空间判断。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "jmgo-n1ultra",
+    "name": "N1 Ultra",
+    "brand": "JMGO",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/jmgo-n1-ultra-64316"
+    },
+    "productUrl": "https://www.red-dot.org/project/jmgo-n1-ultra-64316",
+    "category": "projectors",
+    "designDetails": [
+      "一体云台支架支持135度纵向调整",
+      "机身可绕底座全周旋转，减少垫高支撑需要"
+    ],
+    "functionDetails": [
+      "4K三色激光投影",
+      "自动对焦与梯形校正辅助快速对齐"
+    ],
+    "limitations": [
+      "数字梯形校正不能完全替代合理的摆放位置"
+    ],
+    "whyRepresentative": "把方向调整从临时垫物变为内建支架能力。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/jmgo-n1-ultra-64316",
+        "facts": [
+          "一体云台支架支持135度纵向调整",
+          "机身可绕底座全周旋转，减少垫高支撑需要",
+          "4K三色激光投影",
+          "自动对焦与梯形校正辅助快速对齐"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2023 N1 Ultra；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "N1 Ultra把投影方向调整做成内建云台，回应用户经常用书本垫高投影机的临时做法。4K三色激光光学收在可转动机身中，支架因此不再是被动底座，而成为准备观看时直接操纵的部件。",
+    "design": "云台允许135度纵向调整，并可绕底座全周旋转。镜头和主机作为整体改变朝向，底座留在稳定位置，用户不必每次挪动整台机器来改变方向；这种结构将支撑、转动和投射组织成可重复动作。",
+    "usage": "摆好底座后，用户转动或抬起机身对准表面，自动对焦与梯形校正继续帮助对齐图像。机械云台先处理方向，电子校正处理剩余画面关系，两者共同缩短从放下设备到开始观看的准备过程。",
+    "significance": "它将便携投影的摆位问题转成产品自身的可调结构。人直接推动机身，方向变化看得见，数字系统再辅助清晰度和形状；代表性来自机械自由度与电子辅助如何协作，而非只增加自动功能数量。",
+    "limitationsNarrative": "自动梯形校正不能完全替代合理摆放，较大角度也可能影响实际可用画面。云台需要稳定底面与活动空间，激光光源仍要按说明使用；不同房间的距离、表面与环境光会改变最终效果。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "nothing-ear-a",
+    "name": "Ear (a)",
+    "brand": "Nothing",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/ear-a-70637"
+    },
+    "productUrl": "https://www.red-dot.org/project/ear-a-70637",
+    "category": "headphones",
+    "designDetails": [
+      "半透明耳机和充电盒展示内部构件",
+      "4.7克耳机配压力释放开孔和可选耳塞"
+    ],
+    "functionDetails": [
+      "无线耳机配口袋尺寸充电盒",
+      "耳机轮廓与耳塞选择共同调整佩戴贴合"
+    ],
+    "limitations": [
+      "耳内舒适性取决于个人耳型，重量轻不能保证适合所有人"
+    ],
+    "whyRepresentative": "让内部结构可见成为品牌表达，同时维持轻量佩戴。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/ear-a-70637",
+        "facts": [
+          "半透明耳机和充电盒展示内部构件",
+          "4.7克耳机配压力释放开孔和可选耳塞",
+          "无线耳机配口袋尺寸充电盒",
+          "耳机轮廓与耳塞选择共同调整佩戴贴合"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Ear (a)；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Ear (a)把Nothing半透明结构语言带到轻量耳塞和口袋充电盒中。它希望设备既让人看到内部构件，也在实际佩戴时尽量减轻负担，因此可见结构、圆角和耳内接触不能只按外观分开处理。",
+    "design": "半透明耳机与盒体互相呼应，内部零件成为表面视觉的一部分。每只4.7克耳机配压力释放开孔和人体工学轮廓，附不同耳塞选择；黑、白和黄色则在同一构造中提供不同表达，而非改变基本使用方式。",
+    "usage": "用户先选合适耳塞并调整入耳位置，再通过连接设备聆听。压力释放开孔和轻量结构一起处理耳内感受，结束后把两只耳机放回圆角充电盒；收纳与携带因此沿着同一小型物件反复发生。",
+    "significance": "它把内部构造的可见性与轻量佩戴并列作为设计目标。透明不只是装饰窗口，还使内部布局参与品牌识别；与此同时，重量、开孔和耳塞选择回应身体接触，展示可见技术如何仍需服务佩戴。",
+    "limitationsNarrative": "4.7克的轻量并不保证每个人都适配，耳型和耳塞尺寸仍需实际比较。半透明外壳也不意味着设备可随意拆修，内部可见性与可维护性是不同问题；日常使用仍应按实际防护条件清洁和充电。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "sony-inzone-buds",
+    "name": "INZONE Buds",
+    "brand": "Sony",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/inzone-buds-70583"
+    },
+    "productUrl": "https://www.red-dot.org/project/inzone-buds-70583",
+    "category": "headphones",
+    "designDetails": [
+      "除电池外的主要部件布置在耳外以减轻耳内压迫",
+      "紧凑充电盒为USB-C接收器预留收纳位"
+    ],
+    "functionDetails": [
+      "L1处理器支持最长12小时续航",
+      "使用附带USB-C接收器进行低延迟游戏音频连接"
+    ],
+    "limitations": [
+      "12小时为特定条件最长值；低延迟模式需要兼容USB-C设备"
+    ],
+    "whyRepresentative": "把佩戴压力、低延迟连接与接收器携带作为一个系统处理。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/inzone-buds-70583",
+        "facts": [
+          "除电池外的主要部件布置在耳外以减轻耳内压迫",
+          "紧凑充电盒为USB-C接收器预留收纳位",
+          "L1处理器支持最长12小时续航",
+          "使用附带USB-C接收器进行低延迟游戏音频连接"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 INZONE Buds；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "INZONE Buds针对长时间游戏中的佩戴压力与音频延迟，把部件布置和连接方式同时调整。它不是只把头戴游戏耳机缩成小耳塞，而是重新处理耳内负担、USB接收器和结束后的收纳位置。",
+    "design": "除电池外的主要构件移到耳外，减少深入耳部的体量，充电盒则为USB-C接收器预留位置。两只耳机和接收器因此能收成一套，不必另找小袋保存容易遗失的无线附件，同时保持整体紧凑。",
+    "usage": "游戏时把随附USB-C接收器接到支持的电脑或移动设备，再戴上耳机获得低延迟连接。L1处理器支持官方最长12小时使用描述；结束后，耳机和接收器各回到盒中，下一次部署所需物件保持集中。",
+    "significance": "它把游戏音频的完整流程延伸到收纳。部件布局回应身体，接收器回应低延迟连接，盒内位置回应随身携带，三个问题在同一设计里衔接；代表性来自耳机之外的小附件也被认真安排。",
+    "limitationsNarrative": "低延迟模式需要相容USB-C设备与接收器，不能假定任何蓝牙连接都有相同表现。12小时是特定条件最长值，个人耳型也影响舒适度；把构件移到耳外减少一种压力，并不会消除所有佩戴差异。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "apple-airpodspro2",
+    "name": "AirPods Pro（第2代）",
+    "brand": "Apple",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/airpods-pro-2nd-generation-70569"
+    },
+    "productUrl": "https://www.red-dot.org/project/airpods-pro-2nd-generation-70569",
+    "category": "headphones",
+    "designDetails": [
+      "磁体采用再生稀土元素",
+      "包装以纤维材料为主并取消外层塑料膜"
+    ],
+    "functionDetails": [
+      "主动降噪与自适应音频调整聆听",
+      "对话感知帮助在交谈时切换声音处理"
+    ],
+    "limitations": [
+      "自适应和对话功能受设备软件支持与实际场景影响"
+    ],
+    "whyRepresentative": "展示耳机从固定降噪开关转向持续判断环境的声音界面。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/airpods-pro-2nd-generation-70569",
+        "facts": [
+          "磁体采用再生稀土元素",
+          "包装以纤维材料为主并取消外层塑料膜",
+          "主动降噪与自适应音频调整聆听",
+          "对话感知帮助在交谈时切换声音处理"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 AirPods Pro（第2代）；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "AirPods Pro第2代将降噪从固定开关扩展为根据声音情境调整的聆听界面。自适应音频与对话感知需要在保持内容、减少干扰和回应身边人之间切换，耳机由此承担更多持续判断环境的工作。",
+    "design": "耳机配MagSafe充电盒，日常拿取与补电仍由小型盒体组织。内部磁体采用再生稀土，其他部件使用再生金、锡和铝，包装以纤维材料为主并取消外层塑料膜，材料变化发生在机身内部与交付环节。",
+    "usage": "用户可使用主动降噪集中聆听，也让自适应音频根据环境调整需要保留和降低的声音；对话感知在交谈时参与声音处理。操作不再只有手动切换降噪，而是由耳机在支持条件下持续回应所处情境。",
+    "significance": "它展示随身音频从播放终端走向环境声音界面的变化。内容和周围声音一起成为处理对象，充电盒继续维持日常取放习惯，内部与包装材料又回应生产层面，功能演进并未完全改变用户携带方式。",
+    "limitationsNarrative": "自适应与对话功能需要支持的软件和设备，效果也随现场声音变化，不能把自动判断当作永远正确。降噪能力不替代对周围安全的注意；材料使用比例的改进也不代表耳机内部可以由用户自由维修。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "jbl-live-flex3",
+    "name": "Live Flex 3",
+    "brand": "JBL",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/jbl-live-flex-3-70493"
+    },
+    "productUrl": "https://www.red-dot.org/project/jbl-live-flex-3-70493",
+    "category": "headphones",
+    "designDetails": [
+      "充电盒加入触摸屏，将控制从手机移到盒盖",
+      "四种配色与IP54耳机适应日常随身使用"
+    ],
+    "functionDetails": [
+      "触屏直接访问主要聆听功能",
+      "True Adaptive Noise Cancelling与空间声音处理"
+    ],
+    "limitations": [
+      "充电盒触屏提供控制，不代表盒内独立运行完整音乐服务"
+    ],
+    "whyRepresentative": "让长期被动的耳机收纳盒变成可操作的声音遥控器。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/jbl-live-flex-3-70493",
+        "facts": [
+          "充电盒加入触摸屏，将控制从手机移到盒盖",
+          "四种配色与IP54耳机适应日常随身使用",
+          "触屏直接访问主要聆听功能",
+          "True Adaptive Noise Cancelling与空间声音处理"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Live Flex 3；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Live Flex 3把耳机控制的一部分从手机移到充电盒触屏。传统盒子多负责收纳与补电，这件产品让人拿出盒子就能访问主要聆听功能，面向不想每次为调耳机而解锁手机的日常场景。",
+    "design": "触摸屏占据充电盒的可见操作位置，耳机提供四种配色并具IP54防护。盒体不再只有充电指示，而有可以阅读和触碰的界面；耳塞和盒子分别承担佩戴与设置，形成更明确的部件分工。",
+    "usage": "连接音源后，使用者可直接在盒盖屏幕上调整主要功能，再通过耳机聆听。True Adaptive Noise Cancelling减少干扰，JBL Spatial Sound参与声音呈现；取出、调节、放回的动作因此都能围绕盒子完成。",
+    "significance": "它扩展了长期作为附件的充电盒角色。显示与触控将盒子变成耳机的本地遥控入口，手机仍是音源和服务设备，但常用调节有了另一个位置，适合观察小型可穿戴设备怎样分配有限界面空间。",
+    "limitationsNarrative": "盒盖触屏提供控制，不代表盒内独立运行完整音乐服务或无需音源设备。额外屏幕也需要保持电量和可读性；IP54对应耳机的规定防护条件，不能自动扩展为整套设备都可浸水或在任何天气下使用。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "kitchenaid-grain-rice",
+    "name": "Grain and Rice Cooker",
+    "brand": "KitchenAid",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/kitchenaid-grain-and-rice-cooker-67637"
+    },
+    "productUrl": "https://producthelp.kitchenaid.com/Countertop_Appliances/Countertop_Cooking/Rice_and_Grain_Cooker/Grain_and_Rice_Cooker/Cycles_and_Functions/Using_the_Preset_Rice_Cycle_-_Grain_and_Rice_Cooker",
+    "category": "kitchen",
+    "designDetails": [
+      "圆润哑光塑料机身配拉丝不锈钢上盖",
+      "触摸屏以菜单组织烹饪选项"
+    ],
+    "functionDetails": [
+      "内置称重自动匹配水量和烹饪时间",
+      "提供21个预设与延时烹饪"
+    ],
+    "limitations": [
+      "谷物种类和装入方式仍需符合程序条件，自动称重不能判断所有食材情况"
+    ],
+    "whyRepresentative": "把量米、加水和选择时间连接为同一准备流程。",
+    "commercialStatus": "已量产商用品；制造商型号说明/使用指引已核对",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/kitchenaid-grain-and-rice-cooker-67637",
+        "facts": [
+          "圆润哑光塑料机身配拉丝不锈钢上盖",
+          "触摸屏以菜单组织烹饪选项",
+          "内置称重自动匹配水量和烹饪时间",
+          "提供21个预设与延时烹饪"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Grain and Rice Cooker；年度来自栏目文本而非项目编号。"
+      },
+      {
+        "url": "https://producthelp.kitchenaid.com/Countertop_Appliances/Countertop_Cooking/Rice_and_Grain_Cooker/Grain_and_Rice_Cooker/Cycles_and_Functions/Using_the_Preset_Rice_Cycle_-_Grain_and_Rice_Cooker",
+        "facts": [
+          "先补充水箱，选择米种，再倒入干米称重；不能在此阶段加入液体以免影响称重。"
+        ]
+      }
+    ],
+    "context": "这台Grain and Rice Cooker围绕煮不同谷物时反复出现的测量问题设计。它把称量、供水和烹饪程序连起来：不是要求使用者先熟记每种米豆的水量，而是先识别食材，再由设备据重量安排对应的液体和时间。",
+    "design": "哑光塑料机身避免尖锐边缘，拉丝不锈钢上盖与触摸屏分别承担打开食物空间和选择程序的动作。称重系统置于内锅路径中，水箱则独立准备液体，让干料识别和后续加水能按明确顺序发生，减少量杯往返。",
+    "usage": "使用者先把水箱加到指定刻度，打开机身侧面的电源开关，再在屏幕中选米的类型并倒入干米。内置秤读取重量后，机器计算并投放所需水量、安排时间；此阶段不能先加液体，否则会改变对干料重量的判断。",
+    "significance": "它把电饭煲的自动化推进到烹饪前的准备动作。称重不是独立显示一个数字，而是成为供水比例和时间控制的输入；屏幕中的食材分类与真实倒入内锅的材料相连接，使厨房测量成为设备内部协同的过程。",
+    "limitationsNarrative": "自动测量建立在正确食材类型和操作次序上，不能把混合材料或已加水的重量直接当作干谷物处理。水箱仍需补充，陶瓷内锅在烹饪后也会很热；选择预设可以减少估算，但不会取消盛取、清洁和食材准备。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "cuchen-dongle",
+    "name": "The Dongle",
+    "brand": "CUCHEN",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/the-dongle-67614"
+    },
+    "productUrl": "https://www.red-dot.org/project/the-dongle-67614",
+    "category": "kitchen",
+    "designDetails": [
+      "圆柱形紧凑外壳便于摆放与清洁",
+      "2.2千克体量适合移动携带"
+    ],
+    "functionDetails": [
+      "面向二至四人小家庭煮饭",
+      "官方列350瓦功率，可在具备电源的户外场景使用"
+    ],
+    "limitations": [
+      "适用人数是使用定位，户外使用仍需合适供电条件"
+    ],
+    "whyRepresentative": "把电饭煲缩减到小家庭和餐桌都能接纳的尺寸。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/the-dongle-67614",
+        "facts": [
+          "圆柱形紧凑外壳便于摆放与清洁",
+          "2.2千克体量适合移动携带",
+          "面向二至四人小家庭煮饭",
+          "官方列350瓦功率，可在具备电源的户外场景使用"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 The Dongle；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "The Dongle面向二至四人的小家庭，把电饭煲缩成能在厨房与餐桌之间移动的体量。设计围绕人数较少的日常煮饭，而不是把大容量压力电器直接缩小外壳，使摆放、拿取和清理更接近个人生活节奏。",
+    "design": "圆柱形机身简化边角和表面，2.2千克重量便于搬动，整体轮廓在小空间中保持清楚。简洁外壳也减少清洁时绕过复杂装饰的需要，让作为热食设备的日常维护与外观处理保持一致。",
+    "usage": "用户按所需人数准备米饭，设备以官方列出的350瓦功率工作；使用后可在不同台面间搬动收纳。官方也描述具备供电的户外用途，便携性体现在更容易把煮饭工具带到活动位置，而非依赖固定厨房。",
+    "significance": "它把小家庭用餐人数转成体量与搬运方式。圆柱外壳处理空间，较轻机身处理拿取，低复杂度表面处理清理；这些选择使电饭煲可以围绕少量餐食重新安排，而不是以更大功能数量表达价值。",
+    "limitationsNarrative": "二至四人是使用定位，实际饭量仍与食材和个人食量有关。户外使用必须有合适供电与稳定放置条件，轻量也不意味着隔热、清洁或热锅拿取可以省略；使用前仍需核对容量及具体说明。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "cuchen-brain",
+    "name": "Brain",
+    "brand": "CUCHEN",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/brain-67612"
+    },
+    "productUrl": "https://www.red-dot.org/project/brain-67612",
+    "category": "kitchen",
+    "designDetails": [
+      "鹅卵石般圆润外形区别于传统压力电饭煲",
+      "制造使用20%再生塑料"
+    ],
+    "functionDetails": [
+      "双压力系统配专门加热算法",
+      "针对15种谷物设置处理，面向六至十人份场景"
+    ],
+    "limitations": [
+      "人数与口味表现取决于食材及装入量，仍需按说明操作压力系统"
+    ],
+    "whyRepresentative": "以谷物差异为程序结构，同时让压力设备呈现柔和家居轮廓。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/brain-67612",
+        "facts": [
+          "鹅卵石般圆润外形区别于传统压力电饭煲",
+          "制造使用20%再生塑料",
+          "双压力系统配专门加热算法",
+          "针对15种谷物设置处理，面向六至十人份场景"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Brain；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Brain将六至十人份压力煮饭与多种谷物处理组合，面向需要根据不同主食调整加热的家庭。它不只提供一个通用煮饭按键，而以谷物差异组织程序，同时用柔和外形降低压力设备的工业感。",
+    "design": "鹅卵石般圆润机身替代传统压力电饭煲的厚重线条，制造中使用20%再生塑料。内部双压力系统与专门加热算法承担复杂处理，外部则保持易理解形态，把压力与温度变化隐藏在清楚的日常电器里。",
+    "usage": "用户根据所放谷物选择对应程序，双压力和加热算法为15类谷物安排不同处理。准备材料、选择类别和等待完成成为主要步骤，设备承担部分原本需要自行估计的压力与加热变化，减少手动调整。",
+    "significance": "它说明自动烹饪可以围绕食材差异设计，而不只是延长菜单清单。不同谷物成为控制的输入，双压力与算法成为执行结构，圆润外壳再让这套复杂能力进入家庭，功能和形态因此各有明确任务。",
+    "limitationsNarrative": "人数与风味取决于投料和食材，程序不能判断所有混合配方是否合适。压力设备仍要正确装填、清洁和开盖；再生塑料比例是制造信息，也不能据此推断所有部件都能在家中拆卸回收。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "midea-evo-g35",
+    "name": "EVO Dishwasher G35",
+    "brand": "Midea",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/evo-dishwasher-g35-67582"
+    },
+    "productUrl": "https://www.red-dot.org/project/evo-dishwasher-g35-67582",
+    "category": "kitchen",
+    "designDetails": [
+      "黑玻璃与拉丝铝组合成单色面板",
+      "触控界面用清楚符号组织程序"
+    ],
+    "functionDetails": [
+      "智能投放系统管理清洁剂",
+      "应用可调整温度、清洗和干燥时间"
+    ],
+    "limitations": [
+      "远程参数调整不能替代正确装载餐具和选择适合清洁剂"
+    ],
+    "whyRepresentative": "把清洗剂投放、程序选择和可调参数连接到清楚的正面界面。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/evo-dishwasher-g35-67582",
+        "facts": [
+          "黑玻璃与拉丝铝组合成单色面板",
+          "触控界面用清楚符号组织程序",
+          "智能投放系统管理清洁剂",
+          "应用可调整温度、清洗和干燥时间"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 EVO Dishwasher G35；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "EVO Dishwasher G35把清洗程序、清洁剂投放和可调整参数组合在一台家用洗碗机中。它需要让用户在多种清洗选择中迅速进入任务，也让温度与干燥等细节可以按需要改变，而不把所有设置都摊在面板上。",
+    "design": "黑玻璃、拉丝铝与覆膜部件组成单色外观，触屏以清楚符号划分程序。固定面板处理最常用选择，应用负责更细参数；材料对比与信息层级共同让机器正面保持简洁，而内部继续承担完整洗涤流程。",
+    "usage": "用户正确装载餐具后，从触屏选择程序，由智能投放系统管理清洁剂；需要时，再通过应用调整温度、清洗和干燥时间。日常快速启动与个性调整因此位于不同入口，既保留直接性，也提供控制深度。",
+    "significance": "它把洗碗机的自动化扩展到投放与参数管理。符号帮助开始，智能投放减少重复估计，应用保留细调，这些功能分别对应一条洗涤路径上的不同节点，而不是让每次使用都面对同样复杂的设置。",
+    "limitationsNarrative": "自动投放仍依赖合适清洁剂和正确维护，不能弥补餐具装载不当。应用调参也要与餐具材质和污渍情况相符，联网能力不会取消滤网、喷淋和内部清洁；外观耐用性仍需按表面材料要求保养。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "blaupunkt-5ii86250",
+    "name": "5II86250 Induction Hob",
+    "brand": "Blaupunkt",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/blaupunkt-5ii86250-induction-hob-67453"
+    },
+    "productUrl": "https://www.red-dot.org/project/blaupunkt-5ii86250-induction-hob-67453",
+    "category": "kitchen",
+    "designDetails": [
+      "严格几何外观配六个烹饪区",
+      "三个组合感应区适应大尺寸锅具"
+    ],
+    "functionDetails": [
+      "锅具移动后持续检测新位置并激活对应元件",
+      "提供双重Boost、主厨模式及烧烤功能"
+    ],
+    "limitations": [
+      "感应加热需要兼容锅具，锅底形状与尺寸仍影响识别"
+    ],
+    "whyRepresentative": "将固定炉头转成能跟随锅具位置变化的工作平面。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/blaupunkt-5ii86250-induction-hob-67453",
+        "facts": [
+          "严格几何外观配六个烹饪区",
+          "三个组合感应区适应大尺寸锅具",
+          "锅具移动后持续检测新位置并激活对应元件",
+          "提供双重Boost、主厨模式及烧烤功能"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 5II86250 Induction Hob；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "5II86250把炉面从几个固定圆圈转为可适应大锅和移动锅具的感应区域。它针对同时准备多道菜时锅具尺寸不同、位置变化的问题，让加热结构更接近用户实际摆放，而不是要求每口锅始终找准一个圈。",
+    "design": "严格几何外观下布置六个烹饪区和三个组合感应区域，给大尺寸锅具更多使用空间。表面保持平整，而感应系统在下面识别锅的位置，视觉上简洁的黑色平面因此包含可重新分配的加热关系。",
+    "usage": "用户放上锅具后，持续检测系统识别位置并激活对应元件；移动锅时，系统继续跟随新的位置。双重Boost、主厨模式和烧烤功能提供不同工作方式，炉面不再只依靠固定位置决定加热。",
+    "significance": "它把厨房工作中“移动锅”的动作纳入机器理解范围。组合区域处理锅具尺度，位置检测处理空间变化，预设功能处理加热目的；这使一块玻璃炉面更像可响应摆放的工作台，而不只是多只炉头。",
+    "limitationsNarrative": "感应加热仍需兼容锅底与合适尺寸，不能把任意材质锅具放上就使用。自动检测也需要正确摆放与遵循区域要求；多锅同时工作时，功率分配和使用方式应按说明确认，灵活不等于没有边界。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "sanfer-w70",
+    "name": "W70 Integrated Dishwasher",
+    "brand": "SANFER",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/sanfer-w70-integrated-dishwasher-67412"
+    },
+    "productUrl": "https://www.red-dot.org/project/sanfer-w70-integrated-dishwasher-67412",
+    "category": "kitchen",
+    "designDetails": [
+      "将洗碗机与人体工学水槽整合成柜体",
+      "可移动滤篮能收在砧板下方，高水龙头控制水花"
+    ],
+    "functionDetails": [
+      "提供十二套餐具装载能力",
+      "洗涤与水槽准备区域在同一工作站衔接"
+    ],
+    "limitations": [
+      "需要厨房柜体、供排水和台面协同安装"
+    ],
+    "whyRepresentative": "把洗涤前处理与机器清洗放到连续的厨房操作区域。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/sanfer-w70-integrated-dishwasher-67412",
+        "facts": [
+          "将洗碗机与人体工学水槽整合成柜体",
+          "可移动滤篮能收在砧板下方，高水龙头控制水花",
+          "提供十二套餐具装载能力",
+          "洗涤与水槽准备区域在同一工作站衔接"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 W70 Integrated Dishwasher；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "W70将洗碗机、水槽和备料附件整合成一处厨房工作站，面向中国家庭的洗涤与准备习惯。它把餐具进入机器前的处理，以及普通水槽的清洗动作放在同一柜体中，减少在分离设备之间来回转换。",
+    "design": "水槽按人体工学组织，移动滤篮可收在砧板下方，高水龙头同时考虑操作空间和水花。柜体内部容纳十二套餐具的洗碗机，台面附件、用水结构与机器装载位置共同形成连续的上下层次。",
+    "usage": "用户可在水槽处理食材和餐具，按需要移动滤篮或使用砧板，再把待洗餐具装入下方机器。水槽和洗碗能力不再分散在两件独立电器中，准备、清洗与收尾可以围绕同一工作位置完成。",
+    "significance": "它将厨房整合具体到手的移动路径。砧板和滤篮共享水槽范围，水龙头提供上方操作空间，洗碗机接续餐具处理；代表性来自不同工作如何在柜体上相接，而不仅是把更多功能写进产品名称。",
+    "limitationsNarrative": "一体结构需要橱柜、台面和供排水共同匹配，不能像普通小家电随意挪动。十二套餐具是标称装载能力，实际仍受餐具形状影响；水槽与洗碗机各自需要清理，整合不会取消维护空间。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "airfly-turbo-p1",
+    "name": "Turbo P1",
+    "brand": "AirFly Soocas",
+    "year": 2021,
+    "dateKind": "award",
+    "dateLabel": "2021 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/airfly-turbo-p1-49843"
+    },
+    "productUrl": "https://www.red-dot.org/project/airfly-turbo-p1-49843",
+    "category": "care",
+    "designDetails": [
+      "铝质主体配塑料手柄与编织电线",
+      "紧凑机身由Studio F. A. Porsche参与设计"
+    ],
+    "functionDetails": [
+      "四种智能温度设置",
+      "多种风嘴适应不同发型及造型动作"
+    ],
+    "limitations": [
+      "护理风嘴能力不能替代对热量、距离和发质的实际判断"
+    ],
+    "whyRepresentative": "通过材质分区和风嘴系统组织吹干与造型动作。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/airfly-turbo-p1-49843",
+        "facts": [
+          "铝质主体配塑料手柄与编织电线",
+          "紧凑机身由Studio F. A. Porsche参与设计",
+          "四种智能温度设置",
+          "多种风嘴适应不同发型及造型动作"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2021 Turbo P1；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "AirFly Turbo P1把吹干与不同发型护理安排在小型便携吹风机中。它由Soocas与Studio F. A. Porsche参与设计，通过材料分区和附件变化处理手中握持、气流输出与不同造型，而不只以机身大小区分。",
+    "design": "铝质主体配塑料手柄，编织电线处理随手收纳和移动时的接触。材料在发热主体、握持位置和线缆之间分工，紧凑轮廓又以速度与力量为设计意象，使技术结构和视觉表达集中在同一手持物体上。",
+    "usage": "使用者选择四种智能温度设置中的合适一档，再根据发型换用相应风嘴，包括护理用途的附件。机身负责供风，附件负责把气流送到需要的形式与位置，手握方向继续决定它怎样与梳理动作配合。",
+    "significance": "它把便携护理设备的完整性放在材料与风嘴系统中。铝壳和手柄回应接触与体量，温度设置回应热量，附件回应发型；几种选择共同说明同一吹风工具如何服务不同的吹干和造型动作。",
+    "limitationsNarrative": "护理风嘴不等于能自动判断所有发质或避免全部热损伤，仍需控制距离、温度与停留时间。便携体量也不代表电源条件通用；附件需要收纳和清洁，使用者应按实际型号说明连接与更换。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "bosch-room-thermostat2",
+    "name": "Smart Home Room Thermostat II",
+    "brand": "Bosch",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/bosch-smart-home-room-thermostat-ii-63580"
+    },
+    "productUrl": "https://www.red-dot.org/project/bosch-smart-home-room-thermostat-ii-63580",
+    "category": "smart-home",
+    "designDetails": [
+      "不操作时表面保持连续简洁",
+      "有线和无线版本共用低干扰房间界面"
+    ],
+    "functionDetails": [
+      "无线版以电池传感遥控配合暖气恒温阀",
+      "有线版控制地暖、燃气锅炉等有线供暖设备"
+    ],
+    "limitations": [
+      "两种版本对应不同供暖系统，购买安装前需核对兼容性"
+    ],
+    "whyRepresentative": "把不同底层供暖设备收敛成房间中统一的温度控制入口。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/bosch-smart-home-room-thermostat-ii-63580",
+        "facts": [
+          "不操作时表面保持连续简洁",
+          "有线和无线版本共用低干扰房间界面",
+          "无线版以电池传感遥控配合暖气恒温阀",
+          "有线版控制地暖、燃气锅炉等有线供暖设备"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2023 Smart Home Room Thermostat II；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Room Thermostat II用同一简洁房间界面连接不同供暖方式。无线版与恒温阀配合，有线版连接相应供暖控制，设计因此需要把看不见的系统差异收在后端，让用户面前仍是容易理解的温度入口。",
+    "design": "不使用时表面保持连续简约，隐藏大部分技术感，使设备作为墙面物件融入房间。不同连接版本共用克制外观，控制和传感留在小型机身中，用户不必从外壳形态直接学习整套供暖系统结构。",
+    "usage": "无线版以电池供电，传感与远程控制配合暖气恒温阀；有线版则用于兼容的地暖、燃气锅炉或小电暖器。安装时先选择适合系统的版本，日常再从房间界面进行温度控制，把系统能力转成可用设置。",
+    "significance": "它把家庭供暖的不同技术路径收敛成统一操作。外观负责减少墙面干扰，版本分工负责系统兼容，传感和控制负责温度关系；代表性来自界面一致与底层差异之间的明确安排，而非完全隐藏差异。",
+    "limitationsNarrative": "有线与无线版不能互相替代，安装前必须核对供暖系统和控制方式。电池或接线也各有维护要求，简洁面板不会取消这些差异；房间实际温度还受空间与供暖设备影响，需按系统要求配置。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "acer-revo-box",
+    "name": "Revo Box",
+    "brand": "Acer",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/acer-revo-box-71195"
+    },
+    "productUrl": "https://www.red-dot.org/project/acer-revo-box-71195",
+    "category": "computers",
+    "designDetails": [
+      "微型机身将桌面计算部件集中到小占地外壳",
+      "外置偶极Wi-Fi天线在尺寸和连接之间取舍"
+    ],
+    "functionDetails": [
+      "配Intel Core处理器与多种I/O接口",
+      "支持Wi-Fi 6E和Bluetooth 5.0"
+    ],
+    "limitations": [
+      "需另接显示器和输入设备，不能把小机身体积等同于完整工作区体积"
+    ],
+    "whyRepresentative": "展示桌面电脑通过集中封装缩小可见主体后的连接关系。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/acer-revo-box-71195",
+        "facts": [
+          "微型机身将桌面计算部件集中到小占地外壳",
+          "外置偶极Wi-Fi天线在尺寸和连接之间取舍",
+          "配Intel Core处理器与多种I/O接口",
+          "支持Wi-Fi 6E和Bluetooth 5.0"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Revo Box；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Revo Box将传统桌面电脑的主要部件压缩到小型机身中，让用户保留外接显示器和输入设备的选择。它回应的是桌面上主机占据空间的问题，而不是把整套工作区都装进一只盒子。",
+    "design": "紧凑克制外壳避免大塔式机箱的体量，外部偶极Wi-Fi天线为无线连接留出独立位置。多种I/O接口仍集中在机身边缘，缩小主体并没有取消与显示器、键鼠和外置设备之间的真实连接关系。",
+    "usage": "用户将主机接到显示器和输入设备，根据任务连接其他外设，再通过Intel Core计算平台运行应用。Wi-Fi 6E和Bluetooth 5.0提供无线入口，接口则保留有线选择，桌面布置可按已有设备安排。",
+    "significance": "它展示台式电脑在高度集成后怎样重新组织可见部分。小盒子承担计算，外置天线承担信号路径，接口承担扩展，显示和输入继续在外围完成；“小型化”因此是一种结构分工，不是所有设备消失。",
+    "limitationsNarrative": "完整使用仍需要显示器、键盘和鼠标等外围设备，不能把主机占地当作全部桌面占地。应用表现取决于具体配置，接口能力也需按型号确认；小机身仍要保留通风，不能随意塞入密闭缝隙。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "lenovo-tab-m11",
+    "name": "Tab M11 + Tab Pen",
+    "brand": "Lenovo",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/lenovo-tab-m11-lenovo-tab-pen-70791"
+    },
+    "productUrl": "https://www.red-dot.org/project/lenovo-tab-m11-lenovo-tab-pen-70791",
+    "category": "computers",
+    "designDetails": [
+      "冲压铝一体机身采用清晰直线",
+      "Wi-Fi版激光纹理与LTE版半透明材料分别兼顾外观和天线"
+    ],
+    "functionDetails": [
+      "平板与手写笔配合入门教育使用",
+      "整合影音、基础生产力和学习功能"
+    ],
+    "limitations": [
+      "基础生产力定位不等于替代所有桌面专业软件"
+    ],
+    "whyRepresentative": "把材料选择、无线信号与年轻用户的手写学习场景联系起来。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/lenovo-tab-m11-lenovo-tab-pen-70791",
+        "facts": [
+          "冲压铝一体机身采用清晰直线",
+          "Wi-Fi版激光纹理与LTE版半透明材料分别兼顾外观和天线",
+          "平板与手写笔配合入门教育使用",
+          "整合影音、基础生产力和学习功能"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Tab M11 + Tab Pen；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Tab M11与Tab Pen共同面向年轻用户的入门学习和基础生产力，把影音与手写放到同一平板。它需要在轻便外壳中容纳不同连接版本，因此材料选择同时回应外观、结构和无线天线条件。",
+    "design": "冲压铝一体机身形成清楚直线，Wi-Fi版以激光纹理处理表面，LTE版使用半透明材料支持天线。相似外形下存在不同材料安排，手写笔又成为触屏之外的精细输入方式，组成学习时可直接拿起的组合。",
+    "usage": "用户可以触控浏览影音内容，也能拿起Tab Pen进行学习和手写任务，再回到基础办公应用。屏幕既显示资料也接收笔迹，减少纸张与电脑之间转换；无线版本则依照实际联网需要选择。",
+    "significance": "它把入门设备的设计问题落实到材料与输入方式。铝壳处理体量和触感，天线区域处理通信，笔处理学习动作，三者共同解释为什么平板不只是一个较大手机，而是可携带的信息与书写表面。",
+    "limitationsNarrative": "基础生产力定位不等于能够替代所有桌面专业软件，手写体验也依赖应用支持。Wi-Fi与LTE版连接能力不同，不能跨版本借用功能；配套笔和软件的使用条件仍应按具体销售组合核对。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "livefan-r08",
+    "name": "R08 Outdoor Exploration Tablet",
+    "brand": "Livefan",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/r08-outdoor-exploration-tablet-70895"
+    },
+    "productUrl": "https://www.red-dot.org/project/r08-outdoor-exploration-tablet-70895",
+    "category": "computers",
+    "designDetails": [
+      "镁合金外壳兼顾轻量与耐用",
+      "可更换电池面向长时间户外使用"
+    ],
+    "functionDetails": [
+      "8英寸多点触控屏支持手写",
+      "多种接口适应应急、车辆与户外数据任务"
+    ],
+    "limitations": [
+      "更换电池延长使用能力，但需另备电池并按规定更换"
+    ],
+    "whyRepresentative": "将可维护电源和外场输入保留在一台小型计算设备。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/r08-outdoor-exploration-tablet-70895",
+        "facts": [
+          "镁合金外壳兼顾轻量与耐用",
+          "可更换电池面向长时间户外使用",
+          "8英寸多点触控屏支持手写",
+          "多种接口适应应急、车辆与户外数据任务"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 R08 Outdoor Exploration Tablet；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "R08针对应急、车辆和户外数据任务，将8英寸屏幕、多接口与可更换电池装进耐用平板。它面对的不是普通沙发阅读，而是使用者离开固定桌面后仍需要输入、记录和持续工作的场景。",
+    "design": "镁合金外壳兼顾重量与耐用，8英寸机身维持可手持体量，可更换电池为现场补充能源保留物理入口。多接口让设备接入不同工具，结构不追求完全封闭，而在紧凑形态里保留维护和连接。",
+    "usage": "工作人员可用多点触控或手写记录信息，按任务连接外部设备；电量不足时，按规定流程换用备用电池。计算、输入和通信随着人到达现场，可维护电源让工作不完全依赖附近是否有墙面插座。",
+    "significance": "它将便携计算的边界从轻薄扩展到持续可用。金属外壳回应现场环境，手写回应移动输入，电池入口回应补能，多接口回应已有工具；这些选择与消费平板追求极少开口的路线形成可解释差异。",
+    "limitationsNarrative": "备用电池需要另外准备，并按设备说明操作，不能据可更换结构推断支持不断电热换。耐用外壳也有具体防护条件，现场使用仍需考虑固定、接口和电源；8英寸屏幕在复杂任务中仍有显示空间限制。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "xppen-artist-pro24",
+    "name": "Artist Pro 24",
+    "brand": "XPPen",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/artist-pro-24-71100"
+    },
+    "productUrl": "https://www.red-dot.org/project/artist-pro-24-71100",
+    "category": "input-printing",
+    "designDetails": [
+      "笔架位置同时照顾左右手用户",
+      "可调支架加入散热开孔，控制绘画角度"
+    ],
+    "functionDetails": [
+      "23.8英寸4K UHD显示支持直接绘画",
+      "通过USB-C连接Apple或Windows电脑"
+    ],
+    "limitations": [
+      "需要外接电脑和兼容连接条件，不是独立运行的平板电脑"
+    ],
+    "whyRepresentative": "把显示、手写与姿势调节组织成可持续工作的绘画表面。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/artist-pro-24-71100",
+        "facts": [
+          "笔架位置同时照顾左右手用户",
+          "可调支架加入散热开孔，控制绘画角度",
+          "23.8英寸4K UHD显示支持直接绘画",
+          "通过USB-C连接Apple或Windows电脑"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 Artist Pro 24；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "Artist Pro 24为需要直接在画面上工作的创作者提供大尺寸绘画表面。它将显示、笔输入和支架调整组合起来，用户不只看屏幕，也持续把手放到屏幕上，因此角度、笔的位置和桌面关系都影响使用。",
+    "design": "23.8英寸4K UHD画面由可调支架承托，支架同时加入通风开孔。笔架位置照顾左右手使用者，避免笔闲置时无处安放；线缆与支撑关系也被纳入整体，让显示面能成为稳定的手工作业区域。",
+    "usage": "用户通过USB-C连接相容Apple或Windows电脑，调到适合绘画的角度，再用笔直接在画面上输入。创作间歇将笔放回支架，屏幕继续呈现内容，绘画、观看和暂时停笔围绕同一表面连续完成。",
+    "significance": "它把显示器从竖直观看窗口转为身体会靠近的输入工作台。支架角度决定手臂姿势，笔架决定停笔动作，屏幕决定画面空间，接口连接电脑运算；产品的完整性因此不止于分辨率。",
+    "limitationsNarrative": "它需要外接电脑和兼容连接，不能按独立运行平板理解。大尺寸画面也需要足够桌面和合适姿势，支架调节不能替代休息；笔和应用适配会影响实际创作，购买时应核对信号与系统条件。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "honeywell-scanpal-eda10a",
+    "name": "ScanPal EDA10A 5G Rugged Tablet",
+    "brand": "Honeywell",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/scanpaltm-eda10a-5g-rugged-tablet-70918"
+    },
+    "productUrl": "https://www.red-dot.org/project/scanpaltm-eda10a-5g-rugged-tablet-70918",
+    "category": "computers",
+    "designDetails": [
+      "Gorilla Glass 5配TPU包覆及抬高边角",
+      "可拆电池与11.7毫米薄型机身兼顾维护和携带"
+    ],
+    "functionDetails": [
+      "多点触控可用手套、湿手或油手操作",
+      "为零售、物流与外场服务提供数据处理和通信"
+    ],
+    "limitations": [
+      "耐用设计仍有具体防护使用条件，不能推断可承受任意环境"
+    ],
+    "whyRepresentative": "将工业防护与戴手套输入保留在接近日常平板的体积。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/scanpaltm-eda10a-5g-rugged-tablet-70918",
+        "facts": [
+          "Gorilla Glass 5配TPU包覆及抬高边角",
+          "可拆电池与11.7毫米薄型机身兼顾维护和携带",
+          "多点触控可用手套、湿手或油手操作",
+          "为零售、物流与外场服务提供数据处理和通信"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 ScanPal EDA10A 5G Rugged Tablet；年度来自栏目文本而非项目编号。"
+      }
+    ],
+    "context": "ScanPal EDA10A把平板计算带到零售、物流与外场服务，面对戴手套、湿手或油手仍需输入的情境。它要保留相对轻薄的形态，又承受比普通办公桌更复杂的接触，因此防护与触控共同设计。",
+    "design": "Gorilla Glass 5配TPU包覆和抬高边角，先处理正面和跌碰时容易接触的位置。可拆电池为维护保留入口，薄型机身继续便于携带；外壳不是只加一只厚保护套，而把握持、边角和电源一起安排。",
+    "usage": "工作人员可在不先脱手套的情况下操作多点触屏，用于数据采集和通信，再按任务连接业务系统。湿或带油的手也有对应触控支持；电池可拆使补能和维护具有明确路径，适合反复流转的工作设备。",
+    "significance": "它展示工业设备如何在防护和日常平板手感间折中。边角与TPU处理冲击，触控处理手部条件，电池处理维护，计算功能继续服务现场业务；这些差异都能从工作人员的具体动作解释。",
+    "limitationsNarrative": "耐用设计仍有规定环境和测试条件，不能理解为可以承受任意冲击或化学物。手套输入也需符合设备支持，电池更换应按流程；业务应用、网络与数据安全配置仍决定设备能否真正完成现场任务。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "sunmi-mix",
+    "name": "P3 MIX",
+    "brand": "SUNMI",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/mix-series-69584"
+    },
+    "productUrl": "https://file.cdn.sunmi.com/newebsite/support/material/data/payment-en-new.pdf",
+    "category": "input-printing",
+    "designDetails": [
+      "10英寸屏与铝镁合金框架组成可移动终端",
+      "可旋转或固定功能底座扩展外设连接"
+    ],
+    "functionDetails": [
+      "整合扫码、支付与内置打印",
+      "停靠底座可连接钱箱、手持扫描器和网络"
+    ],
+    "limitations": [
+      "支付和读卡功能需要当地兼容服务与业务系统"
+    ],
+    "whyRepresentative": "把店员拿起、放回和转向顾客的动作纳入同一收银终端。",
+    "commercialStatus": "已量产；SUNMI官方2024产品册明确型号与获奖标志",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/mix-series-69584",
+        "facts": [
+          "电池仓同时用作手柄",
+          "平板磁吸底座可旋转或固定，打印盖使用半透明材料",
+          "两枚略倾斜扫描器支持收银扫描",
+          "磁条读卡器两侧可刷卡，支持移动与桌面工作"
+        ],
+        "yearEvidence": "官方型号明细页页首：Back Product Design 2024 MIX Series POS Terminal；年度来自栏目文本而非项目编号。"
+      },
+      {
+        "url": "https://file.cdn.sunmi.com/newebsite/support/material/data/payment-en-new.pdf",
+        "facts": [
+          "SUNMI P3 MIX标red dot winner 2024和iF DESIGN AWARD 2024",
+          "10寸显示、内置打印机、专业1D/2D扫描、铝镁合金框架、旋转或固定底座"
+        ]
+      }
+    ],
+    "context": "SUNMI P3 MIX属于红点获奖MIX组，官方2024产品册直接标示其获奖与量产形态。它把大屏支付、条码输入和打印装进可拿走也可停靠的终端，让店员从柜台走到顾客身边时不必更换整套设备。",
+    "design": "10英寸屏幕、内置打印机和扫描入口集中在同一机身，铝镁合金框架保持结构。专门底座可旋转或固定，电池区域兼作握持，移动终端放回底座后又成为柜台设备，支撑与拿取有明确转换。",
+    "usage": "店员可拿起终端进行点单、扫码或收款，并直接打印票据；回到柜台后放入底座，继续连接钱箱、网络或手持扫描器等附件。触屏、支付入口和纸张输出始终随主体移动，业务流程因此不必重新开始。",
+    "significance": "它把移动收银与固定收银设计成同一物体的两种状态。手柄和电池支持拿走，底座支持稳定与扩展，打印机保留现场交付票据的能力；这种转换比单纯增大屏幕更能解释大型移动终端的价值。",
+    "limitationsNarrative": "支付方式与服务需符合当地支持及商户系统，不能把接口存在等同于所有银行卡和业务都可立即使用。官方MIX组还包含其他型号，本条只选P3 MIX；底座、扫描与网络配置也需按销售版本核对。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "sjcam-sj20",
+    "name": "SJ20",
+    "brand": "SJCAM",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/sj20-64760"
+    },
+    "productUrl": "https://www.red-dot.org/project/sj20-64760",
+    "category": "imaging",
+    "designDetails": [
+      "双相机模块以红框强调功能区域",
+      "金属外壳帮助长时间拍摄散热"
+    ],
+    "functionDetails": [
+      "两个模块可切换，其中一个针对夜间记录优化",
+      "支持运动场景照片与视频拍摄"
+    ],
+    "limitations": [
+      "双模块切换不能保证所有夜景都达到同样画质"
+    ],
+    "whyRepresentative": "通过独立光学模块区分日间和夜间拍摄需求。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/sj20-64760",
+        "facts": [
+          "双相机模块以红框强调功能区域",
+          "金属外壳帮助长时间拍摄散热",
+          "两个模块可切换，其中一个针对夜间记录优化",
+          "支持运动场景照片与视频拍摄"
+        ]
+      }
+    ],
+    "context": "SJ20以两个可切换相机模块回应日间和夜间运动记录的不同条件。它不是把同一套设置简单换成夜景菜单，而在机身上明确保留两处光学入口，让用户根据环境选择适合的记录模块。",
+    "design": "双模块以红色边框强调，形成品牌识别和功能分区，金属外壳帮助长时间拍摄散热。两个相机共同占据小型机身的主要正面，用户从外形就能看出它的双重记录路径，而不必先打开软件菜单。",
+    "usage": "使用者根据光线在两个模块间切换，其中一只针对夜间照片与视频优化。机身在持续记录时通过金属结构散出热量，适应较长拍摄；切换让环境差异在使用过程中变成明确选择，而不是完全交给自动算法。",
+    "significance": "它把夜间拍摄能力落实成独立模块和可见结构。红框帮助识别，金属壳处理持续工作，双入口处理不同光线，几种设计围绕记录条件展开；适合比较运动相机如何通过硬件分工拓展使用时段。",
+    "limitationsNarrative": "独立夜间模块不能保证所有低光环境都得到相同画质，运动、光源和设置仍会影响结果。金属散热也需要合适空气条件；红点年份是获奖登记年份，不宜直接当作具体上市日期或每个市场的销售时间。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "autel-evo-max4t",
+    "name": "EVO Max 4T",
+    "brand": "Autel Robotics",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/evo-max-4t-64768"
+    },
+    "productUrl": "https://www.red-dot.org/project/evo-max-4t-64768",
+    "category": "imaging",
+    "designDetails": [
+      "坚固耐候结构面向专业飞行使用",
+      "多用途载荷区域集中不同观察工具"
+    ],
+    "functionDetails": [
+      "广角、变焦、热成像及激光测距仪配合工作",
+      "全向避障辅助自主飞行，官方列最远20公里图传"
+    ],
+    "limitations": [
+      "图传距离不等于许可飞行范围，作业需满足现场和当地要求"
+    ],
+    "whyRepresentative": "把多光谱观察与测距整合成空中检查工具。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/evo-max-4t-64768",
+        "facts": [
+          "坚固耐候结构面向专业飞行使用",
+          "多用途载荷区域集中不同观察工具",
+          "广角、变焦、热成像及激光测距仪配合工作",
+          "全向避障辅助自主飞行，官方列最远20公里图传"
+        ]
+      }
+    ],
+    "context": "EVO Max 4T面向专业空中观察，把可见光、热成像与测距装进同一四旋翼。它要让操作者在远处了解现场，因此飞行稳定、障碍感知与多种观察工具共同构成产品，而不是只围绕航拍画面。",
+    "design": "坚固耐候结构面向复杂现场，载荷区域集中广角、变焦、热相机和激光测距工具。不同传感器共同观察目标，飞行平台提供位置与视角，机身因此同时承载飞行设备和专业测量工具两种任务。",
+    "usage": "操作人员按任务起飞并选择所需画面，可用广角建立场景、变焦观察局部、热像查看温差，再结合测距信息。全向避障辅助自主飞行，图传把现场信息送回操作者，观察动作由地面延伸到空中。",
+    "significance": "它的代表性是将多种信息源带到同一移动视点。相机不只负责照片，热像与测距提供其他维度，飞行平台又改变可到达的位置；这些能力共同服务检查与响应任务，体现专业无人机与普通航拍的区别。",
+    "limitationsNarrative": "官方最远20公里图传是技术条件下的能力，不等于实际任务可不受限制地飞到同样距离。避障也不能取消操作者判断；载荷、风、环境和通信条件影响使用，作业应按具体设备与现场要求安排。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "youcan-oceaneye",
+    "name": "OceanEye",
+    "brand": "Youcan Robotics",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/oceaneye-64759"
+    },
+    "productUrl": "https://www.red-dot.org/project/oceaneye-64759",
+    "category": "robotics",
+    "designDetails": [
+      "流线型机身以八个推进器组织水下移动",
+      "可选装机械臂或采样等任务附件"
+    ],
+    "functionDetails": [
+      "遥控器或手机应用控制转向与旋转",
+      "4K相机回传水下画面，可扩展声呐或水样采集"
+    ],
+    "limitations": [
+      "需根据具体任务选配附件，机体能看见水下不代表自动完成所有检测"
+    ],
+    "whyRepresentative": "将水下观察和工具载荷结合成可操纵的远程平台。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/oceaneye-64759",
+        "facts": [
+          "流线型机身以八个推进器组织水下移动",
+          "可选装机械臂或采样等任务附件",
+          "遥控器或手机应用控制转向与旋转",
+          "4K相机回传水下画面，可扩展声呐或水样采集"
+        ]
+      }
+    ],
+    "context": "OceanEye把远程观察带到水下，使用者在岸上或船上通过画面了解机器所在环境。它将八推进器、4K相机与可选任务工具组合，面向不便由人直接进入的水域，使移动、观察与操作有共同平台。",
+    "design": "流线机身由八个推进器组织多方向移动，可转向和旋转，减少只沿单一方向前进的限制。机械臂、声呐、激光测距或采样附件按任务增加，主体先提供可控运动和观察，再为不同工具保留位置。",
+    "usage": "用户通过遥控器或手机应用操纵推进器，从4K相机画面确认水下位置与目标。需要进一步处理时，再选择适合附件，例如机械臂或水样采集；观察到目标与实际操作工具因此可以在同一平台衔接。",
+    "significance": "它把无人设备的设计范围从空中扩大到水体。推进器解决环境中的移动，相机解决远程可见性，附件解决具体任务，三者分工明确；产品价值来自让人以不同信息和工具接近原本难到达的区域。",
+    "limitationsNarrative": "获奖页描述多种可选附件，并不代表每台标准配置全部附送。水域能见度、流动和任务距离会影响操作，4K记录也不能保证浑水中仍清晰；使用前需核对实际防护、附件和连接条件。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "rapoo-mt760",
+    "name": "MT760",
+    "brand": "Rapoo",
+    "year": 2023,
+    "dateKind": "award",
+    "dateLabel": "2023 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2023,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/mt760-65413"
+    },
+    "productUrl": "https://www.red-dot.org/project/mt760-65413",
+    "category": "input-printing",
+    "designDetails": [
+      "倾斜轮廓与宽拇指承托面支持整只手",
+      "清晰线条围绕亚洲用户手型设计"
+    ],
+    "functionDetails": [
+      "无线激光鼠标完成指针输入",
+      "侧面增加拇指滚轮，减少重复腕部动作"
+    ],
+    "limitations": [
+      "特定手型定位不保证适合所有握法，仍需实际握持比较"
+    ],
+    "whyRepresentative": "把横向滚动和手掌承托作为办公鼠标的人体工学重点。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/mt760-65413",
+        "facts": [
+          "倾斜轮廓与宽拇指承托面支持整只手",
+          "清晰线条围绕亚洲用户手型设计",
+          "无线激光鼠标完成指针输入",
+          "侧面增加拇指滚轮，减少重复腕部动作"
+        ]
+      }
+    ],
+    "context": "MT760围绕持续办公中的手部承托与滚动动作设计。它以亚洲用户手型为目标，通过倾斜轮廓和拇指支撑面接住整只手，再给拇指增加第二滚轮，减少某些重复导航对手腕的依赖。",
+    "design": "简洁线条下的机身略向侧面倾斜，宽拇指平台与手掌轮廓相接。侧滚轮放在拇指附近，使主要滚轮和辅助滚轮由不同手指分担，人体工学因此不仅体现在外壳弧度，也体现在控制分布。",
+    "usage": "用户握住鼠标移动指针，食指附近的常规滚轮处理一类滚动，拇指侧轮提供额外导航。保持手掌被支撑的同时完成更多动作，减少反复转腕或移动指针去找滚动条，适合持续浏览宽内容的桌面任务。",
+    "significance": "它把舒适性落实为支撑与动作分配。倾斜外形接住手掌，宽平台托住拇指，第二滚轮再把一种重复动作交给拇指完成；代表性来自控制与人体结构的对应，而不是简单把机身做得更大。",
+    "limitationsNarrative": "针对一类手型的设计不一定适合所有人，掌握、抓握和指握也会产生不同感觉。第二滚轮的实际用途依赖软件与设置，承托结构无法替代合适桌面和休息；购买前实际握持仍比外观判断更直接。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "franke-mytico",
+    "name": "Mytico",
+    "brand": "Franke",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/franke-mytico-67414"
+    },
+    "productUrl": "https://www.red-dot.org/project/franke-mytico-67414",
+    "category": "kitchen",
+    "designDetails": [
+      "低机身保持咖啡师与顾客视线交流",
+      "倾斜短脚、圆角杯栏与触屏组合复古和现代部件"
+    ],
+    "functionDetails": [
+      "双咖啡模块可同时制作四杯",
+      "可调冲煮温度、iQFlow与自动清洁管理制作过程"
+    ],
+    "limitations": [
+      "面向餐饮业，需专业安装及日常清洁流程"
+    ],
+    "whyRepresentative": "把出杯效率、顾客交流和触屏操作统一到商用咖啡工作台。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/franke-mytico-67414",
+        "facts": [
+          "低机身保持咖啡师与顾客视线交流",
+          "倾斜短脚、圆角杯栏与触屏组合复古和现代部件",
+          "双咖啡模块可同时制作四杯",
+          "可调冲煮温度、iQFlow与自动清洁管理制作过程"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "nivona-nivo8000",
+    "name": "NIVO 8000",
+    "brand": "NIVONA",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/nivo-8000-67444"
+    },
+    "productUrl": "https://www.red-dot.org/project/nivo-8000-67444",
+    "category": "kitchen",
+    "designDetails": [
+      "清晰控制区配低调旋钮",
+      "详细和简化两种显示适应不同设置深度"
+    ],
+    "functionDetails": [
+      "RomaticaPlus冲煮组件控制温度、压力和流经时间",
+      "可变冲煮腔处理不同咖啡量"
+    ],
+    "limitations": [
+      "风味仍取决于咖啡豆、水质和日常清洁"
+    ],
+    "whyRepresentative": "将复杂萃取变量放在可选择深浅的控制界面之后。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/nivo-8000-67444",
+        "facts": [
+          "清晰控制区配低调旋钮",
+          "详细和简化两种显示适应不同设置深度",
+          "RomaticaPlus冲煮组件控制温度、压力和流经时间",
+          "可变冲煮腔处理不同咖啡量"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "timemore-millab-e01",
+    "name": "Millab E01",
+    "brand": "Timemore",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/timemore-millab-e01-67508"
+    },
+    "productUrl": "https://www.red-dot.org/project/timemore-millab-e01-67508",
+    "category": "kitchen",
+    "designDetails": [
+      "整块铝材成型外壳以竖纹保持连续感",
+      "居中的自动复位滑动开关减少按钮数量"
+    ],
+    "functionDetails": [
+      "内置电池驱动咖啡研磨",
+      "官方描述一次充电最多完成60次研磨"
+    ],
+    "limitations": [
+      "研磨次数随豆量和设置变化，需按实际用量安排充电"
+    ],
+    "whyRepresentative": "把电动研磨缩小到可带走的单一铝壳物件。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/timemore-millab-e01-67508",
+        "facts": [
+          "整块铝材成型外壳以竖纹保持连续感",
+          "居中的自动复位滑动开关减少按钮数量",
+          "内置电池驱动咖啡研磨",
+          "官方描述一次充电最多完成60次研磨"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "delonghi-rivelia",
+    "name": "Rivelia",
+    "brand": "De’Longhi",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/delonghi-rivelia-67485"
+    },
+    "productUrl": "https://www.red-dot.org/project/delonghi-rivelia-67485",
+    "category": "kitchen",
+    "designDetails": [
+      "紧凑机身配柔和配色",
+      "操作界面逐步引导个性化设置"
+    ],
+    "functionDetails": [
+      "Bean Switch System使用可快速装接豆仓切换咖啡豆",
+      "Bean Adapt辅助匹配所选豆子的冲煮参数"
+    ],
+    "limitations": [
+      "不同豆种仍需要正确储存，换豆机制不是无限期保鲜保证"
+    ],
+    "whyRepresentative": "把换豆从清空整机料仓变成可理解的容器交换。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/delonghi-rivelia-67485",
+        "facts": [
+          "紧凑机身配柔和配色",
+          "操作界面逐步引导个性化设置",
+          "Bean Switch System使用可快速装接豆仓切换咖啡豆",
+          "Bean Adapt辅助匹配所选豆子的冲煮参数"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "nivona-cube4",
+    "name": "CUBE 4’",
+    "brand": "NIVONA",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/cube-4-67460"
+    },
+    "productUrl": "https://www.red-dot.org/project/cube-4-67460",
+    "category": "kitchen",
+    "designDetails": [
+      "小立方机身保留手动装取冲煮杯动作",
+      "冲煮杯两半反向转动时伸缩结构顶出粉饼"
+    ],
+    "functionDetails": [
+      "智能压粉功能根据咖啡量管理冲煮压力",
+      "手动准备与自动萃取组合成精简流程"
+    ],
+    "limitations": [
+      "使用者仍需装粉和清除粉饼，不能按全自动豆到杯流程理解"
+    ],
+    "whyRepresentative": "把自动压粉和容易倒粉饼的机械动作结合。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/cube-4-67460",
+        "facts": [
+          "小立方机身保留手动装取冲煮杯动作",
+          "冲煮杯两半反向转动时伸缩结构顶出粉饼",
+          "智能压粉功能根据咖啡量管理冲煮压力",
+          "手动准备与自动萃取组合成精简流程"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ankerwork-s600",
+    "name": "S600",
+    "brand": "AnkerWork",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/ankerwork-s600-70455"
+    },
+    "productUrl": "https://www.red-dot.org/project/ankerwork-s600-70455",
+    "category": "players",
+    "designDetails": [
+      "磁吸充电板让手机横竖摆放",
+      "把会议扬声器和手机支撑收拢为桌面中心"
+    ],
+    "functionDetails": [
+      "声纹识别过滤背景人声，配合环境降噪",
+      "同时提供蓝牙音箱与Qi2无线充电"
+    ],
+    "limitations": [
+      "声纹与降噪效果依赖录入和环境，Qi2需兼容手机"
+    ],
+    "whyRepresentative": "围绕移动办公把收音、外放和手机停靠组合成一件桌面设备。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/ankerwork-s600-70455",
+        "facts": [
+          "磁吸充电板让手机横竖摆放",
+          "把会议扬声器和手机支撑收拢为桌面中心",
+          "声纹识别过滤背景人声，配合环境降噪",
+          "同时提供蓝牙音箱与Qi2无线充电"
+        ]
+      }
+    ],
+    "context": "S600围绕个人桌面上的混合办公需求，把电话会议、手机停靠与充电放在一件设备中。它面对的不是单纯播放音乐，而是人在家中或共享环境通话时，怎样保留自己的声音、安放手机并持续供电。",
+    "design": "磁吸充电板把手机支在可观看的位置，并允许横向或竖向放置。会议扬声器与停靠位置集中在同一桌面体量中，减少独立支架、充电板和外放设备的散放，让手机画面与会议收音更接近同一个操作中心。",
+    "usage": "用户把兼容手机吸附到充电板，可在充电时查看横屏或竖屏内容；设备同时作为蓝牙扬声器处理声音。会议中，声纹识别尝试保留指定用户的声音，环境降噪进一步处理常见噪声，两者分别对应背景人声与环境干扰。",
+    "significance": "它把桌面上经常分别购买的功能重新组织成一次停靠动作。放上手机后，显示、供电与声音都有明确位置；声纹与降噪又回应多人共享空间的通话问题，使整合理由能够从真实办公过程里看见。",
+    "limitationsNarrative": "磁吸和Qi2充电需要兼容手机及正确对位，不能假定所有外壳和设备都适用。声纹过滤也依赖录入、设置与现场声音条件；多人共同发言时，应确认会议模式适合当前场景，避免把需要传达的其他人声误作背景。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "sony-htax7",
+    "name": "HT-AX7",
+    "brand": "Sony",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Best of the Best",
+      "url": "https://www.red-dot.org/project/ht-ax7-70531"
+    },
+    "productUrl": "https://www.sony.com/en/SonyInfo/design/stories/HT-AX7/",
+    "category": "players",
+    "designDetails": [
+      "主音箱顶面收纳并充电两个卫星音箱",
+      "再生织物与塑料配柔和配色，降低技术外露感"
+    ],
+    "functionDetails": [
+      "取下两只卫星放在身后即可布置空间聆听",
+      "无线连接便于在沙发、床或阳台搬动使用"
+    ],
+    "limitations": [
+      "小型空间声音处理与实体多声道影院有不同声学边界"
+    ],
+    "whyRepresentative": "让环绕聆听从固定布线变成可拿起再摆放的动作。",
+    "commercialStatus": "已量产商用品；制造商型号说明/使用指引已核对",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/ht-ax7-70531",
+        "facts": [
+          "主音箱顶面收纳并充电两个卫星音箱",
+          "再生织物与塑料配柔和配色，降低技术外露感",
+          "取下两只卫星放在身后即可布置空间聆听",
+          "无线连接便于在沙发、床或阳台搬动使用"
+        ]
+      },
+      {
+        "url": "https://www.sony.com/en/SonyInfo/design/stories/HT-AX7/",
+        "facts": [
+          "布面来自PET瓶，硅胶触面，卫星磁吸回主机；两只卫星放在使用者身后两侧。"
+        ]
+      }
+    ],
+    "context": "HT-AX7针对用手机和平板观看内容时声音单薄的问题，将一台主音箱与两只小卫星组成可搬动系统。它把原本需要分散布线的环绕聆听，改成从主机上拿起两只音箱、在身后摆放的简单准备动作。",
+    "design": "主音箱顶面既是收纳位，也是卫星音箱的充电位置；不用时三件设备能叠回一个整体。圆润轮廓由织物、硅胶触面和再生塑料组成，灰色织物降低客厅中的电器感，磁吸连接又给收放提供明确的手感反馈。",
+    "usage": "观看前先把主音箱放在前方，将两只卫星取下置于身后两侧，再把手机或平板作为音源连接。空间声音处理能把立体声材料扩展为更包围的聆听效果；结束后把卫星放回主机，即同时完成收纳与下一次使用的充电准备。",
+    "significance": "它的重要变化是把家庭影院的准备工作转成一组随身物件的摆放。主机和卫星的分离让声源位置真实变化，声音算法继续组织虚拟声场，而收纳和充电共用同一连接，减少在每个房间重新安排附件的负担。",
+    "limitationsNarrative": "三只小音箱的体积、摆位和无线音源方式决定了它的使用边界，不能把算法营造的包围感等同于任意规格的固定家庭影院。卫星仍需正确放置并保持电量；开放阳台与卧室的声学条件不同，听感也会随环境改变。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "soundcore-boom2",
+    "name": "Boom 2",
+    "brand": "Soundcore",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/soundcore-boom-2-2-se-70456"
+    },
+    "productUrl": "https://www.red-dot.org/project/soundcore-boom-2-2-se-70456",
+    "category": "players",
+    "designDetails": [
+      "宽一体提手便于户外搬运",
+      "立体铝质前格栅与棱角机身传达坚固感"
+    ],
+    "functionDetails": [
+      "低音单元与双高音组成便携声学系统",
+      "BassUp声音处理配合节拍同步灯光"
+    ],
+    "limitations": [
+      "获奖同组包括2 SE，本条只收Boom 2且不跨型号借用全部参数"
+    ],
+    "whyRepresentative": "把搬运、外放和灯光放进可直接提走的聚会设备。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/soundcore-boom-2-2-se-70456",
+        "facts": [
+          "宽一体提手便于户外搬运",
+          "立体铝质前格栅与棱角机身传达坚固感",
+          "低音单元与双高音组成便携声学系统",
+          "BassUp声音处理配合节拍同步灯光"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "soundcore-motion-x500",
+    "name": "Motion X500",
+    "brand": "Soundcore",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/soundcore-motion-x500-70459"
+    },
+    "productUrl": "https://www.red-dot.org/project/soundcore-motion-x500-70459",
+    "category": "players",
+    "designDetails": [
+      "铝合金提手配紧凑机身",
+      "精细前格栅兼顾透声与视觉轻盈"
+    ],
+    "functionDetails": [
+      "三个单元与放大器配合空间音频算法",
+      "材料选择面向户外移动聆听"
+    ],
+    "limitations": [
+      "算法空间效果受摆位与房间条件影响，不等于增加真实扬声器数量"
+    ],
+    "whyRepresentative": "将空间声音处理与可携带声学结构结合。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/soundcore-motion-x500-70459",
+        "facts": [
+          "铝合金提手配紧凑机身",
+          "精细前格栅兼顾透声与视觉轻盈",
+          "三个单元与放大器配合空间音频算法",
+          "材料选择面向户外移动聆听"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "earfun-uboom-x",
+    "name": "UBOOM X",
+    "brand": "EarFun",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/earfun-uboom-x-70542"
+    },
+    "productUrl": "https://www.red-dot.org/project/earfun-uboom-x-70542",
+    "category": "players",
+    "designDetails": [
+      "宽展造型配坚固提手",
+      "多色动态LED给聚会提供可见反馈"
+    ],
+    "functionDetails": [
+      "四单元系统与JumboBass技术配合80瓦输出",
+      "IPX7防护适应户外雨水环境"
+    ],
+    "limitations": [
+      "防水等级有规定测试条件，不能推断可无限深水使用"
+    ],
+    "whyRepresentative": "将户外保护和聚会灯光融入大音量移动音箱。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/earfun-uboom-x-70542",
+        "facts": [
+          "宽展造型配坚固提手",
+          "多色动态LED给聚会提供可见反馈",
+          "四单元系统与JumboBass技术配合80瓦输出",
+          "IPX7防护适应户外雨水环境"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "lexon-conic",
+    "name": "Conic",
+    "brand": "Lexon",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/conic-70518"
+    },
+    "productUrl": "https://www.red-dot.org/project/conic-70518",
+    "category": "players",
+    "designDetails": [
+      "圆盘与圆锥相交形成雕塑般轮廓",
+      "铝材与纹理织物分别强调两种几何部分"
+    ],
+    "functionDetails": [
+      "多台可无线配对",
+      "IPX4防溅适应一定户外使用场景"
+    ],
+    "limitations": [
+      "IPX4防溅不能按浸水防护理解"
+    ],
+    "whyRepresentative": "用相交几何组织可见外壳与无线声学单元。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/conic-70518",
+        "facts": [
+          "圆盘与圆锥相交形成雕塑般轮廓",
+          "铝材与纹理织物分别强调两种几何部分",
+          "多台可无线配对",
+          "IPX4防溅适应一定户外使用场景"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "remarkable2",
+    "name": "reMarkable 2",
+    "brand": "reMarkable",
+    "year": 2021,
+    "dateKind": "award",
+    "dateLabel": "2021 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2021,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/remarkable-2-53696"
+    },
+    "productUrl": "https://www.red-dot.org/project/remarkable-2-53696",
+    "category": "reading",
+    "designDetails": [
+      "薄型电子纸屏以纸上思考为设计起点",
+      "通过表面触感重现笔尖书写阻力"
+    ],
+    "functionDetails": [
+      "支持手写、阅读与文档批注",
+      "手写笔记可转成文本并从手机或电脑访问"
+    ],
+    "limitations": [
+      "电子纸专注书写阅读，不能按通用视频娱乐平板期待响应方式"
+    ],
+    "whyRepresentative": "让数字文档保留纸笔动作，同时获得文字转换与跨设备访问。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/remarkable-2-53696",
+        "facts": [
+          "薄型电子纸屏以纸上思考为设计起点",
+          "通过表面触感重现笔尖书写阻力",
+          "支持手写、阅读与文档批注",
+          "手写笔记可转成文本并从手机或电脑访问"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "widex-smartric",
+    "name": "SmartRIC",
+    "brand": "Widex",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/widex-smartric-69931"
+    },
+    "productUrl": "https://www.red-dot.org/project/widex-smartric-69931",
+    "category": "care",
+    "designDetails": [
+      "L形机身让麦克风更好朝向主要关注方向",
+      "五种配色与便携充电盒降低佩戴设备的突出感"
+    ],
+    "functionDetails": [
+      "改善语音与背景噪声的相对关系",
+      "官方列37小时电池续航并支持快充"
+    ],
+    "limitations": [
+      "需专业判断听力适配，续航随使用与设置变化"
+    ],
+    "whyRepresentative": "通过麦克风朝向的物理变化改善听觉信息，而不只依靠软件。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/widex-smartric-69931",
+        "facts": [
+          "L形机身让麦克风更好朝向主要关注方向",
+          "五种配色与便携充电盒降低佩戴设备的突出感",
+          "改善语音与背景噪声的相对关系",
+          "官方列37小时电池续航并支持快充"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "elehear-alpha",
+    "name": "Alpha Hearing Aids",
+    "brand": "ELEHEAR",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/elehear-alpha-hearing-aids-70012"
+    },
+    "productUrl": "https://www.red-dot.org/project/elehear-alpha-hearing-aids-70012",
+    "category": "care",
+    "designDetails": [
+      "小型耳后设备可收入专用充电盒",
+      "控制围绕日常听取、通话和音乐统一安排"
+    ],
+    "functionDetails": [
+      "四种降噪模式适应不同情境",
+      "支持听力辅助、电话和音乐三种用途，官方列20小时续航"
+    ],
+    "limitations": [
+      "助听需求需先评估听力，软件增强不能保证所有嘈杂场景都清晰"
+    ],
+    "whyRepresentative": "将助听与普通无线声音终端的功能放到同一随身设备。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/elehear-alpha-hearing-aids-70012",
+        "facts": [
+          "小型耳后设备可收入专用充电盒",
+          "控制围绕日常听取、通话和音乐统一安排",
+          "四种降噪模式适应不同情境",
+          "支持听力辅助、电话和音乐三种用途，官方列20小时续航"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "panasonic-cm20",
+    "name": "Portable Shaver CM20",
+    "brand": "Panasonic",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/portable-shaver-cm20-68524"
+    },
+    "productUrl": "https://www.red-dot.org/project/portable-shaver-cm20-68524",
+    "category": "care",
+    "designDetails": [
+      "鹅卵石般小机身面向初次剃须的年轻用户",
+      "隔离板避免长刀直接接触皮肤"
+    ],
+    "functionDetails": [
+      "30度刀刃布局兼顾长须修整和短须清除",
+      "USB-C充电，官方以一小时充电和最长一月使用描述续航"
+    ],
+    "limitations": [
+      "一月取决于剃须次数与时长，不能按连续运行理解"
+    ],
+    "whyRepresentative": "用握持体量和刀刃隔离结构改善入门剃须动作。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/portable-shaver-cm20-68524",
+        "facts": [
+          "鹅卵石般小机身面向初次剃须的年轻用户",
+          "隔离板避免长刀直接接触皮肤",
+          "30度刀刃布局兼顾长须修整和短须清除",
+          "USB-C充电，官方以一小时充电和最长一月使用描述续航"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "panasonic-ergp23",
+    "name": "ER-GP23",
+    "brand": "Panasonic",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/panasonic-professional-hair-trimmer-er-gp23-68595"
+    },
+    "productUrl": "https://www.red-dot.org/project/panasonic-professional-hair-trimmer-er-gp23-68595",
+    "category": "care",
+    "designDetails": [
+      "小巧轻量机身配前后边缘连续的手指承托",
+      "单个电源键减少操作干扰"
+    ],
+    "functionDetails": [
+      "面向理发师进行精细发型和胡须轮廓修整",
+      "耐用日本刀刃支持准确切割"
+    ],
+    "limitations": [
+      "属于修边工具，效果依赖理发师手法与刀头维护"
+    ],
+    "whyRepresentative": "通过手指承托改善正握反握切换，而不增加复杂控制。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/panasonic-professional-hair-trimmer-er-gp23-68595",
+        "facts": [
+          "小巧轻量机身配前后边缘连续的手指承托",
+          "单个电源键减少操作干扰",
+          "面向理发师进行精细发型和胡须轮廓修整",
+          "耐用日本刀刃支持准确切割"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "jinghao-jha40",
+    "name": "JH-A40",
+    "brand": "Jinghao",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/jinghao-jh-a40-70016"
+    },
+    "productUrl": "https://www.red-dot.org/project/jinghao-jh-a40-70016",
+    "category": "care",
+    "designDetails": [
+      "小型入耳设备配带显示的胶囊形收纳盒",
+      "控制界面以直观操作为目标"
+    ],
+    "functionDetails": [
+      "面向轻至中度听力损失提供辅助",
+      "支持电话、音乐和电视直传，官方列超过15小时续航"
+    ],
+    "limitations": [
+      "需核对听力适配和具体直传设备兼容性"
+    ],
+    "whyRepresentative": "把助听功能以接近日常耳机的携带方式组织起来。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/jinghao-jh-a40-70016",
+        "facts": [
+          "小型入耳设备配带显示的胶囊形收纳盒",
+          "控制界面以直观操作为目标",
+          "面向轻至中度听力损失提供辅助",
+          "支持电话、音乐和电视直传，官方列超过15小时续航"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "kingston-xs1000",
+    "name": "XS1000 External SSD",
+    "brand": "Kingston",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/xs1000-external-ssd-71278"
+    },
+    "productUrl": "https://www.red-dot.org/project/xs1000-external-ssd-71278",
+    "category": "storage",
+    "designDetails": [
+      "钥匙扣般体积仅重29克",
+      "圆角与顶部凹陷帮助手持，外壳优化装配成本"
+    ],
+    "functionDetails": [
+      "固态存储用于数据、照片和视频备份",
+      "官方获奖页列2TB容量版本"
+    ],
+    "limitations": [
+      "便携单盘不是独立完整备份策略，容量需核对具体版本"
+    ],
+    "whyRepresentative": "展示固态存储缩小后，握取与制造成本仍是外壳设计问题。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/xs1000-external-ssd-71278",
+        "facts": [
+          "钥匙扣般体积仅重29克",
+          "圆角与顶部凹陷帮助手持，外壳优化装配成本",
+          "固态存储用于数据、照片和视频备份",
+          "官方获奖页列2TB容量版本"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "adata-legend970",
+    "name": "LEGEND 970 SSD",
+    "brand": "ADATA",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/adata-legend-970-ssd-71237"
+    },
+    "productUrl": "https://www.red-dot.org/project/adata-legend-970-ssd-71237",
+    "category": "storage",
+    "designDetails": [
+      "双层鳍片散热器配内置微型风扇",
+      "半开放外壳直接显露散热结构"
+    ],
+    "functionDetails": [
+      "支持PCIe 5.0存储连接",
+      "固件温控和主动散热共同管理高速工作热量"
+    ],
+    "limitations": [
+      "需要兼容主板与散热安装空间，温控降速仍可能发生"
+    ],
+    "whyRepresentative": "高速固态存储的散热需求转化成可见的风扇与鳍片结构。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/adata-legend-970-ssd-71237",
+        "facts": [
+          "双层鳍片散热器配内置微型风扇",
+          "半开放外壳直接显露散热结构",
+          "支持PCIe 5.0存储连接",
+          "固件温控和主动散热共同管理高速工作热量"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "sandisk-desk-drive",
+    "name": "Desk Drive",
+    "brand": "SanDisk",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/sandisk-desk-drive-71277"
+    },
+    "productUrl": "https://www.red-dot.org/project/sandisk-desk-drive-71277",
+    "category": "storage",
+    "designDetails": [
+      "机身上窄下圆，精确上缘与柔和底部对比",
+      "双料注塑消除中间彩色环与壳体的可见缝隙"
+    ],
+    "functionDetails": [
+      "桌面闪存设备用于长期数据备份",
+      "官方获奖页列8TB容量"
+    ],
+    "limitations": [
+      "桌面备份仍需与主机和备份流程配合，不能按离线自动保存理解"
+    ],
+    "whyRepresentative": "把大容量桌面存储设计成可长期留在工作桌面的物件。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/sandisk-desk-drive-71277",
+        "facts": [
+          "机身上窄下圆，精确上缘与柔和底部对比",
+          "双料注塑消除中间彩色环与壳体的可见缝隙",
+          "桌面闪存设备用于长期数据备份",
+          "官方获奖页列8TB容量"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "adata-sd810",
+    "name": "SD810 External SSD",
+    "brand": "ADATA",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/adata-sd810-external-ssd-71235"
+    },
+    "productUrl": "https://www.red-dot.org/project/adata-sd810-external-ssd-71235",
+    "category": "storage",
+    "designDetails": [
+      "简洁紧凑外壳围绕抗冲击和携带设计",
+      "USB-C接口保持跨设备连接方式一致"
+    ],
+    "functionDetails": [
+      "IP68防水防尘设计",
+      "可连接Android、Windows与Mac设备进行高速传输"
+    ],
+    "limitations": [
+      "防水依赖规定条件及接口盖状态，不能推断任意水下使用"
+    ],
+    "whyRepresentative": "将数据携带的可靠性落实为外壳防护和通用连接。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/adata-sd810-external-ssd-71235",
+        "facts": [
+          "简洁紧凑外壳围绕抗冲击和携带设计",
+          "USB-C接口保持跨设备连接方式一致",
+          "IP68防水防尘设计",
+          "可连接Android、Windows与Mac设备进行高速传输"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "lexar-sl500-magnetic",
+    "name": "SL500 Portable SSD Magnetic Set",
+    "brand": "Lexar",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/sl500-portable-ssd-magnetic-set-71439"
+    },
+    "productUrl": "https://www.red-dot.org/project/sl500-portable-ssd-magnetic-set-71439",
+    "category": "storage",
+    "designDetails": [
+      "薄铝合金SSD配硅胶保护的磁吸附件",
+      "可以吸附在手机或电脑背面减少悬挂线缆负担"
+    ],
+    "functionDetails": [
+      "外接扩展移动设备存储",
+      "支持视频直接记录到外部盘的工作方式"
+    ],
+    "limitations": [
+      "直录需要相机应用、设备与连接协议共同支持"
+    ],
+    "whyRepresentative": "把外接硬盘从垂挂附件变成贴附在拍摄设备上的记录部件。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/sl500-portable-ssd-magnetic-set-71439",
+        "facts": [
+          "薄铝合金SSD配硅胶保护的磁吸附件",
+          "可以吸附在手机或电脑背面减少悬挂线缆负担",
+          "外接扩展移动设备存储",
+          "支持视频直接记录到外部盘的工作方式"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "nikon-zf",
+    "name": "Z f",
+    "brand": "Nikon",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/z-f-70729"
+    },
+    "productUrl": "https://www.nikonusa.com/p/z-f/13598/overview",
+    "category": "imaging",
+    "designDetails": [
+      "ISO、快门和曝光补偿拨轮及快门键使用黄铜",
+      "表面随时间形成使用痕迹，呼应FM2经典控制"
+    ],
+    "functionDetails": [
+      "全画幅无反相机支持可换镜头记录",
+      "常用曝光设置通过顶部实体拨轮直接调节"
+    ],
+    "limitations": [
+      "小握柄与复古操作需要实际握持适应，不能保证所有大镜头组合舒适"
+    ],
+    "whyRepresentative": "把传统曝光控制直接保留为数字相机的实体界面。",
+    "commercialStatus": "已量产商用品；制造商型号说明/使用指引已核对",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/z-f-70729",
+        "facts": [
+          "ISO、快门和曝光补偿拨轮及快门键使用黄铜",
+          "表面随时间形成使用痕迹，呼应FM2经典控制",
+          "全画幅无反相机支持可换镜头记录",
+          "常用曝光设置通过顶部实体拨轮直接调节"
+        ]
+      },
+      {
+        "url": "https://www.nikonusa.com/p/z-f/13598/overview",
+        "facts": [
+          "黄铜滚花拨轮，取景器取景时可用触屏移动焦点或选择追踪主体。"
+        ]
+      }
+    ],
+    "context": "Z f将尼康FM2式的实体曝光控制引入全画幅无反相机。它并非只借用黑色皮纹和金属外观，而是把感光度、快门速度与曝光补偿重新放到顶部拨轮，使使用者能从机身本身看到并改变拍摄状态。",
+    "design": "常用拨轮与快门释放键采用黄铜，拨轮表面的滚花方便指尖施力，黑色表面会随长期接触显现使用痕迹。相机保留较小握柄，让复古轮廓与镜头周围的操作空间相协调，形成不同于深握柄无反相机的拿取方式。",
+    "usage": "拍摄者可转动顶部拨轮设置曝光，再通过取景器确认场景。使用电子取景器时，触屏还可移动对焦点或切换追踪对象，眼睛不必离开取景画面；机械拨轮与触控因此分别处理曝光状态和画面中的具体目标。",
+    "significance": "它展示了传统相机的控制逻辑如何与数字追踪能力共存。黄铜拨轮把参数变成可触摸的位置，触屏又能处理不断变化的对焦目标；复古在这里是一种操作分工，让稳定设定和现场选择具有不同的身体动作。",
+    "limitationsNarrative": "顶部拨轮需要使用者理解曝光参数，小握柄与大镜头组合也应实际试握，不能单凭复古形态判断舒适性。触屏选点依赖正确启用相关功能；镜头选择、光线和持机稳定仍会影响结果，机身本身不会自动替代拍摄判断。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "lockly-styla",
+    "name": "Styla Smart Lock",
+    "brand": "Lockly",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/lockly-styla-smart-lock-68856"
+    },
+    "productUrl": "https://www.red-dot.org/project/lockly-styla-smart-lock-68856",
+    "category": "smart-home",
+    "designDetails": [
+      "哑黑圆润把手将传感器融入入口五金",
+      "简化表面让门锁适配不同门体外观"
+    ],
+    "functionDetails": [
+      "整合高清视频门铃、移动检测和3D指纹读取",
+      "可用钥匙、应用或感应自动解锁"
+    ],
+    "limitations": [
+      "安装需匹配门体规格，联网与识别功能也依赖正确配置"
+    ],
+    "whyRepresentative": "将门铃、身份识别和把手动作整合成一处住宅入口。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/lockly-styla-smart-lock-68856",
+        "facts": [
+          "哑黑圆润把手将传感器融入入口五金",
+          "简化表面让门锁适配不同门体外观",
+          "整合高清视频门铃、移动检测和3D指纹读取",
+          "可用钥匙、应用或感应自动解锁"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "psync-genie-s",
+    "name": "Camera Genie S",
+    "brand": "Psync",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/psync-camera-genie-s-70671"
+    },
+    "productUrl": "https://www.red-dot.org/project/psync-camera-genie-s-70671",
+    "category": "smart-home",
+    "designDetails": [
+      "简单几何体以转动关节连接上下机身",
+      "底座可360度旋转，上部可俯仰"
+    ],
+    "functionDetails": [
+      "摄像方向可随关节改变",
+      "GPT驱动的识别描述功能向用户发送对象相关消息"
+    ],
+    "limitations": [
+      "自动对象描述可能出错，不能作为所有现场情况的确定判断"
+    ],
+    "whyRepresentative": "从单纯回传画面发展到把画面转成文字事件提示的室内相机。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/psync-camera-genie-s-70671",
+        "facts": [
+          "简单几何体以转动关节连接上下机身",
+          "底座可360度旋转，上部可俯仰",
+          "摄像方向可随关节改变",
+          "GPT驱动的识别描述功能向用户发送对象相关消息"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "hohem-isteady-v3",
+    "name": "iSteady V3",
+    "brand": "Hohem",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/isteady-v3-ai-tracking-smartphone-gimbal-70848"
+    },
+    "productUrl": "https://www.red-dot.org/project/isteady-v3-ai-tracking-smartphone-gimbal-70848",
+    "category": "imaging",
+    "designDetails": [
+      "独立磁吸AI追踪模块将识别功能移到云台",
+      "补光灯可调整色温与亮度"
+    ],
+    "functionDetails": [
+      "不用应用或蓝牙也可追踪人物和物体",
+      "手势启动，稳定机构兼容多种手机"
+    ],
+    "limitations": [
+      "手机尺寸和重量需符合云台限制，追踪仍受视野遮挡影响"
+    ],
+    "whyRepresentative": "将追踪从拍摄应用里分离成可见可拆的硬件模块。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/isteady-v3-ai-tracking-smartphone-gimbal-70848",
+        "facts": [
+          "独立磁吸AI追踪模块将识别功能移到云台",
+          "补光灯可调整色温与亮度",
+          "不用应用或蓝牙也可追踪人物和物体",
+          "手势启动，稳定机构兼容多种手机"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "logitech-gprox-tkl",
+    "name": "G PRO X TKL",
+    "brand": "Logitech",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/logitech-g-pro-x-tkl-71289"
+    },
+    "productUrl": "https://www.red-dot.org/project/logitech-g-pro-x-tkl-71289",
+    "category": "input-printing",
+    "designDetails": [
+      "去掉数字区的紧凑布局面向竞技桌面",
+      "发光可编程按键提供个性配置"
+    ],
+    "functionDetails": [
+      "LIGHTSPEED可用单接收器连接键盘和鼠标",
+      "官方列最长50小时续航"
+    ],
+    "limitations": [
+      "单接收器配对需兼容设备，续航随灯光与使用条件改变"
+    ],
+    "whyRepresentative": "把比赛搬运和无线部署的步骤收紧到一套紧凑输入设备。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/logitech-g-pro-x-tkl-71289",
+        "facts": [
+          "去掉数字区的紧凑布局面向竞技桌面",
+          "发光可编程按键提供个性配置",
+          "LIGHTSPEED可用单接收器连接键盘和鼠标",
+          "官方列最长50小时续航"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "iflytek-easytrans-l2",
+    "name": "EasyTrans L2",
+    "brand": "iFLYTEK",
+    "year": 2025,
+    "dateKind": "award",
+    "dateLabel": "2025 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/iflytek-easytrans-l2-82223"
+    },
+    "productUrl": "https://www.red-dot.org/project/iflytek-easytrans-l2-82223",
+    "category": "telephony",
+    "designDetails": [
+      "薄型几何机身配接近全正面显示屏",
+      "前部六个全向及两个定向麦克风组织会议拾音"
+    ],
+    "functionDetails": [
+      "提供多语言转录和同声传译",
+      "可接入会议软件生成实时记录，官方列最远15米收音"
+    ],
+    "limitations": [
+      "转录与翻译会受语音、语言和环境影响，重要内容仍需人工核对"
+    ],
+    "whyRepresentative": "把多人会议收音与语言处理整合成独立可视硬件。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/iflytek-easytrans-l2-82223",
+        "facts": [
+          "薄型几何机身配接近全正面显示屏",
+          "前部六个全向及两个定向麦克风组织会议拾音",
+          "提供多语言转录和同声传译",
+          "可接入会议软件生成实时记录，官方列最远15米收音"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "yuv-lab",
+    "name": "yuv Lab",
+    "brand": "YUV Beauty",
+    "year": 2025,
+    "dateKind": "award",
+    "dateLabel": "2025 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/yuvr-lab-80013"
+    },
+    "productUrl": "https://www.red-dot.org/project/yuvr-lab-80013",
+    "category": "care",
+    "designDetails": [
+      "紧凑曲线机身收纳十一只铝质染料罐",
+      "可补充的料罐减少一次性容器需求"
+    ],
+    "functionDetails": [
+      "通过iPad配置定制染发配方",
+      "设备按配方混合专业染料"
+    ],
+    "limitations": [
+      "需要专业染发知识、相容染料和配套iPad工作流"
+    ],
+    "whyRepresentative": "把理发师手工配色转化为可重复控制的数字计量过程。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/yuvr-lab-80013",
+        "facts": [
+          "紧凑曲线机身收纳十一只铝质染料罐",
+          "可补充的料罐减少一次性容器需求",
+          "通过iPad配置定制染发配方",
+          "设备按配方混合专业染料"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "cleer-arc5",
+    "name": "ARC 5",
+    "brand": "Cleer",
+    "year": 2025,
+    "dateKind": "award",
+    "dateLabel": "2025 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/arc-5-81867"
+    },
+    "productUrl": "https://www.red-dot.org/project/arc-5-81867",
+    "category": "headphones",
+    "designDetails": [
+      "开放式结构配柔性铰链维持运动贴合",
+      "带彩色显示的充电盒与金属细节形成统一外观"
+    ],
+    "functionDetails": [
+      "提供实时转录与翻译功能",
+      "充电盒包含紫外表面消毒设计"
+    ],
+    "limitations": [
+      "翻译依赖软件与语言支持，表面消毒不等于所有卫生风险消失"
+    ],
+    "whyRepresentative": "在开放聆听之外把语言信息和盒盖交互纳入耳机系统。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/arc-5-81867",
+        "facts": [
+          "开放式结构配柔性铰链维持运动贴合",
+          "带彩色显示的充电盒与金属细节形成统一外观",
+          "提供实时转录与翻译功能",
+          "充电盒包含紫外表面消毒设计"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "earfun-airpro4plus",
+    "name": "Air Pro 4+",
+    "brand": "EarFun",
+    "year": 2025,
+    "dateKind": "award",
+    "dateLabel": "2025 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/earfun-air-pro-4-78299"
+    },
+    "productUrl": "https://www.red-dot.org/project/earfun-air-pro-4-78299",
+    "category": "headphones",
+    "designDetails": [
+      "双单元声学系统配贴合耳型的壳体",
+      "耳机与充电盒采用一致的精细表面处理"
+    ],
+    "functionDetails": [
+      "自适应降噪与AI实时翻译",
+      "IP55防护，配快速充电和含盒最长54小时使用时间"
+    ],
+    "limitations": [
+      "54小时包含充电盒补电，翻译功能需相应软件支持"
+    ],
+    "whyRepresentative": "把防护、可补充续航与语言处理整合成日常随身声音工具。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/earfun-air-pro-4-78299",
+        "facts": [
+          "双单元声学系统配贴合耳型的壳体",
+          "耳机与充电盒采用一致的精细表面处理",
+          "自适应降噪与AI实时翻译",
+          "IP55防护，配快速充电和含盒最长54小时使用时间"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "vasco-e1",
+    "name": "Translator E1",
+    "brand": "Vasco Electronics",
+    "year": 2025,
+    "dateKind": "award",
+    "dateLabel": "2025 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/vasco-translator-e1-82211"
+    },
+    "productUrl": "https://www.red-dot.org/project/vasco-translator-e1-82211",
+    "category": "telephony",
+    "designDetails": [
+      "耳挂与弯曲机身便于不同人佩戴且减少耳道接触",
+      "单只12.5克，双耳机收进紧凑充电盒"
+    ],
+    "functionDetails": [
+      "支持近实时64种语言翻译",
+      "设置使用语言后可识别发言者，支持最多十人对话"
+    ],
+    "limitations": [
+      "自动翻译可能遗漏语境与细微差异，关键沟通需确认理解"
+    ],
+    "whyRepresentative": "用分配耳机和免手持发言组织跨语言的多人交流。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/vasco-translator-e1-82211",
+        "facts": [
+          "耳挂与弯曲机身便于不同人佩戴且减少耳道接触",
+          "单只12.5克，双耳机收进紧凑充电盒",
+          "支持近实时64种语言翻译",
+          "设置使用语言后可识别发言者，支持最多十人对话"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "asus-rogphone9",
+    "name": "ROG Phone 9",
+    "brand": "ASUS",
+    "year": 2025,
+    "dateKind": "award",
+    "dateLabel": "2025 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2025,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/rog-phone-9-82013"
+    },
+    "productUrl": "https://www.red-dot.org/project/rog-phone-9-82013",
+    "category": "phones",
+    "designDetails": [
+      "背面3D纳米纹理提供哑光防滑触感",
+      "侧边充电口与耳机口面向横握使用"
+    ],
+    "functionDetails": [
+      "185Hz AMOLED屏配五部分散热系统",
+      "5800mAh电池，支持通话翻译和转录"
+    ],
+    "limitations": [
+      "最高刷新率需相应内容支持，持续游戏表现还与温度和设置有关"
+    ],
+    "whyRepresentative": "围绕横向游戏把散热、接口与手持接触面一起设计。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/rog-phone-9-82013",
+        "facts": [
+          "背面3D纳米纹理提供哑光防滑触感",
+          "侧边充电口与耳机口面向横握使用",
+          "185Hz AMOLED屏配五部分散热系统",
+          "5800mAh电池，支持通话翻译和转录"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "nikkor-z600f63",
+    "name": "NIKKOR Z 600mm f/6.3 VR S",
+    "brand": "Nikon",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/nikkor-z-600mm-f-63-vr-s-70698"
+    },
+    "productUrl": "https://www.red-dot.org/project/nikkor-z-600mm-f-63-vr-s-70698",
+    "category": "imaging",
+    "designDetails": [
+      "278毫米长机身将重心尽量靠近相机",
+      "金色环在镜筒上形成品牌识别"
+    ],
+    "functionDetails": [
+      "600毫米远摄焦距面向野生动物和赛车",
+      "相对紧凑的结构有助于手持跟随远处动态主体"
+    ],
+    "limitations": [
+      "远摄需要稳定握持与适合的相机，轻量并不取消抖动影响"
+    ],
+    "whyRepresentative": "通过长度和重心控制改善超长焦镜头的实际握持。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/nikkor-z-600mm-f-63-vr-s-70698",
+        "facts": [
+          "278毫米长机身将重心尽量靠近相机",
+          "金色环在镜筒上形成品牌识别",
+          "600毫米远摄焦距面向野生动物和赛车",
+          "相对紧凑的结构有助于手持跟随远处动态主体"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "nikkor-z135-plena",
+    "name": "NIKKOR Z 135mm f/1.8 S Plena",
+    "brand": "Nikon",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/nikkor-z-135mm-f-18-s-plena-70722"
+    },
+    "productUrl": "https://www.red-dot.org/project/nikkor-z-135mm-f-18-s-plena-70722",
+    "category": "imaging",
+    "designDetails": [
+      "易握环和凸起按钮可通过触感识别",
+      "金属镜筒兼顾手指空间并带防尘防滴结构"
+    ],
+    "functionDetails": [
+      "135毫米f/1.8大光圈提供浅景深拍摄",
+      "光学设计着重全开光圈的清晰度与散景"
+    ],
+    "limitations": [
+      "固定焦距需要改变站位构图，防滴不等于水下摄影防护"
+    ],
+    "whyRepresentative": "把大光圈光学表现与可盲操作的镜筒控制共同处理。",
+    "commercialStatus": "官方产品设计奖实物产品；具体在售地区需查制造商",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/nikkor-z-135mm-f-18-s-plena-70722",
+        "facts": [
+          "易握环和凸起按钮可通过触感识别",
+          "金属镜筒兼顾手指空间并带防尘防滴结构",
+          "135毫米f/1.8大光圈提供浅景深拍摄",
+          "光学设计着重全开光圈的清晰度与散景"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "asus-zenbook17-fold",
+    "name": "Zenbook 17 Fold OLED UX9702",
+    "brand": "ASUS",
+    "year": 2022,
+    "dateKind": "award",
+    "dateLabel": "2022 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2022,
+      "level": "Winner",
+      "url": "https://www.red-dot.org/project/asus-zenbook-17-fold-oled-ux9702-59602"
+    },
+    "productUrl": "https://www.asus.com/event/2022/productguide/me-en/Q4_2022_ASUS_Prodcut_guide.pdf",
+    "category": "computers",
+    "designDetails": [
+      "17.3英寸2.5K OLED屏可折叠，折起后缩小携带面积",
+      "镁合金机身配抗指纹的柔滑表面"
+    ],
+    "functionDetails": [
+      "可展开作大平板或配蓝牙键盘作笔记本",
+      "也可像书本半折握持阅读"
+    ],
+    "limitations": [
+      "折叠显示需要遵循屏幕与铰链使用要求，外接键盘仍需独立管理"
+    ],
+    "whyRepresentative": "通过一块可折屏改变计算设备在携带、阅读和输入之间的形态。",
+    "commercialStatus": "已量产；ASUS官方2022产品册核对具体型号及Red Dot 2022标志",
+    "sourceEvidence": [
+      {
+        "url": "https://www.red-dot.org/project/asus-zenbook-17-fold-oled-ux9702-59602",
+        "facts": [
+          "17.3英寸2.5K OLED屏可折叠，折起后缩小携带面积",
+          "镁合金机身配抗指纹的柔滑表面",
+          "可展开作大平板或配蓝牙键盘作笔记本",
+          "也可像书本半折握持阅读"
+        ],
+        "yearEvidence": "官方型号明细页首Back Product Design 2022，2022产品册交叉支持。"
+      },
+      {
+        "url": "https://www.asus.com/event/2022/productguide/me-en/Q4_2022_ASUS_Prodcut_guide.pdf",
+        "facts": [
+          "UX9702官方规格：17.3英寸折叠OLED显示，2022产品册标red dot winner 2022"
+        ]
+      }
+    ],
+    "context": "Zenbook 17 Fold OLED UX9702用一块可折叠显示屏在携带与观看面积之间取舍。它展开时提供17.3英寸画面，折起后缩小占地，用户不再只在固定大小的屏幕和键盘之间工作，而需要选择设备的当前形态。",
+    "design": "2.5K OLED屏与镁合金机身通过折叠关系组成主体，柔滑抗指纹表面处理频繁拿取的接触。蓝牙键盘保持独立，屏幕可以完全展开，也能半折如书本，显示与输入的物理位置因此不再永久固定。",
+    "usage": "用户可展开屏幕作为大平板，或配蓝牙键盘进行笔记本式输入；需要阅读时，半折握持提供书本般姿态。一次形态变化同时改变屏幕面积、支撑方式和输入距离，设备随任务而重新安排。",
+    "significance": "它将屏幕从固定矩形部件变成决定整机形态的结构。折叠不只让画面变小，也把计算设备分成不同使用姿态，独立键盘再保留实体输入；这种关系适合观察柔性显示怎样真正改变产品动作。",
+    "limitationsNarrative": "折叠屏和铰链需要按说明保护，不能把屏幕当成普通纸张任意弯曲。蓝牙键盘也需要独立收纳和电量管理；多形态提供选择，但每次展开、支撑和定位仍由用户完成，不能视为所有姿态同样方便。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "canon-powershot-v10",
+    "name": "PowerShot V10",
+    "brand": "Canon",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://global.canon/en/news/2024/20240426.html"
+    },
+    "productUrl": "https://global.canon/en/news/2024/20240426.html",
+    "category": "imaging",
+    "designDetails": [
+      "竖直机身便于单手持机并放入小包",
+      "内置可调支架支持不用三脚架的桌面拍摄"
+    ],
+    "functionDetails": [
+      "一英寸CMOS传感器配大直径麦克风",
+      "简化信息显示的界面面向首次拍视频用户"
+    ],
+    "limitations": [
+      "内置支架需要稳定台面，简化界面仍不能替代构图和现场收音判断"
+    ],
+    "whyRepresentative": "把视频自拍所需的握持、支撑与收音整合进掌中设备。",
+    "commercialStatus": "已量产；Canon官方型号获奖与功能说明已核对",
+    "sourceEvidence": [
+      {
+        "url": "https://global.canon/en/news/2024/20240426.html",
+        "facts": [
+          "竖直机身便于单手持机并放入小包",
+          "内置可调支架支持不用三脚架的桌面拍摄",
+          "一英寸CMOS传感器配大直径麦克风",
+          "简化信息显示的界面面向首次拍视频用户"
+        ],
+        "yearEvidence": "Canon官方2024-04-26公告明确点名PowerShot V10和OCT-R1获Red Dot Design Award 2024"
+      }
+    ],
+    "context": "PowerShot V10围绕短视频创作安排握持、收音和支撑。它不沿用传统相机横向握持的全部结构，而用竖直机身让人单手拿起，面向首次认真拍视频、又希望设备能轻松放进小包的用户。",
+    "design": "一英寸CMOS传感器与大直径麦克风收进紧凑主体，竖直轮廓服务单手操作。机内支架可以打开并调节角度，界面则减少显示信息，让初次使用者更容易找到拍摄入口，不被过多状态和参数压住。",
+    "usage": "手持时，用户单手握住机身拍摄；需要固定自拍或桌面记录时，打开内置支架并调整角度，不必每次另装三脚架。图像与声音由同一机身处理，简化界面帮助从摆放较快进入记录。",
+    "significance": "它把Vlog创作中的常见准备动作做成硬件能力。竖向外形处理单手拿取，麦克风处理随身收音，支架处理放下自拍，界面再减少选择负担；产品定位可以直接从这些动作组合中理解。",
+    "limitationsNarrative": "内置支架需要稳定表面，能调角度也不等于在所有位置都能获得合适构图。大麦克风仍受风和环境噪声影响，简化界面没有取消光线与拍摄距离判断；单手便利也不能替代持续拍摄时的稳定握持。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  },
+  {
+    "slug": "canon-octr1",
+    "name": "OCT-R1",
+    "brand": "Canon",
+    "year": 2024,
+    "dateKind": "award",
+    "dateLabel": "2024 年红点产品设计奖获奖年份（非上市年份）",
+    "award": {
+      "name": "Red Dot Award: Product Design",
+      "year": 2024,
+      "level": "Winner",
+      "url": "https://global.canon/en/news/2024/20240426.html"
+    },
+    "productUrl": "https://global.canon/en/news/2024/20240426.html",
+    "category": "care",
+    "designDetails": [
+      "紧凑主机让电脑等辅助设备能排在电动工作台",
+      "触屏联动把拍摄位置调整对应到眼部画面上"
+    ],
+    "functionDetails": [
+      "近红外OCT取得视网膜断层图像",
+      "结合眼底相机功能，触摸眼部显示位置可自动调整拍摄位置"
+    ],
+    "limitations": [
+      "显示屏及电动工作台需另配，属于专业眼科设备"
+    ],
+    "whyRepresentative": "让眼底影像采集中的位置调整从机械操作转成图像上的触点。",
+    "commercialStatus": "已量产；Canon官方型号获奖与功能说明已核对",
+    "sourceEvidence": [
+      {
+        "url": "https://global.canon/en/news/2024/20240426.html",
+        "facts": [
+          "紧凑主机让电脑等辅助设备能排在电动工作台",
+          "触屏联动把拍摄位置调整对应到眼部画面上",
+          "近红外OCT取得视网膜断层图像",
+          "结合眼底相机功能，触摸眼部显示位置可自动调整拍摄位置"
+        ],
+        "yearEvidence": "Canon官方2024-04-26公告明确点名PowerShot V10和OCT-R1获Red Dot Design Award 2024"
+      }
+    ],
+    "context": "OCT-R1将近红外视网膜断层采集与眼底相机功能组合成眼科设备，面向专业观察和检查。它需要让操作者对准患者眼部，同时在有限诊室空间中摆好电脑等辅助设备，设计因而同时涉及影像与工作布局。",
+    "design": "紧凑主机给辅助设备留出工作台位置，触控联动界面让眼部图像成为调整入口。操作者不必只从机械方位理解拍摄位置，而可触碰屏幕中眼睛所在的区域，让设备自动对应调整，图像与运动建立直接关系。",
+    "usage": "专业人员准备好另配显示与工作台后，在屏幕上观察眼部位置，触碰需要对准的位置，设备自动调整拍摄方位。近红外OCT取得视网膜断层，眼底相机再提供另一类图像，两种信息进入眼科检查流程。",
+    "significance": "它把医疗影像采集的对准动作从抽象机械控制转为画面上的选择。触点对应患者眼部，自动位置调整响应指令，紧凑机身又让周边设备更容易安排；这些变化共同减少了设备与操作人员之间的转换。",
+    "limitationsNarrative": "OCT-R1是专业眼科设备，图像取得后仍需由专业人员判断。Canon明确说明显示设备和电动工作台需另外配置，不能把主机视为完整即用系统；诊室部署、患者定位与后续卫生维护都仍是完整流程的一部分。",
+    "narrativeStatus": "逐型号编写，事实与策展解读相连"
+  }
+]
