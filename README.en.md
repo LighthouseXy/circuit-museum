@@ -2,6 +2,8 @@
 
 [简体中文](README.md) | [English](README.en.md)
 
+See the [development and maintenance history](DEVELOPMENT_HISTORY.en.md) for dated, commit-backed updates.
+
 Circuit Museum is a static digital museum about real consumer-electronics products and how their design, technology, and everyday use have changed over time. It combines an editorial catalog with sourced product histories. The website interface and exhibit articles are primarily in Chinese; this English README does not add an English-language website interface.
 
 ## Current collection
