@@ -4,6 +4,22 @@
 
 一座关于真实电子产品设计、技术与生活变化的线上博物馆，收录40件独立产品。首页介绍博物馆并引导馆藏阅读；独立的“产品编年史”覆盖手机、电脑、手表、手环、耳机五条发展脉络，共29个有来源的历史节点。保留TPS-L2、2006年第一代MacBook和iPhone 4。
 
+## 开发预览截图
+
+以下为 2026-10-21 云端实际截取的受保护开发预览，仅恢复 Nest Protect 与 Oculus Quest 两张已核实的 CC0 展品图片；不代表正式上线、全馆图片已恢复或全馆素材清权。图片作者、原文件页及转换说明见[截图来源与署名](docs/screenshots/circuit-museum/ATTRIBUTION.md)。
+
+### 馆藏筛选：Oculus Quest
+
+![馆藏中筛选首代 Oculus Quest，展示产品照片、简介与来源署名。](docs/screenshots/circuit-museum/circuit-museum-catalog-oculus-filter-2026-10-21-1172x751.jpg)
+
+### 展品详情：Oculus Quest
+
+![首代 Oculus Quest 详情，展示策展理由、实物照片、档案信息与出处。](docs/screenshots/circuit-museum/circuit-museum-quest-detail-2026-10-21-1172x751.jpg)
+
+### 展品详情：Nest Protect
+
+![首代 Nest Protect 详情，展示策展理由、CC0 照片、档案信息与证据链接。](docs/screenshots/circuit-museum/circuit-museum-nest-detail-photo-credits-2026-10-21-1172x751.jpg)
+
 ## 本地查看
 
 使用 Node.js 22 或更新版本，无需安装生产依赖。

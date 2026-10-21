@@ -27,7 +27,19 @@ Source counts describe records, not unique websites. Citations support the claim
 
 [Open the protected development preview](https://circuit-museum-a5e6r7np6-lighthousexy-6060s-projects.vercel.app). Vercel sign-in is required. This separate development candidate is for review and browser checks, not a public production release or the default-branch build. Its media scope is limited to the existing CC0 photographs for `nest-protect-1` and `oculus-quest-2019`; it does not display all 139 catalog photographs.
 
-Screenshots are being prepared from the reviewed preview. No screenshot files are embedded here until the actual captures and their relative paths are confirmed.
+These unedited screenshots were captured in Cloud Chrome on 2026-10-21 from the protected two-photo development preview. They do not imply a public production launch, full-catalog photo restoration, or site-wide media-rights clearance. See [screenshot provenance and photo credits](docs/screenshots/circuit-museum/ATTRIBUTION.md) for the original authors, files, CC0 terms, and conversion notes.
+
+### Collection filter: Oculus Quest
+
+![Circuit Museum collection filtered to the first-generation Oculus Quest, showing its exhibit card, product photo, description, and source-credit line.](docs/screenshots/circuit-museum/circuit-museum-catalog-oculus-filter-2026-10-21-1172x751.jpg)
+
+### Exhibit detail: Oculus Quest
+
+![First-generation Oculus Quest detail page with the curation rationale, original 2019 photo, archive facts, and references.](docs/screenshots/circuit-museum/circuit-museum-quest-detail-2026-10-21-1172x751.jpg)
+
+### Exhibit detail: Nest Protect
+
+![First-generation Nest Protect detail page with the curation rationale, CC0 photo, year, category, and evidence links.](docs/screenshots/circuit-museum/circuit-museum-nest-detail-photo-credits-2026-10-21-1172x751.jpg)
 
 ## Run locally
 
