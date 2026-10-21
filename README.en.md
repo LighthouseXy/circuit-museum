@@ -76,6 +76,8 @@ Only add an image after checking its exact source file, model, terms, attributio
 
 ## License and release status
 
-No project-wide license has been selected. Do not assume the code, editorial text, or collection data are licensed under MIT or another open-source license. Third-party media retain their individual CC BY, CC BY-SA, CC0, public-domain, Unsplash, or manufacturer-specific conditions where recorded. Attribution metadata does not constitute new legal clearance or a blanket license.
+The project-owned original software and original technical documentation are licensed under the [MIT License](LICENSE), allowing commercial use, modification and redistribution with the required copyright and permission notices. See [LICENSE-SCOPE.md](LICENSE-SCOPE.md) and the [path inventory](docs/licensing/PATH-SCOPE.json) for the exact scope.
+
+This is not a blanket license for the whole website or museum collection. The original 400-exhibit curatorial/source databases, third-party code and dependencies, images, audiovisual material, screenshots, fonts and hardware remain outside that grant. Their existing CC BY, CC BY-SA, CC0, public-domain, Unsplash or vendor-specific terms remain applicable where recorded. See [third-party rights](docs/licensing/THIRD-PARTY-NOTICES.md). Attribution records do not constitute new legal clearance. Package metadata points to the scope document because this repository contains mixed-license content.
 
 This README update does not change repository visibility, production deployment, media permissions, or website functionality. It does not claim external community adoption or a completed public release.

@@ -9,5 +9,6 @@
     "preview": "node scripts/serve.mjs",
     "lint": "node --check scripts/build.mjs && node --check scripts/import-collection.mjs && node --check scripts/serve.mjs && node --check scripts/download-images.mjs && node --check src/app.js && node --check src/catalog.js && node --check scripts/render-chronicles.mjs && node --check scripts/import-expansion.mjs && node --check scripts/import-editorial-expansion.mjs && node --check scripts/stage-product-photos.mjs && node --check scripts/apply-product-photos.mjs && node --check src/story.js && node --check scripts/import-award-expansion.mjs && node --check scripts/photo-rights.mjs",
     "test": "node --test tests/*.test.mjs"
-  }
+  },
+  "license": "SEE LICENSE IN LICENSE-SCOPE.md"
 }

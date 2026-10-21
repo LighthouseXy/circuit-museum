@@ -88,4 +88,10 @@ node tests/browser.mjs /absolute/path/to/playwright /absolute/path/to/chrome
 
 本仓库同步本地现有源码与必要资源，不代表重新部署或重新验收。上文40件等说明是早期记录；当前 `docs/collection.json` 与 `src/collection.json` 的馆藏为400件，图片/版权以当前记录为准。
 
-使用 Node.js 22+。本项目没有第三方生产依赖，未发现既有锁文件；未为上传安装依赖或生成锁文件。启动：`npm run build` 后 `npm run dev`；已有检查命令是 `npm run lint`、`npm test`，此次未执行。`dist/` 可由构建生成，不提交。图片署名与许可随资源保留，私有仓库不授予额外转载许可。截图、下载候选、缓存和运行日志不提交。未开启 GitHub Pages。
+使用 Node.js 22+。本项目没有第三方生产依赖，未发现既有锁文件；未为上传安装依赖或生成锁文件。启动：`npm run build` 后 `npm run dev`；已有检查命令是 `npm run lint`、`npm test`，此次未执行。`dist/` 可由构建生成，不提交。图片署名与许可随资源保留，第三方图片不因软件 MIT 许可获得额外转载许可。截图、下载候选、缓存和运行日志不提交。未开启 GitHub Pages。
+
+## 许可证
+
+本项目原创软件代码及原创技术文档按[MIT 许可证](LICENSE)授权，允许商业使用、修改与再分发，须保留版权及许可声明。具体文件与边界见[许可范围](LICENSE-SCOPE.md)和[路径清单](docs/licensing/PATH-SCOPE.json)。
+
+该授权不是整个网站或全部馆藏素材的统一许可：400 件原始策展/数据库内容、第三方代码与依赖、字体、图片、影音、截图及硬件文件保留各自权利和条款。图片署名、原始来源、转换记录及许可继续有效，视频仍仅为原发布页外链；详见[第三方权利说明](docs/licensing/THIRD-PARTY-NOTICES.md)。本次许可调整不改变仓库可见性、网站功能或部署状态，也不代表完成素材清权或提交申请。

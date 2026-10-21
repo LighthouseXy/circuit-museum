@@ -9,6 +9,6 @@ These three unedited screenshots were captured in Cloud Chrome on 2026-10-21 at 
 | Oculus Quest (2019), `oculus-quest-2019` | [Syced](https://commons.wikimedia.org/wiki/User:Syced) | [Oculus_Quest.jpeg](https://commons.wikimedia.org/wiki/File:Oculus_Quest.jpeg) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 | Nest Protect, `nest-protect-1` | [Raysonho @ Open Grid Scheduler / Grid Engine](https://commons.wikimedia.org/wiki/User:Raysonho) | [NestProtect.JPG](https://commons.wikimedia.org/wiki/File:NestProtect.JPG) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en) |
 
-The site uses existing proportionally resized WebP derivatives of those photographs, retaining source and conversion notes. The JPEG files here are page captures, not replacement product photographs. CC0 applies to the two credited photographs; it does not select a project-wide license for the site code, editorial text, or screenshot composition. No new blanket license or clearance is claimed.
+The site uses existing proportionally resized WebP derivatives of those photographs, retaining source and conversion notes. The JPEG files here are page captures, not replacement product photographs. CC0 applies to the two credited photographs; it does not extend the scoped software MIT grant to editorial source material or the complete screenshot composition. See [LICENSE-SCOPE.md](../../../LICENSE-SCOPE.md). No new blanket license or clearance is claimed.
 
-站内沿用原有等比例缩小与 WebP 转码图片，保留来源和转换说明。本目录 JPEG 是页面截图，不替换展品原图。项目级许可证仍未确定，不能把两张照片的 CC0 许可扩展为全站或全部截图内容的统一授权。
+站内沿用原有等比例缩小与 WebP 转码图片，保留来源和转换说明。本目录 JPEG 是页面截图，不替换展品原图。软件与原创技术说明按[根目录范围说明](../../../LICENSE-SCOPE.md)采用限定范围的 MIT；不能把两张照片的 CC0 或软件 MIT 扩展为全站或全部截图内容的统一授权。
