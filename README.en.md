@@ -1,6 +1,6 @@
 # Circuit Museum
 
-[简体中文](README.md) | [English](README.en.md)
+[English](README.md) | [简体中文](README.zh-CN.md)
 
 See the [development and maintenance history](DEVELOPMENT_HISTORY.en.md) for dated, commit-backed updates.
 
