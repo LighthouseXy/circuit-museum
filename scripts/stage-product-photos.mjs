@@ -5,7 +5,7 @@ import {createHash} from 'node:crypto';
 import assert from 'node:assert/strict';
 import {isPermittedSamsungOriginal,verifyOriginalBytes} from './photo-rights.mjs';
 const require=createRequire(import.meta.url);
-const sharp=require(process.argv[2]||'/Users/xyu/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/sharp');
+const sharp=require(process.argv[2]||'sharp');
 const root=process.argv[3]||'docs/evidence/photo-expansion';
 await mkdir(`${root}/staged`,{recursive:true});
 const choices=JSON.parse(await readFile(`${root}/review-choices.json`,'utf8'));

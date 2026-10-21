@@ -2,42 +2,52 @@
   "project": "Circuit Museum",
   "capture_set": "two-image protected development preview",
   "preview": {
-    "url": "https://circuit-museum-a5e6r7np6-lighthousexy-6060s-projects.vercel.app",
     "access": "login-protected; no share token included",
-    "deployment_id": "dpl_3ExPGeFPCwspJK9yfLQrem1ai53x",
-    "source_commit": "1900baf417dac15f06cca9906f1501e4a4749bd5",
     "browser": "Cloud Chrome",
-    "viewport_px": { "width": 1172, "height": 751 },
+    "viewport_px": {
+      "width": 1172,
+      "height": 751
+    },
     "capture_date": "2026-10-21",
-    "environment_notice": "Non-production development preview; only the Nest Protect and Oculus Quest original CC0 images were restored for this preview. This is not a complete media restoration or site-wide rights audit."
+    "environment_notice": "Non-production development preview; only the Nest Protect and Oculus Quest original CC0 images were restored for this preview. This is not a complete media restoration or site-wide rights audit.",
+    "source_description": "Existing application with two restored CC0 product photographs; captured from a login-protected non-production development preview."
   },
   "screenshots": [
     {
       "file": "circuit-museum-catalog-oculus-filter-2026-10-21-1172x751.jpg",
-      "page_url": "https://circuit-museum-a5e6r7np6-lighthousexy-6060s-projects.vercel.app/exhibits/?q=Oculus+Quest",
       "captured_at_utc": "2026-10-21T10:38:06Z",
-      "viewport_px": { "width": 1172, "height": 751 },
+      "viewport_px": {
+        "width": 1172,
+        "height": 751
+      },
       "alt": "Circuit Museum collection filtered to the first-generation Oculus Quest, showing its exhibit card, product photo, description, and source-credit line.",
       "description": "Filtered catalog result with the black first-generation Oculus Quest (2019) photo and visible creator, license, original-file attribution, and image-transformation note.",
-      "sha256": "19c6c6d7159ba80aabd7bdafab8872a41a4a8657d33700eff47ef1c09f7e3d3d"
+      "sha256": "19c6c6d7159ba80aabd7bdafab8872a41a4a8657d33700eff47ef1c09f7e3d3d",
+      "page_path": "/exhibits/?q=Oculus+Quest"
     },
     {
       "file": "circuit-museum-quest-detail-2026-10-21-1172x751.jpg",
-      "page_url": "https://circuit-museum-a5e6r7np6-lighthousexy-6060s-projects.vercel.app/exhibits/oculus-quest-2019/",
       "captured_at_utc": "2026-10-21T10:38:46Z",
-      "viewport_px": { "width": 1172, "height": 751 },
+      "viewport_px": {
+        "width": 1172,
+        "height": 751
+      },
       "alt": "First-generation Oculus Quest detail page with the curation rationale, original 2019 photo, archive facts, and references.",
       "description": "Exhibit detail showing curation rationale, correctly mapped first-generation Quest photo, 2019 archive data, references, and source credit.",
-      "sha256": "292fad26a1726aef64223bc732787eb34dcd5f3edaa7911e5ea90cd0cbf72609"
+      "sha256": "292fad26a1726aef64223bc732787eb34dcd5f3edaa7911e5ea90cd0cbf72609",
+      "page_path": "/exhibits/oculus-quest-2019/"
     },
     {
       "file": "circuit-museum-nest-detail-photo-credits-2026-10-21-1172x751.jpg",
-      "page_url": "https://circuit-museum-a5e6r7np6-lighthousexy-6060s-projects.vercel.app/exhibits/nest-protect-1/",
       "captured_at_utc": "2026-10-21T10:39:41Z",
-      "viewport_px": { "width": 1172, "height": 751 },
+      "viewport_px": {
+        "width": 1172,
+        "height": 751
+      },
       "alt": "First-generation Nest Protect detail page with the curation rationale, CC0 photo, year, category, and evidence links.",
       "description": "Exhibit detail showing the curation rationale, correctly mapped first-generation Nest Protect photo, 2013 archive data, and reference links.",
-      "sha256": "b4bcad9ad08c8487116f29390d2a678cd19ce824fa961e48d403a80c1b5f660e"
+      "sha256": "b4bcad9ad08c8487116f29390d2a678cd19ce824fa961e48d403a80c1b5f660e",
+      "page_path": "/exhibits/nest-protect-1/"
     }
   ],
   "image_sources": [

@@ -1,6 +1,6 @@
 # Screenshot provenance and image credits / 截图来源与图片署名
 
-These three unedited screenshots were captured in Cloud Chrome on 2026-10-21 at 1172 × 751 pixels from the [login-protected development preview](https://circuit-museum-a5e6r7np6-lighthousexy-6060s-projects.vercel.app), deployment `dpl_3ExPGeFPCwspJK9yfLQrem1ai53x`, application commit `1900baf417dac15f06cca9906f1501e4a4749bd5`.
+These three unedited screenshots were captured in Cloud Chrome on 2026-10-21 at 1172 × 751 pixels from a login-protected, non-production development preview with only the two credited CC0 product photographs restored. Relative page paths and capture hashes are retained in [manifest.json](manifest.json).
 
 三图为云端真实截图，分别展示 Oculus Quest 馆藏筛选、Quest 详情、Nest Protect 详情。该受保护开发预览仅恢复两张下列 CC0 展品图片，不代表正式上线、全馆图片恢复或全馆版权清权。截图保持原字节；具体页面、时间、尺寸与 SHA-256 见 [manifest.json](manifest.json)。
 
