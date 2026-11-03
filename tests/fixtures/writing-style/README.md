@@ -4,4 +4,6 @@ These fixtures retain the structure, identifiers, references, and factual fields
 
 The tests use these revised fixtures for exact comparisons. Only packets containing wording changes are copied; unchanged packets remain referenced by the original paths. Update a fixture alongside any later approved text revision and preserve all source references and historical records.
 
+`baseline-chronicles.json` retains the original 29-node snapshot structure with the approved current wording. Its historical source remains in `docs/evidence/expansion-baseline-chronicles.json`.
+
 The two image baselines use the verified Atari Console-01 attribution from the current image mapping. Their historical source files retain the earlier Console-02 license URL. The Samsung test reads the tracked image whose SHA-256 matches the recorded original.

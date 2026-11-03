@@ -180,9 +180,9 @@ test('built pages have resolving internal links, anchors and local assets', asyn
 });
 
 
-test('Original exhibits and original chronicle nodes retain their exact archived data',async()=>{
+test('Original exhibits and chronicle nodes match the reviewed wording baselines',async()=>{
   const baseCollection=JSON.parse(await readFile(new URL('../tests/fixtures/writing-style/baseline-collection.json',import.meta.url)));
-  const baseChronicles=JSON.parse(await readFile(new URL('../docs/evidence/expansion-baseline-chronicles.json',import.meta.url)));
+  const baseChronicles=JSON.parse(await readFile(new URL('../tests/fixtures/writing-style/baseline-chronicles.json',import.meta.url)));
   const originalExhibits=Array.isArray(baseCollection)?baseCollection:baseCollection.exhibits;
   const originalCategories=(baseChronicles.chronicles||baseChronicles).categories;
   assert.equal(originalExhibits.length,40);

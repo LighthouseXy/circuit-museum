@@ -10,7 +10,7 @@
 
 ## 开发预览截图
 
-以下为 2026-10-21 云端实际截取的受保护开发预览，仅恢复 Nest Protect 与 Oculus Quest 两张已核实的 CC0 展品图片；不代表正式上线、全馆图片已恢复或全馆素材清权。图片作者、原文件页及转换说明见[截图来源与署名](docs/screenshots/circuit-museum/ATTRIBUTION.md)。
+以下为 2026-10-21 云端实际截取的受保护开发预览，展示 Nest Protect 与 Oculus Quest 两张已核实的 CC0 展品图片。正式发布、其余馆藏图片恢复及素材权利核查仍需分别确认。图片作者、原文件页及转换说明见[截图来源与署名](docs/screenshots/circuit-museum/ATTRIBUTION.md)。
 
 ### 馆藏筛选：Oculus Quest
 
