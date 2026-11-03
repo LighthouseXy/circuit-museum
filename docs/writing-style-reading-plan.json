@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "taskId": "T-006",
   "targetFullReadPasses": 3,
-  "sourceBaselineCommit": "d0d5413af936c8c5c5f0fe7c57fe12c2558faf9f",
+  "sourceBaselineCommit": "b9c7783738e57b979757d3fb844c4394b44b2711",
   "currentBatch": null,
   "completedBatches": [
     {
@@ -46,22 +46,28 @@
       "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H007.json",
       "fileCount": 24,
       "fullTextFilePasses": 72
+    },
+    {
+      "id": "T006-H008",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H008.json",
+      "fileCount": 24,
+      "fullTextFilePasses": 72
     }
   ],
   "coverageFile": "docs/writing-style-historical-read.tsv",
   "unfinishedFile": "docs/writing-style-historical-unfinished.tsv",
   "counts": {
     "totalFiles": 1118,
-    "firstPassComplete": 997,
-    "secondPassComplete": 132,
-    "thirdPassComplete": 132,
-    "firstPassPending": 121,
-    "secondPassPending": 986,
-    "thirdPassPending": 986,
-    "allThreeComplete": 132,
-    "allThreePending": 986,
-    "firstPassCompleteBytes": 14650430,
-    "firstPassPendingBytes": 31987504
+    "firstPassComplete": 1021,
+    "secondPassComplete": 156,
+    "thirdPassComplete": 156,
+    "firstPassPending": 97,
+    "secondPassPending": 962,
+    "thirdPassPending": 962,
+    "allThreeComplete": 156,
+    "allThreePending": 962,
+    "firstPassCompleteBytes": 16943754,
+    "firstPassPendingBytes": 29694180
   },
   "ordering": "Prioritize paths with the fewest full passes, then byte size, then path. Finish all remaining passes of each selected path within its batch.",
   "resumeRules": [
@@ -69,19 +75,20 @@
     "Reuse completed-pass receipts. Resume a partial pass from the first uncovered character; present every new chunk to the model before acknowledging it.",
     "Only mark a pass complete when its confirmed intervals continuously cover [0,characters). A file count increases only after a whole pass.",
     "Save each acknowledged interval atomically. An interrupted batch resumes its current file/pass/offset before new work.",
-    "Preserve historical source bytes. Store observations in batch receipts."
+    "Preserve historical source bytes. Store observations in batch receipts.",
+    "Character offsets index UTF-8 decoded raw bytes, retaining CRLF. Any display newline normalization must retain an exact raw/display offset mapping."
   ],
   "nextBatch": {
-    "id": "T006-H008",
+    "id": "T006-H009",
     "status": "planned",
     "fileCount": 24,
-    "sourceBytes": 2293324,
+    "sourceBytes": 3423653,
     "entries": [
       {
-        "path": "docs/expansion/editorial-import-packets/complete-wave-gaming-03.json",
-        "sha256": "7f6d3d0b1d961bdea21a1efeeccc6ec85642a57377e5811d5b2788f8f53f7092",
-        "bytes": 87013,
-        "characters": 56247,
+        "path": "docs/catalog-content.tsv",
+        "sha256": "87e57b492c3a415bbc915a7a4539659aca6fee3bac81e9f0a23d1ab3be1a08bc",
+        "bytes": 114427,
+        "characters": 45469,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -90,10 +97,10 @@
         "workerSlot": 1
       },
       {
-        "path": "docs/expansion/editorial-import-packets/complete-wave-home-02.json",
-        "sha256": "cbd5415478782a9e1b9a93280a4f0aac0e407324b7e19d9b47135cf35d811e76",
-        "bytes": 87104,
-        "characters": 58945,
+        "path": "docs/expansion/research-awards-media.json",
+        "sha256": "1ac98bc89e56bf018a00bb39d319013e4f11e48b5096f92edda4594ad1e9790c",
+        "bytes": 115555,
+        "characters": 79017,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -102,10 +109,10 @@
         "workerSlot": 2
       },
       {
-        "path": "docs/expansion/research-150-gaming.json",
-        "sha256": "be6657332fa3a34910c4458bcb671fddee67f25106ad947c7625ead6e9eaf7ce",
-        "bytes": 87284,
-        "characters": 67194,
+        "path": "docs/expansion/editorial-imaging-06.json",
+        "sha256": "83a9e0130cacb4c419f2b97bd24690b2b9c286a12f994993e81e2de4fe79328c",
+        "bytes": 118139,
+        "characters": 82659,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -114,10 +121,10 @@
         "workerSlot": 3
       },
       {
-        "path": "docs/evidence/photo-expansion/sony-cdp-101.json",
-        "sha256": "bb83069a4f7805aa5c5c940523a4763f0f0527b82db69d3ea7fd32ad2027154c",
-        "bytes": 87839,
-        "characters": 87647,
+        "path": "docs/evidence/photo-expansion/round3/teac-portastudio144.commons.json",
+        "sha256": "1f346d43bcc57aeaa385445b89993b70bf390156ba3bc10421c5955b61d9f374",
+        "bytes": 118567,
+        "characters": 118512,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -126,10 +133,10 @@
         "workerSlot": 4
       },
       {
-        "path": "docs/expansion/editorial-home-07.json",
-        "sha256": "8e1f00fd588e6e31be70c4b03664665574e1c3fc21ee518eb3d6d1e8e8f05263",
-        "bytes": 90178,
-        "characters": 62468,
+        "path": "docs/evidence/content-400-audit.json",
+        "sha256": "bdb785c1581b028d46239a844e566fab9c4d9b07a92a6655e8bdd14df3a5171c",
+        "bytes": 120656,
+        "characters": 82581,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -138,10 +145,10 @@
         "workerSlot": 5
       },
       {
-        "path": "docs/expansion/editorial-gaming-03.json",
-        "sha256": "505d95d24d84c88181db00852166746a90c853c4f289c065e17a7f60d916e903",
-        "bytes": 91559,
-        "characters": 57641,
+        "path": "docs/expansion/editorial-gaming-02.json",
+        "sha256": "f7a15e06fae7688987cf75640bf7daae0c87755cae68e90f4945be280433bd11",
+        "bytes": 122233,
+        "characters": 78791,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -150,10 +157,10 @@
         "workerSlot": 6
       },
       {
-        "path": "docs/expansion/editorial-gaming-05.json",
-        "sha256": "531811be5c9a501dfb537667c0c09b10aeb100691f640f6cd7c2ddb15c979bb8",
-        "bytes": 91849,
-        "characters": 60776,
+        "path": "docs/expansion/editorial-compute-03.json",
+        "sha256": "d76e786e05342a1110fd438e3f7de86b4f80c0b8ec9e117f2809010eaebf9d99",
+        "bytes": 123188,
+        "characters": 82613,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -162,10 +169,10 @@
         "workerSlot": 1
       },
       {
-        "path": "docs/expansion/import-packets/complete-wave-gaming-03.json",
-        "sha256": "596564990c070a73b1905bbbcba19bd6a5dafde06fd57433b41d6d603825322b",
-        "bytes": 91904,
-        "characters": 57212,
+        "path": "docs/evidence/photo-expansion/round3/denon-dp3000ne.alias-award-commons.json",
+        "sha256": "68816d37d5ff70373dce9ad44ea2b9e1774b560227d321d0287babc8649d1d61",
+        "bytes": 124994,
+        "characters": 124904,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -174,10 +181,10 @@
         "workerSlot": 2
       },
       {
-        "path": "docs/expansion/editorial-import-packets/complete-wave-home-04.json",
-        "sha256": "d2449b65d9a32a6af4844850b0ed68abe13d8c40ce682e8f90606d5fca4a2b80",
-        "bytes": 92411,
-        "characters": 63698,
+        "path": "docs/expansion/page-content.json",
+        "sha256": "27f7962a934b4bb45da7385418b78ff49b564dba3123cd49b8703f5a33829785",
+        "bytes": 127474,
+        "characters": 91431,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -186,10 +193,10 @@
         "workerSlot": 3
       },
       {
-        "path": "docs/expansion/editorial-imaging-02.json",
-        "sha256": "f168757226ed8eb0c101fddc4b7e3a5cf7f707255e31d5c3c426c5bd922bcfef",
-        "bytes": 92583,
-        "characters": 63290,
+        "path": "docs/expansion/editorial-compute-04.json",
+        "sha256": "b14da2c1ec9308049eaa9e1cb463c486e9e4ec967b082a43f636b2691f9fc8e7",
+        "bytes": 130482,
+        "characters": 85985,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -198,10 +205,10 @@
         "workerSlot": 4
       },
       {
-        "path": "docs/expansion/editorial-imaging-03.json",
-        "sha256": "e7ea5e216924864d81e12fbbf60ca389929098e54636957ac6ec09ebff80a5e3",
-        "bytes": 92988,
-        "characters": 64294,
+        "path": "docs/curatorial-catalog.md",
+        "sha256": "df3cb8b69dc47ec0d6914c76692ead9ef823cdde6fe7ac120f75bc3763640f3d",
+        "bytes": 135033,
+        "characters": 61404,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -210,10 +217,10 @@
         "workerSlot": 5
       },
       {
-        "path": "docs/expansion/editorial-home-04.json",
-        "sha256": "586e8b123d76cca9719167ae0f1d57a8140275bcb386b744f905b8569fac4e1b",
-        "bytes": 93519,
-        "characters": 63952,
+        "path": "docs/expansion/research-150-compute-media.json",
+        "sha256": "513f65a80f53b119419e5d5b2fec5361f0751185358f5ca62d9e49603c3b9f4f",
+        "bytes": 136721,
+        "characters": 99605,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -222,10 +229,10 @@
         "workerSlot": 6
       },
       {
-        "path": "docs/evidence/expansion-400/product-content-audit.csv",
-        "sha256": "f1c70eac6d5a9c3c5666f674e148d73da0b4e2c9d3e36a5cbe9dd3da3c55fbf4",
-        "bytes": 93933,
-        "characters": 72649,
+        "path": "docs/expansion/research-150-home-comms.json",
+        "sha256": "52c13385ebbe93a2c6adc00922dd75eea392823b1faa1b9572cb15e7ee5b7ad9",
+        "bytes": 138675,
+        "characters": 102808,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -234,10 +241,10 @@
         "workerSlot": 1
       },
       {
-        "path": "docs/evidence/photo-expansion/sony-access-controller.openverse-round2.json",
-        "sha256": "53d313e821cd81e8cab858b89341fa85401b647b61d5a4f7600106845936bd53",
-        "bytes": 94004,
-        "characters": 93906,
+        "path": "docs/evidence/photo-expansion/round3/hamilton-pulsar-p1.commons.json",
+        "sha256": "e82b106d7b5232882c1e98b3c2f2057624f4883c6d0ba4bb54afe77611ce5eb0",
+        "bytes": 143439,
+        "characters": 143436,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -246,10 +253,10 @@
         "workerSlot": 2
       },
       {
-        "path": "docs/expansion/editorial-import-packets/complete-wave-home-03.json",
-        "sha256": "6991b54de6025a41db1961f6e248f636a5c673ccc2dd07c34b152ab0da9f1fa4",
-        "bytes": 95654,
-        "characters": 65643,
+        "path": "docs/evidence/expansion-400/before-images.json",
+        "sha256": "f719d021d701cd5af6a2d981997619d110a2fc23e587a9abcbc8d68d29e1b6b7",
+        "bytes": 143999,
+        "characters": 112358,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -258,10 +265,10 @@
         "workerSlot": 3
       },
       {
-        "path": "docs/expansion/editorial-imaging-05.json",
-        "sha256": "e52d58658fbcfe15c5cdcc8d14340d95e8aa9099bb8064177e6af3d43814479a",
-        "bytes": 97106,
-        "characters": 67530,
+        "path": "docs/evidence/photo-expansion/round3/before-image-overrides.json",
+        "sha256": "67cbde4e65aa9a1b5c494efd05b35c2f95b022262989cee532e4dc30ada2a5e6",
+        "bytes": 147154,
+        "characters": 114448,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -270,10 +277,10 @@
         "workerSlot": 4
       },
       {
-        "path": "docs/expansion/research-everyday-alternatives.json",
-        "sha256": "63889643345b17a43273678027706b221085f49702148e549692446af4ffa5f8",
-        "bytes": 97893,
-        "characters": 62322,
+        "path": "docs/expansion/research-150-imaging-display.json",
+        "sha256": "99fe351dc5feb3f5718ea94f876f00044f4de0cab25cdab3fe3c518a743a839d",
+        "bytes": 151706,
+        "characters": 118307,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -282,10 +289,10 @@
         "workerSlot": 5
       },
       {
-        "path": "docs/expansion/editorial-imaging-04.json",
-        "sha256": "c918fb523d820783d71ce152b44dddd897f9f16704095b59cd399669bd361621",
-        "bytes": 98357,
-        "characters": 68299,
+        "path": "docs/expansion/complete-batch-14.json",
+        "sha256": "b4adb85152314ac6c99b60b1405eb870e21e33a5cbaf7d4d67ed9780ccc9dd43",
+        "bytes": 168208,
+        "characters": 106099,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -294,10 +301,10 @@
         "workerSlot": 6
       },
       {
-        "path": "docs/expansion/editorial-gaming-04.json",
-        "sha256": "86ee17acb414fe33eca2feeb776305bc3e5bcb362008cda53d16de8bccfe841b",
-        "bytes": 98402,
-        "characters": 63704,
+        "path": "docs/evidence/photo-expansion/sony-playstation-2.third.json",
+        "sha256": "ddd695a6aab714d7f425ff859048082fff06f7a123066c0c08ee95194c1f2dd4",
+        "bytes": 170739,
+        "characters": 169385,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -306,10 +313,10 @@
         "workerSlot": 1
       },
       {
-        "path": "docs/expansion/editorial-home-06.json",
-        "sha256": "faf3f9fb1d34900b594d636af8ee5a0984176782c10c5b7f22b9f40e22b0704c",
-        "bytes": 99891,
-        "characters": 69494,
+        "path": "docs/evidence/photo-expansion/round3/kitchenaid-h5.commons.json",
+        "sha256": "e11c965771301ddc3cfbcde3beb4dc7a614d040d3ebca9119ec6f7a30c772f3b",
+        "bytes": 173177,
+        "characters": 173146,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -318,10 +325,10 @@
         "workerSlot": 2
       },
       {
-        "path": "docs/expansion/editorial-home-05.json",
-        "sha256": "7072b677a5669d84df00bf089f2409969742d383ed8e68752a4d51bbb9d5409b",
-        "bytes": 102498,
-        "characters": 70903,
+        "path": "docs/evidence/photo-expansion/round3/xiaomi-smart-band-11-active.commons.json",
+        "sha256": "26ee79e97ad55049025b9ad5d91983c200d532d9eb95d01c519fd99f4bb74473",
+        "bytes": 174241,
+        "characters": 172861,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -330,10 +337,10 @@
         "workerSlot": 3
       },
       {
-        "path": "docs/evidence/photo-expansion/round3/asus-rog-azoth.alias-award-commons.json",
-        "sha256": "dc691d0d2734be5f0b6ddd8344c4e30735e3d9312f1c90c440b8d9182d55e229",
-        "bytes": 106891,
-        "characters": 106853,
+        "path": "docs/evidence/photo-expansion/round3/koss-sp3.wordpress.json",
+        "sha256": "8d71a75c30b8277f888b69ba6904c7116b33124a7773b664ed4321a6a018ae35",
+        "bytes": 174930,
+        "characters": 174890,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -342,10 +349,10 @@
         "workerSlot": 4
       },
       {
-        "path": "docs/expansion/first-batch.json",
-        "sha256": "c0a867e295e00104ad8cdd17fd4eb54c382f26265a93feef6c7bbc826be8a07a",
-        "bytes": 108525,
-        "characters": 66872,
+        "path": "docs/evidence/photo-expansion/round3/sony-aibo-ers110.wordpress.json",
+        "sha256": "3f1c91f9d9a3102696e36c528c1bff2988bcb3e1a127a94d36497f5990290f42",
+        "bytes": 174938,
+        "characters": 174898,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -354,10 +361,10 @@
         "workerSlot": 5
       },
       {
-        "path": "docs/expansion/awards-400-narratives-b-tail.json",
-        "sha256": "90c23b68dd223b0cf35383546d92e8a0b647f9be3bafc6b5eb7ffad7eb7d566c",
-        "bytes": 113939,
-        "characters": 59156,
+        "path": "docs/evidence/photo-expansion/round3/hamilton-pulsar-p1.wordpress.json",
+        "sha256": "adc95cb983528177630b0d8d8abb395a3c9fa60b6d8783e28500e47acda13014",
+        "bytes": 174978,
+        "characters": 174938,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -385,6 +392,13 @@
       "matches": 743,
       "reviewedMatches": 743,
       "batchId": "T006-H007"
+    },
+    {
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H008-keywords.json",
+      "status": "complete",
+      "matches": 926,
+      "reviewedMatches": 926,
+      "batchId": "T006-H008"
     }
   ],
   "pendingKeywordReviews": []
