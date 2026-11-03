@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "sourceBaselineCommit": "245d9209136dbb05765c449a199468dd7b5b08e8",
+  "recordedAtUTC": "2026-11-03T15:05:37.863874+00:00",
+  "scope": "three existing historical screenshots, separate from 1118 text paths",
+  "sourceFilesUnchanged": true,
+  "currentBrowserRegression": false,
+  "externalSourcesReverified": false,
+  "status": "complete",
+  "files": [
+    {
+      "path": "docs/screenshots/circuit-museum/circuit-museum-catalog-oculus-filter-2026-10-21-1172x751.jpg",
+      "sha256": "19c6c6d7159ba80aabd7bdafab8872a41a4a8657d33700eff47ef1c09f7e3d3d",
+      "bytes": 62027,
+      "width": 1172,
+      "height": 751,
+      "targetVisualPasses": 3,
+      "fullVisualPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "method": "prior published visual review",
+          "evidence": "245d9209136dbb05765c449a199468dd7b5b08e8:docs/writing-style-review.md"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "method": "original-resolution image displayed to and visually reviewed by model",
+          "reviewedRegion": [
+            0,
+            0,
+            1172,
+            751
+          ],
+          "notes": "完整原图可见排序方式、1件展品、2019/VR与AR、Oculus Quest第一代、Syced/CC0署名和页脚。照片说明限定2019年6月拍摄黑色首代Quest，并保留不使用白色Quest 2替代的版本边界。图像是一处滚动位置，非整页；若干箭头/原图标题显示方框字形，右侧悬浮图标和滚动条均作为原历史画面保留。未点击链接或重新认定许可。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "method": "original-resolution image re-displayed and visually reviewed by model",
+          "reviewedRegion": [
+            0,
+            0,
+            1172,
+            751
+          ],
+          "notes": "第三遍重新完整显示原分辨率截图。正文直接叙述独立运行、头显中的计算/相机、控制器与惯性数据组成Insight追踪；照片图注中不使用白色Quest2替代的否定属于版本约束。作者、CC0、原图标签、变换说明、2019年6月拍摄日期与产品2019年标签各有角色。页脚独立策展及不代表品牌官方的声明、400件/16条阅读线计数均按历史画面保留。方框字形与悬浮图标也保留，不改像素、不把截图升级为当前功能或许可验证。"
+        }
+      ],
+      "nextPass": null
+    },
+    {
+      "path": "docs/screenshots/circuit-museum/circuit-museum-nest-detail-photo-credits-2026-10-21-1172x751.jpg",
+      "sha256": "b4bcad9ad08c8487116f29390d2a678cd19ce824fa961e48d403a80c1b5f660e",
+      "bytes": 80797,
+      "width": 1172,
+      "height": 751,
+      "targetVisualPasses": 3,
+      "fullVisualPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "method": "prior published visual review",
+          "evidence": "245d9209136dbb05765c449a199468dd7b5b08e8:docs/writing-style-review.md"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "method": "original-resolution image displayed to and visually reviewed by model",
+          "reviewedRegion": [
+            0,
+            0,
+            1172,
+            751
+          ],
+          "notes": "完整原图可见Nest Protect策展解读、白色实物照片和蓝色光环、2013档案、Nest Labs、智能家居与感知、CPSC售卖及2014禁用NestWave等历史文字。右侧列出Google Home、MoMA、Nest/Google、Amazon与US CPSC来源链接文字，未访问链接。文件名虽含photo-credits，本视口下沿没有完整照片署名区域；保留截图当前截取范围，不推断未显示内容。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "method": "original-resolution image re-displayed and visually reviewed by model",
+          "reviewedRegion": [
+            0,
+            0,
+            1172,
+            751
+          ],
+          "notes": "第三遍重新完整显示截图，从顶部截断段落至底部链接逐区观察。NestWave召回与禁用记录、未报告伤害的限制、策展解读和右侧身份/结构表属于历史说明的一体内容，不能为语气简洁删除安全或时间边界。可见照片、2013、Nest Labs、来源标签和滚动裁切均保持；链接可达性、未显示署名与完整详情页均未由此图确认。该历史光环照片和措辞不替代当前运行页面的回归。"
+        }
+      ],
+      "nextPass": null
+    },
+    {
+      "path": "docs/screenshots/circuit-museum/circuit-museum-quest-detail-2026-10-21-1172x751.jpg",
+      "sha256": "292fad26a1726aef64223bc732787eb34dcd5f3edaa7911e5ea90cd0cbf72609",
+      "bytes": 80080,
+      "width": 1172,
+      "height": 751,
+      "targetVisualPasses": 3,
+      "fullVisualPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "method": "prior published visual review",
+          "evidence": "245d9209136dbb05765c449a199468dd7b5b08e8:docs/writing-style-review.md"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "method": "original-resolution image displayed to and visually reviewed by model",
+          "reviewedRegion": [
+            0,
+            0,
+            1172,
+            751
+          ],
+          "notes": "完整原图可见Quest入藏解读、2019年档案、Oculus、VR与AR、五月计划发货/八月确认可获得两种事件口径，首代Quest与Quest2版本限制，以及独立运行和Insight追踪的关键事实。Syced/CC0及2019年6月黑色首代照片说明可见；下方有HTC、Facebook、Meta等来源文字。上述是截图所载内容，未重新核验来源或把滚动视口当作整页。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "method": "original-resolution image re-displayed and visually reviewed by model",
+          "reviewedRegion": [
+            0,
+            0,
+            1172,
+            751
+          ],
+          "notes": "第三遍重新完整显示截图。入藏解读采用想象游戏准备动作的旧文风，作为历史像素证据保留。五月计划发货与八月确认可获得并列，首代Quest/Quest2限制和无需系到PC是事实边界；容量合并、Insight追踪、署名与许可/变换说明保留。来源标签中的HTC、Facebook和Meta按画面记录，未推断其具体页面覆盖或访问状态。照片及文字下沿裁切保持，完整查看仅指整张1172×751文件。"
+        }
+      ],
+      "nextPass": null
+    }
+  ],
+  "newVisualFilePasses": 6,
+  "priorReportedVisualFilePasses": 3,
+  "threePassCompleteFiles": 3
+}
