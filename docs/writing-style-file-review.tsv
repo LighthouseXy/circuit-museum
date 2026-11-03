@@ -1305,7 +1305,7 @@ tests/awards-browser.mjs	code-or-maintenance	text	3380	834ef92d13304388c991f7a00
 tests/awards.test.mjs	code-or-maintenance	text	4724	4a7a7adf98c5d86e8b335723dd6165d719c62db315e6efbffb12eabf90294433	2	full-file-read+copy/comment-review+diff	wording-only-or-unchanged
 tests/browser.mjs	code-or-maintenance	text	24189	2249aac3fa43d22df22b3849d1068eabbcfa44976f66e56833ea586fcd40cf7a	3	full-file-read+copy/comment-review+diff	wording-only-or-unchanged
 tests/catalog.test.mjs	code-or-maintenance	text	24608	8c7155a08650f6ee720602f549f8886d08186fdf9186a2934ff008dd2e8d15ee	7	full-file-read+copy/comment-review+diff	wording-only-or-unchanged
-tests/expanded-browser.mjs	code-or-maintenance	text	41320	42061e18e932616ef6ae3caa3b595203b31b09074fa461855b3cb2b20c465477	9	full-file-read+copy/comment-review+diff	wording-only-or-unchanged
+tests/expanded-browser.mjs	code-or-maintenance	text	41325	dd9fd661276c2d6bcaad2f4e4addb68e8dd6c1a287621c1226fe1049802c3a6b	9	full-browser-regression+assertion-diff	approved-Atari-fixture-path-only
 tests/fixtures/writing-style/README.md	comparison-copy	text	1042	84174d5c4ea238b446048288bd02cefed703c5777b6072a5a7a014bd274038d3	0	structured-diff+prose-review	approved-prose-only
 tests/fixtures/writing-style/awards-400-approved.json	comparison-copy	text	1336396	c1aea5df9d327a8879f866a386af0db55a8c270bf372b595954f40d1802a1ac6	160	structured-diff+prose-review	approved-prose-only
 tests/fixtures/writing-style/baseline-chronicles.json	comparison-copy	text	51577	24aa056fb8fcc4afb9c063e8dd512ad7812465080e2187f30a6e0f56659bfbfb	6	structured-diff+prose-review	approved-prose-only
