@@ -34,9 +34,9 @@ test('all product reading retains design points, complete summaries, captions an
 });
 
 test('award expansion preserves the 176 prior records and distinguishes award dates from release dates',async t=>{
-  let manifest;try{manifest=await read('docs/expansion/awards-400-approved.json');}catch(e){if(e.code==='ENOENT'){t.skip('Award research not imported yet');return;}throw e;}
+  let manifest;try{manifest=await read('tests/fixtures/writing-style/awards-400-approved.json');}catch(e){if(e.code==='ENOENT'){t.skip('Award research not imported yet');return;}throw e;}
   assert.equal(catalog.exhibits.length,400);assert.equal(manifest.exhibits.length,224);
-  const before=await read('docs/evidence/expansion-400/before-collection.json');
+  const before=await read('tests/fixtures/writing-style/before-collection.json');
   for(const e of before.exhibits)assert.deepEqual(catalog.exhibits.find(x=>x.slug===e.slug),e,e.slug);
   for(const e of manifest.exhibits){
     const live=catalog.exhibits.find(x=>x.slug===e.slug);assert.deepEqual(live,e,e.slug);
@@ -51,7 +51,7 @@ test('award expansion preserves the 176 prior records and distinguishes award da
 test('new award product photographs retain prior image metadata and primary license evidence',async t=>{
   let manifest;try{manifest=await read('docs/evidence/photo-expansion/round3/imported-photos.json');}catch(e){if(e.code==='ENOENT'){t.skip('New award photos not imported yet');return;}throw e;}
   const images=await read('src/image-overrides.json');
-  for(const [slug,m]of Object.entries(await read('docs/evidence/expansion-400/before-images.json')))assert.deepEqual(images[slug],m,slug);
+  for(const [slug,m]of Object.entries(await read('tests/fixtures/writing-style/expansion-before-images.json')))assert.deepEqual(images[slug],m,slug);
   for(const r of manifest.records){
     assert(built.exhibits.find(e=>e.slug===r.slug)?.image,r.slug);
     const c=(await read(r.evidenceFile)).candidates.find(c=>c.title===r.sourceTitle);

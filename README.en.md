@@ -4,7 +4,7 @@
 
 See the [development and maintenance history](DEVELOPMENT_HISTORY.en.md) for dated, commit-backed updates.
 
-Circuit Museum is a static digital museum about real consumer-electronics products and how their design, technology, and everyday use have changed over time. It combines an editorial catalog with sourced product histories. The website interface and exhibit articles are primarily in Chinese; this English README does not add an English-language website interface.
+Circuit Museum is a static digital museum about real consumer-electronics products and how their design, technology, and everyday use have changed over time. It combines an editorial catalog with sourced product histories. The website interface and exhibit articles are primarily in Chinese; this README provides English project documentation.
 
 ## Current collection
 
@@ -27,7 +27,7 @@ Source counts describe records, not unique websites. Citations support the claim
 
 ## Development preview and screenshots
 
-[Open the protected development preview](https://circuit-museum-a5e6r7np6-lighthousexy-6060s-projects.vercel.app). Vercel sign-in is required. This separate development candidate is for review and browser checks, not a public production release or the default-branch build. Its media scope is limited to the existing CC0 photographs for `nest-protect-1` and `oculus-quest-2019`; it does not display all 139 catalog photographs.
+[Open the protected development preview](https://circuit-museum-a5e6r7np6-lighthousexy-6060s-projects.vercel.app). Vercel sign-in is required. This separate development candidate is for review and browser checks, distinct from the default-branch build and any public production release. Its media scope is limited to the existing CC0 photographs for `nest-protect-1` and `oculus-quest-2019`, two of the 139 catalog photographs.
 
 These unedited screenshots were captured in Cloud Chrome on 2026-10-21 from the protected two-photo development preview. They do not imply a public production launch, full-catalog photo restoration, or site-wide media-rights clearance. See [screenshot provenance and photo credits](docs/screenshots/circuit-museum/ATTRIBUTION.md) for the original authors, files, CC0 terms, and conversion notes.
 
@@ -80,6 +80,6 @@ Only add an image after checking its exact source file, model, terms, attributio
 
 The project-owned original software and original technical documentation are licensed under the [MIT License](LICENSE), allowing commercial use, modification and redistribution with the required copyright and permission notices. See [LICENSE-SCOPE.md](LICENSE-SCOPE.md) and the [path inventory](docs/licensing/PATH-SCOPE.json) for the exact scope.
 
-This is not a blanket license for the whole website or museum collection. The original 400-exhibit curatorial/source databases, third-party code and dependencies, images, audiovisual material, screenshots, fonts and hardware remain outside that grant. Their existing CC BY, CC BY-SA, CC0, public-domain, Unsplash or vendor-specific terms remain applicable where recorded. See [third-party rights](docs/licensing/THIRD-PARTY-NOTICES.md). Attribution records do not constitute new legal clearance. Package metadata points to the scope document because this repository contains mixed-license content.
+The original 400-exhibit curatorial/source databases, third-party code and dependencies, images, audiovisual material, screenshots, fonts and hardware remain outside the MIT grant. Their existing CC BY, CC BY-SA, CC0, public-domain, Unsplash or vendor-specific terms remain applicable where recorded. See [third-party rights](docs/licensing/THIRD-PARTY-NOTICES.md). Attribution records do not constitute new legal clearance. Package metadata points to the scope document because this repository contains mixed-license content.
 
-This README update does not change repository visibility, production deployment, media permissions, or website functionality. It does not claim external community adoption or a completed public release.
+Repository visibility, production deployment, media permissions, and website functionality remained unchanged in this README update. External community adoption and a completed public release have not been established.
