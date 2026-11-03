@@ -1,0 +1,2652 @@
+{
+  "schemaVersion": 1,
+  "batchId": "T006-H001",
+  "status": "complete",
+  "sourceBaselineCommit": "ec0f2ccbf74c854a316e640278ac1cc0efbe9038",
+  "completedAtUTC": "2026-11-03T14:15:14.300547+00:00",
+  "method": "每遍重新完整呈现原文并逐块审读；收据区间可合并相邻已读块。脚本字节读取、摘要和截断输出不计全文通读。",
+  "observationsAreArchiveReadings": true,
+  "externalSourcesReverified": false,
+  "sourceFilesUnchanged": true,
+  "fileCount": 24,
+  "sourceBytes": 568319,
+  "completedFullTextFilePasses": 72,
+  "files": [
+    {
+      "path": "docs/evidence/photo-expansion/amazon-kindle-1.json",
+      "sha256": "a954c6bf53af1c1ead696e03555c65510de08fac49bda32e09f14c9d16f5d542",
+      "bytes": 26736,
+      "characters": 26688,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              26688
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              26688
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "发现候选 File:AmazonKindleUser2.jpg，分类指 Kindle original version；描述说女友手持设备且颜色/比例准确。MediaWiki DateTime 为 2010-10-31，DateTimeOriginal 却明确写 original upload date 2008-03-03，不可误认拍摄日期。作者 Tsgreer (English Wikipedia)，转移自英文维基，许可 Public domain，版权标志False、无署名要求。 第二候选标题Kindle Fire，且描述称first generation Kindle Fire，属于Fire平板不是Kindle第一代电子书阅读器；只能排除于目标型号。该候选自有作品、Prescotte、CC BY-SA 3.0并署名，日期2012-05-29。 第三候选Kindle WP63GW照片展示《红楼梦》，记录称只在中国大陆与日本销售；日期2015，年代及地区版本不宜挪作2007首代。作者中文名保留原文，CC BY-SA 3.0要求署名。 第四候选 Amazon Kindle Back Cover：分类标 Amazon Kindle (original version)，DateTime 与DateTimeOriginal均为2007-11-20；自有作品ShakataGaNai，署名字段要求 Attribution: Jon “ShakataGaNai” Davis，CC BY 3.0。候选适用范围可能只拍背面，需后文核实图像说明。 第五候选“Amazon Kindle on Wikipedia”同样被标原始版本、拍摄日期2007-11-20、同一作者与CC BY 3.0；它与背盖照片是不同构图/文件，不能当重复记录抹去。 第六候选Back Cover 02：2007-12-07、ShakataGaNai、CC BY 3.0与实名署名并保留；下一候选为Off状态照片。 第七候选Powered Off，首代分类、2007-11-20、作者同前，当前结构化许可CC BY-SA 4.0且要求署名/相同方式共享，categories中的多代许可/GFDL需原样保留，不能自作取舍。第八候选Off 02记录2010年；仍需辨明产品代际和许可迁移。 第八候选ImageDescription再次称Original Kindle Powered Off，DateTimeOriginal 2007-12-07、署名与CC BY 3.0。End-of-file检查表明此文件共八候选，涵盖非目标Fire及WP63GW，也有多个2007原代视图；日期字段语义不一，许可版本也有迁移差异，需逐件处理。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              26688
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              26688
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "证据复核：第一候选有原代分类但DateTime是2010、DateTimeOriginal注为2008 original upload date；public domain来源字段明确，但仍需保留原作者/转移信息。 Kindle Fire是不同设备，虽然文字称first generation Fire，许可字段要求署名及Share-Alike 3.0；无论其许可如何，不应放进Kindle阅读器首代。 Kindle WP63GW被分类为original version但描述本身说此机型仅中国大陆/日本销售且拍摄2015，当前只能将描述视为该记录主张；不可和2007首代图混为同一版本。署名中文名、CC BY-SA 3.0与Copyrighted=True，复用必须带原作者与相同方式共享条件。 背盖文件是一张具体视角，CC BY 3.0与Jon Davis署名；分类同时带GFDL和license migration redundant，提醒先后许可记录并存，当前canonical字段不可被分类误导替换。 “on Wikipedia”图注非常短，只说明Amazon Kindle；本条与背盖同日拍摄、同作者同许可，但来源记录不同，应保留各自页链及画面用途。 第二个背盖视图延续2007-12-07及署名CC BY 3.0；接下来的Off文件有多版本许可迁移字段，需把Commons当前许可值和遗留分类区别，不凭迁移标签把许可断言为GFDL。 Powered Off的当前数据为CC BY-SA 4.0，署名Jon Davis，Copyrighted=True；迁移分类列出多个历史版本，复用只依Commons许可字段不够时应维持出处并行核查。 Off 02又是2007-12-07、作者相同、当前CC BY 3.0。候选许可分组存在Public domain、CC BY-SA 3.0、CC BY-SA 3.0、多个CC BY 3.0和CC BY-SA 4.0状态，且年代字段需辨别。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              26688
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              26688
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "逐字段复读：文件名/slug和`query`限定目标为第一代；首候选说明采用第一人称式“my girlfriend”，这是摄影者描述的个人关系信息，历史保存时不能改写成人物身份事实。DateTimeOriginal在括号内明确为original upload date，是重要语义限定。来源路径和PD分类比泛化的kindle图片推荐更精确。 Fire的原文图注含“fist tablet computer”字样（可能拼写误植，但历史内容不可擅改）；产品描述已经明确第一代Fire，不是目标Kindle首代。错误/不匹配原文仍可作为为什么排除的记录，避免把许可条目误拿作目标配图。 描述将《红楼梦》置于具体型号WP63GW屏幕上，主张区域供应范围，句式清晰但需按摄影者描述归属，不提升成型号史事实。中文署名原样保存，型号编码不译写；许可与使用描述保持分栏。 图注只写“Amazon Kindle Back cover”，没有制造额外解读；Original的标注在category而不在描述。署名从网名映射至实名Jon Davis，保持两字段及来源关系是履历文本的忠实处理。 第二张Wikipedia图和背盖图都标题地注明实物面向，但不会暗示维基使用记录授权/认同；历史保留可展示不同选图。 Back Cover 02只有简短侧重“Back Cover”，时间和前一张背盖图不同一天，不能只按文件名合并。随后Off图仍是作者个人作品说明，保持源描述及类别、当前许可字段并列，是复用证据的一部分。 Powered Off条目的许可迁移类别明列多个候选版本，而页面结构化许可现标BY-SA 4.0；原样保留两类记录并指出其关系，避免把候选历史标签改写为新许可结论。 末候选仍有精确2007-12-07日期，图注限定为断电状态，许可CC BY 3.0、实名归属与BY-SA4.0不同。不同视角、离屏/开机状态、用户持有场景及许可迁移本身都各具历史证据意义，不把候选合并成一张泛化商品图。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/epson-ep101.second.json",
+      "sha256": "9abb07f28e33accae5b35459e38ffeb7180d0d497349eaec3d5e53a679f29cb0",
+      "bytes": 25115,
+      "characters": 25049,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              25049
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              25049
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "头部将产品界定为 EP-101，regionVersion 写作 OEM打印组件及后来的 Epson 品牌名，查询 intitle:\"EP-101\"、日期 2026-10-13。首候选 Commons/Flickr Andrew Chan，元数据述 1968 年 Shinshu Seiki 制作并讲 Epson 命名来源；原始日期 2010-11-25，CC BY 2.0。 次候选为 Sharp COMPET 661 与 Shinshu Seiki EP-101 合照，提交者自摄，2025-05-28，CC BY 4.0；和历史器物有关但来源是当代照片。 第三项是同一 Andrew Chan/Flickr 图片的未裁剪版本，元数据日期相差一天（原始拍摄日期同为 2010-11-25），叙述同样提及 1968 年 EP-101 与品牌命名；许可仍为 CC BY 2.0。 第四条标题大小写 Ep-101，说明特别指纪念性镀金版本；拍摄时间 2010-11-25 13:34，同作者、CC BY 2.0。 第五条也是金色纪念版，标题包含 Gold Plated，来源同 Flickr Andrew Chan，拍摄 2010-11-25，CC BY 2.0；分类同时标示 Flickr images missing SDC published in。 第六条是 Luxembourg 2025 EP (101)误命中：EP 指 European Parliament，实际为退位仪式照片，作者 Daina Le Lardic，欧洲议会条款而非 Creative Commons。 第七条为上述议会照片未裁切版本，说明、日期和授权一致；仍属 EP-191737A 议会照片误命中。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              25049
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              25049
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "第一候选裁切版的 Wikimedia 元数据与描述均给 CC BY 2.0，授权来源链为 Andrew Chan Flickr；AttributionRequired=true、署名 credit 链接仍须保留，Copyrighted=True，Restrictions 为空。信息来自 Commons desc-page 与模板字段。 第二候选 Sharp/EP-101 合照为拍摄者自有作品，CC BY 4.0，署名必需、Copyrighted=True、无附加 restrictions；来源页面与原图链接提供可追溯性。 第三条未裁切版再次给出 Andrew Chan/Flickr 原始 credit、CC BY 2.0，署名必需且无额外限制；Commons 类别记 Flickr images reviewed by FlickreviewR 2。 第四条金色纪念版仍是 Andrew Chan 的 Flickr 图，CC BY 2.0，署名必需、无额外 restriction；日期 2010-11-25 13:34。 第五条仍属同摄影者/同 CC BY 2.0 授权，须署名；类别另标 Flickr images missing SDC published in，条目本身仍保留完整 Flickr credit 和 license 字段。 第六条误匹配照片许可栏明确为 European Parliament，法定 notice URL，© European Union 且 AttributionRequired=true；不能按前几项 Creative Commons 授权处理。 第七条为同一欧洲议会照片未裁切版，仍由 Daina Le Lardic 拍摄，许可 European Parliament / © European Union，署名必需，保留 notice 链接。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              25049
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              25049
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "首候选描述是完整散文式历史说明，句式“实际给 Epson 命名的打印机”并解释1968年 Shinshu Seiki 与 Seiko关系及sons双关；但它是来源页原文，应保留原样并连同译文/作者署名证据，而不宜作为本项目独创文风。 第二候选只有描述性名词短语“SHARP COMPET 661 with SHINSHU SEIKI EP-101”，无说明性散文；历史保留其署名语言及大写原题有助于忠实记载自摄证据。 第三条未裁切版复用同一段历史说明；叙述者为原图说明而非新编写，且有裁切版重复记录，保留两者可呈现原始候选之间的版本关系。 第四项把前述说明加上“commemorative gold-plated version”限定；仍是来源作者文本，限定词是识别图像差异的证据，不能润色去除。标题采用混合大小写 Ep-101。 第五项同样是金色纪念版说明，另有标题 Gold Plated、缺失 SDC published in 分类；这些细节反映 Commons 条目的原始历史状态，需原样留存。 第六项描述是礼仪事件说明的中性句，(101) 标在标题而EP实际指 European Parliament；这是检索历史的重要否定候选，必须保留其误命中理由，不能删去或改成呼机相关文案。 第七项是未裁切版本，文字内容同前；重复保留可体现 cropped/un-cropped 候选并校验误命中持续存在，不能因重复而合并抹掉历史条目。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/fujifilm-finepix-x100.second.json",
+      "sha256": "47088559d3e9a6685b20504471ef0df3ea7bd12bef163ee7a50b627da16bb985",
+      "bytes": 26490,
+      "characters": 26476,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              26476
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              26476
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "目标为初代 FinePix X100，明确排除 X100S/X100VI；检索词精确并记检查日 2026-10-13。首图相机本体描述含 neck strap，作者 246-You，CC BY 2.0 且明确要求署名，来源 Flickr。；第二候选是包装内 X100，Darren Stone/Flickr，CC BY-SA 2.0（需署名并相同方式共享），可见更清楚的权利条件及日期 2011-06-07；第三候选开始进入同产品更多图。；第三张是顶板细节，CC BY 2.0，同作者同日同来源系列；细节图许可一致，但作为主视觉可能需补全机身视图。第四张开始是另一张机身照片。；第四张顶板视图延续 CC BY 2.0；第五张为 X100 带手工皮革背带，需留意图片呈现物件状态和配件，不能误称标准原装配置。；皮革背带图说明其拍摄器材是 Canon EOS 60D/布光，作者为 Johannes Gilger、CC BY-SA 2.0；这只是元描述拍摄参数，不是被展 X100 的规格。；第六候选“3 May 2012”图描述也只是拍摄相机 Canon EOS 60D 的曝光参数；摄影对象虽 X100，字段语义不能被当成 X100 技术证据。；末两项为电池仓与电池特写，系列图片均标 CC BY 2.0，作者、日期同组；候选既有展示照片也有细节照，图像用途需结合布局选择。PASS1识别的相机型号区分与署名链清楚。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              26476
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              26476
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "复核许可与来源：首图 Commons 记录来源 Flickr，CC BY 2.0，需署名；具体作者与原始日期在元数据中，导入项目需保留 attribution。；第二图来源 Flickr，Darren Stone，CC BY-SA 2.0，要求署名并相同方式共享；不同候选许可有 BY 与 BY-SA 差异，归档不可只保留统一许可字段。；第三图顶板特写 BY 2.0、署名 246-You；许可字段逐图重复，可直接据其保留明确的 attribution。；第四图顶板特写与前三相同署名/CC BY 2.0；第五图配件是手工皮革相机带，应明确其授权归属而不能假定品牌所有。；手工带商业照片元描述明确描述第三方小店提交物，CC BY-SA 2.0；这是可再用照片的许可，但任何裁剪/衍生都需遵循 share-alike 与署名条件。；第六候选署名 Johannes Gilger，CC BY-SA 2.0；相机曝光参数只涉及摄图设备，产品照片权利则仍由摄影作者掌握。；电池仓、电池两张细节均 CC BY 2.0 署名 246-You；全候选要求署名，两个带手工配件/摄影作品另是 CC BY-SA 2.0。没有设备拆装许可，照片仅有各自授权。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              26476
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              26476
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "逐句审阅：短标题与型号名干净；regionVersion 的排除式说明避免代际混淆，应原样保留。候选图名标识产品视角，元描述另说明拍照器材，需避免把图像上下文误写成物件属性。；包装中的实物视图可作展示候选，图像作者 Darren Stone 的 BY-SA 要求应保留；候选说明与许可条件形成明确、逐图的证据链。；顶板细节系列条目保持字段稳定而不添加额外宣传性描述；产品局部照片适合补充控制界面展示，不适合单独代表完整机身。；同系列图仍由 246-You 拍摄、日期一致，措辞是纯对象描述；手工肩带图标题明确提醒配件并非原厂典型配置。；作品说明文字中第一人称“我提交给 Gordy”是摄影者关于作品委托/用途的原话，历史资料应保留；这不影响对物件的解释，反而避免把商业手工带误作品牌配件。；第六图标题可见“3 May 2012”与采集日 2013 的区别；原始拍摄日期应优先于文件元数据日期解释。作者信息保留地名 Aachen。；末段电池与电池仓特写句式简短直接；图像是细节证据，避免升级成机型安全/拆解许可。历史保留理由：原始作者、日期、标题、各图许可差异和候选选择背景都值得留存。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/hp-laserjet-1984.second.json",
+      "sha256": "2a639309fb108ed02c1592bc8a4ea4d8a47b7e8b63b1c3f185e5937e7d5f8082",
+      "bytes": 26334,
+      "characters": 26308,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              26308
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              26308
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "条目名为LaserJet原代（1984），范围明写“原桌面LaserJet；非2680A”，查询却为宽泛 intitle:“LaserJet”。可见结果包括1020、CP1510安装光盘、Enterprise M406/M558、LaserJet 2100分隔器、4700与P1102w等，型号和用途跨越原代机型边界；多个日期还分别对应文件上传记录和拍摄时间。此结果清单是候选发现史，不能把关键词命中改述为1984原代实物证据。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              26308
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              26308
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "可见许可字段多次给出CC BY-SA 3.0/4.0、署名要求和相应许可链接；LaserJet 4700条目还保留“可选择许可”的Permission原文。P1102w标CC0且AttributionRequired=false，但同一记录类别文本含“missing SDC copyright license”且Copyrighted仍为True，属于应保留并人工核验的内部不一致。所有候选均为不同型号/用途或内部部件；即使某项许可较宽，也不构成其符合1984原代机型的证据。只审阅元数据，不打开原图或访问来源。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              26308
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              26308
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "适合保留的历史叙述应把机型范围原句（“原桌面LaserJet；非2680A”）与结果范围并列，随后明确列出命中的后代型号、安装光盘和2100内部件，避免“LaserJet图像”被误读为原代机照片。时间字段要按上传时间与DateTimeOriginal区分；4700的可选许可原文和P1102w的CC0/缺失版权标记矛盾值得保留。必要否定（候选对象与原代范围不符、许可数据不足以替代型号核验）是这份历史记录的核心编辑限制。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/ikea-dirigera.fourth.json",
+      "sha256": "2dd510c6c04019677f097d8e10289955e79717ae0d756f79454d549fe6f83b3d",
+      "bytes": 22008,
+      "characters": 21931,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21931
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              21931
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "文件对象为 IKEA DIRIGERA Hub，地区/版本注释明确 Matter-ready 不代表 2022 完整功能，检索词和检查日 2026-10-13 可见。候选图像首条竟是 1852–1902 法语宗教史刊物 PDF，明显无关；元数据含 Public domain 字样，但这单条不能替代图像相关性/权利审核。；进一步确认首候选虽 Commons 标 PD，仍是古籍扫描且不相关；第二候选为古巴鳞翅目专著 PDF，同样偏题。权利标签与对象适用性是两项不同检查。；第二候选内容为 1832 年古巴蝴蝶学专著，PD 字段再现；第三候选标题是 1903 年意大利报纸。检索回传需严筛，不能把 metadata/licensing 完整当成适合产品配图的证据。；第三个搜索结果也是报纸扫描，虽列 PD-old 且有 Commons 来源，但语义完全不合。历史日期和 license 字段用于追溯候选本身，不证明当前可用产品照授权。；第四候选仍为同一报纸系列 1900 年号，检索结果存在主题漂移/重复。列表不仅无 DIRIGERA 照片，当前所见项也无产品对应描述。；结尾第五条为意大利报纸，仍偏题；5 个 Commons 结果均为非 Hub 的扫描文本类。PASS1 描述目标对象/版本：IKEA DIRIGERA Hub，荷兰初代网桥及 2022 Matter 能力边界，检索日期 10-13；候选内容与对象不匹配，疑似搜索误召回。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21931
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              21931
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "复核用途/权限：所示第一候选是 archive.org 扫描馆藏并在 Commons 标 PD；但这是期刊书目 PDF，不是目标设备的照片，来源链/许可字段不能证明与 DIRIGERA 配图用途相关。；首条记录明确写 PD、false、无 attribution required，说明档案抓取将权限元数据持久化；第二条同样是古籍 PDF。即使页面将其标成公有领域，实际项目用途仍需图像本身相关且来源匹配。；西班牙馆藏记录给出 1832 出版、学术馆藏 contributor 和 archive 链接，证据链丰富但针对的是昆虫学书；后续意大利期刊也提示搜索落在泛 Commons 扫描结果，而非产品照片。；第三项期刊扫描页面还列有 Internet Archive 原始 PDF 与 PD-old missing SDC copyright status，具体显示许可标签和缺少结构化版权状态并存，阅读时应区分两者。；重复的 Il Friuli 1900 年号仍强调来源链与 PD metadata，却不增加设备事实；这类记录与目标操作/安全限制无关。；末条是意大利报纸；全文件都未见 Hub 设备图或设备拆装/安全/复用许可。候选元数据虽自称 PD、无署名要求，但应视为与产品图任务无关，不构成该项目任何目标图片授权。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21931
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              21931
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "逐句文风：顶层以 slug/name/regionVersion/query/checkedOn 的紧凑字段说明对象与限定；regionVersion 中“ready不等于完整功能”是对营销词的精确否定边界，候选标题则明显是历史期刊而非 Hub。目标范围说明应保留。；证据对象描述刻意保留采集到的 Commons 元字段名和值（包括无署名、PD），避免把权利状态散文化；但产品图筛选应把相关性和权利作为并列要件。；西班牙馆藏转录夹杂西语标签、HTML 片段与 catalog链接，作为原始采集快照应保存语义，不宜过度清洗；其学术著作出处依然与产品照片无关。；“Scans from Internet Archive/unverified”与 Commons PD 标签同现，是重要出处/状态组合；保留原元数据措辞比把来源压成一句“公版”更忠实。；重复期刊候选是明显模板化 metadata 堆叠，但其重复本身揭示检索池偏差，应作为历史记录保留；不要把候选数误报为多元证据。；终条也是报纸扫描。重复若干“PD”模板字段以及 PD-old missing SDC status，均应按原始元数据精确保留；历史说明可指出非目标内容及检索噪声，不应删掉记录。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/iomega-zip100.second.json",
+      "sha256": "b26f5db8b42cbfb7e6121e22c9921d5fec9fc8792e77182e2097d7a23a9b35d4",
+      "bytes": 28229,
+      "characters": 28151,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              28151
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              28151
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "对象 Iomega Zip 100 drive，限定原始 100MB 驱动器，不把容量升级型号另计；查询为 intitle:\"Zip 100\"，核查日 2026-10-13。首项是 100MB Zip 磁盘而非驱动器照片，拍摄者 Bobulous、2020-04-13 自摄，CC BY-SA 4.0，署名且相同方式共享，另有 trademarked 限制。 次项标题显示驱动器与磁盘同框，Iomega 拼作 “lomega”；图像上传日期 2023-12-19、说明原始拍摄日 2023-12-17，说明文字提到美国 1994 机件。作者为 Ходус Владимир，CC BY-SA 4.0。 第三项是西班牙语标题“Parte posterior…”所指 Zip 100 磁盘盒背面，而非驱动器，2024-05-24 拍摄、Koffermejia 自摄，许可为 CC0。 第四项为 Zip 磁盘盒，摄影者同为 Koffermejia、日期 2024-05-24，CC0；仍是耗材包装而非 drive 本体。 第五项 Iomega-zip-100-extended-cart.png 描述直接称 “Iomega Zip 100 Drive with zip Floppy”，2026-06-03 自摄，Nicolasfoster，CC0；这是真正匹配原 100MB 驱动器的候选。 第六项是 Iomega ZIP-100 并口打印机直通型号，摄于 2016-06-16，Raimond Spekking，明确需署名 CC BY-SA 4.0；需要注意具体变体为 printer pass-through。 第七项 Cartucho Iomega Zip 100 2 是磁盘耗材，Koffermejia 于 2024-05-24 拍摄并以 CC0 释出。 第八项 Disquette Iomega Zip 100 也是磁盘，法语说明，摄影者 zigazou76 通过 Flickr，2015-02-27，CC BY 2.0 需署名。 末尾数组闭合；首遍已覆盖全部 8 项候选，真正匹配 drive 的两张均已记录，其余为盘片/包装。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              28151
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              28151
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "许可/证据重读：首候选为 Iomega Zip 100 磁盘而非 drive；虽 CC BY-SA 4.0、署名和相同方式共享要求清晰，并标有 trademarked 限制，不能挪作驱动器本体图。 文件明确称这是用户写了 “DISK 2” 的 Iomega 100MB 磁盘，类别为 Iomega Zip drive discs；许可可用性之外还存在 trademarked 标注。第二项同框驱动器与磁盘，继续核对对象描述和许可。 第二项的英文原描述直接说 Zip 100 drive 和 disk（名字将 Iomega 拼作 lomega），地点美国，产品日期标 1994；拍照日则为 2023-12-17，不能把物件年代当成拍摄日期。许可证 CC BY-SA 4.0 细节待读。 第二项 CC BY-SA 4.0 明确要求署名和共享改作同许可；第三项西班牙语标题指 Zip 100 磁盘盒背面，非 drive，且标 CC0。 第三项 CC0 字段包括 AttributionRequired=false 与 License URL；第四项同为耗材盒图、同一摄影者/日期/CC0。Copyrighted=True 在 Commons 页面中仍出现，和 CC0 标识并列需原样保留。 第五项直接对应驱动器，Nicolasfoster 自摄于 2026-06-03，页面许可字段为 CC0；但类别提示 structured copyright license 缺失，且 Copyrighted=True 与 CC0 并列。将具体图像、原字段和缺失提示都留存，不隐去元数据张力。 第六项为 2016-06-16 拍摄的 ZIP-100 parallel-port printer pass-through，Raimond Spekking；署名字段给出 © Raimond Spekking / CC BY-SA 4.0，署名+相同方式共享条件明确，具体型号变体需保留。 第七项 Cartucho Iomega Zip 100 2 再次是盘片耗材，Koffermejia 自摄，2024-05-24，CC0；第八项法语 Disquette Iomega Zip 100 是磁盘照片而非 drive，需读取 Flickr 授权字段。 法语照片的许可为 CC BY 2.0、需署名，拍摄日期 2015-02-27；本遍全文件覆盖。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              28151
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              28151
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "逐句文风与历史审读：标题 `Iomega Zip 100 drive`、限定“原100MB驱动器；容量升级不另计”保留了型号边界，query 和 checkedOn 也作为历史检索条件保留。首候选描述强调这是标有 “DISK 2” 的 100MB Zip disk，保留盘片与 drive 的必要区分。 许可字段虽有扁平副本，保留 Commons 原始条目、来源链接与拍摄时间可区分媒介授权与物件历史。第二候选标题将 Iomega 拼成小写 l 开头 “lomega”，这是档案原文，应保留并避免擅自校正。 候选二说明将硬盘与 ZIP 非接触磁头及 CD 成本关联，作为收藏语境的原始描述可保留；不得把说明中介绍性“1994”混为拍摄日期，metadata DateTimeOriginal 明列 2023-12-17。 候选二的摄影者以西里尔字母保留为 Ходус Владимир；原文和结构化 license 共标 CC BY-SA 4.0，是署名与相同方式共享的依据。第三、四项是西语命名的包装实拍，保留原语词面有助辨认它们不是驱动器。 两张 Koffermejia 盘片照都以 CC0 / public-domain dedication 标记且无 attribution required，但 Copyrighted=True 同时存在；重复矛盾字段不应在历史记录里被删掉。 第五项直接 caption “Iomega Zip 100 Drive with zip Floppy.” 是简短明确原句，拼写大小写应原样保留；类别同时提示 SDC copyright license 缺失，虽然该条 CC0 字段存在，必要保留其结构化字段不完整警示。 第六项的本地化拍摄描述和精确归属行 “© Raimond Spekking / CC BY-SA 4.0 (via Wikimedia Commons)” 是可直接引用的署名候选；应保留扩展型号 “parallel port printer pass-through” 防止图文超出实际变体。 第七项西语名 Cartucho 表示磁盘盒，CC0 的机器字段与普通文字描述相互重复；把它与 drive 照分开记录，保留每个候选各自日期。第八项法语标题也应保留原语言，避免译成泛化的“ZIP 产品”。 第八条描述在原文中法文标题、分类和 Flickr 链接相互对照；有 FlickreviewR 记录，许可 CC BY 2.0 需署名。八条候选中必须留下耗材排除记录，防止仅凭关键词或较宽松许可证选择非驱动器照片。本遍全文件覆盖。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/kitchenaid-h5.second.json",
+      "sha256": "c950d20b554cf2d70ca102b88d5dbfba600787e09a6744a5e29025d9aa2a5d79",
+      "bytes": 30861,
+      "characters": 30826,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              30826
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              30826
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "对象 KitchenAid H-5，美国 H-5 型号，明确排除 1937 Model K；查询 intitle:\"H-5\"，核查日 2026-10-13。首候选 Sausage making-H-5-edited2.jpg 是匈牙利日常香肠制作场景，2008 年自摄者 László Szalai，CC BY-SA 3.0（另列 GFDL），不是 KitchenAid 产品图。 第二候选 Sikorsky H-5 是 1940s/50s 救援直升机，来源美国空军档案、标 Public domain；虽许可清楚但型号实体不符，应保留为否定命中。 第三项 Harvard H-5 是 1978 Mini Colour TV Game，非 KitchenAid 搅拌器；2026-05-05 上传/拍摄，来自复古电脑博客作者 Jose Antonio。类别提示 CC BY 4.0 缺少结构化许可字段，需看后文元数据。 正式字段确认 Harvard H-5 游戏机候选为 CC BY 4.0，需署名；第四候选 (12) 仍是相同产品的另一张图，许可字段待续读。 第四项 Harvard H-5 Mini Colour TV Game 同样 CC BY 4.0；第五项 Besson H-5 是 1922 法国飞机照片，年份虽古但绝非家用厨电，来源描述还给出 Bing 图片搜索 immediate source。 第一张 Besson H-5 1922 飞机 Commons 标 public domain、作者未知；后续第二张同系列依旧飞机图，作为保留的排除证据。 第二张 Besson H-5 同样 1922 法国飞机图，作者未知/PD；接下来 ONC H-5 为 1981 年 compiled 地图图幅，展示 H-5 作为地图系列编号的另一种歧义。 ONC 图幅由美国国防部编制、德州大学图书馆映射资源来源，Commons 标 PD；下一项 Bialowies in deutscher Verwaltung H.5 是 1919 年出版物页/文件名，不是 H-5 厨电。 末尾闭合对象与数组；本文件首遍全覆盖。候选包括匈牙利香肠制作、Sikorsky/Besson 飞机、Harvard 游戏机、军用航图及 1919 图书页；未见 KitchenAid H-5 本体。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              30826
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              30826
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "许可/证据复核：首候选是匈牙利香肠制作场景，不是 KitchenAid H-5 搅拌器；其自摄与 CC BY-SA 3.0/GFDL 许可字段只适用于该无关照片，不能因为标题含 H-5 复用。 首图授权有 GFDL 和 CC BY-SA 3.0 字段（需署名/相同方式共享），类别还称 License migration redundant；许可信息可追溯但图片对象明显不相关。第二候选 Sikorsky H-5 直升机虽然 PD 但不是 KitchenAid。 Sikorsky 图片许可源自 U.S. Air Force archived photograph，PD、无署名要求，但照片授权与 KitchenAid 型号无关，保留为负面证据。第三项 Harvard H-5 是另一种产品（游戏机），其 CC BY 4.0 不能用于 KitchenAid。 Harvard H-5 游戏机候选说明明确为 1978 Mini Colour TV Game，来源博客，照片时间 2026-05-05；类别明示 CC BY 4.0 许可/版权状态的 SDC 字段缺失，后面虽有许可元数据仍应保留这项完整性警告。 第三张 Harvard 游戏机图 CC BY 4.0 需署名，来源 URL、摄影者和许可匹配；第四张是同一产品另一画幅，不能合并它们的页面 ID/原始链接。 第四张 Harvard 游戏机 CC BY 4.0 同样要求署名。第五项 Besson H-5 aircraft 照片注明 1922 法国原始出版，Commons 现类目显示 PD US expired、作者未知，许可应结合其 permission 字段谨慎判断；即便 PD 也非厨电证据。 第一张 Besson 的字段显示 Public domain、author unknown，页面类别还说 PD US expired；避免把过期标注误读为普遍公有领域确定性。第二张 Besson 同属飞机图，许可和源链稍后完整查看。 第二张 Besson 同样标 PD、作者未知和 1922 年，但跟第一张相同的 Bing immediate source 模式应作为来源链保留。接续 ONC H-5 是 navigation chart 地图图幅而非厨房产品。 ONC 地图通过德州大学图书馆资源提供，DoD 编制，PD/no attribution；描述自带“Not for navigational use”限制语句，需保留原话。末项为 1919 德语出版物页（波兰图书馆资源），对象和标题中的 H.5 都不是 KitchenAid 型号。 文件剩余元数据确认为 Polona Digital Library 来源、匿名旧出版物 PD；本遍全文件覆盖。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              30826
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              30826
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "逐句文风审读：保留对象名称 `KitchenAid H-5` 与地域/版本边界“美国H-5；不混1937 Model K”，检索式 `intitle:\"H-5\"` 和日期字段让历史筛选方式可复现。第一个原文标题含 sausage making 与 H-5，属于搜索误命中，必要保留以说明检索歧义。 首项原描述短而明确： “Ordinary sausage making in Hungary.”，值得原样保留作检索排除说明；其 CC BY-SA/GFDL 元数据不能覆盖到本产品。第二候选 Sikorsky H-5 是直升机，保留其全名有助消解型号同名。 Sikorsky H-5 长说明中的 R-5/XR-5/YR-5A、航空救援叙事和 U.S. Air Force 来源可直接排除厨电误命中；保留这些具体称呼比只写“飞机”更有辨识力。 第三候选原始描述完整写出 Harvard International Limited H-5 Mini Colour TV Game, 1978，可作为区分同型号字符串的例句；来源博客网址与作者应和图像记录绑定，不要让“TV Game”被误写成 KitchenAid。 Harvard 图的 CC BY 4.0 署名字段需与 José Antonio Ortigueira Amore 对应；另一幅编号 (12) 是不同文件条目，保留独立标题及来源页 ID 才不会错误合并许可。 Besson 条目标题含 aircraft 且图片描述“Photo of Besson H-5 aircraft 1”，因此应保留为不是 KitchenAid 的明确证据。其“Original publication 1922 France / Immediate source”HTML 链接显式回溯 Bing Images，来源链不完整这一事实应保留，不改写成已核实的档案出处。 第二张 Besson 飞机同样有 unknown author、公有领域结论；类别明确带 `PD-US missing SDC copyright status` 与 `PD US expired` 两项 warning，应原样保留，不能仅取 Public domain 值。 ONC 地图的完整文件名地域范围很长、尺度明确为世界 1:1,000,000；`[Not for navigational use]` 是源描述限制语，不可在摘要中省略。末尾书目条目需读完以确认 1919 年来源许可。 末项为德语书目页，Polona Digital Library 的直接来源页与匿名作品 1919 年公开领域声明保留原文；整份检索记录中所有授权都只针对对应的误命中，保留负面证据可防止将 H-5 字符串匹配误当作 KitchenAid 照片许可。本遍全文件覆盖。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/motorola-dynatac-8000x.json",
+      "sha256": "50a6b799a9676ebf8b54dd4b783c56bf9df8cd8b1e34bac987414c499ed45034",
+      "bytes": 25699,
+      "characters": 25664,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              25664
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              25664
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "首候选DynaTAC8000X照片描述称1984年的机器，另记拍摄/原始日期2008；作者Redrum0486，CC BY-SA 3.0，需署名true，限制空。类别同时出现GFDL与“License migration redundant”，保留这种历史许可标签冲突信息。；第二候选为2024-12-02意大利语描述的DynaTAC照片，作者Avicente05，CC BY-SA 4.0，需署名；随后单列modified图像版本。；modified候选说明是从DynaTAC8000X.jpg派生，归属原作者Redrum0486及改图Technical 13；CC BY-SA 3.0，且类别标记retouched/derivative与迁移冗余。；后续Motorola DynaTAC较泛化，说明由Martin Cooper相关原图派生，原作者Rico Shen及改图者ויקיג'אנקי并列；不得把宽泛标题直接等同8000X。；泛化DynaTAC候选的许可为CC BY-SA 3.0、Attribution指向Rico Shen；其所引底图描述Martin Cooper持1973年DynaTAC原型，属历史场景，不是明确8000X特写。；Martin Cooper照片日期为2007-06-05，Rico Shen自摄CC BY-SA 3.0并需署名；随后出现1980s cellphone.svg图标，类别含CC-Zero/PD OpenClipart。；SVG图标记录CC0且AttributedRequired=false，虽Copyrighted字段True也照录；其后组合照片标题同时提DynaTAC与Galaxy Note Edge，分类为VOA公有领域/CC-PD-Mark。；组合照片的记录者Umut Çolak，描述明确含两机，标公共领域且署名无需、Copyrighted=False；该文件含实物特写、派生图、图标、组合图等不同证据类型。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              25664
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              25664
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "首个候选许可元数据列CC BY-SA 3.0、署名required=true、Copyrighted=True且Restrictions空；类别中GFDL与License migration redundant是原始类别线索，不据此擅自消解成新结论。；第二候选Avicente05(CC BY-SA 4.0)同样有署名要求true、版权状态True且限制字段空，说明为自摄并注明2024-12-02。；派生候选在正文显式连回基础图DynaTAC8000X.jpg与作者Redrum0486，改图者Technical 13；CC BY-SA 3.0要求署名，版权真、限制空。；另一Motorola DynaTAC候选标示Retouched/Derivative，credit指出Martin Cooper活动照来源并列原作者与改图者，许可证元数据继续在下段。；Attribution标Rico Shen，CC BY-SA 3.0要求署名，版权真、限制空；底图文件提供2007拍摄的Martin Cooper和1973原型说明，证据针对照片叙述而非当前使用许可重核。；底图自摄署名Rico Shen、CC BY-SA 3.0及署名要求；SVG图标元数据起始于本块，后续需区分图标CC0证据。；j4p4n图标是CC0且署名非必需、限制空，不过Copyrighted字段为True，保留元数据原状；组合机型照有VOA/PD分类。；末候选元数据记录Umut Çolak组合照为Public domain、无需署名、Copyrighted=False且无限制；保留每类候选各自许可，不能合并成该档案统一许可。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              25664
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              25664
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "措辞审阅：文件名和slug都精确锁定8000X；查询字符串直接用型号。首图描述明确写“from 1984”、早期British Telecom徽标和红色LED，应用于候选描述而非更广档案结论；类别保留迁移冗余标签。历史许可来源和措辞应按候选逐条保留。；次候选使用Catalan原描述“Fotografia del dispositiu mòbil Motorola DynaTAC 8000X”，强调移动设备；保留原语言和原日期2024-12-02，不将元数据类别空缺润色成确认背书。；modified候选用标题标注modified，类别又标retouched和derivative；正文同时给原图来源及两位作者。此措辞是应保留的必要历史归属说明，不能简化成独立作者候选。；标题“Motorola DynaTAC”比slug宽泛，credit及derivative work对照应留作识别限制；其来源是Martin Cooper活动照片而非直接8000X型号照片。；列表归属Rico Shen并保留改图者希伯来语用户名；底图原文用“prototype from 1973”，限定为原型叙述，不能经编辑替换成8000X成品照。；底图描述原句内的空格/措辞为归档原文；保留自摄、Rico Shen和许可字段。SVG标题和描述只是“1980s cellphone”，类别虽提到Motorola DynaTAC，也不足以消去图标而改称8000X。；SVG保留原作者j4p4n与2022摄入时间、2018原始日期，CC0/无署名要求和Copyrighted=True矛盾字段并存；组合照片标题完整点出两种手机，避免截掉Samsung上下文。；Umut Çolak条目维持公共领域描述与具体拍摄日期；记录末尾含来源URL和作者归属，按完整候选条目保留。全档历史保留理由是不同图像类型、源链和许可状态不可合并。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/motorola-pageboy-i.fourth.json",
+      "sha256": "d67dc26ffa24d0809a889ee8be21d69d75a559b50edd6d095f63082ba98fe17d",
+      "bytes": 30145,
+      "characters": 29918,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              29918
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              29918
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "范围标称美国初代 Motorola PageBoy I，排除 Pageboy II 与语音后代；query 仅为 \"Pageboy\"，日期 2026-10-13。第一候选 Maria von Braun 肖像，1963，NASA/公共领域，显然因标题/描述中提到其夫曾任 MSFC director 而被 Pageboy 查询误命中。 第一项原文完整说明是 NASA 公共领域肖像；第二项是 Pageboy haircut 词义相关而非呼机，2010 发图，Thirteen Of Clubs，CC BY-SA 2.0。 第三候选是 Jacometto Veneziano《Portrait of a boy》艺术品数字图像，PD-old-100，Pageboy 检索噪声继续。 第三候选作品是 1475–1480 年绘画，PD；第四候选 Lillian Drew 女演员照片带 Pageboy haircut 分类，1916 年内容，属于发型术语歧义。 Lillian Drew 1916 Motography 图无已知摄影师、公共领域。第五项 Elizabeth Taylor 1948 Woodbury 广告也因 Pageboy haircut 分类命中，非呼机。 Elizabeth Taylor 广告图标为公共领域，来源 Photoplay 1948。第六项 The Monkees 1966 群像也带 Pageboy haircut/bowl cut 分类，进一步显示查询歧义。 Monkees 1966 群像说明称照片用于粉丝通信，无版权标记，标 public domain；接续 Yoon Bo-mi 音乐节照片。 Yoon Bo-mi 舞台照 CC BY 4.0，但限制标 personality；Princess Mitsuko 1930s 相片接续，又带 Pageboy haircut 分类。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              29918
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              29918
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "NASA/Maria von Braun 首项版权字段标Public domain、无需署名；分类称 PD NASA 但无机器可读作者，描述和 credit 给 NASA Photo ID。候选显然是 Pageboy 查询噪声，仍应保留原始来源和判别依据。 第二项发型照片来源 Flickr Thirteen Of Clubs，CC BY-SA 2.0、署名必需；此许可证和肖像权等限制后续仍应从完整字段分别读取，不能因仅作歧义示例而忽略。 发型项元数据尾部显示无附加restrictions、CC BY-SA 2.0；第三项是国家美术馆藏的老画数字表示，类别列PD-old-100-expired及PD-Art，作者Jacometto。 Jacometto藏画数字图标公共领域、无须署名；Lillian Drew条目标PD US expired、未知艺术家，刊物为Motography，1916年。 Lillian Drew的说明补充archive.org刊物页、Unknown photographer，公有领域无需署名；第四项Taylor广告因Pageboy haircut类别命中，类别还标PD US no notice与版权状态缺失。 Taylor广告条目标public domain、无须署名，来源Photoplay Dec 1948，Artist列Woodbury Soap Company；仍保留PD-US missing SDC状态。接着的Monkees照同样有Pageboy haircut分类及PD-US无版权标记。 Monkees相片条款写 Pre-1978, no mark，标Public domain、无署名要求；credit文本解释曾用于粉丝信件回邮。下一项Yoon Bo-mi现代舞台照须考虑人物权利限制字段。 Yoon Bo-mi照为CC BY 4.0，署名必需，但Restrictions明确“personality”；许可不抹去该使用限制。Princess Mitsuko照片带 Pageboy haircut分类、PD-1996/PD-Japan-oldphoto标签，作者未知。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              29918
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              29918
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "第一项NASA图像描述采用“wife of the famous…director”事实说明，稍带引介式修辞，但核心是年份和NASA来源；其Pageboy完全误命中，否定理由必须保留。 说明中历史句使用双句解释人物关系和任职期间，信息源与论述口吻应作NASA原说明保留；不改写成产品叙事。 第二项是带“Right:”的图注式残句“Post haircut and straightening iron”，依赖图片左右构图上下文；它是发型而非设备，必要否定须保留，勿擅改成呼机候选。 第三项对象名“Portrait of a boy”展开多语言标签；说明是艺术史对象标题而非叙述，页面缓存的隐藏语言字段和国家美术馆链接有来源价值，应原样保存。 第三项date以“between 1475 and 1480”表示不确定区间，并有隐藏机器日期编码；description为空，需保留为空，不增写未经授权说明。第四项女演员说明是档案式刊物来源句。 Lillian Drew句式仍是出版物引注，credit点到archive.org原页；刻意保留摄影者Unknown。Taylor广告标题带省略点，属于原刊广告文本，不宜把标点美化或截短。 Taylor说明保留广告原题的省略号，文本是宣传句碎片而非完整句；第四候选非设备，发型标签造成误命中应保留。Monkees条目说明很短，信息在其来源与权利说明中。 Monkees说明保留NBC照片、粉丝信件与无标记事实，使用者生成的来源叙述而非历史设备信息；简洁描述“Photo of The Monkees.”亦保留。Yoon演出照接续为人名/活动/日期标签。 Yoon说明重复事件标题，仅以姓名/活动/日期为主的索引句；CC BY并不覆盖personality restriction，必要许可与人格权注记应完整保留。Princess Mitsuko条目用人物+年代标签。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/motorola-pageboy-i.third.json",
+      "sha256": "e9fd12387d81c2a023d670730d9e966038d0f5fb09e6b928d43aced7616b7bbc",
+      "bytes": 28767,
+      "characters": 28731,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              28731
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              28731
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "条目标为PageBoy I，范围“美国初代Pageboy，排除PageboyII与语音后代”，核查日2026-10-13，查询Motorola “Pageboy”。候选包含Pageboy II充电器及多张II正反面/天线图、1978年Motorola Radio Beeper、直接描述Pageboy并列出型号H03BNC1102D0的Pageboy1.jpg，以及一份Iran-Arms文件。Pageboy1描述给出作者Wilbert van de Kolk和照片日期2006-05-05，但来源字段明示无机器可读作者且Own work仅为推定；候选集合中的型号混杂和作者来源差异是审读重点。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              28731
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              28731
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "候选许可并不统一：charger、Pageboy II正反面与天线项以CC BY 3.0要求署名；PageBoy II正面/背面分别给出Florian Fuchs署名，天线项为Ralf Krebs；1978 Radio Beeper为CC BY-SA 3.0。Pageboy1.jpg虽直接描述目标机型，类别却注明无机器可读来源、Own work系基于版权声明推定，作者字段也注明机器可读作者缺失；同时挂CC BY-SA 3.0，必须保留来源不确定性。Iran-Arms PDF标公共领域，但其Permission原文提示美国以外可能不属公有领域，作者和出版年必需；它显然与产品无关。只读记录没有实际操作或再发布许可。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              28731
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              28731
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "历史表述宜保留范围句“美国初代Pageboy，排除PageboyII与语音后代”，并明确检索词Motorola “Pageboy”带来的II代图片、充电器、天线和1978 Radio Beeper等误匹配。最有辨识度的候选Pageboy1.jpg提供H03BNC1102D0、Wilbert van de Kolk及2006年照片描述，但字段明确标注无机器可读来源/作者、Own work为推定，宜作为待核来源候选而非无条件确认。Iran-Arms PDF需作为显著误匹配保留；其美国公有领域地域限制、作者及出版年份要求不可因分类标签而删去。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/nikon-coolscan-ls-10.openverse-round2.json",
+      "sha256": "ce385b8bd626a80941257f9cb34f8bf03ac7ce7e805ab12aef5a0bf2716cbe7b",
+      "bytes": 29175,
+      "characters": 29175,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              29175
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              29175
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "Openverse round2 查询 “Nikon LS-10”，2026-10-15 检索，26 结果、2 页、page1/20。前三结果均名为 Image7/15/12，Flickr/CC BY 2.0、同一摄影者，匹配字段只有 description；因此产品相关性有待逐条核验。；第4至第6条继续是同摄影者、泛化 Image 编号、BY 2.0 结果；候选集合可能实际同一个摄影项目/设备主题，需查看原图，不可仅凭 “Nikon LS-10” 查询词认定为扫描仪。；page1 中段仍为同一 Flickr 摄影者，并出现 Clarifai 自动标签 building/outdoors，标签属于机器标注，不是可靠主题描述；无主观使用限制。；机器视觉标签把其中一项标 monochrome/people/street/travel/architecture/city，更多提示其实际为街景/人物摄影且非扫描仪对象；仍需逐项图像视觉核对，不能用算法标签作结论。；继续出现Image26/20/43等同一摄影者、同一 BY 许可系列；对象集合的实际拍摄主题呈多样街拍，查询关键词明显只是描述文本命中。；命名序号增至 Image43，均无描述性标题；仅 Openverse 的 description match 说明来源 Flickr 文本命中，可能是照片说明中提及扫描仪而非扫描仪入镜。；算法标签对 Image18 给出 railway/train/war/street/vehicle 等，进一步确认查询命中大概是扫描仪被文本提及的摄影描述；使用前必须看原图、排除无关街拍。；总计 20 条 page1结果完成通读，大多数都是同一 Flickr 账号的 Imagexx 纵向街头/铁路照片，统一 CC BY 2.0；关键词只在 description 匹配，说明查询噪音巨大。需以更准确检索和图像审查选出实际扫描仪照片。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              29175
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              29175
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "该段确认 20 个 page1候选的许可多为 Flickr CC BY 2.0，署名字符串及 creator URL 已收录；这只授权照片按 CC BY 条款再用，不是对扫描仪实物操作许可。；这一段也是同一 CC BY 2.0 署名串、Flickr 来源、description-only match；图像宽高并非内容识别证据，不可据纵横比推断目标物。；授权仍统一 CC BY 2.0；自动标签 building/outdoors 仅为 provider 的算法字段，不能当摄影者写的说明或物件出处。；这段仍是 description 命中，算法标签内容更像人行街区；权利允许再用但使用者应遵循署名，Openverse 不是原作者本体。；跨越图像记录的边界后仍是同一摄影者/许可项；没有安全或设备操作指示，关注点只是照片授权和结果相关性。；第8至第10条仍均 CC BY 2.0，匹配字段 description；对作者作品的合法再用仍需署名，且页面的 Openverse 记录不能替代原始页面复核。；Image18 的 Clarifai 机器标签确认为铁路/战争/街景交通题材；许可不消除目标相关性审查责任，建议不作为 Nikon LS-10 产品图。；pass2完整覆盖全部20项结果；许可集中均为 CC BY 2.0，允许按署名条件再用照片；没有扫描仪实物相关许可或设备操作授权，且标签/描述匹配不能充当产品鉴别。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              29175
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              29175
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "文风审阅：顶层采用 query/checkedOn/result_count/page_count/page_size/page 的 Openverse schema 字段，保留明确来源而非改写成馆藏结论。标题 Image7/15/12 非描述性，不能把搜索候选伪装成已确认图片。；来源字段保持原作者署名行的逐项 JSON 表达，对后续 attribution 列表有用；标题本身泛化意味着不能在后续文案中杜撰拍摄内容。；source-neutral schema有助于后续追溯；自动分类 tags 被独立置于 tags 数组，也有 unstable__provider 标记，应该作为不稳定机器元数据保留而非编辑叙述。；数据风格是逐项罗列 Openverse/Clarifai 原始字段，避免在历史材料里将置信分数改写成事实；“people/street/city”标签解释搜索候选无关性，但不需重复塞进产品文案。；相同标题结构连续重复，建议保留搜索轮次记录以解释为何一批候选需要人工排除，而非只保留选中的一张。；此处长串 URL/creator/许可字段机械而非叙述性文本，历史保留价值在可追溯每条候选及其被排除依据；不能以汇总替代源候选行。；明确否定保留理由：铁路战争街景候选即便可按 CC BY 展示，也会错误暗示 Nikon LS-10 影像；编辑排除应按内容相关性而非许可限制。；最后四项再现相同作者、许可与泛化标题，完整搜索结果保留价值是记录噪声及排除理由。多次命中同一相册不等于独立证据或产品图授权。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/nintendo-switch-2.json",
+      "sha256": "49f1cc352826f508c5491e525b6950d4ea14ce33c5f723c1bbaca7010eb52ea8",
+      "bytes": 30556,
+      "characters": 30516,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              30516
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              30516
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "档案标2025原代，语言/捆绑版不另算，服务范围截至2026-10-11；首候选为Switch 2 in Docking Console，照片作者Crisco 1492，拍摄日2025-06-06；CC BY-SA 4.0且需署名，限制空。；第二候选Handheld Mode由Crisco 1492拍摄于2025-06-06，CC BY-SA 4.0且署名必需，Restrictions空；第三候选RAW-Export文件随后出现。；RAW-Export候选署名PantheraLeo1359531，2025-06-05，CC BY 4.0需署名；德语描述明确“Photo corrections are planned for later”，是图像处理状态限定，应保留；随后Tischmodus候选。；Tischmodus图由PantheraLeo1359531于2025-06-06拍摄，CC BY 4.0，要求署名；英文说明点明Joy-Con 2和主机放在桌面等存放表面，文件标题区分带序号版本。；第二张桌面模式图为独立文件，作者、日期与CC BY 4.0条件相同，应保留单独来源项；下一个候选标题明确为2023 Nintendo Switch内部图，型号/年份可能不符合本机范围。；Innenleben候选正文详述Nintendo Switch内部并标日期2023-04-05，早于Switch 2；它是拆机硬件照片而非新品外观照，需保持版本和题材区别。；旧Switch拆机图作者PantheraLeo1359531，CC BY 4.0要求署名，Restrictions空；下一候选HOF4739为Switch 2 RAW-Export的另一机身图。；HOF4739图描述借略高于设备母USB-C接口的相机视角呈现主机厚度，日期2025-06-05，PantheraLeo1359531、CC BY 4.0需署名；下一图是由上往下角度。；最后一项标题von oben，描述为“Top of the supported Nintendo Switch 2 console”，日期2025-06-05，作者PantheraLeo1359531、CC BY 4.0需署名、无限制；首遍完整覆盖到JSON尾。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              30516
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              30516
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "首候选许可证据来自Commons描述字段：CC BY-SA 4.0，AttributionRequired=true，Copyrighted=True，Restrictions为空；上传DateTime为6月7日，拍摄DateTimeOriginal为6月6日，二者不能混写。；Handheld Mode许可与首候选相同：CC BY-SA 4.0、署名必需、版权真、限制空；元数据DateTime是23:01，DateTimeOriginal是17:02，应分清摄录与上载时间。；RAW-Export候选PantheraLeo1359531，CC BY 4.0要求署名，版权字段真且限制空；“Photo corrections are planned for later”应作为图像修正状态披露，不能略去。；桌面模式02条目记CC BY 4.0需署名、版权字段真、限制空；另有focus stacking分类和拍摄原始日期，不与上传时间混淆。；桌面模式普通版本与02文件为两条独立上传，虽然画面描述同一场景，均须各自保留署名条件；下一条是Switch 1拆机照。；Nintendo Switch内部拆机图明确2023-04-05与旧世代硬件，详述Tegra等构件；本轮许可细节在接续块中。；拆机图单独许可为CC BY 4.0，署名必需、版权真、限制空；授权适用于该具体图像，不能移到Switch 2候选上。；HOF4739版权授权CC BY 4.0、署名必需、Restrictions空，原日期2025-06-05；随后由上视图许可详情在尾块。；上视图授权字段仍为CC BY 4.0、署名必需、版权真、限制空；各候选许可逐条独立，均没有档案层面的统一许可声明。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              30516
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              30516
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "文风：档案只给明确的2025原代及服务截点；候选标题/描述精准区分入坞与手持模式，质量评定quality属来源元数据。保留同一作者同日的两张独立照片及各自CC BY-SA授权，不能合并为一张笼统视图。；Handheld Mode候选逐字区分拍摄时间与Commons DateTime，并保留质量评定、摄影者和模式标题；历史留存理由包括此特定视角与作者署名链。；该RAW-Export保留德语原始描述及“后续计划修正照片”的编辑状态；此必要否定/限定说明可避免把RAW出口图误作修饰完毕成片。；桌面照明确Joy-Con 2与主机放置表面，维持原描述而不推论使用者或环境；“Focus stacking”是档案分类，应保留以说明成像处理类别。；02桌面照的标题、许可和原始日期与基础桌面照相近但pageid文件路径不同；历史保留理由是各自独立来源项。下一个拆机图明确属于Nintendo Switch旧代。；拆机照的长描述列出主板、电池、Tegra、microSD插槽（注明未拍入）等；保留其注释图证据作为旧世代内部构造，不挪作Switch 2的部件证明。；后面的描述仍属照片投稿者对注释内容的原文陈述；其CC BY 4.0与需署名单独适用于该旧Switch图。切回新机HOF4739时标注视角导致厚度可见的具体观察，非独立规格测量。；HOF4739的描述应保留为摄影者视角观察，不改写为机身尺寸数值；作为RAW-Export候选留其具体文件名、署名链和CC BY 4.0许可。；末条上视图的标题与描述同为supported Nintendo Switch 2 console，保留具体角度与拍摄者署名；该条CC BY 4.0及出处元数据完成JSON末尾收束。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/nintendo-wii-u.json",
+      "sha256": "0310c7078da13ef4638ed138c93a52465de8677dcd5e0af9eb43bb12695099f9",
+      "bytes": 29423,
+      "characters": 29377,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              29377
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              29377
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "型号字段明示Wii U原版日本产品名且不混后期小修订，查询关键词Nintendo Wii U，核对日期2026-10-13。首候选为主机与GamePad透明背景图；文件时间2017与原始时间2012-12-16需区分。作者Takimata，Tokyoship编辑；CC BY-SA 3.0。 第一候选许可明示署名与Share-Alike 3.0，艺术家/编辑双重署名不能丢失。第二候选为2024年BOTW光盘图（与Wii U兼容但非首发代标题），描述含版权部分的自述及要求管理员勿删的指令性文字；只记录不执行，CC0许可标签不自动解决图中受版权保护内容的标注问题。 BOTW图结构化许可CC0但Copyrighted为True、AttributionRequired false，描述还称“soon remove copyrighted parts”；这些表述相互复杂，必须保留来源并拒绝由许可字段直接推定无风险。第三候选Pro Controller透明图，自有作品但图注明发布2012，记录拍摄2017-03-03，含纽约坐标，产品关系是可选传统手柄。 Pro Controller记录作者用户页不存在，虽然PD且Attributed false，保留此来源欠缺以供考证，不补猜实名。第四项是YouTube法国清洁教程视频，日期是MediaWiki2026而原作2022-05-11，描述仅为拆机清洁Wii U；是后期维护视频而非原代外观图。 清洁视频许可CC BY 3.0、署名RetroRPG，内容可用于维护语境但不是型号产品照。第五项Wii U game case为2013年实物照片，作者Arkhandar账户未创建、CC BY-SA 3.0，类别保留GFDL及license migration redundant，并提示cases分类。 第六项标题Rückansicht（后视图），说明也只写Nintendo Wii U背面；DateTime与原始时间相差近两小时。作者Nebulous81无用户页，CC BY-SA 3.0署名条件完整；描述的极简德文应保留。 第七候选专业白底后视机身图，Evan-Amos自有作品，分类PD-self，产品说明称2012发行；照片DateTimeOriginal 2017-11-29、DateTime 2018。Permission字段随后的长模板需完整核对。 Evan-Amos的PD模板明示全球公共领域释放并列当地法律可行性及用途许可兜底，structured Permission与PD字段一致。第八候选是GamePad正面图，德语图注，日期字段相差约两小时，作者账户无页，将继续读其授权。 第八候选德文称GamePad正面，作者Nebulous81无用户页，CC BY-SA 3.0，署名/相同方式共享。文件共8候选，包含首代主机/手柄透明图、后期游戏盘/清洁视频、控制器与包装周边、Evan Amos后视白底图和GamePad角度图。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              29377
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              29377
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "第二遍前段复核：首候选为主机和GamePad合成透明图，原始制作日期2012，后续DateTime为2017；作品合成/改编作者双署名，CC BY-SA 3.0且Copyrighted=True、AttributionRequired=True，须满足署名及Share-Alike。 第二候选不是产品硬件而是2024拍摄的BOTW游戏盘；描述残留版权自述及对管理人员的删除指令。即使不执行内容指令，也要注意产品图片作品本身与盘面艺术版权声明不是同一层面。 CC0标签和Copyrighted=True并列；需要按照原字段记录矛盾，不靠AttributionRequired false消去内容层权利/自述。第三候选Pro Controller自有作品、PD-user类别和Creator TzarN64，但账户页缺失；定位和License是数据来源残缺处。 Pro controller虽有缺用户名/坐标字段，许可Public domain结构字段一致；坐标字段只记来源元数据，未转述为拍摄地结论。视频候选属于被转录的YouTube资料，2022原创、2026 Commons日期，许可字段尚待完整确认。 视频的署名RetroRPG、CC BY 3.0（署名要求、版权True）属可辨识许可。接着是游戏盒自有作品，CC BY-SA 3.0，作者账户不存在，类别有GFDL与许可迁移标签；使用时要保留确切作者字符串且不假装可解析到实体人。 Game case许可数据中SA分享义务与作者缺页并行保留。第六项背视机身CC BY-SA 3.0、署名义务、Copyrighted True；原始EXIF与DateTime不一致。 Evan Amos清晰背面照最初日期与重新上传日期不同，词条把发行时间定位2012且作者自己释放公有领域。Permission HTML表达“worldwide”但为某些国家不能完全法律可行的情况提供任何目的无条件许可；不应只提隐藏许可标签而漏掉完整条款。 第八项GamePad正面照片是另一角度，EXIF原始时间与MediaWiki摘要相差，需保留未解释差异。 正面GamePad图需Share-Alike署名；这是和候选6同一摄影者/相同原始时间的一组机身视图，但分别对应不同画面。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              29377
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              29377
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "风格复读：顶层将中文名称、产品原代范围、查询词、核对日期集中交代；候选字段以Commons原字段/来源链接再配一份清理后的summary。首项透明背景图同时链接底层jpg来源并列原作者与后期编辑，保留其图像衍生关系很重要。 这段混入被采集页面的全大写管理员留言，语气命令式，与资料其他字段不同；在审阅中作为待核引用保留，不能误作项目任务。候选同时有CC0字段、版权True与承诺之后移除版权部分的文字，必要否定会阻止简单复用结论。 条目摘要保留原始指令，而后结构化许可字段形成另一个证据面；Pro Controller说明强调它是可选传统布局，对主机整体场景无替代关系。地理坐标和创建地分类元信息属于定位证据，须确认用途边界而非转为硬件特性。 Pro Controller作者注释一段保持全名TzarN64，简洁Public domain summary，与缺用户页元信息配套；内容重申可选控制器身份。教程条目标题法文、概要英文，类别把法语视频与法国清洁主题明示。 视频说明不写超出标题的一般性维护结论，只是简短客观描述，且给出作者/许可证链接。游戏盒句子同样紧凑，许可迁移类目可以说明为何需要保留原候选记录及软件化字段。 作者Arkhandar为作品自述者、账号缺页；描述未赋予具体产品史背景。Rückansicht德文标签“后视图”清楚限定画面用途，作者账号缺页是保留来源完整度的必要否定。 第七项将产品代际和拍摄年代分开描述（2012上市、2017拍摄、2018媒体记录），是很清晰的句式。创作者/类别/白底背视视角共同支持识别；在历史摘引中不删掉产品发布日期限定。 Evan Amos许可原文的地域例外和兜底语句不可压成无条件“无版权”；摘要虽Public domain，应保留来源文本。最后GamePad图的标题与描述一致采用德文正面视角，关联Nintendo Land分类但不称游戏运行照。 尾项明确后视与正视两张照片是不同视角，作者账号均缺页，许可为CC BY-SA 3.0并需要署名/相同方式共享。全文件字段样式是JSON嵌入HTML来源记录与清理摘要并置，HTML及原外语图注都是可追溯历史的一部分。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/philips-hue-2012.second.json",
+      "sha256": "a6d2de6b8b36f2d13e82f6ef2145245c75bed0091817dc011d27c046af64fcb4",
+      "bytes": 27055,
+      "characters": 27001,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              27001
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              27001
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "记录 Hue Starter Pack 首代限定，美欧三灯泡与 Bridge，不混蓝牙/Matter代；查 intitle Philips Hue，2026-10-13。首条实际是 2018 年拍摄的 Hue Bridge 照片，Gregory Varnum 自摄，CC BY-SA 4.0，说明简短为产品名。 第二候选为 2018 白色 Hue 灯泡照片，仍 Gregory Varnum 自摄并用 CC BY-SA 4.0；第三条标题起始指 Fugato 天花射灯，扩大查询到可能非首代组件。 Fugato 三路射灯来自 smartlampen.nl，自摄条目标 CC BY-SA 4.0；下一条开始 Hue 智能调光开关，仍是 2018 Varnum 系列。 调光开关图属于 Hue 配件候选，拍摄于 2018，Varnum/CC BY-SA 4.0；随后转入 IFA 2018 Berlin 展场图，展示产品而非静物。 IFA 展场候选由 Matti Blume 在 Berlin 拍摄，CC BY-SA 4.0，元数据含 GPS；分类注明 Pictures by MB-one rejected。接续候选是 Hue Iris 色彩循环动画 GIF。 Hue Iris 金色特别版动画影像由 User:Mateus2019 自摄，2021，CC BY-SA 4.0；再下一项是 2021 Hue Bridge 底部照片。 Bridge底部图记录为 Philips 自有扫描、public domain、无须署名，分类写 PD ineligible/De minimis；这项许可特征与此前 CC 候选不同。下一候选是 2021 金色 Hue 白光。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              27001
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              27001
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "Hue Bridge首项为 Gregory Varnum 自摄，CC BY-SA 4.0，AttributionRequired=true、Copyrighted=True、Restrictions为空，须署名且遵守相同方式共享；许可URL和Commons来源字段齐全。 白灯泡次项相同由 Varnum 自摄并明确 CC BY-SA 4.0，署名必需、原作者保留版权、无附加限制。 Fugato候选由 smartlampen.nl自摄，Commons用户页为不存在链接，仍有明确 CC BY-SA 4.0、署名要求及授权URL；source attribution应保留显示名。 调光开关候选仍由 Varnum 自摄，CC BY-SA 4.0，AttributionRequired=true；下一 IFA 展会图转由 Matti Blume 拍摄，需分别确认授权与位置元数据。 IFA 图获 CC BY-SA 4.0、署名必需，原作者版权保留；元数据含精准 GPS 与相机资料，类别含 Pictures by MB-one rejected；若后续复用需留意位置隐私和编辑状态。下一项 GIF 许可需独立审查。 Iris金色特别版色彩循环动画列明 CC BY-SA 4.0、署名必需且无额外限制，2021-02-17；分类提示GIF大于100MP。接续为 Bridge底部扫描件，需要区别其许可基础。 Bridge底部图为 Philips 产品认证标签的 own scan，标 PD ineligible/De minimis 类别，但 Commons字段判为 Public domain、无须署名；历史中应保留其归档依据与元数据，不替它作外部法律判断。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              27001
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              27001
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "文件本身以简短产品名标签（“Philips Hue Bridge”）与结构化元数据为主，没有可迁移的作者叙述风格；标题中的型号、拍摄月和括号编号（1986）是来源文件标识，应原样保留以区分同系列照片。 白灯泡条目同用名词短语说明，标题区分 white bulb 与具体拍摄编号，文字简洁、非宣传；信息准确性与产品代际边界是保留该候选的历史理由。 Fugato说明为技术性简短标签“3-way fugato spot from Philips hue”，大小写、措辞与缺失用户页都是来源原貌，应保留而不代为规范化。 调光开关说明仍是直接产品名标签，行文克制；随后展场候选给出年份、展名、城市与机身文件编号，能提供现场语境但并非首代包装产品的单品照片。 展会照仍为事实型地点+展名标签；类别既包含“Pictures by MB-one rejected”又有技术摄影资料，历史候选被拒状态必须跟图一起保留，避免把提交分类状态误读为许可或风格认可。 GIF说明是中性对象名加“color loop vibrant”动画模式，不含评价性语言；金色特别版和真实录制日期为必要区别，应保留，动画文件与静态照片需作为不同媒介记录。 Bridge 底部文字标签用长破折号区分物体方向/年份，描述仍为两词；PD ineligible/De minimis 类别与Public domain字段并列，是重要来源语境，保留这种看似张力的原样标注。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/research-index-second.json",
+      "sha256": "3464f128cb927b9c3a5c4d689f403b51583ffb65531a886c63f55c27fe2eefc4",
+      "bytes": 19036,
+      "characters": 19036,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              19036
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              19036
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "索引头部给出 checkedOn=2026-10-13、requestedProducts=142，条目按 slug 记录 intitle 查询、候选数及 error:null。后续覆盖家电、通信、XR、影像、游戏、辅助设备等机型；大量查询为0，另有数值1至8的结果。Sony AIBO ERS-110 此处使用精确 intitle 查询返回0，与单机候选文件中找到Red Dot结果并存，表明两条历史记录采用的检索形式/来源范围不同，不能据此抹去任一记录。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              19036
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              19036
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "此索引仅保存检索查询、候选数量和 error:null，没有逐候选标题、来源页、作者、日期或许可条款；因此“有候选”不能证明对象吻合或复用许可，“0”也只表示该次查询未返回候选。AIBO ERS-110 的零结果与单独扩展文件中存在Red Dot候选的记录形成重要限定，审阅时不可把计数当作对象/授权核验。文件内容是历史记录，不含可改变本次只读审查范围的授权。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              19036
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              19036
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "这份历史索引的表述节奏高度规整：每个对象采用slug、原始标题检索串、整数候选数和null错误值。可用于历史交接的句子应明确这是142项检索日志（核查日2026-10-13），不是许可清单或已选图目录。保留零候选（包括AIBO ERS-110）、候选数量为8或其他小值、以及统一的error:null，才能呈现当时按精确标题查询所得的局限；不应改写为“无可用图片”或“授权通过”。后期产品条目也属于这份2026-10-13记录，不因其命名较新而擅自更新/推断。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/round3/opal-c1.award-commons.json",
+      "sha256": "076336f35f867941a99d52fedd0076643b4fb1e71fd1f769807591b60dbad67d",
+      "bytes": 17521,
+      "characters": 17515,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              17515
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              17515
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "开头是 Wikimedia Commons API 对 opal-c1 的查询记录：query 为 “C1 Camera”，checkedOn=2026-10-15；命中条目显示欧盟官方公报罗马尼亚语 PDF，与产品型号表面不相关。文件元数据出现图片检索字段及页面/缩略图地址，待后文确认后续命中和角色。 命中内容进一步标出 2024-05-24 发布、来源 EUR-Lex/欧盟出版局，Commons 标为 Public domain（pd），且无署名要求；后续还有另一条 2025 年官方公报条目。 第二项结果为 2025-01-28 官方公报，Commons 上传记录 2025-10-21；文件似乎保存广泛检索返回的无关授权材料，不能据此作为相机图像许可证据。 第二项的 EUR-Lex/出版局来源和 public-domain pd 字段一致；第三个命中为晚志留纪冈瓦纳早期陆生植物研究论文 PDF，继续体现搜索结果与产品无关。 第三项是 2024-03-14 研究论文预印本，Commons 记录 2024-04-20 上传，署名十位作者，标 CC BY 4.0 且需署名；三个条目都不能对应 opal-c1 相机。 末尾仅为 JSON 闭合；首遍覆盖全文件。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              17515
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              17515
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "复读开头核查证据语境：检索对象是“C1 Camera”，返回材料却为欧盟官方公报 PDF；这里仅见 Commons API 结果和链接元数据，不能证明任何相机图片的许可或适用性。 第一条公报有 EUR-Lex 与欧盟出版局来源，元数据称 PD/pd、无署名要求；这是对应公报文本本身的声明，不能外推为产品图版权许可。 第二条结果仍是欧盟官方公报罗马尼亚版，标示发布日期 2025-01-28、Commons 上传时间 2025-10-21；目前许可信息展示尚未完整。 第二条同为 EUR-Lex / 欧盟出版局提供的公报文本，标示 public domain / pd、无需署名；第三条则是完全不同的科学论文文件。 研究论文命中列有作者、Research Square 来源及 CC BY 4.0，要求署名；该许可只对应论文 PDF/内容，不构成产品照片许可。 文件未提供能证明检索命中为相机图像的证据，且对检索内容声明的许可不可挪用至相机照片；本遍完整。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              17515
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              17515
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "逐句风格审读：正文以原始 Commons API 字段和逐层嵌套对象保留，不作改写；可保留的原文候选包括精确标题 “File:OJ C 202403360 of 2024 - RO Romanian.pdf” 与描述中的“Official Journal of the European Union”。这是可追溯原始记录，不是编辑文案；不因查询结果失焦而删改历史证据。 日期/来源/许可均作为数据字段原样保留，尤其 EUR-Lex 网址、2024-05-24 日期及 pd 标签；不把第三方 HTML 片段改写成概述，因为实体编码与来源标注是档案溯源线索。 第二个公报标题和 HTML 图片说明重复同类字段；保留其官方日期与对象名的原始组合，避免把两个不同年份的文件合并或误当作机型别名。 第二条保留相同 PD 字段的重复结构是逐文件归档 API 原文的必要部分；不删重复字段。第三条标题转入研究论文，不能与产品/公报混为一项。 论文记录保留清晰的出处、原始日期和十位作者名单及 CC BY 4.0 标识；作者名单本身是应原样保留而非压缩的归属信息。 末尾闭合对象未包含叙述文字；完整记录说明历史搜索命中不相关，仍需保留作为该轮检索实际产物与负面证据，防止后续误读为有授权产品图。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/samsung-t7-2020.openverse-round2.json",
+      "sha256": "b00399127a8e404b289580ed3e91f1c1fc52ce5640145fca66ecac628e0023db",
+      "bytes": 14092,
+      "characters": 14092,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14092
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              14092
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "文件声明 Openverse 查询 Samsung T7，checkedOn 2026-10-15，9 项、1 页；首条 Jemal Flickr 图实际语义像 RAZR 厚度对比，CC BY-SA 2.0，字段命中 description；后两条为 Dinkun Chen 拍摄 T7 Shield 4TB 后侧/左侧 Wikimedia，CC BY-SA 4.0。 合并查看左侧侧面图、T3/T5/T7 Shield 并置图、右侧图条目均陈列作者/来源/CC BY-SA 4.0及尺寸/详情链接，检索结果明显大量偏向 Shield/T7。 对齐先前条目的右侧图元数据结尾；紧接两条前视图，分别 Shield 单件和与 T3/T5 合照，仍为 Chen/Wikimedia CC BY-SA 4.0。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14092
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              14092
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "重新核读首条为误匹配的 RAZR 厚度照片，CC BY-SA 2.0；第二条 Shield 后侧与第三条左侧由同一 Wikimedia 用户授权 CC BY-SA 4.0，含许可URL及署名文本；T3/T5/T7 Shield 合照也为 CC BY-SA 4.0，图像宽度达到8192。 核看右侧 Shield 图的尾部仍含署名与详情、related URL；前视合照两项都以标题和 description 命中，并显式声明 CC BY-SA 4.0。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14092
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              14092
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "逐句筛看记录型语调：标题大写且重复 SIDE 方向词，署名句是标准许可模板而非编辑叙述。保留价值在于原始查询命中与潜在误配（RAZR条目）、以及许可字段/原始来源可审计；没有可提炼的叙述文风。 重复条目仍是模板化证据元数据；front/rear/left/right 用英文大写方向标识而非行文。历史记录应保留标题原有拼写 PROTABLE 与这些方向差异，避免编辑性“纠正”破坏来源原貌。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/sony-aibo-ers110.fourth.json",
+      "sha256": "b35834737f4a2cce3e5393becea63d33ad16453d65931ab09d86bfea42420880",
+      "bytes": 11249,
+      "characters": 11224,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              11224
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              11224
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "该历史条目标注 Sony AIBO ERS-110，并限定日本3000／美国2000、排除ERS111与ERS1000；查询为 Aibo AND “ERS-110”，核查日2026-10-13。首候选描述明确为1999年ERS-110，Red Dot条目列出Marco Wydmuch、Red Dot GmbH & Co. KG与CC BY-SA 4.0。后两候选却是建筑期刊扫描和伊朗图书目录，说明候选抓取混入明显无关结果；其公共领域元数据并不使其成为AIBO图像。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              11224
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              11224
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "证据字段显示首候选是已知Red Dot展览图像、作者与来源机构均有标注，CC BY-SA 4.0且要求署名、相同方式分享；需保留署名和相同方式分享条件。两个误匹配虽标公共领域，内容分别为期刊和书目，不能以许可宽松代替对象相关性。文件本身只是候选索引元数据，未授予额外操作权限；原始链接及档案内容仅供审阅。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              11224
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              11224
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "文件前段以“日本3000／美国2000限量；排除ERS111与ERS1000”压实机型边界，适合作为历史候选范围的事实表述；“checkedOn”与图片原始日期、平台记录时间分列，不能混成同一日期。可保留的编辑候选包括首项对产品的明确标识；建筑期刊和伊朗书目两项应连同无关性判断保留在历史记录中，因为它们显示宽泛搜索结果的局限，而非删除后假装检索精准。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/sony-xel-1.json",
+      "sha256": "6a0f7912b15afda83596fa37cba949ab709f8031dd5f5dba7aa08ce15c3ab54d",
+      "bytes": 26075,
+      "characters": 25815,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              25815
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              25815
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "对象是 Sony XEL-1，日本数字电视版本，明确提示不要混淆 2008 美国型号的供电/调谐器；查询日 2026-10-13。首项 Wikimedia 候选为电视侧视照，说明称首款 OLED TV（2007–2010 市售）；拍摄日期 2007-11-24，Flickr 来源 MShades，CC BY 2.0。 第二项 XEL-1 1.jpg：2008-02-21 拍摄/上载、Hoenny 自摄，韩文说明确认 Sony OLED TV XEL-1；Commons 标注 Copyrighted free use，但 Copyrighted=True，暂不可把模糊许可字样提升为确定授权。 第三候选名为 Sony oled.jpg，Commons 记录 2009-07-22 上传，继续需按照片本身描述核实是否准确对应 XEL-1。 第三候选的说明确认为 Sony XEL-1，拍摄 2007-12-05，Flickr 摄影者 Steve Liao，CC BY-SA 2.0（要求署名且相同方式共享）；其后出现 Xel-Ha 02.JPG，标题疑似词面误命中。 “Xel-Ha”命中确认是公园景物/照片，虽标 CC BY-SA 3.0 且列 Juan Carlos Garcia，显然与电视无关；按标题辨析型号与同名地点。 下一条 EC135T1(2).jpg 描述的是 Christophorus 空中救援直升机，登记号 OE-XEL 含 XEL 字串，是航空器词面误命中；不得当成 Sony 电视图。 该直升机项目的授权也是 CC BY-SA 3.0，仍属无关候选。接续标题 ZyXEL P-872H，是中华电信 VDSL modem（摄于 2006-10-15），属品牌字符串误命中。 末尾对象闭合，首遍全文件覆盖；候选中出现经核实的 XEL-1 图及 CC BY/CC BY-SA 许可，也有 Xel-Ha 公园、航空登记号和 ZyXEL modem 等不相干近似命中。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              25815
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              25815
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "许可与证据复核从头开始：首候选图为 Sony XEL-1 电视本身，描述、Flickr 来源和摄影者字段互相对应；Commons 列 CC BY 2.0，需按署名许可条件使用。 说明与 Commons 页面/原图链接均指同一物件；拍摄日期 2007-11-24 与 2009 上传日期不同，记录同时保留二者可避免混淆。 第二项是韩文说明确认的 XEL-1 实物照，自摄 Hoenny，2008-02-21；虽标“Copyrighted free use”，同一 metadata 明确 Copyrighted=True，未给许可 URL，不能把标签视为清晰可复用许可。 第三项 Sony oled.jpg 上传 2009-07-22，继续查看原始出处与许可字段才能判断该图是否可用。 第三张电视照来自 Steve Liao 的 Flickr，拍摄日 2007-12-05，CC BY-SA 2.0，需署名并遵守相同方式共享。随后 Xel-Ha 02 是公园项目，属于同名词面误命中，与型号无关。 两张 Xel-Ha 照来自同一摄影者、2003-01-02，CC BY-SA 3.0（署名+相同方式共享）；授权清晰不改变其为 Xelha Eco Park 场景而非 Sony 产品的事实。 下一候选 EC135T1(2) 描述明确是 Christophorus 救援直升机，拍摄/原上传日期 2005-04-15，Commons 转自德语维基；类别 GFDL 与航空登记号 OE-XEL 表明它不是电视照片。 航空照片 metadata 的授权字段给 CC BY-SA 3.0（署名、相同方式共享），与类别摘要 GFDL 也一起保留，进一步显示档案证据应看字段而不省略历史标签。末项 ZyXEL P-872H 确认是 VDSL modem，Shack 自摄、2006-10-15，属于 ZyXEL 品牌近似命中。 ZyXEL 候选声明 CC BY-SA 3.0，署名和相同方式共享要求明确；不过图像内容与电视完全不同。本遍全文件覆盖。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              25815
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              25815
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "逐句风格/历史保留审读：以 Commons 的原字段名、原始 HTML 描述和分层许可信息作证据，不润色成宣称可用的产品图文案。候选标题 “File:Sony XEL-1.jpg” 与拍摄者 MShades、CC BY 2.0 是有明确出处的可保留事实；保留许可 URL 与原日期便于追溯。 结构化字段虽重复描述和链接，但分别留存 `metadata`、扁平化摘要与来源 URL 可供后续机器比较，不宜去重。第二项标题 “File:XEL-1 1.jpg” 及韩文原描述保留原样，避免翻译时丢失贡献者页面线索。 Hoenny 条目的两份说明（HTML 原描述与扁平 description）内容对应但实体转义/空格有差异，二者均是来源原貌；需保留“Copyrighted free use”与 Copyrighted=True 的冲突，不能编辑掉负面警示。 “File:Sony oled.jpg” 的文件名较泛，须保留后面的具体描述与型号交叉信息，不能仅凭标题断定；该候选说明文字明确写 Sony XEL-1，适合作为原句候选。 这条说明词序重复 “The Sony XEL-1 television, the first OLED TV (marketed 2007–2010)” 与前候选相似，保留原始原句可显示 Commons 上的历史描述表达。其后标题 Xel-Ha 02.JPG 是必要否定项：同样出现 Sony 拍摄设备却拍的是生态公园，不能误选。 Xel-Ha 02/04 的 `description` 为空；保留类别、对象名、摄影者和日期才能说明为什么排除，并避免凭 `Sony DSC-P72` 相机型号把它们误判为 Sony 电视。 EC135T1 条目的英文原描述与航空器类别清楚呈现 XEL 字符是登记号部分，而非电视机型号；保留 “OE-XEL (aircraft)” 是避免历史搜索记录被截断后误用的必要否定证据。 ZyXEL modem 原说明含非母语表达 “This photo is be shot by myself” 和许可文书措辞；作为来源页原文候选应照录，编辑时不可将它润色成 Sony XEL-1 的描述。 末尾闭合数组；保留“真机且许可明确”的电视照片，以及 Xel-Ha、航空器和 ZyXEL 误命中的历史负面证据，避免后续只抽取许可字段而丢失对象核验。本遍覆盖全文件。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/violet-nabaztag-v1.wiki.json",
+      "sha256": "2a62f5263a0eaf589611008cd54ab78f110f547f0d04f70b7cd31cf204be323f",
+      "bytes": 13414,
+      "characters": 13095,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3000
+            ],
+            [
+              3000,
+              6000
+            ],
+            [
+              6000,
+              9500
+            ],
+            [
+              9500,
+              13000
+            ],
+            [
+              13000,
+              13095
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              13095
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "文件是 Commons 元数据发现结果；标识 Nabaztag v1，查询说明以 Wikipedia 线索寻找 Commons 文件，checkedOn 2026-10-13。候选 Nabaztag-IMG 1666.jpg，页面给出 Commons 文件页及原图/缩略图；metadata DateTime 为 2011-12-27，但类别描述拍摄于 2011-12-20，需区分记录时间与拍摄日期。类别含 CeCILL、Nabaztag、Musée Bolo，描述指向 Lausanne 的 Musée Bolo 展示。 第二块继续是 Wikimedia CH 支持模板的 HTML 及多语言导航链接，没有新增藏品身份字段；这是来源页面模板噪声，与作品来源判断应分开。 第三块为 Wikimedia CH 赞助模板大量语言链接；第四块恢复记录字段：DateTimeOriginal 记 2011-12-20 12:19（注明按 EXIF），Credit 为 own work，Artist 为 Rama & Musée Bolo。许可证字段 CC BY-SA 2.0 fr / Attribution-Share Alike 2.0 fr，要求署名，Attribution 指向 Rama；页面还留有 “You may select the license of your choice” 的许可表述，使用时需遵从明确的结构化许可证数据并保留来源核查。 末尾把 artist、license、licenseUrl、date 规整到候选摘要字段；date 同样保留 EXIF 依据。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              13095
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              13095
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "第二遍复审前段：DateTime (MediaWiki metadata) 为 2011-12-27 20:40:28，而类别写 2011-12-20；先记为字段来源/日期语义差异，不能把上传元数据当拍摄时间。描述明确作品在 Musée Bolo、EPFL、Lausanne 展示。来源页同时含 Wikimedia CH 支持标识。 中段主要是支持模板与其多语链接，未含可独立赋予照片复用许可的条款；不应将“支持 Wikimedia CH”误当授权。 这一段重复呈现 EXIF 拍摄日期，同时列出许可元数据即将开始；EXIF 原文只支持页面所述时间，需保留来源属性而非独立认证。 许可字段要求署名、适用 CC BY-SA 2.0 fr（Share-Alike）；metadata 另有选择许可的笼统句子，属于需要谨慎记录的原文。不能把空 Restrictions 理解为无条件无约束，也不能忽略著作权状态 True。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              13095
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              13095
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "逐句复审：slug/query/check date 构成采集脉络，query 自称 Wikipedia discovery hint，宜保留为证据链而非事实叙述。候选的英文名 Nabaztag 与地点短句直接、可作为来源原句候选；大段 Wikimedia CH 模板是噪声，若历史保留应说明它证明模板存在而非物件事实。 这一片逐个展开模板语言链接；没有各语言的产品描述或许可变更。作为历史原文应整体保留而不压缩成虚构的简短许可说明。 后半模板结束后，出现带来源标签的 DateTimeOriginal 原句；它用“according to Exif data”限定断言，引用时应保留限定，不能写成无保留的实测事实。 Artist 原文是 Rama & Musée Bolo，结构化 Attribution 则仅指 Rama；许可段保留含混的 Permission 句子与明确 CC BY-SA 2.0 fr、署名要求并列，不能挑一条删掉。HTML 洗成 description 后虽多空格但没有新文风证据；保留原件可防止丢失原始许可上下文。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/evidence/photo-expansion/vorwerk-thermomix-tm5.fourth.json",
+      "sha256": "f1c721dd5808d563212ab0c264864ae0f095f4a723c256b08a912196cc361dc4",
+      "bytes": 15834,
+      "characters": 15816,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              15816
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              15816
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "开篇标定为2014 Thermomix TM5，明确排除TM6/TM7及Cook-Key；查询指向Commons TM5照片，元数据注明作者Jan Hagelskamp1、CC BY 4.0且需署名。；第二候选Pain cocotte由描述称以TM5制作，拍摄2017-12-02，作者Selmoval，CC BY-SA 4.0，署名与相同方式共享条件明确。；Pain cocotte 1 同为Selmoval、2017-12-02、CC BY-SA 4.0；新候选Thermomix (38377213176)开始出现，页面日期2017-11-15。；Aaron Davis候选经Flickr相关页面署名信息记录，CC BY-SA 2.0，日期2017-11-15 00:42；随后有Thermomix 2014 2候选。；尾部完整回到Jan Hagelskamp1的2014图，CC BY 4.0，必需署名；候选数组正常闭合。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              15816
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              15816
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "首候选的原始元数据同时列明许可CC BY 4.0、署名要求true、版权状态True、限制字段空；归档包含来源页/原图/缩略图链接，但本遍仅作文本证据识读，不联网核重。；Pain cocotte 2的许可元数据为CC BY-SA 4.0，需署名true；版权状态True、Restrictions为空。；Pain cocotte 1重复明确相同署名/许可/无限制字段；随后候选Thermomix (38377213176)继续列出来源URL和文件版本。；Aaron Davis候选许可证同样要求署名，CC BY-SA 2.0，Copyrighted=True且Restrictions为空；Thermomix 2014 2的来源原图与缩略图URL在本段列出。；末项Thermomix 2014 2仍为CC BY 4.0、要求署名、限制字段空；候选记录首尾的重复/并列版本需与来源逐项对应，不能混淆。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              15816
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              15816
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "措辞审阅：开篇区域版本用“2014 TM5；不套TM6/TM7或后来的Cook-Key”短句设定明确排除边界；query保留引号内型号检索式；候选以固定字段描述出处与原始许可。应原样保留这些限定，防止历史档案被改写成跨代产品或泛化的照片授权。；Pain cocotte描述以法语指出用TM5制作食物，且类别表明面包题材；不把它误写成机器产品正面图。重复原始描述、作者和许可有利于留存来源链。；同作者两张面包图字段高度重复但文件标题和ID不同，历史保留理由是逐个文件保存独立来源证据；第三候选有明确Flickr编号，非TM5命名本身。；Aaron Davis条目的“Image created with Adobe Capture mobile app”是关于生成/处理方式的原句，应保留且不扩写为机器型号证据；之后单列另一2014 2版本。；结尾重复保留Jan Hagelskamp1的作者/许可原文以及空限制字段；该JSON以候选数组闭合，无额外结论或统一筛选声明。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/expansion/collection-gap-matrix.json",
+      "sha256": "7d815a91a6eb5a85492e9d60cb96325631bc28cb2eeb7a5210e9f6ed96afb8a9",
+      "bytes": 12371,
+      "characters": 10223,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10223
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              10223
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "文件为截至 2026-10-11 的馆藏缺口矩阵；以 collection.json 和其 SHA-256/40 件为基线。前段汇总类别分布与 1920s–2020s decade 计数，并列具体产品 slug；末端字符截在 macbook-air-m5-20 型号中段。；品牌计数明显 Apple 14；Sony 系列仅在观察家族层面合并，并明确不推定其他品牌合并。地区覆盖声明强调标准化字段缺失不等于无叙述，不据品牌推算销售/使用区域。策展 scenes 每件单一主任务；缺口 G01 明示不将功能机写成智能机落后前身。；收尾提出 G03–G11，逐项绑定现有计数/证据、研究问题、候选提示与 avoid 限制。G09 地区字段、G10 空年代、G11 阅读/手写均明确不作简单配额/混同，保持审慎策展立场。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10223
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              10223
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "复读确认核验日期、底表 SHA 与 40 件快照是可复现证据锚点；年代/类别数字连同代表 slug 支撑后文缺口判断。该段未声明外部资料许可或物件操作授权。；品牌合并规则受限且仅观察，地区字段缺失被限定解释，不把品牌所在地当使用地。场景标签明确不是用户调查，主任务单归便于检视。G01/G02 的 avoid 语句为具体编辑约束。未见赋予图片、档案重用或设备操作权限的内容。；G03–G11逐项把计数与拟研究问题相连，但候选均为提示而非已选展品。许可/使用层面特别标出学习成效需与厂商目标、配发数量区分，且不要把停产当设计失败；未给档案操作/复用授权。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10223
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              10223
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "逐句风格复审前段：标签用短中文分类名，年代按 decade 顺序；JSON 以明确的 count/slugs 并列保持核查性。计数数据本身不适合改写成叙事断言，快照来源与检查日期应保留。；品牌部分短、数据表式语句胜于修辞；品牌家族合并说明作为限定脚注。regionCoverage 的 limit 直接阻止常见推断；sceneAssignmentKind 同样说明主任务单归属是内部标签。G01 的避免句保留功能机自身历史价值。；G03–G11 的“avoid”常用否定句保留边界（比如不以当前健康功能评普通表、不把停产等同失败），这些是有意义的历史叙事护栏，不宜压成正向泛论。候选提示不应升级成收录决定。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/expansion/complete-wave-imaging-04.md",
+      "sha256": "f461c8d39877883d94be82836d50cb726f328ef1449980e193ba38cb9a3b6e70",
+      "bytes": 27368,
+      "characters": 11610,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              11610
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              11610
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "本块为中文影像设备正文：Nikon F3标准黑机身限定1980-03，不混F3HP/NASA；来源I150-S041/S040。Sony原CCD-V8日本销售1985-01-21，排除V8AF与实验机，来源I150-S037/S036/CWI-S006。Canon RC-701日本上市档案1986-07，明确非1984实验机，来源I150-S001/S002。文中以阶段小标题组织。；本段续Canon RC-701说明模拟SV软盘，不做1984实验机上市等同；EOS 650为1987-03日本原型机身份、排除QD日期背；Sony CCD-TR55为1989日本型号，排除TR5/TR55E；Kodak/Nikon DCS日期区分1991发布与1990馆藏样机制造，铭牌组合待核。；本段完成DCS系统说明：明确机身、DC3数字背、Digital Storage Unit，并保留具体馆藏组合待铭牌核定；Nikon COOLSCAN LS-10为1993年35mm型号，排除LS-1000，来源I150-S042/S046/CWI-S007；源项还明确旧扫描手册缓存、兼容和转载限制。；尾部来源行列出Nikon/Sony/Kodak出处与事实范围、许可证另核提示；自检称五节≥825汉字、引用闭合、无重复稿，六包复核统计为批次级声明。全文覆盖7件正文，来源/局限说明与主体同档保留。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              11610
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              11610
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "F3两段分别列I150-S041/S040，使用场景说明电池、镜头、低照度快门和旧机健康需实测；V8混用原厂Sony史与手册镜像索引，手册局限及旧带播放需另核，排除V8AF/美国附件；RC-701两项Canon来源并指出模拟SV盘不能视为数字档案，输出与设备需实测。；RC-701还说明原厂档案不足证所有用户工作效果，旧软盘链路须实测；EOS 650的I150-S003/S004用于事实核对但手册PDF正文不可解析，故不借它推导细节；写明FD不直装、QD不同日期、健康状况仍需查验。；CCD-TR55重量按原厂机身口径，I150-S036/S047不足以证明用户舒适度，播放旧媒体需另验；DCS两来源按实物制造年与上市年区分且未实机运行；未核协议/存储容量不臆填。；DCS场景要求外置单元供电与连接，不臆造容量/协议，明确没有运行原系统；COOLSCAN来源材料并非独立评测，LS-10内置/LS-10E外置须分开，旧SCSI/软件兼容和手册逐页限制均明示。；来源与核查清单逐一标明证据范围、缓存miss、厂商来源属性和转载许可另核，不能据厂商/手册素材直接推定图片授权；结尾六包复核为批次级统计，不取代单条来源。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              11610
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              11610
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "文风/保留观察：每条固定五节并以“来源”行封口；F3反复区分标准黑机身与F3HP/NASA，保留否定句可避免馆展错归；CCD-V8把“数字数量”与数码记录区别，并将美国附件排除日本设备。RC-701显式反驳“电子影像=数字文件”，其模拟SV记录限制属于必要表述。；Canon EOS650以逐步控制区别解释自动化，并原样保留QD/USM兼容否定、PDF不可解析理由；TR55先用七百九十克呈现布局，再明确重量口径与舒适度证据不足，保留这种审慎限定。；DCS段以新闻交付任务讲外置配件，明确不主张世界唯一首创/排行；Coolscan把“输入服务”作为解释线索，同时保留SCSI和旧系统的操作门槛、分辨率不能保证细节等必要限制。；来源表格逐条限制了各机构材料覆盖范围与重读/缓存状态，并明确不独立证明销量和体验；尾部批次复核数字属于整体检查。原文链接与否定性范围说明均应完整保留。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    },
+    {
+      "path": "docs/expansion/editorial-compute-03.md",
+      "sha256": "7b8c703212f9d4bf788ad2a1a2d66777fbe5fe262f8cd8edf90e71c4bf46a79c",
+      "bytes": 24766,
+      "characters": 8978,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              8978
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              8978
+            ]
+          ],
+          "focus": "角色/日期/型号/来源",
+          "notes": "首段把三项slug历史说明依序展开：DX7原代(1983)、144 Portastudio(1979)、LaserJet原代(1984-03)；每项显式与参照物区分。文档声明未写入正式馆藏，型号数量不变；DX7小节保留原厂档案与设计回顾来源边界，Portastudio注明网页刷新失败，避免伪称新核验。 第二段新增MessagePad原代(1993)、Zip 100初代(1994)、fi-4110EOX日本销售日(2001-07-10)；日期分别标明馆藏/博物馆/厂商纪念资料，fi说明书是同年11月第4版而非上市时状态。各条都将未知的性能、停产或接口留为未核定。 末段完成fi手册保守边界，并进入K380；文中明确保留一位作者的评价范围、购买链接和未核实商业关系，原代与K380s区别及公布/供货日期属性均有标注。各节反复用肯定/必要否定句划定证据边界，非可删除填充。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              8978
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              8978
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "复核 DX7：原代/后代边界、音色卡/MIDI各自用途、不能等同录音成品，以及不补造性能和终止日期。Portastudio强调四轨能力不等于四个独立同时录入，手册/目录才支持路由步骤，叠合轨后失去独立调整。 LaserJet复核原厂声明速度/页数的口径、安静便利须测试，并把具体老机状态、支持结束日期留空。MessagePad侧重没有统一识别率/续航数据、不把红外等同现代同步，区分Newton系统与MessagePad硬件和停售/支持节点。Zip侧核对两端设备、介质与文件格式；结构解释不支持接口、热插拔与可靠性普遍化。 fi-4110EOX按原代第四版手册的Windows条件、速度口径与纸张限制复审；OCR范围严格落在明信片功能，驱动停供未知。K380区分公布与日本计划销售、最多三台配对不等于同步输入；审稿观点不泛化，商业关系未核实原样标明。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              8978
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              8978
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（必要否定保留）",
+          "notes": "逐句风格复读：标题“型号解释修订”和“不增加型号数量；未写入正式馆藏”限定文稿身份。DX7核心句把演奏、显示/按键编辑与TB-303比较，后续段落按时代、结构、动作、证据、局限顺序展开；保留对原厂声明与未核定寿命/停产事项的限定句。 这段重复LaserJet用纸与耗材、厂商宣传与测量区分；MessagePad识别/跨语言/续航数据未知，原文将产品线结束、型号制造/销售/支持分开；Zip强调可移动介质不解决版本问题，博物馆对可靠性的回顾不泛化为每台故障。这些必要否定构成论证逻辑，保留。 fi文稿以按钮/纸路/输出检查叙述动作，限定PDF、明信片OCR与手册版本；禁止将一键描述扩大为普遍可检索。K380的审稿短评、商业链接/关系未核实、公告和销售计划都谨慎限定。贯穿文档的操作说明式简句、对照句和反过度外推的必要否定共同构成当前历史风格，应随原文保存。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null
+    }
+  ]
+}
