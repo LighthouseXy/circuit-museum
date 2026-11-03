@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "taskId": "T-006",
   "targetFullReadPasses": 3,
-  "sourceBaselineCommit": "ec0f2ccbf74c854a316e640278ac1cc0efbe9038",
+  "sourceBaselineCommit": "7f6572baef42b9aeb05f9f7731303b9d455efaa7",
   "currentBatch": null,
   "completedBatches": [
     {
@@ -10,22 +10,40 @@
       "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H001.json",
       "fileCount": 24,
       "fullTextFilePasses": 72
+    },
+    {
+      "id": "T006-H002",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H002.json",
+      "fileCount": 24,
+      "fullTextFilePasses": 72
+    },
+    {
+      "id": "T006-H003",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H003.json",
+      "fileCount": 24,
+      "fullTextFilePasses": 72
+    },
+    {
+      "id": "T006-H004",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H004.json",
+      "fileCount": 6,
+      "fullTextFilePasses": 18
     }
   ],
   "coverageFile": "docs/writing-style-historical-read.tsv",
   "unfinishedFile": "docs/writing-style-historical-unfinished.tsv",
   "counts": {
     "totalFiles": 1118,
-    "firstPassComplete": 889,
-    "secondPassComplete": 24,
-    "thirdPassComplete": 24,
-    "firstPassPending": 229,
-    "secondPassPending": 1094,
-    "thirdPassPending": 1094,
-    "allThreeComplete": 24,
-    "allThreePending": 1094,
-    "firstPassCompleteBytes": 8342746,
-    "firstPassPendingBytes": 38295188
+    "firstPassComplete": 943,
+    "secondPassComplete": 78,
+    "thirdPassComplete": 78,
+    "firstPassPending": 175,
+    "secondPassPending": 1040,
+    "thirdPassPending": 1040,
+    "allThreeComplete": 78,
+    "allThreePending": 1040,
+    "firstPassCompleteBytes": 10645448,
+    "firstPassPendingBytes": 35992486
   },
   "ordering": "Prioritize paths with the fewest full passes, then byte size, then path. Finish all remaining passes of each selected path within its batch.",
   "resumeRules": [
@@ -36,16 +54,16 @@
     "Preserve historical source bytes. Store observations in batch receipts."
   ],
   "nextBatch": {
-    "id": "T006-H002",
+    "id": "T006-H005",
     "status": "planned",
     "fileCount": 24,
-    "sourceBytes": 869512,
+    "sourceBytes": 1615758,
     "entries": [
       {
-        "path": "docs/evidence/photo-expansion/sega-dreamcast-jp.fourth.json",
-        "sha256": "71e364dc4b2e2d2b611541faccab70975edaeda806077f467b051b3a3070feaf",
-        "bytes": 31385,
-        "characters": 31321,
+        "path": "docs/expansion/complete-wave-imaging-01.json",
+        "sha256": "6aaade92964e452c077603da254f6230dd71ed65c709f4022dcc2c234a201e81",
+        "bytes": 58557,
+        "characters": 38526,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -54,10 +72,10 @@
         "workerSlot": 1
       },
       {
-        "path": "docs/evidence/photo-expansion/philips-hue-2012.fourth.json",
-        "sha256": "f8cfffe59972cddbaff71a8ede4a49ebdfe2fa46cce6d7a1a19a7f29ba82829f",
-        "bytes": 32016,
-        "characters": 31961,
+        "path": "docs/expansion/editorial-compute-01.json",
+        "sha256": "5d62b826b8c8e5cb79e2601e979b398bf06bbc96bf57e1104059b81a1fe619b5",
+        "bytes": 59100,
+        "characters": 36993,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -66,10 +84,10 @@
         "workerSlot": 2
       },
       {
-        "path": "docs/evidence/photo-expansion/round3/skyworth-r1pro.award-commons.json",
-        "sha256": "550be73c587c77b7b062f026b68c66756626b3c5cd9198cc7278ee1cfd8f35ac",
-        "bytes": 32508,
-        "characters": 32477,
+        "path": "docs/evidence/photo-expansion/western-electric-picturephone-mod-ii.second.json",
+        "sha256": "092b3f8139096021485f1722a1c51c29560ac5fc97d8bcc4b0a5932b9c822600",
+        "bytes": 59515,
+        "characters": 59471,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -78,10 +96,10 @@
         "workerSlot": 3
       },
       {
-        "path": "docs/expansion/complete-wave-gaming-04.md",
-        "sha256": "72bbc9b8d0b4b0a69981f1e98555778d795b2403d90c13ae078d163cefccea21",
-        "bytes": 32966,
-        "characters": 15248,
+        "path": "docs/expansion/complete-wave-imaging-02.json",
+        "sha256": "9cc2d3b735c7e32901f85ce7ee901690e3f4e276b0c4305b73349f1e6a69a0f5",
+        "bytes": 60295,
+        "characters": 40075,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -90,10 +108,10 @@
         "workerSlot": 4
       },
       {
-        "path": "docs/evidence/photo-expansion/humanware-victor-reader-stream-3.fourth.json",
-        "sha256": "a8020ded1691cd189aa5c097b57e598ea92e81c725848d76a138c6b0e97f2b0e",
-        "bytes": 33478,
-        "characters": 33435,
+        "path": "docs/expansion/complete-wave-imaging-06.json",
+        "sha256": "ec9a0a40f74200cd446245dbf9e09543a10b08612af4c715f3e95df811d210fa",
+        "bytes": 60449,
+        "characters": 40755,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -102,10 +120,10 @@
         "workerSlot": 5
       },
       {
-        "path": "docs/expansion/complete-wave-home-02.md",
-        "sha256": "cb314aa4def9d108bf7e4c224ff61189dc24a1107f4c57277e68688fc5175bfd",
-        "bytes": 34013,
-        "characters": 14594,
+        "path": "docs/evidence/photo-expansion/round3/asiga-ultra.award-commons.json",
+        "sha256": "2eda8dc0b9e124988224f13bce16ec621faf71d1ed6ea983bb08c7573c1677a6",
+        "bytes": 63629,
+        "characters": 63520,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -114,10 +132,10 @@
         "workerSlot": 6
       },
       {
-        "path": "docs/evidence/photo-expansion/round3/bose-quietcomfort-ultra.alias-award-commons.json",
-        "sha256": "83134dfe3f8bf9168f782ad0fb9037747a4298d6e4676327cc61aa8b3043a10f",
-        "bytes": 34343,
-        "characters": 34035,
+        "path": "docs/expansion/first-batch.md",
+        "sha256": "bd2cad7cdf489ff5c4072540be0dcf6d8e2e6a7b2662077d4bca920c82992f54",
+        "bytes": 64745,
+        "characters": 33425,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -126,10 +144,10 @@
         "workerSlot": 1
       },
       {
-        "path": "docs/evidence/photo-expansion/nintendo-switch-2017.second.json",
-        "sha256": "b45b2cd25694b16395ff25254d461658b27efb4cd8758ffe8d0dca8efcf7c1a1",
-        "bytes": 34668,
-        "characters": 34630,
+        "path": "docs/evidence/photo-expansion/apple-airport-1999.second.json",
+        "sha256": "8a7c91dda70d80d6b440614c1a0a2c6e85f9e5dc7158c0965a89a5b29c8da7a6",
+        "bytes": 65183,
+        "characters": 65087,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -138,10 +156,10 @@
         "workerSlot": 2
       },
       {
-        "path": "docs/evidence/photo-expansion/motorola-pageboy-i.second.json",
-        "sha256": "1ae297bb47d560381ed944c92e73dde3aac015e26e2f6796692b50ed93debd6f",
-        "bytes": 34977,
-        "characters": 34938,
+        "path": "docs/evidence/photo-expansion/round3/lexon-tamo.award-commons.json",
+        "sha256": "b2d48d9171772a43c00716da31596ffb23c659de63cc4242febd627faf4a4970",
+        "bytes": 65779,
+        "characters": 65640,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -150,10 +168,10 @@
         "workerSlot": 3
       },
       {
-        "path": "docs/evidence/photo-expansion/sega-dreamcast-jp.third.json",
-        "sha256": "17b7155aa9e2f1c385d1ebf0cdbb7260d85e1d925da80691a357d2c2c0e7423d",
-        "bytes": 35030,
-        "characters": 34933,
+        "path": "docs/expansion/complete-wave-home-05.json",
+        "sha256": "d5d5b552d4bd5d0b57974e0ab0caf9f6253db17e5b3a380928f7fc1594be4425",
+        "bytes": 67910,
+        "characters": 46048,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -162,10 +180,10 @@
         "workerSlot": 4
       },
       {
-        "path": "docs/evidence/photo-expansion/ricoh-gr-iii.third.json",
-        "sha256": "3515c229206857e407406c28712972bef5dd21acfb69de3bc0df20df0b176638",
-        "bytes": 35332,
-        "characters": 35049,
+        "path": "docs/evidence/photo-expansion/round3/round3-new-awards-manifest.json",
+        "sha256": "764cdcf8482de554aab1254575dd85f0d1d626f3a65a033bdcf31d8089f96937",
+        "bytes": 69011,
+        "characters": 67013,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -174,10 +192,10 @@
         "workerSlot": 5
       },
       {
-        "path": "docs/expansion/complete-wave-gaming-02.md",
-        "sha256": "4201cac9b78a26b71e4e843b1adb3b7d124d4aa1848cfc2738c35db18ac598c1",
-        "bytes": 35664,
-        "characters": 15600,
+        "path": "docs/expansion/import-packets/complete-wave-imaging-04.json",
+        "sha256": "9487d0d133b56929f19b964ce19051007686cda1b2ed5ce49c85a907281d7ec5",
+        "bytes": 69320,
+        "characters": 45788,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -186,10 +204,10 @@
         "workerSlot": 6
       },
       {
-        "path": "docs/expansion/editorial-home-07.md",
-        "sha256": "b2f0ccc67263c232d8243122f0eca734c4aa023251f9c4ca7145e0f2c423b814",
-        "bytes": 35820,
-        "characters": 17406,
+        "path": "docs/expansion/import-packets/complete-wave-home-01.json",
+        "sha256": "65ec3e2db1c81aee45e6b5fc605a8c735f5530cc7e556a7329c8bde64b905d81",
+        "bytes": 69438,
+        "characters": 45440,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -198,10 +216,10 @@
         "workerSlot": 1
       },
       {
-        "path": "docs/evidence/photo-expansion/asus-rog-xbox-ally-x.fourth.json",
-        "sha256": "0f79bdb0bffd24e0d4f414be637d0257eefac9244d6cf237415cb35b1a36b4c3",
-        "bytes": 35972,
-        "characters": 35250,
+        "path": "docs/expansion/import-packets/complete-wave-imaging-05.json",
+        "sha256": "e5452debe8b77fd64d6b2cd0a824ccefb759d8782c64641253e1602a602d6163",
+        "bytes": 69763,
+        "characters": 46791,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -210,10 +228,10 @@
         "workerSlot": 2
       },
       {
-        "path": "docs/evidence/photo-expansion/samsung-the-frame-ls003.fourth.json",
-        "sha256": "d95251dbbcbedcee7ee64c7fbef9563e89e591d6e09794fdd7749eeacb3ede13",
-        "bytes": 36305,
-        "characters": 36107,
+        "path": "docs/expansion/complete-wave-gaming-02.json",
+        "sha256": "ab747c73d9b032030784d9f74a5b4d3e4d4130a141c5a9de422247e83139ff8c",
+        "bytes": 69834,
+        "characters": 43040,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -222,10 +240,10 @@
         "workerSlot": 3
       },
       {
-        "path": "docs/evidence/photo-expansion/hamilton-pulsar-p1.fourth.json",
-        "sha256": "658ef42f82c3240fa37e8db5d8aad1087172160ed364feae95a80cb011103bf6",
-        "bytes": 37243,
-        "characters": 37227,
+        "path": "docs/expansion/import-packets/complete-wave-imaging-03.json",
+        "sha256": "3561010d9e2e02b83eea847745ecc92b9518bb97df31f95133002f8ef528e0a3",
+        "bytes": 69841,
+        "characters": 46639,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -234,10 +252,10 @@
         "workerSlot": 4
       },
       {
-        "path": "docs/evidence/photo-expansion/sharp-r10.openverse-round2.json",
-        "sha256": "2159bea010ec0f94e64c6a8d9576ea854df840579a57ca420f3d8a2aa9e9e2f0",
-        "bytes": 37807,
-        "characters": 37598,
+        "path": "docs/expansion/editorial-import-packets/complete-wave-imaging-05.json",
+        "sha256": "3efe35a407acc794992151a04d78c1d83502eb16a8b8870c0fc5cbc4a18e2a81",
+        "bytes": 70040,
+        "characters": 48478,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -246,10 +264,10 @@
         "workerSlot": 5
       },
       {
-        "path": "docs/evidence/photo-expansion/national-ec36.json",
-        "sha256": "a6758e7df9b07b7b65380c81c404e0c4a1178e2c5a9902bbbd407dee389aab73",
-        "bytes": 38209,
-        "characters": 38189,
+        "path": "docs/expansion/import-packets/complete-wave-imaging-01.json",
+        "sha256": "20558325fca4425e07f22d0ac80ba8315f37011539b0ecbf164fa7d1c2528be3",
+        "bytes": 70054,
+        "characters": 46185,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -258,10 +276,10 @@
         "workerSlot": 6
       },
       {
-        "path": "docs/evidence/photo-expansion/dji-phantom-2013.third.json",
-        "sha256": "aeb6a08b394dc3748f1c96f3191068fc2ad95e501a7d3b28258b7e4cc48e6524",
-        "bytes": 38900,
-        "characters": 38497,
+        "path": "docs/expansion/complete-wave-gaming-01.json",
+        "sha256": "299f33f33f305a2e8ed13142e1c766254e0dea237c5a5d86b498b061ded24c0f",
+        "bytes": 70918,
+        "characters": 44456,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -270,10 +288,10 @@
         "workerSlot": 1
       },
       {
-        "path": "docs/expansion/editorial-home-04.md",
-        "sha256": "6d0f881396a896c8ad562618d3ba36674c4b99964fa96914ae0e4c319ab2fa47",
-        "bytes": 39672,
-        "characters": 18797,
+        "path": "docs/expansion/complete-wave-home-03.json",
+        "sha256": "c5e1566c119e7cd6724a28a3eeb5e43ea259627a6df71c2cdc2f15a2823c4508",
+        "bytes": 71483,
+        "characters": 48164,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -282,10 +300,10 @@
         "workerSlot": 2
       },
       {
-        "path": "docs/evidence/photo-expansion/nintendo-virtual-boy-jp.fourth.json",
-        "sha256": "fc36734aa78255650d90f645fa62ecbed2f03a820feea46db1ebe5c9b2ddc729",
-        "bytes": 40145,
-        "characters": 40073,
+        "path": "docs/expansion/editorial-home-01.json",
+        "sha256": "a3edfc0b9d65585e2f501c349a9990fcc405616c84b047f8b0e9145b9050f30c",
+        "bytes": 71579,
+        "characters": 45408,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -294,10 +312,10 @@
         "workerSlot": 3
       },
       {
-        "path": "docs/expansion/editorial-home-05.md",
-        "sha256": "595ddc49d918ae1a01fdeaa22779666ebe40c1f19034bb3859b2eeebbd18b494",
-        "bytes": 40417,
-        "characters": 19496,
+        "path": "docs/evidence/description-content-review.json",
+        "sha256": "2baf8c2c2c8e9c8375fe5921e6d7e34876b86493bb8e6e5183b004b4354ac240",
+        "bytes": 72864,
+        "characters": 53216,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -306,10 +324,10 @@
         "workerSlot": 4
       },
       {
-        "path": "docs/evidence/photo-expansion/dji-phantom-2013.fourth.json",
-        "sha256": "a1efddb1dbf6e3639bcfd862e7259c1aa0cda322b7e961f696a18dbeac8b4a06",
-        "bytes": 41145,
-        "characters": 40576,
+        "path": "docs/expansion/import-packets/complete-wave-imaging-06.json",
+        "sha256": "cff6ccdb38acc8587a6002b4e47bbb763ba2b3113be86955791aaebfcce39af0",
+        "bytes": 73034,
+        "characters": 49282,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
@@ -318,10 +336,10 @@
         "workerSlot": 5
       },
       {
-        "path": "docs/expansion/editorial-imaging-03.md",
-        "sha256": "03352ece13b5fd615c5dc97181fe1ce54d9c5866a1a688ef25daf1b249c91b64",
-        "bytes": 41497,
-        "characters": 19103,
+        "path": "docs/expansion/editorial-import-packets/complete-wave-imaging-02.json",
+        "sha256": "46f850ce93f8cb2ac758c92d2afb2ead4b442d7bb420f80b34a21d816b529a92",
+        "bytes": 73417,
+        "characters": 51005,
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,

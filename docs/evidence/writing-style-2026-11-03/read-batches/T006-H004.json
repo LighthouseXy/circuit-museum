@@ -1,0 +1,785 @@
+{
+  "schemaVersion": 1,
+  "batchId": "T006-H004",
+  "status": "complete",
+  "sourceBaselineCommit": "7f6572baef42b9aeb05f9f7731303b9d455efaa7",
+  "recordedAtUTC": "2026-11-03T14:46:42.302278+00:00",
+  "method": "每遍重新完整呈现原文并逐块审读；确认后保存半开字符区间。脚本字节读取、摘要及截断输出不计全文通读。",
+  "observationsAreArchiveReadings": true,
+  "externalSourcesReverified": false,
+  "sourceFilesUnchanged": true,
+  "fileCount": 6,
+  "startedFileCount": 6,
+  "completedFileCount": 6,
+  "sourceBytes": 329951,
+  "completedFullTextFilePasses": 18,
+  "firstPassCompleteBytes": 329951,
+  "files": [
+    {
+      "path": "docs/expansion/import-packets/complete-wave-compute-03.json",
+      "sha256": "2068ae220bc0e938096509a5a99f86b24e76406298251b9a9ba0a83875a53395",
+      "bytes": 51935,
+      "characters": 33679,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              33679
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              33679
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "文件为schemaVersion 2、checkedOn 2026-10-11的reviewed-staged-import-packet，针对collection.json基础快照（40个既有展品），明确维护保留slug。首条ScanSnap fi-4110EOX日本原代，2001-07-10为销售节点、原说明书为当年11月第四版，型号/版本界线有意区分；第二条K380全球公布2015-09-03、日本计划销售2015-11-05，计划与实际首售未核不能混写。 K380内容字段将三设备切换、平台映射及两节AAA与源IDs绑定；独立媒体意见特指Irish Times作者Ciara O’Brien 2015-10-01对原K380的主观舒适/小巧评价，未写明确缺点。Kobo Touch Edition是北美公告/预订2011-05-23，6月只计划供货，且明确非Touch2。 T7明确为非Touch原款，美国2020-05-19可购；“T7 Touch”和Shield不并入。Tom’s Hardware信息限Sean Webster 2020-08-17原评测第一页，性能页没有阅读；联盟佣金明示、样机来源未核，不能把此意见扩成全分页实测。sources字段进一步列出PFU与Samsung厂商来源范围/非独立性。 source catalog confirms K380 Japanese Nov 5 was planned sale, corrected from earlier search extract; Kobo source says June store supply/July global supply are plans. Manual CWC-S009 is 107pp but only read foreword/version and p24–54; this limits claims. Tom’s T7 review first page cites 1TB page, not performance-page results. Exact provenance/method limits remain attached to claims.  Final source catalog keeps CWC-S010 K380 global availability as a plan, CWC-S011 Kobo June supply as a plan, and CWC-S012 scoped to the US non-Touch T7; every item repeats narrow claim bounds and no media reuse grant. CWC-S013 preserves Japan K380 11/05 as scheduled/planned date, explicitly correcting the older extract. The closing import instructions require manifest order, actual slug/ID validation, no duplicate legacy 14, and describe package-local relationships and media fallback rather than changing historical facts."
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              33679
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              33679
+            ]
+          ],
+          "focus": "事实/许可/限制",
+          "notes": "Pass 2 [0,7000): checked claim-to-source structure and operational cautions in the opening packet. ScanSnap wording repeatedly bounds model to Japanese fi-4110EOX and manual version four (Nov 2001), distinguishes July sale from manual date, instructs checking output/order and warns Windows support is historical; no current compatibility or lifecycle dates are inferred. K380 keeps global announcement and Japan planned sale distinct, does not conflate 2015 K380 with K380s, describes three remembered pairings as selecting one active destination (not simultaneous entry or file sync), and limits the single author comfort opinion; no fabricated drawback. Proposed IDs/status are explicitly provisional pending live checks, rights are not implied. Next [7000,14000): K380 factual field maps global/Japan dates to CWC sources and explicitly leaves actual Japan first sale unknown. The Irish Times record gives author/date/model and states no shortcomings in the short review, no quantified/durability conditions and no verified sponsorship/affiliate disclosure; those absences are retained, not filled in. Kobo’s announcement/preorder is North American, June supply is only a plan; specs are kept to original Touch Edition (not Touch2), and unsupported current service compatibility/health claims are excluded. [14000,21000): T7 is specifically US non-Touch original, available date is regional, not global; capacities/colors are merged as one model. Security/encryption, interface and environmental durability are treated separately; host/UASP/cable and workload condition speed claims. Media record scopes Webster to review front page, makes clear performance page not read/test platform unverified, and preserves disclosed affiliate commission plus unknown sample source. Stop dates and Shield features are not inferred. [21000,28000): source records preserve source independence differences: vendor histories are not independent reviews; the two named media reviews are independent of makers but each sharply bounded. Logicool’s November 5 Japanese date is planned, not verified actual; older extract correction is documented. The Irish Times purchase link exists while sponsorship/affiliate relationship remains unknown, so no absence claim. CWC-S009 explicitly says 107-page manual was sampled (foreword/version and pp24–54), with only contemporaneous system environment supported; no licensing/current support inference. [28000,33679): source catalog echoes the same scoped evidence rather than expanding claims; CWC-S013 distinguishes announcement from planned release. The import footer preserves ID/slug preflight, duplicate-avoidance, later relationship reconciliation, and explicit absence of media rights; interpreted as workflow constraints, not further historical proof."
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              33679
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              33679
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "Pass 3 [0,7000): prose voice uses practical document-work sequences and contrasts device roles instead of grand claims; the paired paper-to-file/file-to-paper line gives an accessible curatorial frame. Repeated cautions about checking page order, paper suitability and contemporaneous Windows conditions are intentionally retained because they prevent operational overreach. K380 presents shared keyboard as ordinary reuse, with clear model boundary from K380s and no overstated historical impact; the passage deliberately preserves “no macro historical impact required” as a rationale for inclusion. [7000,14000): the K380 fields mirror the prose’s planned-date distinction and link the independent short review without implying universal fit; the explicit no-shortcomings entry is preserved. The Kobo voice moves from broad product framing to a concrete read sequence (select, turn, adjust, mark/search), then distinguishes reflowable text from fixed PDF. It retains the non-equivalence between format support and identical experience, and resists claiming global impact or present-day store/service support. [14000,21000): the T7 entry uses a concrete carry/transfer/check sequence and a comparison with Zip to explain the changed storage arrangement, while explicitly avoiding universal device compatibility. Its prose preserves the distinction among encryption, environmental protection, and transfer speed. It retains the reviewer’s praise and criticism together with one-page, 1TB, commission, and unknown sample limits; the blank end-of-life dates remain intentional. [21000,28000): source section’s repeated provenance fields create a deliberately auditable trail; narrow source-specific verification scopes are preserved, especially the manual’s sampled pages, T7 page/deal disclosure and K380 planned release. The prose’s careful contrast between scheduled and actual dates is supported by the correction record, not smoothed away for fluency. [28000,33679): source descriptions end in careful provenance/version language and recurring non-license limits; they reinforce the entries without inviting added certainty. Footer prose is procedural and bounded: manifest order, check identity, avoid duplicates, defer cross-packet links until total package, use text fallback with no assumed media rights. Those constraints warrant keeping the operational notes intact."
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–847; chars 0–33679 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮资源/输出上下文不足以逐块完整呈现并由模型通读；未以脚本扫描或抽取代替阅读。",
+        "review_notes": "尚未通读，未作内容审阅。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/hp-laserjet-1984.third.json",
+      "sha256": "484280839960a3919dc28177426d3a8fa52e4ac449a7778c430e3268274fa647",
+      "bytes": 53406,
+      "characters": 53332,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              42000
+            ],
+            [
+              42000,
+              49000
+            ],
+            [
+              49000,
+              53332
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              53332
+            ]
+          ],
+          "focus": "来源、日期、型号",
+          "notes": " 首段标识明确是LaserJet原代1984而非2680A，查询词与check日期在同一顶层；候选却是Käthe Ricken绘画的照片，原件日期1984、扫描器类别提HP LaserJet Pro M127，故主题命中来自扫描工具而非被摄物即打印机。VRT许可确认属于绘画权利人对该页面所列条款许可，不能据此推论照片中的打印设备或其他候选版权。 第一个候选permission HTML结束处与结构化字段一致为CC BY-SA 4.0、需署名，VRT邮件只支持画作页面许可。第二候选Grosser Baumschatten仍是Käthe Ricken画作照片、同样由M127扫描，1984原作日期不同；反复标题年份/扫描器类别造成检索噪声，不构成HP LaserJet产品图。 第二幅的HTML票据重复同样权利人授权/CC BY-SA 4.0，并结构化标记署名；许可适用对象仍是艺术作品影像。第三幅Kerzenaltar的记录在本段开头，字段边界又开始独立候选，防止跨项继承许可。大段样式HTML只是页面抽取载荷，不应转化为设备事实。 第三候选Kerzenaltar描述也是画作照片，1984-07-15原作日期；类别同样表示M127扫描和VRT确认，授权仍是同票据，不表示打印机对象。候选间高度重复的permission模板与样式HTML造成文本很长，但判断必须按外层candidate各自的作品描述/许可字段逐项归属。 第四项为秘鲁最高法院相关人物合照，描述年份1984、扫描器M1212，许可CC BY-SA 3.0且署名；仍非产品照片。紧接的苏联海军周年邮票候选标题带1984，扫描器M1132，需谨慎区分物件年与设备型号命中。共同HP LaserJet仅为扫描设备类别，代际及型号多样。 邮票项不是打印机，但其PD说明有关键限制：完整复用国徽/邮票可用，拆出可能受保护部分可能侵权，邮票必须保留面额与国名；此否定/条件必须逐字尊重。后项标题的laser jet语境是pulsed nitrogen laser书名，已预示搜索词词面误配，须核其余元信息再定。 “laser”候选实为1984年美国海军研究生院机械工程论文及1991物理论文PDF，Internet Archive未核验扫描、PD US Government/P​​D-MARK分类，不是LaserJet图。来源字段明确IA identifier、论文编号/学科，可区分对象日期空值和描述中的论文年份。 最后一项也是1984年海军研究生院氟化氢/氘化氢激光物理硕士论文，IA扫描记录且许可标PD US Government；与LaserJet只有laser词汇重合。整批搜索命中没有展示目标型号原物，不能因多项标PD就转作打印机图片。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              42000
+            ],
+            [
+              42000,
+              49000
+            ],
+            [
+              49000,
+              53332
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              53332
+            ]
+          ],
+          "focus": "事实、许可与操作限制",
+          "notes": " 事实/许可复核：目标锁定HP LaserJet原代，不可被候选标题内1984或扫描它的Pro M127误导。首个候选主对象是画作，VRT确认授权且明确CC BY-SA 4.0署名条件；许可仅针对画作照片。来源中扫描机型号不是原代LaserJet，也不能据此认定对象图像可代表商品。 许可字段逐层一致：LicenseShortName/UsageTerms/License/AttributionRequired共同给出CC BY-SA 4.0与署名责任；票据只是确认出版授权。第二画作被同一类别、同一作者/授权票据、不同作品日期关联，范围不能跨过候选对象扩展至扫描器。 第二画作权限字段均为署名CC BY-SA 4.0；重复票号不能把不同候选合并成打印设备图像许可。第三候选在当前段进入独立记录，描述其作品和许可的字段应与前两项分开阅读。页面抓取文本里有样式代码，既不是约束也非证据。 第三幅证据仍显示画作摄影、M127扫描、VRT ticket确认许可；物件日期作为画作时间，不是扫描器或HP原代制造日期。页面的授权条件文字要求遵从页面license requirements，因此必须结合CC BY-SA字段，而不能只摘取“free”句。 第三候选许可项CC BY-SA 4.0/署名；第四项秘鲁合照CC BY-SA 3.0/署名，内容是三人肖像，不是HP产品。新候选的日期1984来自描述，搜索中的扫描器仍为Pro M1212。许可和对象错配风险比图像文件格式风险更大，需保留候选级证据边界。 邮票虽标public domain，仍有整体复用/不可抽取受保护局部的明确限制，且示例要求保留面额和国名；这些是档案操作限制，不能因PD标签而删。扫描型号Pro M1132只说明数字化来源。后项“laser”是科学论文标题，非HP打印产品，来源类别写IA扫描未核验。 1984机械工程论文为海军研究生院学位论文，标PD US Government但扫描标记unverified，正文对象日期字段空；另一激光诱导击穿论文为1991物理硕士论文，亦属PD且IA扫描未核验。标题含laser均是学术主题，不足以关联打印机；来源可信状态及描述日期应保留。 最后一激光论文描述为1984海军研究生院物理论文，仍非产品材料。上述各许可情况从CC BY-SA至PD不一，且PD邮票存在局部抽取限制；实际无一个候选可直接提供目标打印机的替代许可。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              42000
+            ],
+            [
+              42000,
+              49000
+            ],
+            [
+              49000,
+              53332
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              53332
+            ]
+          ],
+          "focus": "逐句文风候选及历史原文保留理由（含必要否定）",
+          "notes": " 文风观察：顶层“原代（1984）”“原桌面LaserJet；非2680A”是极简身份界限，能防近似型号混入。候选记录的德语画作名称配合英文permission模板、结构化字段，文风是档案拼接而非叙述性文案。保留非2680A限定及候选题名，避免把搜索列表误写成已确认目标图。 德语作品标题与作者原署名被保留，不能改成英文猜译；permission大块英语模板在每候选重复，是机器抽取痕迹。第二幅只更换作品名与日期、复用模板，显示查阅时应区分每个candidate最小特异字段和重复HTML。保留繁复许可原文有审计价值，不能压缩成不带边界的“免费”。 重复permission模板和固定ticket在第二候选收束后切换到Kerzenaltar，字段顺序维持一致；这是可审计的重复而非可删噪声，方便识别条目关系。德语标题、日期和artist string保留了来源语言的具体性；不可凭英语查询把它们改写成打印机相关描述。 Kerzenaltar段采用前述同一德语描述句式和VRT许可结构，但单独作品时间为1984年7月；逐项保留有助重建为何它只因被M127扫描命中。这里应保留的否定是“扫描机并非图中产品”，不会把摄影许可移到设备本体。 秘鲁合照由描述语“在1984年与最高法院主席同框”限定，短语原文留西班牙语且作者账号尚未创建页；不要为使记录更顺而纠正/翻译原始表述。两幅共有“1984”而对象截然不同，正是保留原文字词与候选项序的理由。 邮票候选的原描述和许可warning篇幅长但必须保留：PD适用条件、拟议符号不适用、整体复用而局部抽取可能侵权、面额和国家名留存要求，均影响操作。原样展示的重复引用链接和西里尔作者名也是出处信息。 两篇IA学位论文录入风格一致：HTML包装过的ObjectName、学位/编号/参考书目字段、明确archive.org identifier，日期字段空而年份在description；强调这层结构避免误将题目中的激光技术当打印机型号。Archive扫描unverified提示需保持，不代为验证。 收尾项也是1984年的激光学术论文，不是商品打印机图；档案保留其原长题名，支持读者识别检索误命中。必要否定包括“不是HP LaserJet目标图”，邮票限制也不可从PD中省略。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–697; chars 0–53332 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–53332 (exclusive end), lines 1–698; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/round3/fujifilm-z6000.award-commons.json",
+      "sha256": "94ae40e529c5db780a2da3f05349c910b22a77c3c2296bd49421ea7079c99d99",
+      "bytes": 54150,
+      "characters": 54013,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              42000
+            ],
+            [
+              42000,
+              49000
+            ],
+            [
+              49000,
+              54013
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              54013
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": " 文件以slug fujifilm-z6000和查询词“Z6000”、checkedOn 2026-10-15开头。首候选是1987年卢森堡SNCF Z6000级电联车照片，拍摄地点Rumelange-Ottange、Phil Richards，明显是型号字符串歧义而非Fujifilm相机。第二候选PDF的人物档案片段起于Lt. Col. Pierre A. Finck，需继续识别关联。 第二项是Lt. Col. Pierre A. Finck的DPLA/NARA关联PDF，Artist为约翰逊总统任期的Warren Commission档案机构名，目录与来源指向NARA；页面写PD US并警告美国境外可能不属公有领域、创作者与出版年份为必要信息。随后MTN Irancell Z6000属于电信产品名，亦提示精确词Z6000的歧义。 MTN候选的波斯语caption明确是Irancell的Z6000 modem-router，拍摄2019-06-16，摄影账号Mobin2008为redlink，CC BY-SA4.0，非相机。下一项是题为Security kernel design...的Naval Postgraduate School微处理器档案存储系统论文PDF（2020上传），完全不同对象；和前一KENNEDY文件共同说明搜索结果中会夹入Z6000编号/文件词。 “Security kernel...”的具体描述给出ADA078281、1979年海军研究生院计算机科学硕士论文、页码书目106–107、作者Aaron Ray Coleman，出处Internet Archive identifier；虽标Public domain/PD US，之前页面提醒境外法律状态可能不同，不能把模板分类当全球许可保证。下一候选是砖砌梁剪切试验报告，非相机。 Shear tests of reinforced brick masonry beams文件载论文作者Parsons、Stang、McBurney，Archive标识，并标PD US Government，出自书籍扫描；仍属关键词误匹配。接着Yarborough, Ralph W. Senator 是另一NARA/DPLA档案，归属Johnson总统任期下Warren Commission collection并出现美国境外公有领域警示；注意政策来源文本重复而非为Fujifilm图像证据。 Yarborough项采用NARA/DPLA目录叙述，和Finck项同一档案项目、但独立catalog ID；页面重复“outside US might not be PD”提示，语气须保持其地域限定。其后是波斯语加英文的Damavand/Lar湖Panoramio景观标题，显然也非Fujifilm相机。 Damavand/Lar候选caption具体描述东北视角的Damavand、Lar Lake与两座山，摄影日2009-05-31，Panoramio摄影者Mahdi Kalhor，CC BY3.0；许可明确署名并表明改动，没有SA要求。此一自然景观而非器材。 Panoramio bot记录2016-12-04自动复核，只确认当日Panoramio所示许可；不是地点/内容真实性证明。整份检索结果七项中可见火车、档案PDF、伊朗路由器、论文、参议员档案、山景等多类false positives，查询“Z6000”远宽于相机型号。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              42000
+            ],
+            [
+              42000,
+              49000
+            ],
+            [
+              49000,
+              54013
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              54013
+            ]
+          ],
+          "focus": "事实与许可/操作限制",
+          "notes": " 首项铁道照片BY-SA2.0明确署名并需share alike，Restrictions字段空；许可不妨碍候选因主题完全错而被排除。拍摄1987、Commons DateTime 2013是不同时间字段。后面的Finck PDF有相对更复杂地域权利限制，须按页文本保留，不应直接将“Public domain”当成任意辖区均无条件使用。 Finck记录标题/credit/NARA accession和Johnson委员会信息齐备，虽模板三个字段显示Public domain/Attribution false，Permission仍声明部分境外可能不属PD且creator/year必须给出；作为实用限制须优先保留警示原文。 Irancell Z6000路由器这一条CC BY-SA4.0，需署名且改作保持兼容许可；Photographer用户页redlink，虽credit写Own work。波斯语caption与标题的产品类别一致，与Fujifilm相机型号不符。Security kernel报告类别有PD US Government与Internet Archive/unverified扫描标记；“unverified”提醒来源扫描信息仍需谨慎。 Security kernel PDF正文元数据确认来源IA securitykernelde00cole、作者Aaron Ray Coleman、NPS 1979年硕士论文；PD模板但Rights字段空且页眉有限制，不能把技术文献当作相机照片候选。下一砖梁论文在commons页注明unverified IA扫描，字段主题资料稀少。 Shear-tests候选明确是brick masonry beam论文、作者字段列三个作者，并以Public domain及PD US Government分类；与检索目标无关，元数据没有必要为了候选而加解释。Yarborough senator与前一Finck条同一档案机构/Johnson委员会collection，但不同档案条目，PD US元数据同样附带美国境外限制提示。 Yarborough PDF权利说明与Finck一致，字段标Public domain且Attribution false，但明确其美国境外版权不确定，creator/year essential；合理使用时不应删去这项反向限定。下一山景已有CC BY3.0，等待读至许可审核文字确认评估范围。 山景候选字段再次给出路线/坐标及2009拍摄日，描述逐项标山峰方位；许可确为BY3.0，署名Mahdi Kalhor、需链接和注明改动。地理说明来自caption与分类，仍只是commons页内证据。 Panoramio reviewer明确仅“available on Panoramio under above license on that date”(2016-12-04)，只验证当时平台可用与许可声明；不应扩展成地点真实性、摄影作者身份的独立认证。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              42000
+            ],
+            [
+              42000,
+              49000
+            ],
+            [
+              49000,
+              54013
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              54013
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（含必要否定）",
+          "notes": " 记录开头的检索名“fujifilm-z6000”与query精确为“Z6000”，没有列出任何相机型号说明；checkedOn给出具体日期。首命中实为卢森堡1987铁路车组，细节密集但与相机主题无关；应在描述中保留反例而不把匹配词等同产品关联。 Finck条目的Archivist式字段/机构名一长串，含NARA和DPLA以及Warren Commission，信息密度高但不是图像署名；链接展示为档案目录/文件。页内PD声明紧接境外可能不适用和creator/year必要提醒，保留这一矛盾并置才忠实。接下来的Z6000也是路由器，caption原语言为波斯语。 Irancell机的波斯语描述比英文机器翻译更具体，直说“一个Z6000 IranCell modem-router”；留下原有多语种文本可解释为何错误命中。artist是redlink账号，credit只写Own work，不宜改成可验证个人姓名。 Security kernel一项语体是档案字段式短句：标题、ADA078281、学位类型/院校/1979和书目定位清晰；description不是宣传文案。Public domain结尾与Finck的警示逻辑不同，这份Restrictions空，不能把前者警示机械扩展到该项。随后的砖梁文献字段中Subjects为空，只有作者与IA标识，留空本身是证据缺口。 Yarborough标题直接注明Senator、DPLA与档案散列，不是装饰性文字；Artist字段用机构层级说明而非摄影者，Credit区两链接分别是来源文件与目录。和Finck条一样保留“not in public domain outside US”必要限定，虽模板label更简洁称Public domain。 Yarborough条目的说明保持目录用语而非个人叙事，发言者不是作者；“public domain”标签与地域警告相邻，构成必要限定。后面的波斯/英语山景caption结构清楚，用方向列表说明画面位置，保留翻译混合标题可帮助定位拍摄内容。 山景条目使用可读的方向列表而不是只给keyword标题；此处经纬度坐标、2009拍摄日、Panoramio archive credit与摄影账号都保留。许可证文字允许改作，但要求给作者Mahdi Kalhor署名、提供许可链接并说明改动。下一块的机器审核范围须按原句窄化理解。 Panoramio review句只说上传机器人于2016-12-04确认当日仍在Panoramio且按上列许可提供；该语义边界不可润色成创作身份或实地信息真实性背书。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–723; chars 0–54013 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本次执行/上下文额度终止前未打开并完整阅读；仅记录SHA256与byteLength，内容审查未完成。",
+        "review_notes": "未审阅：未能形成完整模型可见文本覆盖。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/complete-wave-imaging-04.json",
+      "sha256": "7729d5db334fc76568ecbd66dc6d071a25f09a3e14d4a6ba89dfa8bb81110410",
+      "bytes": 56240,
+      "characters": 37166,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              37166
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              37166
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "Pass 1 [0,7000): packet schema v1 checked 2026-10-11, based on preserved 40-item collection; first exhibit is standard black Nikon F3, March 1980 launch-history date, explicitly excludes F3HP/NASA custom configuration and separates film from electronic exposure control. F3 battery requirement and aperture-priority/manual exposure are central, MD-4 optional. Second exhibit begins with original Sony CCD-V8, Japan sale 1985-01-21, excluding V8AF and experimental VideoMovie; 250k CCD is sensing component while recording remains 8mm analog tape. Source IDs I150-S041/S040 for F3, I150-S037/S036 for V8. [7000,14000): CCD-V8 metadata carries separate source lineage including CWI-S006 and related proposals, while maintaining no-photo/video-rights media fallback. Canon RC-701 is Japan July 1986 commercial product, distinct from 1984 experimental demonstration; still-video floppy records analog signal, with FD lens only via adapter. EOS 650 begins March 1987 Japan launch; EF electronic communication and in-lens AF motor define model system, September QD date-back explicitly separate. The camera chronology keeps regional event labels and related/deferred relations distinct. [14000,21000): EOS 650 identity/features/facts source I150-S003/S004 align with separate QD version and deferred relationships. Sony CCD-TR55 has year-only 1989 archival date, Japan model, 790g camera-only weight; expressly excludes TR5/TR55E and later menu/AF specifics, with physical playback/equipment caveats. Kodak DCS begins with important split between 1990 museum-system manufacture and 1991 commercial release; DCS original name vs later DCS 100 nomenclature is retained, with F3/digital back/external storage unit components. [21000,28000): Kodak DCS curatorial comparison stays tentative about specific physical components, expressly not running original system and not inferring operability; the 1991 commercial-release vs 1990 manufactured museum set is kept distinct. COOLSCAN LS-10 appears as 1993 model-specific 35mm internal unit, distinct from external LS-10E and later LS-1000; 2700 dpi/LED claims are attributed to specific sources and manual scope is limited. Source section starts with CWI-S006 mirror index and missing-page/cache limit. [28000,35000): primary/archive source catalog states scope and limitations per entry, including that Canon sources share vendor provenance, EOS manual 88pp PDF had unreadable text/screenshots and was not used for operating details, Sony footage claims are only listed ranges, Nikon sources are maker history, and LS-10 manual is not fully read. This reinforces not treating source records as independent corroboration. [35000,37166): Kodak sources distinguish manufacturer promotion from independent museum object record, preserve commercial/photo-license boundary, and explicitly keep manufacture/catalogue/publication/sale dates apart. Footer states selection scope, coordinator-assigned ID, fixed category/chronicle policy and deferred-link restriction; validation says all six batches cover 42 exactly and media fallback only. These are workflow assertions, not fresh historical facts."
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              37166
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              37166
+            ]
+          ],
+          "focus": "事实/许可/操作限制",
+          "notes": "Pass 2 [0,7000): F3 claims are bounded to standard black body and maker history, with optional MD-4 and no inference about present condition; low-light slow shutter and battery dependence are operational cautions, film still requires processing. CCD-V8 is Japanese original, not V8AF; 250k CCD describes sensing, not digital-file resolution. The manual mirror supports only indexed focus/zoom/record-start controls, while US accessory portions are explicitly excluded from Japanese configuration. Media rights and playback/condition are not assumed. [7000,14000): RC-701’s 1986-07 Japanese sale is distinct from 1984 experiment; analog still-video floppy is not a standard digital image file. The design/usage limitations specify adapter required for FD lenses and output/playback apparatus, and explicitly avoid claiming present-day computer readability or universal user outcomes. EOS 650 begins with body/mount, mirror-independent electronic control and lens AF system; old FD mount compatibility is not assumed. [14000,21000): Canon EOS 650 facts tie the March Japanese launch to I150-S003; manual PDF unreadable and explicitly not used for operating detail, so functions rest on museum specs only. Its QD variant, USM lens generalization and old FD direct compatibility are excluded. TR55’s 790g is body-only; the narrative limits comfort claim to maker design intent, requires compatible tapes/playback and avoids importing later Handycam features. DCS start lists system components and no unverified capacity/protocol/button claims. [21000,28000): DCS explicitly withholds “world first” and numerical rankings, separates system components and refuses a present-day working-system assertion absent test. COOLSCAN LS-10 is internal 35mm model; LS-10E external and LS-1000 later model remain separate. Resolution is not an unconditional detail guarantee; SCSI/software compatibility matters. Manual scope (cover, contents, excerpts; cache miss) is preserved; manufacturer archive/editorial independence is not overstated. [28000,35000): source provenance prevents overstatement: Canon archive sources are not independent; EOS manual was readable only as file metadata/index, not contents; Nikon LS-10 manual is an incomplete mirror with cache miss and no platform Q&A used. Vendor sources do not establish sales, normal experience, current condition or image rights. This is relevant to evidence scope, not a re-verification of external pages. [35000,37166): Kodak promotion and museum record are distinguished; rights for object photos are separate from open data/text. Manufacture, publication and commercial-release dates remain separate. Workflow instructions reserve stable IDs for coordinator, preserve existing chronology/category, and suppress deferred links pending import; validation flags are recorded as packet assertions only."
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              37166
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              37166
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "Pass 3 [0,7000): F3 prose walks a reader through setup/exposure/release and contrasts aperture-priority with AE-1 shutter-priority without elevating a standard body via NASA mythology. The repeated no-inference phrases protect model boundaries and distinguish LCD exposure feedback from final developed image. CCD-V8 language intentionally separates solid-state sensing from tape recording, using a scene-task narrative rather than a “digital camera” label; manual excerpt limits explain why no later autofocus details are inserted. [7000,14000): CCD-V8 comparisons distinguish making footage from recording broadcast TV, then analog tape from DV; careful practical sequence and tape preservation give curatorial context without projecting smartphone use. RC-701 organizes each paragraph around a useful contrast (electronic sensing vs analog record, lens familiarity vs full workflow); the explicit “not a failed precursor” preserves historical value without success-story teleology. Its negative statements about experimental date, adapter inclusion and present readability are essential. [14000,21000): EOS 650 narrative contrasts meaningful steps with AE-1 instead of generic “automatic”; explicit non-use of Canon superlative preserves independent voice. The manual-text failure is part of the wording rationale: no repair advice or undocumented body health claim is made. TR55 prose interprets weight as a body-only figure and ties its design discussion to actual grip arrangement, while retaining the necessary “not every hand” negative and modern feature exclusions. [21000,28000): DCS significance frames value as a modular system, not an early failure or an unsupported first-ever ranking; it juxtaposes F3 and D1 to explain user workflow. Negative statements about exact museum specimen, 1990 manufacture, non-tested status and absent later LCD/card keep historical and present-use claims apart. COOLSCAN voice treats scanner as input service and explains that resolution is conditional, avoiding a metric-only story. [28000,35000): the source catalog’s careful distinction between first-party maker archives, museum catalogues and mirrors is a useful reason to retain exact scope labels, not flatten into generic “verified” prose. EOS manual unreadability and LS-10 cache miss remain concrete limitations. Kodak source entries identify different institutional roles; they support separate claims rather than universal reliability. [35000,37166): Kodak first-party milestones is not used for “world first”; museum collection record’s image rights are distinct from text/open-data status. The final instructions and validation belong to controlled import/relationship workflow, including deferred links and fixed event/category/stage coverage; they do not justify editing historical facts during this read."
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–1073; chars 0–37166 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮未向模型呈现正文；全文未读，fullReadPasses=0。受本轮可用输出/上下文预算限制，未能依次开始该路径。",
+        "review_notes": "pending",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/complete-wave-imaging-05.json",
+      "sha256": "14eac5c87ea4319d6246e09d814a68114f69f369acf552d96565b710d11090e4",
+      "bytes": 56909,
+      "characters": 38157,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              38157
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              38157
+            ]
+          ],
+          "focus": "来源、日期、型号",
+          "notes": " 首段覆盖VX1000和PowerShot 600正文。来源上VX原日本NTSC VX1000与VX1000E PAL显式分开，1995-09是日本上市回顾且设计/手册来源各承担不同作用；PowerShot 600为日本国内1996-07，明确排除600N。早期片段已强调原厂材料不等于独立使用评价、手册未实测旧机状态，LCD缺席不应被现代标准抹平。 第二组覆盖PowerShot 600条目元数据收束与COOLPIX 300完整正文、XL1正文开头。600的同类字段事实与段落都绑定I150-S005/S006；COOLPIX 300按1997原厂史、标准型号非COOLPIX 100，另署名文章只作定位参考。XL1是1998-02日本原XL1、排除XL1S；Canon博物馆与上市回顾承担型号/日期证据。 XL1末段明确日版与XL1S区分、XL卡口/EF适配器的关系与IEEE1394，日期I150-S007；限制具体到原厂条件和未测试接口。COOLPIX 900为1998原厂史、不混900s/950，I150-S042/S044支撑旋转式外形与事实；其用途为低位构图。D1正文起始锁定1999-09原D1，不混D1H/X，Nikon产品史/企业史来源分担规格与月份。 D1事实截至原版D1，连续拍速注明原厂条件，手册警告缓存写卡中不得断电/取卡；产品史不等于实测。5D Mark II固定日本上市2008-11，原款/初始视频流程与后续固件帧率明确分隔；support doc支撑菜单操作而I150-S009上市与规格，注意SET开录、AF-ON预对焦及CF写入要求。 来源目录在此段明确Canon/Nikon/Sony均为厂商档案/使用资料，范围仅核列出的日期规格，不证明销量、普遍体验、实物状态、转载许可；5D的原厂支持文档未实拍且不纳入2.0.0后功能。D1内容警示写卡风险，来源支持CF/缓存边界；这类操作信息必须随型号限定。来源URL列出可追溯，不代表本轮可外网重核。 来源表强调原厂/厂史同源、不独立，来源limits仅核具体事实而不担保许可或现机可用；Sony手册明确第三方镜像原厂文档且排除PAL版，Nikon手册不实测CF兼容。这里把出处与限制保留，比对引用后宣称独立事实更准确。 来源I150-S042列出各机型年份规格但非独立长期体验；S043/S044明确厂商委托WIRED Japan，不能当独立评测。结尾导入限制规定只选定清单补文、ID由主线程分配、deferred关系不得链接；validation声明范围和来源闭合、media仅fallback。应保留not-imported状态和这些工作流边界，不能将完整文本误报已上线。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              38157
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              38157
+            ]
+          ],
+          "focus": "事实、许可与操作限制",
+          "notes": " 事实/许可限制复核：status明确validated-not-imported；40项保留基础馆藏只是基线。VX1000文本将DV数字信号与MiniDV机械顺序带并列，提示数字不代表无机械媒体；限定原NTSC，不混PAL/改装。PowerShot 600说明无LCD、1MB/PC卡的容量与版本取舍，且记录路线/场景推演不是厂方以外的普遍体验证据。 COOLPIX 300操作限制非常明确：未取得完整可解析原手册，因此未写具体文件绑定/传输菜单；任务流程只在三种有来源能力内。厂商托管署名历史稿不是独立评测，导出可用性仍未证。Canon条目持续限定配套物与版本，XL1的EF适配器是另外购置的条件，不能说开箱即支持所有EOS镜头。 XL1使用/设计的事实限制包括其三CCD不担保收音质量、EF适配需附件且磁带顺序采集；来源不授权图片转载。COOLPIX 900虽为数码取景器旋转形态，文本明确未实测耐久/转轴，历史创新不等于现机保证；不能把900s/950参数加回原款。 D1写卡时不可关电/抽CF/电池是原手册明确操作限制；小屏回放不能替代焦点、色彩和文件完整性检查，性能有缓存和写卡条件。5D Mark II需保持原2008功能和后固件分界；原先拍视频操作文档明确SET启动、预对焦、不保证持续AF，存储卡/持机要求由厂商文件限定，非实测建议。 来源和许可复核再次确认厂商材料有利益关系声明，资料用途限定为列明事实，不等于商用图片许可。VX1000手册第三方镜像且不包括特定地区附件/PAL；Nikon D1手册只核流程，不替当前CF卡做兼容验证。检索索引摘录的Canon事实不应被扩写成独立测评或用户普遍体验。 结尾流程边界：只给选中项目补文、主线程分配ID、按冻结编年部署，不改变布局，未完成deferred关系不建链接；验证状态不是导入批准。媒体仅fallback。以上限制防止把“已校验”误读“已发布”。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              38157
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              38157
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留必要否定",
+          "notes": " 文风观察：每件以“具体/清楚的任务是…”开场，把抽象规格翻成可执行动作；VX按准备媒体、取景、开始/暂停、后期采集展开。段落多用短反差句“数字信号不等于没有机械媒体”，必要否定让历史边界清楚。PowerShot用“一个具体任务”并把无LCD写为主动取舍，避免把它简单评价为功能缺失。 COOLPIX 300用双引号内的拟人句“它看起来怎样/我为什么记它”把照片、笔迹、声音分工讲清，短备注比长文更合界面；留意限制句“不写未经手册核实的文件绑定菜单”。XL1任务句是配置镜头/介质/电源/声音后再取景，文风重过程，不把镜头能力当宣传口号。保留标准型号区别，避免混款破坏记录。 COOLPIX 900的任务句“从较低位置拍摄…不把眼睛降到镜头后面”直接对应旋转结构；把变焦和旋转明确说成不同问题，避免把功能混说。文风细节采用短并列和“不会自动…”限制。D1以“一体化”描述后立即铺展缓存与耗材工作链，克制地避免规格英雄叙事。 D1中文采用对照句（与F3、与早期DCS）说明变化但不宣称职业效率；“不是无限持续”“不能把小屏核查当最终检验”应保留。5D视频任务以步骤序列和否定式区分SET与快门、AF与后代追踪，语言准确且防止读者按现代习惯脑补。 来源条目文风固定包含title/publisher/verifiedScope/verificationMethod/limits/independence/commercialDisclosure，商业关系和有限核验范围应保留，尤其定制稿不能被营销性改写。各Canon source records反复说明“仅核上述具体范围”，属于必要模板但对可信度界定有作用。 收尾文字克制地限定导入操作：deferred关系尚不能链接、媒体仅文本fallback、所有条目虽validated但仍not-imported。保留这些现状说明，避免把策展稿状态提升成产品上线或授权结论。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–1134; chars 0–38157 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮资源/输出上下文不足以逐块完整呈现并由模型通读；未以脚本扫描或抽取代替阅读。",
+        "review_notes": "尚未通读，未作内容审阅。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/complete-wave-home-01.json",
+      "sha256": "0f5e53136394831f682a5c98203388871bc528e62c11affaf2679faab17a3224",
+      "bytes": 57311,
+      "characters": 37217,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              37217
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              37217
+            ]
+          ],
+          "focus": "来源、日期、型号",
+          "notes": "Pass1 [0,7000)：首条KitchenAid明确H-5且把1919限定为原厂产品史，单独说明附件不能证成当年随箱；与1937 Model K分开。Toastmaster 1A1是Waters-Genter明尼阿波利斯制造的具体型号，Smithsonian藏品制造范围1926–1930与展陈约1926分别保留，交叉说明仅能支持弹出功能而不能移植1A4配置。两条均注明来源ID，日期类型和地域版本写在专属字段。 Pass1 [7000,14000)：Toastmaster事实字段记载Smithsonian藏品编号及制造范围，引用HC150与CWH记录，1A4来源仅索引摘录。Chef A700把Ideal Home Exhibition推出年1950与生产期1950–1957并列，明确排除A700D/A701A；EC-36节点则为日本1956上市且排除1959出口SR。型号地域排除写在regionVersion/tags，帮助防止同名近似机型混并。 Pass1 [14000,21000)：EC-36具体为护套加热器、恒温器、内锅接触加热板和重盖；型号年1956，文中明确不称全球首台、不称压力锅。Sharp R-10分1961开发原型与1962量产商用，并限定日本商用版本、排除家用R-600及后代窗/转盘/铃声。Dyson DC01节点用首件下线日1993-07-01，限定英国首代直立DualCyclone并排除DC02/GForce；1997手册是同型号后期操作资料，不代表首批机器配置完全一致。 Pass1 [21000,28000)：DC01身份和维护节点按1993首件下线史与1997同型号手册分源，特别限定不同ABS HEPA版本规格不能混入；与Roomba比较仅为路线区别，不把透明桶写成实测清洁效能。Western Electric Model 500是美国Bell System旋转拨号桌机，1946开发与1949问世分开；排除1500/2500按键版。电话号码字母标识在盘外圈是明确设计点，来源为SFO Museum回顾。 Pass1 [28000,35000)：Source区记录了独立来源类型、验证方式和可用范围。Toastmaster Smithsonian直接页面报Internal Error，所用仅为索引文字且限定并非403；Sharp有原厂历史与由Sharp调查填报的机构产业档案，后者不是独立测试；SFO与Westport对Model 500功能/日期分别支撑。Westport页面照片有Gemini背景处理且拒用夸张耐久语句。Dyson用原厂与设计者材料，但明示品牌宣传、无实机/图权验证。来源识别信息细致，不宜丢弃。 Pass1 [35000,37217)：Dyson说明条款为1997修订版六页手册的逐页文本核查，不回推首批机型，也排除ABS HEPA版；Sharp回顾与后代1A4目录严格区分R-10/R-601功能；1A4比照只支持1A1前代弹出说明。最终validation给出7项展品、slug与来源引用闭合状态，importInstructions明确待协调分配ID和文字回退，均非已导入生产数据。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              37217
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              37217
+            ]
+          ],
+          "focus": "事实、许可与操作限制",
+          "notes": "Pass2 [0,7000)：H-5原厂历史属于品牌材料且明确未核实图片权、实物耐久或运行安全；文本不提供旧机接电指导，附件原配和操作规格未知。Toastmaster制造范围由Smithsonian对象记录支撑，约1926由同藏品展览文字补足，而1A4比较条目直接页面错误，须保留仅索引可读这一证据限制。当前段落的流程阐释是策展说明，不可被误当安全操作规程或测试结论。 Pass2 [7000,14000)：Chef A700规格与附件选择承认首批组合、档位、功率和操作步骤未核，不能套现售资料；实际接电演示需要机器检查。EC-36没有完整说明书或同期烹饪实验，米水比例、容量及指示状态都不能据概述推算。特别保留“重盖减少蒸汽逸出不意味着压力锅”避免技术误读。 Pass2 [7000,14000)：EC-36原厂页面说明的加热结构不能扩大为完整操作指南，尤其需要实际型号说明书限定米水比例和装米上限；存世部件是否原配未知。R-10虽是商用微波炉，文本不输出加热表/容器安全建议，明确后代R-600/R-601的窗、转盘和铃不属于本机。Sharp原厂回顾有宣传性质，博物馆调查档案由厂家填报而非独立测试。DC01的1997手册晚于1993首件下线，不代表全部首批规格，HEPA版排除；不得把广告吸力转成无条件事实或据透明尘桶推断清洁效率/健康结果。 Pass2 [14000,21000)：EC-36后段明确残存锅盖/内锅/恒温器配对未核；R-10说明哪些功能证据不可从后代移植，缺原说明和运行检测，不宣称均匀加热/功耗/噪声。Dyson 1997手册只覆盖后期同型号，堵塞和热保护等实际维保限制不能简化为“无袋无维护”；刷条、滤材、密封的现存状态需另核。 Pass2 [14000,21000)：DC01透明桶叙述明确“不是效率测试”，且维护工作仍需清洁滤材、气路、刷条，手册有热保护与通道受限要求。主张不推断过敏/健康、不使用“永不减吸力”广告为无条件结论。文件级后续meta还需辨认制造商手册年代、模型边界与图权说明。 Pass2 [21000,28000)：Westport Tech Museum对电话版本提供系列定位但文本不宣称拨号测试或线路兼容；没有完整同期操作手册，不能按外形推定后代制造细节。便利与身体动作的解释不是用户普及调查。接续的source records须继续核验版权/图像许可和说明书可读范围，尤其地区/厂商资料不具图像再用授权。 Pass2 [28000,35000)：来源表把PDF手册日期（1997修订）、厂家营销/回顾与博物馆目录逐项标明，含检索索引/500错误和厂商填报非独立测试说明。图片许可在各来源limit中明确未核，不可将史实核对作为复用授权。后续Dyson手册的“原厂售后操作资料”同样受机型与版本限制，最后CWH来源需逐条读完。 Pass2 [35000,37217)：1997 Dyson手册逐页文本读六页，但注明它是后期同型号，不适用于首批或HEPA版。Sharp CWH-S002厂家回顾无同期用户样本；Toastmaster CWH-S003虽独立馆藏目录，也因500错误仅索引范围可读。validation显示内容“validated-not-imported”，importInstructions要求等协调ID且禁止未知图权自动补入。许可和是否进口均需保持未授权状态。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              37217
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              37217
+            ]
+          ],
+          "focus": "逐句文风候选及历史原文保留理由",
+          "notes": "Pass3 [0,7000)：包级status“complete-text-validated-not-imported”及base 40 slugs呈现内容进入准备阶段但尚未导入的状态，务必完整保留这种时态。H-5的“机器重复动作，人管理任务”是简短而可见的策展句；后文多处限定品牌产品史/非全球第一、附件原配未证、非存世操作指南，这些必要否定构成审慎语气。Toastmaster用“完成成为可见的动作”抓住弹出机制，解释有画面但不会承诺烤色表现；现代功能的否定也不应删。 Pass3 [7000,14000)：A700“共享电机，而任务差异由附件和操作者共同处理”是平衡且有辨识度的句子，强调可扩展性同时点出清理/收纳成本；保留“不推断效率更高”的否定。EC-36“一段供热过程，人仍负责食材和饭后处理”用动作界定自动化，后面把压力锅、微电脑功能等排除在外，防止后代概念侵入早期解释。 Pass3 [14000,21000)：EC-36“自动化对象是一段供热过程”简洁解释其自动化边界，接着保留“不是压力系统”避免误导；National厂史角色清楚。R-10句子“商用厨房并不是一片空白”引出人员仍需备料、装取和出餐，避免技术决定论；“不称1962为全球微波炉起点”是必要限定。DC01“状态可见性”的策展线索靠透明桶与仍需维护并置，末段明示不是清洁效果测量，值得保留。 Pass3 [21000,28000)：“一次倒尘”具体化DC01的普通价值，随后明确不把透明桶等同效率或健康效果；Roomba对比只划分收集方式与移动方式，句子短而易于观众理解。Western Electric段落围绕号码外圈把视觉阅读与手指转盘动作串起来，具身描述有文风候选价值；不混后代按键符号是历史必要否定。 Pass3 [28000,35000)：source记录不是统一的模板语气：Smithsonian条目标出索引/内部错误；Westport披露照片背景经Gemini处理；Sharp档案说明厂商填报；Dyson为厂家及设计者本人叙述。此类具体来源特征和不可用范围有审查价值，建议保留。 Pass3 [35000,37217)：手册条款具体列出装配、清空、滤材、堵塞和热保护，年代/版本限定形成可靠的历史保留理由。Sharp回顾明说R-601的铃不移给R-10；Toastmaster明确1A4自身并不是1A1。验证结果虽closed，但import instructions仍强调待分配ID、text fallback及禁止未知图权自动补齐。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–1042; chars 0–37217 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–37217 (exclusive end), lines 1–1043; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    }
+  ],
+  "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H004.json",
+  "completedAtUTC": "2026-11-03T14:46:42.302278+00:00"
+}

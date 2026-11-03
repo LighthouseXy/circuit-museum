@@ -1,0 +1,2925 @@
+{
+  "schemaVersion": 1,
+  "batchId": "T006-H002",
+  "status": "complete",
+  "sourceBaselineCommit": "7f6572baef42b9aeb05f9f7731303b9d455efaa7",
+  "recordedAtUTC": "2026-11-03T14:46:42.302278+00:00",
+  "method": "每遍重新完整呈现原文并逐块审读；确认后保存半开字符区间。脚本字节读取、摘要及截断输出不计全文通读。",
+  "observationsAreArchiveReadings": true,
+  "externalSourcesReverified": false,
+  "sourceFilesUnchanged": true,
+  "fileCount": 24,
+  "startedFileCount": 24,
+  "completedFileCount": 24,
+  "sourceBytes": 869512,
+  "completedFullTextFilePasses": 72,
+  "firstPassCompleteBytes": 869512,
+  "files": [
+    {
+      "path": "docs/evidence/photo-expansion/sega-dreamcast-jp.fourth.json",
+      "sha256": "71e364dc4b2e2d2b611541faccab70975edaeda806077f467b051b3a3070feaf",
+      "bytes": 31385,
+      "characters": 31321,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              31321
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              31321
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "条目标为日本首售版Dreamcast，限定日本1998年版的33.6kbps调制解调器并明确排除北美1999年56kbps配置，检索词仅为“Dreamcast”，核查日2026-10-13。候选中有描述为北美1999年发布的机器、欧洲/澳洲PAL标志、通用标志/旋涡、VA0/VA1对比图、将多种设备画成插画的博客头图，以及第六世代销量图；这些来源/地区/对象类型均须与目标范围区分。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              31321
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              31321
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "各候选许可差异明显：dog图为CC BY-SA 2.0；北美Console Set为BY-SA 3.0；PAL与alternate标志标公有领域但Restrictions均为trademarked；swirl为BY-SA 4.0；VA0/VA1对比图及销量图标CC0但Copyrighted字段为True；博客插画是BY-SA 2.0，Permission称上传时通过Flickr API自动确认，同时分类标明缺少SDC创作者/来源。候选元数据还不足以独立核实具体日本配置或许可链；标记和许可声明必须与机型、地区匹配分开判断。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              31321
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              31321
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "历史措辞应原样保留“日本1998年版；33.6kbps调制解调器，不混入北美1999年56kbps配置”，并把它作为筛选边界而非声称候选已经证明配置。搜索词“Dreamcast”过宽，返回的北美机器、PAL商标标志、无关插画和销售图应保留为当时结果及排除理由，不能从历史文本中删去噪声以制造精确命中的假象。日期需区分核查日、文件页记录时间和作品/拍摄时间；license与商标限制也需分栏叙述。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–707; chars 0–31321 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–31321 (exclusive end), lines 1–708; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/philips-hue-2012.fourth.json",
+      "sha256": "f8cfffe59972cddbaff71a8ede4a49ebdfe2fa46cce6d7a1a19a7f29ba82829f",
+      "bytes": 32016,
+      "characters": 31961,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              31961
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              31961
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "记录对象为 Philips Hue Starter Pack 首代，说明限定美欧三灯泡+Bridge，排除蓝牙/Matter 后代；检索日 2026-10-13。开头两个 Commons 结果是历史出版物/英语词典 PDF，均不相关，即使PD元数据详尽。；继续看到 Samuel Johnson 英语词典、Henry Vaughan 诗集等图书 PDF，记录了 Internet Archive/Wellcome 等来源和 Public domain 字段；PD只说明该书内容版权状态，不使其成为 Hue 配图。；候选继续是古诗/宗教文学类书籍，带 PDM/PD 元数据、Internet Archive来源和版本描述，来源可查而与智能灯无关。；又见植物图谱与动物经济教材，字段仍详细保存作者/题名/PD/Internet Archive出处；检索偏差模式已很强，明确排除文献扫描不相关候选。；收尾再次为 Johnson 英语词典 PDF。PASS1总体来源/型号结论：目标首代 Hue，美欧三灯泡与 Bridge；Commons 搜索结果主要不相关历史文献（PD标签不可弥补相关性），没有找到目标配图。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              31961
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              31961
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "权利/使用复审：首条 Commons/Internet Archive 古籍标 Public domain、false、无 attribution required；第二条同样明确 PD。该结论只附着于候选出版物，并无对 Hue 产品图片的许可意义。；诗集与 Sickness poem 均呈现 PD/PDM 字段；授权仅适用于扫描书页内容。候选无任何 Hue 设备操作安全建议。；Thompson 与 Dryden 书籍元数据列 PDM/PD 和不同扫描贡献来源；这是文本作品权利状态，不能被解读为可用作产品图的图像许可。；Kent 的树木主题图书和 Ray 的生理学普及书都标 PD，但也都明显与 Hue 产品无关；保留这些候选文本可说明搜索误召回的范围。；最终候选仍是 Samuel Johnson 词典，PD 状态只针对书籍扫描件。全文件未记载 Hue 灯泡通电/Bridge操作许可；候选列表均不具产品图相关性。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              31961
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              31961
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "逐句风格复审：对象限定简短精确，特别是括号注明“首代”和不混后续 Bluetooth/Matter 版本，属于关键必要否定应保留。候选列表的重复 Commons schema 明显记录抓取证据而非推荐图册。；历史书目标题常带具体时期/副标题，夹有HTML与原始许可文本；若改写或清洗，需保留原字符串才能追溯错配原因。；描述里保留稀有书目细节（版次、页码、书内插图差异、刊印价格考证）以及其来源，尽管与产品图无关；这些细节解释了被检索对象身份，不宜清理成空泛“古书”。；候选题名需要保留原书名、旧目录作者标识和主题标引，这些是审查不相关性的依据。检索结果的否定判断要留在历史里，不能删除成“无结果”。；末项又是词典。全文件保留原题名、源链接和PD信息能解释搜索误召回；不应把PD或候选列误写成Hue照片已获授权。必要否定边界（首代、不含蓝牙/Matter）保留。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–651; chars 0–31961 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–31961 (exclusive end), lines 1–652; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/round3/skyworth-r1pro.award-commons.json",
+      "sha256": "550be73c587c77b7b062f026b68c66756626b3c5cd9198cc7278ee1cfd8f35ac",
+      "bytes": 32508,
+      "characters": 32477,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              6000
+            ],
+            [
+              6000,
+              12000
+            ],
+            [
+              12000,
+              18000
+            ],
+            [
+              18000,
+              24000
+            ],
+            [
+              24000,
+              30000
+            ],
+            [
+              30000,
+              32477
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              32477
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "顶层查询词为“R1 Pro”，CheckedOn 2026-10-15。查询第一个Commons结果竟是1663年的英语协和书PDF（索引3），日期元数据2026-07；描述注明Internet Archive扫描、William Chadwell，类别含unverified及PD-old历史标记。这是错配搜索命中而非电视产品影像。 第一项后部所列馆藏版权Public domain / false copyright与已是1663旧书吻合。第二候选又是1944年罗斯福国情咨文扫描件，NARA/DPLA供源标记，MediaWiki日期2026-05；不是Skyworth电视。 FDR扫描件的PD说明明确提醒US以外/shorter term国家可能不属公有领域，并要求作者和出版年份；不能只留PD标记。第三命中是葡萄牙语Museu da Pessoa口述史PDF，不是电视，日期2021-10-29，类别称已核VR权限。 Museu da Pessoa item date 2021-04-05, Acervo source and Museu da Pessoa artist, CC BY-SA 4.0; different document format/subject. 第四搜索结果标题是捷克布拉格交通博物馆Tatra R1地铁模型，拍于2013-09-15、文件时间12-05；关键词命中R1歧义，不可据R1认作Skyworth。 Tatra R1确为公共交通博物馆的铁路照片，作者ŠJů，CC BY-SA 3.0，署名要求；属于另一种R1。下一个Blue Book检索结果是1967年Colorado UFO文件扫描件，时间、类别与电视无关，类别还标为IA/unverified。 Blue Book来源列出两个Internet Archive标识及双重unverified分类，艺术家字段Project Blue Book，许可PD US Govt；档案可靠性与PD提示应留在证据而非抹去。整份query结果含早期文献、FDR、葡萄牙访谈、Tatra火车、Project Blue Book，排除了潜在错误图库匹配的意义。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              6000
+            ],
+            [
+              6000,
+              12000
+            ],
+            [
+              12000,
+              18000
+            ],
+            [
+              18000,
+              24000
+            ],
+            [
+              24000,
+              30000
+            ],
+            [
+              30000,
+              32477
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              32477
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "证据复核前6k：原查询误命中1663旧书扫描；Internet Archive scan仍标/unverified，PD-old缺SDC版权状态。记录给出Chadwell作品题名、扫描ID、下一卷链接，文本来源很具体但与产品毫不相关。 第二候选档案字段表明罗斯福1944年演讲（原始主题）由NARA与DPLA供源；PD US类别是历史美国作品条件的一部分，不能因PD就略去来源/地区状态。 FDR许可条款提示加拿大、中国大陆（除港澳）、德国、墨西哥、瑞士等地区法律差异，并要求作者与出版年份；须连同PD状态保存。Museu da Pessoa PDF类别称VRTS许可已确认，但CC BY-SA 4.0具体署名和分享条件仍需保留。 Museu da Pessoa授权类别与许可证不是矛盾而是双重信息：类别确认VRTS授权、CC BY-SA 4.0仍列再传播条件。Tatra R1照片的地点/模型来源和拍摄日构成实证，CC BY-SA 3.0许可待续段读取。 Tatra图许可明确个人自有作品CC BY-SA3.0、要求归属ŠJů / Wikimedia Commons。Blue Book继续是美国政府文件的PD标记与Internet Archive未核实扫描并存；版权属历史政府档案但扫描/记录来源审核状态仍不能忽略。 Blue Book报告的1967原始日期、NARA/DPLA档案路径、IA两个标识与“unverified”类别均需保留；PD标记不能代替真实性/扫描完整性检查。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              6000
+            ],
+            [
+              6000,
+              12000
+            ],
+            [
+              12000,
+              18000
+            ],
+            [
+              18000,
+              24000
+            ],
+            [
+              24000,
+              30000
+            ],
+            [
+              30000,
+              32477
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              32477
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "逐句文风复读：顶层以query日期界定抓取脉络；第一条长书名、扫描者作品名及IA标识精确但来源噪声大，简介用书名/馆藏编号/“Subjects”短语，不适合提炼成电视事实。保留错误命中原文让后续审查者看见检索失败在哪里。 第一条简洁summary为Public domain，并用Copyrighted=false/Attribution false直叙；但先前的IA unverified、日期和缺SDC状态必要否定使保存意义不仅是授权。第二条仍被详细保留的官方档案HTML可作为排除错误命中的证据。 FDR条目在完整许可段写明美国以外规则差异及作者/出版年必填，属于关键保留说明，不应被Public domain摘要抹掉。Museu da Pessoa标题使用采访对象/收藏系列ID方式，Portuguese说明比技术化许可字段更自然，且两个日期角色应区分。 葡萄牙语图注是极短的藏品系列说明，CC BY-SA 4.0结构字段表达可复用义务；保留原创语言比替换成无来源中文更合适。Tatra描述用城市/区/车库/博物馆层层定位后才说明模型用途，语言组织精确展示R1重名问题。 Tatra图署名极具体为“ŠJů, Wikimedia Commons”，许可原句声明权利人授权CC BY-SA 3.0；署名、出处与相同方式共享需一起保留。Blue Book用地点和年份精确报告名，来源另附两个IA ID。 尾部重复两个IA记录链接，强调数据可追溯但非已独立核实。完整原始采集的价值是留存检索词误命中、来源授权差异和排除依据，不应把原始候选集裁成产品文案。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–506; chars 0–32477 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–32477 (exclusive end), lines 1–506; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/complete-wave-gaming-04.md",
+      "sha256": "72bbc9b8d0b4b0a69981f1e98555778d795b2403d90c13ae078d163cefccea21",
+      "bytes": 32966,
+      "characters": 15248,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              15248
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              15248
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "批次共7件、五节和来源/断言概览；Portal登记2023-08-23原版及11-15市场计划，明确不误作首售并标注2025云串流更新；ROG Ally限定Z1 Extreme、2023-05-11公布/06-13供货计划，制造商ASUS与Steam/Xbox软件生态分开；本文还提示账号/网络路径与原硬件身份需按时间区分。第三项Legion Go从9月1日公布开始。 Legion Go原版8APU1、2023-09-01公布，EMEA供货为11月预计；明确Go S/第二代分开、厂商性能绝对宣称不作事实。Claw A1M CES活动日期01-08与新闻网页01-09分记，原A1M不借后代规格；五月校准指南属于后续操作证据。ROG Xbox Ally X原计划10-16，10-30公告确认可购，ASUS与Xbox界面合作区分，不能称原生运行所有Xbox主机游戏。 Ally X操作依赖全屏库兼容提示，登录授权，Windows上滑任务切换并可返回Xbox Full Screen，说明后台进程可能继续、需重启才恢复优化状态；界面步骤绑定2025年10月指南。Steam Controller 2026：4/27视频实测、5/4只是上市计划未证实；功能为TMR双杆/触控板背键Puck等，媒体成员体验标为个案，评测有联盟佣金，零售动态页不可读。Steam Machine 2026按GIGAZINE日本编辑部7/1实机到货记录，7/3文章发布日期，限定自购2TB+手柄样本，不可泛化全球上市。 Machine只读GIGAZINE开箱实物作证，无游戏测试；套装包装和接口属日本自购2TB样本。GDC提供兼容验证标准。条目限度明确禁止把开箱等同温噪/兼容/首售/库存测评，保留未核实的停售/支持终止开放。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              15248
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              15248
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "Portal运营指南要求PS5同账号/联网/设置唤醒；云串流成人Premium、支持地区及权利游戏条件，Remote Play仍独立可用；Remote Play与Cloud Streaming不得混为同功能，原公告与更新日期分开。Ally说明可安装不代表游戏兼容或帧率，避免宣传泛化，当前指南不回填首发。 Legion Go特异限制：FPS模式需底座和平面，控制器/主机电量及Bluetooth各自影响；仅拆单侧协议有差异，指南更新不可倒灌首发。Claw A1M的五月校准流程需平桌、静置水平校准、沿边缘缓慢转摇杆并扣扳机，只是校准不是万能兼容修复；2024-01-08活动/09发布要分开，原A1M不借后代。 Ally X Windows desktop/返回全屏按2025原厂指南逐步说明；Xbox兼容标记区分能装与优化，需区分Play Anywhere/Cloud和本地执行。Steam Controller来源限制：官方产品页动态空壳、用索引摘录和GN评测；5/04上市仅当时计划，评测仅至4/27样机体验且有联盟佣金披露，图表不全量复核，未核当前库存/全球首售。 Machine usage谨慎限定2TB日本样本附属线材，控制器/网络/Steam账号与游戏权利；Proton反作弊受兼容影响，本地执行与串流区分；开箱没有游戏测试，不以连接信息推断帧率/稳定性。GDC compatibility验证≠全部游戏流畅保证，库存未核。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              15248
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              15248
+            ]
+          ],
+          "focus": "逐句文风候选及必要否定、历史原文保留理由",
+          "notes": "批次框架将7件列为“完整文字待统一核验与导入”，强调保全原始快照/ID待协调，不应把段落读成已验收导入。Portal prose用关系解释远端执行与使用位置，日期/服务状态原文有明确保留。 Portal连续用执行/观看位置、时序比较作解释性写法，limitations明确写网络和服务条件；这种条件式文风比广告口吻稳健，但2023公告与2025更新的对照需留作必要历史否定。Ally的第二人称操作动词较多，limit段明确不做购买推荐和无实测推断。 Legion Go段落用动作路径（摆放→选择输入→逐游戏验证）组织解说，限制避免零漂移/完美性能广告话术。Claw用校准步骤作为具象说明，仍把营销形容置于厂商立场；原A1M与2024年5月校准指南的时点差异必须保留。 Ally X把返回界面与后台优化状态分开解释，采用“看得见入口变化”的平实对比，不宣称淘汰Windows；避免将Xbox合作误述为本机兼容全部主机游戏。Steam Controller以GN媒体主观观察和测得延迟区分，条件式肯定普通产品，5/04上市计划保留为历史状态，不写成全球首售。 Machine叙述用连接顺序和馆藏比较说明定位；把GIGAZINE开箱与GDC验证分开、样本局限明确，保留未核终止节点开放。这种界定范围而不推导普遍性能的写法是有用范式。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–206; chars 0–15248 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–15248 (exclusive end), lines 1–207; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/humanware-victor-reader-stream-3.fourth.json",
+      "sha256": "a8020ded1691cd189aa5c097b57e598ea92e81c725848d76a138c6b0e97f2b0e",
+      "bytes": 33478,
+      "characters": 33435,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              33435
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              33435
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "顶层指明美国英文目录Victor Reader Stream第三代，排除2007第一/二代，检索式为三词AND。首条候选显著不匹配：Iowa County历史书PDF，IA/Internet Archive扫描和历史分类；页面日期2026-08-03，出版社Union historical company；作为检索档案中的不相关候选需原样保留，不能当产品证据。；首条书籍许可字段Public domain、无须署名、版权False且限制空，但仅为书目扫描，与盲文阅读器无关。第二条TIROS IX云图学气象论文PDF，页面日期2020-09-01，同属Internet Archive扫描类，属于另一明显无关命中。；气象论文作者Casimes与Swor，描述为1965年海军研究生院气象硕士论文，Public domain、无署名要求、版权False/限制空，明确不属产品候选。第三条“Indian wars and pioneers of Texas”历史书PDF，日期2026-08-06，继续显示搜索结果噪声。；第三条的扫描书作者John Henry Brown(1820–1895)，内容是德州历史/传记，Public domain、无署名、版权False；第四条开篇为《Jesuit relations and allied documents》卷21，显然也是检索误命中。；第四条为关于1610–1791新法兰西耶稣会传教士旅行史的第21卷，来源Internet Archive，Public domain且无限制/无需署名；第五条Blackwood’s Magazine vol. 096文档开始，亦非助听设备。；Blackwood’s Magazine没有机读作者与描述，PD分类带“assumed”/PD-scan假定；元数据标Public domain且无署名/Restrictions空，但应保留其推定性标签。下一个是《A nocturnal expedition round my room》扫描书。；第六条为Xavier de Maistre作品的译本扫描，列Goldsmid为译者、限印版说明，Public domain/无署名/版权False/无限制；credit指Internet Archive。下一候选Emmanuel-Philibert十六世纪欧洲战争书籍。；Dumas作品页显示2020-12-21上载，描述为Le page du duc de Savoie译本及Emmanuel Philibert传记主题，Public-domain扫描书；依然不是Vision设备线索。；第七条结束处明确公共领域且无限制，作者Alexandre Dumas；第八条为Thomas Gold Appleton生平书，日期2020-12-18，作者字段含传主与编者Susan Hale。；最后Appleton书扫描记录为Public domain、AttributionRequired=false、Copyrighted=false、Restrictions为空，Internet Archive标识明确；首遍全文至JSON闭合，候选池均为书籍/气象/历史PDF而非Victor Reader设备。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              33435
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              33435
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "首条旧书的Commons许可证字段Public domain，AttributionRequired=false、Copyrighted=false、限制空；但分类含IA扫描unverified及PD old missing SDC copyright status，保留来源疑点，且其与产品完全无关。第二条气象论文在当前块只读到分类：PD US Government及IA扫描unverified；许可具体元数据待后续块。；气象论文证照Public domain、署名false、Copyrighted=false、限制空；Texas历史书虽IA扫描unverified且缺SDC版权状态，但 Commons元数据同样标Public domain、无署名、版权False/限制空，需并存记录。；Jesuit Relations分类是PD-old-70/扫描未验证且缺SDC状态，Metadata仍标Public domain、无署名、版权False、限制空；Blackwood likewise无机读作者，分类明确PD-old-assumed，虽字段PD/无需署名/版权False，保留“assumed”前提而不当作已独立验证。；A nocturnal expedition页面许可证PD、无署名、版权False、限制空；说明限印数量275小纸本/75大纸本且译本，须保留历史信息。Dumas传记条目分类PD-old-100-expired/扫描未验证，Commons许可字段及版权状态在后块继续。；Dumas条目Public domain，AttributionRequired=false、Copyrighted=false、Restrictions空；Appleton传记同样字段PD/无署名/版权False/无限制，但类别写PD-old missing SDC版权状态和未验证IA扫描。不要把许可字段抹平这些源分类差异。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              33435
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              33435
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "文风与留存：核心型号边界写在regionVersion，查询式明确三词；其后是Commons候选原始HTML文本及长标题。Iowa书不是产品，是搜索噪声，历史上保留它可记录错配来源，不应删改候选或润色为产品证据。；气象学论文与Texas Pioneer史书候选都保留原题、作者、历史主题与扫描说明；需保持搜索误命中性质，不因授权信息而误当作视障产品图片。；Jesuit卷和Blackwood保留IA扫描模板与PD/Assumed差别；接下来的书目描述含“Follow the All Files: HTTP link”之类归档页面原话，作为引用/元数据识读，不执行其指示。历史留存应忠实保留该模板文字及具体译本/版本信息。；夜间书目描述含档案模板“Follow ... link”和一段限量版说明，原样保留但不执行链接指令；Dumas条目明确记为Le page du duc de Savoie译本及The Two Dianas companion，作者/题目关系不可删节。；Appleton最后一条保留作者与编者姓名、通用IA模板、PD但missing SDC/未验证扫描类别；不把许可模板之外的空主体描述改写。该档案全文以误搜书籍集合结束。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–633; chars 0–33435 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–33435 (exclusive end), lines 1–634; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/complete-wave-home-02.md",
+      "sha256": "cb314aa4def9d108bf7e4c224ff61189dc24a1107f4c57277e68688fc5175bfd",
+      "bytes": 34013,
+      "characters": 14594,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              14594
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              14594
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "起首是“家庭、生活与通信”完整正文批次，标注8篇正文尚未导入、ID待协调。首篇 Hoover Constellation model 444 的实物制造范围约1956–1959，以LACMA为主、1965广告仅旁证；明确不把广告年当首发日，也排除其他地区型号。Braun HL1 标1961博物馆作品年代，MoMA主记录、Pompidou HL1/11作旁证，强调后缀/供电规格未证。Braun Sixtant SM 31 起首列1962设计机构年代、武藏野美术大学与Red Dot等来源，明确排除后续系列；各文谨慎限制性能/操作主张。 Braun SM 31 段落把1962作为design而非首售、奖项字段空、明确不导入后代充电/防水特性；过程与限制文本不推导剃净率/健康。之后Motorola PageBoy I定位1964 launch，通知后回固定电话，排除PageBoy II/后代功能。Picturephone Mod II采用1970-07-01匹兹堡商业服务节点，排除Mod I，记录镜面在人脸/文档之间切换以及线路分工；不采信疑似不一致像素数。 Picturephone Mod II叙述把1970-07-01限定匹兹堡商用服务启用；CMU保存两台实物，Mod II动态黑白影像、翻转镜面、三对线（视频2、声音/信令1），不冒称全球首售或复用改装功能。Omron HEM-1按原厂1973 launch及手动电子manometer定位，排除HEM77等后代；回避医疗指导、精度与健康结论。Magellan NAV 1000按Smithsonian馆藏实物1988 manufacture锚定，库存号2010.0118.01，与NAV1200区别；Smithsonian另一档案只作单通道信息，原档案未读取且页面曾报错，限制导航、安全、精度等主张。 第一段回到Picturephone取舍：限定匹兹堡启用、像素疑误、后期现代会议改装不是原功能，且不认为现电话线能恢复。HEM-1再说明手动/电子并存，排除现代全自动机，不给医疗建议或疗效断言。NAV 1000用1988馆藏制造年、单通道背景、与NAV1200区分；说明Smithsonian页面直接打开出错、没有整份工程档案，限制坐标精度/航点/安全等参数。 Garmin GPS 155 TSO以2014原厂回顾中的1994-02-16 FAA TSO批准作approval节点，拒绝当作全球首售或所有方案认证；与165型号及安装宽度区分。结构说明6.25英寸面板、RAIM、NavData卡；不列飞行步骤/安装指南/安全保证。批准日期未独立读FAA证书，产品页仅脚本壳，结构数据按之前核过的原厂索引，未声称导航库现况。 文件末尾列出L:H04A/B与HC150-S013/014/015/016/021/022/025/026/031/032/037/038/051/052的来源和实际读取界限；多项直接页面返回 Internal Error，仅索引可核。须保留“Internal Error不是403”以及未核完整正文/PDF/手册的历史注记，不扩张主张。完整首遍结束。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              14594
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              14594
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "第二遍许可与操作限制审读。Hoover：LACMA/广告信息只支撑馆藏实物与同期仍售，不能证实内部或操作细节；明确无原操作/耗材手册，不列换袋、开关、装配、噪声/性能；现存物运行另查电气/机械状态。Braun HL1：MoMA本体编目与Pompidou HL1/11索引旁证，不能推定后缀地区电气相同；原说明书、测试缺，不猜风量、档位、制冷、健康效果或旧机可用性。SM31：武藏野目录+Red Dot展览目录支持型号年代外形，不证明奖项或剃须表现；原手册/检查缺，不补电源版本、频率、清洁或后代能力。 本块同时复核PageBoy I：两家资料只确认历史节点/展品，HNF图源外链不等于实物电气版本；未有本机操作手册、服务可用性、频率、电池或解码核实。Picturephone ModII：CMU材料支持当地启动、镜面和线路描述，不证明全球首售、收费/用户效果；无原手册和今天网络条件，像素描述疑有误且已避免。 Omron HEM-1来自两条厂商历史页面，支持型号/1973/手动类别但无完整说明书、配置或实测，不能作医疗指导。NAV1000两条Smithsonian资源皆仅原机构索引，open Internal Error且没有完整档案，不得扩张坐标/安全性能。GPS155的日期属Garmin回顾、未读FAA证书；产品页仅脚本壳/索引，拒绝声称使用授权或实机。 source list shows each reference’s original authority, URL, read scope, and gaps; several Internal Error/open-only cases are explicitly not 403, and no photograph licensing verification is claimed. Full pass complete."
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              14594
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              14594
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "第三遍风格与保留理由。Hoover首句“球形机身留在地面，手中的软管与吸头伸向待清理的地方”可作展签候选，具体动作比泛称复古造型清晰；保留“这不是444内部剖面的检验”的必要否定，以免功能解释被读作拆机证据。HL1“局部送风”与“不是统一温度”建立实际范围，保留HL1/11后缀差异及不推断健康/制冷的否定。SM31黑银表面/六角网原句可留作形态解读，但必须连带说明没有频率/驱动和剃净率实测；奖项字段空的历史记录不可补写。 PageBoy首句“先让随身接收器提醒人，再由人找到电话完成联系”适合保留，明确写到两件设施/动作。必要否定：提醒不是回应、通知机非后代双向手机；保留对频率/服务现况未知。Picturephone段从可视通话、镜面和纸面出发，保留即使许可证不涉也须呈现CMU来源/专用网络限制；不把用户体验概括为成功/失败。HEM1强调电子手动并存，原文具体排除姿势/诊断/健康效果，不得为了顺畅删掉安全边界。 Omron开场“以电子检测配合手动式血压计的操作”是简洁候选，产品体验维持主动测量流程；必要否定包括不作健康结论、不借现代品牌扩展、非医疗指导。NAV1000首句说明坐标与现场环境共同解释，保留它非地图/自动路线/安全承诺；史料仅馆藏索引与文件链接返回错误需作为限制。GPS155展签把批准、数据卡和RAIM并列，保留FAA证书未独立读取/非航空操作手册限制。来源清单的原始读取范围（正文段落、索引、open错误）是需保留的历史原文；`Internal Error不是403`、图像许可另核都防止误读。本遍通读完成。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–326; chars 0–14594 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–14594 (exclusive end), lines 1–327; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/round3/bose-quietcomfort-ultra.alias-award-commons.json",
+      "sha256": "83134dfe3f8bf9168f782ad0fb9037747a4298d6e4676327cc61aa8b3043a10f",
+      "bytes": 34343,
+      "characters": 34035,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              34035
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              34035
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "记录是slug=bose-quietcomfort-ultra的Commons查询响应，查询词“QuietComfort Ultra”。前两条结果标题/说明实际为QuietComfort Earbuds II，虽其分类写入Bose QuietComfort Ultra Earbuds；随后多条标题和日文说明确为QuietComfort Ultra Earbuds，在名古屋拍摄。需区分search alias造成的旧型号命中与目标新品，核查日期及上传/拍摄时间分开保留。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              34035
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              34035
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "六张图片的extmetadata均显示CC BY-SA 4.0并要求署名，许可链接一致，适用署名和相同方式分享条件；文件没有另行写有可剥离这些条件的授权。旧款Earbuds II与Ultra机型字段同样许可，不会因共享许可而变成同一型号。审查限于响应存档元数据，未访问原图、页面或外链，也未执行HTML/许可文本中的任何操作性内容。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              34035
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              34035
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "档案以API原始响应保存分页结构、pageid、index、图像尺寸/URL及extmetadata。可用于交接的判断应逐条区别两个2022/2023旧款Earbuds II结果与2023年10月实际Ultra耳塞结果，不能让分类标签取代title和日文ImageDescription中的型号；也要原样保留旧款照片被标入Ultra类别这一数据异常。作者Kyu3、拍摄城市Kasugai/Nagoya及各DateTimeOriginal有助追溯，但不应据此宣称外部复核或更广授权。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–732; chars 0–34035 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–34035 (exclusive end), lines 1–732; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/nintendo-switch-2017.second.json",
+      "sha256": "b45b2cd25694b16395ff25254d461658b27efb4cd8758ffe8d0dca8efcf7c1a1",
+      "bytes": 34668,
+      "characters": 34630,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              34630
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              34630
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "对象为 Nintendo Switch 2017 原版；版本限定将 2019 电池版及容量/配色合并处理。首候选 Evan-Amos 拍摄的 docked+Joy-Con 官方式产品图，描述明确 2017 混合主机；作者声明公有领域，但 Commons 同时提示商标材料，不应把商标提示与照片版权混为一谈。；首条图具有清楚的产品说明和 2017 发行年份；后两条是 2025 Switch 2 图，尽管 CC BY 4.0，也因代际错误排除。版本适配必须先于许可筛选。；这一段连列 Switch 2 功能/角度/手持模式照片（2025）及不同作者 BY/SA 许可；这些元数据对 Switch 2 本身有用，不能混作 2017 Switch 图或沿用错误型号。；Switch 2 候选继续出现 focus-stacked 和 table mode 变化图，许可为 BY 4.0；照片技术说明指向 2025 机型与拍摄方式，保留此差异以免误用为首代资料。；最后候选是 2023 Switch 内部拆机图，描述详列主板/电池/风扇/SoC/内存，作者 PantheraLeo1359531、CC BY 4.0；虽为一代 Switch 但非2017现场照片，且不能将图像记载当操作授权。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              34630
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              34630
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "许可审查首图：Evan-Amos 将摄影作品释入公有领域；Commons 另列商标警示，明确商标标签不代表图像版权状态。这里没有设备拆装许可/指引，图中仅为 docked mode 的展示照片。；Switch 2 两图 CC BY 4.0，需要作者署名；按相关性排除该代候选，与版权许可条件分开记录。；CC BY 4.0 主动署名两图，与 Switch 2 相关；手持模式图则 BY-SA 4.0。图像再用时应准确保留各异许可，不能把 Commons trademark restrictions 当作侵犯版权条款。；重复 Switch 2 图片仍逐张载有作者、原始拍摄日及 CC BY 4.0 署名要求；多张相似场景不让它们自动适配2017目标。；最后拆机照片署名要求 CC BY 4.0；图像发布许可只覆盖该照片，而不构成维修/拆解操作授权。全记录中 Switch 2 BY 与 Switch 1 teardown BY 条件逐项分开。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              34630
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              34630
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "逐句文风：文件首标题清楚标注2017原版；括注“2019电池版/容量配色合并”是目录版本处理逻辑，不要改写成硬件完全相同的事实。图注精确区分 docked/home mode、分离手柄与握把；PD与商标警示的限定语必须保留。；首条图注是可保留的直接说明；Switch 2 德语说明和 2025 拍摄日应原文保留为时代区分证据，避免只根据相似外形混淆机型。；不同候选图注包含明确摄影角度、USB-C母座高度及构图意图；这些只解释 Switch 2 照片形态，保留原作者术语，不能挪用来描述2017代产品。；“Focus-stacked”是拍摄技术，不等于堆叠产品配置；题名含德语 Tischmodus（桌面模式），准确保留其原文标识有助于追溯。；最后原始德语题名与长英文部件描述涉及拆解内容和硬件定位，应保留为照片原注；它并不许可实际拆机操作。该照片年份2023，与受展对象首代2017的使用边界要分清。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–706; chars 0–34630 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–34630 (exclusive end), lines 1–707; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/motorola-pageboy-i.second.json",
+      "sha256": "1ae297bb47d560381ed944c92e73dde3aac015e26e2f6796692b50ed93debd6f",
+      "bytes": 34977,
+      "characters": 34938,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              6000
+            ],
+            [
+              6000,
+              12000
+            ],
+            [
+              12000,
+              18000
+            ],
+            [
+              18000,
+              24000
+            ],
+            [
+              24000,
+              30000
+            ],
+            [
+              30000,
+              34938
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              34938
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "顶层名称PageBoy I限定美国初代，query intitle:“Pageboy”，checkedOn 2026-10-13。首候选明确Pageboy II天线照片，2019-09-17，作者Ralf Krebs、CC BY 3.0需署名；可排除后代。第二命中则是橙色pageboy插画而非呼叫器实物，作品时间2008、Commons日期2024。 插画含VRT审核授权说明，ticket id可追溯，仍需同时看具体License field；但角色是Pageboy人物而不是PageBoy呼叫器，不能错配。 插画条目CC0但Copyrighted=True，需同时保留VRT票据说明与结构化字段。第三候选Motorola Pageboy II背面，2011、Florian Fuchs、CC BY 3.0要求署名；它与目标Pageboy I型号明确不符。 第四为Pageboy II正面，日期/作者/许可同一系列：Florian Fuchs于2011拍摄，CC BY 3.0。第五为Léon Bakst 1921年《睡美人》pageboy服装设计公共领域艺术，不是电子呼叫器；PD-old-100类目明确其过期标记。 第六个实物结果仍为Pageboy II（德文称Motorola的FME Typo Pageboy II）；PD-self、拍摄2009、用户页不存在，严格排除型号代际。再后一结果是2024年录制的“pageboy”英语发音音频，不是设备图像。 第七候选CC0发音录音，描述只有Lingua Libre项目说明，speaker/recorder同为Flame, not lame；末候选为Pieter de Hooch约1680–84的荷兰绘画，艺术品PD但SDC版权状态缺失。整份8候选中，除Pageboy II实物图外其余多为词义、艺术和音频噪声；原代Pageboy I仍未出现。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              6000
+            ],
+            [
+              6000,
+              12000
+            ],
+            [
+              12000,
+              18000
+            ],
+            [
+              18000,
+              24000
+            ],
+            [
+              24000,
+              30000
+            ],
+            [
+              30000,
+              34938
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              34938
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "第2遍复核开头：Pageboy II实物天线图许可CC BY 3.0而类别遗留GFDL/license-migration-redundant，现行许可仍不能漏署名Ralf Krebs。橙色人物插图经VRT确认可用且标CC0，但Pageboy词义不是产品。 VRT中的免费使用说明明确以页面实际license requirements为前提，票据2024120310008901由reviewed volunteer记录；授权流程证据具体但不能替代作品身份/CC0独立标记。 插画归属LeoBlanchette，许用许可为CC0，但Copyrighted=True保留，避免把版权元数据简单归零。Pageboy II背面照明确许可CC BY 3.0并署Florian Fuchs；后续frontside同作者/同日期。 Pageboy II正面照同样CC BY 3.0、署名摄影者；同一实物系列，须分别保留前后视图。Bakst服装原作约1921、艺术家1866–1924，PD-old/PD-Art标签及来源博客信用应分开理解。 第六项Pageboy II德文描述和PD-self类别指向个人自有图及PD，Heißdüse用户页缺失；查询时仍作为明确代际错误候选保存。口语音频有单独讲者/录制者字段与CC0许可，也需注意Copyrighted=True元数据。 音频许可为CC0，speaker与recorder均记同一伪名，著作权字段仍为True；末项画作日期约1680–84但PD-Art缺SDC版权状态，不能靠摘要抹掉。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              6000
+            ],
+            [
+              6000,
+              12000
+            ],
+            [
+              12000,
+              18000
+            ],
+            [
+              18000,
+              24000
+            ],
+            [
+              24000,
+              30000
+            ],
+            [
+              30000,
+              34938
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              34938
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "第三遍关注措辞和候选保留理由：标题/metadata清楚区分Pageboy II和PageBoy I，第一张虽型号后代仍有天线形态史价值，应保留并标错代。插画的文字“orange man dressed as a pageboy holding a scroll”与电子呼叫器毫无关系，保留它展示词义查询干扰。 VRT说明的重复CSS/图标/查询URL形成很长区块，虽可视为HTML噪声，里面的票据编号和审核状态仍是复用许可证据；只在提炼时谨慎折叠，不从历史原件删除。 插画的VRT长条在汇总视角虽冗长，但有版权方许可邮件审核的历史背景，应以结构化引用保留关键票据不丢失。Pageboy II图分别标记背面与正面，不应合并为不具角度的通用器材照；明确型号尾缀II是必要否定信息。 正面照图注明义直截了当，年份和署名与背面一致。Bakst图历史题名与说明指舞台服装设计，旧艺术品类别及存放/信用来源让“pageboy”歧义更明显，保留它作为检索误报历史线索。 第六项是德语用户描述，原文保留Typo写法及Motorola厂牌，同时PD且账号缺页；应标作型号II误命中而不是修正成初代。音频说明仅说发音来源项目，不能扩写语义或设备关联。 音频使用同名伪名作speaker与recorder并保留两角色差异。末画作以Wikidata题名和荷兰画家、1680年代、PD-Art分类为据，虽然没有说明段仍作为Pageboy词汇误报留下。经过三遍，必要否定包括错代II、人物插画、服装设计、语言音频等不可删。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–704; chars 0–34938 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮资源/输出上下文不足以逐块完整呈现并由模型通读；未以脚本扫描或抽取代替阅读。",
+        "review_notes": "尚未通读，未作内容审阅。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/sega-dreamcast-jp.third.json",
+      "sha256": "17b7155aa9e2f1c385d1ebf0cdbb7260d85e1d925da80691a357d2c2c0e7423d",
+      "bytes": 35030,
+      "characters": 34933,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              34933
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              34933
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "Dreamcast资料限定日本初售版（1998）、33.6kbps modem，排除北美1999 56kbps；查询SEGA “Dreamcast”、2026-10-13。首图题为Sega-dreamcast-set、实为NTSC主机配PAL手柄/VMU组合，Asim Saleem于2009拍摄，CC BY 3.0；与日本版边界需核对，不能把地区组合误称目标版。 第二候选为Dreamcast swirl.svg，来源描述原文“rough sheep from Dreamcast but a swirl”语义异常；Credit仅转自英文维基，artist列Sega-Kenji Eno，标CC BY-SA 4.0。记录这种来源元数据不确定性，不自行纠正。 第三条Dreamcast alternate logo由维基转入、日期1999-09-09，版权字段public domain/无须署名，却明确Restrictions=trademarked，并有PD-shape/textlogo/SDC状态类别；商标限制是保留的必要否定。接着第四候选为主板顶部。 第四条主板图说明直接称北美1999发布机型而非日本1998样本；Evan Amos 2015自摄、PD-self/全球公有领域陈述，类别含机芯与芯片零件号。候选可展示硬件内部，但不是目标区域版本，需保留地域错配。 第五项不是主机图而是Dreamcast GPU芯片微照，具体芯片315-6226-X1；上传者称自己拍摄并给CPU Grave Yard来源，类别列GFDL/多个CC BY-SA版本并提示许可迁移冗余。 GPU芯片微照末段选择CC BY-SA 4.0，署名和相同方式共享；下一个候选把Dreamcast与GPU一并展示，Commons类别为CC-Zero。 第六条Dreamcast+CLX2 GPU图作者Fritzchens Fritz、CC0无需署名，准确描述芯片为NEC/VideoLogic PowerVR Series2；第七条突然是Sega Saturn日本Mk2手柄，属于“SEGA”广泛查询带来的跨机型误命中。 Saturn误命中照片明确是第二代白色日本Saturn手柄，作者Evan-Amos，分类Unassessed QI candidates；此条不是Dreamcast控制器，许可段继续待读。 Saturn项许可CC BY-SA 3.0，署名与相同方式共享适用；第八条是布达佩斯2014年Regamex展出的Sega Katana Dreamcast开发机，可能不是零售日版，具有展览/开发样本属性。 第八条为2014匈牙利Regamex展览中的Sega Katana Developer Box，不是零售机；Christo自摄、CC BY-SA 4.0署名和相同方式共享。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              34933
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              34933
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "首图上传者自摄，CC BY 3.0，AttributionRequired=true、版权保留且无额外限制；图像混合NTSC主机与PAL手柄并含VMU，许可复用不等于适配日本版的实物证据。 Dreamcast swirl标CC BY-SA 4.0，署名和相同方式共享，许可迁移前后需保留来源说明；1999年原标识。Commons描述语义异常，因此不要按它判定图形内容。 Alternate logo版权项为Public domain且不要求署名，但Restrictions明确trademarked，商标类别仍须谨慎；原文自带PD shape/textlogo标注缺失版权状态。 主板图的摄影者明确把作品放入全球公有领域声明，署名可选；它说明的是1999北美设备，且处理器时钟叙述限定在来源描述，不可将其规格当日本初代佐证。 GPU die照片许可元数据既列GFDL又列多代CC BY-SA，权利人声明可选其一，当前Commons字段选CC BY-SA 4.0并要求署名/ShareAlike；后续重用依据明确选择的版本。 下一个主机+GPU组合图来源Flickr、Fritzchens Fritz，标CC0/PD dedication且无需署名，日期2018-09-15；描述内含编辑元数据图标，应辨别为页面标记而非原说明。 主机GPU图片CC0/不要求署名/无其它限制。Saturn误命中有明确CC BY-SA 3.0，署名+相同方式共享，第二代白色日本Saturn手柄有单独来源与许可，不能与Dreamcast对象混同。 Saturn手柄对照条目虽系误命中，但来源文本明确描述第二代标准白色控制器及Evan-Amos拍摄，应保留准确反例。 开发机展览照片CC BY-SA 4.0并要求署名；即使展示Dreamcast相关硬件，也应注明Katana开发箱和2014布达佩斯展会语境，不能当成零售版。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              34933
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              34933
+            ]
+          ],
+          "focus": "逐句文风候选及必要否定、历史原文保留理由",
+          "notes": "Dreamcast日本版元数据中，首图组合存在NTSC/PAL跨区混搭；型号/许可事实与图像适配须并行保留。原始查询易召回logo、主板、芯片、Saturn及Katana开发箱，应完整保留否定与其各自来源。 首图文字是短的客观器物说明，不是日本版叙述；NTSC/PAL组合误配应保留作为检索结果的历史限定。整体候选记录的标题原样、源链接、原图URL构成的是可复核清单，不应润色来源原文。 swirl条目图片说明“rough sheep … but a swirl”是语义异常短语，可能是历史转入错误/非客观用语，需逐字保留并以主标题/图像类别校验，不能悄悄改为官方logo描述。 Alternate Dreamcast logo仅有简洁索引标题，类别同时留PD形状/文字与商标限制；这类权利的双重状态不能从“PD”单字归一化，作为历史必要否定保留。 主板条目以陈述句交代设备版本与处理器/频率，属于来源说明，不自动变成馆方验证事实；1999 North America的限定词必须连同200MHz/100MHz规格保留，避免删去地区限定导致错配。 主板版权人声明PD而不需署名；GPU显微芯片图另有“IC photo”极简说明和多个可选择/迁移授权文本，保留原始冗余对历史权利链很重要，不能简化为单一许可描述。 主机+GPU组合图题面是并列标签“SEGA Dreamcast / Graphic Processor (CLX2) / PowerVR Series2 by NEC and VideoLogic”，而非句子；其型号与厂商词需精确保留，夹入HTML编辑标识是Commons抓取原始脏标记。 GPU组合文字含页面编辑链接HTML不属于作者句子；底层短说明精确列CLX2和PowerVRSeries2。后项Saturn的说明采用两句解释地区/机型，哪怕误命中也应保留完整的设备辨别信息。 Saturn图的正文性说明非常清楚点出Japanese、white version、second model；如此精准的负例说明搜索误差不能由标题中“JP”而忽略。 Sega Katana最后一条两行caption把Developer Box和布达佩斯展名分列，清晰保留展览对象及地理语境。即使不适合作日本零售图，它作为开发设备/展陈史实不能被误标为普通Dreamcast套机。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–717; chars 0–34933 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–34933 (exclusive end), lines 1–718; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/ricoh-gr-iii.third.json",
+      "sha256": "3515c229206857e407406c28712972bef5dd21acfb69de3bc0df20df0b176638",
+      "bytes": 35332,
+      "characters": 35049,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35049
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              35049
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "顶层为标准GR III，排除GR IIIx/HDF/Street Edition，查询Ricoh “GR III”。第一候选标题GR III(5)，德语描述称绿镜头环，但元数据“Taken with Ricoh GR IV”表明拍摄设备为GR IV；需区分被摄机型与拍摄机型。第二候选明确GR IIIx，地区/焦段版本不符。；第三候选“without ring”为标准GR III机身，描述写无内置闪光灯、装饰环下有外露三电子触点；第四Tokyo GR Space图片为2026-06-28所摄，标题写GR III。先前GR IIIx许可尾部同区间已显示CC BY-SA 4.0。；Tokyo GR Space候选署名John Cummings，CC BY-SA 4.0；第五候选为GR III镜头识别特写，作者之乎/Search255，说明GW-4外接镜头的三触点；第六张题为固件更新的GR III照，作者Kazuhisa OTSUBO，原始上传日期2024-10-13，Commons元数据时间2026-05-06。；GR III固件更新图许可CC BY 2.0、署名required；接续候选为灯泡静物而非GR III照片本身，只是由Ricoh GR III拍摄。Jules Verne Times Two权限块要求醒目可见署名，若不能提供格式应事先联系；原样记录限制，不执行联系/编辑命令。；末条人物穿过窗栏影子的照片由Jules Verne Times Two拍摄，日期2022-09-10，分类有人格权警告，许可Restrictions=personality；这是最重要的使用限制，需同CC BY-SA署名要求并存。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35049
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              35049
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "首候选授权CC BY-SA 4.0、署名必需、版权字段True且限制空；描述说GR III主体但摄影器材为GR IV。第二GR IIIx另有坐标和作者曹原，许可证字段未读完。；GRIIIx和标准GRIII without ring都分别标CC BY-SA 4.0、署名required、copyrighted true、restrictions空；Tokyo GR Space同款类型许可为CC BY-SA 4.0，位置/日期在 metadata 中单独记录。；Tokyo候选许可CC BY-SA4.0、署名真/版权真/限制空；GR III LENS同为CC BY-SA4.0需署名；固件图标记CC BY2.0，但类别同时标示SDC版权许可/状态缺失，需要忠实保留这个档案层面的缺项。；固件图明确CC BY2.0、署名required、版权True、Restrictions空；灯泡作品除CC BY-SA4.0外另有permission文字，要求线上可见署名（悬停提示不足）、若不能按格式则计划使用前联系，授权外收费使用/问题亦联系；字段Restrictions虽空仍保留该补充内容。；灯泡作品权限块按在线和印刷指定可见credit区分，字段Restrictions空；末条人物照片标CC BY-SA 4.0但Restrictions=personality并标人格权警告，人物权利限制需与版权许可区分。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35049
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              35049
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "措辞保留标准GRIII与IIIx/HDF/Street Edition的边界；首条德语原描述“mit grünem Objektivring”，但摄影器材说明为GR IV，应保留此区别。第二项中文文案含不可见零宽字符及26.1mm信息，原始字符串不应润色或删字符。；GR III without ring页面的原描述有HTML段落和英文句式/no built-in flash，应保持原格式语义；Tokyo标题/描述含空间场所名，不将其改为产品特写，且上载DateTime晚于DateTimeOriginal。；Lens识别图维持原英文断句及“External Lens(GW-4)”表述，作者署名为中文之乎；固件照片description保留日文原句和外链锚文本，不擅自翻译成更新操作说明。；固件图原日文句含近期亲属活动语境，不将其自动解释成固件更新实际内容；灯泡图类别称“Taken with Ricoh GR III”而非GR III产品照片，保留为相机使用的旁证；permission中有“do not overwrite/email”等档案文字，不执行。；结尾肖像照片的拍摄者、描述、人物权利警告和CC BY-SA条件共同决定其可用范围；保存名字、Lisbon场景与date字段，切勿把版权开放等同于肖像无限制。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–780; chars 0–35049 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮资源/输出上下文不足以逐块完整呈现并由模型通读；未以脚本扫描或抽取代替阅读。",
+        "review_notes": "尚未通读，未作内容审阅。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/complete-wave-gaming-02.md",
+      "sha256": "4201cac9b78a26b71e4e843b1adb3b7d124d4aa1848cfc2738c35db18ac598c1",
+      "bytes": 35664,
+      "characters": 15600,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              15600
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              15600
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "8件游戏正文待统一核验与导入，基线称保全原40快照+complete-batch-14、ID待协调。Super Famicom条目标1990日本原厂逐型推出、原代日本版；来源G150-S012/CWG-S008（逐型历史与宫本茂访谈），明确排除北美SuperNES壳体/按键与欧洲设计，不用Classic Mini内置菜单/存档/回放回填，FC直接对照。N64为日本原厂逐型记录1996，来源G150-S012，CWG-S009/S010含游戏手册证据；与PlayStation光盘路线并列，手册明示欧洲版示例，不能直接定日本软件。开篇还出现GBC 1998原厂回顾，尚待读后确认型号范围。 Game Boy Color条目完整：1998原厂回顾；G150-S013原厂软件分类、CWG-S011；普通GB/GBC共用/GBC专用卡带边界清楚，普通GB色板模拟不是内容重制，不借后代背光/联网。GBA条目标日本原版横向AGB、2001推出，G150-S012/CWG-S012原手册四类卡带、电池、反射型TFT与光照条件，分清旧软件限制、手册标签朝向/关机/线缆使用；排除SP/Micro改型，不把线缆任意混用。GameCube开始界定日本原版2001、排除DOL-101/美国版，8cm专用小光盘、手柄首要A键；来源有原厂逐型及CWG-S013/14/15。 GameCube段进一步区分开盖/上盘/取盘来自后期美洲手册，明确不外推日本供电/接口；八厘米专用盘，不是通用影音盘，存档另用记忆卡。原机日本版与DOL-101/美洲版本分开。3DS原代CTR-001，日本2011，来源G150-S012/CWG-S016原日本手册；区分3DS与DS/DSi软件能力、New3DS/2DS与后来网络服务，旧DS内容不获得立体画面。Wii U为2012原代日本主机，G150-S012/CWG-S017，GamePad是依赖主机的第二显示/输入面，不是独立掌机；手柄充电和主机供电分开。 GameCube手柄使用新增细节：手册装盘动作明确取自后期美洲版，不外推日本供电/连接；A确认菜单、保存另用记忆卡、盘是只读，适用范围是游戏流程而非可读影音盘。3DS日本CTR-001(2011)主张来自原厂逐型与原日本手册，立体/DS兼容按格式说明，不把联网服务当现存。WiiU原日本版2012，欧洲2017修订手册仅用于部件/基本连接，非首发完整服务清单；GamePad离开主机不独立运行。Switch Lite按季报事后确认2019-09-20 JP/US上市，原厂季度表与当前FAQ分工；固定控制器、无TV输出/内置支架，兼容与配件状态须逐游戏核对，FAQ非首发时状态或实测。 末段来源表给出GameCube操作手册的限定页码和只采用共通基本动作、3DS手册CTR-001身份、2017 WiiU修订版范围及Lite FAQ的不能TV输出/无内置支架边界；Nintendo公司史、英国硬件史、2019公告和2019Q2发布表各自支撑对应型号年份/发布意图与实际上市日期，不能混为一证。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              15600
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              15600
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "Super Famicom来源G150-S012原厂逐型年份+CWG-S008 2017宫本/开发者访谈，属于设计参与者回忆，不能说“所有人舒适”或开发者唯一影响后代；SuperFX只作部分卡带例。原机和SuperNES地区机壳/按钮不同，Classic Mini菜单/存档/回放不回填。Nintendo64来源G150-S012及CWG-S009欧版《Mario Tennis》手册、CWG-S010官方配件页；手册的操控/中立位/多人示例是具体欧洲游戏，存档/震动/Expansion由软件支持，不能泛化到全部卡带。Game Boy Color来源G150-S013原厂回顾+CWD-S011原厂分类表，明确卡带可用范围；手册/配件/网络并未全面核查，不能从相似卡槽推兼容。 GBC型号兼容边界由原厂卡带分类表支持，不是全配件兼容。GBA实证来自G150-S012逐型记录与2007编排修订的原AGB欧版手册CWG-S012，补充标签插向/先关机、光照和类别；说明手册修订年份不当2001服务状态。旧GB显示/音频限制、GBC暗度需保留，不推定所有内容兼容。GameCube日本首发身份由原厂年表；通用装盘/菜单操作另依后期美洲RevE手册（DOL-001/101），只限共通动作，不套美国电源/接口到日本。 Nintendo 3DS限定日本CTR-001，G150-S012逐型年+CWG-S016原日本手册；DS/DSi只能按手册模式运行，不得加3D；通信/Home限制与地区卡带边界原文保留，服务后续状态不作今天承诺。WiiU日本2012、依据G150-S012+2017修订欧洲CWG-S017手册，部件/同步/充电有限支持；不据此称2012完整服务项，GamePad依赖主机，配件/双屏能力需软件支持。Switch Lite采用G150-S015公告当时计划与G150-S016后发季度表证明实际2019-09-20日美上市，当前CWG-S018 FAQ列无TV/内置支架及额外配件；正文有分清事后上市、当下FAQ和实际能力，未做续航/舒适实测。 最后来源清单显示15条URL与指定章节/页数、来源角色和限制：原厂年表、访谈、手册、官方配件档案与当下FAQ需区分；例如CWG-S012为2007排版修订，不是2001服务证明；CWG-S017为2017 Europe修订，不是2012完整情况；日美上市以事后IR季度表为实际证据；区域手册不套日本接口。全文件连续覆盖，pass2完毕。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              15600
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              15600
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "逐句风格及历史原文保留理由：批次头保留“完整文字待统一核验与导入”、基线快照和关联引用通过状态，是版本/阶段状态证据，不能改成已导入。Super Famicom开场/段落以控制器、电视和实体卡带说明其日常任务；“部分作品”与“开发者回忆”限定适用范围，必要保留地区版与Classic Mini反例。Nintendo64以“模拟摇杆读取倾斜方向与幅度”对照离散方向键，示例来自《Mario Tennis》而非普遍玩法；保留原手册中立位和ControllerPak依软件而异等否定。GBC三类卡带是清晰分类候选，继续保留旧机不兼容专用卡、配色不是游戏重新制作。 Super Famicom开篇“更多按钮同样决定软件能如何安排操作”可作为结构主题，但明确原代日本/北美壳与按钮不同；段落给SuperFX“部分作品”示例，不许写成每盘都带额外运算。Nintendo64的压感/倾斜输入用于说明动作差异，别将《Mario Tennis》特定用法变成普遍规则；保留中立校正、需要设备端口和保存方式依游戏。GBC卡带三分类是一条可保留的清楚说明，尤其原GB不兼容GBC专用；保留“不是软件自动改写”的否定，避免色板显示宣传成重制。 GameCube段落将美版手册有限借用于常规设置，不挪用美版电源/连接步骤解释日版；专用8cm光盘与独立记忆卡需保留，不能写成通用影音盘。3DS部分强调滑杆、触屏等输入差异，同时保留DS/DSi不显示3D、New3DS增强功能不适用于旧机的边界。Wii U段“离开电视与离开主机是不同的事”概括其GamePad仍依赖主机；欧洲手册只作后期限制性佐证。Switch Lite把2019上市事实与当前FAQ分层；固定控制器、不能电视输出、无内置支架这些否定需逐项保留。 末段来源清单把GameCube说明书限定为共通基本动作，明确不套美国电源/接口；3DS/WiiU手册分别按CTR-001和2017修订版限定适用范围；Switch Lite FAQ区分手持/桌面配件与不支持TV的事实。公司史及公告/PDF分别支持年份与当时计划/实际上市日；来源摘录本身不扩张兼容性或服务结论。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–230; chars 0–15600 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–15600 (exclusive end), lines 1–231; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-home-07.md",
+      "sha256": "b2f0ccc67263c232d8243122f0eca734c4aa023251f9c4ca7145e0f2c423b814",
+      "bytes": 35820,
+      "characters": 17406,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              17406
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              17406
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "这是面向读者的第7版家用/移动/佩戴修订包，含POCKETALK W、Roborock S7、DIRIGERA、FP2、Victor Reader Stream 3、S10、FP400等对象，每件统一按背景/设计/使用/意义/取舍组织；多处明确把公告、地区现售、目录存在锚及后续网页版本区分。来源表给出具体日期、版本限定及未核奖项/当前服务的边界，关键否定如“非医疗”“不是首发全球发售”“不把后来功能倒推”是文本证据链的一部分。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              17406
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              17406
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "多处用原厂公告、说明书、目录锚和同期署名评测分别支撑日期/功能/体验，并明确其证据作用不同；保留的操作边界包括POCKETALK两年通信与Wi-Fi更新分离、S7维护由人承担、DIRIGERA Matter-ready不等于首发已实现、FP2模式互斥且非医疗、S10两座与两种水路不等同、FP400第三方Thread仅整体存在与光照。许可或功效不因产品页营销表述而扩大；来源表还注明搜索索引等级未读全、未独立实测和不将后续版本倒推。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              17406
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              17406
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "这篇修订持续用“读者要点＋背景/设计/使用/意义/取舍＋来源”建立可读结构；每个对象的叙述常落在具体操作与边界。可保留的文风候选是将感知、传输、执行或维护拆成不同环节，并在末段明确证据能证何事、不能证何事。必要否定包括型号排除（S7非MaxV/Ultra、FP400非Pro）、地区/日期界限、模式互斥、未实测、无长期可靠性推断及不将后续网页功能倒灌首发。来源清单中的来源类型和未核标注也是历史原文理由，应与展品正文一同保留。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–297; chars 0–17406 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮资源/输出上下文不足以逐块完整呈现并由模型通读；未以脚本扫描或抽取代替阅读。",
+        "review_notes": "尚未通读，未作内容审阅。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/asus-rog-xbox-ally-x.fourth.json",
+      "sha256": "0f79bdb0bffd24e0d4f414be637d0257eefac9244d6cf237415cb35b1a36b4c3",
+      "bytes": 35972,
+      "characters": 35250,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35250
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              35250
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "ROG Xbox Ally X 对象明确为2025年合作款，与2024 ROG Ally X 区分；检索日 2026-10-13。首候选是极客湾 YouTube 截帧/导出，视频发布 2025-10-15，CC BY 3.0 且署名要求明确；另有 Tokyo Game Show 2025 展示现场图候选。；东京电玩展照片为 Ally X 控件局部并明确记录日期、场馆、ASUS/RoG展位，作者 RuinDig/Yuki Uchida；另有2026文件自称 Ally/Ally X，以及商标文字Logo图，需区别产品实物照片与标志。；出现 Ally X 文字Logo与“AI Gaming PC”文字/图标图；描述明确其PD based on threshold of originality，但仍标 trademarked。两者并非设备实拍，不能因名称匹配用作实物图。；YouTube 截图系列重复同一视频发布时间与作者署名，亦出现 Xbox 文字标志候选；截图来源链可追溯，但评价文案是视频宣传内容，不等同独立性能证据。；尾项仍为同一 2025 YouTube 视频截图；总候选混合展会实拍、视频帧和文字Logo，来源/年份需逐图保留。合作款年份2025、源视频宣传信息不可替代独立产品描述。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35250
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              35250
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "图像许可审阅：YouTube 帧图页面标 CC BY 3.0，署名极客湾Geekerwan，需保留来源与作者；描述含评价性的“最佳手感”说法，属于视频原文宣传陈述，不等于独立验证。；展会局部图 CC BY 4.0，署名 RuinDig/Yuki Uchida；Ally X文字Logo图则 BY-SA 4.0。局部场景照片与品牌文字图许可条件不同，且并非都适合作实物主图。；两个文字/图形Logo候选一边标 Public domain，一边标 trademarked；许可行与非版权限制行分别理解。它们不授权产品实物复制或商标商业背书。；视频截图许可和同一视频源记录重复多次；应把 CC BY3署名及其内容来源说清，不能把视频内容视作已获公开操作或拆解许可。；末项仍是相同 YouTube 截帧 CC BY 3.0。候选许可有 BY3、BY4、BY-SA4、PD textlogo 多类；PD logo仍可能有商标限制。未见授权拆机/通电操作的说明。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35250
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              35250
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "逐句文风：regionVersion 用短句把 2025 合作款与 2024 ROG Ally X 区分，这是关键否定边界，必须保留。YouTube中文标题、德语宣传说明和授权元数据同时出现，来源文本不宜混合改写成事实陈述。 本块读至TGS现场照片的精确描述与拍摄时间（2025-09-27），可支撑按键布局观察；后续出现2026-01-10上传的自发布图与CC BY-SA 4.0声明，应保留上传日期与作品授权分离，不能把上传时间误写成产品发布日期。 本块延续查看两条自制标识候选：PD-textlogo 表述明确限制在版权层面，同时明示 trademarked；AI Gaming PC 标题与描述内设备/徽标组件不完全同名。逐句保留这种目录字段错位与“PD不等于无其他限制”的提示，避免归一化抹掉历史证据。 本段又见同一Geekerwan视频帧，中文标题配德语描述中的主观“最好握持”宣传句；该句必须作为上传页原文/主观评价留存，不能升级成独立事实。标题含全角感叹号重复与短时间戳式文件名，保留原始样貌可避免编辑性修正改变来源指纹。 末段重复YouTube帧元数据，仍是同一来源而非新增独立授权/性能证据；明确保留 Commons 对文本标识“Public domain”同时“trademarked”的必要否定。完整 pass 3 逐句读完，历史字段层级与重复候选应原样保留。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–728; chars 0–35250 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–35250 (exclusive end), lines 1–729; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/samsung-the-frame-ls003.fourth.json",
+      "sha256": "d95251dbbcbedcee7ee64c7fbef9563e89e591d6e09794fdd7749eeacb3ede13",
+      "bytes": 36305,
+      "characters": 36107,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              6000,
+              13000
+            ],
+            [
+              13000,
+              20000
+            ],
+            [
+              20000,
+              27000
+            ],
+            [
+              27000,
+              34000
+            ],
+            [
+              34000,
+              36107
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              36107
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "型号限定The Frame 55 LS003欧洲版、不混后续LS03与地区调谐器，query “Samsung” AND “Frame”。首候选为香港Christie’s拍前展览照片，日期2021-11-25，摄影者和CC BY-SA 4.0署名信息明确；与电视型号LS003无关，Frame仅泛词命中。 第二候选西班牙文“barnizado del marco”（给画框上漆），手持Samsung Galaxy Pocket拍摄，2015，Florencia996账号缺页、CC BY-SA 4.0；是实物装裱/框饰而非Samsung电视。第三项圣彼得堡Putilovskaya地铁站照片，2025，Artyom Svetlov、CC BY 4.0。 第四命中Arthur Kill地铁站入口/天桥，拍摄2025、摄影者Tdorante10、CC BY-SA 4.0，说明非常长但具体地名/结构；与电视无关。第五为Henri Edmond Cross的The Glade绘画（题名为多语标签），Samsung Galaxy S8是拍摄设备元数据，不是被拍产品。 Cross绘画条目用多语Wikidata标签解释“frame”误报，作品日期约1906–07、PD-Art，匿名/摄影式数码复制者为anagoria。第六项欧盟官方公报C303(2013)PDF是政府出版物且标PD EU/attribution-only分类，明显非电视。 第七项Climate Strike游行，描述摄影者说稍后用全画幅相机补图，使用三星S23 Ultra；明确有Personality rights warning，虽CC BY 4.0仍应保留限制字段。第八项学校窗框修缮工程，摄影者Sam Wilson、手机S21 FE，Frame是窗框语境而不是The Frame电视。 第八项学校窗框翻修图写明2023-12-02拍摄、Sam Wilson、Samsung Galaxy S21 FE，CC BY-SA 4.0。该组8候选靠Frame歧义命中艺术品/拍卖展/地铁/窗框等，未见LS003电视本体。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              36107
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              36107
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "产品名为LS003而非泛称The Frame，结果检索词却只用Samsung+Frame，首项香港拍卖预展环境照，摄影设备Galaxy A20，说明/坐标与CC BY-SA 4.0均属该场景，完全不证明电视型号。 框架上漆照片类别Picture frames且许可CC BY-SA4.0，人物/摄影者账号未建立；不因标题含Samsung类别误作本体。Putilovskaya只列地铁站名和拍摄技术参数；日期依据EXIF，CC BY4.0署Artem Svetlov，绝非三星屏幕。 Arthur Kill长说明有定位语句与比较性描述，天桥结构细节来自摄影说明；CC BY-SA 4.0及署名Tdorante10。Cross条目被Galaxy S8相机元数据命中；年代1906–07、画家/PD-Art权利状态说明的是画作，不是电视。 Cross字段保留Galaxy S8拍摄来源、作品年代和PD-Art标记；credit为anagoria，并非把复制者当画家。欧盟公报条目虽然结构化许可Public domain / attribution false，但Categories同时写“attribution only license”和欧盟license，原始冲突需保留核查。 Climate strike图为示威者现场照片，类别标人物权利警告、许可CC BY 4.0、Restrictions=personality；任何引用须单独处理肖像/人物限制。窗框修缮又明确提住宅式窗构件，CC BY-SA 4.0，日期写带时区的EXIF。 窗框图许可CC BY-SA 4.0要求署名及Share-Alike，摄影者设备记录亦保留。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              36107
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              36107
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "风格复读：顶层用型号/地区/不混后续/调谐器地区分等短字段明确边界。第一长文件名保留繁中与英语地名/Christie’s Auction等并置，摄影者的展览描述极具体；这类误命中有助回放检索词造成的歧义。 第二条原西班牙语图注短而小写，保留为照片原文；不擅自修饰。第三条解释线路站名、EXIF限定、器材参数及许可，summary只缩短成站名，但元数据保存长版本可支持追溯。 Arthur Kill段落包含第一人称行走视角，地点链条很长，并用“missing the meat”作不正式比喻；保留这种地方性行文，不能被压成中性定义。Cross画作的跨语言题名、准确画家/年代和PDArt版权元数据提供比较反例。 第3遍续读：Cross条目在这个区间后半完整落下，Artist字段为Henri-Edmond Cross、PD与日期1906–1907；页面摄影/复制贡献与画家字段要分开读。紧随其后的欧盟公报PDF在类别中含Attribution only license及PD-EUGov/European Union license，但结构化CommonsMetadata多项写Public domain、AttributionRequired=false、Copyrighted=False、License=pd；保留类别和机器字段的内部冲突，不能替它裁决。该条日期一处元数据上传时间2025-05-16，一处原始发布时间2013-10-19，需区分上传与文件日期。 再续读：游行图文案括号里说全画幅相机的更多照片会在电脑恢复运行后上传，保留这种自述和时间状态；同时类别明确Personality rights warning，Commons metadata Restrictions=personality，即使CC BY 4.0也不消除当事人权利顾虑。照片的拍摄时间15:12:32与DateTime上传值19:28:25不相同，须区分字段语义。最后窗框照片图注仅一句陈述，带非断行空格和结构化编辑控件HTML；原始著作权为Sam Wilson，设备Samsung S21 FE仅说明拍摄来源。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–763; chars 0–36107 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮资源/输出上下文不足以逐块完整呈现并由模型通读；未以脚本扫描或抽取代替阅读。",
+        "review_notes": "尚未通读，未作内容审阅。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/hamilton-pulsar-p1.fourth.json",
+      "sha256": "658ef42f82c3240fa37e8db5d8aad1087172160ed364feae95a80cb011103bf6",
+      "bytes": 37243,
+      "characters": 37227,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              37227
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              37227
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "查询Pulsar AND \"P1\"、2026-10-13；首条天文脉冲星时序阵列示意图，Artist Hfst，日期2023-07-01，CC BY-SA 4.0。主题为引力波与pulsar P1...Pn，不是Hamilton手表，属关键词误命中。 脉冲阵列说明是完整科学解释，含HTML去标签后的文字，描述了脉冲间隔/引力波检测；第二候选为量子纠缠动画，预计为另一个P1缩写噪声。 纠缠GIF长篇分三部分解释光子极化测量，作者JozumBjada自摄但用户页不存在，CC BY-SA 4.0署名必需；与钟表无关。 第三项是Physical Review C论文PDF，讲夸克胶子等离子体光子发射，Kirill Tuchin，CC BY 4.0并需署名，显然是Pulsar P1关键词误召回。 PDF论文明确许可CC BY 4.0署名，不能因其来自期刊就视为版权无关；第四条Møller电子散射u-channel费曼图是CC0自制图，和手表、pulsar均无关。 Møller散射图CC0、无需署名；第五条量子偏振测量动画由前述纠缠动画同一用户JozumBjada制作，解释单光子经过偏振分束器的过程，也是学术主题噪声。 量子测量GIF说明以H/V/D偏振和坍缩过程长句解释，并使用拟人化“chooses”，其作者/许可证同纠缠动画；这是作者科普写作风格，保留来源原话不混入钟表文案。第六条又是Physical Review C强子物理PDF。 第二篇PRC PDF继续为核子/偏振测量摘要，作者三人、CC BY 4.0需署名，检索噪声。接续条目S750 loops SVG需判断是否Pulsar系统组件。 S750loops其实是可能的双光子生成费曼图，作者账号未建，CC BY-SA 4.0；继续出现事件视界望远镜PDF，属于P/P1/Pulsar关键词噪声。 EHT论文PDF摘要谈M87黑洞成像、环形结构和影像程序，Collaboraton authorship，CC BY 3.0需署名，是天文词汇噪声。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              37227
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              37227
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "首条作者自制科学示意图，CC BY-SA 4.0，署名且后续衍生相同方式共享；主题是Pulsar timing array的波霎P1...Pn，不是Pulsar手表。 Pulsar示意图完整caption说明地球-波霎距离和脉冲周期变化如何关联引力波，但它是作者科学插图，不作Hamilton产品证据；长解释下一个量子动画开始。 纠缠动画作者JozumBjada用户页未建，授权CC BY-SA 4.0，需署名及相同方式共享，其他限制空；长说明来自作者，不把其作为钟表脉冲机理资料。 Quark-gluon plasma文章摘要来源为Physical Review C，Kirill Tuchin，CC BY 4.0署名/许可链接必需；学术内容与手表名查询词无关，不能因开放许可就变成相关候选。 Quark-gluon paper保留作者版权、需CC BY 4署名；Møller散射示意由TDF自制并CC0无需署名，许可字段与期刊文档不同。 量子光子动画说明写拟人化“chooses”，CC BY-SA 4.0并要求署名/ShareAlike；属于作者科普说明，和产品文本区分。 量子测量动画许可署名已核；下一篇PRC论文作者与出版元数据需单独按其CC授权处理。 第二篇PRC论文需CC BY 4.0署名，作者三名，摘要讨论deuteron光/电产生和偏振可观测量；期刊出处不替代Commons版权字段。 S750loops费曼图CC BY-SA 4.0、署名及ShareAlike，作者用户页未注册；非手表。接续EHT论文的来源和授权。 EHT论文署名为合作组织、摘要讲M87黑洞成像，类别标2019-04-10来源；需继续确认CC BY 3的署名项。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              37227
+            ],
+            [
+              24500,
+              28000
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              37227
+            ]
+          ],
+          "focus": "逐句文风候选及必要否定、历史原文保留理由",
+          "notes": "表面上题为Hamilton Pulsar P1，实际候选全部为波霎天文/量子/核物理/黑洞内容，属于搜索噪声；保留false-positive历史有助修正查询精度。 首条科学图caption是说明性因果句，主题精确讲脉冲星时序；但Hamilton产品实体不同，否定判断要与检索词重叠理由一同保留，不能当成Pulsar手表故事文风。 量子动画解释采用三阶段结构和术语密集句，明确把纠缠态与经典相关对比；属于作者的教学写作，不要摘要时误称其在讲手表“P1”。 量子说明的“photons ... stations ... three parts”是信息量大的说明句，作者账户缺失但授权字段完整；此文本历史上来源可审计，保留作者措辞及缺失账户状态。 Quark-gluon论文摘要采用正式科研被动表达，术语密集，并非产品风格样本；不要把关键词photon/atom等当Pulsar相关。 科研摘要仍是详尽机制陈述，准确保存符号和作者归属；其后Møller条目一句话就是功能性图说明，科学内容和CC0来源都明显离题。 Møller条目保留标点规范“u-channel Feynman Diagram”短句，确属电磁过程插图。下一量子光子说明的拟人用词带教育性修辞，应标成原作者语体而非馆方叙述。 量子GIF解释以完整句结构展开，主要比喻“chooses”需保留在源描述中，馆方引用时要标示其教学类比而不是量子物理原始术语。 逐句风格：候选条目沿用 Commons 文件名、来源链接、元数据键值与许可字段的目录式原文；S750loops 是 Digamma 产生过程的 Feynman 图，不是手表 Pulsar P1 图像，必须保留为检索误命中的历史反例；作者与 CC BY-SA 4.0 要求是候选自身信息。 EHT 候选段是 2019 年 M87 黑洞成像论文摘要，细述 2017 观测、成像方法与结果；它与 Pulsar 手表无关，保留为搜索污染实例。原始摘要、协作组署名及 CC BY 3.0 授权关系是原档证据，不应改写成博物馆叙述。 文件末段回到 EHT 候选许可与结构化描述，明确 attribution required、CC BY 3.0，并将论文摘要、协作组和日期再次作为候选元数据保留；文件闭合于 JSON 数组/对象末尾，第三遍连续覆盖完整。 补齐实际重新显示并审读的 [24500,28000)：内容是 PhysRevC 论文中散射截面与偏振观测的描述及 CC BY 4.0 作者/署名要求，研究对象为介子光/电产生与氘核，不是 Pulsar 手表。该非关联候选作为搜索误命中保留，论文原摘要和署名许可不得改写或删去。此前区间登记遗漏，此次已真实复读后补录；与邻接块区间并集现连续覆盖全文。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–705; chars 0–37227 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–37227 (exclusive end), lines 1–706; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/sharp-r10.openverse-round2.json",
+      "sha256": "2159bea010ec0f94e64c6a8d9576ea854df840579a57ca420f3d8a2aa9e9e2f0",
+      "bytes": 37807,
+      "characters": 37598,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              37598
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              37598
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "R10 Openverse档案查询为R-10，核查日2026-10-15，240结果/12页/每页20。本段前四个候选分别是音乐曲名、Renault R10、希腊交通标志R-10和约瑟夫·布兰特肖像；型号数字/短串有明显语义歧义。来源含Flickr与Wikimedia，候选原有CC BY/SA版本。；Josef/Thayendanecken肖像有标题后缀S-R-10、仅题名匹配；La R 10 de 1969实为R10名称宽泛且多汽车品牌标签，Public Domain Mark；BMW R10又是摩托车原型（1954），均非Sharp R-10。；后续有Redlands大学健身房/邮箱题名、Rhodothermus marinus微生物、Brasil R-10 SVG（疑航空命名）和俄罗斯10卢布钱币，都是字符串R-10匹配而非Sharp R-10相机。Openverse结果保留原许可与provider信息以说明误命中类型。；本段继续显示1886俄罗斯硬币、Redlands大学Fight Song、Volvo S60 10/10评分和Norfolk Southern铁路R-10地点/车辆项；R-10并不唯一指代相机。来源/许可均作为搜索结果原始元数据保留。；本段包括Redlands日晷、波兰环波罗的海自行车路线R-10、黑山R-10地区公路SVG、乌克兰村名/文件名后缀r10、Bentley Continental命名，皆为地理/道路或汽车歧义结果，未见Sharp R-10。；本段收束Bentley Continental R及日本R-10式战车（Type 10 tank）两条；整页结果集混杂音乐、车牌/交通标志、肖像、汽车、道路、自行车路径、微生物、硬币和坦克，未见明确Sharp R-10产品图。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              19000
+            ],
+            [
+              19000,
+              20500
+            ],
+            [
+              20500,
+              22000
+            ],
+            [
+              22000,
+              23500
+            ],
+            [
+              23500,
+              25000
+            ],
+            [
+              25000,
+              26500
+            ],
+            [
+              26500,
+              28000
+            ],
+            [
+              28000,
+              29500
+            ],
+            [
+              29500,
+              31000
+            ],
+            [
+              31000,
+              32500
+            ],
+            [
+              32500,
+              34000
+            ],
+            [
+              34000,
+              35500
+            ],
+            [
+              35500,
+              37000
+            ],
+            [
+              37000,
+              37598
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              37598
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "前四结果许可分别为音乐CC BY2.0、Renault汽车CC BY2.0、希腊交通标志CC BY-SA3.0、历史人物肖像CC BY-SA2.0；Openverse归档的attribution和字段匹配信息并非对图像主体/许可证当前状态的外部重核，保留provider与来源链接。；Joseph Brantの肖像候補はToronto Public Library Special Collections提供、CC BY-SA 2.0。続くLa R 10は1969年の自動車でPDM 1.0、BMW R10は1954年スクーター試作車でCC BY-SA 3.0。いずれも名前の一致だけでSharp製品画像の証拠にはならず、ライセンスも候補固有の記録として区別。；Currier Gym候选标题含U of R日期，字段matched description/title，Flickr CC BY-SA 2.0；Rhodothermus marinus R-10是生物名称，Wikimedia CC BY 4.0，仅title匹配。保留字段/许可来源与名称歧义，二者均与相机型号无关。；Brasil R-10候选为Wikimedia SVG插图，CC BY-SA 3.0，字段仅title匹配，名称指向巴西相关图形而非相机；Mail Boxes候选是Redlands题名，开头显示Flickr来源、摄影者inkknife_2000，随后许可字段仍在下块。；Mail Boxes记录继续：Flickr by-sa 2.0，匹配title，tag为mail/Redlands，许可和出处仅对邮箱照片有效，不能因标题里的日期/数字推成R-10产品图。；出现俄文1886年10卢布硬币反面记录，Wikimedia/匿名机构作者，CC BY-SA 4.0，title与description均命中；货币型号是独立词义，开放许可不能改变其非相机属性。；俄币条目闭合后为Fight Song, U of R 10-14-12，Flickr署名inkknife_2000，CC BY-SA 2.0，标签含chant/song/Redlands。仍是Redlands内容，R-10只靠题名数字片段形成误命中。；Volvo S60 R 10/10评分图开始，Flickr joerimages、CC BY 2.0；数字是评分而非相机型号，需保留题名表面的断句及许可署名。；Volvo记录 tags 明列car/s60/volvo，题名匹配、许可CC BY 2.0；紧接Norfolk Southern Railroad Mingo Jct, Ohio R-10，说明地点/铁路也触发R-10。；铁路候选CC BY-SA 2.0，tags为Mingo Junction/Norfolk Southern/Ohio/trains，完全不同领域。下条为Sun Dial, Appleton Hall, U of R 10-14-12，继续Redlands日期数字噪声。；Appleton Hall日晷记录为Flickr CC BY-SA 2.0，tags有university/sundial/flowers/redlands，不是产品主体。；日晷title-only匹配及开放许可字段完成；新候选是波兰语文件名，指波罗的海R-10国际自行车道，摄影作者Radosław Drożdżewski，Wikimedia CC BY-SA 3.0，名称是路线编号。；波兰R-10自行车道许可证CC BY-SA 3.0，匹配title/description，保留原波兰语文件名和署名。接下来R-10 regional road MNE指黑山地区道路SVG，Wikimedia CC BY-SA 4.0。；黑山regional road R-10是地理道路图，title/description命中、CC BY-SA 4.0；下个乌克兰语标题以r 10结尾，显示地点/文件名也可满足查询。；乌克兰科泽罗希村名照片条目Wikimedia CC BY-SA 3.0，仅title命中且文件名PC220044 r 10；下一个Bentley Continental R日期型文件名为CC BY 2.5。两者均属地点/汽车摄影而非相机。；Bentley记录CC BY 2.5且title/description都匹配，具体主体是Continental R汽车。末条开始为日本R-10式战车（Type 10 tank）照片，军用车辆而非Sharp相机。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              37598
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              37598
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "R-10查询行与第一条Funambulista曲名中的R&R-10保留音乐原串；第二条“R 10 in USA”须保留空格和美国广告/汽车语境提示，不能合并改写为相机型号。此处也保留原西语音乐标签字符串。；Renault照片许可附用户自定义metadata字段“used-car-advertisement”，而希腊R-10交通标志是道路标志图；portrait标题中的S-R-10只是档案编号，需保留历史人物全名与馆藏号，不得将其错误标记成相机主体。；人物肖像标签含历史人物姓名的多种转写/HTML实体转义字符串及Toronto收藏机构，保留拼写变体，不规范化标签。下一条“La R 10 de 1969”保持西语标题和车型年份语境，虽Public Domain Mark也不是产品图。；汽车tags混合普通拉丁拼写、重音符转义、阿拉伯Unicode与反斜线转义；原始编码差异应保留。下一条完整题名含德文Roller原型排量/马力/年份，说明第二类R10交通工具歧义。；BMW候选结束后，Currier Gym题名保留U of R简写、日期和逗号；Rhodothermus marinus R-10用拉丁学名和斜体式命名，维持原形式，避免将生物株号误当型号。；Brasíl候选极简标题“Brasil R-10”应原样保存其重音缺失样式；Mail Boxes是Redlands邮箱题名，与相邻Gym同一摄影者/系列标签，数字来自日期；硬币俄文标题单独保留币种、年份与反面说明，不做语言归一化。；保存俄币英文attribution模板/俄文字段配对；Fight Song沿用Redlands照片集标签和英语题名；Volvo S60 R 10/10的斜线表达是评分，不要在候选文字中删改成“R-10”。；Volvo条目明确tags/car/s60/volvo并以10/10表示评分；Norfolk Southern候选保留缩写Jct和地点/铁路字样，tag列trains。title-only检索原因应留在证据读法里，不抹去候选误报历史。；日晷候选的title和多项Redlands tags说明学校日常摄影系列；下一波兰语cycling route全名值得保留其diacritic和原始文件名，避免翻译造成R-10语境丢失。；黑山道路图保留MNE缩写和地区道路措辞，作者页是redlink式编辑URL，切勿把出处显示误作认证。乌克兰语村名/省份/PC220044编号条目以文件名后缀r 10命中，保留原西里尔文字及相机不相关的来源线索。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–970; chars 0–37598 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮资源/输出上下文不足以逐块完整呈现并由模型通读；未以脚本扫描或抽取代替阅读。",
+        "review_notes": "尚未通读，未作内容审阅。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/national-ec36.json",
+      "sha256": "a6758e7df9b07b7b65380c81c404e0c4a1178e2c5a9902bbbd407dee389aab73",
+      "bytes": 38209,
+      "characters": 38189,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              38189
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              38189
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "首段身份字段声称日本EC-36并明确排除1959出口SR系列，查询日2026-10-13；但前两个Commons候选分别是厄瓜多尔安第斯鸮/鸟类照片及美国空军Boeing EC-135 ARIA，与相机型号无关。候选标题、拍摄时间与对象名称不能当成EC-36相机证据；两个条目出现CC BY-SA 2.0但还未逐项做图片授权核验。 第二条候选的长描述来自美国空军博物馆展签，讲EC-135E ARIA航空器及其航天遥测任务，仍与National EC-36照相机无关；其CC BY 2.0许可只说明该照片条目的许可声明。第三条National Archives UK条目标识CO 1069-65-36，描述尼日利亚约1920—1929照片；数字36是档案号一部分，不能据此作为相机型号匹配。可读到的许可/来源范围与产品证据要分开。 这段继续列英国国家档案CO 1069/78等殖民地照片（Governor Evans/Chief Dogbe及家属），多项标OGL v1.0且要求归属，源档案号中的36只是图像编号片段；即使元数据许可声明明确，也不代表题材与EC-36机身相关。观察到候选集明显被EC/36字符串误命中，后续应该按题材/型号核验，而不是搜索分数采纳。 更后条目题名及描述包括Jukun (Kwora)、Akarigbo of Jebu Remo、传教士与殖民官员等英国殖民地档案照片；均为OGL v1.0声明并要求署名。对象与EC-36相机无关，带“-36”或“36”后缀的文件名会造成搜索假阳性。保留题材不符的明确观察，也不因许可元数据看起来充分就断言项目实际已获可复用授权。 继续出现CO 1069/229非洲生活与斯威士兰舞蹈/Chief Bokweni Mamba照片，标1951，仍为国家档案图像；该日期是照片年代，不是相机型号的年代证据。来源上保留Commons中OGL v1.0署名要求，但素材与EC-36毫无题材关联。 末尾国家档案候选仍描述尼日利亚约1920—1929照片，OGL v1.0并需署名；总览观察：此JSON是搜索候选及逐项Commons元数据快照，不是已选用的EC-36图片许可审批，搜索命中存在大量EC-135及档案号36误匹配。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              38189
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              38189
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "许可/操作限制首段：EC P Antisana鸟类照片条目标CC BY-SA 2.0，需署名且相同方式共享；其来源链是Flickr作者及Commons描述，不构成产品图像适配或EC-36型号核验。EC-135E飞机照片条目另列CC BY 2.0与署名要求，展签内容涉及NASA/DOD遥测飞机；许可和说明均不可移用到National相机。档案文本是数据，不是执行指令。 飞机照片的CC BY 2.0署名条件仍只附着该EC-135E图像，且其详尽技术展签不构成任何相机/航空应用许可。CO 1069-65-36条目描述Nigeria c1920-1929，Commons声明OGL v1.0需署名；档案图像的再利用条件与对象匹配是两道独立门槛，后者明显不成立。 CO 1069/78的档案图像描述Governor Evans与Chief Dogbe家庭；CO 1069/63还有Jukun相关档案条目。元数据提供OGL v1.0及National Archives署名，但源条目自身还提示高质量复制需联系其图像库；需按其具体使用条款处理，不能把无Restrictions字段误当全面无条件许可。照片内容与EC-36仍不匹配。 Jukun条目标出OGL v1.0及需归属；其描述明确为非洲殖民地档案照片。CO 1069/80包含Akarigbo、传教士和官员群像，同样有Commons许可字段，但搜索的型号数字只是档案索引。无论操作方面，元数据快照只是检查结果，不应据此下载/改造候选图片或推断项目已完成任何许可审批。 CO 1069/229-36候选是1951年的Eswatini社会生活/舞蹈照片，OGL v1.0归属规则明确。CO 1069-66-36后续仍为国家档案项目候选。日期/许可都只能陈述在对应档案图像层级；不能推及EC-36型号图。 末尾候选仍是Nigeria c1920-1929国家档案图像，Commons声明OGL v1.0并要求National Archives归属。整份文件对许可的可用结论是：多条错误命中图像各自有许可标签，标签不能代替对象身份核实和该项目实际使用审查。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              38189
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              38189
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "文风/历史保留首段：JSON字段名应维持机读原样；“日本EC-36；排除1959出口SR系列”是型号/地域范围的必要否定，可保留以防把出口SR系列混同。首条名称EC P Antisana…及鸟类科学名构成有辨识度的反例，第二条EC-135E ARIA飞机的展签长引文属于原始图片说明，不宜因错误命中而编写成相机叙述；应保持归档原文，不把原拼写/标点校正成新事实。 EC-135E的说明有可保留的细节，但作为照片原描述必须保持其原来的拼写、大小写和展签分段（如AIRA、Tranferred、mision），不能把勘误重写成项目事实。候选图片只是在被搜索命中，逐句文风审读时要防止航空展签叙事吞并产品历史。CO 1069-65-36条目的Nigeria约1920—1929年代描述简短，应保持其不确定时间范围，不改写成精确年份。 英国档案条目各自保留照片题名、来源目录CO 1069分册与短描述，特别是Governor Evans/Chief Dogbe家庭和Jukun (Kwora)名称；这些直白的档案描述可作为候选，但不能用润饰后的“相机故事”覆盖。重复出现的原始credit链接和OGL声明是出处/许可记录，文风简洁反复属于数据原貌，不应去重删字段。 Jukun与Akarigbo条目继续采用其来源文本中的命名、HTML段落和credit结构；这类原始描述有历史档案语气，字段重复不宜“编辑优化”到丢失来源。必要否定仍是此批的文风核心：CO 1069档号含36不意味着National EC-36；逐句引用应明确只是候选搜索记录。 CO 1069/229的“Some of the Sons…”及“National Dancing at Lobamba”原题保留档案式短句和1951日期；别把图片标题包装成产品文案。这里反复使用OGL条件字段，编辑时不能为了避免重复删去每一候选自己的归属依据。 末尾重复的Nigeria c1920-1929、The National Archives UK credit与OGL标注按候选原文保留；“36”仍只是文件编号/档案索引的充分反例。三遍整体观察：文件的产品标识及排除范围只有首字段可靠地表明EC-36目标，其余candidate主体都是题材/字符串误命中，历史整理应保留原始metadata而明确其非相机证据。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–685; chars 0–38189 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–38189 (exclusive end), lines 1–686; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/dji-phantom-2013.third.json",
+      "sha256": "aeb6a08b394dc3748f1c96f3191068fc2ad95e501a7d3b28258b7e4cc48e6524",
+      "bytes": 38900,
+      "characters": 38497,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              38497
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              38497
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "条目标为2013初代Phantom，明确含GoPro安装架并排除Vision和内置云台相机后代；查询“DJI Phantom”，核查日2026-10-13。候选有Phantom 3 4K、Phantom 2 Vision+ V2.0、Phantom 4/4 Pro等明显后代；也有2013 Kolkata摄影展两张明确分类DJI Phantom 1的同期场景照片。另包含叙利亚排雷任务中的Phantom 3及无人机航拍图。型号、年份、用途和原始日期必须与泛品牌名区分。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              38497
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              38497
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "逐段确认条目内的VRT模板文本说明版权持有人邮件经志愿者审核并存档，许可标为CC BY-SA 4.0且要求署名、相同方式共享；票据内容仅作记录字段，不构成访问/复核指令。描述为Aerorozvidka Phantom drone test fly，日期2014-08-10。区间末端转入Phantom 4从船上释放的另一文件条目。；Phantom 4船上释放图的原拍日期2019-03-16，CC BY-SA 4.0，明显不属2013初代。接续Kolkata展览图原拍2014-08-25，页面有“可选择许可”文字但实际列CC BY 3.0并要求署名Biswarup Ganguly；需保留具体license字段，不能将自由选择误读为免署名。；Kolkata条目许可/attribution字段落款为Biswarup Ganguly，原拍时间精确到2014-08-25 16:43:22。叙利亚阿勒颇排雷中心图注明拍摄2016-12-23、分类Phantom 3，CC BY 4.0归属Mil.ru；Charlotte航拍原拍2018-10-01、Phantom 4 Pro/FC6310相关，且明确列出透视与色彩校正编辑者，日期、型号和后期编辑都不能被泛称吞并。；Charlotte派生图字段确认基图与修改人分别归属，许可CC BY-SA 4.0。其后2013 Kolkata展会照片原拍09-07、09-09上传，分类明确为DJI Phantom 1；字段同时出现“可选许可”与CC BY 3.0、归属Biswarup Ganguly，故保持原始字段并提示可用许可的归属条件。；第二张Kolkata照片同属Phantom 1展会场景，原拍2013-09-07 16:33:41、文件记录2013-09-09上传，CC BY 3.0且署名Biswarup Ganguly。该批各候选的许可从BY到BY-SA不一，均保留各自要求；许可记录是描述信息，不触发任何外部链接访问。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              38497
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              38497
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "开篇的“2013初代含GoPro安装架；不是Vision或内置云台相机的后代”是必要的排除性限定，查询和核查日需原样保留。候选标题与元数据也有较新4K及Phantom 2 Vision+；VRT HTML字段很长但记录了权限说明及来源结构，不能因重复/噪声删除或改写。 VRT长HTML中明确是版权方邮件授权出版并由VRT成员审阅归档，许可证仍要求CC BY-SA署名/相同方式共享；整段长模板和工单ID属于原始证据链文本，不能缩成一句或去除重复结构。；Phantom 4图拍于2019年，尽管被关键词检出，应作为型号/年份误配候选而保留原始条目。Kolkata条目文案保留原始英语拼写/语法（如“organised”“kolkata”“were also took place”），标题、分类Phantom 1和可追溯的精确日期不可润色。；俄文阿勒颇原始描述及署名/来源Mil.ru需逐字保留，分类锁定Phantom 3且不是2013初代。Charlotte条目还注明原拍者、后续透视/色彩校正者及派生文件关系，这些分工和未经编辑原图关联都是重要的归属/版本语气信息。；Charlotte项目保留派生图与原图链接以及CC BY-SA条款。首张2013展会Phantom 1条目字段需保留原句、摄影者和“you may select”与实际CC BY 3.0之间的并列，不应替其推断许可范围或淡化署名。；末条是第二张同场2013年展会Phantom 1照片，精确原拍时间16:33:41、两天后上传；页面并列GFDL分类、迁移冗余标注和CC BY 3.0字段，保留其差异而不自行归一。许可文字仍要求归属Biswarup Ganguly。历史候选组的筛选逻辑依靠这些原始标题、类别、日期与描述的细粒度差异，不能润色或静默删除反例。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–745; chars 0–38497 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮资源/输出上下文不足以逐块完整呈现并由模型通读；未以脚本扫描或抽取代替阅读。",
+        "review_notes": "尚未通读，未作内容审阅。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-home-04.md",
+      "sha256": "6d0f881396a896c8ad562618d3ba36674c4b99964fa96914ae0e4c319ab2fa47",
+      "bytes": 39672,
+      "characters": 18797,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              18797
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              18797
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "开篇涉及Constellation 444、Braun HL1、Sixtant SM 31、PageBoy I与Picturephone Mod II。明确将馆藏/设计机构作品年代、商用服务启用、目录旁证分开；型号后缀与型号世代多次限定，拒绝从系列推功能。来源标签按每节列出，且取舍节区分档案可证范围与未核事项。 本段覆盖Mod II后续、HEM-1、NAV 1000与GPS 155 TSO。日期来源口径区分商业服务启用、推出、馆藏制造年与TSO批准；同时保留Smithsonian直开失败的研究限制，不把索引当全档案。型号155/165、手持/面板安装、定位/路线判断都被明确拆开。 尾部来源表保留每个HC/L/CWH/C条目的题名、日期、范围和重要限制；引文说明常直接标注“未独立读取”“不是首发”“不采用疑似错误数字”等，构成可追溯的取舍史。全篇结束在长来源清单，不应因非叙述体而略过。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              18797
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              18797
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "第二遍前段复核操作边界：Constellation不推演内部气路/换袋/开关/附件装配；HL1不列电气性能/维修且送风非制冷；SM31不列走向拆洗/护理建议/健康效果；PageBoy不添后代功能；Picturephone拒绝手册未核接线与号码步骤。来源多为馆藏记录或博物馆史，许可并非本段核心，不从馆藏身份推运行许可。 本块医疗边界明确：HEM-1不提供姿势/压力/阈值/诊断建议，厂商健康目标不作为疗效证据；导航边界则是不提供NAV按键流程、航点参数或GPS155进近/接线指导，也不构成飞行安全保证。Smithsonian直开失败与FAA原证书未独立读取被明确披露，文本操作限于展陈解释。 来源表逐项标注了限制：手册可证操作但不能把历史设备等同现代可用；设备授权/批准不是广泛适用；奖项不能从展览入选推出；系统商用与首发、馆藏制造与销售都分开。它说明证据口径是核心操作约束，且明确未查证部分，不应从来源链接或清单推演未授许可。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              18797
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              18797
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "文风审读开篇：用“读者要点”给出可观察动作，随后固定背景/设计/使用/意义/取舍结构；段落常以物件动作而非抽象形容词组织。Constellation球形本体与软管路径、HL1气流方向、SM31握持/孔网、PageBoy提醒/回拨均用并列任务讲解；反复出现的限定句是历史准确性与必要否定的保留理由。 本段句式在HEM-1上反复划分“测量/连续记录”“检测/解释”，并以不构成诊断作必要否定；NAV 1000则用位置与路线、设备与判断的平行结构，GPS 155强调数据卡/状态/批准的条件链。需要保留这些否定，因为删除后会把历史器具写成医疗或航空操作建议。 来源表末尾以简短“题名—核验内容—限制”格式压缩记录，穿插保留原英文标题、源ID、日期和版本文字；若改写得过度整齐，会抹掉来源差异及既有未核声明。历史保留理由尤其包括原机构资料访问失败、图像外部来源和奖项/型号/销售日期不能混同。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–334; chars 0–18797 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–18797 (exclusive end), lines 1–335; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/nintendo-virtual-boy-jp.fourth.json",
+      "sha256": "fc36734aa78255650d90f645fa62ecbed2f03a820feea46db1ebe5c9b2ddc729",
+      "bytes": 40145,
+      "characters": 40073,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              40073
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              40073
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": " 首段：名称明确「原日本版」1995机器并排除2026 Switch复现，查询仅Virtual/Boy两个通用词。首个Dream of Light是关于青少年照亮他人/自身人生的文学性照片说明，作者链接为不存在用户页，拍摄2022、上传元数据2026、CC BY-SA 4.0。第二候选是法国Villeurbanne七岁男孩戴HTC Vive的照片，CC0但人物为未成年人且坐标细到街区；标题和类别的“virtual”仅描述VR，明显不是Nintendo Virtual Boy。 Bologna图明确实体为Cineteca的游戏档案/影像馆Renzo Renzi Library中Virtual Boy (1995)，版权署名SunOfErat，拍摄/上传2021，标题确实有目标机但不是原日本版本人/地区版本信息仍待证。 Greifswald图是Meta Quest 3实验室开放日示范，说明中猜测男孩可能体验Wendelstein 7-X虚拟实验，拍摄者Siarhei Besarab，2025，BY-SA 4.0；被“virtual boy”分词误带入。Mont Blanc PDF标题是1827攀登叙事，内容说明意大利语且数字化机构链列CNR-IRCrES/Byterfly，出版日期字段1830，作者John Auldjo，扫描PD旧作；与产品无关。 Mont Blanc许可长段保留古籍公有领域+机器扫描PD-scan无新版权的解释、PD Mark、以及明确“该tag只适用于扫描/复印件”的适用范围；这类说明适合追溯许可依据，不能简化成泛PD。 Uganda电影化妆条目正文写“boy paint”（原文如此），上传者Lisa Sonia (Li)链接为redlink、摄影/元数据日期2023-02-07、CC0；保留拼写/用词瑕疵以便历史检索，勿顺手更正成body paint。紧接1913年Alexander Russell Bond的With Men Who Do Things，是Internet Archive identifier与扫描，类别标PD-US-expired且Scans from Internet Archive/unverified；不能把扫描来源误当图像拍摄。 With Men Who Do Things的许可说明明示美国以外作品还须来源国状态标签，并含PD-1923阈值说明；类别本身标unverified scan，不能仅凭PDF扁平许可字段消除出处风险。末条Cost of Freedom是2016版CC0电子书、credit指costoffreedom.cc、artist为Various，完全不同于硬件。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              40073
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              40073
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": " Pass2核证首段：Dream of Light有CC BY-SA 4.0与artist redlink，元数据未列附加限制；底层DateTime是上传时间而DateTimeOriginal才是2022拍摄日。七岁男孩照片CC0但地区坐标精确，LicenseShortName与许可URL相符，而Copyrighted仍True，需保留元数据不一致而不把其解释成不存在肖像/未成年人顾虑。 CC0男孩条目还出现raw Copyrighted=True与license=cc0及许可网址一致的机器值矛盾；地区GPS精确到Exalto场址且类别称7岁，许可宽并不自动满足对可识别儿童使用的操作限制。Bologna设备条目 BY-SA4.0、署名SunOfErat，许可字段一致；描述支持馆藏中一台1995 Virtual Boy，但没有本段中的原日本版零件/铭牌证据，保留为中等相关而非充分型号证明。 Greifswald男孩现场照片有地点、开放日语境，获CC BY-SA4，字段内无额外Restrictions；说明用likely谨慎推测其使用VR场景，不能当作确证内容。Mont Blanc扫描来源意大利馆藏，说明资料链清楚；许可理由称机械扫描公共领域原件不产生新版权，正文另有PD-old-100与PD-scan标签，属可复核依据。 PD-scan段落强调公共领域需在来源国及美国均过期，许可页还列发布日期早于1931以及针对扫描/复印物的专门适用界限；该措辞是可操作限制。此段下沿进入Uganda化妆电影照的CC0类别，等待下一块核对其作者与文件类别。 Uganda自拍图许可虽然CC0/无署名义务，但Copyrighted=True仍矛盾；作者页面redlink，标签“Images with watermarks”又说明图上带水印，需结合原图用途审查而不凭CC0字段抹掉信息。Internet Archive扫描类别明示unverified，credits提供IA永久标识及PDF下载地址，后续须验证来源/具体版本；此处仅保留历史记录。 第2遍末尾：IA书记录的Permission文本明确非美国作品必须附来源国标签，并给出PD-1923；date归一字段空串但书目类别称1913，缺失要保留。Cost of Freedom则CC0、2016版、外部源许可证已审类别，Artist=Various且Copyrighted=True形成另一机器字段张力。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              7000
+            ],
+            [
+              7000,
+              14000
+            ],
+            [
+              14000,
+              21000
+            ],
+            [
+              21000,
+              28000
+            ],
+            [
+              28000,
+              35000
+            ],
+            [
+              35000,
+              40073
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              40073
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": " 文风复读首段：顶层中文括号保留“原日本版”范围，年份与Switch复现明确排除，不把一般“virtual boy”误检当目标物。Dream of Light原始英文句子用燃烧/照亮双关，保持青少年的抒情口吻和破折号，不改写成中性摘要。法文标题“Un enfant portant un casque...”与英文描述并存，精确年龄/经纬度类别在地理人物用途上有敏感性，作为搜索误报反例保留。 Bologna候选用档案馆机构名列举、括号年代，原始HTML嵌链接；简化description重复保留多处双空格（“Virtual Boy  (1995)”及馆名间），这种源格式痕迹不应润色。设备图可作检索命中证据但未注明日本产/日本型号。 Greifswald说明夹带“likely”推测语气，后接仪器实验名称Wendelstein 7-X和开放日上下文，作者身份又以职业性Wikidata提示嵌在链接里；保存原句的谨慎及人物描述而非硬改成定论。Mont Blanc图注采用意大利语，标题和时间信息保持古籍自身语言/双日期复杂性。 此块保留许可模板的长篇法律式限定：原籍及美国双重期限、before Jan 1 1931、PD Mark和非创作性图像增强，以及PD-scan和远距PD-Art区别；这些并非原始上传者的叙述声线，而是政策模板，因此应与作者说明分层保存，不裁掉必要否定。 Uganda自拍描述为机构服务口吻“We provide... at Scarlet Studios”，并用“boy paint”而非标题“body paint”；保留这处不一致和简短原话，不替作者改文。IA书把标题斜体放入多层HTML/Wikidata自动字段，再把Subjects限定为Technology；这有助解释为何宽泛词检索命中，须保留机器化标签和空白。 末段保留IA许可模板必须在美国及来源国均过期的表述以及PD-1923字段；其description只是“Subjects: Technology”而date归一为空，不能按类别1913补写原字段。Cost of Freedom的原始摘要在Book一词与标题逗号/空格间有额外双空格，artist为Various、日期2016、CC0但Copyrighted=True；机器值冲突与原文排版应留档。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–742; chars 0–40073 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮资源/输出上下文不足以逐块完整呈现并由模型通读；未以脚本扫描或抽取代替阅读。",
+        "review_notes": "尚未通读，未作内容审阅。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-home-05.md",
+      "sha256": "595ddc49d918ae1a01fdeaa22779666ebe40c1f19034bb3859b2eeebbd18b494",
+      "bytes": 40417,
+      "characters": 19496,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              19496
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              19496
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": " 起始段年代锚清楚分开：Solar Mower 1995 销售来自原厂历史（HC150-S033/S034、CWH-S004），并谨慎限定 2000 手册适用范围；首代 AirPort 于 1999-07-21 公布、预期九月供货，标称 11Mbps（HC150-S027/S028），并指出日本地区时间线另列；AIBO ERS-110 于 1999-05-11 公布、后续公告确认六月已售 5000 件，区别公布与销售事件。当前段还在展开 AIBO 背景。 本段完成 AIBO ERS-110 证据（十八自由度、音调遥控；5月公布与六月限量售出 5000 件分别记载，HC150-S035/S036），并界定与 ERS-111/ERS-1000 的差异。Roomba 第一代用 Smithsonian 馆藏上市年份 2002；馆藏入藏号不当产品年代，碰撞/红外/Virtual Wall 只作初代能力，L:AMQ01/L:ER09/L:ER10。FRITZ!Box 初代无 WLAN 于 2004-03-18 CeBIT 公布，早期两个 LAN 口；秋季无线版本不混入（HC150-S029/S030）。 本段收束初代 FRITZ!Box 的两只 LAN、有线边界与来源同属 AVM 的限制；接着确认 GO (2004原版) 于 2004年3月推出（TomTom 2005 年报，HC150-S023/S024），保留后代与当代手机应用为排除对象；Nabaztag v1 锚定 2005 年 V&A 实物研究、六月巴黎日期来自存档原厂文案（HC150-S053/S054），与 2006 Nabaztag/tag 分开。 Nabaztag 取舍区分 V&A 实物研究与存档原厂宣传文案，避免“世界第一”与全球服务关闭断言，拒绝把社区恢复/后代功能写回 v1。Airfryer HD9220/40 以 2010-12-10 规格书发行日作型号存在锚而非全球首售，特定 /40 230V 地区边界须保留；热空气与控制来源 HC150-S067/S068，后续联网/双抽屉排除。本段进入来源清单，不另把其中较早产品年代误作本章节产品节点。 来源表逐条列出本章及比较品证据，信息需按用途界定：Sony两份材料分别支撑 ERS-110 公布/功能和六月销量，Apple日本公告只供日本命名/上市节奏，FRITZ!Box两条为厂商史，V&A与Nabaztag存档各有来源角色。Airfryer规格来源明确 /40、日期、30分钟定时及230V；产品页仅停产状态，不可当停售日期。列表还注明 GPS155 FAA原证书未独立读取、DIRIGERA网页后续编辑限制。 末尾来源条目再次区分证据等级：Sony日本2018公告只用于ERS-1000日期且其宣传销量/口碑排除；aibo是金奖不是大奖，动态数据库未显示字段；S7分别标明编辑选品、缓存索引与单件评测，明确非年度奖、字段不完整和返佣披露；Roomba馆藏入藏编号不是上市年。目录里的证据缺口、分类差异及否定限定是历史来源审查痕迹，应保留。此段已重新完整显示审读，第一遍连续覆盖达到末尾。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              19496
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              19496
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": " 证据/操作限制复核：Solar 用 2000 维修资料时仅取明确区分 1995 与 1998 后版本的边界线内容，未把后代参数转给初代；不提供布线、坡度、刀片维修步骤，也不推断光照、环保收益或实测效果。AirPort 11Mbps 为原厂公告标称而非室内吞吐；基站需要外部入口/线路与兼容客户端，无线连上不等于互联网服务正常。 AIBO evidence/许可限制：功能限同期公告可确认的十八自由度与音调指令，不以 ERS-1000 反推；未核原说明书，故不写喂养玩法、拆装维护或音调序列，不将自由度等同安全，也不推断群体效果/真实动物感受。销量限于记录中的限量批次，老化电池与软件状态需另核。Roomba依据馆藏说明，不是地区说明书或覆盖实测；不补按键/充电/拆卸参数，明确图片开放元数据不等于可转载。FRITZ仍需DSL服务、线缆和设置，不给当代FRITZ!OS教程/协议兼容推断。 FRITZ!Box 证据来自同品牌历史，未有本轮完整原配置手册；不列DSL速率/地区协议，不据当代页面推库存或安全性，停用软件与线路需具体版本核查。TomTom GO虽有2005年报的2004年3月节点及厂商回顾，但没有原代完整手册/同期独立道路测试，因此不列操作菜单、地图安装、车辆固定等指南，也不推任何驾驶安全、路线正确性、节时/里程；各地区地图资料须分别考虑。Nabaztag内容建立在网页和远端服务，不提供今天恢复旧服务教程，不把社区改装或后代麦克风功能归v1。 Nabaztag证据需辨析：V&A馆藏研究为独立实物观察，原厂文案存档宣传语境及维护方身份未完全核准；不把“世界第一”或服务关闭日期当无争议事实。缺实机和联网验证，不能承诺通知可靠/用户偏好/当前服务可用，也不提供服务恢复教程。Airfryer严格限定 HD9220/40、规格书日期不是全球销售，停产标记非停售/支持终止日期；没有独立烹饪实验，因而不量化口感/能耗/健康或普遍替代效果。未运行旧机，不给食品温时操作值，特定230V电气安全须另按实物/版本核查。 来源清单交叉核实证据限制：Apple原公告支撑首代基站/11Mbps/接口/计划，日本公告只作地区命名和2000上市计划；AVM自有材料支撑年份/接口但单一公司来源；Sony 1999两公告区分产品功能与限量售出；GPS155的FAA证书未独立读取；DIRIGERA来源含网页后续编辑说明。上述各自限用途，不能借比较品来源升级本展品证据。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              19496
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              19496
+            ]
+          ],
+          "focus": "逐句文风候选及必要否定、历史原文保留理由",
+          "notes": " 逐句风格：章首“本包仅含内容修订”是边界说明；每件以日期锚、读者要点、背景/设计/使用/意义/取舍与来源收束，语气解释型且不写广告口号。Solar反复用场地边界解释“机器并不知道规则”，并保留否定后代能力、太阳能不证明环保/全天候、未测节时、维修资料非消费者指南等必要限定；AirPort用公布与预计供货区分已售事实，保留标称不是实测、接入不等于外网以及不承诺兼容/安全的否定。该克制措辞支撑展览准确性。 AIBO文风把可亲近外形与真实动物感受分开，避免把拟人化暗示写成事实；十八自由度/音调控制作具体描述，比较ERS-1000只为防止时代倒灌。保留“不能确认互动自然、不能推断人群效果、部件可能老化”等必要否定。Roomba段以馆藏信息支撑功能边界，使用/意义段清楚分开准备、自动移动、收尾任务；不以“自主”夸大完全无人监督。历史说明书缺口和图片转载许可作为审慎回退理由，不能删掉。 FRITZ!Box以“减少功能分散的物件关系”解释整合，语句承认DSL、设置、供电仍在，不能推断更稳定/普及；保留“非无线”“非家居场景理解”、缺原手册/未测安全兼容的否定。GO用“路线信息组织”而不是自动替人驾驶，细分位置/地图/现场判断，停在已核工作链；保留未读原手册、未测路线节时/风险、CEO获奖不等于产品获奖、当前路线不适用承诺。Nabaztag以房间通知与远端服务依赖的并列形成语气，动物外形不可推断意图理解，保留服务/功能版本边界。 Nabaztag取舍保持双来源语气差异：V&A实物研究对照宣传性原厂存档；保留否定“世界第一”和不确定全球服务关闭日期，既不承诺现今服务，也不把改装归原版。Airfryer叙述强调普通器具而非“健康革命”，抽屉/旋钮细节具体，保留“不量化健康、口感、能耗，不证实替代所有食材，没运行旧机”这些必要否定；/40、230V与版本后缀在文风中作硬边界。 来源表按证据角色写简短注释，并嵌入必要限制（比如“CEO奖不能给产品”“未读馆内文件”“直接页面缓存访问失败”“营销百分比不作实测”“后续版本不移植”）；这些否定是审核轨迹和授权边界，不是可删的赘语。部分条目含原始链接标题、日期/作者/许可上下文，语气保持目录说明而非叙述正文。 尾段继续保持来源记录的逐条可追溯口吻：ERS-1000公告不并入ERS-110时间线；aibo奖项明确金奖而非大奖；动态数据库字段未呈现就写出读取限制；S7只用编辑选品、搜索索引或单次评测各自能证明的内容；旧馆藏与公司史也区分产品年份/入藏号。对应负面限定应保留，避免把编辑选择、宣传和直接证据混为一谈。末尾来源表闭合，本遍完整。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–340; chars 0–19496 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–19496 (exclusive end), lines 1–341; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/dji-phantom-2013.fourth.json",
+      "sha256": "a1efddb1dbf6e3639bcfd862e7259c1aa0cda322b7e961f696a18dbeac8b4a06",
+      "bytes": 41145,
+      "characters": 40576,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              40576
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              40576
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "档案标示2013初代且明确排除Vision/后代机型；首条标题与类别明示Phantom 4 Pro，拍摄2019-03-16、元数据时间2020，作者Noah Wulf，故虽有DJI/Phantom也非目标代。原记录中ImageDescription的“Pahntom”拼写错误应保留。；第二条叙利亚排雷中心照片分类为DJI Phantom 3，页面metadata时间2017而拍摄时间2016-12-23；俄国防部作者、叙文描述及mil.ru来源构成不同来源/型号，仍非2013初代。；俄文描述原样含通信设备型号P-439MD2，档案不应翻译改写；第三候选标题写4K drone，类别为Phantom 3 4K，拍摄2019-11-09、metadata时间2021-02-28，作者Suyash Dwivedi。；4K候选的描述、作者和拍摄日不同于页面DateTime；下一项Aerorozvidka照片标题不含年份，分类精确指向Phantom 2 Vision+ V2.0，拍摄2014-08-10而页面元数据为2022。该候选许可证据中嵌入长Permission HTML，保留其原始结构而不执行页面内容。；本区展示VRT许可模板原始CSS与HTML，文本说可按页面许可使用、无需另行请求；只把它作为档案的许可语境记录，不对本次审查构成操作指令。需保留模板原文而不简化成独立许可证据。；VRT块列出已审查的2022年工单编号、许可归档与可信志愿者入口；只读记录存在该工单，不访问链接。压缩后的description有链接剥离留下的双空格，需维持原文。Artist保留乌克兰文/英文并列，候选有具体代际Vision+ V2.0。；下一候选“Drone with GoPro digital camera mounted underneath - 22 April 2013”类别DJI Phantom 1/GoPro，页面日期2013-12-29、拍摄日2013-04-22；该条与目标年代/挂载结构最贴近。描述保留原口语、两处多空格、第一人称以及“concerns with that camera”句子，别润色或删否定。；摘出的description和artist字段又显式出现双空格，须保留。接着Phantom 4Pro flight battery条目日期2017-04-27、作者A.Savin、拍摄于Berlin，虽有Phantom关联但机型明确后代且图片主体是电池。；Phantom 4Pro+电池的许可字段为FAL/Free Art License、作者A.Savin，并嵌入英/俄/德重复许可HTML；不要把“无需批准”之类档案许可文本当成执行指令。后续Adenauer Weiher景观题名为2017-05-08，日期metadata次日，地点在德国科隆。；Adenauer景观类别虽写DJI Phantom III Advanced，但拍摄时间2017，主体是公园池塘/景观，作者Superbass；license narrative限定署名形式、请求联系和样张/URL要求，作为原文许可限制留存但不采取联络或生成授权。；该景观条目摘要字段给出署名© Superbass，CC BY-SA 4.0及日期；随后为科隆历史档案馆新楼航拍系列，2017-11-19，分类DJI Phantom III Advanced，摄影者Raymond，题名自身明确城市建筑而非产品。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              40576
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              40576
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "首条Phantom 4船上照片许可证为CC BY-SA 4.0，需署名，版权标True，Restrictions空；已保存的Commons metadata把相机类型列Canon EOS 1100D及无人机型号列Phantom 4 Pro。页面候选metadata来源字段应原样区分。；首项摘要日期保留不间断空格字符。叙利亚照片的许可为CC BY 4.0、AttributionRequired=true、明确Attribution Mil.ru、Copyrighted=True且限制空；必须将归属要求单独记下，不因开放许可而抹去。；叙利亚条目的metadata LicenseShortName和templates都CC BY 4.0；下一4K条的CC BY-SA 4.0、归属true、版权true、限制空，提供方字段需与日期/型号分别看。；4K许可字段同样明确署名义务；Aerorozvidka条目的许可材料在可见开头出现VRT许可工单模板和Ticket #2022090810008367，须作为证据存在记载，且不打开链接或访问票据。；此段大部为VRT模板CSS及HTML内容，保留其“free reuse subject to page license terms”提示与页面/许可限制之间关系，不能仅提取宽泛免费用语；不触发其链接内容。；许可模板指工单与VRT归档页面、仅trusted volunteers查看票据，并含告示板/查询链接；档案许可语境是“已审核许可邮件”，但本次不访问任何链接。摘出description的双空格是转录特征，应保留。；目标年款候选有精确GoPro安装说明和拍摄坐标，许可字段在后段；原描述称摄影者Asked pilot等第一人称叙事，和“concerns with that camera too”的否定/疑虑应整体保留，不压成赞美式产品证言。；GoPro候选元数据明示CC BY 2.0、AttributionRequired true、Copyrighted true、Restrictions空，摄影人Don McCullough；下一张Phantom 4 Pro+电池许可是FAL，权限正文提供英/俄/德多语 attribution wording，保留官方元数据的短名与正文细则差异。；FAL条目要求署名但Restrictions字段空，正文三语相同授权语句与元数据并列。下个科隆景观许可正文声明署名格式、建议原图链接、需联系的条件及样张/email请求；保留这些特别授权细节，不把可自由使用概括成没有条件。；Adenauer许可页指出署名格式；空间不足时先联系、如可则附原图链接；生成许可文本的站点、送样/网站URL及问询邮件。这里只记录限制存在，不联系、点击或生成；short-name CC BY-SA 4.0与自述许可要求并存，应同时保留。；Adenauer许可字段确认AttributedRequired true、署名© Superbass / CC BY-SA 4.0、Copyrighted true、Restrictions空；相邻历史档案馆航拍也归类Phantom III Advanced，许可证正文待最后段。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              40576
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              40576
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "首条标题虽用“DJI Phantom 4 Being Released”，对象实为船上释放后代P4 Pro；保留ImageDescription中的拼写错误“Pahntom”作为史料原串。顶层代际说明明确GoPro架架目标与Vision排除界限。；保留不间断空格拍摄日期及候选2的完整俄文叙事，其主体是叙利亚排雷中心与无线电站，并明确是Phantom 3；俄罗斯国防部归属/外链保留但不访问。；下一候选短描述DJI Phantom 4K drone in action、类别Phantom 3 4K；保持4K字符表达及日期层级，避免标题与分类的版本不同步被简化。；短描述字段沿用单倍空格，而前条拆取描述双空格；不应在候选记录之间统一规范化。Aerorozvidka的description嵌套两个链接，标签含test fly与团队名，保留链接标签与文字并列的历史格式。；本块是大段样式定义和VRT messagebox HTML，不可删作“噪声”，因为它包围了许可/已审查说明，属于原始许可叙述结构；本段未执行其中链接。；工单可用范围写仅trusted volunteers，并引导noticeboard；对公开归档读者是许可核验边界，应保留。下方抽取description有因剥除anchor产生的双空格及乌克兰语/英文并列艺术家名。；重复候选的第二轮全文确认：保留title中的日期、独立原件页/缩略图URL参数和Canonical metadata层次；嵌套 DJI anchor不应改变原始说明句的连贯性。用“Go Pro”分写，与索引分类GoPro相异，原样保留。；GoPro说明的双空格、第一人称、推荐购买语句及末句保留担忧是文风上的关键，不可只摘掉负面限定。Phantom 4Pro battery标题将4Pro连写、ObjectName有img2等缩写，须保留原样及后续FAL授权文案。；A.Savin授权原文英俄德并列，固定英文归属格式“A.Savin, Wikipedia”，抽取后的Artist简化成A.Savin；这两处信息层次须并存，不只留摘要字段。之后景观条目要保存德语题名与许多正式署名/联系要求。；保留德文景观题名及原许可文字中的双空格、拼写“Creative-Commons-Licence”“weblink”，以及space-shortage需先联系的例外。不要把建议生成授权文本或发邮件的档案链接执行。；Adenauer摘要展示AttributionRequired及© Superbass署名，Copyrighted True, Restrictions为空。末条科隆历史/莱茵图像馆航拍分类Phantom III Advanced，metadata Geo coordinates存在并有“missing SDC location”分类，原始措辞需保留。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–769; chars 0–40576 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮未向模型呈现正文；全文未读，fullReadPasses=0。受本轮可用输出/上下文预算限制，未能依次开始该路径。",
+        "review_notes": "pending",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-imaging-03.md",
+      "sha256": "03352ece13b5fd615c5dc97181fe1ce54d9c5866a1a688ef25daf1b249c91b64",
+      "bytes": 41497,
+      "characters": 19103,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              19103
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              19103
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "前段依次为LG StanbyME Go 27LX5QKNA（美国公告2023-08-15，预售/交货当时计划）、LG OLED evo M5 65（2025-07新加坡促销观察，非全球首售）、Samsung R95H 65（2026-04-14美国公告）、初代HTC/Valve VIVE（2016-04-05首批预订发货）及HoloLens 2开篇（2019-11-07客户出货）。型号/地区各自限定清楚；比较涉及Sony XEL-1、The Freestyle/The Sero、R95H、PlayStation VR及Quest。开头注明9件、五节880–958汉字、未导入；这是编辑批次状态，不能误称成已导入。 中段补全HoloLens2触碰/捏合/射线近远交互；Quest 1 (2019计划发货、八月可获得)；Quest 3（日本2023-10-10销售，彩色相机透视、双击切换）；PS VR2（2023-02-22发布，PS5 USB-C、区域扫描及PSVR游戏不兼容）；Vision Pro M2（2024-02-02美国门店销售，视线+捏合、外置电池、Digital Crown）。各型号和首发时期限制反复明确，比较旨在区分光学透视与摄像透视、独立与主机依赖、首发和后来软件/适配器。 尾部来源表覆盖VIVE/HoloLens/Quest/PSVR2/VisionPro、旧机比较和LG/Samsung产品来源，并明确各自读到的范围、历史版本排除、访问/索引摘录及未验证销量/实物/转载许可等限制。尾声“总复核六包恰好53件，五节846–985汉字”与文首本文件“9件；五节880–958汉字”存在口径/计数差异；应保留并标记为不同统计范围，不能未经核验强行合并。最后声明本包未导入、未实测。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              19103
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              19103
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "证据/许可/限制复读：StanbyME Go特定美国公告把8月预售/预计交付写成计划，电池3小时为原厂最高值且受应用/网络影响；M5新加坡促销只证商业供应，不等于全球首售、库存或当天收货，65英寸4K144Hz不能推广其他尺寸。M5屏幕/Zero Connect Box各需电源，无线不等于无电缆。R95H日期是2026美国公告；RGB背光不是MicroLED，画质未独立测试。VIVE首发套装不能借PRE/Pro后代资料；需PC/基站、房间区域，移基站重设。HoloLens开篇为2019标准2代，只纳入原始手势，剔除后续单手Start/21H1功能。比较链接仅支撑所述有限机型差异。 HoloLens具体近距触碰、抓/移窗、远距手射线+捏合，要求可追踪范围；Quest第一代记录先5月发货计划、后8月可获得的时间层级，且Insight精度仅属厂方测试口径。Quest3彩色透视是相机处理显示，双击侧面切换只按原厂公告所述，不外推其他型号。PS VR2限制原PSVR内容不兼容并限PS5，透视功能非录像、活动区需扫描；首发不纳入2024 PC适配器。Vision Pro限M2/R1和美国实际门店销售，电池用时依测试条件，EyeSight不是透视玻璃，空间界面并不等于工作效率证据。 引用清单明确区分正文、检索摘录、PDF限定页、归档索引；M5新闻直链502但归档摘要可读，故不夸大原始读取范围；XEL-1日本手册重定向失败，借用西班牙语手册仅限OLED共通保养。多处说明不证明销量、普遍体验、实物、图片转载权。L:AMG02/03仅按verifiedScope限定，且来源未由整合声明全部重读；Radiola当前读取500不冒称本轮全文，CDP101一项仅第1页。总复核与篇首“9件/880–958”有不同统计口径，不擅自协调。包未导入、未实测。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              19103
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              19103
+            ]
+          ],
+          "focus": "逐句文风及保留必要否定/历史原文理由",
+          "notes": "逐句文风首段：StanbyME Go的“开箱—调整—横/竖/桌面—收回箱体”构成一致动作链；可保留“带走的是实体显示”对比投影的具体句子，同时保留尺寸/重量/电量代价，不把箱体渲染成无负担便携。M5的“无线不是没有部件，而是改变部件关系”是浓缩候选，紧接双电源和盒子占地否定才完整。R95H用“先问光从哪里来”引导结构区分，保留Micro RGB非MicroLED的必要否定。VIVE阅读提示把基站重设变成可理解动作，必须保留房间、电脑和线缆限制。 HoloLens可保留“近处触碰、远处射线”的平行动作句，以及“识别目标—触碰/抓取/释放”的解释；必要限定是手追踪范围与后期功能不倒灌。Quest一代“改变的是系统准备与计算的位置，而不是让房间消失”是准确对照句，保持后续型号不混入首发事实。Quest3阅读提示以“直接看见还是相机显示”解释光学差异，保留并非每个应用/每次都适配的否定。PS VR2把追踪/输入变更与旧内容兼容断点并列；Vision Pro“望向目标—捏合确认”是短的动词链，不能因简洁删去M2、区域、供电和应用边界。 尾部将每条原厂/检索来源的scope说明、地区差异、正文/索引摘录的阅读深度和不证明项逐项保留；“未新增唯一外部来源”以及旧核查Radiola 500、CDP101仅部分页是明确的范围声明，不应润饰成全文复核。最后“本包未导入、未实测”是当前状态的关键否定，须保留。全篇文风候选：用行动提示开场，以真实使用步骤串起设计/意义/限制；比较句强调系统关系区别。源内异样的双句点、产品名重复、条目统计差异均属于旧稿原貌，本轮只读，不在历史通读中修订。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–380; chars 0–19103 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮资源/输出上下文不足以逐块完整呈现并由模型通读；未以脚本扫描或抽取代替阅读。",
+        "review_notes": "尚未通读，未作内容审阅。",
+        "source_limit_note": ""
+      }
+    }
+  ],
+  "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H002.json",
+  "completedAtUTC": "2026-11-03T14:46:42.302278+00:00"
+}
