@@ -1,0 +1,33 @@
+
+> circuit-museum@1.0.0 test
+> node --test tests/*.test.mjs
+
+✔ award filters compose with category, text and chronological sorting (6.868375ms)
+✔ all product reading retains design points, complete summaries, captions and substantive body text (678.105523ms)
+✔ award expansion preserves the 176 prior records and distinguishes award dates from release dates (302.538542ms)
+✔ new award product photographs retain prior image metadata and primary license evidence (36.576072ms)
+✔ Current unique, substantive exhibits use valid categories, related links, images and references (290.880877ms)
+✔ every exhibit explains representativeness, use and limitations with matching paragraph references (539.615391ms)
+✔ Sourced product chronicles reference the same catalog without adding duplicate exhibits (18.940315ms)
+✔ independent homepage introduces the museum and links to collection and product chronicles (49.382755ms)
+✔ search normalizes model punctuation, whitespace, case and Chinese aliases (46.738194ms)
+✔ shared brand aliases apply to new products without replacing model aliases or filters (8.61607ms)
+✔ type, decade and search compose with AND; sort and impossible query work (17.722795ms)
+✔ built pages have resolving internal links, anchors and local assets (25765.123114ms)
+✔ Original exhibits and chronicle nodes match the reviewed wording baselines (71.898878ms)
+✔ Stages have a closed public graph and every public product has exactly one stage and reading line (78.997335ms)
+✔ Reading-line and legacy category filters compose with the existing catalog filters (67.677485ms)
+✔ Registered media opinions render attribution, scope, disclosure and original links (11.94382ms)
+✔ All 136 editorial manifest products retain approved prose, reader takeaways, IDs and source identities (240.33833ms)
+✔ Photo expansion preserves previous attribution and publishes only reviewed, evidenced licensed photographs (262.787686ms)
+✔ restricted originals require image-specific evidence and unchanged bytes (31.291497ms)
+✔ long product prose breaks at complete sentences without losing or rewriting text (8.734352ms)
+✔ research notes remain available while device limits stay in the main reading (1.709573ms)
+ℹ tests 21
+ℹ suites 0
+ℹ pass 21
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 28056.47729
