@@ -2,8 +2,12 @@
   "schemaVersion": 1,
   "taskId": "T-006",
   "targetFullReadPasses": 3,
-  "sourceBaselineCommit": "453b98d1a2cefe125746fbd06b92afe803ae04c7",
-  "currentBatch": null,
+  "sourceBaselineCommit": "adf26dfc83e66e246aeeeddac73468eaab7ec84b",
+  "currentBatch": {
+    "id": "T006-H010",
+    "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H010.json",
+    "status": "partial"
+  },
   "completedBatches": [
     {
       "id": "T006-H001",
@@ -86,7 +90,7 @@
   ],
   "nextBatch": {
     "id": "T006-H010",
-    "status": "planned",
+    "status": "partial",
     "fileCount": 24,
     "sourceBytes": 4204565,
     "entries": [
@@ -98,7 +102,7 @@
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
-        "nextCharacter": 0,
+        "nextCharacter": 35000,
         "suggestedChunkCharacters": 3500,
         "workerSlot": 1
       },
@@ -110,7 +114,7 @@
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
-        "nextCharacter": 0,
+        "nextCharacter": 45500,
         "suggestedChunkCharacters": 3500,
         "workerSlot": 2
       },
@@ -122,7 +126,7 @@
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
-        "nextCharacter": 0,
+        "nextCharacter": 56000,
         "suggestedChunkCharacters": 3500,
         "workerSlot": 3
       },
@@ -134,7 +138,7 @@
         "startingFullReadPasses": 0,
         "targetFullReadPasses": 3,
         "nextPass": 1,
-        "nextCharacter": 0,
+        "nextCharacter": 17500,
         "suggestedChunkCharacters": 3500,
         "workerSlot": 4
       },
@@ -412,7 +416,22 @@
       "matches": 1022,
       "reviewedMatches": 1022,
       "batchId": "T006-H009"
+    },
+    {
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H010-keywords.json",
+      "status": "partial",
+      "matches": 1920,
+      "reviewedMatches": 0,
+      "batchId": "T006-H010"
     }
   ],
-  "pendingKeywordReviews": []
+  "pendingKeywordReviews": [
+    {
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H010-keywords.json",
+      "status": "partial",
+      "matches": 1920,
+      "reviewedMatches": 0,
+      "batchId": "T006-H010"
+    }
+  ]
 }

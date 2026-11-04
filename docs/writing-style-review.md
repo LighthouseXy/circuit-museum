@@ -2,7 +2,7 @@
 
 2026-11-03 UTC · 基线 `6112c97b6852fffc94215fb18e23860a078af3c6` · 接续提交 `b08ffc06656ee92b075e994dfa38a4df5b03ffaa`。
 
-H009记录更新：2026-11-04（Asia/Shanghai）。
+H010记录更新：2026-11-04（Asia/Shanghai）。
 
 当前状态：部分完成。当前正文三轮自查和浏览器回归已完成；历史文本首遍完成 1045/1118个路径，其中180个路径完成三遍。73个路径尚未完成首遍，938个路径仍有待读遍次。
 
@@ -56,6 +56,7 @@ Samsung 测试读取跟踪图片 `public/images/photo-samsung-the-freestyle-2022
 | [T006-H007](evidence/writing-style-2026-11-03/read-batches/T006-H007.json) | 24 | 1,942,827 | 24 | 72 | 完成 |
 | [T006-H008](evidence/writing-style-2026-11-03/read-batches/T006-H008.json) | 24 | 2,293,324 | 24 | 72 | 完成 |
 | [T006-H009](evidence/writing-style-2026-11-03/read-batches/T006-H009.json) | 24 | 3,423,653 | 24 | 72 | 完成 |
+| [T006-H010](evidence/writing-style-2026-11-03/read-batches/T006-H010.json) | 24 | 4,204,565 | 0 | 0 | 部分完成 |
 
 新批次每遍重新完整呈现原文并逐块审读，分别关注来源/日期/型号、事实与许可及操作限制、逐句文风和历史保留理由。逐段确认后保存半开字符区间；只有区间并集连续覆盖全文才增加遍数。脚本读取字节、搜索、摘要和截断片段不计全文完成。复核发现的区间缺口均实际补读后登记，重叠复读不另计完整遍次。
 
@@ -65,7 +66,7 @@ Samsung 测试读取跟踪图片 `public/images/photo-samsung-the-freestyle-2022
 
 ### 恢复位置
 
-[可恢复阅读计划](writing-style-reading-plan.json)保存累计计数、已完成批次及待读队列。`T006-H010`已排定24个待读路径、4,204,565字节。下一位置为 `docs/evidence/photo-expansion/round3/sharp-r10.wordpress.json`，第1遍、字符0；本次队列末项为 `docs/evidence/photo-expansion/round3/pfu-scansnap-fi4110eox.wordpress.json`。完整路径、哈希、实际遍数与恢复位置见阅读计划。
+[可恢复阅读计划](writing-style-reading-plan.json)保存累计计数、已完成批次及待读队列。`T006-H010`继续当前批次24个待读路径、4,204,565字节。下一位置为 `docs/evidence/photo-expansion/round3/sharp-r10.wordpress.json`，第1遍、字符35000；本次队列末项为 `docs/evidence/photo-expansion/round3/pfu-scansnap-fi4110eox.wordpress.json`。完整路径、哈希、实际遍数与恢复位置见阅读计划。
 
 大体积JSON、策展全量快照及嵌入HTML仍需按可见输出与上下文容量分批审读。续读先核对源SHA-256，若不一致即停止该路径；部分遍次从首个未覆盖字符恢复，确认每段后原子保存检查点。已有完整遍次沿用，不重复累计。尚未呈现的路径保留第1遍字符0，旧截断片段未确认的范围继续按原清单重读。
 
@@ -74,6 +75,8 @@ T006-H007关键词检索得到743个命中、684条原文行；已逐句确认74
 T006-H008关键词检索得到926个命中、861条原文行；已逐句确认926个命中、861条原文行。原文行的字符范围、逐句保留理由和未审位置见 [关键词核对](evidence/writing-style-2026-11-03/read-batches/T006-H008-keywords.json)。该核对与三遍全文计数分别保存。
 
 T006-H009关键词检索得到1022个命中、719条原文行；已逐句确认1022个命中、719条原文行。原文行的字符范围、逐句保留理由和未审位置见 [关键词核对](evidence/writing-style-2026-11-03/read-batches/T006-H009-keywords.json)。该核对与三遍全文计数分别保存。
+
+T006-H010关键词检索得到1920个命中、24条原文行；已逐句确认0个命中、0条原文行。原文行的字符范围、逐句保留理由和未审位置见 [关键词核对](evidence/writing-style-2026-11-03/read-batches/T006-H010-keywords.json)。该核对与三遍全文计数分别保存。
 
 ## 浏览器回归（此前）
 
@@ -86,7 +89,7 @@ Node.js v24.14.0，临时Playwright 1.64.1，现有Chrome 156.0.8078.80。测试
 
 [浏览器汇总](evidence/writing-style-2026-11-03/browser-summary.json)包含运行版本、源提交、四套结果及其哈希。原有历史测试与图片记录保留，新结果另存于该目录。构建、语法检查及21项标准测试再次通过，0跳过。
 
-H001至H009仅更新审阅记录和阅读计划；产品代码、测试、图片及历史原文相对 `ec0f2cc` 均未改动。H009新增覆盖、关键词、计数、哈希和恢复位置核对；标准测试沿用H007记录，浏览器沿用此前回归。
+H001至H010仅更新审阅记录和阅读计划；产品代码、测试、图片及历史原文相对 `ec0f2cc` 均未改动。H010新增覆盖、关键词、计数、哈希和恢复位置核对；标准测试沿用H007记录，浏览器沿用此前回归。
 
 ## H007本地标准检查
 
