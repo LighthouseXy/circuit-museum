@@ -15,7 +15,7 @@ const removedSlugs=historicalRemovedSlugs.filter(slug=>!approvedSlugs.has(slug))
 const registeredImages=JSON.parse(await readFile('src/image-overrides.json','utf8'));
 assert.equal(exhibits.length,400,'Run final browser acceptance against all 400 public products');
 assert.deepEqual(exhibits.filter(e=>e.image).map(e=>e.slug).sort(),exhibits.filter(e=>registeredImages[e.slug]).map(e=>e.slug).sort(),'All registered public photographs remain');
-const previousImages=JSON.parse(await readFile('docs/evidence/photo-expansion/before-image-overrides.json','utf8'));
+const previousImages=JSON.parse(await readFile('tests/fixtures/writing-style/photo-before-image-overrides.json','utf8'));
 for(const [slug,image] of Object.entries(previousImages)) if(byPublicSlug(slug)) assert.deepEqual(registeredImages[slug],image,`${slug}: preserve existing attribution`);
 function byPublicSlug(slug){return exhibits.some(e=>e.slug===slug)}
 assert.equal(chronicles?.status,'ready','Run final browser acceptance only after sourced chronicles are ready');

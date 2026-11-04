@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "batchId": "T006-H009",
+  "recordedAt": "2026-11-04T10:43:55.816656+08:00",
+  "sourceCommit": "453b98d1a2cefe125746fbd06b92afe803ae04c7",
+  "currentValidation": {
+    "fullTextFiles": 24,
+    "fullTextFilePasses": 72,
+    "keywordLinesReviewed": 719,
+    "keywordMatchesReviewed": 1022,
+    "sourceHashesVerified": 1118,
+    "preservedInventoryHashes": 1263,
+    "rawUTF8CharacterOffsets": "verified; source CRLF preserved",
+    "diffCheck": "passed",
+    "recoveryQueue": "verified",
+    "changedPaths": [
+      "docs/evidence/writing-style-2026-11-03/h009-validation.json",
+      "docs/evidence/writing-style-2026-11-03/read-batches/T006-H009-keywords.json",
+      "docs/evidence/writing-style-2026-11-03/read-batches/T006-H009.json",
+      "docs/writing-style-historical-read.tsv",
+      "docs/writing-style-historical-unfinished.tsv",
+      "docs/writing-style-reading-plan.json",
+      "docs/writing-style-review.md"
+    ]
+  },
+  "standardTestsRunThisBatch": false,
+  "browserTestsRunThisBatch": false,
+  "previousStandardValidation": "h007-validation/summary.json",
+  "previousStandardResults": {
+    "build": "passed",
+    "lint": "passed",
+    "tests": {
+      "pass": 21,
+      "fail": 0,
+      "skipped": 0
+    }
+  },
+  "previousBrowserGroups": 34,
+  "remoteCICheckedThisBatch": false,
+  "sourceAndTestLogicChanged": false,
+  "execution": {
+    "existingAgentsReused": 6,
+    "newAgentsCreated": 0,
+    "existingAgentsReusedThisContinuation": 4
+  },
+  "environmentRecovery": {
+    "localCheckpointsRetained": true,
+    "prHeadBeforeResume": "453b98d1a2cefe125746fbd06b92afe803ae04c7",
+    "nextPositionFieldsNormalizedFromContinuousRanges": true,
+    "uncertainSegmentsRedisplayed": [
+      {
+        "workerSlot": 1,
+        "kind": "keyword-slot5-line91",
+        "fromLineOffset": 35000
+      },
+      {
+        "workerSlot": 6,
+        "kind": "fulltext-pass2",
+        "fromRawCharacter": 133000
+      }
+    ]
+  },
+  "counts": {
+    "totalFiles": 1118,
+    "firstPassComplete": 1045,
+    "secondPassComplete": 180,
+    "thirdPassComplete": 180,
+    "firstPassPending": 73,
+    "secondPassPending": 938,
+    "thirdPassPending": 938,
+    "allThreeComplete": 180,
+    "allThreePending": 938,
+    "firstPassCompleteBytes": 20367407,
+    "firstPassPendingBytes": 26270527
+  },
+  "nextBatch": {
+    "id": "T006-H010",
+    "fileCount": 24,
+    "sourceBytes": 4204565,
+    "firstPath": "docs/evidence/photo-expansion/round3/sharp-r10.wordpress.json",
+    "lastPath": "docs/evidence/photo-expansion/round3/pfu-scansnap-fi4110eox.wordpress.json"
+  }
+}

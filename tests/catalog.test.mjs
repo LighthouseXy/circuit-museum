@@ -48,7 +48,7 @@ test('Current unique, substantive exhibits use valid categories, related links, 
     assert.equal(new URL(v.url).protocol,'https:');
   }
   assert.deepEqual(exhibits.filter(e=>e.image).map(e=>e.slug).sort(),exhibits.filter(e=>registeredImages[e.slug]).map(e=>e.slug).sort(),'Deliver all available registered photographs');
-  const prior=JSON.parse(await readFile(new URL('../docs/evidence/photo-expansion/before-image-overrides.json',import.meta.url)));
+  const prior=JSON.parse(await readFile(new URL('../tests/fixtures/writing-style/photo-before-image-overrides.json',import.meta.url)));
   const original=JSON.parse(await readFile(new URL('../docs/evidence/expansion-baseline-collection.json',import.meta.url))).exhibits.filter(e=>prior[e.slug]);
   assert.equal(original.length,33);
   for(const e of original) assert.deepEqual(exhibits.find(x=>x.slug===e.slug).image,prior[e.slug],`${e.slug}: original photograph preserved`);
@@ -180,9 +180,9 @@ test('built pages have resolving internal links, anchors and local assets', asyn
 });
 
 
-test('Original exhibits and original chronicle nodes retain their exact archived data',async()=>{
-  const baseCollection=JSON.parse(await readFile(new URL('../docs/evidence/expansion-baseline-collection.json',import.meta.url)));
-  const baseChronicles=JSON.parse(await readFile(new URL('../docs/evidence/expansion-baseline-chronicles.json',import.meta.url)));
+test('Original exhibits and chronicle nodes match the reviewed wording baselines',async()=>{
+  const baseCollection=JSON.parse(await readFile(new URL('../tests/fixtures/writing-style/baseline-collection.json',import.meta.url)));
+  const baseChronicles=JSON.parse(await readFile(new URL('../tests/fixtures/writing-style/baseline-chronicles.json',import.meta.url)));
   const originalExhibits=Array.isArray(baseCollection)?baseCollection:baseCollection.exhibits;
   const originalCategories=(baseChronicles.chronicles||baseChronicles).categories;
   assert.equal(originalExhibits.length,40);
@@ -248,7 +248,7 @@ test('Registered media opinions render attribution, scope, disclosure and origin
 
 
 test('All 136 editorial manifest products retain approved prose, reader takeaways, IDs and source identities',async()=>{
-  const manifest=JSON.parse(await readFile(new URL('../docs/expansion/editorial-import-manifest.json',import.meta.url)));
+  const manifest=JSON.parse(await readFile(new URL('../tests/fixtures/writing-style/editorial-import-manifest.json',import.meta.url)));
   const official=JSON.parse(await readFile(new URL('../docs/collection.json',import.meta.url)));
   const bySlug=new Map(official.exhibits.map(e=>[e.slug,e]));
   const sources=new Map(official.sources.map(source=>[source.id,source]));
@@ -288,7 +288,7 @@ test('All 136 editorial manifest products retain approved prose, reader takeaway
 });
 
 test('Photo expansion preserves previous attribution and publishes only reviewed, evidenced licensed photographs',async()=>{
-  const before=JSON.parse(await readFile(new URL('../docs/evidence/photo-expansion/before-image-overrides.json',import.meta.url)));
+  const before=JSON.parse(await readFile(new URL('../tests/fixtures/writing-style/photo-before-image-overrides.json',import.meta.url)));
   for(const [slug,image]of Object.entries(before))assert.deepEqual(registeredImages[slug],image,`${slug}: original photo/credit unchanged`);
   const manifest=JSON.parse(await readFile(new URL('../docs/evidence/photo-expansion/imported-photos.json',import.meta.url)));
   const choices=JSON.parse(await readFile(new URL('../docs/evidence/photo-expansion/review-choices.json',import.meta.url)));

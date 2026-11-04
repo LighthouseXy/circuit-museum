@@ -1,0 +1,6 @@
+
+> circuit-museum@1.0.0 build
+> node scripts/import-collection.mjs && node scripts/build.mjs
+
+Imported 400 exhibits, 139 photographs.
+Built 400 exhibit pages and 7 public pages → dist/

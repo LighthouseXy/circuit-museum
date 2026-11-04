@@ -1,0 +1,72 @@
+{
+  "testedSourceCommit": "5bcf5f0aa0700eb6d6b3312a05ab400e68fc5669",
+  "testedSourceTree": "9cc714734435c878bf30ef6ae954940ae06a83d3",
+  "productSourceUnchanged": true,
+  "harnessChange": {
+    "path": "tests/expanded-browser.mjs",
+    "change": "Read the previously approved Atari comparison fixture; all assertions unchanged"
+  },
+  "nodeVersion": "v24.14.0",
+  "playwrightVersion": "1.64.1",
+  "browserVersion": "156.0.8078.80",
+  "baseURL": "http://127.0.0.1:4173",
+  "groupChecksPassed": 34,
+  "javascriptErrors": 0,
+  "exhibitDetails": 400,
+  "photographsDecoded": 139,
+  "readingLines": 16,
+  "stages": 45,
+  "viewports": [
+    320,
+    390,
+    768,
+    1440
+  ],
+  "photoAttributionGroups": [
+    {
+      "photos": 98,
+      "viewports": [
+        390,
+        1440
+      ]
+    },
+    {
+      "photos": 7,
+      "viewports": [
+        390,
+        1440
+      ]
+    }
+  ],
+  "suites": [
+    {
+      "resultFile": "docs/evidence/writing-style-2026-11-03/expanded-browser-results.json",
+      "checks": 26,
+      "testedAt": "2026-11-03T13:46:27.674Z",
+      "browserVersion": "156.0.8078.80",
+      "resultSha256": "48a10d73515043e61c972b7f30207283093a61543ff2d7110658dca649243d10"
+    },
+    {
+      "resultFile": "docs/evidence/writing-style-2026-11-03/awards-browser-results.json",
+      "checks": 4,
+      "testedAt": "2026-11-03T13:40:01.853Z",
+      "browserVersion": "156.0.8078.80",
+      "resultSha256": "b7c58937c26377e3b21c98945e2ffbfe36770bd13c6083017d6c45f7d7ffc885"
+    },
+    {
+      "resultFile": "docs/evidence/writing-style-2026-11-03/photos-browser-results.json",
+      "checks": 2,
+      "testedAt": "2026-11-03T13:40:37.209Z",
+      "browserVersion": "156.0.8078.80",
+      "resultSha256": "2c33d6be1095e54816c7872d3a8f4e6f12cd5961205d46afc3a584b0d58d1b8c"
+    },
+    {
+      "resultFile": "docs/evidence/writing-style-2026-11-03/photos-round3-browser-results.json",
+      "checks": 2,
+      "testedAt": "2026-11-03T13:40:41.624Z",
+      "browserVersion": "156.0.8078.80",
+      "resultSha256": "7271da21c4d6bd3d2d978206631c207ed9952748c8154c4699a33a154090b3d9"
+    }
+  ],
+  "artifactHandling": "Scripts ran in a separate verification copy. Historical files in the PR checkout were not overwritten. Generated screenshots stayed in the local test copy; three current-layout screenshots were visually reviewed."
+}

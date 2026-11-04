@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "batchId": "T006-H007",
+  "recordedAtUTC": "2026-11-03T15:56:57.954809+00:00",
+  "testedSourceCommit": "d0d5413af936c8c5c5f0fe7c57fe12c2558faf9f",
+  "isolatedCopy": true,
+  "nodeVersion": "v24.14.0",
+  "currentRun": {
+    "build": "passed",
+    "lint": "passed",
+    "tests": {
+      "pass": 21,
+      "fail": 0,
+      "skipped": 0
+    }
+  },
+  "verifiedProductPaths": 203,
+  "productPathsByteIdenticalAfterBuild": true,
+  "currentBrowserRun": false,
+  "priorBrowserEvidence": "docs/evidence/writing-style-2026-11-03/browser-summary.json",
+  "logs": {
+    "build": {
+      "path": "build.txt",
+      "sha256": "647fd2490f55f645b58172ce2a47e7e6b2011be1dd593652a4dca8562d283251"
+    },
+    "lint": {
+      "path": "lint.txt",
+      "sha256": "40a2ae561bd647298beb73c2de6855ea273332d50b313becf575c46ee7e8e0f1",
+      "rawSha256": "58648d1ce9ad7852aa932c3c261ca512f70ec408c5c356f55752301d7a8d02f9",
+      "normalization": "trailing blank lines trimmed; command output retained"
+    },
+    "test": {
+      "path": "test.txt",
+      "sha256": "29136f75d856064c6a8c64f2ccbfa18b9b4589d830c9658b8b8a7329e909c7f9"
+    }
+  }
+}

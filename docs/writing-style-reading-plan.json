@@ -1,0 +1,437 @@
+{
+  "schemaVersion": 1,
+  "taskId": "T-006",
+  "targetFullReadPasses": 3,
+  "sourceBaselineCommit": "adf26dfc83e66e246aeeeddac73468eaab7ec84b",
+  "currentBatch": {
+    "id": "T006-H010",
+    "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H010.json",
+    "status": "partial"
+  },
+  "completedBatches": [
+    {
+      "id": "T006-H001",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H001.json",
+      "fileCount": 24,
+      "fullTextFilePasses": 72
+    },
+    {
+      "id": "T006-H002",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H002.json",
+      "fileCount": 24,
+      "fullTextFilePasses": 72
+    },
+    {
+      "id": "T006-H003",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H003.json",
+      "fileCount": 24,
+      "fullTextFilePasses": 72
+    },
+    {
+      "id": "T006-H004",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H004.json",
+      "fileCount": 6,
+      "fullTextFilePasses": 18
+    },
+    {
+      "id": "T006-H005",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H005.json",
+      "fileCount": 24,
+      "fullTextFilePasses": 72
+    },
+    {
+      "id": "T006-H006",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H006.json",
+      "fileCount": 6,
+      "fullTextFilePasses": 18
+    },
+    {
+      "id": "T006-H007",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H007.json",
+      "fileCount": 24,
+      "fullTextFilePasses": 72
+    },
+    {
+      "id": "T006-H008",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H008.json",
+      "fileCount": 24,
+      "fullTextFilePasses": 72
+    },
+    {
+      "id": "T006-H009",
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H009.json",
+      "fileCount": 24,
+      "fullTextFilePasses": 72
+    }
+  ],
+  "coverageFile": "docs/writing-style-historical-read.tsv",
+  "unfinishedFile": "docs/writing-style-historical-unfinished.tsv",
+  "counts": {
+    "totalFiles": 1118,
+    "firstPassComplete": 1045,
+    "secondPassComplete": 180,
+    "thirdPassComplete": 180,
+    "firstPassPending": 73,
+    "secondPassPending": 938,
+    "thirdPassPending": 938,
+    "allThreeComplete": 180,
+    "allThreePending": 938,
+    "firstPassCompleteBytes": 20367407,
+    "firstPassPendingBytes": 26270527
+  },
+  "ordering": "Prioritize paths with the fewest full passes, then byte size, then path. Finish all remaining passes of each selected path within its batch.",
+  "resumeRules": [
+    "Verify the source SHA-256 before any continuation; stop that path on mismatch.",
+    "Reuse completed-pass receipts. Resume a partial pass from the first uncovered character; present every new chunk to the model before acknowledging it.",
+    "Only mark a pass complete when its confirmed intervals continuously cover [0,characters). A file count increases only after a whole pass.",
+    "Save each acknowledged interval atomically. An interrupted batch resumes its current file/pass/offset before new work.",
+    "Preserve historical source bytes. Store observations in batch receipts.",
+    "Character offsets index UTF-8 decoded raw bytes, retaining CRLF. Any display newline normalization must retain an exact raw/display offset mapping."
+  ],
+  "nextBatch": {
+    "id": "T006-H010",
+    "status": "partial",
+    "fileCount": 24,
+    "sourceBytes": 4204565,
+    "entries": [
+      {
+        "path": "docs/evidence/photo-expansion/round3/sharp-r10.wordpress.json",
+        "sha256": "57df893187ca6717824e45acf91bcae05ebad5b1ea2d804b613920a2bb6a0cb6",
+        "bytes": 175036,
+        "characters": 174996,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 35000,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 1
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/omron-hem1.wordpress.json",
+        "sha256": "c8390dc1d8d091fc9109b1a40ea5b446be9aee4b2eb9322ad4f0740b22e87a9c",
+        "bytes": 175056,
+        "characters": 175016,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 45500,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 2
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/sony-ccd-v8.wordpress.json",
+        "sha256": "3d3a3e48da3e71629b9019e28657102cb17e21f352be9ae6ec253f3d5c94d873",
+        "bytes": 175057,
+        "characters": 175017,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 56000,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 3
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/teac-portastudio144.wordpress.json",
+        "sha256": "7705203a70160e1d27f674e22b8d5898e47daa231544bde5b5a649cf750b4167",
+        "bytes": 175074,
+        "characters": 175034,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 17500,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 4
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/sony-kv-1310.wordpress.json",
+        "sha256": "f0e9b60ddd64eff0e925db1fe136e467b12941fd577d307e1f2be047aa746135",
+        "bytes": 175077,
+        "characters": 175037,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 5
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/epson-vpj-700.wordpress.json",
+        "sha256": "17e58827faa36662dfbfa208823a5f048bcc9dbee0af80380b11255611032e65",
+        "bytes": 175097,
+        "characters": 175057,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 6
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/sony-ccd-tr55.wordpress.json",
+        "sha256": "7a637a9ca1dd2458341a712b19c36b74290333bb609d49135f87f1944375cc0a",
+        "bytes": 175097,
+        "characters": 175057,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 1
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/kitchenaid-h5.wordpress.json",
+        "sha256": "a52d69e6a077a5de65df1682a4badb2c9f32ba539398c8b43ccbfd519ce9f514",
+        "bytes": 175116,
+        "characters": 175076,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 2
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/ikea-dirigera.wordpress.json",
+        "sha256": "119b953888ffad14e2d6eb3995be83cb9b0d98353e06d020d5ba19101c595e4b",
+        "bytes": 175188,
+        "characters": 175148,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 3
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/magellan-nav1000.wordpress.json",
+        "sha256": "4971416eaaef6e2e2bd5ea59899c27899e5470869676286b15c2d1dcac9048f4",
+        "bytes": 175191,
+        "characters": 175151,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 4
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/samsung-galaxy-xr.wordpress.json",
+        "sha256": "ee034e0eb1e71158e9623443ea818fd141a145f0650a698d822935acc31c8853",
+        "bytes": 175192,
+        "characters": 175152,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 5
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/lg-oled-evo-m5-65.wordpress.json",
+        "sha256": "47c1d9c240645e6ea7b64fbfc2c576c0fdbd3c4cabd3eaf8379f4b52b815b995",
+        "bytes": 175222,
+        "characters": 175182,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 6
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/garmin-gps155-tso.wordpress.json",
+        "sha256": "8477e9d44535e823f430c940f430c1b1878021f296dbb470ab3ef776ca357428",
+        "bytes": 175226,
+        "characters": 175186,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 1
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/national-ec36.wordpress.json",
+        "sha256": "db7abd9856033c4c79c699de24ea29c62441dacac3ef4351948093ab8813589b",
+        "bytes": 175230,
+        "characters": 175174,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 2
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/sharp-aquos-lc20c1.wordpress.json",
+        "sha256": "b1119f68216def42e83a0b3f0b017ba76598effd457437324229127584959a76",
+        "bytes": 175231,
+        "characters": 175191,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 3
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/roborock-s7.wordpress.json",
+        "sha256": "49f1942ecec1a8995be588a29959766bd165883e0995662881268a39615f7d46",
+        "bytes": 175243,
+        "characters": 175203,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 4
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/microsoft-hololens-2.wordpress.json",
+        "sha256": "44c9bb9c9ac663f8a5c8a6eaaf708e2d422edf9c804857581f5f6caa95ca4953",
+        "bytes": 175252,
+        "characters": 175212,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 5
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/nikon-coolscan-ls-10.wordpress.json",
+        "sha256": "ebb4837fcbdab8b4e11d355ae206b32ec5312dea47f39d8f9aa70db8ff7e2857",
+        "bytes": 175252,
+        "characters": 175212,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 6
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/sony-betamax-sl-6300.wordpress.json",
+        "sha256": "4871a71779a29836b415559c67198ef304a328e65ef6e088bec9bb68e6b8beff",
+        "bytes": 175252,
+        "characters": 175212,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 1
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/husqvarna-solar-mower-1995.wordpress.json",
+        "sha256": "16b853ce6c8fc8905c5184605ca902ec6d7f2f7b7782bf0c5acf085def00dbfb",
+        "bytes": 175277,
+        "characters": 175237,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 2
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/perkins-smart-brailler.wordpress.json",
+        "sha256": "f34029a2bf1355247edd926f0371d1fc57b702aff78a11b3a4b5bd475d745b0e",
+        "bytes": 175292,
+        "characters": 175252,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 3
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/sourcenext-pocketalk-w.wordpress.json",
+        "sha256": "efedb65efa884c2a3296b63b6565e1f60fbe509ae9d015d0d2f77e7c58dac9be",
+        "bytes": 175292,
+        "characters": 175252,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 4
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/toshiba-er4.wordpress.json",
+        "sha256": "930ed4bd9a0883760333efc3575bcad7c54c3d3f940bc8f53376246b853853cc",
+        "bytes": 175304,
+        "characters": 175232,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 5
+      },
+      {
+        "path": "docs/evidence/photo-expansion/round3/pfu-scansnap-fi4110eox.wordpress.json",
+        "sha256": "316c5a516f9616414a59738c191890acbd82c62e7cd43157715125757d671e7b",
+        "bytes": 175311,
+        "characters": 175271,
+        "startingFullReadPasses": 0,
+        "targetFullReadPasses": 3,
+        "nextPass": 1,
+        "nextCharacter": 0,
+        "suggestedChunkCharacters": 3500,
+        "workerSlot": 6
+      }
+    ]
+  },
+  "allRepositoryFullReadComplete": false,
+  "supplementalReviews": [
+    {
+      "kind": "historical-screenshots",
+      "receipt": "docs/evidence/writing-style-2026-11-03/historical-screenshot-review.json",
+      "fileCount": 3,
+      "targetVisualPasses": 3,
+      "status": "complete",
+      "countedInTextPaths": false
+    }
+  ],
+  "keywordReviews": [
+    {
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H007-keywords.json",
+      "status": "complete",
+      "matches": 743,
+      "reviewedMatches": 743,
+      "batchId": "T006-H007"
+    },
+    {
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H008-keywords.json",
+      "status": "complete",
+      "matches": 926,
+      "reviewedMatches": 926,
+      "batchId": "T006-H008"
+    },
+    {
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H009-keywords.json",
+      "status": "complete",
+      "matches": 1022,
+      "reviewedMatches": 1022,
+      "batchId": "T006-H009"
+    },
+    {
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H010-keywords.json",
+      "status": "partial",
+      "matches": 1920,
+      "reviewedMatches": 0,
+      "batchId": "T006-H010"
+    }
+  ],
+  "pendingKeywordReviews": [
+    {
+      "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H010-keywords.json",
+      "status": "partial",
+      "matches": 1920,
+      "reviewedMatches": 0,
+      "batchId": "T006-H010"
+    }
+  ]
+}

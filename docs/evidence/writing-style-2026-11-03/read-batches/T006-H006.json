@@ -1,0 +1,1511 @@
+{
+  "schemaVersion": 1,
+  "batchId": "T006-H006",
+  "status": "complete",
+  "sourceBaselineCommit": "245d9209136dbb05765c449a199468dd7b5b08e8",
+  "recordedAtUTC": "2026-11-03T15:18:40.195643+00:00",
+  "method": "每遍重新完整呈现原文并逐块审读；确认后保存半开字符区间。脚本字节读取、摘要及截断输出不计全文通读。",
+  "observationsAreArchiveReadings": true,
+  "externalSourcesReverified": false,
+  "sourceFilesUnchanged": true,
+  "fileCount": 6,
+  "startedFileCount": 6,
+  "completedFileCount": 6,
+  "sourceBytes": 446397,
+  "completedFullTextFilePasses": 18,
+  "firstPassCompleteBytes": 446397,
+  "files": [
+    {
+      "path": "docs/evidence/photo-expansion/review-choices.json",
+      "sha256": "d658d2e07c0dff789ea2dd90f347d16321efc38c6a73fc12c80ca92cd8a88517",
+      "bytes": 73904,
+      "characters": 57456,
+      "workerSlot": 1,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              49000
+            ],
+            [
+              49000,
+              52500
+            ],
+            [
+              52500,
+              56000
+            ],
+            [
+              56000,
+              57456
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              57456
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "The opening entries are records of image choices rather than object-history claims: Kindle side keys/keyboard, 32GB Wi-Fi first iPad, M5 13-inch Sky Blue Air, DynaTAC 8000X, CDP-101 with remote, standard black 2023 F-91W, 701C butterfly keyboard and EP-101 mechanism. Dates and version limits are explicit; images do not prove launch date, processor/storage/screen, power-region or original-era manufacture. “Visually-reviewed” points to contact-sheet review, not new independent model verification. Next choices add Ericofon 1956 (not DBJ700), Switch 2 2025 handheld (not performance/uptime evidence), HP-65 (not running condition), XEL-1 2007 exhibit (no regional power from photo), Kenwood 700 (wear not factory condition), Dyson DC01, Switch Lite (fixed controls), and Wii U console/GamePad composite. Captions/modelVerification are item-specific visual claims; each explicitly fences off unobservable specs, era condition, functionality or version transfer. Next images: external Iomega Zip100 with compatible Fujifilm 100MB disk (not original brand packaging); Kobo Touch 2011 (not Touch 2); N64 triple-grip controller (photo cannot establish region power/video); Game Boy Color (color is not a generation), original horizontal GBA (not SP/Micro), original GameCube (no region/capacity proof), 3DS from NYC 2011 launch event (not evidence of Japanese retail package/date).  Western Electric Model 500 image is a 1951 specimen, not a 1949 launch sample; Picturephone is specifically Mod II 1972–73, not Mod I. AirPort photo composition includes later white units only as comparison, identifying the graphite foreground unit as 1999 first gen. Roomba is original with size buttons, not mapping features; Quest 3 is distinct from 3S sensor arrangement; PSVR2 hardware appearance does not verify compatibility; 2024 Vision Pro photo does not prove M2/storage/tracking.  Camera/controller selections: Canon AE-1 not Program and example lens not universal kit; EOS 650 with example EF zoom; PowerShot 600 is specific older model, not later namesake; Kodak DCS 100 combines Nikon F3 with external digital storage; Xbox Adaptive Controller image shows base device, not all switch/accessory combinations; DCR-VX1000 not VX2000; Nikon D1 not D1H/D1X. All captions confine claims to visible body/features, not use/functionality extrapolations. EOS 5D Mark II photo supports visible model and accessory only, not video/AF results. Legion Go is 2023 original, not S; Lumix G1 example lens not kit proof; E-P1’s external viewfinder is not built-in; X100 is first fixed-lens version, not S/T/V. K380 lettering is CJK market-specific; Newton is Smithsonian H1000 1993 original with case, not MessagePad 100/2000.  Hardware generations remain exact: original 2017 Switch not OLED/Switch2; Japanese Super Famicom not North American SNES; original two-layer PS4 not Slim/Pro; original 2020 disc-drive PS5 not Slim/Pro; PSP-1000 image cannot establish region; Vita is North American PCH-1101 despite Japanese launch narrative. Canon RC-701 photo is of an analog still-video camera, not a digital-file camera. Additional models: Nikon COOLPIX 300 front/back composite is one model, not two generations; COOLPIX 900 rotating lens is exact older model; Color TV-Game 15 has detached wired controller, distinct from fixed-controller 6; Game & Watch Ball is original AC-01 plus manual, not anniversary RGW-001. Perkins SMART Brailler is deliberately pending because image may be annotated diagram, not confirmed object photo. RCA 630TS MoMI physical display and first-gen Google Home/Nabaztag descriptions are generation-bounded; Nabaztag image cannot prove server service still works. Later entries distinguish black 2019 Quest from white Quest 2; ROG Ally original 2023 retail image shows body but not Z1 Extreme chip or test; Sony Aibo ERS-1000 from ERS-110 and its cloud service status. PS5 Pro frame is specifically no-disc-unit and records separately checked CC reuse license (date/source URL stated, without claiming full source-video review). MSI Claw A1M licensed frame includes Commons CC BY note, prior blur edit, and explicitly not a performance result.  HTC VIVE photo is 2016 consumer first-gen, excluding Pre/Pro. PS3 image is North American CECHA01 60GB, with DualShock 3, not Japan launch bundle; PS2 image is North American SCPH-30001 with expansion bay, not Japanese launch configuration. PS4 Pro sample photo explicitly compares Taipei Pro (three-layer) vs Slim (two-layer). Nikon F3 is standard-prism configuration, not HP viewfinder, and sample 50mm lens is accessory not universal launch bundle. Steam Controller photo is a 2016 specimen, not a launch-year date claim. Portal caption confines displayed screen content to photo moment. Ricoh image is GR III at shop exhibit, not IIIx. Amazon Echo is original tall unit in Jan 2015 user unboxing; capture date is not launch, and a possibly rendered candidate remains rejected pending type verification. Xbox Ally/Ally X two-unit 2025 store photo distinguishes right black/gray Ally X by placard; earlier mislabelled white 2023 Ally candidate is rejected. Xbox Ally X wrong-candidate rejection is concrete: alleged 2026 image is actually white 2023 model in contact sheet. Insta360 X5 is actual camera photo, but case obscures marking and does not prove included accessory; Steam Controller 2026 is recorded separately from 2015 and capture date does not identify manufacturing batch. Canon XL1 is PAL variant and sample lens/accessories are not pack-out evidence; TM5 photo has prior crop/background processing. Philips Hue image is 2014 first-gen circular bridge plus two bulbs, not full three-bulb starter package.  DJI photo is a first Phantom (red-striped body) in April 2013 with user-mounted GoPro, not built-in camera package. HP LaserJet I is the central 1984 exhibit, logo without Plus suffix; neighboring printers are background only. Nest Protect image is 2014 demo stand with push-to-demo; it shows appearance, not sensor/service function. Braun Sixtant SM31 with box is physical object, while 1962 is design-model year, not that object’s manufacture date. Motorola PageBoy is H03BNC1102D0, identified by front label/housing plus only an indexed 1978 parts-table excerpt; no production year or detailed reception inference. Nest thermostat is installed first-gen December 2011 physical photo before Gen 2 announcement, not rendering. MX Master 3 is right-hand actual mouse in 2048px primary-author CC0 desk photo; nearby keyboard/wrist rest are scene props and not bundle. The notes record exact license/author verification rather than infer from similar 3S. LG StanbyME Go is a genuine manufacturer-promotional scene, screen lies flat in briefcase and displays turntable artwork (not vinyl hardware); people/set are promotional; model label absent and no performance/regulatory claims. CC BY 2.0 verification is documented. Valve 2026 Steam Machine cube is physically photographed, distinct from 2015 partner ecosystem, but no internals/performance from photo. Virtual Boy Japan status deliberately remains pending: location/labels insufficient for regional SKU proof; do not count it as completed. Sony Access controller is shown with three external assist devices, not bundle. Samsung T7 is plain T7 distinct from Shield/Touch; 2025 capture date not launch date. Final records: Samsung Freestyle is official 2022 launch-scene photo of physical first-gen projector; people, set and projection are promotion, not brightness/image-quality test; same bytes/license rationale documented. Galaxy XR is Korean commercial launch event in Oct 2025, explicitly not Moohan prototype; two-angle image is original unchanged JPEG with source license recorded. Pass 1 covers [0,57456) contiguously. Reviewed the previously unrecorded [7000,10500) segment: Framework image is a Jan 2022 exhibit preceding the May 2022 12th-gen model announcement and lacks a processor label; Nokia 3310 image is not the referenced O2 handset or 2017 reissue; Osborne 1 is identified by keyboard/screen/dual drives; PSVR is pre-ZVR2 but not proof of package/firmware. TR-808 and TB-303 panel controls are visible, while DX7 is explicitly an author-composited pair of views with credit retained."
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              49000
+            ],
+            [
+              49000,
+              52500
+            ],
+            [
+              52500,
+              56000
+            ],
+            [
+              56000,
+              57456
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              57456
+            ]
+          ],
+          "focus": "证据与许可/操作限制",
+          "notes": "Evidence/permission/operation pass begins. The file itself is a staged photo-choice register, not license grant: a visual review status only says a reviewer inspected framing/layout, and model text relies on file author/catalog text plus seen housing. Each caption narrows what the picture can establish; no image by itself proves performance, historical market dates, internal specs, safe operation or full bundle.  Source-like wording on Ericofon/HP65 depends on file descriptions and visible exterior; Switch2 is dated June 2025 but performance claims prohibited; HP65 operation not established. XEL-1 image lacks rating label; Chef 700 aging not factory condition; DC01 appearance does not establish cleanability or present functionality. Switch Lite photograph is real-object file, while Wii U composite was background-edited by Commons author and derivative status is expressly acknowledged. Framework photo occurred Jan 2022 before 12th-gen launch announcement May 2022, so does not identify CPU. Nokia 3310 photo is 2017-captured original shell, not the O2 object or 2017 remake; Osborne body supports visible layout only. PSVR is pre-ZVR2 consumer first generation, not retail package/firmware. Audio-device captions describe visible control arrangements, not recorded sound/results; DX7’s two views are author-composited and attribution is preserved. Zip photo shows compatible Fujifilm medium, not Iomega-branded original packaging. Kobo is original Touch, excluding Touch 2. N64 image cannot establish electrical region or video standard. Game Boy Color’s transparent colorway is same model; GBA is original horizontal handheld, not SP/Micro. GameCube image proves visible hardware arrangement, not region/capacity; 3DS is New York launch-event object and does not document Japanese retail set/date. Model 500 picture is one 1951 specimen, not launch sample; Picturephone model and 1972–73 period explicit. AirPort group scene’s graphite original is separated from two later white bases; Roomba is original and does not evidence mapping. Quest 3 not 3S, PSVR2 hardware photo does not prove function/compatibility; 2024 Vision Pro photo does not show M2, storage or tracking outcomes. Camera evidence statements are limited to model labels, visible controls and package distinctions: AE-1 not Program, lenses shown are not universal kit; EOS 650 with sample EF zoom; PowerShot 600 is older specific model, not later namesake; Kodak DCS100 is F3 body plus external storage unit. Xbox Adaptive Controller base photo does not stand for every external switch setup. DCR-VX1000 not VX2000; Nikon D1 not H/D variants. 5D Mark II photo is not a video/autofocus test; Legion Go exact original detachable-controller form, not Go S; Lumix G1 and PEN E-P1 sample lenses are not standard bundles; E-P1 viewfinder is external. X100 is original fixed-lens model, excluding S/T/V. K380 legends are CJK-region-specific. Newton H1000 is institutionally labeled 1993 original with protective case, not later MP100/2000. Switch photo really predates OLED/Switch2 and shows 2017 docked Joy-Con arrangement. Super Famicom’s Japanese shell cannot substitute SNES. PS4 and PS5 photos support original chassis silhouette, with PS5 disc slot visible; PSP image cannot establish region; Vita shown is North American PCH-1101, while Japanese date is independent. Canon RC-701 is analog still-video system, expressly not digital-file capture. COOLPIX 300 two views are one device; COOLPIX 900 rotating lens is a specific original model. Color TV-Game 15 is labeled model 15 with detached wired controller, not 6. Original Game & Watch Ball shown with AC-01 documentation, not anniversary reissue. SMART Brailler remains pending because arrow-annotated drawing is not confirmed photo. RCA and Google Home show visible physical layout only; Nabaztag first-gen photo excludes inference that old server remains alive. Quest is black first-generation 2019, not Quest 2; Ally image is not chip/performance evidence; Aibo photo excludes ERS-110 and cloud-service status. PS5 Pro licensed frame is explicitly optical-drive-less, with separate CC verification dated 2026-10-13 and no claim full video watched. MSI Claw is A1M first-gen licensed CC BY 3.0 video frame, with previously blurred background and no benchmark conclusion. VIVE is consumer version first gen, not Pre/Pro. PS3/PS2 photos are particular US retail models with regional configuration and controller caveats; pasted source description includes bestseller rhetoric, but caption does not use that as photo evidence. PS4 Pro/Slim compare sample chassis only. Nikon F3 image is standard prism (no HP mark), with 50mm lens as optional depicted accessory. Steam Controller is photo from 2016, not necessarily 2015 launch unit; Portal screenshot is Portuguese display state only; Ricoh is verified GR III (18.3mm) exhibit, not IIIx. Amazon Echo evidence is a user unboxing with EXIF Jan 2015, not first-publish date; an isolated possibly-rendered candidate remains rejected. Xbox Ally X is identified from 2025 Japanese-store placard, and earlier mislabelled white Ally candidate excluded. Candidate rejection note is specific: an alleged 2026 Ally X photo is actually 2023 white Ally and rejected. X5 camera is real but protective case obscures visible model badge; the source says X5; no claim case is standard. Steam Controller 2026 is separately recorded and date alone does not establish manufacturing batch. XL1 is PAL model, lenses/accessories shown are not bundle; TM5 is actual physical item but previously background-edited/cropped. Hue image’s circular Bridge is first generation, but two pictured bulbs are short of the three-bulb starter kit. DJI Phantom has an external GoPro mount and 2013 date before Phantom 2/Vision; no claim camera is built in. HP exhibit is original LaserJet logo/no Plus; neighboring devices not subject. Nest Protect is physical first-gen retail demo dated 2014 and its visible Demo button does not establish sensor/service operation. Braun SM31 is a 1962 design model but the pictured object’s manufacture date is unknown; box is just as pictured. PageBoy identity uses creator’s H03BNC1102D0 identification plus indexed 1978 table excerpt only; full PDF unavailable, and caption denies production/date/function claims. Nest thermostat photo is a physically installed first-gen unit from Dec 2011 before Gen2 announcement, not a reused render. MX Master 3 is an author-identified exact model in a CC0 photo; keyboard/wrist rest are props, no inference from 3S resemblance; WordPress published date is not EXIF capture date. LG StanbyME Go is a first-gen 2023 manufacturer promotional photo; screen shows turntable interface artwork, not record player; people/set are staging. CC BY 2.0 license and dates photographed/uploaded are separately recorded, but no rear model badge, certification or performance. 2026 Valve cube is genuinely photographed and author identified, distinct from 2015 partner devices, no internals/performance. Virtual Boy regional verification is pending because shop location/signage are insufficient. Sony Access photo has third-party Logitech inputs, not in-box controller bundle. Samsung The Freestyle is an original 2022 first-gen campaign scene with license/source byte-integrity documented; scene and projection are promotional rather than brightness/image-quality evidence. Galaxy XR is an October 2025 commercial launch display, not 2024 Moohan prototype; original JPEG retained and newsroom reuse permission documented. Pass 2 continuously spans [0,57456)."
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              49000
+            ],
+            [
+              49000,
+              52500
+            ],
+            [
+              52500,
+              56000
+            ],
+            [
+              56000,
+              57456
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              57456
+            ]
+          ],
+          "focus": "逐句文风及历史保留必要否定理由",
+          "notes": "Style/retention pass begins: captions are short and object-led, usually name a visible feature then immediately define evidentiary boundary. Preserve model/date negatives (not later device/reissue, no inferred region/spec/performance/function, current condition unknown); these are useful precision, not boilerplate to trim. The M5 photo’s chip/performance caveat and Kindle/iPad version distinctions are especially important because visual resemblance could otherwise overstate what the frame proves. Ericofon date/model wording distinguishes era body from DBJ700; Switch2 performance and battery restraint; HP-65 current function unknown; XEL-1 region power label absent; Kenwood wear is not original finish. Preserve these concise negatives as essential visual-evidence boundaries. Switch Lite/Wii U captions use body/control comparison, with Wii U author edits disclosed; no claim that the full image was untouched. Framework date caveat is a clear example of chronology discipline: Jan 2022 display precedes May Intel 12th-gen announcement, and no CPU claim. Nokia visual is not the referenced O2 handset/reissue; Osborne shows task layout; PSVR is pre-ZVR2 but not retail kit/firmware. Music-machine descriptions are restrained to panels/controls; repeated generic “contact sheet” notes are workflow metadata rather than caption prose, and the author-composite DX7 attribution should stay. The Zip100 caption is a useful ordinary example of preserving brand boundaries without erasing compatibility; Kobo/N64/GBC/GBA/GC captions similarly keep model/version simple and factual. The negatives about video standard, region, capacity and variant are necessary when front images cannot show them. 3DS event location remains separate from Japanese market chronology. Model 500 provenance keeps object-year 1951 separate from introduction and origin model; Picturephone caption names Mod II and period, avoiding genealogy collapse. AirPort multi-unit photo carefully isolates earliest graphite base, no confusing background comparators; Roomba’s no-mapping phrase is necessary. Quest3 sensor pattern, PSVR2 physicality and Vision Pro external form are visual matters, but function/chip/service require other evidence. Camera captions use a stable pattern: visible model label/control → illustrative comparison → a targeted exception (not Program, not package lens, not test results, not newer model). DCS100 caption explains combined camera/storage system without reducing it to a body alone. Xbox accessibility caption importantly avoids implying the pictured basic device encompasses every individualized accessory configuration. 5D Mark II text explicitly says frame cannot prove video/AF tests. Legion Go version boundary blocks same-brand successor confusions; G1 lens package and E-P1 add-on finder are separately qualified; X100 suffix generations named; K380 CJK legends are not globally universal. Newton museum number/H1000 and 1993 constrain model identity, while case remains an accessory shown rather than proof of bundled pack. Nintendo/Sony captions use silhouette for model-class recognition but explicitly keep regional shell variants distinct (Super Famicom vs SNES) and exact console generation (Switch before OLED/2, PS4 vs Slim/Pro, PS5 disc vs Slim/Pro). PSP region and Vita Japan launch cannot be inferred from pictured US/non-labelled units; RC-701 description uses historically specific “static video,” not digital-file terminology. Multi-view and region semantics are especially useful: COOLPIX 300 composite is same device, 900 is specific rotating lens, 15 controller separation is visually legible, original Ball is paired with manual while anniversary replica excluded. The Brailler status is deliberately pending, not a failure hidden by surrounding successes. RCA/Google Home/Nabaztag retain function boundaries and generation-specific cues. Nabaztag caption uses a visible generation cue and explicitly withholds an inference about legacy server operation. Quest, Ally, and Aibo entries are concise, object-led descriptions followed by narrowly targeted negatives (Quest 2 substitution, chip/test evidence, ERS-110/cloud state). PS5 Pro states the no-disc configuration and separates the license check from the visual claim; Claw identifies the blur as pre-existing and excludes performance-test use. Preserve these limits and the audit trail; they are not redundant caption padding. The VIVE caption carefully identifies a dated consumer model while excluding prototype and Pro variants. PS3/PS2 distinguish the photographed North American SKUs and bundled controller/expansion bay from launch-era regional configurations; embedded source marketing language (for example, sales superlatives) should not be carried into a visual claim. PS4 comparison caption maps visible three-tier/two-tier shells to Pro/Slim. Nikon F3 separates camera body from pictured lens and standard prism from HP; preserve the qualified visual identification rather than turning accessory presence into pack-in history. Steam Controller wording keeps capture date distinct from manufacture/launch; Portal limits screen text to the instant photographed; GR III is distinguished from IIIx by label/lens evidence. Echo caption correctly separates January 2015 EXIF from first publication and preserves a rejected possibly-rendered candidate as pending. Ally/X entry uses store placards to distinguish two contemporaneous models and explicitly records why the earlier white candidate was rejected. Keep pending status and provenance rather than smoothing uncertainty away. The correction note for the rejected Ally image is concrete and should remain attached to the choice. X5 caption balances source attribution with a visible marking limitation; case presence is not pack-in evidence. 2026 Controller is kept distinct from 2015, with photo date barred from proving batch. XL1 identifies PAL and avoids XL1s/XL2 substitution; TM5 names visible controls while disclosing crop/background processing. Hue clearly says two bulbs are not its three-bulb starter contents. These are concise provenance/representation statements, not unnecessary hedges. The Phantom sentence keeps the user-added GoPro external and separates it from the aircraft’s built-in configuration. LaserJet caption directs attention to the central exhibit and uses the visible no-Plus logo/1984 label while explicitly treating neighbors as scene background. Nest Protect describes the demo stand but refuses to infer sensor or current service operation. Braun distinguishes a model’s design year from the pictured specimen’s manufacture date. Preserve these distinctions because they prevent captions from converting exhibits into broader claims. PageBoy wording names the family/model code while explicitly disclosing the limited indexed excerpt and unavailable complete PDF; retain that evidence limit and the denial of date/function claims. Nest thermostat caption relies on physical installation details and chronology to distinguish an actual first-generation unit from later appearance. MX Master 3 attributes model identity to the image author and visible controls, while treating keyboard/wrist rest as props and the publication date as distinct from capture date. Those source qualifications are central to historical transparency. StanbyME Go’s caption distinguishes screen artwork from an actual turntable and identifies the scene as promotional; lack of a visible rear label limits any model/certification claims. Valve’s 2026 cube is distinguished from 2015 partner devices, with internals/performance explicitly outside the photo evidence. Virtual Boy stays pending because Japanese shop context does not establish regional SKU; preserve pending status. Access controller caption explains external assistive gear is an example configuration, not standard contents. T7 entry is careful about plain/Shield/Touch variants and capture date vs launch year. All retain evidence limits in direct language. The Freestyle caption names the model and visible support while treating people/set/projection as marketing context rather than an image-quality test. Galaxy XR identifies the Korean commercial launch setting and original two-angle JPEG, and explicitly separates it from Moohan prototype material. Preserve the original-file and licensing rationale; the notes distinguish the physical product claim from reuse provenance."
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–938; chars 0–57456 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 未向模型展示完整文件内容；未读区间为第1行–第938行（全文件）。分配清单共186份、约7.4 MB，在本轮可见输出与上下文预算内未能逐份完整读取；没有用关键词扫描或抽样替代全文审阅。",
+        "review_notes": "未审阅：全文未通读。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-home-02.json",
+      "sha256": "e5e1e45d8f9acc4f860aaadd517ead0ebca773c1da21758b9aa46b0790e0a208",
+      "bytes": 74248,
+      "characters": 48623,
+      "workerSlot": 2,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              48623
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              48623
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "首遍来源/日期/型号：该文件schema v2、checkedOn 2026-10-11，reviewed-staged-import-packet；沿用40件base和snapshot。展项Hoover Constellation model 444以LACMA实物约1956–1959制造区间为年代锚，Henry Dreyfuss为设计者；不混英国86或系列其他代际。1965商家广告仅证其仍销售，不可当首发。LACMA分件列罐体/软管/延长管/地面附件，结构叙述与具体对象并行。 Hoover source ids HC150-S015/S016 support all five paragraphs, relationships to DC01, text-only and status ready for import but chronicle not imported. Model number/approx manufacture interval remain narrower than sales geography, which is explicitly not established. Next Braun HL1: MoMA work dated 1961 and designed Reinhold Weiss, Pompidou separate HL1/11 corroborates another cataloged variant but not universal electrical identity; no sale/date expansion. HL1 facts source map is HC150-S013/S014 throughout; status text-only, chronicle mapped-not-imported, related thermostat deferred. It is a table fan; no electrical range, airflow, noise or oscillation claims. Next SM31 1962 is design-date based on Musashino and Red Dot object/exhibition catalogs, not verified global retail launch. Exact German SM31 is separated from later series; form claims must not become performance/skin-safety outcomes. SM31 source mapping keeps two institutions distinct and records 1962 as design work date; Red Dot exhibit selection is explicitly not product award, hence awards empty. The shape/hex mesh is a design interpretation, not tested shave performance. Original manual gaps for drive, power and cleaning are prominent. Next Motorola PageBoy I: HNF chronology supplies 1964 node, Westport identifies the exact object; excludes PageBoy II/text/voice successors. Need not conflate historical paging networks with this specific device. PageBoy facts map HNF date and Westport object separately; no import media; relates DynaTAC and Western Electric but remains a notification-only receiver, not complete talk. Next Picturephone Mod II is US Pittsburgh service terminal, with CMU archive marking 1970-07-01 commercial service—not 1964 Mod I demo. Date event type commission/service, terminal/version and network context should remain explicit. Picturephone limitations are precise: service date is Pittsburgh 1970-07-01, not global sales; no manual/fees/user studies, questionable pixel number avoided; later-modified modern video conference is not original operation. Source/relations and text-only state remain separate. Next Omron HEM-1 is Japan first electronic manual manometer from 1973 product history, not later HEM77 fully automatic display. Preserve distinction between electronic sensing and manual operation; no medical advice. HEM-1 limitation explicitly says no manual/region scope, calibration/accuracy/effects test; brand health objective is not efficacy proof. Hand-operated electronics is not a contradiction, and not a medical recommendation. Next NAV1000 anchors 1988 to a particular Smithsonian manufacture record, explicitly not common 1989 launch claim; distinct from NAV1200 and no turn-by-turn/map inference.\nGPS 155 TSO at [24500,28000): 1994-02-16 is FAA TSO approval per Garmin retrospective, not launch; 155 is distinguished from 165 by panel fit, and RAIM/NavData references do not establish satellite availability or operating fitness.\nGPS usage/significance/limitations at [28000,31500): packet expressly avoids flight steps, approach procedures, wiring/install instructions, safety outcome claims, and present-day applicability. FAA certificate was not independently read; approval date must not be generalized to every install. Database/data card and monitoring make provenance/status checks part of context, not standalone flight instructions.\nSource registry at [31500,35000): HL1/11 is limited to the institution index because page opening returned Internal Error (explicitly not a 403); source scope excludes conflating suffixes/electrical versions. LACMA supports 444 model/date/designer/materials/accessories; the 1965 newspaper is a commercial ad establishing continued listing only, not launch, and price is not a purchase recommendation.\nRegistry at [35000,38500): Smithsonian NAV1000 object and archive catalog scopes are limited to indexed text; Internal Error is distinguished from a 403 and archival engineering files were not read. NMAH supports model, 1988 artifact manufacture year, battery power; archive index lists first-generation/single-channel engineering scope. HNF supports PageBoy chronology, while Westport separately scopes the PageBoy I artifact.\nSource entries at [38500,42000): Westport exhibit identifies PageBoy I and 1964–1975 label but image source is eBay and not electrical-version evidence; page template’s shopping widget/background AI treatment are disclosed. CMU launch source scope is Pittsburgh 1970-07-01 commercial start and original artifacts; visual Mod II source supports mirror/three line pairs and rejects the suspected 0.8MP figure. Image rights remain separately unchecked.\nRegistry at [42000,45500): Garmin approval milestone is a brand statement and no FAA original certificate was independently retrieved. Product page is commercial, only 16 lines opened/index supplemented; it supports 155/165 width and RAIM/data card without current-stock promise. Omron 1973/H​​EM-1 claims are manufacturer history; 1978+ successor is explicitly kept separate, with no apparatus, efficacy, or image-right verification.\nTail [45500,48623): candidate-pool source entries H04A/H04B define SM31/1962 and design details, while separating museum manufacture/catalog year from release/sale date and explicitly preventing exhibition selection from becoming a 1962 Red Dot award claim. Rights remain independently checked. Import instructions require manifest order, verify slug/ID, avoid duplicate legacy 14, and treat future planning fields as nonrequired."
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              48623
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              48623
+            ]
+          ],
+          "focus": "事实/许可/操作限制",
+          "notes": "Pass 2 evidence/limits: packet designates proposed IDs to check live before import and status staged, not imported; base snapshot remains the 40 preserved slugs. Hoover model identity and date are tied to LACMA artifact catalog; ad is only continued listing. Interpretive airflow path is not an inspected internal diagram; no specific bag/switch/accessory assembly steps because full manual unavailable. Existing Hoover run-demo would need separate electrical/mechanical condition review.\nHoover-to-HL1 transition [3500,7000): Hoover links both paragraphs to museum/ad sources but its evidenceLimits explicitly bar global-first and social-impact claims and leaves regional sales and surviving electromechanical condition unchecked. HL1 is exactly the MoMA 1961 object; Pompidou HL1/11 is a distinct suffix record, not proof all electrical variants coincide. No manual/test, settings, airflow, noise, cooling or health claims; any operation demo requires physical inspection.\nHL1 source mapping at [7000,10500): five sections tie to MoMA and Pompidou, but identity/date cite MoMA alone. It is presented as desk fan, not a room-temperature device; awards empty and no current machine status. Sixtant SM31 begins with 1962 as two design institutions’ object-era date, not verified global first sale; its skin-contact function warrants explicit non-medical, no-efficacy boundary.\nSixtant source wiring at [10500,14000): MoMA-like fact field/identity/date point to H04A while both institution records inform the five prose sections; Red Dot is an exhibition selection rather than award, with awards kept empty. The packet explicitly leaves the original manual, drive, screen cleaning and power version unresolved. PageBoy I starts as separate 1964 historical node (HNF) plus Westport object identity; date is not universal service deployment.\nPageBoy at [14000,17500): identity/date source relation intentionally splits HNF historical source (1964 node) from Westport exhibit model. Five paragraphs use both sources; images are not evidence of electrical variant. Limits retain no service/field test, no universal coverage/fees/users, and no present-day reachability; notification is not reply or full calling.\nPicturephone [17500,21000): CMU event is Pittsburgh service start 1970-07-01, not global sale; no full manual/fee/user research and later modern-conference retrofit is expressly excluded. Mirror and line distribution descriptions are specific; uncertain webpage pixel count avoided. Not restored by ordinary phone line, nor current system assurance. HEM-1 begins with manufacturer history distinguishing 1973 manual electronic manometer from later automatic displays.\nHEM-1 [21000,24500): manual process remains human-arranged; packet expressly gives no posture/pressure/reading threshold/when-to-measure guidance, no diagnosis, no precision validation, and no inference of automatic, connected, memory, warning features from later models. Brand health goals are not outcomes. The dated fact and identity both map manufacturer history; five text sections map both history sources.\nNAV1000 [24500,28000): exact Smithsonian artifact manufacture year (1988) is kept separate from global sale, while archive is only indexed catalog, no engineering papers; factual ceiling is battery-powered handheld and first-generation single-channel. No precision, runtime, waypoints, current operation or navigation/safety assurances. GPS155 begins with approval date as approval rather than launch, explicitly not conflating panel 155 with 165.\nGPS155 [28000,31500): usage text deliberately avoids flight steps, approach procedures, wiring/installation and says not substitute for certified training. Approval evidence is manufacturer retrospective without independent FAA certificate; product page access limited/script shell; no precision/failure/current database or install applicability conclusions. RAIM and NavData are features but not guarantee.\nSource registry [31500,35000): Pompidou HL1/11 is index-only; Internal Error is carefully distinguished from 403 and no full PDF obtained. LACMA 444 supports exact model/date/designer/material/accessory; advert source is indexed only and strictly corroborates continued 1965 listing, not launch. LACMA image credit and absent physical/durability/market/image-right checks remain.\nNAV1000 registries [35000,38500): artifact and archival catalog both index-only, Smithsonian direct open Internal Error (not 403); first-generation single-channel source is scope-limited and full engineering files not read. HNF gives 1964 pager history, not object testing or social effect; Westport is separate exhibit evidence and image source limitations follow.\nWestport source details [38500,42000): exhibit label claims PageBoy I identity and 1964–75 span, but eBay photo is explicitly not electrical-version evidence; shopping widget is templated and backdrop AI-treated. CMU Picturephone launch/source entries cover local 1970 start and artifact, with image rights separate. ModII physical explanation is specific; suspect pixel number excluded.\nGPS registry [42000,45500): manufacturer retrospective is not independent FAA certificate; Garmin product index only opened 16 lines and does not promise current inventory. Omron’s 1973 HEM-1 and manual manometer identity come from brand sources, not independent testing, with no body efficacy, continuous service or rights checks; later 1978 models stay separate.\nTail [45500,48623): Musashino catalog scope defines exact SM31, 1962, shave function/designers/manufacturer/object ID and cautions catalog/manufacture/publication/sale dates differ; image permissions separate. Red Dot flyer is a 2025 exhibition and self-promotional source; object inclusion is not 1962 award proof, no sales inference. Import order requires manifest sequence, actual slug/ID verification, avoid repeating legacy 14; future planning fields optional."
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              48623
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              48623
+            ]
+          ],
+          "focus": "逐句文风及历史保留",
+          "notes": "Pass 3 sentence/style: The opening summary uses a tangible action (canister on floor, hose/tool reaching outward) to introduce the model’s division of labor, then closes on maintenance rather than generic praise. “不是…检验/不写…浮行” and the manual gap are essential negatives: they preserve a distinction between general workflow explanation and object-specific engineering or operating advice.\nHoover source-map and close [3500,7000): the five prose fields all cite museum/ad, yet the ad only backs continued sale. The ending avoids universal household-life and absolute product ranking; it leaves regional sales, surviving unit and run-demo readiness unresolved. HL1’s summary gives physical placement/distance before abstract category, with “不把整间房屋变成统一温度” as a concise scope boundary.\nHL1 mapping [7000,10500): factual ID/date only MoMA; prose uses two institution sources. Comparison is framed as site-specific local airflow versus whole-room control without superiority. HL1 and HL1/11 suffix distinction remains important; no household sales inference, awards or operational details.\nSixtant prose candidate [10500,14000): the contact face/hand-grip contrast is rendered through task division, then explicitly characterized as a supported reading rather than efficacy evidence. Repeated negatives around motor frequency, successor features and use procedures are necessary because tactile/medical claims would otherwise seem implied by the face-contact context. PageBoy transition uses a compact contrast: notify first, call elsewhere.\nPageBoy map/style [14000,17500): claim architecture separates HNF for event/date from Westport for physical model; no picture-based circuit inference. The narrative calls it a tradeoff, not an inevitable proto-phone; its sequence is alert, find a phone, call back. Useful negative distinctions include receipt≠response and geographic launch≠uniform service.\nPicturephone [17500,21000): the explicit “not global sale” and no fees/user study preserve the local event scope. The line-count and mirror description grounds the interpretation; suspected pixel and retrofitted modern conference mode are directly disclaimed. A strong stylistic move is analogy via operator actions rather than sweeping success/failure verdict.\nHEM1 [21000,24500): the prose creates a useful parallel with early calculators while refusing to collapse the kind of judgment each supports. Strong necessary negatives: brand goal not efficacy; no accuracy test, normal range, diagnosis, treatment; no automatic/connected feature inference from present devices. Product history identifies exact manual/electronic hybrid, but no manual/region variant detail.\nNAV1000 [24500,28000): coordinate-vs-route judgment is a recurring sentence-level distinction, tied to portable field use versus installed aviation approval. “Not just one button” translates portability into human work without invented button steps; limitations preserve explicit catalog-access failure, manufacture≠sales, no accuracy/runtime/waypoint numbers and no present-day/safety guarantee. GPS155 transition shifts to approval and system setting.\nGPS155 style [28000,31500): instructions are specifically kept at reading/verification relationships, not operations; last clause points readers to training/certification. Limitation paragraph makes provenance and access depth transparent (manufacturer date, scripted product shell/index), then forbids precision/failure/current DB and applicability claims. Counterexample of what not to turn into safety promise is explicit.\nSource registry style [31500,35000): compact, repeated verificationRecords preserve packet lineage alongside original source IDs, limits and disclosure; the duplicated limit text is consistent in entry/record. Key caution is explicit index-only Internal Error, not euphemistically called blocked/403. LACMA has image copyright credit and no object/durability/market/media rights testing; advert commercial context remains bounded.\nNAV1000 source style [35000,38500): paired NMAH object and archival catalog make the different roles legible; both disclose index-only access without claiming full source review. HNF entry supports broad pager chronology only, not model-specific circuitry or use effect. Model/exhibit scope and image caveats are kept in separate records.\nWestport/CMU source records [38500,42000): source disclosures identify third-party eBay image and modified background, clearly separating exhibit object evidence from photo provenance. CMU records are project-hosted and partly AT&T archival images; photo rights still separate from factual claims. Design-source style keeps device specification and evidence-quality note together.\nGPS/Omron source style [42000,45500): manufacturer roles are plainly disclosed—Garmin approval retrospective/product page, Omron brand history. Scope and access conditions are included beside each source rather than buried: unreviewed FAA original, product page only 16 lines/index, no current-stock claim. HEM1 sources also deny physical, ongoing-service, group-outcome and image-right verification.\nTail style [45500,48623): H04A states object-level scope and date semantics (catalog/manufacture/release/sale not interchangeable); H04B labels the museum as award sponsor with its own promotion interest, so exhibit selection is not retrospective award evidence. The import-instruction sentences are concise procedural caveats: manifest order, validate slug/ID, preserve links/optional planning fields."
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–1307; chars 0–48623 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本次执行/上下文额度终止前未打开并完整阅读；仅记录SHA256与byteLength，内容审查未完成。",
+        "review_notes": "未审阅：未能形成完整模型可见文本覆盖。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-imaging-01.json",
+      "sha256": "5bd21e968df449a1f035e0a9b017f4bbc2f5ef1f2309e76657a9bd0443913fe0",
+      "bytes": 74326,
+      "characters": 47952,
+      "workerSlot": 3,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45408
+            ],
+            [
+              45408,
+              47952
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              47952
+            ]
+          ],
+          "focus": "来源/日期/型号",
+          "notes": "\n[0-3500] 开篇展件Radiola III将年份限定为Smithsonian藏品制造年1924，非必然上市年；两只RCA WD-11。电路细节另取同型号Type R1，叙述保留“内容已播出而机器尚需调谐”的操作区别。\n[3500-7000] Radiola使用段写的是边听边调、以声音判断设备状态；并非“摆好旋钮即收听”。随后TR-1身份为1954上市，四晶体管AM接收，1955技术资料支撑耳机插入后扬声器停止，供电是22.5V助听器电池。\n[7000-10500] TR-1媒体状态photo-source-verified，但editorialNotes明确不宣称首件消费晶体管产品；使用时选台与插耳机分别决定内容来源和声音传播范围。后转Koss SP/3：1958厂商回顾将耳机呈现为立体声演示焦点；唱机仍是音源，耳机只改末端聆听路径。\n[10500-14000] Koss SP/3目前照片pending，新增图必须型号精确并核复制权；耳机接唱机，音乐选择/播放属于音源，耳机改变私人聆听而不带走音源。随后Walkman TPS-L2锁定1979-07-01日本上市；官方回顾称删录音和扬声器、结合MDR-3L2约45g耳机。\n[14000-17500] TPS-L2使用流程强调出门前选带、途中按磁带连续顺序播放、定位需快进/倒带；随身内容并非可搜索曲库。录音/扬声器删除分别限制外放与录制。照片M03及V01已核来源。接着QV-10：1995年3月，取景/回看同机并以REC/PLAY区分。\n[17500-21000] QV-10事实把可删照片的不可撤回、约4秒写入、96张容量、七帧刷新、近拍/普通切换和专用线/软件列为限制；需要WAIT时保持供电。其comparisonEvidence按结构用途而非影响因果限制。媒体照片仍not-yet-registered。\n[21000-24500] 初代iPod核心型号区分：2001-10-23发布，5GB机械旋转Scroll Wheel，非后来的按键一体Click Wheel；Mac+iTunes+FireWire才是首发同步条件。文本明说商品化不证明听众立即迁移，配套电源和连接方式各司其职。\n[24500-28000] AirPods首代时间口径是2016-12-13开放订购；无线左右耳要各自供电/通信，W1、佩戴传感、盒子收纳补电构成循环。双击Siri为主要耳机控制，不应误述所有选歌都由感应完成。\n[28000-31500] AirPods5的2026-09-18实际首发日期据到店记录，功能页列盒型差别。无线盒有滑动音量/扬声器；普通USB-C盒不同。官方产品资料没有独立环境测试或长期采用率，行文明确限制耳形/贴合/续航。照片仍pending，品牌名相似不能替代图权。\n[31500-35000] iPod对比CDP-101时列出来源抓取局限：手册第8/13页不可得、只用已读摘要/OCR，服务手册是欧美地区，J. Gordon Holt评测仅是美国样机亲历且网页日期与原刊日期差异。对照被限定结构/操作，而非历史影响因果。\n[35000-38500] SP/3引用Koss官方品牌史，仅支撑1958展示/唱机耳机背景，不支撑独立声学测量或后继型号。AirPods发布日期材料则与TXL16规格及TXL09拆解分工，分别支撑订购、使用测试条件和电池难维护；到店实际日期另据C:CH09，措辞不混发布/供货。\n[38500-42000] 来源身份逐条：Radiola R1是另一件同型号，不冒充主体藏品；TR-1技术资料只读OCR、整册未校；Sony官方史未核Hot Line/双口/后代功能。AirPods拆解限于观察，不用评论/评分推可靠性；AirPods5盒型配置分开。\n[42000-45408] AirPods规格页经旧链接跳转确认2016条件；Live Listen属于2018后续功能，未写回首发；通话噪声抑制与听音ANC分开。QV-10手册具体页段核删除不可撤回及接口；初代iPod识别页异常FireWire信息由首发公告优先。相机对比用原AE-1 1980手册但不把手册日期误当上市时间。\n[45408-47952] 尾部将Nikon产品年表与委托WIRED Japan内容明确标记为厂商资料/非独立评测；Canon AE-1在1976资料与1980操作手册版本差异中不混用。validation与executionDeclaration称本包解释性修订、不改共享文件，且明确没有全分页或影像实测。完整pass1结束。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45408
+            ],
+            [
+              45408,
+              47952
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              47952
+            ]
+          ],
+          "focus": "证据/许可/操作限制",
+          "notes": "\n[0-3500] 第二遍重新核Radiola事实：1924仅是Smithsonian实物制造年，电路控制另引R1同型号馆藏而非同一对象；不推采用率。灯丝/反馈/选台的多个控制依赖听觉判断。\n[3500-7000] 二遍核Radiola描述的听觉反馈控制过程；TR-1上市身份与1955技术手册/Smithsonian馆藏功能分源，插耳机切断扬声器、22.5V助听电池是具体操作限制。\n[7000-10500] TR-1广告/历史最大化陈述有否定防护：不能宣称首件晶体管消费品。正文精确区分AM刻度选电台、插耳机切输出；随后SP/3继续聚焦1958立体声双耳而非音源携带，品牌史不等同独立销量。\n[10500-14000] SP/3照片许可待核，严格区分耳机商品与唱机整套；线缆将声音送到双耳但播放仍需外部唱机。接着TPS-L2来源写1979-07-01日本上市，官方历史对功能取舍和同期缺货回顾有品牌视角，系列累计出货不能当单款销量。\n[14000-17500] TPS-L2通用操作未把系列总销量写作单款销量；M03/V01状态已确认。磁带限制包括预选、连续播放、快进倒带和外带介质。QV-10身份为1995年3月推出、彩色LCD即时回看，明确把数码记录与即时看图分开，避免技术类别混淆。\n[17500-21000] QV-10手册具体支撑REC/PLAY、NORMAL/MACRO、WAIT等待、删照确认不可撤回与USB专线。容量96张、约4秒写入、7fps刷新、暗光慢快门，说明“即时查看”的实际限制。比较证据scope明言仅结构操作、不推销量或因果。\n[21000-24500] 第二遍iPod区分实际转动的Scroll Wheel和后继Click Wheel；2001公告只支持5GB/Mac/FireWire计划及上市路径，没证明听众普遍迁移。USB/FW兼具充电的使用后果与曲库容量编码依赖分别保留。CDP-101对比依手册摘要与有限范围评测，不假装完整原本核读。\n[24500-28000] AirPods证据分三类：2016订购公告、产品规格的测试条件、iFixit拆解实体结构。需分清通话降噪与听音主动降噪；状态控制交给传感器但换曲音量仍由Siri/设备。初代照片pending，不得用后代相似图。\n[28000-31500] AirPods5实售日期由到店公告支持，而功能/盒型差异来自当前产品页；明确本轮没有独立环境测试/长期采用数据。耳形、贴合和续航影响效果。照片许可明确pending，不因相关上市图页有源而假定本展件可转载。\n[31500-35000] 第二遍进一步记录CDP-101原Sony手册的第8/13页单页抓取失败，操作支持范围谨慎限定；服务资料是欧美地区版本；Holt文章的原刊/网页日期、样机条件和广告支持关系均披露。非独立影响推论。\n[35000-38500] Koss来源只是品牌历史，supports不能延展为声学性能或后继规格；AirPods订购/首发与零售日期分开。Smithsonian内容也沿用旧的检索记录，不能声称本次直接通读成功。\n[38500-42000] 二遍来源记录：Casio史页支持QV-10发布/功能但不作世界第一和销量；初代iPod公告给发布与计划开卖日期；Radiola/TR-1 Smithsonian正文之前抓取失败的限制明确；AirPods拆解实物取证非统计，产品续航条件不能套其他版本。\n[42000-45408] AirPods1官方规格页确认其续航为2016测试条件，后来的Live Listen不能写首发；通话降噪不等于听音ANC。QV-10官方手册区分回看与光学变焦/录像。Canon手册年份是1980使用说明，AE-1上市是1976；Nikon年表来源为厂商，不独立。\n[45408-47952] 收尾第二遍：Nikon年表仅核型号年/规格，未核独立销量或长期体验；WIRED Japan委托内容不是独立媒体评测。AE-1 1976上市与1980原手册操作相分，不混AE-1 Program。validation称七展件、来源闭合、生产文件未改，但不代表本轮外部重核所有来源。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              47952
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              47952
+            ]
+          ],
+          "focus": "逐句文风候选与必要否定/历史原文保留理由",
+          "notes": "\n[0-3500] 第三遍Radiola逐句：时间为“馆藏实物制造年份”，避免把制造年份改成产品首发年；同型号R1证据注明并非主体藏品。保留“不能将通电简单等同收听”以说明该设备仍需调谐的必要否定。\n[3500-7000] Radiola的听觉反馈写成过程而不是静态参数；限制说明用户必须判断声音变化由选台还是接收状态引起。保留操作知识的限制，以体现早期接收机的使用劳动，而非简单称设备难用。\n[7000-10500] 第三遍对TR-1语言核查：使用两个动作并列而不是把“便携”“私人聆听”合并；保留不能宣称首件消费晶体管的否定，照片虽verified仍不等同授权泛化。该段对适配耳机和22.5V特殊电池的限制具体。\n[10500-14000] 第三遍SP/3风格重点是连接线、外部唱机与耳机输出的部件分工；保留“没有接管播放媒介”以解释其产品边界。TPS-L2的日期、Sony动机叙述和约45克耳机均明确归属品牌回顾，不使同一叙事冒充用户研究。\n[14000-17500] Walkman逐句审读强调“手上没有那盒带不能从全部收藏调出”，这句话保留介质携带的限制；“删去录音和扬声器”不是对所有随身听的类泛化。M03/V01来源verified与版权许可事项仍分开。\n[17500-21000] QV-10第三遍明确取景显示不能替用户决定可用性；操作动作以REC/PLAY、NORMAL/MACRO等原词连接，保留WAIT期间供电、删除不可撤回等不可省略警告。comparisonEvidence界定非销量因果，照片未注册。 21000–24500：iPod段落将机械轮的手势与触觉按键分工写得具体，并用磁带换介质、CDP-101按曲号的对照解释硬盘列表的意义；紧接AirPods只读到开头，截点落在context句中。 24500–28000：AirPods段落用开盒、戴入、取下、收回的动作链说明无线化；精确区分通话麦克风处理与听音主动降噪，并保留胶封电池的维修限制。 28000–31500：AirPods 5转入当前产品条目，叙述持续把不同盒型分开，明确限制官方到店报道/产品页的证据范围，不把模式说明冒充独立环境测试。 31500–35000：条目正文结束进入来源账本，CDP-101说明书与服务手册明确镜像/抓取缺页及不证明日本首发电压，评测的原刊日期与网页日期分别列出，避免日期混同。 35000–38500：来源条目把可支持事实和边界写在同一处（品牌总销量不等于型号销量、初代AirPods公告与拆解分工、AirPods 5发售与产品功能双重支撑）；个别网站正文读取失败亦明示。 38500–42000：来源记录再次区分公告发布日期/计划销售日，Casio历史只用推出事实不借用“世界第一”或销量；Smithsonian同型号异件及Regency扫描/OCR限度也写清。 42000–45500：来源校验记录特别把初代AirPods后续Live Listen与2016规格分开、把通话噪声过滤与听音ANC分开；QV-10 PDF逐页范围和iPod机型页争议亦限定。 45500–47952：末段来源将Canon/Nikon厂商来源标为非独立且限具体范围，结尾验证说明逐条标出没有新增来源、没有实测/量化影响并保留档案失败边界；文件至末尾完整读到。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–1388; chars 0–47952 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮未向模型呈现正文；全文未读，fullReadPasses=0。受本轮可用输出/上下文预算限制，未能依次开始该路径。",
+        "review_notes": "pending",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/import-packets/complete-wave-imaging-02.json",
+      "sha256": "36657f270b5c711ba82484918299cdef80b5f104127d4926d4346abb0e9174dd",
+      "bytes": 74337,
+      "characters": 49293,
+      "workerSlot": 4,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              49000
+            ],
+            [
+              49000,
+              49293
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              49293
+            ]
+          ],
+          "focus": "来源、日期、型号/版本及实体身份",
+          "notes": "\n[0,3500)来源/日期/型号：Epson条目标成1989年1月日本AC100V VPJ-700，按原厂逐型号档案给出三片TFT、100流明、7.6公斤、300W灯源；正文把亮度归于档案而未说存世机实测。\n[3500,7000)来源/版本：事实源字段把三片TFT/亮度与日本电源版本挂接原厂ID；策展关联到XEL-1与初代Freestyle仅作比较读线，不等同来源证明。第二条The Freestyle限定2022初代，马来西亚七月已售公告，而非全球首售/三月预订，也不混2023二代。\n[7000,10500)身份/日期：Freestyle要点和展品ID明确承接初代，不混二代；LG StanbyME Go是精确SKU 27LX5QKNA，日期为美国2023-08-15公布并保留预售/预计交付与实际销售区别。\n[10500,14000)日期/版本：LG Go条目明确电池上限受网络/应用影响，且以美国SKU区分StanbyME系列；OLED evo M5 65限定OLED65M5PSA新加坡促销所证商业供应，不将其误称全球首发，记载最高4K144Hz为厂家标称。\n[14000,17500)来源/型号：M5条目将新加坡商业促销作为观察节点，型号限OLED65M5PSA，明确不称所有店有库存/顾客已收货；4K144Hz是65英寸厂商列值，不是本研究测得无线极限。Micro RGB R95H限美国65英寸MRN65R95H且定义为RGB背光而非MicroLED。\n[17500,21000)型号与日期：R95H展品身份明确到美国MRN65R95HAFXZA 65英寸，2026-04-14公告，不等于每市到货/首售；技术介绍反复提醒RGB背光不是MicroLED，读者不应由商品命名误推结构。\n[21000,24500)日期/型号：HTC/Valve VIVE限定2016消费者版，4月5日首批预订发货，不混PRE或Pro；日本7月实体零售仅作渠道节点。房间定位结构与外部PC分别说明。\n[24500,28000)身份/日期：HoloLens2条目标明微软2019-11-07客户出货、标准二代，不等于工业版/IVAS；光学透视与VIVE外部电脑VR的比较是策展关联，不冒称同一显示机制。\n[28000,31500)来源/版本：HoloLens2段落的操作引用包括CWI-S004微软指南，明示该页面含后期软件更新，故只取基本交互、排除单手Start/21H1键盘。来源与所有段落映射并列，支持的是型号事实/交互而不是用户效率评价。\n[31500,35000)日期/来源强度：VIVE的2016-04-05是中国大陆已付尾款预订开始发货（索引摘录），不是泛化为所有市场；日本7月线下零售另列。HoloLens2 2019出货亦由厂商索引摘录支持，限定该范围且不推销量/普遍体验。\n[35000,38500)来源/日期身份：HoloLens2硬件依据微软文档索引摘录，范围限波导/系统/追踪/账号；M5 65商业促销与参数均来自LG自家索引档案，材料明确不等于首售/独立评测，独立新闻URL曾502。\n[38500,42000)来源边界：Samsung公告正文支持公布日期/背光路线、产品页索引支持精确SKU；Epson详细档案和总索引属于同厂商同档案系统，不算独立交叉验证。厂商来源的证据范围是身份/规格，不代表销量或用户测评。\n[42000,45500)来源属性/日期：Freestyle零售与预售是厂商检索摘录，范围仅马来西亚初代且不核销量；LG AMG01是品牌发布/预售，明确计划交付≠已交付，其他市场、改版及图片权利不自动包含。\n[45500,49000)来源许可/限制：StanbyME Go运行/续航据品牌资料但三小时有网络/应用条件，不能作实测保证；Red Dot仅支持具体Product Design奖数据库字段，参赛/推广关系未知，不能推成获奖即性能验证或图片许可。\n[49000,49293)文档边界：末尾导入说明要求按manifest顺序、检查slug/ID、保留来源版本且媒体空缺用文字回退；这是执行/策展边界，不是档案内容指令。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              49000
+            ],
+            [
+              49000,
+              49293
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              49293
+            ]
+          ],
+          "focus": "事实证据、许可状态与操作限制",
+          "notes": "\n[0,3500)证据/限制：VPJ-700的流明/灯功率/重量明确归原厂档案，环境光/外部表面和当代存世机器输出另有边界；未读到手册故不编按钮及接口。投影需要布置观看面是任务条件而非承诺画质。\n[3500,7000)证据与来源：Epson两项source IDs都挂原厂档案，相关内容是策展关联而非外部实证；Freestyle将初代校正功能归厂商介绍，未声称遮挡/环境光也由算法解决。\n[7000,10500)许可/事实范围：Freestyle事实通过I150-S070/S071分别对应已售与功能/预订公告，paragraphSources虽贯穿五段但证据限该马来西亚初代，不证明销量或体验；策展关联/chronicle是编辑解读。\n[10500,14000)事实/许可：LG Go续航三小时是带网络/应用条件的厂商上限；美国公布/预售交货计划不能叙成已交付。版本限定27LX5QKNA，未把奖项当测量或用别代参数。M5 65按具体区域商品事实继续限定。\n[14000,17500)证据/限制：M5的促销证据仅支持在新加坡列售，不支持逐店库存/顾客已收货；4K144Hz为厂商65英寸档规格非测量。电源仍需两处，传输线减少不等于整机无电缆，避免口号。\n[17500,21000)证据与概念：R95H“Micro RGB”明确是RGB背光，不是MicroLED自发光；按公告事件而非首售日写，厂家画质没有独立测量。技术对照仅用于区分背光/连接路线，不以策展关联代替来源证明。\n[21000,24500)操作限制：VIVE是PC+头显/控制器/基站的系统，不可用头显独立完成；活动区要按基站摆位，移动/换房间需重设，也不能把room-scale讲成无限空间。内容只限消费者版。\n[24500,28000)证据限制：HoloLens2出货记录证明客户发货事件，微软手册仅支撑具体手势，不证明普遍舒适/效率；正文明确是标准二代而非企业版/IVAS，并谨慎区分透视显示和相机回放。\n[28000,31500)来源/使用范围：CWI-S004支持手势与可追踪范围，明确说明其内容包含后期更新；五个段落来源映射复用其ID，不代表每个陈述都由独立证据背书。\n[31500,35000)事实范围：HTC发货索引明确限中国大陆已付预订用户，日方零售索引另作地区节点；厂商索引不证明销量/用户体验/图像许可。HoloLens2出货日期也限官方故事口径。\n[35000,38500)证据属性：HoloLens硬件字段来自微软文档摘录且仅支持指定技术，不支持体验统计；M5参数与供应均基于LG原厂公告/促销，彼此不是独立来源。续航/传输限制保留为条件，非独立实测。\n[38500,42000)许可/限制：Samsung说明只核发布日期和所列RGB背光事实，精确65吋SKU经产品页索引确认，未核用户体验/销量；没有将RGB背光概念混为MicroLED。\n[42000,45500)证据强度：Freestyle的零售节点仅马来西亚厂商索引摘录，预订与已售区分；LG原发布资料是商业来源，交付只是计划。不同证据层次都在notes中保留，不把URL或名义来源当已全面阅读。\n[45500,49000)限制/许可：LG品牌续航最多3小时附条件，奖项仅证数据库的类别/标识和产品身份，推广关系未知；均非独立使用测量、图像转载许可或广泛用户结论。\n[49000,49293)许可/范围：奖项资料和包导入说明分别限定奖项数据库字段及导入顺序/slug-ID验证/版本范围/媒体回退；不把说明文件中的媒体回退当成复制授权。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              49000
+            ],
+            [
+              49000,
+              49293
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              49293
+            ]
+          ],
+          "focus": "逐句文风候选，以及保留必要否定和历史原文的理由",
+          "notes": "\n[0,3500)文风：Epson段先讲观看面任务，再解释三片TFT/灯源带来的布局取舍；“不是只需屏幕”“未读取手册不造按钮”两处否定避免现代投屏/操作误植，原厂亮度限定保留。\n[3500,7000)文风/保护：来源映射与策展chronicle字段清楚区别史实来源和阅读线。Freestyle用具体转向/校正解释便利，同时保留“遮挡无法靠算法消除”“100英寸不是每次最佳”等必要否定；限制段避免把广告便利化为用户共识。\n[7000,10500)文风：来源ID按销售事实、版本和功能各自挂接；产品比较/chronicle为明确策展关系。Freestyle日期/版本标签阻止“预订即销售”这一阅读跳跃，且将最大画面保留为厂商说法。\n[10500,14000)文风/保留：Go限制段使用明确否定（续航非所有条件承诺、非任意电池/支架代际），承认奖项不是续航/搬运实测；这是必要历史校准。事件名称“地区产品公布”比launch更谨慎。\n[14000,17500)文风：M5用“无线传输不是没有部件”浓缩结构差异，后续用插座/盒子占地的双面取舍解释，而非重复营销形容词；把商售节点与库存、个人收货区分是必要限定。\n[17500,21000)逐句语气：R95H反复解释“Micro RGB”命名可能造成的误解，明确区分背光与MicroLED像素发光；对未来影响用“尚未预定”，对画质不下超出厂商测量的结论。该否定是产品历史准确性核心，不应删。\n[21000,24500)逐句文风：VIVE以“先在电脑安装/定义活动区域”而非沉浸宣传开场，限制句明确不能无限行走；预订出货和日本零售分开写，避免将渠道节点当首发。\n[24500,28000)逐句语气：HoloLens2把“不是屏幕播放摄像画面”与光学透视区分，针对常见误解；近远交互分步说明具体动作，版本标签排除Industrial/IVAS，避免系列名泛化。\n[28000,31500)文本组织：paragraphSources将操作手册、出货记录、硬件档案分列，相关展品proposal/chronicle是策展编排。字段层面显式标明content reviewed与text fallback，避免把没有媒体误作有授权图像。\n[31500,35000)历史理由：VIVE首批日期来源明确具体到中国大陆付尾款用户，7月日本店售作为后续扩展；把这两个时点并置可避免“全球首发”简化。HoloLens仅用客户出货档案日期。\n[35000,38500)文风/证据归属：微软硬件资料以明确的“verifiedScope”列举波导/系统/追踪/账号，句子不延伸到销售或体验；M5字段承认新闻URL502、取档案索引，有助保留来源路径透明度。\n[38500,42000)写法保留：R95H字段清楚给出事件和SKU边界，但厂商资料不支持独立用户体验/销量；Epson详细页面与索引属于同一机构历史，不虚构独立交叉验证。\n[42000,45500)措辞依据：Freestyle的“店售”与“预订”分别挂原厂索引，避免含糊的“上市”抹平时间差；LG Go则将发布/预售与预计交付区分，保留不同事件词。\n[45500,49000)文风观察：Go的方案先给箱体使用任务再写机构流程，并将三小时明示为厂商上限；Red Dot奖项严格只解释Product Design数据库字段，且不确定参赛/推广关系，因此不宜用奖项词为体验作背书。\n[49000,49293)最终措辞：manifest顺序、ID校验、空媒体回退等导入指令保留为操作性边界；记录自身说明素材和版本范围应随正文保存。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–1330; chars 0–49293 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 本轮资源/输出上下文不足以逐块完整呈现并由模型通读；未以脚本扫描或抽取代替阅读。",
+        "review_notes": "尚未通读，未作内容审阅。",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/expansion/editorial-import-packets/complete-wave-imaging-06.json",
+      "sha256": "9f8ba3b7df24f26f63e278f52d1e80eb1d0d6b5a2ac78a3017b57741a2b30d81",
+      "bytes": 74725,
+      "characters": 52379,
+      "workerSlot": 5,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              49000
+            ],
+            [
+              49000,
+              52379
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              52379
+            ]
+          ],
+          "focus": "来源、日期与型号",
+          "notes": "G1原厂上市回顾与英文G1K套装手册被分配不同证据角色；日本机身/套装地区边界清楚。无反以传感器电子取景链路解释，未把它归结为时髦名词。 G1事实源逐段关联到规格/操作，related型号为E-P1与5D II；readerTakeaway把取景路径变化和可换镜头任务并列，作为简洁读者落点。 E-P1日期以11月售卖公告核实，与六月计划分开；限制同时排除后代电子取景附件和触控，避免把后续配件/操作移植回原型号。 X100已进入初代规格：固定23mm F2与混合取景，上市数据/说明手册分工；排除S/VI。固定镜头带来的站位边界和电子延迟/供电条件并存。 Phantom任务描述明确为初代外接GoPro，不混Vision/云台；定位模式及返航有系统状态前提，不承诺任意场地安全。来源日期是发布公告而非已核全球首售。 GR III的公告日与计划实售日区分，明确标准版而非IIIx/HDF/特别版；作者评价作为独立评测意见引述，不表述为馆方实测。 GR III事实与相关型号都落在标准版：固定28mm、无光学变焦，机内裁切不等于变焦；媒体三作者对优劣的意见有范围说明。 X5语句把配置、采集、剪辑完整链路都纳入，不把“双镜头”简化成全体验；遮挡拼接、处理成本和用户不必升级的反面判断均留存。 TZ300的旅行任务有具体广角至长焦例子；作者两周借测的优势/缺陷都有归属。欧洲TZ300与北美ZS300及销售日期节点明确区分。 TZ300相关证据与作品字段分开：独立编辑媒体的试用说明、原厂型号规格分别支持相关段落，readerTakeaway将双焦段任务放回一次出游。 镜像手册明确第三方保存且不迁移美国附件/PAL配置；D1与E-P1手册分别限于CF写卡和原始操作。版本与地域限定在每条来源边界中出现。 Sony来源限于列明设计特征和上市月，Canon产品档案不得证明销量/转载许可；Nikon企业历史标注厂商属性、不作独立体验判断。 G1套装说明仅核通用机身；E-P1六月公告和十一月明确已售分别支持发布/销售节点，均为Olympus同厂商来源，并未伪作独立评测。 X100上市月份用Fujifilm财报索引、混合取景用企业报告，均注明只核范围而非独立体验；GR III媒体测试信息同时标明分页未全读及商业关系未核。 [3500,7000) block observed the remainder of G1 facts/source mapping and the E-P1 prose beginning, including factual source attribution and subsequent 2009 release chronology."
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              49000
+            ],
+            [
+              49000,
+              52379
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              52379
+            ]
+          ],
+          "focus": "事实、许可与操作限制",
+          "notes": "第二遍重看G1操作：EVF/LCD依赖电力，镜头兼容不自动等同，手册仅核G1共通功能且不测旧机续航/延迟；型号为日本机身而非英套装默认。 G1来源和结构的限制在同段重核：共同系统规格不保证所有转接镜头自动功能；LCD可调不替代稳定与对焦，历史记录无旧机实测承诺。 E-P1的第二遍核对聚焦拨盘操作不是触屏、自动场景选择不代替主体/焦点/稳定判断；将销售计划与实际售卖公告区分。 E-P1限制重申屏幕视角/操持受环境影响，厂商所谓最轻/最好仅限当时比较，不扩为永恒排名；后代附件/触屏禁止回填。 X100的操作限制包括视差、电子取景延迟/供电与固定视角；声明旧机状态另核，不能根据系列延续推断现售/支持。 Phantom第二遍核限：早期基础准备与较晚2014手册/固件功能不能混；GPS/指南针和电量影响定位/返航，返航不等于避障，飞行适宜性必须另行判断。 GR III第二遍区分防抖与主体冻结，固定焦段与裁切也不能混为光学变焦；评测只按其已读范围支持赞/缺点，不冒充本馆复测。 标准GRIII排除IIIx/HDF/Street Edition，公告时间不误作上市时间；未完整读评测分页，不扩张评测结论或样机利益信息。 X5通过全景记录提升事后选向，但需手机/App处理；不可将全景标称8K误当裁切视角同分辨率，镜片可换也不保证所有损伤可自修。 TZ300事实限制：稳定功能不能冻结主体运动，远近端光学表现不等同；无EVF/固定屏幕与价格需和焦段便利同读。借测、佣金与地区型号界限保留。 本段源字段将每个展项段落具体挂到原始资料，媒体评价单独标 authors/date/conditions；这种出处线索不应被概述覆盖。 Pass2回到来源列表，区别PDF可解析手册、索引摘录、厂商公告；页面能否支撑的事实范围写明，旧手册镜像与后续固件有地域/时间边界。 Nikon史料限定条目和具体规格，没有独立销量/长期体验结论；Canon档案也明确不支持普遍体验、实物状态和转载许可。 G1和E-P1的套装/地区限定在证据说明里重复，防止把美国/英文包装规格当日本默认；确认公告日与上市日各自范围。 X100来源都是Fujifilm一手档案，范围限上市和混合取景；GR III评测独立于厂商，但来源明确未核样机关系，需与正负观点一起披露。 两家TechRadar文章均保留测评时长与佣金/借机披露；TZ300广告利益与Panasonic借机并列，Phantom两条材料都是DJI而非独立来源。导入说明仅作为文本审读。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              49000
+            ],
+            [
+              49000,
+              52379
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              52379
+            ]
+          ],
+          "focus": "逐句文风候选及历史保留理由（含必要否定）",
+          "notes": "第三遍G1文风观察：“无反应通过取景链路理解，而不只是流行分类”是具体解释候选；“省去一种机械结构不等于整套器材没有体积”保留对便携叙述的必要纠偏。 G1第三遍把取景方式定义为系统工作路径，适合读者理解；必要否定“省掉反光镜≠整套无体积”保留其实际任务上下文。 源码区未发现夸张叙述，readerTakeaway把显示链变化写成读者可理解问题；多来源标注为后续核实路径，不替代页面内容本身。 E-P1文风候选：“不是外形变小就完成全部便利”有效收束屏幕、镜头体积和自动模式条件；“原厂公告备用地址同篇不增加独立评测”是应保留的证据否定。 X100文风把固定镜头收益与站位边界放在同一句，不将“少带设备”写成全面优越；传统拨盘不等于纯机械也是必要纠偏。 X100比较横跨取景和镜头配置，readerTakeaway聚焦近拍这个具体条件；“完整工具”不应删去其供电、视角和延迟边界。 Phantom段落语体平实拆分相机与飞行准备；“返航也不是避障保证”是关键安全否定，且限定具体地点/旧电池实物的适飞性不由史料背书。X5 文案把一人旅行/运动的实际任务和后期重选视角连起来；保留“全景 8K≠裁切单视角 8K”、镜片更换需套件、刚购 X4 未必升级等限制，避免把便利写成无条件优势。X5 评测字段具体标注试用数日、自拍杆步行/骑行/车外和 iPhone 13 编辑，并保留购物链接佣金与样机关系未明确；随后 TZ300 条目区分德国公告、欧洲 TZ300 与北美 ZS300，且把借测意见限制在实测条件。TZ300 的取景和长焦使用需连同实际行程理解：固定屏幕、无取景器、长端偏软、对焦代际与价格都保留；评测注明在中国旅行借机两周，区分欧洲公告和北美命名。本段转入来源记录，逐条区分手册与机构档案的核验范围：VX1000 第三方保存手册不转用美国附件/PAL版，D1 不混 D1H/D1X，E-P1 同篇原公告非独立来源，X100 是初代且不转后代功能。来源条目将原厂资料的自述性质、索引摘录的有限范围写明：EOS 5D Mark II 的全高清证据有厂商档案与报告，Sony VX1000 记录只支撑三 CCD/中轴设计和上市回顾，Nikon D1 节点同样标注厂商来源非独立验证。来源清单里 Panasonic G1 英文说明只核共通机身功能，E-P1 日本公告与后续销售节点分开，均未夸大到独立验证；型号、包装和实际上市时间的界限有清楚出处。X100 日期由财报摘录限定为 2011 年 3 月上市，GR III 的厂商公告仅核指定型号/规格且未读全文，DPReview 为具体媒体评测并明示未核样机/关系；X5 的公告与试用评测也分列为不同来源类型。末段来源把 TechRadar X5 的短期试用/购物佣金与未核样机关系写明，TZ300 评测区分借机两周和厂商德国公告；Phantom 两条同日记录明确同属 DJI，交叉页面不冒充独立媒体。结尾 importInstructions 是归档流程文字，本审查只记录其存在，未执行。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–1429; chars 0–52379 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 Full file remains unread: character range 0–52379 (exclusive end), lines 1–1430; no complete sequential full-text display was available before task context/output limits. Any truncated display is not counted as a read.",
+        "review_notes": "Not fully reviewed: the model did not receive the complete file text in a non-truncated sequential display.",
+        "source_limit_note": ""
+      }
+    },
+    {
+      "path": "docs/evidence/photo-expansion/sony-playstation-3.third.json",
+      "sha256": "d650cd0da74af34cbae7e21b67b92cfd2a3caaa76d191a3949b2597ea69153e3",
+      "bytes": 74857,
+      "characters": 74482,
+      "workerSlot": 6,
+      "startingFullReadPasses": 0,
+      "fullReadPasses": 3,
+      "passes": [
+        {
+          "pass": 1,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              49000
+            ],
+            [
+              49000,
+              52500
+            ],
+            [
+              52500,
+              56000
+            ],
+            [
+              56000,
+              59500
+            ],
+            [
+              59500,
+              63000
+            ],
+            [
+              63000,
+              66500
+            ],
+            [
+              66500,
+              70000
+            ],
+            [
+              70000,
+              73500
+            ],
+            [
+              73500,
+              74482
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              74482
+            ]
+          ],
+          "focus": "来源、日期、型号",
+          "notes": "Pass1 [0,3500)：查询精确为Sony “PlayStation 3”，首候选Commons的Sony TV setup in 2008照片，原拍摄日2008-01-24与其上传/DateTime 2025-09-13区分。说明将PlayStation 3列在Sony电视、DVD/HDD录像机、AV接收机和Sky盒的组合里，可作家用AV摆设环境材料，不是PS3单品照；pageid/照片作者William Hook与Flickr来源需继续按单项核许可。型号/年代依据目前仅是文件说明，不代表机器版本或功能图示。；Pass1 [3500,7000)：第一候选明确署名 William Hook / Flickr，许可为 CC BY-SA 2.0，需署名且要求相同方式共享，copyright仍为True，不能把CC许可说成放弃版权。之后的Sony-PlayStation-3-CECHA01-wController-L.jpg是另一张白底主机与手柄产品照，元数据写2017-07-27，分类含CECHA01、DualShock 3及PD-self等；这些字段需与前一张家庭影音组合照分开，不能把Commons时间误当原始拍摄日期。；Pass1 [7000,10500)：这张CECHA01的原始拍摄日期另列为2016-08-19，说明写其为2006年推出的第七世代主机、60GB、具PS2硬件向下兼容及读卡器。其自摄署名Evan-Amos，许可标为全球公有领域、无署名要求；这与上一块的2017 Commons DateTime和另一张照片许可不可混淆。；Pass1 [10500,14000)：简化候选摘要再次给CECHA01同一原始日期2016-08-19与Public domain，说明是列表化复述而非第三个来源。接着是Sony Ericsson HBH-PV705耳机；作者叙述称用于PS3聊天，也提到手机/Skype，但它是耳机而非主机配件图，说明里Bluetooth 1.2及续航重量属作者描述。DateTimeOriginal为2008-01-26，媒体元数据时间另为2009-10-22，地理坐标亦是该照片元数据。；Pass1 [14000,17500)：耳机照版权许可字段确认仍为CC BY-SA 2.0、需署名且保有版权，与此前两幅主机图的公有领域许可不同。新候选PS3 Super Slim黑色主机照，元数据DateTime 2015-09-23，分类标出Super Slim、Evan Amos及PD-self；说明段落在块尾尚未读完，后续需核实具体年代/硬件描述与其许可字段。；Pass1 [17500,21000)：Super Slim说明细化其滑门式光驱取代早期机型吸入式蓝光驱动器，称2012年底推出，列250/500GB硬盘或12GB闪存配置；DateTimeOriginal仍为2015-09-23。Evan-Amos自摄，声明全球公有领域、无署名要求；记录规格时应归属说明内容，不能把图像创建日期与产品发布年合并。；Pass1 [21000,24500)：Super Slim的简化候选字段复述了其外形/存储配置，未新增日期。新图为PlayStation Eye相机，说明明确是配合PS Move的PS3动作追踪相机；分类和自摄署名Evan Amos，DateTimeOriginal 2016-12-04而DateTime为2019-08-22。该配件与游戏主机本体须区别，质量标记不改变其功能说明来源。；Pass1 [24500,28000)：PS Eye条目明示摄影作品公有领域/无署名要求。下一个条目是另一张PS3 Super Slim背面视图，标题后缀BR，仍是Evan Amos自摄系列；其Commons DateTime为2015-09-23 19:30:14，原始说明刚开始，暂不把图名后缀当作地区型号解释。；Pass1 [28000,31500)：Super Slim背面照片的说明重复产品代际/体积/滑门光驱和容量信息，原始日期2015-09-23，摄影者Evan-Amos自摄；摄影授权仍为全球公有领域、无署名要求。该重复角度图可作机身背面视角材料，说明文案并未声称照片展示内部结构。；Pass1 [31500,35000)：条目转为比较原始“fat”60GB PS3（向下兼容、读卡器）与右侧120GB Slim（配DualShock 3），作者Evan-Amos自摄。DateTimeOriginal 2011-01-26、Commons DateTime次日；可支持外观/代际并置，不宜据这张比较照概括所有型号共有规格。许可文本尚在本块后续。；Pass1 [35000,38500)：比较照许可字段为自摄公有领域，免署名；题名/说明标JPG版本。随后出现Xbox、PS2、PS3、Wii四代平台并置图，说明指明照片的PS3为60GB向下兼容款；元数据日期2008-03-23，作者Roger Schultz、许可CC BY-SA 2.0。比较图不能把其中PS3款式泛化到整个产品系列。；Pass1 [38500,42000)：新图描述语言为葡萄牙语，内容突然展开为PS2历史、发布日期、销售及不同硬件版本说明，远超图像本体的描述需要；此处仍是图片元数据中的说明文本，不能误当PS3证据，也不应把其中密集历史数据当作已独立核验事实。；Pass1 [42000,45500)：葡语描述继续列PS2内部版号、BIOS/exploit、红外接收器、外壳颜色、薄型版本外接硬盘局限以及销售数字，夹杂原始拼写/语法和参考序号样式；这些细节不是本候选PS3图的识别信息，历史照录可保留来源文本痕迹，但不宜在PS3介绍中挪用。；Pass1 [45500,49000)：长葡语PS2叙述之后再次转英文，带“Fonte: Wikipedia”来源字样，继而出现英文维基百科式PS2概述、发布史、销量及家影院用途段落；来源层级是候选图描述中嵌入的百科文字，不是图像元数据的独立证据。英语段仍未完，继续追踪语言/出处转换。；Pass1 [49000,52500)：英文说明继续列PS2面对竞争机型的市场位置、价格下调、网络适配器/在线游戏及2004薄型机转换生产等叙事，随后开始软件介质和播放功能。整体是百科式产品史长文，叙述密度高、跨多个年代和竞品；对本批PS3图像本身的证明力有限，使用时应明确它只是档案原描述。；Pass1 [52500,56000)：长英文PS2文字详列向下兼容、存储卡/扩展接口、音视频输出、外壳配色和硬件修订，末尾再次标“Source: Wikipedia”；来源归属不应在摘录时丢失。此信息属历史描述而非PS3图像标注，且文中不少具体兼容/规格断言未经本任务外部核验。；Pass1 [56000,59500)：这是比较图中另一张PS2照片的Commons许可/信用信息，DateTimeOriginal 2015-04-25，作者Deni Williams（巴西），来源credit指向Flickr，许可CC BY 2.0需署名、保有版权。后附葡语PS2概述再次出现；与该图的拍摄者/许可绑定，不能错误继承前面PS3条目的PD授权。；Pass1 [59500,63000)：葡语再现PS2日系早期板号、V3/V4/V5/V6内部变更、BIOS/红外接收、配色及SCPH-70000薄型规格，并提及硬盘/USB性能约束。文字保留了来源中的历史化拼写与不流畅句式；尽管与上块英文版重叠，这段仍属独立语言版本，不应无说明地去重或混写。；Pass1 [63000,66500)：葡语段收束为销量数据和“Fonte: Wikipedia”，紧接着再次出现“English”与英文PS2历史简述，包含PS3作为继任者及PS2停产节点；两种语言段都带来源提示。日期/销量均作为候选图附带的百科内容而非主机图拍摄时间或本体描述。；Pass1 [66500,70000)：英文百科段再次描述PS2发布销售、DVD家影院定位、竞争、价格调整、在线网络策略和Slim款换代；其中称PS3发布前降价，语境是PS2史。用作历史档案保留可以，但应保持对象明确，避免标题Sony PlayStation 3造成整段误读为PS3史。；Pass1 [70000,73500)：英文维基百科式段落继续罗列PS2软件介质、兼容、存储卡、接口、视频制式、配色和Slim机型硬盘仓差异。文本有较强“百科摘入”特征，部分称谓和具体数值很细；引用/改编时宜保留原有来源及历史语境，避免当成当前产品规格或PS3功能。"
+        },
+        {
+          "pass": 2,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              49000
+            ],
+            [
+              49000,
+              52500
+            ],
+            [
+              52500,
+              56000
+            ],
+            [
+              56000,
+              59500
+            ],
+            [
+              59500,
+              63000
+            ],
+            [
+              63000,
+              66500
+            ],
+            [
+              66500,
+              70000
+            ],
+            [
+              70000,
+              73500
+            ],
+            [
+              73500,
+              74482
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              74482
+            ]
+          ],
+          "focus": "事实主张的来源层级、许可证/署名要求、候选适用范围及操作限制",
+          "notes": "Pass2 [0,3500)：总体命名为“原版”PS3，但首张是整套家影音配置，不宜用于孤立展示PS3造型或说明主机特征；说明确列型号，适合谨慎作环境图。查询/checkedOn仅表明档案搜索时间，不是照片日期。日期字段将继续比对原始拍摄时间与Commons DateTime。Pass2 [3500,7000)：首图许可字段明确CC BY-SA 2.0，署名且相同方式共享条件要随使用保留，版权仍在作者。CECHA01图是白底主机加手柄，能支持该具体外观/型号呈现；Commons DateTime 2017-07-27只是媒体记录时间，分类PD-self暗示许可路线但还须读完许可证原文确认，不应仅凭类别转述。Pass2 [7000,10500)：CECHA01条目将DateTimeOriginal 2016-08-19与产品发布2006分开；说明称60GB、PS2硬件兼容及读卡器，须限定在该型号而非PS3通用。该摄影视图PD声明适用全球、无署名要求；这是授权声明文本而非第三方许可推断。Pass2 [10500:14000)：CECHA01规格/日期/PD短摘要是上一个候选的复述；接下来的候选实为HBH-PV705蓝牙耳机，作者自述用于PS3聊天、Skype及手机，因而仅支持“PS3配件/使用场景关联”，不能作为主机图。其原拍摄日期2008-01-26而MediaWiki DateTime为2009-10-22，须保留差别；继续核查该许可是否需署名。Pass2 [14000:17500)：耳机照片版权为CC BY-SA 2.0、要求署名和相同方式共享，不能因关联PS3就套用主机图PD许可。下一条Super Slim黑色主机后视图白底照片适合产品造型/后视角；记录的2015-09-23上传/DateTime不等于产品发布时间，许可字段须下一块读完再确认。Pass2 [17500:21000)：Super Slim说明称2012年底推出并列多种容量，摄影日期2015-09-23。图像授权页面明确摄影者Evan-Amos自摄、全球PD声明、无署名要求。型号规格属于候选描述，不宜从图片许可字段推断其产品事实已经独立核实；该白底背面视图仅支持可见外观。Pass2 [21000:24500)：Super Slim简化字段重述了同一规格/PD许可。PlayStation Eye则是PS3动作相机，说明限于与PS Move配合用途；日期原始拍摄2016-12-04，Commons DateTime 2019-08-22。适合作为外围设备候选，不应替代主机本体图；授权字段尚需读完后确认。Pass2 [24500:28000)：Eye图明确属Evan-Amos自摄公有领域授权，全球PD声明，无署名要求。之后是Super Slim另一侧BR视图，同款白底后视图系列；MediaWiki日期2015-09-23，分类仍写PD-self。文件标题后缀只用于识别图像视角，不应扩大解释为型号地域代码。Pass2 [28000:31500)：Super Slim描述重申三代外觀變更与2012年底发布、容量选项；DateTimeOriginal为2015-09-23。摄影人自摄声明全球PD、无署名条件，许可与该系列视图相符。Pass2 [31500:35000)：前图信息摘要（PD、Evan-Amos、2015）后转为PS3两种机型对比照：左侧60GB“fat”原版带向下兼容/读卡器，右侧120GB Slim搭配DualShock3。拍摄日期2011-01-26，MediaWiki记录2011-01-27；该图能证明外形对比但规格只对应图注列出的具体机型。Pass2 [35000:38500)：PS3比较图许可字段明确Evan-Amos自摄PD、全球公有领域、免署名；标题/说明限定JPG版。随后对象竟是PS2 SCPH-5001 V9照片，和查询PS3的相关性低，不能因为出现在搜索结果就作为PS3配图。其日期及许可证需按独立对象审读，不能沿用前图授权。Pass2 [38500:42000)：PS2照片元数据类别和坐标均属该单独作品；葡语说明是一段冗长PS2来源史，具体发布日期/销售/板卡信息与PS3选图目的不相干且未经本任务核实。不得将含PS3字样的继任者句子当成主机图注证据。Pass2 [42000:45500)：该图注葡语重复PS2内部版本、BIOS修改、配色、薄机外形与销量等，描述主要是百科历史摘录。对当前PS3照片授权/产品事实没有增量，应保留在图像历史字段而非误移到PS3说明；版本号和极具体数字不要脱离原始来源。Pass2 [45500:49000)：葡语PS2概述结尾标注Wikipedia，后续英文百科同样从PS2概述其2000年发售、与PS3前后关系和PS2停止生产。图像与PS3相关仅限作为代际关联上下文；这些宽泛市场/销量断言不是PS3图中可见事实，且复制说明必须保留来源指向。Pass2 [49000:52500)：英文段讲PS2竞争与价格、PSN适配器和网络支持、2004 Slim换代/供货短缺，然后转向媒介和兼容说明。这是图注包含的百科式大段，且跨度跨越2000—2004；不能作为具体PS3照片的许可/型号证据，历史保留应注明原图说明冗长且异物混入。Pass2 [52500:56000)：PS2功能段列游戏/存储卡兼容、扩展口、HDD、视频音频输出与多次修订，并以“Source: Wikipedia”收束。大量具体端口/制式规格需留在其来源范围内，且这里只是PS2图片长描述的内嵌来源，不应挪用到PS3图注。Pass2 [56000:59500)：许可字段明确PS2图作者Deni Williams、Flickr信用、CC BY 2.0与署名要求，版权仍归权利人；拍摄时间2015-04-25。该授权独立于此文件夹内Evan-Amos的PD主机照；应避免照搬PS2长描述中的来源/限制到PS3条目。Pass2 [59500:63000)：同一PS2条目的葡语长描述延续到硬件内版、BIOS与配色、SCPH-70000薄机及销售数字，包含不流畅措辞和细节繁密的来源文本。记录其档案属性即可；作为PS3照片证据相关性很低，不能因文本内提及PS3继任关系而挪用。Pass2 [63000:66500)：葡语PS2销量叙述以Wikipedia来源标识结束，随后英文版重复PS2起源、畅销/停产、发售与竞品故事。这个混入内容只能说明图注保留了跨语言的历史文案，不具PS3照片或许可支持力。Pass2 [66500:70000)：百科文字继续记录PS2后续竞争、降价、网络生态和Slim换代供应史，含对Xbox/ GameCube的评价性比较。这类主观陈述应以引文来源和年代限定；与本图题PS3的主机内容/授权均无直接关联，不可将作者旧长文直接作为当前编辑事实。Pass2 [70000:73500)：英语PS2来源继续讲旧主机媒介/兼容、存储卡、扩展接口、视频输出、外壳颜色和Slim限制。范围和具体术语仍应锁定PS2；这部分并非PS3型号规格，且不同版本有差异，使用时不能概括成统一结论。"
+        },
+        {
+          "pass": 3,
+          "status": "complete",
+          "readRanges": [
+            [
+              0,
+              3500
+            ],
+            [
+              3500,
+              7000
+            ],
+            [
+              7000,
+              10500
+            ],
+            [
+              10500,
+              14000
+            ],
+            [
+              14000,
+              17500
+            ],
+            [
+              17500,
+              21000
+            ],
+            [
+              21000,
+              24500
+            ],
+            [
+              24500,
+              28000
+            ],
+            [
+              28000,
+              31500
+            ],
+            [
+              31500,
+              35000
+            ],
+            [
+              35000,
+              38500
+            ],
+            [
+              38500,
+              42000
+            ],
+            [
+              42000,
+              45500
+            ],
+            [
+              45500,
+              49000
+            ],
+            [
+              49000,
+              52500
+            ],
+            [
+              52500,
+              56000
+            ],
+            [
+              56000,
+              59500
+            ],
+            [
+              59500,
+              63000
+            ],
+            [
+              63000,
+              66500
+            ],
+            [
+              66500,
+              70000
+            ],
+            [
+              70000,
+              73500
+            ],
+            [
+              73500,
+              74482
+            ]
+          ],
+          "coverageRanges": [
+            [
+              0,
+              74482
+            ]
+          ],
+          "focus": "逐句文风候选及必要否定/历史保留理由",
+          "notes": "Pass3重点逐句确认候选边界：首项标题强调2008家用影音整体场景，结构化说明只列设备名；不能把列举当成对PS3单品的正面展示，也不能把Commons DateTime代替原拍摄日。历史保留理由：对象清单原样保留其2008场景证据与其他设备并列关系，来源 credit 的网页标记不属于作者正文。Pass3 [3500:7000)：第一项完整信用署William Hook/Flickr，许可CC BY-SA 2.0；历史使用须署名并遵守相同方式共享，不能把版权仍存在的许可淡化成无条件公域。第二项改为CECHA01白底主机+手柄，自摄类别及Evan Amos归属，后续确认其授权文本。句子中Commons结构化数据编辑图标/链接是网页渲染噪声，原文数据库可保留但面向读者文案可排除。Pass3 [7000:10500)：CECHA01说明把60GB、早期款、PS2硬件兼容及读卡器限定在该型号；拍摄日期2016-08-19不能与2006产品发布年混淆。许可声明明确Evan-Amos全球公有领域，无署名要求；作为摄影授权结论，应与此候选记录绑定。Pass3 [10500:14000)：CECHA01简化字段重复型号、年款/规格、Evan-Amos与PD状态；这不是新主张。下一候选耳机个人说明以口语第一人称记录聊天用途，涉及PS3只限使用情境；不应提升为主机同捆或Sony官方认证信息，地理位置/日期属于照片元数据。Pass3 [14000:17500)：耳机项精确归属William Hook/Flickr，CC BY-SA 2.0需署名且共享衍生作品同许可；保留口语叙述的第一人称/幽默表情可说明这是个人照片说明，不应润色成官方规格文案。后续转为Super Slim黑色主机白底照，上传日期2015；与耳机的许可分开。Pass3 [17500:21000)：Super Slim说明以对比句突出体积减轻与光驱装载方式变化，接着陈述发布时段/容量；这些措辞是Commons说明文字而非图像上可直接辨认的内部硬件。DateTimeOriginal是拍摄时间，避免改写为产品发布日。摄影者自摄且原文给出完整全球公域声明，保留授权陈述和“在某些国家未必法律上可能”的限定句，不应删掉其法律保留。Pass3 [21000:24500)：同一Super Slim简化信息重复前述外观和规格；随后是PS Eye透明背景相机图，说明具体称其为PS Move配套的PS3动作跟踪摄像头。日期两项分开：拍摄2016-12-04、媒体时间2019-08-22。Evan-Amos的自摄归属一致，但作为周边设备候选不要标成主机本体。Pass3 [24500:28000)：PS Eye许可段将摄影作品明确置于公有领域且无署名要求，引用时仍可礼貌署名但不应误记为法律条件。接下一个是Super Slim反向视图，源图名后缀BR不自动等于地域版本，说明文字仍然是与前图相同的泛型Super Slim历史描述。Pass3 [28000:31500)：BR视图说明再次说Super Slim为第三/最终硬件设计、滑门光驱和容量；这是文字重复，不是新型号证据。保留重复候选行可反映正反面两视角；摄影者、拍摄时间、PD状态需各候选归档，避免摘要去重时丢失视角/元数据。Pass3 [31500:35000)：BL条目短摘要重复规格后进入PS3比较图，图注区分60GB向下兼容/读卡器的原版与120GB Slim并配DualShock 3。句中“Shown with”是视觉搭配而非捆绑销售证据。日期2011-01-26拍摄，确认后续许可；不要把单个原版特征推广到Slim。Pass3 [35000:38500)：比较照声明Evan-Amos自摄且全球公有领域，含当地法律无法公域时的许可补充句，署名要求false。接下来候选题名明确为PS2 SCPH-5001 V9，说明其与当前PS3搜索主题不匹配；其中包含PS3继任文字也不会使主体变成PS3。历史审查应保留负面相关性。Pass3 [38500:42000)：PS2候选含地理坐标及葡语大段百科式产品史；其中关于PS3是PS2继任者的一句只是比较背景。原文的不自然术语、长句和细项是历史作者声音/来源痕迹；若保留，需标明PS2文字来源属性，避免压缩改写成PS3事实。Pass3 [42000:45500)：葡语说明逐句有明显非母语语法、长串部件/版本枚举与括号解释，还含“modchips piratas”等措辞；它属于PS2配图附带说明的历史原文，应保留其年代语境，不要为使之像现代PS3文案而默默规范化。销售数据叙述仍在继续。Pass3 [45500:49000)：一段葡语销量内容以“Fonte: Wikipedia”结束，再以English标题开始另一份PS2史叙述。这个显式语言/来源切换值得保留；英文中PS2作为PS3继任前身仅提供时代关系，不能让PS2照片充当PS3图。括号、脚注号与来源签标提示它是历史百科摘录而非原创作者对照片所见的完整描述。Pass3 [49000:52500)：英语段保持百科叙事长句，交替列竞争判断、价格和联网战略，再转向Slim型号供应链细节；其中有报告性措辞（reportedly）和评价用语（mediocre），呈现来源作者的限定/观点，保留时不可删去限定或伪装成中立产品参数。此段仍为PS2内容。Pass3 [52500:56000)：详细PS2兼容、存储卡、接口、HDD、分辨率/端子和配色段落夹有多种标准缩写，体现百科式密集列举；缩写/型号限制尤其不应删去，否则会把仅限部分版本/游戏的能力写成普遍承诺。长文收束处明确“Source: Wikipedia”，必须保留出处归属。Pass3 [56000:59500)：PS2候选的原始图像信息确认拍摄于2015-04-25，信用指向Flickr，Deni Williams来自巴西；CC BY 2.0要求署名但不含SA条件。说明结构把授权字段放在庞长的葡语文本前，编辑必须提取该作品对应license而非误套同文件搜索批次其他PD结果。Pass3 [59500:63000)：葡语段继续保留早期PS2 SCPH版号、PCMCIA、板卡版本差异、BIOS与介质、彩色版本及SCPH-70000尺寸/扩展限制，并出现“para impedir o uso de Modchips piratas”之类解释。历史引文的否定/限制语句不能删；这些细节属于PS2且不是本次主机图的可见证据。Pass3 [63000:66500)：葡语结尾列区域销量和带句点脚注编号后标“Fonte: Wikipedia”，随后英文标题引入第二套文字。英文开篇在PS2后紧接“in 2006 introduced the successor, the PlayStation 3”，属唯一直接PS3关联的一句；其功能是交代前后代关系，不是图注主体，应连同来源边界保留。Pass3 [66500:70000)：英文PS2段中的销量、DVD家影院定位、竞品评价和在线游戏论述为作者整理的背景叙事；“theoretically”“reportedly”等限定/归因语需保留，不能将观点变成无条件事实。末尾再次提及PS3前降价的PS2处境，属于继任产品时间对照。Pass3 [70000:73500)：英文百科史末段逐项列出PS2旧机供货/“reportedly”归因、播放与兼容功能、存储卡、端口及视频信号格式、外壳颜色和Slim款删除扩展仓所致限制。保留限定词（only certain models、may not、some games）很关键；这段不能作为PS3规格使用。"
+        }
+      ],
+      "nextPass": null,
+      "nextCharacter": null,
+      "remainingReason": "",
+      "priorCoverage": {
+        "model_visible_ranges": "[]",
+        "unread_range": "lines 1–736; chars 0–74482 (restart whole file unless exact prior intervals are supplied)",
+        "remaining_reason": "待后续批次继续首次全文阅读；原已见区间和需重读范围保留。 未向模型展示完整文件内容；未读区间为第1行–第736行（全文件）。分配清单共186份、约7.4 MB，在本轮可见输出与上下文预算内未能逐份完整读取；没有用关键词扫描或抽样替代全文审阅。",
+        "review_notes": "未审阅：全文未通读。",
+        "source_limit_note": ""
+      }
+    }
+  ],
+  "receipt": "docs/evidence/writing-style-2026-11-03/read-batches/T006-H006.json",
+  "completedAtUTC": "2026-11-03T15:18:40.195643+00:00"
+}

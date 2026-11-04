@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "batchId": "T006-H008",
+  "recordedAt": "2026-11-04T01:07:36.577959+08:00",
+  "sourceCommit": "b9c7783738e57b979757d3fb844c4394b44b2711",
+  "currentValidation": {
+    "fullTextFiles": 24,
+    "fullTextFilePasses": 72,
+    "keywordLinesReviewed": 861,
+    "keywordMatchesReviewed": 926,
+    "sourceHashesVerified": 1118,
+    "preservedInventoryHashes": 1263,
+    "csvRawDisplayOffsetMapping": "verified: CRLF 401, bare LF 11",
+    "diffCheck": "passed",
+    "recoveryQueue": "verified"
+  },
+  "standardTestsRunThisBatch": false,
+  "browserTestsRunThisBatch": false,
+  "previousStandardValidation": "h007-validation/summary.json",
+  "previousStandardResults": {
+    "build": "passed",
+    "lint": "passed",
+    "tests": {
+      "pass": 21,
+      "fail": 0,
+      "skipped": 0
+    }
+  },
+  "previousBrowserGroups": 34,
+  "sourceAndTestLogicChanged": false,
+  "execution": {
+    "existingAgentsReused": 6,
+    "newAgentsCreated": 0
+  },
+  "counts": {
+    "totalFiles": 1118,
+    "firstPassComplete": 1021,
+    "secondPassComplete": 156,
+    "thirdPassComplete": 156,
+    "firstPassPending": 97,
+    "secondPassPending": 962,
+    "thirdPassPending": 962,
+    "allThreeComplete": 156,
+    "allThreePending": 962,
+    "firstPassCompleteBytes": 16943754,
+    "firstPassPendingBytes": 29694180
+  },
+  "nextBatch": {
+    "id": "T006-H009",
+    "fileCount": 24,
+    "sourceBytes": 3423653,
+    "firstPath": "docs/catalog-content.tsv",
+    "lastPath": "docs/evidence/photo-expansion/round3/hamilton-pulsar-p1.wordpress.json"
+  }
+}
